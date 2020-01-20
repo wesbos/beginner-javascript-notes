@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-20T00:06:38.912Z'
+modified: '2020-01-20T00:28:22.611Z'
 ---
 
 # Module 1: The Basics
@@ -144,7 +144,26 @@ That is because in order for your script tag to access the elements on the page,
 
 If we try to select something that doesn't yet exist (because it gets created later), we won't have access to it.
 
-For your own sanity, always put your javascript right below the closing body tag. 
+For your own sanity, always put your javascript right below the closing body tag. (We will talk about loading in future videos when we get a little bit more into the DOM). 
 
- 
+Another way we can do it is via an external javascript file. If you go into the playground and make an external javascript file, called `some.js`. In that file, add the following code: `console.log('I am in another file')` and save.
+
+Now in the `running-js.html` file, remove the existing script block and instead add a script tag with a `src` attribute. You do not need a `type=` attribute until we hit modules. Inside of the `src=` attribute, you need to give it a relative path, like so `<script src="./some.js">`. This works because the HTML file is in a folder where the sibling is `some.js`. Dot forward slash `./` means in this folder. Dot dot `../` would mean go up a level. In our case, it's in the same folder so  `./some.js` is the relative path to our file. 
+
+Now if you run that, it will say in the console `I'm in another file`, and it will even show you where that javascript had been run.
+![](@attachment/Clipboard_2020-01-19-19-18-45.png)
+
+Again, if you were to put the script inside the HEAD, it will still work. 
+![](@attachment/Clipboard_2020-01-19-19-19-54.png)
+
+However, if you were to try to select some things on the page, such as the paragraph tag, you will get null. 
+
+![](@attachment/Clipboard_2020-01-19-19-19-39.png)
+
+
+stopped @ 5:54 of 03 - Running & Loading JS 
+
+
+
+
 

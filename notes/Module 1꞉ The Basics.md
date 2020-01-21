@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-20T00:28:22.611Z'
+modified: '2020-01-21T01:07:51.260Z'
 ---
 
 # Module 1: The Basics
@@ -160,8 +160,241 @@ However, if you were to try to select some things on the page, such as the parag
 
 ![](@attachment/Clipboard_2020-01-19-19-19-39.png)
 
+Why? Because of the same reason. The script will run before the actual HTML is finished building on the page. Now there are some options like the `async` and `defer` attributes you can add to your script tags that will delay the actual running of the javascript, and it will download it asynchronously and then run it once the HTML has been loaded, however that is a much more advance topic which we will get into once we discuss async. But first we will need to understand what does asynchronous mean, etc. 
 
-stopped @ 5:54 of 03 - Running & Loading JS 
+Leave the script tag right before the closing body tag for the best performance and to save yourself future debugging headaches. 
+
+Another thing you may have noticed is why is there a closing script tag if there is no content inbetween the opening and closing tag? That is a quirk with the script tag. It cannot be self closed. You also cannot add extra javascript between the script tag like so: ![](@attachment/Clipboard_2020-01-19-19-40-13.png) That will not work. 
+
+You can have multiple script tags, if you like. The only downside to that is that every single time that it hits one of those, it will go off and download and parse that for you. When we hit modules, we will look at how we can bundle those multiple files into one. Or you can do something called code splitting, which is split them into multiple, smaller javascript files, and have them load on demand. 
+
+One more is actually running it in NodeJS. 
+
+If you create another file in the playground called `node-example.js` and add in the following code: `console.log('I'm from node')`. 
+
+NodeJS is javascript that can run in the server. So instead of running javascript on a website, we run it on an actual machine (like many other programming languages do).
+
+The way we do that is we open our terminal and cd into the playground directory. You can run the script in node by entering the following in the terminal: `node node-example.js` and hitting enter. That will run whatever code is in the script file, and once it's done, it will exit out of node and return you to the terminal.
+
+![](@attachment/Clipboard_2020-01-19-19-45-44.png)
+
+That's the short of how to load javascript. We will be using a mixture of running javascript in the console, in a script tag and in external javascript files. 
+
+
+---
+
+## 04 - Variables and Stateements
+
+This video is going to teach you an introduction to variables. Variables are a building block of javascript, and you can't use javascript without knowing variables so we are going to get a primer on what they are, what the different types of them are, what declaration means as well as what a statement is in javascript.
+
+Go into your `/playground` folder and make a new file called `variables.html`. Use the HTML base snippet and add a script tag within the body. To make sure everything is working, add a `console.log('hey');` within the script tag. Wes will explain the use of the semi colon shortly. 
+
+If you open up the `variables.html` file in the browser, you should see 'hey' in the console. 
+
+![](@attachment/Clipboard_2020-01-20-19-31-26.png) 
+
+There are three different ways to make a variable, which in Javascript we refer to as declaring a variable. They are: `var`, `let` and `const`. 
+
+Let's start with `var`. To make a variable you say `var` and then you make a name of the variable. You can use almost anything for a variable name (we will discuss restrictions shortly)
+
+```javascript
+var first = 'wes' 
+```
+
+What we have done there is created a new variable called `first` and we set it to a string (we will discuss what that is in a second) of 'wes'.
+
+Now, if you refresh the `variables.html` page, and type into the console `first`, you will see that we actually get the value that is inside of that variable. 
+
+![](@attachment/Clipboard_2020-01-20-19-39-40.png)
+
+You can also do it by doing a console.log like so:
+
+```html
+<body>
+<script>
+  var first = 'wes';
+  console.log(first);
+</body>
+```
+
+The second way to delcare a variable is with `let`.     
+
+Add `let age = 300;` below the declaration of the variable `first`. 
+
+If you refresh `variables.html`, and type in age, you will see 300 returned in the console. 
+
+The third way is with `const`. Below the `age` variable, add the following: `const cool = true;`. That is what is called a constant variable.
+
+The naming of these things aren't great. Const means constant, but it's still called a variable. `var`, `let`, `const` are all different types of variables, and there is different ways to declare the variables and we will talk about the pros and cons to all of them in just a second. 
+
+Before we do that, let's discuss the semi colon Wes is adding after each javascript line. 
+
+![](@attachment/Clipboard_2020-01-20-19-47-16.png)
+
+These semi-colons are used to terminate the line of javascript. 
+`var first = 'wes';` is what is refered to as a "statement" in javascript. A statement is an instruction  to the computer, browser, the javascript interpreter to do something. 
+
+This can usually be summarized as a variable was being declared, a variable was being updated, a function was being called, something was console.logged. 
+
+Anytime  you want to do something in javascript, that is referred to as a statement. When you are done your statement, you add a semi-colon to the end of the line. 
+
+```js
+var first = 'wes'; //variable declaration statement
+let age = 300;
+let cool = true;
+console.log(first); //function call statement
+```
+
+One thing that we will run into in javascript is something called a "code block". 
+
+For example, add the following line of code to `variables.html` and refresh the page
+
+```js
+if(age > 10){
+  console.log('you are old');
+}
+```
+
+You should see the message "you are old" in the console. 
+
+The question is how come we didn't put the semi-colons after each line like this: 
+```js
+if(age > 10){;
+  console.log('you are old');
+};
+```
+
+That is because it's something that is referred to as a code block. Code blocks are things that are bound by these curly brackets `{` and `}`.  
+
+Things like function definitions, if statements, loops do not need a semi-colon at the end because you aren't telling the computer to do something, you are just running some code and you are telling the computer to do something inside of it. 
+
+Throughout the course Wes will continue to mention why we do and do not use the semi-colon so you can get the hang of it.
+
+It is possible to get away without writing semi-colons in javascript because there is something in javascript called ASI, which is automatic semi-colon insertion but we are not cover that because it's a much more advanced topic. Devs use don't use semi-colons know how ASI is working and they take advantage of that. That is totally fine, but it's best to learn javascript with semi-colons. 
+
+
+Let's talk about the difference between the three types of variables. 
+
+Remove all the extra javascript code within `variables.html` except for:
+
+```js
+<script>
+  var first = 'wes'; //variable declaration statement
+  let age = 300;
+  let cool = true;
+</script>
+```
+
+
+stopped at 6:11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

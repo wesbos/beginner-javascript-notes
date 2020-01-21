@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-21T01:07:51.260Z'
+modified: '2020-01-21T03:08:16.031Z'
 ---
 
 # Module 1: The Basics
@@ -279,42 +279,145 @@ Remove all the extra javascript code within `variables.html` except for:
 
 ```js
 <script>
-  var first = 'wes'; //variable declaration statement
+  var first = 'wes'; 
   let age = 300;
   let cool = true;
 </script>
 ```
 
+So `var` and `let` can be updated. If you ever want to change what the value is of one of those variables, you can simply just change it. For example, if you add the following line of javascript, refresh `variables.html` in the browser and type `first` in the console, you should see the value `westerhoff` returned. 
 
-stopped at 6:11
+```html
+first = 'westerhoff';
+</script>
+```
 
+![](@attachment/Clipboard_2020-01-20-20-17-03.png)
 
+The same can be done with the age variable. 
 
+For example type in the console `age = 400`. That updates the value of the `age` variable. 
 
+![](@attachment/Clipboard_2020-01-20-20-19-01.png)
 
+You can either run the javascript from the `variables.html` page, or you can run them from the console. Because the variables in `variables.html` are global variables (we will cover what that is in a future video), we can modify the either in the script tag within `variables.html` or directly from the console. 
 
+Notice that we do not have to redeclare the variable. We did *not* have to do something like this:
 
+```js
+var first = 'wes';   
+let age = 300;
+let cool = true;
 
+var first = 'westernhoff';
+```   
 
+That is actually a bad practice and in most cases, won't even work. You only need to declare the variable with `var`, `let`, or `const`, and then whenever you want to update the value, you don't need to put that infront of it, you can just go ahead and set it to it's new value. 
 
+You CANNOT set a const variable to be something else. If you were to go `cool = false`, you will see the following error: ![](@attachment/Clipboard_2020-01-20-20-23-21.png)
 
+Errors in javascript will tell you what went wrong and where it went wrong. Here it says "Uncaught TypeError: Assignment to constant variable on Line 18.". Now that is exactly what we did, we tried to change a variable that was set to a constant. Constant variables cannot be changed, so think of them like an API key or something that you never want changed. You set those to a constant, and the value of that variable can never be changed. Now, that is not totally true, we will follow up when we hit arrays and objects (meaning that there is a difference between the array or object that it is bound to and the values that live inside of it). What we need to know right now is just that `var` and `let` variables can be changed or updated, and `const` variables cannot. 
 
+The next thing you need to know about variables is this thing called **Strict Mode**. 
 
+TIP: While in your code editor, you can select a block of text and on your keyboard press `Command` + `/` to comment out your code. Commenting out code makes your browser skip that code. It'll still be there, but the browser will not run it. 
 
+If you put this code in the script tag, refresh `variables.html` and write dog in the console, the console will return the value of "snickers". 
 
+```
+<script>
+    // var first = 'wes';   
+    // let age = 300;
+    // let cool = true;
+    
+    // first = 'westerhoff';
+    // cool = false;
 
+    dog = 'snickers';
+  </script>
+```
 
+We made a variable even though we did not `var`, `let`, or `const` it. What is going on? How can that happen? 
 
+Now if we go to the top of our opening script tag, and add `use strict;` and then refresh the page, we will see the error "dog is not defined". 
 
+![](@attachment/Clipboard_2020-01-20-21-30-55.png)
 
+In the early days of javascript, it was possible to create a variable without first declaring it, and the browser would just add the var on behalf of the user. That leads to bad code down the road, it's pretty sloppy and it's not something that you want to do. So what happened? Javascript still supports the old method of not declaring a variable because it has to be backwards compatible with early javascript code. But they can introduce new modes into the browser like strict mode, which will throw an error if you try to do something like not declaring a variable properly. 
 
+```
+var dog = 'hugo';
+dog = 'snickers';
+```
 
+First you are declaring the variable dog and then updating it with the value of snickers. 
 
+Another thing you can do is just declare a variable and then update it on the next line like so: 
 
+```
+var dog;
+dog = 'snickers';
+```
+That will work because what happens here is if you comment out the second line so it's just `var dog;` and refresh `variables.html`, when you type dog into the console you will have the value of undefined returned to you. 
 
+![](@attachment/Clipboard_2020-01-20-21-36-56.png)
 
+Strict mode is useful but we won't be typing it every time in this course because we are going to be following best practices and it is enforced by default when you are using javascript modules, and modules are probably how you are going to be writing all of your modern javascript.
 
+Now let's talk about the second difference between `var`, `let`, and `const`, which is scoping. 
 
+Clear your javascript code until it's back to the three variables we had at the beginning.
+
+```
+ var first = 'wes';   
+ let age = 300;
+ const cool = true;
+```
+
+Scoping in javascript answers the question "Where are my variables available to me?". We are going to have an entire section of this course focused on scoping because it's such a fundamental part of javascript, but for now we need to know that:
+
+`var` variables are scoped differently than `let` and `const` variables.
+
+`var` variables are what we refer to as function scoped variables. 
+
+`let` and `const` variables are what we refer to as block scoped variables. 
+
+What does this mean?!
+
+We are going to learn what blocks and functions are in the future. Since we haven't covered that yet, just put that on ice temporarily. Just know that var variables are function scoped (they are only available within the parent function), and `let` and `const` are block scoped {}. We will continue on in the functions and block video about this. 
+
+The question is, what are we going to be using in this course?
+They are all valid. `let` and `const` were introduced as part of what is called es6, which is only a couple of years old. `var` has been around since javascript has been invented. 
+
+You may sometimes see people say `var` variables are old or deprecated, but they are not. It's just that some developers (Wes included) prefer to use `let` and `const` because the block scoping makes more sense as well the benefit of assigning a constant value to these constants and not accidentally overwriting a variable which can lead to bugs. 
+
+Here is how Wes' approaches deciding which of the three to use:
+
+- He uses `const` by default. Anytime he is assigning a new variable, he just defaults it to `const` because he doesn't know if he'll need to be updating that or not. 
+- If he needs to change a value of a variable, he will use a `let`. Sometimes he will make a variable `const` and then realize he needs to update it so he will make it a `let`.
+- Wes almost never uses a `var` variable. There are some exceptions like when declaring a variable outside of a block but we will go into more detail about that shortly. 
+
+Last thing we need to talk about is **naming conventions**.
+
+What can you call your variables? As a convention, variables should not start with a capital. For example `const Dog = 'bowser';` will work in the browser, it's not wrong, it's not broken javascript, but it's convention that variables should not start with a capital unless they are a class (we will get into that once we get into classes, prototypes and things like that). 
+
+Variables must start with either an a-Z letter (a,b,c,d etc). They can also start with or contain an underscore `_` or dollar sign `$`. 
+
+For example you could do `const $$$$$$$$ = 100;` and it would work. A variable like `$_$` would also work. 
+
+`$` and `_` are the only non a-Z characters that can be used inside of variables. 
+
+The `_` is sort of synonymous with a library called lowdash, and the $ is sort of synonymous with a library called jQuery so you don't normally make your variables called $ or _ because they have sort of been taken as a convention. You can however certainly include them if you want.
+
+If a variable is made up of two words, for example `const iLovePizza`. This is referred to as camel case. With camel case, every word inside of your variable will contain an uppercase except for the first one, for the reasons we just talked about. Upper camel case is where you do start it with a capital (ILovePizza), however that is almost never used in Javascript unless you are defining a class. 
+
+ There is also something called Snake Case. Instead of using capitals between words, you use underscores. For example `const this_is_snake_case = 'cool';`.
+
+ There is also something called kebab case, for example `const this-is-kebab-case` but this is **not** allowed in javascript. 
+
+ Most developers will always use camel case, UpperCamelCase if you are building a class, some people like underscores and kebab case is not allowed. 
+ 
+  
 
 
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-21T03:08:16.031Z'
+modified: '2020-01-21T03:09:12.843Z'
 ---
 
 # Module 1: The Basics
@@ -413,11 +413,20 @@ If a variable is made up of two words, for example `const iLovePizza`. This is r
 
  There is also something called Snake Case. Instead of using capitals between words, you use underscores. For example `const this_is_snake_case = 'cool';`.
 
+```  
+//camel case
+const iLovePizza = true;
+// UpperCamelCase
+const ILoveToEatHotDogs = false;
+//snake case
+const this_is_snake_case = 'cool';
+``` 
+
  There is also something called kebab case, for example `const this-is-kebab-case` but this is **not** allowed in javascript. 
 
  Most developers will always use camel case, UpperCamelCase if you are building a class, some people like underscores and kebab case is not allowed. 
- 
-  
+
+
 
 
 

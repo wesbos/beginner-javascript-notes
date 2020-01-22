@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-22T00:21:24.049Z'
+modified: '2020-01-22T01:45:38.910Z'
 ---
 
 # Module 1: The Basics
@@ -525,6 +525,8 @@ There are a few things we need to do before we can get going.
 
 We are going to follow the instructions located at https://github.com/wesbos/eslint-config-wesbos. You can install this globally or per project. What Wes does is he usually installs it globally so that all the projects he works on are covered, and then for each individual project that is more than a demo, he installs it locally. 
 
+![](@attachment/Clipboard_2020-01-21-20-06-17.png)
+
 We will be installing it locally per project, because that is the way you probably should do it for all of yoru projects. 
 
 If you don't already have your package.json, create one by typing into the terminal  `npm init`. We will be talking about NPM later in this course, but essentially NPM allows us to download what are called "dependencies", which is other people's javascript packages that allow us to do things. We need other people's javascript packages. We need ESLint, we need Prettier, we need Wes' config. SO in order for that to work, we need what is called a `package.json` file which is going to hold a list of all of the other things in javascript that we need. 
@@ -537,31 +539,125 @@ Then we need to go ahead and install all of our dependencies for this thing. Go 
 
 `npx install-peerdeps --dev eslint-config-wesbos`
 
-After about a minute or so, it will go ahead and copy all of your files. 
+After about a minute or so, it will go ahead and install all of your files.
 
-Stopped @ 9:35
 ![](@attachment/Clipboard_2020-01-21-19-20-45.png)
 
+If you take a look at your file system, you will see that there is this new folder called node_modules and inside there are a whole bunch of dependencies. We're not going to get into what that is just yet, that will be coming in our modules lesson. For now, all we need to know is it contains all of the javascript that makes ESLint and PRettier run. 
+
+Next we need to make a new file within the `beginner-javascript` folder, called `.eslintrc`. This is what is called a "dot file". Soemtimes your computer will hid edot files from you because they are typically just files that developers use under the hood. Since we are developers, we do not want to hide those files. If you have trouble seeing that file in your file system, do a quick google of "Showing hidden files Mac" or "show hidden files Windows" and it will show you how to flip that on. 
+
+Inside of your `.eslintrc` file, copy the following: 
+
+```
+{
+  "extends": [
+    "wesbos"
+  ]
+}
+```
 
 
 
+![](@attachment/Clipboard_2020-01-21-20-16-57.png)
 
 
+We are going to extend "wesbos", which means we are going to extend all the settings and plugins that Wes has packed into his own config. That is really all we need right now. 
 
 
+Next, what we need is to get it running with VS Code. Scroll down in Wes' instrucitons to the **With VS Code** section. 
 
+![](@attachment/Clipboard_2020-01-21-20-15-45.png)
 
+First thing yo unede to do is install the Eslint package for VS Code. 
 
+`Ctrl` + `Shift` + `X` will get you to the list of extensions in VS Code. You want to search eslint, and you will see a whole bunc hof different ones, but the one you want is just called ESLint. You'll know it's the right one because it has billions (just kidding, millions) of installs. Go ahead and click the Install butotn.  
 
+Now what we need to do is setup some VS Code settings. Within VS Code, in the right hand corner, navigate to Code > Preferences -> Settings. If you're on Windows, that would be File -> Preferences and then you should see one called Settings.
 
+![](@attachment/Clipboard_2020-01-21-20-18-42.png)
 
+That should open up the settings section in VS Code like so: 
 
+![](@attachment/Clipboard_2020-01-21-20-21-21.png)
 
+What you want to do is click on the curly brackets in the top right hand corner: 
+![](@attachment/Clipboard_2020-01-21-20-22-00.png)
 
+That will open up the text based version of your settings. 
 
+![](@attachment/Clipboard_2020-01-21-20-22-39.png)
 
+Simply just copy all of the settings from Step #2 of the "With VS Code" instructions found on Wes' config file (https://github.com/wesbos/eslint-config-wesbos). Go to the very end of the settings.json file in VS Code, and after the last value, add a comma and then paste in the settings we just copied. 
 
+![](@attachment/Clipboard_2020-01-21-20-25-11.png)
 
+Let's go through the settings really quickly. 
 
+`editor.formatOnSave:true`: turns on the format on save.
+```
+"[javascript]": {
+  "editor.formatOnSave":false
+}
+```
 
+The section above turns off formatting on save for javascript (in another similar setting we turn it off for javascriptreact). 
+
+`eslint.autoFixOnSave:true`:  This tells the ESLint plugin to run on save. If you don't do that, sometimes there are built in plugins with VS Code where they start to clash and they both want to try to fix your code. The built in one on VS Code is called Beautifier and it doesn't do as good of a job as ESLint and Prettier, so what the settings are doing is turning off the editor format on save for javascritp and for javascriptreact and using the ESLint fix on save instead. 
+
+Finally, this is important: if you already have a prettier extension enabled, you want to disable it for javascript and javascriptreact using the following setting:
+
+```
+prettier.disableLanguages": ["javascript", "javascriptreact"],
+```
+
+Why? Because we are using Prettier not through the Prettier plugin, but through the ESLint plugin. 
+
+This stuff can get confusing and be a real bummer, so if you get stuck or have trouble, watch the video again and check out Wes' troubleshooting tips in Wes' config file instructions. 
+
+The way that you can tell that it is working, is if you now go to any sort of javascript file, add extra whitespace between variables and equal signs and then save the file. 
+
+If it isn't working, you can click on ESLint in the bottom corner and it will often tell you what the issues are with it actually running.
+
+![](@attachment/Clipboard_2020-01-21-20-37-42.png)
+
+Another thing that can happen, is these squiggly underlines: 
+
+![](@attachment/Clipboard_2020-01-21-20-39-39.png)
+
+That is actually ESLint telling you what has happened. If you hover over it, it will actually tell you what has happened. ESLint won't automatically fix these problems for us on save, it just explains what the issue is and then it's up to you to make a decision on how to solve it. 
+
+If you modified the code to be `let age = 100;` ESLint will give you a warning saying you used a let but never modified the value, maybe you wanted to use a const instead. If you modify the code to be `const age = 100;`, the underline under the age variable will be yellow and the warning will say `'age' is assigned a value but never used. eslint(no-unused-vars)`. 
+
+![](@attachment/Clipboard_2020-01-21-20-42-53.png) 
+
+Red is an error, and yellow is just a warning. 
+
+We will be using that a lot during this course. If throughout the course there is a setting you really don't like, you can go ahead and modify the `.eslintrc` file to disable that rule. 
+
+That works by creating a "rules" property like so:
+
+```
+{
+  "extends": [
+    "wesbos"
+  ],
+  "rules": {
+    "no-console": 2,
+    "prettier/prettier": [
+      "error",
+      {
+        "trailingComma": "es5",
+        "singleQuote": true,
+        "printWidth": 120,
+        "tabWidth": 8,
+      }
+    ]
+  }
+}
+```
+ 
+You can set rules to 2 if you want them to error, 1 if you want them to warn and 0 if you want to ignore that rule entierly. 
+
+If you get stuck, try for about 20 minutes and if you are still stuck, jump into the Slack chatroom and ask for help.
 

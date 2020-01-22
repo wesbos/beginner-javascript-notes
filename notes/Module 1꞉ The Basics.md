@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-21T12:33:42.811Z'
+modified: '2020-01-22T00:21:24.049Z'
 ---
 
 # Module 1: The Basics
@@ -517,15 +517,30 @@ You can use ESLint and Prettier separately. But what Wes likes to do is use ESLi
 
 The thing with ESLint is you install it, and then you spend the rest of your life configuring it based on the hundreds of possible rules. You can go ahead and do that, but it's likely that you want to pick someone else's settings that you already like. That is exactly what Wes did. He made a config that is a set of ESLint rules, as well as the Prettier plugin which will do the formatting for you, all bundled into one so you can hit the ground running with thta config. As you start to develop your own opinions for what you like, you can sort of overwrite those one by one. 
 
-Stopped # 7:30
+Let's get into installing Prettier and ESLint.
 
+Go into the terminal, and use it to navigate to the `beginner-javascript` directory. If you don't know which directory you are currently in, enter `pwd` in the terminal and it return the directory that you are currently in. 
 
+There are a few things we need to do before we can get going. 
 
+We are going to follow the instructions located at https://github.com/wesbos/eslint-config-wesbos. You can install this globally or per project. What Wes does is he usually installs it globally so that all the projects he works on are covered, and then for each individual project that is more than a demo, he installs it locally. 
 
+We will be installing it locally per project, because that is the way you probably should do it for all of yoru projects. 
 
+If you don't already have your package.json, create one by typing into the terminal  `npm init`. We will be talking about NPM later in this course, but essentially NPM allows us to download what are called "dependencies", which is other people's javascript packages that allow us to do things. We need other people's javascript packages. We need ESLint, we need Prettier, we need Wes' config. SO in order for that to work, we need what is called a `package.json` file which is going to hold a list of all of the other things in javascript that we need. 
 
+To create the `package.json`, you simply just type `npm init` in the terminal and press enter. You will now be prompted to enter a package name, description, keywords etc but you can just press enter to skip setting those values for now. 
 
+![](@attachment/Clipboard_2020-01-21-19-18-03.png)
 
+Then we need to go ahead and install all of our dependencies for this thing. Go ahead and copy the line of code in step 2 of instructions to install per project. 
+
+`npx install-peerdeps --dev eslint-config-wesbos`
+
+After about a minute or so, it will go ahead and copy all of your files. 
+
+Stopped @ 9:35
+![](@attachment/Clipboard_2020-01-21-19-20-45.png)
 
 
 

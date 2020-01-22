@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-22T01:45:38.910Z'
+modified: '2020-01-22T22:08:30.749Z'
 ---
 
 # Module 1: The Basics
@@ -660,4 +660,29 @@ That works by creating a "rules" property like so:
 You can set rules to 2 if you want them to error, 1 if you want them to warn and 0 if you want to ignore that rule entierly. 
 
 If you get stuck, try for about 20 minutes and if you are still stuck, jump into the Slack chatroom and ask for help.
+
+---
+
+## 06 - Types - Introduction
+
+So far, we have just been assigning values to variables, such as numbers, text, true or false. What are all those things, and what are all of the different posisble options that we have? These are referred to in Javascript as **Types**.
+
+Anytime that you have a value  (a value is something that can be stuck inside of a variable, or passed to a function), it will fall into 1 of the 7 javascript types.
+
+The types in Javascript can be remembered using the word `SNOB'N'US` (just kidding, that is pretty hard to remember).
+
+The 7 Different Types in Javascript are:
+1. **String** - a string is anytime that you have some text (you will often see that in a single or double quote or a backtick) 
+2. **Number** - a number (regarldess of whether it has a decimal place in it. Some programming languages have multiple types to deal with numbers, but Javascript only has the one.)
+3. **Object** - This is a special one, we will go over this one last. Everything in Javascript is an object, and we will understand what that is when we start to hit methods. Everything that we use like functions, dates, and arrays are just objects at the end of the day. All the other types except for object are referred to as the "primitive types". 
+4. **Boolean** - true or false
+5. **Null** - can be used to set a variable to nothing (we will discuss difference between undefined and null shortly)
+6. **Undefined** - can be used to set a variable to nothing (we will discuss difference between undefined and null shortly)
+7. **Symbol** - this is a new one  to javascript, and it will always give us a guaranteed unique identifier. This is useful for when you are trying to come with a unique identifier inside of an object and you want to make sure you are not also overwriting something that already exists with that id. 
+
+
+---
+
+## 
+
 

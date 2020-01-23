@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-22T22:08:30.749Z'
+modified: '2020-01-23T00:16:28.012Z'
 ---
 
 # Module 1: The Basics
@@ -683,6 +683,173 @@ The 7 Different Types in Javascript are:
 
 ---
 
-## 
+## 07 - Types - Strings
+
+Create a new file called `types.html` and we will use our HTML base snippet. Add the following code:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="../base.css">
+</head>
+
+<body>
+
+  <script src="./types.js"></script>
+</body>
+
+</html>
+```
+
+Create a new file called `types.js`, add a console log such as `console.log('it works')` and save the file. Now open `types.html` in a browser and open the console to test that it works. 
+
+ Strings are used for holding text. THere are three different ways to create strings in javascript:
+ 1. Single Quotes `'text'` 
+ 2. Double Quotes `"text"`
+ 3. Backticks `` `text` `` 
+ 
+Add the following to your `types.js` file:
+
+```
+const name = "wes";
+const middle = "topher";
+const last = `bos`;
+```
+
+When you save the file, you might notice that our double quotes were replaced with single quotes because of our ESLint rules. We want to disable that, which you can do by adding a comment. 
+
+This is a different kind of comment than this style `//comment` which Wes' has already showed us. The two forward slashes comments out the entire line. You can also put a double slash comment at the end of a line. But a forward slash star (`/*`) comment will open up what is called a block comment. You can close the block comment anywhere you wish to close it (it can be multiple lines). 
+
+To disable the ESLint rule, we will use a block comment even though the comment only spans one line, because that is what ESLint is looking for. 
+
+On the first line of `type.js` add the following block comment `/* eslint-disable */`. Now, if you take the value of `'topher'` and put the double double quotes back around `"topher"` and save the file, the double quotes should remain because we have disable ESLint for the entire file. (It is possible to disable ESLint for just one line.)
+
+What is the difference between single quotes, double quotes and backticks? 
+
+For Wes' Prettier settings, he usually sticks with single quotes or backticks. He has been considering switching to just using backticks entirely. 
+
+Single quotes and double quotes are exactly the same thing. The only reason that we have them both is because if you were having a sentence like `const sentence = 'she's so cool';`, it would break your javascript because the javascript interprets the apostraphy as closing the string. If you were to make that change, save the file and then refresh `type.html`, you will see an error that says 
+>Unexpected identifier
+
+ ![](@attachment/Clipboard_2020-01-22-18-26-09.png)
+
+ In that case, there are a few things we can do. First, we can do something called escaping. Escaping in javascript allows you to tell javascript "No, I actually want this character, don't interpret it as javascript syntax, interpret it as text. Escaping is done with a backslash. For example, change that line of code to be `const sentence = 'she\'s so cool';` and refresh the page. This can get annoying. Another challenge is what if you actually want a back slash in your text? You would have to escape it like so: `'she\'s so cool \\';`
+
+ The other better option is to just use double quotes instead, so the apostrophy doesn't get interpreted as the end of the string. 
+
+Another bummer is sometimes you want to use both, for example let's say you wanted text that said `"she's so "cool""`. You would have to escape the double quotes like so: `"she's so \"cool\"";`
+
+The third option is using backticks. With backticks, you could simply do `` `she's so "cool"`; ``. The only downside to this approach is if you needed a backtick in your string, you would need to escape it like so:
+
+![](@attachment/Clipboard_2020-01-22-18-37-26.png)
+
+That is one of the benefits to using backticks. 
+
+#### Putting String on Multiple Lines
+
+The next thing is putting strings on multiple lines. Let's say you wanted to add the following song as multiple lines of text:
+
+![](@attachment/Clipboard_2020-01-22-18-38-25.png)
+
+You can see that the editor is complaining about the string not being closed properly. How do you do multi-line strings? If you want to, you have to put a forward slash at the end of every single line, and that will allow you to put a string on multiple lines.
+
+![](@attachment/Clipboard_2020-01-22-18-40-20.png)
+
+![](@attachment/Clipboard_2020-01-22-18-40-30.png)
+
+The benefit to using backticks is you can have multi-line strings and they maintain the line breaks inside of them. 
+
+![](@attachment/Clipboard_2020-01-22-18-41-29.png)
+
+Sometimes the console will return the value like this `"Ohhh↵↵ya↵↵I like↵pizza"`. Those arrows indicate a new line. 
+
+That will be extremely helpful when we want to make HTML. For example, you can do something like this:
+```
+const html = `
+  <div>
+  <h2></h2>
+  </div>
+`;
+```
+Before backticks were introduced, the only thing you could use to achieve that is concatination. 
+
+Another benefit of backticks is interpolation and concatination. Let's define those.
+**Concatination** is when two or more strings are combined into one. 
+**Interpolation** is when you put a variable inside of a string.
+
+In `type.js` add `const hello = "hello my name is. Nice to meet you";`. Let's say we wanted to add our name to the end of the "hello my name is." sentence. 
+
+Previously, with single and double quotes, what you have to do is close the quote, put a plus (which is concatination), and then you put your variable, and then another plus like so: `const hello = "hello my name is" + name + ". Nice to meet you.";`. That is one way of interpolation (using concatenation) (You could do the same thing with single quotes, like mentioned previously, there is no difference between the two types of quotes)
+
+Here is yet another way to do this:
+
+```
+let hello2 = 'hello my name is ';
+hello2 = hello2 + name; 
+hello2 = hello2 + ' Nice to meet you';
+```
+
+That is just annoying, because we are just overwriting the variable each time (we are overwriting it with the value of the variable, plus an addition).
+
+Both approaches to interpolation are not the greatest. 
+
+The `+` sign does two things in javascript. If you use it with a string, it is used for concatenation. But it is also used to add numbers (`1 + 1 = 2`).
+
+But if you do `"1" + "1"`, it will evaluate t `"11"`. 
+If you do `"1" + 1`, it will evaluate to `"11"`.
+
+![](@attachment/Clipboard_2020-01-22-19-02-19.png)
+
+That is ripe for bugs, so that is where backticks come in with a much nicer solution. 
+
+With backticks, you can interpolate the string like so:
+```
+const hello = 'hello my name is ${wes}. Nice to meet you'
+```
+
+The `${}` syntax can only ever be used in backticks. It is the easiest way by far to pop a variable into a string.
+
+Almost anything can go between the curly brackets (`{}`) in that syntax. For example, you can do math. 
+
+```
+const hello = `hello my name is ${name}. Nice to meet you. I am ${1+100} years old';
+```
+
+Javascript will run whatever is inside of the curly brackets in that syntax (whether it is a variable or an actual statement) and it will return the value that's inside of it.
+
+To reiterate: you can do multiple lines with backticks, variable interpolation, and then there is something a little more advanced that is called a tagged template literal, but we are not going to get into that because we haven't got into functions just yet.
+
+Finally, this will be very helpful for creating HTML.
+
+We can do something like:
+
+```
+const html = `
+  <div>
+    <h2>${name}</h2>
+    <p>${hello}</p>
+  </div>
+`;
+```
+
+Now we have all of this html that we have made, and if you add a `console.log(html);` and reload `type.html`, you will see:
+
+![](@attachment/Clipboard_2020-01-22-19-12-50.png)
+
+We can actually do something like this with the html we just created (we will discuss what this means in future videos). Add the following code below the html variable:
+
+`document.body.innerHTML = html;`
+
+When you refresh `types.html` you should see something like the following:
+
+![](@attachment/Clipboard_2020-01-22-19-15-54.png)
+
+We have just made some HTML! If you inspect the html, you will see it's regular html. 
+
 
 

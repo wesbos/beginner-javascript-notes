@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-25T00:15:41.993Z'
+modified: '2020-01-25T00:20:45.697Z'
 ---
 
 # Module 1: The Basics
@@ -1010,5 +1010,19 @@ That is something you will run into if you try to do math with something that is
 
 ## 09 - Types - Objects
 
+Objects in javascript are the biggest building block, meaning everything in javascript is an object. 
+Objects are used for collections of data or collections of functionality. 
+
+We will be going through objects in depth in this course, there is an entire section dedicated to them and we will be using objects throughout all of our examples.
+
+For now, you need to know that when someting is an object in javascript, it's becuse we want to group things together. Up to now, we have been using random variables like `const name = 'wes'` or `const age = 100;`. That is not the best way to do things, because the values are not associated. What we can do instead is create an object like 
+
+```
+const person = {
+
+};
+```
+
+finished @ 1:17
 
 

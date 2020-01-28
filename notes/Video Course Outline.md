@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-01-28T01:14:39.747Z'
+modified: '2020-01-28T22:51:35.260Z'
 ---
 
 # Video Course Outline
@@ -19,10 +19,10 @@ Module 1: The Basics
 8. ~~Types - Numbers~~ (11:26)
 9. ~~Types - Objects~~ (4:01)
 10. ~~Types - null & undefined~~ (4:58)
-11. Types - Booleans & Equality (5:47)
+11. ~~Types - Booleans & Equality~~ (5:47)
 
 Module 2: Functions
-12. Functions - Built In (14:32)
+12. ~~Functions - Built In~~ (14:32)
 13. Functions - Custom (10:43)
 14. Functons - Parameters and Arguments (22:35)
 15. Different Ways to Declare Functions (37:17)

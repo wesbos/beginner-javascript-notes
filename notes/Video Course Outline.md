@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-01-19T22:03:43.729Z'
+modified: '2020-01-28T01:14:39.747Z'
 ---
 
 # Video Course Outline
@@ -9,16 +9,16 @@ modified: '2020-01-19T22:03:43.729Z'
 
 Module 1: The Basics
 
-1. Welcome & Course Methodologies (3:41)
-2. Browser, Editor & Terminal Setup (10:00)
-3. Running & Loading JS (9:22)
-4. Variables & Statements (20:15)
-5. Code Quality Tooling with Prettier and ESLint (21:39)
-6. Types - Introduction (2:50)
-7. Types - Strings (14:16)
-8. Types - Numbers (11:26)
-9. Types - Objects (4:01)
-10. Types - null & undefined (4:58)
+1. ~~Welcome & Course Methodologies~~ (3:41)
+2. ~~Browser, Editor & Terminal Setup~~ (10:00)
+3. ~~Running & Loading JS~~ (9:22)
+4. ~~Variables & Statements~~ (20:15)
+5. ~~Code Quality Tooling with Prettier and ESLint~~ (21:39)
+6. ~~Types - Introduction~~ (2:50)
+7. ~~Types - Strings~~ (14:16)
+8. ~~Types - Numbers~~ (11:26)
+9. ~~Types - Objects~~ (4:01)
+10. ~~Types - null & undefined~~ (4:58)
 11. Types - Booleans & Equality (5:47)
 
 Module 2: Functions

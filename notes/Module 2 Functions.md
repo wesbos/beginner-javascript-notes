@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-28T22:51:18.993Z'
+modified: '2020-01-29T01:14:52.862Z'
 ---
 
 # Module 2: Functions
@@ -154,4 +154,124 @@ The page should scroll down 500 pixels.
 
 In this video we will get into making our own custom functions. 
 
-Make a new folder inside of the `/playground` directory and call it `custom-functions`. 
+Make a new folder inside of the `/playground` directory and call it `custom-functions`. Inside of that, create two files, `index.html` and `cf.js`. 
+
+Add `console.log('it works!');`.
+In `index.html`, add the HTML base snippet. We will need to modify the base.css path because we made a folder so the path should now be `../../base.css` because we have to go up two levels to get to it. 
+Right before the closing body tag, add a script src tag `<script src="./cf.js">`. Open the page in a browser and you should see `It works!` in the console. 
+
+The real power of javascript comes when you want to define your own functions. Functions can do anything. They group together a set of instructions, often taking in values (we talked about arguments earlier), doing some work and then returning value or set of values to the person that requested in. 
+
+We are going to create a function called Calculate Bill. 
+
+Calculate Bill is a western gentlemen who is very good at going to restaurants and calculating what the bill would be regarding what the bill was, how much tip was, how much tax is. 
+
+There are going to be a few buzzwords as we go through, which we will explain as we go. 
+
+The first one is functions are created or defined, and they are later called.
+
+When you make a function, when you author what it does, that is called a **function definition**. 
+Later on, when you want to run that function, that is called **calling** or **running** of a function. 
+
+There are a few ways to define a function. We are going to go over all the different approaches in the next videos but for now, we will go over the basic. 
+
+First you type `function` and then the name of the function. Function naming follows the exact same rules as variable naming which we went over previously. 
+
+We are going to call it `calculateBill`
+
+```js
+function calculateBill(){
+//this is a function body
+}
+```
+
+What we have done is defined it, given it parenthesis (that's not calling it, that is defining it) and then you open and close a function block. Anything that goes between the opening and closing function block is called the function body and is part of the function. 
+
+For now, add `console.log('Running Calculate Bill!!!')` in the function body. 
+
+Now to go ahead and run a function, we simply take the function name. 
+
+First let's look at something.  View `index.html` in the browser and open the console. With functions, it works just like a variable in that you can call them by the name of it, it's almost the exact same thing. However when you put the name of the function, you see the entire code. 
+
+![](@attachment/Clipboard_2020-01-28-19-48-01.png)
+
+Now if we want to run the function we would enter into the console `calculateBill()`, which will log `Running Calculate Bill!!!!` in the console. 
+
+Add the following to `cf.js`
+
+```js
+// Function Definition
+function calculateBill() {
+  // this is the function body
+  console.log('Running Calculate Bill!!');
+}
+
+//Function Call or **Run**
+calculateBill();
+```
+
+Now, let's talk about returning values. You noticed when we called `calculateBill()` it returned undefined. ![](@attachment/Clipboard_2020-01-28-19-54-21.png)
+
+It does the work we asked it to do, and then it returns undefined. Often, functions will do a bunch of work and then return to you the result. 
+
+What we are going to do in our function is we will take in arguments like how much the dinner was, the tax rate and how much you want to tip, and it will return to us the total value. 
+
+The way that works is we will assume the meal is 100 dollars, and we will multiply it by 1.13 because in Ontario the tax rate is 13%. Now we can console log the total value. 
+
+```js
+// Function Definition
+function calculateBill() {
+  // this is the function body
+  console.log('Running Calculate Bill!!');
+  const total = 100 * 1.13;
+  console.log(total);
+}
+
+//Function Call or **Run**
+calculateBill();
+```
+
+![](@attachment/Clipboard_2020-01-28-19-59-14.png)
+(This is a perfect example of the issue with floating point numbers); 
+
+You might be thinking "oh, now i have this nice total variable which I can just quickly access. If you type `total` in the console, it will return undefined. 
+
+If below `calculateBill();` in `cf.js` you add `console.log('total')`, and refresh the page in the browser, you will see an error that `total is not defined` as well as an eslint warning. This is something that we will get into called scope. 
+
+Variables that are created inside of a function are only available within that function. It is not available outside of it. So how do we store the result of the calculation so we can access it using a variable? 
+
+That is with returning. When we called `calculateBill()` earlier, we got undefined returned in the console. So what we need to do is from the function, we will return total (return is a keyword in javascript) like so:
+
+```js
+  const total = 100 * 1.13;
+  console.log(total);
+  return total;
+}
+
+//Function Call or **Run**
+calculateBill();
+```
+Now when you call it in the console, you will see it returns the value. 
+
+![](@attachment/Clipboard_2020-01-28-20-05-33.png)
+
+Now the question is how can we store that value? The total variable is still not available to me. That is because we need to capture (another buzz word) the result of the function or capture the returned value of the function into a variable. Modify the line of javascript with `calculateBill()` to:
+```js
+const myTotal = calculateBill();
+console.log(myTotal);
+```
+
+In the console, you can now access the variable `myTotal`. 
+We can modify the console.log to be `console.log($\`Your total is $${myTotal}\`);`
+That will print out the value and message in the console. 
+
+Couple things to review. The `total` variable within the `calculateBill()` function and the `myTotal` variable below the function, you might be asking why do we have two variables for the exact same value? The reason is that `total` variable is a temporary variable. 
+
+That variable, because it has been created inside of hte function, it is only ever available inside of that function, and when that function is done running, that variable is cleaned up (or what is called garbage collected in javascript nad it's no longer needed).  So if you ever want to capture the value returned from `calculateBill()`, you have to stick it into a variable before you can go ahead and display it. 
+
+Another cool thing you can do with interpolation strings is you can actually run the function from within the console.log statement. Javascript is going to run the function first, and then whatever the return result is it will immediately be interpolated into that string.
+
+```js
+console.log(`Your total is $${calculateBill()}`);
+```
+

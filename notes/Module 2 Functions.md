@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-29T01:14:52.862Z'
+modified: '2020-01-29T03:34:00.010Z'
 ---
 
 # Module 2: Functions
@@ -275,3 +275,129 @@ Another cool thing you can do with interpolation strings is you can actually run
 console.log(`Your total is $${calculateBill()}`);
 ```
 
+---
+
+## 14 - Functions - Parameters and Arguments
+
+This video will focus on arguments and parameters. In the `calculateBill()` function from the previous video, we hardcoded the tax amount. 
+
+A best practice in javascript is to keep your code DRY, which stands for Don't Repeat Yourself. If you are making a function called `calculateBill()` and asumming that the bill is 100 dollars and 15%, that is not good because it is not very reusable. 
+
+So what we could do is above the calculateBill function, we can declare the following variables, and modify the code like so:
+
+```js
+const bill = 100;
+const taxRate = 0.13;
+
+function calculateBill(){
+  console.log('Running calculate bill!!');
+  const total = bill * taxRate;
+  return total;
+}
+```
+This will work, but that is not the best way to do it. Why? Because the function calculateBill is relying on something called "global variables". 
+
+For right now, what we need to know is that this is a function that needs some data, and when it is not passed data, it instead is reaching outside of the function in order to look up that data in a higher scope.
+ 
+ It's not great to reach outside of a function in order to get your data. 
+
+ In `cf.js`, remove the last console.log and add the following:
+
+ ```
+ const myTotal = calculateBill();
+ const myTotal2 = calculateBill();
+ console.log(myTotal, myTotal2);
+ ```
+
+TIP: you can console log as many pieces of data as you want by separating the values with commas like in the example above. 
+
+The console.log will return the same value: 100.13.
+
+Now what if we wanted a different value?
+Could we do something like this? 
+(Note: you need to change the `bill` variable that is declared in `cf.js` to a `let` instead of a const so we can reassign it)
+
+ ```
+ const myTotal = calculateBill();
+ bill = 200;
+ const myTotal2 = calculateBill();
+ console.log(myTotal, myTotal2);
+ ```
+If you refresh it, now it works. 
+However, all the of work we did like changing a variable in between running the code and yanking the variable from outside into the function to use. This is bad practice and it is how you get very brittle applications.
+
+What we want to do is instead of reaching out, we want to pass into our functions the pieces of data that we need. 
+
+Let's do a bit of cleanup. Get rid of the `let bill` and `const taxRate` variables. 
+
+Get rid of lines of code where we are reassigning variables and declaring myTotal2 (`bill = 200; const myTotal2 = calculateBill()`) and the last console log. 
+
+Now we should have 
+
+```js
+// Function Definition
+function calculateBill() {
+  // this is the function body
+  console.log("Running Calculate Bill!!");
+  const total = bill * 1 + taxRate;
+  return total;
+}
+
+const myTotal = calculateBill();
+```
+Now we want to take the variables bill and tax rate and we want to make them into something called params for your function.
+
+When you define your function and say when someone calls it, I am going to expect someone to pass me some data, so we put in params (Wes likes to think of them as placeholders). 
+
+```js
+function calculateBill(billAmount, taxRate){
+  ...
+}
+```
+
+Now, inside of the function body, we will have access to the two variables that were passed: `billAmount` and `taxRate`. 
+
+It's kinda confusing because there is no like creation of the param variables, but Wes will explain it in just a second. 
+
+```
+// Function Definition
+function calculateBill(billAmount, taxRate) {
+  // this is the function body
+  console.log("Running Calculate Bill!!");
+  const total = billAmount * (1 + taxRate);
+  return total;
+}
+
+const myTotal = calculateBill(100, 0.13);
+console.log(myTotal);
+```
+
+That will give you 100.13. 
+
+But now we are able to make a myTotal2 really quickly:
+
+```
+const myTotal = calculateBill(100, 0.15);
+const myTotal2 = calculateBill(200, 0.13);
+console.log(myTotal, myTotal2);
+```
+
+It works without having to reassign because when you define a function, you can place parameters. P = placeholder is one way to remember it. 
+
+When you call the function, you pass it arguments. 
+
+![](@attachment/Clipboard_2020-01-28-22-28-03.png)
+
+Here is a quick cheatsheet Wes has put together. 
+
+![](@attachment/Clipboard_2020-01-28-22-28-19.png)
+
+When we define the function name, we put what are called parameters. Parameters are what are called placeholders (we will talk about default values for parameters shortly). When you call, run or invoke (all 3 mean the same thing), and you actually pass it the data, that will take place of the variables (for example meal will be 100 and taxRate will be 10.13), those will be called arguments. 
+
+People incorrectly use those terms interchangably but one way to remember is that parameters are placeholders. The things that you pass in are arguments that are "actual values". 
+
+Keep in mind, that the arguments that you pass to a function can be variables. This is a common thing people get hung up on when learning about functions because it can all get renamed. 
+
+Let's take a look at code we wrote for `calculateBill()`.
+
+Stopped @ 6:42

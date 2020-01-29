@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-29T03:34:00.010Z'
+modified: '2020-01-29T21:07:09.145Z'
 ---
 
 # Module 2: Functions
@@ -396,8 +396,127 @@ When we define the function name, we put what are called parameters. Parameters 
 
 People incorrectly use those terms interchangably but one way to remember is that parameters are placeholders. The things that you pass in are arguments that are "actual values". 
 
-Keep in mind, that the arguments that you pass to a function can be variables. This is a common thing people get hung up on when learning about functions because it can all get renamed. 
+Bringing it back to `const myTotal = calculateBill(100,0.13)`, here we are running the function and as arguments we are passing straightaway numbers. However, the values that get passed into a function can be in a variable as well.  This is a common thing people get hung up on when learning how functions work is how they sort of get renamed. 
 
 Let's take a look at code we wrote for `calculateBill()`.
 
-Stopped @ 6:42
+WHen we have a function called calculateBill(), when the data gets passed in, there are going to variables that are going to be available inside of the calculateBill function, they are going to be what is called scoped to tis function and they are only available in this function as to what they are passed in. 
+
+If we add a console.log within calculateBill like so ->
+
+```
+// Function Definition
+function calculateBill(billAmount, taxRate) {
+  console.log(billAmount, taxRate);
+  // this is the function body
+  console.log("Running Calculate Bill!!");
+  const total = billAmount * (1 + taxRate);
+  return total;
+}
+const myTotal = calculateBill(100, 0.15);
+```
+
+That will print to the console ![](@attachment/Clipboard_2020-01-29-15-31-32.png)
+
+We can run that function from the console but pass it different values for the arguments, it will console log the values of the arguments that we passed, like so ![](@attachment/Clipboard_2020-01-29-15-32-16.png)
+
+Why? Because javascript will take whatever you write as an argument, and then when you call the function it will make it sort of temporarily available and make them available to you via the names that you put in your parameters. 
+
+What gets a little bit confusing to people is if we declare two variables before we call the function like so:
+
+```
+const wesTotal = 500;
+const wesTaxRate = 0.3;
+const myTotal = calculateBill(100, 0.15);
+```
+
+We can actually pass those variables into the function like this:
+
+```
+const wesTotal = 500;
+const wesTaxRate = 0.3;
+const myTotal = calculateBill(wesTotal, wesTaxRate);
+```
+
+Now the big confusion is, if they are variables outside of the function, and we pass them into the function, when it's called inside of the function, is the first parameter called `billAmount` or is it called `wesTotal`? Will it even work if you pass in a variable that does not have the same name as the parameter? Try by refreshing `index.html` in the browser.
+
+It works just fine!
+
+So -- when you run a function in javascript, what happens is javascript takes in whatever you have pass it, whether you have passed it that value directly (as a number or string for example), or if you pass it in via reference meaning that you just passed a reference to a variable which in turn will hold a value). At the end of the day we are still passing values, whether you pass it directly or whether you pass it a reference to a variable that holds a value.  Javascript doesn't care about how you are passing them in and as soon as the function runs, it doesn't care whether you passed a variable or value because it just knows that you passed in a value.
+
+What javascript does is say okay, take whatever they passed in the first argument amd just make a variable called billAmount that is available inside of the confines of the curly brackets.
+
+When the function is running, it does not care about anything else that is going outside of this function. It just knows it's doing it's job, it's been pased in the two little pieces of data that it needs, it does the math and returns it's value from within the function. 
+ 
+
+When values get passed into a function, they sort of get renamed into whatever it is that you have defined your function parameters as.
+
+Let's do another example!
+
+Comment out `const myTotal = calculateBill...`. 
+Add the following function to your code, which just returns hello and which we will pass in someone's first name. 
+
+```js
+function sayHiTo(){
+ return `Hello ${firstName}`; 
+}
+const greeting = sayHiTo();
+console.log(greeting);
+```
+
+Let's run the code as is, even though it will break, to see why. 
+ 
+In the console you should see an reference error in the console. ![](@attachment/Clipboard_2020-01-29-15-50-59.png)
+
+What happens is this function, first it loosk inside of it's own function scope, and it will look for a variable named firstName that has been passed in. If there is not, what it will start to do is go up to a high level of scope and look there. 
+
+let's say there was a firstName variable like so:
+
+```js
+const firstName = 'wes';
+function sayHiTo(){
+ return `Hello ${firstName}`; 
+}
+const greeting = sayHiTo();
+console.log(greeting);
+```
+
+it would actually work, because the function will reach outside for that data if nothing is found within the scope of that function. So what we want to do is modify the function definition to set it to take in one parameter (`firstName`). And then when we run the function, we actually have to pass it a string (we will use `Wes`), and then we will have our greeting.
+
+
+```js
+const firstName = 'wes';
+function sayHiTo(firstName){
+ return `Hello ${firstName}`; 
+}
+const greeting = sayHiTo('Wes');
+console.log(greeting);
+```
+
+What is nice about this is now we can use that function to print out any first name like so
+![](@attachment/Clipboard_2020-01-29-15-55-38.png)
+
+As long as we pass in an argument (in this case "Wes"), it is going to have a variable inside of that function that is referenced to whateer the person has passed in. 
+
+If we don't run it with anything, you will see... ![](@attachment/Clipboard_2020-01-29-15-57-14.png)  
+The reason that happens is when a functoin runs, it will create the variable for us (`firstName`) and set it to whatever was passed in. But if it creates a variable and someone doesn't pass in anything, then it will just be set to undefined which is exactly how variables work. 
+
+Now let's go over a few more examples. 
+
+Let's go back to passing expressions. For this example we will go back to calculateBill.  
+
+```
+// const greeting = sayHiTo('Wes');
+// console.log(greeting);
+const myTotal3 = calculateBill(100, 0.15);
+```
+
+we know the code above works but what if instead we do 
+
+`const myTotal3 = calculateBill(20 + 20 + 30 + 20, 0.15);`
+
+Is that going to work? If you load `index.html` in the broswer you will see `117`. 
+
+(If you followed Wes too closely, you may have gotten the value of 90.5. If that is the case, the line of code that calculates the total within `calculateBill`)
+
+stopped @ 12

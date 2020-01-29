@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-29T21:07:09.145Z'
+modified: '2020-01-29T22:06:24.661Z'
 ---
 
 # Module 2: Functions
@@ -515,8 +515,133 @@ we know the code above works but what if instead we do
 
 `const myTotal3 = calculateBill(20 + 20 + 30 + 20, 0.15);`
 
-Is that going to work? If you load `index.html` in the broswer you will see `117`. 
+Is that going to work? If you load `index.html` in the broswer you will see `103.4999999999`. 
 
-(If you followed Wes too closely, you may have gotten the value of 90.5. If that is the case, the line of code that calculates the total within `calculateBill`)
+(If you followed Wes too closely, you may have gotten the value of 90.5. If that is the case, the line of code that calculates the total within `calculateBill`. It should be `const total = billAmount * ( 1 + taxRate);`. This is because of bedmas, we need the paranthesis)
 
-stopped @ 12
+That works. Why? Because the only thing that a function can take in is a value, and whether you pass that value directly, as in a number, whether you pass that value in as av ariable which holds a value, that works,  and then you can also pass in expressions. 
+
+In this example we are not actually passing an expression, we are actually running an expression and that will first run (`20 + 20 + 30 + 20`) and add it up to $90, and then we pass that raw value of 90. 
+It is absolutely fine to do something that like, in fact it is pretty common. You can even mix and match. Let's say we have a variable `const kait = 100;` and then we want to add another $50 ontop of that. You can do something like.. 
+
+```
+const kait = 100;
+const myTotal3 = calculateBill(kait + 50, 0.15);
+```
+It will still work if you mix and match. 
+
+
+Let's remove `myTotal3` example, and do another example where we pass functions as arguments.
+
+We will make a function called `doctorize` that will take in a `name` argument and return the name with Dr. infront like so
+
+```js
+function doctorize(name){
+  return `Dr. ${name}`;
+}
+```
+
+ And we will make another function called `yell` that also takes in a name and returns HEY with the variable name uppercased like so:
+
+ ``` 
+function yell(name){
+  return `HEY ${name.toUpperCase()}`;
+}
+```
+
+You might have noticed that both functions are using the variable name, While it's not okay to reuse variables in the same scope multiple time, it is okay to reuse parameters. Why? because when arguments are passed in, the paraemters are only available within that function so you will never run into a collision where the name that you pass into one function is going to overwrite it in the other function. That will not happen because parameters are scoped to the confines of their own functions.
+
+The name parameter that is used in the `doctorize()` method will never collide with the variable within the `yell()` method. 
+
+Let's go ahead and run it in the console. 
+
+![](@attachment/Clipboard_2020-01-29-16-43-59.png)
+
+What is kind of cool is you can pass the output of doctorized, into yell. 
+In the console, do the following `yell(doctorize('wes))`;
+
+![](@attachment/Clipboard_2020-01-29-16-44-48.png)
+
+How that works is brackets go first, so anything inbetween the yell paranthesis, ![](@attachment/Clipboard_2020-01-29-16-45-24.png)  the code says "okay, I need to first run this function" , and hopefully that retursn a value (which it does, it returns Dr.Name), and then the value that is returned from doctorize immediately gets passed into yell as an argument and then that will in turn return "Hey  Dr. Wes". 
+
+So to recap -- another way we can pass a value to a fucntion is the output of a function is just a value at the end of the day, and you can run that directly.
+
+**Default Values**
+
+Now let's talk about default values. 
+
+If we were to take our `yell` function and instead of passing it "Wes", we do not pass an argument, it will error out. 
+What is happening is that the `toUpperCase()` function (it's technically a method), it's trying to run it against something that didn't get passed in. So let's say someone forgets to pass a value to the yell function, our program will break. 
+
+![](@attachment/Clipboard_2020-01-29-16-50-48.png)
+
+What we can do is we can set something called defaults. When you define your function, inside of your function definition, you can set a default by saying name is equal to 'Silly Goose'.
+
+```
+function yell(name = 'Sily Goose'){
+  return `HEY ${name.toUpperCase()}`;
+}
+```
+If you run it an pass an argument, it will still work. However when you run it without an argument, the function will no longer error out and instead will fall back to the default value for the parameter and output `HEY SILLY GOOSE`. 
+
+ So as you define your function, yo ucan say if soeone does not pass this paramenter here called name, just dfault it. 
+
+
+Let's go back to our calculateBill function. You may be thinking that it's a bit silly to have to pass in the the tax rate every single time.  We will use a default value to set a default tax rate of 0.13. 
+
+```
+// Function Definition
+function calculateBill(billAmount, taxRate = 0.13) {
+  // this is the function body
+  console.log("Running Calculate Bill!!");
+  const total = billAmount * (1 + taxRate);
+  return total;
+}
+```
+
+What that allows us to do is call `calculateBill(100)` and only pass the value for the billAmount. 
+
+![](@attachment/Clipboard_2020-01-29-16-55-56.png)
+
+Wes often likes to set default values when he is creating functions. Even just adding a default value for a string variable of an empty string. 
+
+```
+function yell(name = ''){
+  return `HEY ${name.toUpperCase()}`;
+}
+```
+
+That will make sure the function doesn't error out, it just won't show a name like so ![](@attachment/Clipboard_2020-01-29-16-57-30.png)
+That is just a safeguard. 
+
+Let's take it one step futher and modify calculateBill to also take in a tip rate. 
+
+Add another argument with a default value `tipRate = 0.15`. 
+
+```
+// Function Definition
+function calculateBill(billAmount, taxRate = 0.13, tipRate = 0.15) {
+  // this is the function body
+  console.log("Running Calculate Bill!!");
+  const total = billAmount * (1 + taxRate);
+  return total;
+}
+```
+
+Now we will change the way we calculate total to `const total = billAmount + (billAmount * taxRate) + (billAmount * tipRate);`
+
+You may notice that as you save the file, prettier will remove the paranthesis if they are not needed (the bedmas rules are not needed here)
+![](@attachment/Clipboard_2020-01-29-17-00-53.png) ![](@attachment/Clipboard_2020-01-29-17-01-04.png)
+
+Now if we run calculateBill and pass it 100 dollars, it will return 128.
+
+Now one little sort of gotcha that happens here is what if you want to use the defaultTax rate but not the default tipRate?
+If you try to do `const myBill4 = calculateBill(100, ,0.2);` it will break. The error returns unexpected token `,`. 
+
+So that only thing that you can pass into a function to make it kickback to it's original value is undefined. Meaning that functions will onl yever fall back to the defaults if nothing is passed. Remember when a variable is not set to anyting, it's value is undefined. So you cannot go ahead and pass zero here and expect it to false back to the deault. 
+
+You have to actually pass it undefined. `const myBill4 = calculateBill(100, undefined, 0.2);` and it works like we wanted. 
+
+It's very infrequently that you have to pass undefined like that but it's worth knowing that s how the function will define whether to fall back on a default value or not. It's nothing to do with trutjhy or falsey which we will be learning soon. 
+
+

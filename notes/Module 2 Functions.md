@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-29T22:06:24.661Z'
+modified: '2020-01-30T00:06:56.532Z'
 ---
 
 # Module 2: Functions
@@ -644,4 +644,128 @@ You have to actually pass it undefined. `const myBill4 = calculateBill(100, unde
 
 It's very infrequently that you have to pass undefined like that but it's worth knowing that s how the function will define whether to fall back on a default value or not. It's nothing to do with trutjhy or falsey which we will be learning soon. 
 
+---
 
+## 15 - Different Ways to Declare Functions
+
+One thing you're goin to hear a lot when you're getting into javascript is that javascript functions are "First class citizens". 
+
+That means javascript functions  are values in themselves, they can be stored in variables and passed into other functions. 
+
+What is a value in javascript?  We know that in the examples below `true` and `100` are values.
+```
+const age = 100;
+const cool = true;
+```
+Those are values that are numbers, or strings or booleans.
+What is cool about javascript is that functions can be passed into other functions. Functions can be stored in variables, they can be moved around like any other piece of data in JavaScript. That is not true for every other languages.
+
+For now, we will talk about the ability to put functions into variables.  And this video will go over all the different ways to declare functions. 
+
+Create a new file in our `custom-functions` directory called `ways-to-make-a-function.js`.  Add `console.log('it works')` and go back into the `index.html` file and change the path in the `src` attribue on the script tag to `<script src="./ways-to-make-a-function.js"></script>`. Refresh the browser to ensure that it works. 
+
+
+We already know one way to declare a function and that is through the function keyword. 
+
+```js
+function doctorize(firstName){
+  return `Dr. ${firstName}`;
+}
+```
+
+Now let's see how we can actually declare that, in other ways. Comment that out. 
+
+The next way to create a function is an anonymous function, which is a function without a name. 
+
+To make `doctorize` an anonymous function, you would modify it like this:
+
+```js
+function(firstName){
+  return `Dr. ${firstName}`;
+}
+```
+However, it's not actually valid javascript in this case. If you try running it in the console you will see an error that says
+>Function statements require a function name
+However they are valid in many other use cases, specifically using them in callbacks (we will learn about that) as well as in an IIFE (immediately involved function expression). However in this examlpe it is not valid javascript.
+
+Why would you ever want an anoymous function? The next way to declare a function will help explain that.
+
+Add a comment `//AnonFunction` above that function, copy it and then comment it out. Paste the copied code below the commented out function. 
+
+The next way to declare a functino is a function expression. A function expression is when you store a function as a value in a variable. 
+
+```js
+//Function Expression
+const doctorize = function(firstName){
+  return `Dr. ${firstName}`;
+}
+```
+
+What we did above is we took an anonmyous function and stuck it in a variable. If you refresh the page, you will see that in the console, we have doctorize available to us, and we can call it like we did in previous videos.
+
+![](@attachment/Clipboard_2020-01-29-18-48-13.png) 
+
+That is what people mean when they say functions are first class citizens. WWhat we are doing there is we are creating a variable and then storing the function in that variable name.
+
+You may come across developers who say to not use function expressions because it gives bad errors. Here is an example that demonstrates what they mean by that:
+
+```js
+//Function Expression
+const doctorize = function(firstName){
+   doesntExist();
+  return `Dr. ${firstName}`;
+}
+```
+![](@attachment/Clipboard_2020-01-29-18-51-45.png)
+
+What used to happen is the error would just tell you that it occured in an anonymous function and you'd have no clues to lead you to where the error is happening. In our case, it does now tell you it happens inside of doctorize on line 12. 
+
+Although the function is technically an anonymous function without a name, the browsers will now infer the name of the function from the variable name and use that in the errors.
+
+What is the difference between doing a function declaration and a function expression? Why would you want to use one over the other?
+
+There is only one real difference (beside error handling which isnt really an issue anymore) is how they operate how they operate in something called **hoisting**. We will go over this in a future video but we will go over it quickly now.
+
+Add to the .js file a `doctorize2` function. 
+```js
+const doctorize = function(firstName){
+  return `Dr. ${firstName}`;
+}
+function doctorize2(firstName){
+  return `Dr. ${firstName}`;
+}
+```
+
+If on the line before the first `doctorize` function, we were to add `doctorize("wes")`, do you think that it will run? If you run a function before you define it, does it work? 
+
+Nope! You get an error like:
+
+>Uncaught ReferenceError: Cannot access 'doctorize' before initialization
+>    at ways-to-make-a-function.js:78
+>(anonymous) @ ways-to-make-a-function.js:78
+
+What about doctorize2? 
+
+```js
+console.log(doctorize2("wes"));
+
+const doctorize = function(firstName) {
+  return `Dr. ${firstName}`;
+};
+function doctorize2(firstName) {
+  return `Dr. ${firstName}`;
+}
+```
+
+It does work! The function declaration works, but the function expression does not work if you call it before you define it. Why?
+
+Even though those are the exact same functions we have created, because you define a regular function with a function keyword and the other one with a variable, functions that are declared with the fucntion keyword are called hoisted.
+
+That means that javascript takes all functions and hoists them up, up, up and says you're a function, you belong at the top of the file so that anywhere that you call the function it will be available to you. Javascript does **not** hoist variable functions. 
+
+Why is that useful? Very rarely, Wes has never used that in his entire career except tiny use cases. 
+
+Hoisting is more of an interview question that people will sling. 
+Essentially it means that javascript will take functions and bring them up before the yare called. You can technically run a function before it is defined with that ability. 
+
+8:13 in

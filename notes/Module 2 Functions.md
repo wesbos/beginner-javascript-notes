@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-31T02:13:41.226Z'
+modified: '2020-01-31T23:22:18.116Z'
 ---
 
 # Module 2: Functions
@@ -1310,4 +1310,112 @@ setTimeout(() => {
 
 That will work the same!
 
+---
 
+## 16 - Debugging Tools
+
+There are two parts of debugging: 
+1. there are tools you can use to get info when things go wrong
+2. the right mindset to be a good problem solver
+
+This video will focus on the tools. What Wes' hopes for is that as you go through the course, anytime we start to hit a roadblock, Wes won't cut it out of the video, he will leave it in and show us his thought process.
+
+Go into the exercises folder, there is a folder 16 called Debugging and then inside of that there is a file called `debugging-START.js` and `debugging.html`. 
+If you open `debugging.html`, you will see that it's just a basic html file where we are loading base css, we have a button that says make me bigger and then a script tag that is loading `debugging.js` which doesn't exist yet. Make a copy of the `debugging-START.js` file and save it as `debugging.js`. 
+
+This file contains a bunch of stuff we haven't learned yet: arrays of objects, loops, functions, event listeners, etc. It doesn't matter that we don't know what all those different things do yet, Wes will explain that later and we will learn how to build our own. This is more so we can test different types of debugging. 
+
+We will start with console debugging. 
+
+There is `console.log()` which is the most common one you'll see. 
+
+```
+people.forEach((person, index) => {
+  console.log(person.name);
+});
+```
+
+There is `console.info(person.name)` which usually gives you a little eye and cirlce beside the console output but it doesn't seem to be there right now.
+
+There is `console.error(person.name)`. That isn't used for throwing or handling errors (we will learn about that), this just changes what the log looks like in the console. 
+
+![](@attachment/Clipboard_2020-01-31-17-46-02.png)
+
+It also gives you a stack trace:
+![](@attachment/Clipboard_2020-01-31-17-47-21.png)
+
+There is `console.warn()` which is very similar to `console.log()` 
+
+![](@attachment/Clipboard_2020-01-31-17-47-38.png)
+
+There is `console.table()`. Anytime you have a list of objects, and the objects have the same property (meaning the objects all have `name`,`cool`, and `country` properties), `console.table()` will format that into a nice little table.
+
+```
+console.table(people);
+```
+![](@attachment/Clipboard_2020-01-31-17-49-45.png)
+
+There is `console.count()`. This is useful if you want to know how many times a function is being run. If we go into the `doctorize()` function in `debugging.js` and add a `console.count('runinng doctorize');`, and then refresh the html page, now everytime you type `doctorize('wes');` in the console, the console will log a count. 
+
+![](@attachment/Clipboard_2020-01-31-17-52-29.png)
+
+That is useful in a scenario where you aren't sure if a function is running twice, or somethings you are working with hover elements and it's getting triggered way too often. `console.count()` will show you how many times it's actually running. 
+
+You can also pass variables to `console.count()`. If you were to change the example to backticks
+
+```
+function doctorize(name) {
+  console.count(`running Doctorize for ${name}`);
+  return `Dr. ${name}`;
+}
+```
+
+Now if you type in the console `doctorize('wes')`, it will show the count, but if you run `doctorize('snickers');`, it goes back to one. 
+
+![](@attachment/Clipboard_2020-01-31-17-57-25.png)
+
+But if you call `doctorize('wes');` again, it maintains that. 
+
+![](@attachment/Clipboard_2020-01-31-17-58-57.png)
+
+So it's based on what strings you pass to the console.count().
+
+Next we have `console.group()`, that can be helpful if you have a bunch of stuff to console.log(). 
+
+We will make a function `doALotOfStuff` to demonstrate. Comment out all of the example consoles we have gone over so far. 
+
+
+Add `console.group("Doing some stuff")`, and then underneath it add a few more consoles such as log, warning, error. Then add `console.groupEnd()` and pass it the same string we had passed to `console.group()`. 
+
+```js
+function doALotOfStuff() {
+  console.group("Doing some stuff");
+  console.log("Imone");
+  console.warn("watch out!");
+  console.error("hey");
+  console.groupEnd("Doing some stuff");
+}
+```
+
+![](@attachment/Clipboard_2020-01-31-18-15-45.png)
+
+What it does is it groups together all of `console.log()` into a groupable thing, and that can be very helpful. We will do another example in the `people.forEach()` method. 
+
+```
+people.forEach((person, index) => {
+  console.group(`${person.name}`);
+  console.log(person.country);
+  console.log(person.cool);
+  console.log("DONE!!");
+  console.groupEnd(`${person.name}`);
+});
+```
+
+![](@attachment/Clipboard_2020-01-31-18-20-52.png)
+
+It nicely organizes the people into their separate collapsable section.
+
+You can actually also do `console.groupCollapse()` which will by default collapse all the groups. 
+![](@attachment/Clipboard_2020-01-31-18-22-08.png)
+
+stopped @ 6:57

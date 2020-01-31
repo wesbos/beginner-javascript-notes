@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-01-29T22:08:08.893Z'
+modified: '2020-01-31T02:13:52.937Z'
 ---
 
 # Video Course Outline
@@ -25,7 +25,7 @@ Module 2: Functions
 12. ~~Functions - Built In~~ (14:32)
 13. ~~Functions - Custom~~ (10:43)
 14. ~~Functons - Parameters and Arguments~~ (22:35)
-15. Different Ways to Declare Functions (37:17)
+15. ~~Different Ways to Declare Functions~~ (37:17)
 16. Debugging Tools (27:06)
 
 Module 3: The Tricky Bites

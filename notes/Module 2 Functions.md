@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-31T01:45:54.009Z'
+modified: '2020-01-31T02:13:41.226Z'
 ---
 
 # Module 2: Functions
@@ -1185,4 +1185,129 @@ That will not work in an arrow function because they take the parent scope of th
 **Callback Functions**
 The final thing Wes wants to talk to us is something called callback functions.
 
- stopped with 4:30 to go
+So a callback function is just a regular function, but we sort of use that name for something that will happen when something is done. The easiest way to define a callback function is either when someone clicks something, run this. Or when this amount of time has passed, run this.
+
+Let's look at both of those examples.
+
+**Example 1**
+
+We will do a click callback. 
+
+Go into our `index.html` file and give ourselves a button that say click me and give that a class of `clickMe`.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title></title>
+    <link rel="stylesheet" href="../../base.css" />
+  </head>
+
+  <body>
+    <button class="clickMe">Click Me!</button>
+    <script src="./ways-to-make-a-function.js"></script>
+  </body>
+</html>
+```
+
+Go back to the javascript file. 
+
+We will select the element (we will go over in depth more about the DOM later) like so
+
+```
+const button = document.querySelector('.clickMe');
+console.log(button);
+```
+Refresh the page and open the console to see that it works.
+
+![](@attachment/Clipboard_2020-01-30-20-57-19.png)
+
+Now we are goign to listen for a clikc on that button like so:  
+
+```
+const button = document.querySelector('.clickMe');
+button.addEventListener('click', wes.yellHi());
+```
+
+When that click hapens, we can pass it to any function that we want. in this case, we chose `sayHi()` from our `wes` object from a previous example. 
+
+Now, everytime you click it, it will say HEY WESSSS
+
+![](@attachment/Clipboard_2020-01-30-20-59-21.png)
+
+
+What is happening there is that `.addEventListener()` is an event listener that we are listening for a click on, and the callback function is `wes.sayHi()`. 
+
+It's a functino that we give it access to. Notice that we are not running it there, we are just saying here is the function dear browser, when someone clicks that button please be a dear and calll that function. That is what is referred to as a callback function.
+
+Callback functions can be declared outside of the handler, so making a function like
+
+```js
+function handleClick(){
+  console.log('Great clicking!!');
+}
+button.addEventListener('click', handleClick);
+```
+
+What we are telling the browser to do here is that when someone clicks the element with the class '.clickMe`, run the functino called `handleClick`. 
+
+ The other option, that is probably half as common, where you define the function outside and then pass in the reference to the function. 
+Another thing you can do is just pass it an anonymous function. You can do this
+
+```
+
+button.addEventListener('click', functino(){
+  console.log('nice Job!');
+});
+```
+
+![](@attachment/Clipboard_2020-01-30-21-06-26.png)
+
+And it works just fine when you press it. 
+
+What we have done there is we have passed it an anonymous function as a value directly and the browser will know to call this function itself. There are upsides and downsides of doing it that way which we will get into another time. 
+
+What you need to know is that a callback function is a function that gets passed into another function and then it is called by the browser at a later point in time.
+
+The other example we have is a timer callback. There are a couple way to do timers (we will go over all of them in the future) but the simplest is `setTimeout()`.
+
+```
+setTimeout();
+```
+
+It takes two things:
+1. a function to call after a certain amount of time
+2. a duration in milliseconds (after how long should I run this)
+
+
+So let's do `1000` milliseconds which is one second later. If we run the page after one second, it will run 
+
+```js
+setTimeout(wes.yellHi(), 1000)
+```
+
+If we run the page after one second, it will run HEY WES. 
+
+You can also pass it an anonymous function.
+
+```
+setTimeout(function(){
+  console.log('DONE TIME TO EAT');
+}, 1000);
+```
+After a second that will console log DONE TIME TO EAT.
+
+You can pass those as arrow functions as well.
+
+
+```js
+setTimeout(() => {
+  console.log('DONE TIME TO EAT');
+}, 1000);
+```
+
+That will work the same!
+
+

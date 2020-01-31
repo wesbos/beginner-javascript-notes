@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-30T00:06:56.532Z'
+modified: '2020-01-31T00:09:30.277Z'
 ---
 
 # Module 2: Functions
@@ -765,7 +765,123 @@ That means that javascript takes all functions and hoists them up, up, up and sa
 
 Why is that useful? Very rarely, Wes has never used that in his entire career except tiny use cases. 
 
-Hoisting is more of an interview question that people will sling. 
+Hoisting is more of an interview question that you may be asked. 
 Essentially it means that javascript will take functions and bring them up before the yare called. You can technically run a function before it is defined with that ability. 
 
-8:13 in
+In `ways-to-make-a-function.js`, clear out the second doctorize2 function and just leave the function expression. 
+
+**Arrow Functions**
+
+The next way to make a function is using an arrow function. Arrow functions themselves have a few different ways of being declared. We will go over those now. 
+
+Arrow functions are an addition to javascript which was addedi n the last couple of years.
+
+They offer a couple of things. 
+
+First, they have a concise syntax and are shorter. Often with tings like callbacks, its simpler to use an arrow function to write a one liner function. 
+
+Another benefit is that they do not have their own scope in reference to the `this` word (we will go over `this` in more depth in the future).
+
+Arrow functions are anonymous functions, which means there is no way to declare an arrow function the way we do a function declaration `function doctorize(){..}`. You always have to stick it into a variable.
+
+To illustrate this, we will begin by writing a regular function. 
+
+```js
+function inchToCM(inches){
+  const cm = inches * 2.54;
+  return cm;
+}
+```
+
+This function will take in inches and return centimeters. Let's try it ion in the browser. 
+
+![](@attachment/Clipboard_2020-01-30-17-50-07.png)
+
+This is a pretty simple function, but it still takes up four lines of code. We can make it a bit shorter by instead of creating a variable and then returning a variable, you can just return the calculation itself. 
+
+![](@attachment/Clipboard_2020-01-30-17-52-26.png)
+Note: you may notice in the screenshot that the return cm is now greyed out. That is because that code is unreachable which happens because we are returning on the line above, and when you return from a function, that function is finished running.
+
+```js
+function inchToCM(inches){
+  return inches * 2.54; 
+}
+```
+
+Now we can convert it to an anonymous function as a step on the way to making it an arrow function.
+
+```js
+const inchToCM = function(inches){
+  return inches * 2.54; 
+}
+```
+
+Refresh the page to check that it still works (it does!).  It still works in the same way, now we just have made it an anonymous function and stored it in a variable. 
+
+Now we will go ahad and convert that function over to an arrow function. 
+There are a couple of different ways we can do that, which we will go over now. 
+
+Instead of writing the word function, we will delete it like so:
+
+```js
+const inchToCM = (inches){
+  return inches * 2.54; 
+}
+```
+
+Now we will go to the right of the paranthesis and add what is called a fat arrow `=>`.
+
+In programming, `->` is referred to as a skinny arrow and `=>` is referred to as a **fat arrow**. 
+
+```js
+const inchToCM = (inches) => {
+  return inches * 2.54; 
+}
+```
+
+You might notice if you save, prettier will modify the function and remove the paranthesis which we do not want because we want to change it to an arrow function in steps. To disable that, add `/* eslint-disable */` right above the function. 
+
+Note: the spaces between `(inches) => {` does not have to be there, `(inches)=>{` still works, but it's more readable with spaces.
+
+If you refresh the page and run it in the console, you will see that it still works.
+
+The next thing we will do is what is called an **implicit return**. 
+
+An explicit return is when you type the return keyword, like in `return inches * 2.54`. That is an explict return meaning that we explicitly return the value there. 
+
+And implict return is returning it without actually having to type the keyword return. Arrow functions allow us to return a value without having to type the keyword `return`. 
+
+First, we will put the function on one line like so: 
+
+```js
+const inchToCM = (inches) => { return inches * 2.54;};
+```
+
+To get rid of the explicit return, first you put it on one line, delete the curly brackets`{` `}` and delete the keyword. 
+
+`const inchToCM = (inches) =>  inches * 2.54;`
+
+So what we did there is we made an arrow function called inchTocM which takes in one argument called `inches`, and then it implicitly returns the value. 
+
+The way we can tell this is an implicit return is that:
+1. it's all on one line
+2. there is no return keyword
+3. there are no curly brackets. 
+
+If you refresh in the browser, you will see that it still works.
+
+To recap: what we did there is we removed the function block, modified the code to be on one line, and removed the explicit return. 
+
+Finally, and this is more of a stylistic choice, if there is only ever one parameter for your function, you can actually get rid of the paranthesis around the parameter as well, like so
+
+```
+const inchToCM = inches =>  inches * 2.54;
+```
+
+That is still your arrow function, we have just taken the paranthesis off because if there is only one parameter in your function, you can remove them no problem. 
+
+Let's do another example!
+
+stopped at -20 to go.
+Make a function called `add
+

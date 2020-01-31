@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-01-31T00:09:30.277Z'
+modified: '2020-01-31T01:36:18.392Z'
 ---
 
 # Module 2: Functions
@@ -882,6 +882,247 @@ That is still your arrow function, we have just taken the paranthesis off becaus
 
 Let's do another example!
 
-stopped at -20 to go.
-Make a function called `add
+Make a function called `add`, that takes in two parameters (first one `a` and second one`b`), we have set a default value of 3 in b. Then we make a temporary variable called total which we return.
 
+```js
+function add(a, b = 3) {
+  const total = a + b;
+  return total;
+}
+```
+Pause the video now, try to convert it to an arrow function yourself and then come back to the video.
+
+Let's first see if it works as it originally was. Save the code from above and refresh `index.html` in the browser. Open the console and test the function.
+
+![](@attachment/Clipboard_2020-01-30-19-48-27.png)
+
+You might notice that dev tools is giving us an annotation (?b), and that little question mark infront of b is telling us that the argument is optional. (`b` if optional because there is a default value to fall back on)
+
+First thing we will do is stick the function in a variable calld add and remove the function name. `const add => function(a, b = 3) }`
+
+Next we will convert it to an arrow function. Get rid of the keyword function and add a fat arrow to the right of the paranthesis. 
+
+```js
+const add = (a, b = 3) => {
+  const total = a + b;
+  return total;
+}
+```
+
+Next we will return just `a + b` and get rid of the total variable. 
+
+```js
+const add = (a, b = 3) => {
+  return a + b;
+}
+```
+
+The next thing is put it on it's own line.
+
+```
+const add = (a,b = 3) => { return a + b; }
+```
+
+Then we can get rid of the function block and return keyword. 
+
+```js
+const add = (a, b = 3) => a + b;
+```
+
+Now we have a short arrow function! You may have noticed that we did not get rid of the parentheses, and that is because there is more than one parameter. 
+
+There are a couple of other gotchas with arrow functions that we need to know about. Let's go over them now.
+
+**Returning an object**
+
+let's make a function called `makeABaby()` that will take in the babies first and last name. Inside of the function we will have an object call baby, with a name and age.
+
+```js
+function makeABaby(first,last){
+  const baby = {
+    name: `${first} ${last}`,
+    age: 0
+  }
+  return baby;
+}
+```
+
+
+It works!
+
+![](@attachment/Clipboard_2020-01-30-19-58-43.png)
+
+How would we convert this to an arrow function? First we will stick it in a variable, and convert it to an arrow. 
+
+```js
+ const makeABaby = (first,last) => {
+  const baby = {
+    name: `${first} ${last}`,
+    age: 0
+  }
+  return baby;
+}
+```
+
+If your function needs to do some stuff inside of the block, you can leave it as is. This is a perfectly valid arrow function. If the only thing you're using the arrow for is the ablity to type less as well as some of the benefits of not scoping this, this is totally valid.  However we can take it a bit further. 
+
+Instead of declaring the baby variable we will just return the object directly.
+
+```js
+ const makeABaby = (first, last) => {
+     return {
+       name: `${first} ${last}`,
+       age: 0
+     };
+  };
+```
+
+Now the question is... how would we do the implicit return?
+We can put it on one line, no problem. (Objects can be put on one line).
+But how would we return it. Let's try it. 
+
+First put it on one line.
+
+```js
+const makeABaby = (first, last) => {return { name: `${first} ${last}`, age: 0}};
+```
+
+Now if we want to make it an implicit return, we get rid of the curly brackets and the return. 
+
+```js
+const makeABaby = (first, last) => { name: `${first} ${last}`, age: 0};
+```
+
+However, you will see this error if you try to run the code like that.
+![](@attachment/Clipboard_2020-01-30-20-06-08.png)
+
+Whats happening there is it thinks that the curly bracket from the baby object is actually the curly object from the block of the function. Curly brackets in javscript can be creation of an object, or a block of code. So how do you implicitly return an object when it gets confused about what it actually is. 
+
+If you want to implictly return an object in javascript, you just pop a set of parentheses around the thing that you are returning and that will contain it and it won't think it's the block fo the function. 
+
+```js
+const makeABaby = (first, last) => ({ name: `${first} ${last}`, age: 0});
+```
+
+If you try it in the code, it still works.
+
+Now is there a benefit of having the function this way or how we did it originally? Wes doesn't think so. Youre not really getting much benefit, in fact the way we had it originally was a bit more readable. 
+
+There is nothing wrong with doing a regular function, because you want to think about your future self. Let's say you come back to the code in 6 months, what will be easier for you to read? Don't always go to making an arrow function by default, and hopefully throughout this course it will become more clear when you should reach for an arrow function (specifically with arrays and doing maps and reduce and filters).
+
+**IIFE**
+The next way to clear a function is using an IIFE (pronounced iffy). 
+That is an immediately invoked function expression. 
+
+We will do an example to demonstrate was an IIFE is. 
+
+Add this function to our code (comment out the other code) and refresh `index.html`.
+
+```js
+function(){
+  console.log('Running the Anon function');
+  return `Your are cool`;
+}
+```
+
+Nothing happens when you refresh `index.html` because it's not allowed to. We talked about how you can stick a function in a variable and that is okay. Another way to run this function is what is called an immediately invoked functional expression. 
+
+What you can do is wrap that function in a parantheses, (parentheses always run first in javascript), and what that will do is return a function value and you can immediately run that function by putting paranthesis on the end like so:
+
+```js
+(function(){
+  console.log('Running the Anon function');
+  return `Your are cool`;
+})();
+``` 
+
+Now, if you refresh the page, you will see the console.log which means that our function expression was immediately invoked. It was immediately run. 
+
+What is the benefit of doing something like that? It used to be very popular before we had modules and block scope, you will realize when we get into scoping that a function declares its own scope and its often handy to even declare functions inside of the thing, and it will provide us a sheltered space where the variables can't leak inside. We will go over that later in the course. 
+
+For now, just know that it's an immediate invoked function. 
+
+One last thing is what if the function took an age? You would pass it like so:
+
+```
+(function(age){
+  console.log('Running the Anon function');
+  return `Your are cool and ${age}`;
+})(age)
+```
+
+That isn't something you will be using that often, but it does come up when you need to create something like a closure (epxlained in future video). 
+
+**Methods**
+
+Next type of function we have is called methods. 
+
+Wes has so far sort of been saying that methods and functions are the same thing and we have a video coming up that focused entirely on creating your own methods.  
+
+A method is simply a function that lives inside of an object. 
+
+If we take a look at the function `console.log` in the browser, so far Wes has been telling us that `console.log()` is a function. But he has been lying to us.   
+
+`log()` is actually the functino that lives inside of console, and console is actually an object. If you type `console` into the console and open it up, you will see that there are all kinds of things within it.
+
+![](@attachment/Clipboard_2020-01-30-20-26-46.png)
+
+Scroll down to log, and the little f ![](@attachment/Clipboard_2020-01-30-20-27-19.png) you see means that it's actually a function.
+
+So `console` is the object and `log()`, `count()` or any of the other functions listed under the console object are the functions. 
+
+We have a special word to describe functions that live inside of an object and we call those methods. 
+
+So we can actually do something like this..
+
+```js
+const wes = {
+  name: 'Wes Bos',
+  sayHi: function(){
+    console.log('Hey wes!');
+    return 'Hey Wes!';
+  }
+}
+```
+
+Try it in the browser, first type `wes` and hit enter and next type `wes.sayHi()` and hit enter. You should see the following:
+![](@attachment/Clipboard_2020-01-30-20-30-25.png)
+
+Wes.sayHi() is a method. You make it a property on your object and you set it to a function.
+
+Those functions can also have names. Sometimes you will see something like this:
+
+```js
+const wes = {
+  name: 'Wes Bos',
+  sayHi: function sayHi(){
+    console.log('Hey wes!');
+    return 'Hey Wes!';
+  }
+}
+```
+
+Wes doesn't see the point of doing something like that, but it is technically allowed. 
+
+There is also a new shorthand method. 
+
+```js
+const wes = {
+  name: 'Wes Bos',
+  // Method!
+  sayHi: function sayHi(){
+    console.log('Hey Wes!');
+    return 'Hey Wes!';
+  },
+  //Short hand Method
+  yellHi(){
+    console.log('HEY WESSSSS');
+  }
+}
+```
+
+If you refresh the browser and type `wes.yellHi()`, it will work.  
+
+What we did there is instead of writing `sayHi: function()`, which will work, we can get rid of the function keyword and the colon and what that will do is make a property called `yellHi()` set to a function `yellHi`. It's just a shorthand way to write methods inside of an object.
+
+6:49 left

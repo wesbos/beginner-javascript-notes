@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-02-01T19:41:04.786Z'
+modified: '2020-02-03T23:23:23.529Z'
 ---
 
 # Module 2: Functions
@@ -1484,4 +1484,154 @@ Those are shorthand selectors for two things we will learn about in a future vid
 
 In the value returned from `$('p')` you can see it found the first paragraph, and with `$$('p')`, it found all of the `p` elements on the page. 
 
-finished at 13:52
+Next we will talk about breakpoints.
+
+Go into the `people.forEach()` method and delete all the console.logs that we had commented out within it and add a `console.log(person.name);`. If you refresh the html page, you will see everyones name logged to the console.
+
+What you can do is, within the `people.forEach()` method, if you want to pause javascript from running, you can type `debugger;`, like so:
+
+```js
+people.forEach((person, index) => {
+  debugger;
+  console.log(person.name);
+});
+```
+
+![](@attachment/Clipboard_2020-02-03-17-29-52.png)
+
+That is a statement that only takes into effect when your dev tools are open, and it will pause javascript from running and allow us to peer into javascript at that very moment.
+
+If you refresh `debugging.html` now, what happens is that we have set what is called a **breakpoint**. What you are saying when you set a breakpoint is you are telling javascript to break at this certain time. 
+
+![](@attachment/Clipboard_2020-02-03-17-32-49.png)
+
+This gives you a whole bunch of information as to what happened. 
+
+If you hover over it, it will show you what the variables are equal to at this point in time: ![](@attachment/Clipboard_2020-02-03-17-34-11.png)
+
+You can see that the javascript has paused and if you go to the console, you will see that nothing has been logged yet. Flip back to the sources tab.
+
+On the right handside of the `Sources` tab, that is where all the different tools for inspecting what is going on live. 
+
+![](@attachment/Clipboard_2020-02-03-17-35-42.png)
+
+We get the callstack, which we learned about earlier. Second it will let us nkow what the local variables are. 
+
+You can expand the collapsed Local section within the Scope section, or hover over a variable to see it's value. 
+
+![](@attachment/Clipboard_2020-02-03-17-37-13.png)
+
+There are other sections for breakpoints which we will get to in a second.
+
+What is cool is you can click the play button right here, ![](@attachment/Clipboard_2020-02-03-17-38-09.png) and then if you flip back to the console, you will see that the name "Wes" has been logged.
+
+What happened there is when the function first ran, it hit the breakpoint and then when we pressed play, it logged the first persons name and then because it's in a loop, it hit the breakpoint again and paused. Now you can see that the second person is equal to Scott. 
+
+![](@attachment/Clipboard_2020-02-03-17-39-21.png)
+
+You can also step over into the next function call like so
+![](@attachment/Clipboard_2020-02-03-17-43-28.png)
+
+When you hit play, it will just continue execution of the code until it hits the next breakpoint. If you click the option beside the play button that says "Step over next function call", it allows you to run the code line by line. 
+
+GIF: https://cl.ly/e6eee78faefc
+
+When you feel like you are console.logging too much data in order to see it, or you are console.logging something quickly so you can see what happened in the past, adding a debugger (it can go anywhere in your javascript code) can be very helpful. 
+
+It's a handy way to slow things down and peer into what the different pieces of data are. 
+
+You can also set breakpoints from the browser as well. 
+
+Remove the line of code in `debugger.js` that says `debugger;` and refresh `debugging.html` in the browser. Open the sources tab. 
+
+![](@attachment/Clipboard_2020-02-03-17-50-42.png)
+
+In the sidebar on the left, you can click on your actual javascript files that are loaded on the page, and then you can say something like "when someone runs this go() function, I want to put a breakpoint in there"
+
+![](@attachment/Clipboard_2020-02-03-17-55-27.png)
+
+What you do is you click the line number next to the line of code that you would like to pause during.  If you go into the console and type `go()`, you will see that the code pauses itself in the debugger at the line where you set the breakpoint. 
+
+Recap: you can either create the breakpoint by clicking next to the line number in the sources tab, or adding the word `debugger;` anywhere in your javascript. 
+
+Always make sure you remove those `debugger;` calls from your code once you are finished!
+
+We talked about scope. Scope will allow us to peer into what variables are, we will look at that more in the next video. 
+
+The next one is Network Request. This is useful if you want to see what is being fired off when you load the page. If you go to your networks tab and refresh `debugging.html`, you will see all of the different files that are needed in order for the page to work. 
+
+![](@attachment/Clipboard_2020-02-03-18-00-04.png)
+
+This is helpful because you can see when is sending out data for you. 
+
+Wes added a function to `debugging.js` called `fetchDadJoke()`. What that function will do is go off to an API and grab a random dad joke. Don't worry about what all the lines of code mean here, we will go over that in future videos. For now, know that it goes to an external API and grabs an API. 
+
+```
+// A Dad joke fetch
+async function fetchDadJoke() {
+  const res = await fetch("https://icanhazdadjoke.com/", {
+    headers: {
+      Accept: "text/plain"
+    }
+  });
+  const joke = await res.text();
+  console.log(joke);
+  return joke;
+}
+```
+
+If you were to run the `fetchDadJoke()` function in the console, it will return a dad joke and log it to the console. 
+
+If you go back to the network tab, you will see that there is a new item that has been logged. 
+
+![](@attachment/Clipboard_2020-02-03-18-03-09.png)
+
+This tells you the information about the request, what actually hapened, the raw response and a preview of it. It gives you information such as how long did this request take. 
+
+![](@attachment/Clipboard_2020-02-03-18-04-09.png)
+
+If you're website is slow for example, it will tell you how long the request took, and where the time was spent. 
+
+If you go to http://apple.com for example and inspect the network tab, you will see that there are 100s of things that are requested. You can also filter out the requests within the network tab such as XHR, which is when they're sending data out about you. 
+
+![](@attachment/Clipboard_2020-02-03-18-06-25.png)
+
+Next we will go over break on attribute. Wes doesn't use this one often, but it can be useful. 
+
+On `debugging.html` there is a button that says "Make me bigger". 
+
+![](@attachment/Clipboard_2020-02-03-18-08-59.png)
+
+When you click it, it gets bigger. If you go to your elements, you will see that the font-size is just being bumped up everytime the button is pressed. If you don't know where the javascript is that is making that button bigger, you can go into you button in the elements tab of dev tools and select "Break on -> Attribute Modifications". 
+
+![](@attachment/Clipboard_2020-02-03-18-10-14.png)
+
+This is just another way of adding a breakpoint. There is also something called subtree modifications which means that when somebody adds like a div, and then there is something called node removal which is when someone removes an element or text from something. We will just do attribute modifications. 
+
+Set the breakpoint on attribute modification and now when we click the button, the breakpoint should be triggered and bring us to the sources tab which will show you where that attribute is being modified from. 
+
+GIF: https://cl.ly/9c5a8f8b9d07
+
+That is very useful when you get thrown into a random code base where you don't really know what is going on.
+
+Finally, if you go to the sources tab again, you will see that there are other things on the righthand side. 
+
+![](@attachment/Clipboard_2020-02-03-18-17-49.png)
+
+You can throw eventlistener breakpoints, such as mouse click.
+
+![](@attachment/Clipboard_2020-02-03-18-18-28.png)
+
+If you add that breakpoint, now when you click on the button, it will throw a debugger breakpoint for you. 
+
+There are also XHR breakpoints:
+![](@attachment/Clipboard_2020-02-03-18-19-34.png)
+
+If you click `Any XHR or fetch`, what that will do is anytime a fetch request is made, anytime someone goes off to an external API, the code will break. 
+
+To test this you can set the breakpoint option and then go into the console and try typing `fetchDadJoke()`. You will see that it pauses in the debugger where the fetch request is made and we can actually step through it.
+
+Wes would estimate that around 98% of the debugging that he does is done using console.log, breakpoints and network requests. He will turn to the other types of debugging tools available typically in severe edge cases where he is stumped. 
+
+
+

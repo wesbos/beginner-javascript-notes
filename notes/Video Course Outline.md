@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-02-03T23:25:34.242Z'
+modified: '2020-02-04T02:12:52.265Z'
 ---
 
 # Video Course Outline
@@ -29,7 +29,7 @@ Module 2: Functions
 16. ~~Debugging Tools~~ (27:06)
 
 Module 3: The Tricky Bites
-17. Scope (23:02)
+17. ~~Scope~~ (23:02)
 18. Hoisting (5:29)
 19. Closures (12:38)
 

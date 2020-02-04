@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png]
+attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png]
 title: 'Module 3: The Tricky Bits'
 created: '2020-02-03T23:25:39.261Z'
-modified: '2020-02-04T02:12:12.594Z'
+modified: '2020-02-04T18:26:10.941Z'
 ---
 
 # Module 3: The Tricky Bits
@@ -407,4 +407,106 @@ It is possible to do a function inside of a function, but generally, you won't b
 
 ---
 
+## 18 - Hoisting
 
+We talked about this a little bit before. Now we will get into the details about what it is, when you can use it and why you might want to use it. 
+
+Hoisting in javascript allows you to access functions and variables before they have been creatd.There are two things in javascript that are hoisted: function declarations and variable declarations. 
+
+We will focus on function delcarations first. Make a `hoisting.html` file in the `/playgrounds` directory and give it the base html. Add a script src of `./hoisting.js` and create a new javascript file named `hoisting.js`. Do our usual `console.log('It works!');` to check that it works.
+
+Make a function called `sayHi();`. If you try to run this function before it  exists, will it work? You can see ESLint is complaining with warning of:
+>`sayHi` was used before it was defined. eslint(no-use-before-define)
+
+
+```js
+sayHi();
+
+function sayHi() {
+  console.log('hey!'); 
+}
+```
+If you open `hoisting.html` in the browser, does it work? it does. Why is that?
+
+When you run your javascript file, javascript hte compiler will take all of your function declarations and move them to the top of the file so they are all available before you use them. 
+
+Because of hoisting, you can technically run a function before it exists. 
+
+Let's make another example. Add the following function:
+```
+function add(a,b){
+  return a + b;
+}
+```
+
+If you use that function within sayHi(), like so: 
+
+```
+sayHi();
+
+function sayHi() {
+  console.log('hey!'); 
+  console.log(add(10,2));
+}
+function add(a,b){
+  return a + b;
+}
+```
+
+Is that going to work? It does. 
+
+![](@attachment/Clipboard_2020-02-04-13-16-53.png)
+
+That is because hoisting moves them to the top before it will actually run anything.
+
+So javascript rearranges the file and puts all the variable and function declarations at the top of the file. Why does that functionality exist? 
+
+Wes hardly ever uses hoisting, he prefers to declare his functions before using them. Or when we get into modules, he prefers to put his separate functions in a module like util functions or math functions, and then import them as he needs them.
+
+One argument Wes has heard for hoisting being useful is people often prefer when opening up a file, say you open up `hoisting.js`, they much prefer to have what does this file do ffirst, and the nhow does this file do it. That way if you are quickly jumping into a file, you can quickly see from the first couple of lines "what does this file do". We don't necessarily care how it works, we just want to know how it works. 
+
+If you do care about what it does, you can go a bit further down into the file and see what it does. 
+
+```js
+/* What does this file do? */
+sayHi();
+
+/* How does this file do it? */
+function sayHi() {
+  console.log('hey!');
+  console.log(add(10, 2));
+}
+```
+
+Personally, Wes doesn't use this method very much and doesn't like it all that much but that is just his personal opinion.
+
+The other type of hoisting is called **variable hoisting**. 
+
+If you were to go the top of the file and add 
+
+```
+console.log(age);
+var age = 10;
+```
+
+What will happen? is it going to error? Undefined? 10?
+The value is undefined. 
+![](@attachment/Clipboard_2020-02-04-13-23-59.png)
+
+Now if you try to log another varaible that does not exist, you will get an error 
+
+![](@attachment/Clipboard_2020-02-04-13-24-16.png)
+
+Why is that? 
+What is happening is that javascript will hoist the variable declarations but it will not actually hoist the setting of the values. So if after the page is loaded, you type `age` into the console, it wil be set to 10. 
+
+So what Javascript does is it says before everything runs, I am going to make my variables and then I'm just going to go ahead and update them. 
+It is basically doing the following:
+
+```
+var age;
+console.log(age);
+age = 10;
+```
+
+5:25 in

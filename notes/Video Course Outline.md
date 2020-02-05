@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-02-04T02:12:52.265Z'
+modified: '2020-02-05T02:21:29.799Z'
 ---
 
 # Video Course Outline
@@ -30,7 +30,7 @@ Module 2: Functions
 
 Module 3: The Tricky Bites
 17. ~~Scope~~ (23:02)
-18. Hoisting (5:29)
+18. ~~Hoisting~~ (5:29)
 19. Closures (12:38)
 
 Module 4: The Dom - Working with HTML and CSS

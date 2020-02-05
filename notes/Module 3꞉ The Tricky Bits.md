@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png]
+attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png]
 title: 'Module 3: The Tricky Bits'
 created: '2020-02-03T23:25:39.261Z'
-modified: '2020-02-05T02:21:20.132Z'
+modified: '2020-02-05T12:54:39.328Z'
 ---
 
 # Module 3: The Tricky Bits
@@ -514,5 +514,72 @@ You can use hoisting to figure out if variables arecreated but not what their va
 Hoisting is variable declarations and function declarations that are hoisted to the top of the file. Only function declaration types of functions are hoisted, NOT function expressions (when you put a function in a variable). Same thing goes with arrow function or any other type of function. 
 
 ---
+
+## 19 - Closures
+
+Closures is one of the scariest words in javascript and a concept that comes up all the time in javascript, especially in interviews.
+
+It's a hard  concept to get, but it can be relatively simple to understand. We will tackle now understanding at least the basics of what a closure is. As we build stuff, Wes will mention when something is a closure to give us more context and examples of when closures are used.
+
+Create a new file in the `playground` directory called `closures.html` and add our HTML base.Open up a set of script tags. Our examples will go within the sccript tags. 
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="../base.css">
+</head>
+
+<body>
+  <script>
+  //examples go in here
+  </script>
+</body>
+</html>
+```
+
+A closure is the ability to access a parent level scope from a child scope, even after the parent function has been terminated. 
+
+Normallly, Wes doesn't like examples that are not real world but since this is a tough concept, we will start with a simple example. We are going to make a function inside of a function, that is called inner and outer to illustrate the example and then we will get into more fun examples. 
+
+We will create a function called `outer` and within it set a variable `outerVar` equal to "Hey I am the outer var". 
+
+Now inside of that, make another function called `inner()` and within it declare a variable `const innerVar = 'Hey I am an inner var";` We already learned in scope that you could be able to add inside of the `inner()` function a `console.log(innerVar)`, and it would work because the variable is inside of the function scope. You can also log the `outerVar` within the `inner()` method because of the scope lookup chain. Since there is no variable called `outerVar` in that function, it will go a level up to the `outer()` function and since it finds that variable there, it will use that variable.
+
+```
+  function outer(){
+    const outerVar = 'Hey I am the outer Var';
+    
+    function inner(){
+      const innerVar = "hey I am an inner var";
+      console.log(innerVar);
+      console.log(outerVar);
+    }   
+  } 
+```
+
+Now if we were to go inside of the `outer()` function and call the `inner()` function, and open it in the browser and in the console run the `outer()` function, we see both the inner and outer variables. 
+
+![](@attachment/Clipboard_2020-02-05-07-53-19.png)
+
+The same thing would happen if you called it from within the html script tag like so:
+
+
+
+```
+    function outer(){
+      const outerVar = 'Hey I am the outer Var';
+    }
+
+    function inner(){
+      const innerVar = "hey I am an inner var";
+      console.log(innerVar);
+      console.log(outerVar);
+    }
+```
 
 

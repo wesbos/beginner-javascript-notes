@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png]
 title: 'Module 3: The Tricky Bits'
 created: '2020-02-03T23:25:39.261Z'
-modified: '2020-02-05T12:56:43.398Z'
+modified: '2020-02-05T13:00:06.830Z'
 ---
 
 # Module 3: The Tricky Bits
@@ -569,7 +569,6 @@ Now if we were to go inside of the `outer()` function and call the `inner()` fun
 The same thing would happen if you called it from within the html script tag like so:
 
 
-
 ```html
 <script>
   function outer() {
@@ -585,5 +584,24 @@ The same thing would happen if you called it from within the html script tag lik
   outer();
 </script>  
 ```
-3:03 in
 
+The `inner()` function is able to do a scope lookup and see the outer. We have already learned about that, and that's not really a closure. Now the kind of interesting thing, and this is where closures come into play, is where you don't call the `inner()` function from within the `outer()` function but you call it at a later point in time. 
+
+So let's not call it from within `outer()`, remove that line of code and also remove the call to `outer()`. From the `outer()` function, let's return the inner function like so 
+
+```
+    <script>
+      function outer() {
+        const outerVar = "Hey I am the outer Var";
+
+        return function inner() {
+          const innerVar = "hey I am an inner var";
+          console.log(innerVar);
+          console.log(outerVar);
+        }
+      }
+;
+    </script>
+```
+
+3:35 in 

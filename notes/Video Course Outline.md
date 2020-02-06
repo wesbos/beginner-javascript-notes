@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-02-06T01:44:58.164Z'
+modified: '2020-02-06T12:27:13.659Z'
 ---
 
 # Video Course Outline
@@ -28,14 +28,14 @@ Module 2: Functions
 15. ~~Different Ways to Declare Functions~~ (37:17)
 16. ~~Debugging Tools~~ (27:06)
 
-Module 3: The Tricky Bites
+Module 3: The Tricky Bits
 17. ~~Scope~~ (23:02)
 18. ~~Hoisting~~ (5:29)
 19. ~~Closures~~ (12:38)
 
-Module 4: The Dom - Working with HTML and CSS
+Module 4: The DOM - Working with HTML and CSS
 
-20. The DOM - Introduction to the document (5:32)
+20. ~~The DOM - Introduction to the document~~ (5:32)
 21. THe DOM - Selecting Elements (11:30)
 22. The DOM - Element Properties and Methods (14:29)
 23. The DOM - Working with Classes (8:48)

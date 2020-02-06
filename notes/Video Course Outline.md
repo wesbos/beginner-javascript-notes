@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-02-05T02:21:29.799Z'
+modified: '2020-02-06T01:44:58.164Z'
 ---
 
 # Video Course Outline
@@ -31,11 +31,11 @@ Module 2: Functions
 Module 3: The Tricky Bites
 17. ~~Scope~~ (23:02)
 18. ~~Hoisting~~ (5:29)
-19. Closures (12:38)
+19. ~~Closures~~ (12:38)
 
 Module 4: The Dom - Working with HTML and CSS
 
-20. The DOM - Introduction to the document
+20. The DOM - Introduction to the document (5:32)
 21. THe DOM - Selecting Elements (11:30)
 22. The DOM - Element Properties and Methods (14:29)
 23. The DOM - Working with Classes (8:48)

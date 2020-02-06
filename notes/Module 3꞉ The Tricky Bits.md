@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png, Clipboard_2020-02-05-19-09-28 (2).png]
+attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png, Clipboard_2020-02-05-19-09-28 (2).png, Clipboard_2020-02-05-19-14-46.png, Clipboard_2020-02-05-20-22-15.png, Clipboard_2020-02-05-20-23-42.png, Clipboard_2020-02-05-20-24-02.png, Clipboard_2020-02-05-20-37-58.png, Clipboard_2020-02-05-20-41-03.png, Clipboard_2020-02-05-20-41-31.png]
 title: 'Module 3: The Tricky Bits'
 created: '2020-02-03T23:25:39.261Z'
-modified: '2020-02-06T00:12:17.699Z'
+modified: '2020-02-06T01:43:47.482Z'
 ---
 
 # Module 3: The Tricky Bits
@@ -655,5 +655,106 @@ The question is, if you were to run `innerFn()` right below the function express
     </script> 
  ```
 
- 4:29 in
+
+We ran the `outer()` function on this line of code `const innerFn = outer();`, that is where it created the variable, and then it returned the inner function, is that still going to be avialable to us or will it be undefined?  If you try that code, you will see that they both work. 
+
+![](@attachment/Clipboard_2020-02-05-19-14-46.png)
+
+What you can do is stick a function into a variable, and then at a later point in time, I have access to that inner function. Where a closure comes into play is the fact that even though the outer function is done. 
+
+We learned in scoping that when a function is done,  anytime there are scoped variables that aren't returned from the function, they are not accessible. Now we get this weird thing wher ewhen we run the function outside of it, it's still able to access it. That is what is referred to as a closure. 
+
+Javascript is able to create functions inside of functions, and it can still reach outside to the parent scope, and even though the outer function is done running, it will still maintain that variable in memory so that we can then access it at a later time. 
+
+The variable is not cleaned up or "garbage collected" which is a term that is often used. 
+
+Why would that be helfpul? It looks very confusing. 
+
+Let's look at some actual examples. 
+
+First, we will go over an example of a closure creating a function which is what we just went over. 
+The second example will be how you can use closures to create what are called private variables. 
+
+Comment out the previous code we had added in the script tags, and add the following:  
+
+```
+ function createGreeting(greeting = "") {
+    const myGreet = greeting.toUpperCase();
+    return function(name) {
+      return `${myGreet} ${name}`;
+    };
+  }
+```
+
+This function takes in a greeting, the default of which is an empty string, then we will make a `myGreet` variable which takes the greeting that got passed in and then runs `toUpperCase()` against it.  From there, we will return a function, which we don't have to name, which will take in the presons name and return a greeting.
+
+Why is that helpful? Why did we do this in two separate functions? Because you can create functions that are based off whichever greeting you like. 
+
+```
+const sayHello = createGreeting('hello');
+const sayHey = createGreeting('hey');
+console.log(sayHello('wes'));
+console.log(sayHello('kait'));
+console.log(sayHey('kait'));
+```
+
+If you refresh you will see the following in the console:
+
+![](@attachment/Clipboard_2020-02-05-20-22-15.png)
+
+What is happening here is that when you create the outer function `createGreeting(){...}`, because we have created a variable inside of that function, that is then accessed at a lower scope,. 
+
+We've got inner scope here:
+![](@attachment/Clipboard_2020-02-05-20-23-42.png)
+
+And we have outer scope here:
+![](@attachment/Clipboard_2020-02-05-20-24-02.png)
+
+because our inner scope references a variable that was created in our outer scope, that is what is referred to as closure. We still are able to access our outer variables inside of the outer function scope, inside of our inner even after the `createGreeting()` function has been closed over. That is the whole idea behind closures, it's been closed. 
+
+
+That is the first example where you have functions inside of functions and they are able to access the closure data inside of that. 
+
+The other sort of similar way is to create something called private variables. 
+
+We will demonstrate it with another example. We are going to create a function, `createGame` that will take the name of the game as a parameter. Inside of the function we will declare a variable `score` and then create another function within called `win`, in which we will increment the score and return a string with the name of the game and the score. Next we will create a variable called `hockeyGame` and assign it to the `createGame()` function where we will pass "Hockey" as an argument. 
+
+```
+
+      function createGame(gameName){
+         let score = 0;
+        return function win(){
+           score ++;
+           return `Your name ${gameName} score is ${score}`
+         }
+      }
+      const hockeyGame = createGame('Hockey');
+```
+
+(Note: if you forget to add the `return` keyword that is infront of the `win()` function, when you try to run `hockeyGame()` in the console, it will throw an error saying `hockeyGame is not a function`.)
+
+Now, whenever we run the hockey game function, a message will be logged in the console showing the incrementing score. 
+
+![](@attachment/Clipboard_2020-02-05-20-37-58.png)
+
+What is happening there is the function that we create is called `win()`, and we are using a `score` variable. So whenever we create the game, we create an empty score variable. And then the inner function, whenever we actually run it, will increment the score variable that is of the outer scope. 
+
+Why is that helpful?
+
+That allows you to maintain multiple games at once.
+
+Under the `hockeyGame` variable, we will declare another variable:
+`const soccerGame = createGame('Soccer');`
+
+Now we can do this in the console:
+
+![](@attachment/Clipboard_2020-02-05-20-41-03.png)
+
+Even though this score variable: ![](@attachment/Clipboard_2020-02-05-20-41-31.png) is the same variable name, because we have created two separate `win()` functions by using the `createGame()` function, they each have hteir own sort of private variable score. 
+
+Currently there is no way for us to access that score variable. If you try to access it in the console, you will get an error saying that `score is not defined`. There is no way for us to access that unless we were to explictly return that variable or as we did in this example, by putting it into a string. 
+
+Closures are the ability of a child function, or an inner function, to access variables from a higher level scope even after the functions have been called or closed or closed over. 
+
+---
 

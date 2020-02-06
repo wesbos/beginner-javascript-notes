@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png]
+attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png, Clipboard_2020-02-05-19-09-28 (2).png]
 title: 'Module 3: The Tricky Bits'
 created: '2020-02-03T23:25:39.261Z'
-modified: '2020-02-05T13:00:06.830Z'
+modified: '2020-02-06T00:12:17.699Z'
 ---
 
 # Module 3: The Tricky Bits
@@ -587,21 +587,73 @@ The same thing would happen if you called it from within the html script tag lik
 
 The `inner()` function is able to do a scope lookup and see the outer. We have already learned about that, and that's not really a closure. Now the kind of interesting thing, and this is where closures come into play, is where you don't call the `inner()` function from within the `outer()` function but you call it at a later point in time. 
 
-So let's not call it from within `outer()`, remove that line of code and also remove the call to `outer()`. From the `outer()` function, let's return the inner function like so 
+So let's not call it from within `outer()`, remove that line of code where we are calling inner() and also remove the call to `outer()`. From the `outer()` function, let's return the inner function. You can return it two ways:
 
 ```
     <script>
       function outer() {
         const outerVar = "Hey I am the outer Var";
 
-        return function inner() {
+         return function inner() {
           const innerVar = "hey I am an inner var";
           console.log(innerVar);
           console.log(outerVar);
         }
       }
-;
     </script>
 ```
 
-3:35 in 
+or 
+
+
+
+```
+    <script>
+      function outer() {
+        const outerVar = "Hey I am the outer Var";
+
+         function inner() {
+          const innerVar = "hey I am an inner var";
+          console.log(innerVar);
+          console.log(outerVar);
+        }
+        return inner;
+      }
+    </script>
+```
+
+We will go with the second one and after the `outer()` function, we will add :
+
+```js
+const innerFn = outer();
+```
+
+What we are doing there is we are running the outer function, it's creating an outer variable (`outerVar`) and then we are returning the inner function, which is why we are sticking it in a variable (`innerFn`).
+
+In the console, when you type `innerFn` it will return the inner function like so: 
+
+![](@attachment/Clipboard_2020-02-05-19-09-28.png)
+
+The question is, if you were to run `innerFn()` right below the function expression, is the outerVar still going to be accessible or will it be undefined?  
+
+  ```
+   <script>
+      function outer() {
+        const outerVar = "Hey I am the outer Var";
+
+        function inner() {
+          const innerVar = "hey I am an inner var";
+          console.log(innerVar);
+          console.log(outerVar);
+        }
+        return inner;
+      }
+
+      const innerFn = outer();
+      innerFn();
+      
+    </script> 
+ ```
+
+ 4:29 in
+

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-06T12:27:05.107Z'
+modified: '2020-02-07T00:23:40.233Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -48,3 +48,73 @@ Right now you just need to know that there is the `window` which contains a lot 
 In the next video we will get into selecting elements on the page. 
 
 ---
+
+## 21 - The DOM - Selecting Elements
+
+ For this excercise, go into the `/excercises` folder, and you will see folder named `20 - The-DOM` which Wes has already created for us. Within that folder there are two files: an `index.html` and `the-dom.js` (the javascript file should be empty). You can open up `index.html` in the browser. 
+
+First thing we need to talk about is where to load our javascript if we are selecting elements. 
+
+To demonstrate this, we are going to jump ahead of ourselves briefly and grab an element from the page. 
+
+Add the following the the javascript file: 
+
+```js
+const p = document.querySelector('p');
+console.log(p);
+```
+
+If you wanted to load this javascript into the `index.html`, you might think you want to add it inside of the head tag, like so:
+
+```html
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>The DOM</title>
+  <link rel="stylesheet" href="../../base.css">
+  <script src="./the-dom.js"></script>
+</head>
+```
+
+If we reload the page, when the page runs, it will run the Javascript for us. Open up dev tools and you will see null returned. 
+
+![](@attachment/Clipboard_2020-02-06-19-10-10.png)
+
+We are trying to select something on the page and then `console.log()` it. If you try to run `document.querySelector('p')` in the console, it will return an element like so: 
+
+
+![](@attachment/Clipboard_2020-02-06-19-11-24.png)
+
+Why does it work in the console, but not when we loaded it via javascript?
+Because the javascript is being loaded before our html is created and what is happening is the javascript is downloaded and run before the actual elements have bene created on the page. 
+
+There are ways to get around like (such as async and defer attributes), but it's better to just put the script tag right before the closing body tag. What that will do is ensure that all your HTML is first downloaded and parsed to the page before the javascript is run.   
+
+If you move your script tag to right before the closing body tag and refresh the page, you will see the exact same code works.
+
+There are ways around it, like putting all the javascript code inside of a function and then adding an event listener that listens for the DOM content loaded event and runs the `init()` function we created when that happens:
+
+```
+function init(){
+  const p = document.querySelector('p');
+  console.log(p);
+}
+document.addEventListener('DOMContentLoaded', init);
+ ```
+
+Move the script src back inside the `<head>` tag. 
+
+This is getting ahead of ourselves but if you refresh the page, you will see that it works now even though the script is in the head. What we are doing is delaying the code that actually runs until all of the DOM content has been loaded to the page. 
+
+If you move the script src back to right before the closing body tag, you will see that it still works. 
+
+
+It's easier to not need to use an event listener like that and just include the script tag before the closing body tag so that is what we will be doing!
+
+**Selecting DOM Elements**
+
+Before you actually work with elements on the page, you will need to go get them, which we call selecting hem. You need to be able to access the specific element on the page (whether an h2 tag, div, button, image) and then once we have it we can do things like listen for clicks, change the content, add content to it. 
+
+There are sort of two main ways of selecting elements, and these are the only two that Wes uses, and those are `querySelector()` and `querySelectorAll()`. 
+
+Stopped at 4:15

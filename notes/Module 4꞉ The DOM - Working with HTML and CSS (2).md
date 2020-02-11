@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-07T00:23:40.233Z'
+modified: '2020-02-11T02:43:02.342Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -115,6 +115,61 @@ It's easier to not need to use an event listener like that and just include the 
 
 Before you actually work with elements on the page, you will need to go get them, which we call selecting hem. You need to be able to access the specific element on the page (whether an h2 tag, div, button, image) and then once we have it we can do things like listen for clicks, change the content, add content to it. 
 
-There are sort of two main ways of selecting elements, and these are the only two that Wes uses, and those are `querySelector()` and `querySelectorAll()`. 
+There are sort of two main ways of selecting elements, and these are the only two that Wes uses, and those are `querySelector()` and `querySelectorAll()`. Generally you are using them on the `document.` although that is not always the case.
 
-Stopped at 4:15
+```
+const p = document.querySelector("p");
+console.log(p);
+```
+
+In this example we have selected something with a p. 
+
+`querySelector()` and `querySelectorAll()` take one argument and that is the CSS selector. Those are almost the exact same selectors that you know and love from CSS will be moved over to Javascript selector. 
+
+![](@attachment/Clipboard_2020-02-10-21-17-14.png)
+
+If you open up the `index.html` page, you will see we have grabbed a paragraph tag. When we console.log it, you will see we have the item there. 
+
+`querySelectorAll()` will give you multiple elements, where `querySelector()` will give you the first matching one. 
+
+If we make another variable called divs like so:
+
+```
+const p = document.querySelector("p");
+const divs = document.querySelectorAll("div");
+console.log(p);
+console.log(divs);
+```
+
+If you reload `index.html` you will see that we get something in the console called a NodeList. 
+
+![](@attachment/Clipboard_2020-02-10-21-20-05.png)
+
+We will be learning about arrays in the future and NodeLists look a lot like arrays. This is kind of like an interview question that you might hear that a node list is not an array. It is a list of things, but there are a few differences which we will go through the differences. The short and skinny is that it does not have all the methods that an array does like map, filter and reduce built into it. 
+
+If you hover over the NodeList in the console, you will see that it is grabbing everything that matches the selector (div). 
+
+![](@attachment/Clipboard_2020-02-10-21-22-12.png)
+
+You can get more specifc than using elements as selectors. You could say give me anything with a class of `.item` : `document.querySelectorAll('.item');`. Let's say you only wanted divs with a class of item, you would use `document.querySelectorAll("div.item");`.
+
+You can do parent child selectors. Let's say we only wanted to grab an image inside of an `item` div. You would do that like so `const divs = document.querySelectorALl('.item img');` 
+
+Let's say you wanted to just select the first item and then the image inside of it, you could do `document.querySelector('.item img')` instead. That will return the first match. 
+
+Or let's say the other item div also has a class of item2.  You could do `const item2 = document.querySeletor('.item2');` Now if you want to search inside of an element that you already have, you can use querySelector on any other element like so:
+
+```
+const item2Image = item2.querySelector('img');
+```
+
+![](@attachment/Clipboard_2020-02-10-21-30-10.png)
+
+If you ever need to narrow down your focus as to where you are searching, you can do that in your selector, but you can also run `querySelector()` and `querySelectorAll()` on any other elemen and only search within it to limit the scope. 
+
+If you have an element with an id such as `<h2 id="wes">Sub Div</h1>`, you would be able to grab it using `document.getElementById('wes');`. Notice how you don't put the `#` sign before wes? That is because if you're using anything that's not query selector, you don't have to pass `.` or `#`. The same works with `document.getElementsByClassName()`, but you don't pass the `.` from the classname. 
+
+You can get all the work done with `document.querySelector()` and `document.querySelectorAll()` however and they are much more flexible. 
+---
+
+

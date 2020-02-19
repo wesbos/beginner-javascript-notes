@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-19T00:57:34.634Z'
+modified: '2020-02-19T12:50:11.239Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -221,6 +221,69 @@ If you log both the `heading.textContent` and `heading.innerText`, you will see 
 
 ![](@attachment/Clipboard_2020-02-13-19-20-42.png)
 
-stopped at 3:55
+Content returns every element in the node whereas innerText is aware of styling and won't return text of hidden elements. 
+
+
+Let's say you have the following code: 
+
+```
+<h2>
+I am a heading!
+<span>I am hiddden!</span>
+</h2>
+<style>
+  h2 span {
+    display: none
+  }
+</style>
+
+```
+
+`textContent` will return the "I am hidden!" text, however `innerText` will not. 
+
+![](@attachment/Clipboard_2020-02-19-07-40-26.png)
+
+We have a set of properties whne working with HTML. If we were to console.log the `innerHTML` of `heading`, you would see 
+
+![](@attachment/Clipboard_2020-02-19-07-42-02.png)
+
+There is also `outerHTML`, which should include the h2 tag and whitespace that goes inside of it. 
+
+![](@attachment/Clipboard_2020-02-19-07-42-42.png)
+
+If you ever want to add text onto something is another useful thing to lean. Go to `index.html` and modify the code like so:
+
+ ```
+ 
+  <article class="item">
+      <h2>Im an article</h2>
+      <p class="pizza">This is how many pizzas I ate! 🍕</p>
+    </article>
+ ```
+
+ What we are going to do is build something to add more pizza emojis to the end of it. 
+
+ First we need to select it, so 
+ 
+ ```
+ const pizzaList = document.querySelector('.pizza');
+ console.log(pizzaList.textContent);
+```
+
+If we wanted to update textContent we could do something like
+
+```
+pizzaList.textContent = `${pizzaList.textContent} 🍕`;
+```
+
+So that takes what was already there and it adds an emoji to the end. 
+
+That method can be slow in some applications that have lots of text and html. That causes the browser to re-render the entire list so we what you can do is tack text onto the end using another method called insert adjacent element or insert adjacent text. That will give us the ability to add stuff to the front or back of it. 
+
+```
+pizzaList.insertAdjacentText()
+```
+
+stopped at 8:51
 
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-11T02:43:02.342Z'
+modified: '2020-02-19T00:57:34.634Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -170,6 +170,57 @@ If you ever need to narrow down your focus as to where you are searching, you ca
 If you have an element with an id such as `<h2 id="wes">Sub Div</h1>`, you would be able to grab it using `document.getElementById('wes');`. Notice how you don't put the `#` sign before wes? That is because if you're using anything that's not query selector, you don't have to pass `.` or `#`. The same works with `document.getElementsByClassName()`, but you don't pass the `.` from the classname. 
 
 You can get all the work done with `document.querySelector()` and `document.querySelectorAll()` however and they are much more flexible. 
+
 ---
+
+# 22 - The DOM - Element Properties and Methods 
+
+Now that we have learned how to grab/select an element, let's discuss what you can do with it. 
+
+Let's select an h2 element from the page and console log it. 
+
+![](@attachment/Clipboard_2020-02-13-19-04-56.png)
+
+Although in the console it looks like the `heading` variable is the actual element, in reality it is an object that has a lot of properties and methods inside of it. If we change the `console.log()` to a `console.dir()`, that will show us the object properties instead of the actual element itself. 
+
+![](@attachment/Clipboard_2020-02-13-19-07-45.png)
+
+It's still the same h2 tag, but you can see all the properties on it. One example of that is `parentElement` which shows you what the parent element is. There is `outerText` `textContent` `outerHTML`, and many other properties. 
+
+![](@attachment/Clipboard_2020-02-13-19-08-37.png)
+
+We can use those properties as getters to get the data from the element that we need, or we can use them as setters. We will demontsrate this using `textContent`. 
+
+```
+const heading = document.querySelector('h2');
+console.dir(heading.textContent);
+```
+
+![](@attachment/Clipboard_2020-02-13-19-11-38.png) 
+
+That is an example of a getter. 
+
+A setter is when you update the property. An example of that would be `heading.textContent = 'Wes is cool';`. Now when you reload the page, you will see Wes is cool in the console.
+
+`textContent` and `innerText` are very similar properties, `textContent` is the newer one. The only difference is that innerText returns only the human readable content whereas textContent will get the contents of all of the elements, including script and style elements. 
+
+So if your h2 looked like the following for some reason:
+
+```
+<h2>
+I am a heading
+<style>
+  h2 {
+    color:red;
+  }
+</style>
+</h2>
+```
+
+If you log both the `heading.textContent` and `heading.innerText`, you will see that textContent includes the content within the style tag whereas innerText only returns the text `I am a heading`. 
+
+![](@attachment/Clipboard_2020-02-13-19-20-42.png)
+
+stopped at 3:55
 
 

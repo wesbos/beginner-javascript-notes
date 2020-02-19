@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-02-06T12:27:13.659Z'
+modified: '2020-02-19T20:57:08.482Z'
 ---
 
 # Video Course Outline
@@ -36,8 +36,8 @@ Module 3: The Tricky Bits
 Module 4: The DOM - Working with HTML and CSS
 
 20. ~~The DOM - Introduction to the document~~ (5:32)
-21. THe DOM - Selecting Elements (11:30)
-22. The DOM - Element Properties and Methods (14:29)
+21. ~~The DOM - Selecting Elements (11:30)~~
+22. ~~The DOM - Element Properties and Methods (14:29)~~
 23. The DOM - Working with Classes (8:48)
 24. The DOM - Build in and Custom Data Attributes (11:41) (typo? ![](@attachment/Clipboard_2020-01-19-17-01-59.png))
 25. The DOM - Creating HTML  (19:53)

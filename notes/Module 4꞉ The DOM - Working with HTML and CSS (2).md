@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-19T12:50:11.239Z'
+modified: '2020-02-19T21:01:42.555Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -284,6 +284,55 @@ That method can be slow in some applications that have lots of text and html. Th
 pizzaList.insertAdjacentText()
 ```
 
-stopped at 8:51
+If you go to mdn and search for `insertAdjacentText()` you will see that it is not a property, it is a method, meaning it is a  function that we run against the element (much like querySelector and querySelectorAll). It takes two arguments: the position (beforebegin, afterbegin, beforeend, afterend), and the text that you want to pass it. Mdn says the second argument is element but it's actually just the raw text you want to add. 
 
+add the following:
 
+```
+pizzaList.insertAdjacentText('beforeend','🍕');
+```
+
+If you refresh index.html you will see two pizza emojis now. 
+
+It works the same as the other way we tried earlier, however you should know that this is the best way to attach text to the end of something. 
+
+If you were to try 
+
+```
+pizzaList.insertAdjacentText('beforebegin','🍕');
+```
+
+![](@attachment/Clipboard_2020-02-19-15-49-31.png)
+
+That will put the pizza emoji before the paragraph entirely, it's not inside of that element. We would want `afterbegin` to add the pizza in front of the text
+
+![](@attachment/Clipboard_2020-02-19-15-50-11.png)
+
+The browser actually knows that the pizza emoji was added later, because the text is split up between what we used to have an what we inserted:
+![](@attachment/Clipboard_2020-02-19-15-51-27.png)
+
+That is actually the difference between elements and nodes. Nodes can be anything, but an actual element is something that is wrapped in a tag. It is a little bit confusing because everything is a node, and it only upgrade sitself to an element if you have wrapped it in a tag. 
+
+If you are wondering what all the possible ones are, we can stumble upon different properties and methods as we build out our excercises. You can go to the MDN docs and go to element, it will tell us what all the properties are of elements. 
+
+![](@attachment/Clipboard_2020-02-19-15-54-21.png)
+
+That is elements, both how to get properties from an element, how to set properties on an element and how to use more powerful methods on each of our elements or nodes. 
+
+---
+
+## 23 - The DOM - Working with Classes
+
+Another thing that is commonly done in javascript is the adding or removing of classes. That is done a little different than  using properties like we have used so far. 
+
+Comment out everything in `the-dom.js`. 
+
+When you select an element in javascript, there is a `classList` attribute on it and on that there are some methods for getting all the classes and removing and adding multiple classes.
+
+We will do an example with animation. Copy one of the image tags and add it to right after the body tag. Give it a class of `nice`. 
+
+```
+<img src="..." class="nice></img>
+```
+
+1:19 to go

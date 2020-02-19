@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-13-19-04-56 (2).png, Clipboard_2020-02-13-19-07-45.png, Clipboard_2020-02-13-19-08-37.png, Clipboard_2020-02-13-19-11-38.png, Clipboard_2020-02-13-19-20-42.png]
 title: 22 - The DOM - Element Properties and Methods
 created: '2020-02-14T00:02:00.647Z'
-modified: '2020-02-14T00:20:46.500Z'
+modified: '2020-02-19T20:43:03.155Z'
 ---
 
 # 22 - The DOM - Element Properties and Methods 
@@ -52,5 +52,6 @@ I am a heading
 If you log both the `heading.textContent` and `heading.innerText`, you will see that textContent includes the content within the style tag whereas innerText only returns the text `I am a heading`. 
 
 ![](@attachment/Clipboard_2020-02-13-19-20-42.png)
+
 
 stopped at 3:55

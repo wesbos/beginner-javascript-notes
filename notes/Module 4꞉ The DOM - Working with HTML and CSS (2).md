@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-19T21:01:42.555Z'
+modified: '2020-02-19T21:06:29.551Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -332,7 +332,31 @@ When you select an element in javascript, there is a `classList` attribute on it
 We will do an example with animation. Copy one of the image tags and add it to right after the body tag. Give it a class of `nice`. 
 
 ```
-<img src="..." class="nice></img>
+  <img class="nice" src="https://picsum.photos/500" />
 ```
 
-1:19 to go
+Now in the javascript file, we will select the element with a class of nice and console log the class list. 
+
+```
+const pic = document.querySelector('.nice');
+console.log(pic.classList)
+```
+
+![](@attachment/Clipboard_2020-02-19-16-03-58.png)
+
+In the console we get a DOMTokenlist which is kind of like an array of all the classes that are on that image. Now if in our html file we add another class like "cool" to the image, you will see that we get both of them as well as a value of all of the classes. 
+
+![](@attachment/Clipboard_2020-02-19-16-04-54.png)
+
+If you look into the prototype (we haven't learned what that is yet), you are often able to see what are the methods you are able to call against the thing we have. 
+
+classList has many methods. 
+![](@attachment/Clipboard_2020-02-19-16-06-03.png)
+
+stopped at 2:29
+
+
+![](@attachment/Clipboard_2020-02-19-16-05-33.png)
+
+
+

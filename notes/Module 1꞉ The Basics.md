@@ -183,7 +183,7 @@ That's the short of how to load javascript. We will be using a mixture of runnin
 
 ---
 
-## 04 - Variables and Stateements
+## 04 - Variables and Statments
 
 This video is going to teach you an introduction to variables. Variables are a building block of javascript, and you can't use javascript without knowing variables so we are going to get a primer on what they are, what the different types of them are, what declaration means as well as what a statement is in javascript.
 

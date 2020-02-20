@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-19T21:06:29.551Z'
+modified: '2020-02-20T13:55:47.233Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -344,19 +344,99 @@ console.log(pic.classList)
 
 ![](@attachment/Clipboard_2020-02-19-16-03-58.png)
 
-In the console we get a DOMTokenlist which is kind of like an array of all the classes that are on that image. Now if in our html file we add another class like "cool" to the image, you will see that we get both of them as well as a value of all of the classes. 
+In the console we get a DOMTokenlist which is kind of like an array of all the classes that are on that image. Now if in our html file we add another class like "cool" to the image, you will see that we get both of them as well as a value of all of the classes.  
 
 ![](@attachment/Clipboard_2020-02-19-16-04-54.png)
 
 If you look into the prototype (we haven't learned what that is yet), you are often able to see what are the methods you are able to call against the thing we have. 
 
-classList has many methods. 
+classList has many methods. There is `add`, `remove`, `contains`, `foreach`. A lot of those are methods for working with classes which is exactly what we are going to do.
+
 ![](@attachment/Clipboard_2020-02-19-16-06-03.png)
-
-stopped at 2:29
-
 
 ![](@attachment/Clipboard_2020-02-19-16-05-33.png)
 
+ You might notice as you type in VSCode, you get a dropdown of methods available to you:
+![](@attachment/Clipboard_2020-02-20-08-35-45.png)
 
 
+We are going to use `pic.classList.add()` to add a class of 'open'.
+
+```
+const pic = document.querySelector(".nice");
+pic.classList.add("open");
+console.log(pic.classList);
+```
+
+If you refresh the page in the browesr, you will see that image now has a class of open. Now let's say we want to remove the class of 'cool' which already exists on the element. We would simple do `pic.classList.remove('cool');`
+
+![](@attachment/Clipboard_2020-02-20-08-37-54.png)
+
+There is also `toggle` which is pretty cool. Let's write a bit of css so we can visually see what is going on.
+
+In our `index.html` add a style tag somehwere on the page. 
+
+```
+<style>
+  .round {
+      border-radius: 50%;
+    }
+  </style>
+```
+
+Now in javascript, we will add a class of `round`, 
+
+```
+pic.classList.add('round');
+```
+
+Now the element has the class of round. We can add and remove that class either by pasting it into the console or on click. We will go over both.
+
+Replace the 'add' method used above with `toggle()`. Toggle will add the class if it is not there, and remove it if it is. 
+
+```
+pic.classList.toggle('round');
+```
+
+Now, if we copy and paste that line of code into the console, you will see that the class is being added and then removed. 
+
+Now if we go into our css and add a transition all for .2 seconds, that will give us an animation when the class is toggled. 
+
+```
+ img {
+      transition: all 0.2s;
+    }
+
+    .round {
+      border-radius: 50%;
+      transform: rotate(1turn) scale(2);
+      box-shadow: 0 0 10px black;
+    }
+```
+
+Quick peak ahead (we will be learning about events later), you can do:
+
+```
+function toggleRound(){
+  pic.classList.toggle('round');
+}
+
+pic.addEventListener('click', toggleRound);
+```
+
+What we are doing there is saying when the pic element is clicked, we want to the trigger the function called `toggleRound()` which should toggle the `.round` class on and off for our image element. 
+
+You can add the following style to the `.round` class also for a rotation transition: `transform: rotate(1turn) scale(2);`
+
+It is pretty cool that a lot of javascript interaction is just adding and removing classes at different points in time which then allows us to use css to add and remove transitions. This is common with modals and navs which open and close. We will be going over lots of examples of that throughtout the class.
+
+There is also the `contains()` method, which you would use like so:
+
+```
+pic.classList.contains('open');
+```
+That will return true or false based on whether that element has the class or not.  That is useful when you want to check the current state of an element by looking at it's class list. 
+
+In the next video we will go over regular attributes. Even though `class` is an attribute, classList gives us some utility methods for working with it. Whenever Wes need sto work with classes, he uses `classList` which is a few years old but fairly newer. 
+
+---

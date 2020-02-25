@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-20T14:01:34.312Z'
+modified: '2020-02-25T00:48:49.849Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -449,7 +449,6 @@ Attributes work the same way as the other properties that we have been working w
 
 Here is how we would add an alt attribute to the image element we were using in the previous video. 
 
-
 `pic.alt = "cute pup";`
 
 TIP: When adding alt attributes to images, the value of the alt text should describe the image. You do not need to include in the text that it is a photo, because screen readers will specify that. 
@@ -458,4 +457,141 @@ Although we did not add the alt attribute when we authored the element, when we 
 
 ![](@attachment/Clipboard_2020-02-20-09-01-29.png)
 
-stopped at 1:26
+We could also do something like setting the width. 
+
+```js
+pic.width = 200;
+```
+
+Most attributes are both **getters** and **setters**, meaning we could do both of the following:
+
+```js
+pic.alt = 'Cute pup'; //setter
+console.log(pic.alt); //getter
+```
+
+Some attributes however are only getters, such as `naturalWidth`. If you add 
+
+```js
+console.log(pic.naturalWidth);
+```
+
+![](@attachment/Clipboard_2020-02-24-19-07-41.png)
+
+We get zero! Why is that? If you try running it from your console like so, you get a value of 600 back. Why?
+
+![](@attachment/Clipboard_2020-02-24-19-08-05.png)
+
+It is zero when we console log it in the javascript file, but in the terminal it is 600. This is a problem that you frequently run into, which is that we have to wait for the image to actually be downloaded for us to know how large it is. This is a big problem when people were building slideshows. SO how to overcome this? One option is to add an event listener on the load event.
+
+What this should do is wait for all the images, resources, CSS, Javascript, anything that needs to be loaded to load before calling the function. 
+
+```js
+window.addEventListener('load', function(){
+  console.log(pic.naturalWidth);
+});
+```
+
+Now, a split second after you refresh your html page, you should see the naturalwidth value logged in the console. 
+
+You can also use the eventlistener specifically on an image. So we could modify the event listener code we added like so:
+
+```js
+pic.addEventListener('load', function(){
+  console.log(pic.naturalWidth);
+});
+```
+
+Now that will work as well, once the image is loaded, the event listener will fire.  All of that eventListener stuff is a bit ahead of ourselves but it's good to know some of the gotchas that you may encounter. 
+
+You might be asking yourself "we added our javascript script src tag at the end of the html file, doesn't that mean that is waits for everything to be loaded?". Yes, putting the script at the bottom of the html page waits for all the HTML to be loaded, but if the HTML goes ahead and makes additional requests like downloading images, it doesn't wait for those. 
+ 
+
+Getting back on track, we were discussing how `naturalWidth` is only a getter. If try to set it in the code:
+
+```js
+pic.naturalWidth = 200;
+```
+
+It won't error out, but it won't do anthing, and that is because it is not an attribute that you can change. 
+
+
+All of the attributes you can think of on any element are all done via getters and setters. You just use the dot notation to access them. 
+
+You may have run into these `getAttribute`, `setAttribute` and `hasAttribute` methods:
+
+```js
+pic.setAttribute('alt', 'REALLY CUTE PUP');
+console.log(pic.getAttribute('alt'));
+console.log(pic.hasAttribute('alt'));
+```
+
+`hasAttribute()` returns true or false depending on whether an attribute is set on an element. 
+
+However, what is the difference between using `getAttribute` and using the dot notation to grab the attribute? The answer to that is that `setAttribute()` will also work for things that are non-standard. We have HTML as a spec, and you have all of your standard attributes in the spec like `alt`, `title`, `width`, `src`, and all of those things. But if you want to set an attribute that is non standard (which you shouldn't do, more to come regarding that), you can use setAttribute to make something. For example
+
+```js
+pic.setAttribute('wes-is-cool', 'REALLY CUTE PUP');
+```
+
+![](@attachment/Clipboard_2020-02-24-19-35-04.png) 7:07
+
+You should not go making your own attributes whenever you want because what if in the future HTML introduces an attribute with the same name as one of your custom attributes. You will have legacy code that is clashing with the standards which will lead to bugs. 
+
+**Data Attributes**
+
+If you do want your own custom attributes, you want to use **data attributes**. To demonstrate what data attributes are, go to our html page and duplicate an image 3 times and add a `data-name` attribute to each:
+
+```html
+<img class="custom" data-name="wes" src="https://picsum.photos/200" />
+<img data-name="kait" src="https://picsum.photos/200" />
+<img data-name="lux" src="https://picsum.photos/200" />
+```
+
+In this example, we just wanted to attach a piece of metadata to each of the images. If you want to attach metadata or something to an element that does not have any sort of standard attribute like a name attribute, then you can use `data-` anything. For example: `data-dog`, `data-name`, `data-description` are all valid data attributes. That will allow you to attach metadata to an element. 
+
+![](@attachment/Clipboard_2020-02-24-19-40-52.png) 9:12
+
+Let's say we want to grab the image with the custom class and access the data attributes on that image. You might think we do something liek this 
+
+```js
+const custom = document.querySelector('.custom');
+console.log(custom.data);
+```
+
+However, that will give us undefined. If you want to access the data attributes on the element you would call `dataset` like so:
+
+```js
+const custom = document.querySelector('.custom');
+console.log(custom.dataset);
+```
+
+![](@attachment/Clipboard_2020-02-24-19-43-41.png)
+
+That gives us an object that is full of all the property values that you have. `data-name` shows up as "name" in our object, and if we had multiple data attributes on the same image like so:
+
+```html
+<img class="custom" data-name="wes" data-last="bos" src="https://picsum.photos/200" />
+```
+
+![](@attachment/Clipboard_2020-02-24-19-45-17.png) 10:15
+
+Why would this be useful? We can do things like listen for a click, and when someone clicks on it, we can alert them. 
+
+```js
+custom.addEventListener('click', function(){
+  alert(`Welcome ${custom.dataset.name} ${custom.dataset.last} `);
+});
+```
+
+Now if you were to click on that image, you would get an alert, like so:
+
+![](@attachment/Clipboard_2020-02-24-19-47-27.png)
+
+Wes loves using data attributes when you are coding vanilla javascript.
+
+To recap: anytime you need some sort of  custom attribute, when you need to associate some sort of information, some sort of text etc, use the custom data attribute. 
+
+---
+
+## 25 - The DOM - Creating HTML

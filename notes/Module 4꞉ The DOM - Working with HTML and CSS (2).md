@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-25T01:55:52.448Z'
+modified: '2020-02-26T12:16:00.616Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -818,3 +818,49 @@ In the next video, we will look at how we can use backticks and strings to gener
 --- 
 
 ## 26 - The DOM - HTML from Strings and XSS
+
+We are going to learn about creating HTML with strings, using the **backtick strings** Wes showed us earlier. 
+
+This approach is Wes' favourite, but make sure to watch the video all the way through, because at the end Wes will show a potential security hole that comes up when using this method. The main security flaw with this method is something called **XSS** which stands for **cross-site scripting**.
+
+Create a new javascritp file `creating-with-strings.js` and change the script src in the `index.html` file to point to our new file. 
+
+There is a property `innerHTML`, which is similar to `innerText` which we can grab off an element. We will grab the element with the class of item and console log it. 
+
+```js
+const item = document.querySelector('.item');
+console.log('item.innerHTML');
+```
+
+![](@attachment/Clipboard_2020-02-26-07-09-00.png) 2:13 
+
+You can see that `innerHTML` is a string of all the HTML that makes up what is inside of it. That is a getter. What if we use it as a setter?
+
+```
+innerHTML = `<h1>Hey How are you?</h1>`;
+console.log(innerHTML);
+```
+
+![](@attachment/Clipboard_2020-02-26-07-10-08.png) 2:39
+
+The inside of the `div.item` has been updated with some HTML. 
+
+That works because if you set the innerHTML of an element with just a string instead of a regular document.createElement, document.cloneElement like we did in the previous video, it will take the text and dump that HTML into the item. If it is valid HTML, the browser will take it and parse it and turn it into all the items. 
+
+TIP: You may have noticed that in Wes code editor, he has the ability to type the first few letters of something and then expand it. He is using an extension called Emmet to get those expansions and using a command called Expand Abbreviation to expand them. It lets you write things like `div.item.iteme` which will expand out to `<div class="item iteme"></div>`. 
+
+One benefit of using backticks for single or double is that you can have multiple lines. 
+
+```
+item.innerHTML = `
+  <div>
+    <h1>Hey How are you?</h1>;
+  </div>
+`
+```
+
+IT doesn't matter if you indent or put it all on one line, but it makes it easier for you to read it when you code. 
+
+So to recap: setting innerHTML into your element is one way to dump your string in and have the browser create all the elements for us. 
+
+Stopped at 4:45

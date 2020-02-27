@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-27T00:24:34.202Z'
+modified: '2020-02-27T01:27:05.052Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -958,17 +958,89 @@ Now, from within this fragment, we are able to access all of the elements that l
 
 ![](@attachment/Clipboard_2020-02-26-19-22-18.png) 12:29
 
-Let's now try to append the fragment to the document. Let's try `appendChild()` which may not work. 
-
+Let's now try to append the fragment to the document. Let's try `appendChild()` 
 ```
-document.body.appendChild(myHTML);
-```
-
-You will notice an error in the console. Now let's try with just `append()`. 
-
-```
-document.body.append(myHTML);
+document.body.appendChild(myFragment);
 ```
 
+That works! You could also do 
 
-stopped at 13:13
+```
+document.body.appendChild(myFragment);
+```
+
+You could also use `insertAdjacent` which we learned previous. 
+
+To recap: when you want to create HTML from a string, you can dump it into the document using `innerHTML`, OR when you need to do things with the elements in javascript, you can turn it into DOM nodes before it is dumped into the document with `createContextualFragment()`. 
+
+
+### Security and Santization
+
+We will have an entire video on security later in the course, but for now, we want to talk about the potential pitfalls of inserting HTML using strings. 
+
+One scenario you might run into you have an application with a profile and people can edit their profile, change their name, change their description etc. Now if someone puts HTML into that, what can happen is that the HTML can then be rendered on to the page. 
+
+Let's do an example. 
+
+![](@attachment/Clipboard_2020-02-26-20-10-05.png) 15:00
+
+
+Let's say we are taking this description variable from somebody. 
+
+They could put `const desc = \`Cute pup <h1>LOVE THIS GUY</h1>\`;`
+
+If you refresh the HTML page, you will now see that there is actually an H1 tag that wasn't created from us.  
+
+![](@attachment/Clipboard_2020-02-26-20-12-38.png) 15:17
+
+Remember, in this example scenario, the description value would be coming from a database, from someone's editor when they typed it in. They just started to put some HTML. 
+
+They could also something like:
+
+```
+const desc = `Cute pup <h1>LOVE THIS GUY</h1><style>*{display:none;}</style>`;
+```
+
+If you refresh the HTML page, you will see all the content is gone. 
+
+ASIDE: This is what MySpace allowed you to do. You used to be able to put in your own style tags 
+
+In this scenario, we were just expecting the user to enter in text but they hijacked it and added whichever HTML they wanted to. 
+
+That is all fun and games until you get into **XSS** which is shortform for **cross-site scripting**. 
+
+XSS is where people try to insert script tags using a method like entering an HTML string in a text input such as your profile name. The browser will then run the script tag, and you can do anything you want with that, like drain someone's bank account. 
+
+Imagine you were signing in to your online banking and your bank asked you to enter your name, and you included a script tag. You could do anything you want outside of that including deleting things, sending money, any type of malicious acting. 
+
+A very simple example of that is let's say you want to allow someone to include an image in the description of the picture from the example above. Something like:
+
+```js
+const desc = `Cute Pup <img src="https://picsum.photos/50"/>`;
+```
+That is okay, but let's say someone hijackts the `onload` event that is accessible via an attribute on the img element, and will run whatever javascript is supplied to it when the image loads. 
+
+```
+const desc = `Cute Pup <img onload="alert('hacked');" src="https://picsum.photos/50"/>`;
+```
+
+If you refresh the HTML page, you will see an alert. 
+
+![](@attachment/Clipboard_2020-02-26-20-23-23.png) 17:48
+
+What happened there is you took data from the user and allowed them to run any javascript that they want on your website, which is a potential security hole. 
+
+Imagine that on facebook you allowed someone to run any javascript, you could have your friends unfriend eveyrone, send malicious messages etc. Anytime you allow a third party to run Javascript on your page, that is a huge security hole. 
+
+The only javascript that should be running on your page is Javascript that you, the developer, authored, and from approved parties like Google Analytics. 
+
+To recap: Cross Site scripting is when a third party injects a script tag through a security hole like this. 
+
+In the security video, we will go over how to scrub your HTML of any potential security vulnerabilities like this before you dump it. 
+
+
+---
+
+## 27 - The DOM - Traversing and Removing Nodes
+
+

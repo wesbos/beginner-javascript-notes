@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-27T01:27:05.052Z'
+modified: '2020-02-27T12:33:55.349Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -1043,4 +1043,104 @@ In the security video, we will go over how to scrub your HTML of any potential s
 
 ## 27 - The DOM - Traversing and Removing Nodes
 
+In this video, we will learn about traversing through our DOM element and removing elements from the DOM. 
 
+Create a file called `traversing.js` and go into the html and modify the script src to point to the new javsascript file. 
+
+**Traversing** means going up, down, over etc. When you have an element, you often need to select an element based on it's position. For example, let's say you are working on a button and you need to grab its parent div. Or maybe you need to look inside of the button element for all the elements inside of it. 
+
+There are lots of properties for that, and they all revolve around node and elements. 
+
+### The difference between and node and an element
+
+We will do an example to demonstrnate the difference. In the `index.html` file, create a p tag with the class of Wes. We are going to put a few elements within the p tag now. 
+
+```html
+<p class="wes">I am Wes, I <em>love</em> to bbq</p>
+```
+
+Now in the javaascript we will select that p tag. 
+
+```
+const wes = document.querySelector('.wes');
+console.log(wes);
+```
+
+![](@attachment/Clipboard_2020-02-27-07-11-07.png) 2:04
+
+If instead you log the children of the wes element using `console.log(wes.children)`, you will see that in the console we get a collection of one thing, which is the em tag. 
+
+![](@attachment/Clipboard_2020-02-27-07-12-08.png) 2:25
+
+If instead we were to `console.log(wes.childNodes);`, you would see that we get three things: text, em and text. In the HTML collection, only the `em` element was returned. 
+
+![](@attachment/Clipboard_2020-02-27-07-13-17.png) 2:30ish?
+
+If you hover over the nodes in the console one at a time, you will see it highlighting the corresponding node on the HTML page. 
+
+This is the first text node. 
+
+![](@attachment/Clipboard_2020-02-27-07-14-33.png) 2:41
+
+Then the emphasis node. 
+
+![](@attachment/Clipboard_2020-02-27-07-16-14.png)
+
+Then the rest of the text.
+
+![](@attachment/Clipboard_2020-02-27-07-16-38.png) 2:46
+
+Everything in our NodeList in the console is a node, and if it is wrapped in a tag, it is also an element, but it doesn't work the other way around. If you only select elements, you won't have nodes returned. But if you select the nodes, you get all of the three different pieces. 
+
+![](@attachment/Clipboard_2020-02-27-07-18-49.png) 3:12
+
+TIP: You can do multi-cursor in VS Code. The way you use that is you hold down command or control and click wherever you want the cursors to go. In this video Wes used multicursor by selecting an element and then doing command + D to grab other occurences
+
+
+### Properties to work with nodes and elements
+
+We already looked at children, which gives you child elements or child nodes. 
+
+Let's add a few more elements to work with. 
+
+```js
+console.log(wes.firstElementChild);
+console.log(wes.lastElementChild);
+console.log(wes.previousElementSibling);
+console.log(wes.nextElementSibling);
+console.log(wes.parenteElement);
+console.log(wes.childNode);
+```
+
+Here is the result when you refresh the index.html page. 
+
+![](@attachment/Clipboard_2020-02-27-07-23-24.png) 3:59
+
+`children` gives you the children. 
+
+Let's add a few more elements inside of the p tag. 
+
+```HTML
+<p class="wes">
+  I am Wes, I <em>love</em> to bbq and <strong>Make websites!</strong>
+</p>
+```
+
+That returns ![](@attachment/Clipboard_2020-02-27-07-26-02.png) 4:22
+
+`firstChildElement` returns the emphasis element and the `lastChildElement` returns the strong element. 
+
+`previousElementSibling` is null. Why? If you look at our html page, you will see that we have a few elements with the class of `item` that are next to each other. 
+
+![](@attachment/Clipboard_2020-02-27-07-29-30.png) 4:45
+
+If we were to grab the second item by clicking it in our developer tools and then using `$0` to reference it in the console, we can take it and run  `$0.childrenElementCount` which will tell us the number of children elements. `$0.children` will return a collection of three elements. `$0.previousElementSibling` will give you the item that is before it. 
+
+![](@attachment/Clipboard_2020-02-27-07-32-11.png) 5:30
+
+There is `nextElementSibling` which will grab the sibling element after the currently selected element. 
+
+And then there is `parentElement` which will give you the parent element of the currently selected element. 
+'
+
+Stopped at  5:53

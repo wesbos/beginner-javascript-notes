@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-26T12:25:57.995Z'
+modified: '2020-02-27T00:24:34.202Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -882,9 +882,14 @@ We are able to use the syntax `${variable}` it allows us to pop variables right 
 
 Now, when we set the innerHTML of an element, all the vairables will have been populated. 
 
+```html
+item.innerHTML = myHTML;
+console.log(item.innerHTML);
+```
+
 ![](@attachment/Clipboard_2020-02-26-07-24-01.png) 6:45
 
-We could also do the following:
+We could go a step further with the following code, notice the `width` variable and how we are interpolating the width variable in the `src` declaration. 
 
 ```
 const width = 500;
@@ -900,6 +905,70 @@ const myHTML = `
 
 Now the image link will return a much larger photo of 500px. 
 
-There are a few other downsides besides the XSS. 
+Besides security, one of the other downsides to using this method to insert HTML is that the contents of the `myHTML` variable are not elements, they are just strings. 
 
-stopped at 7:10
+You can see that in two ways. First, you can `console.log(myHTML);` and you can also check and log he type of the variable like so: `console.log(typeof myHTML);`. 
+
+![](@attachment/Clipboard_2020-02-26-19-06-05.png) 7:37
+
+That means we cannot do things like `myHTML.classList.add('special');` If you try to do that, it will give you an error similar to
+
+> Cannot read property 'add' of undefined at ...
+
+Similarly, if you try to do `console.log(myHTML.classList);` you will see that it is also undefined. Why? Because it is only a string. 
+
+It only becomes an element once we dump it into the DOM by setting the `innerHTML`. If you want to do things like add event listeners, add to the classList, dynamically change any attributes, like title or alt or src of any of those elements, it is not doable until you first dump it into the DOM. 
+
+Once you dump it into the DOM, you have to go ahead and pull it out.  Here is an example. 
+
+Let's say we wanted to add a class to the image within `myHTML`. We would have to do that like so:
+
+```js
+const itemImage = document.querySelector('.wrapper img');
+itemImage.classLIst.add('round');
+```
+
+![](@attachment/Clipboard_2020-02-26-19-13-49.png) 9:59
+
+There are a few ways you can get around that and do the best of both worlds which is using document.createRange and document.createFragment. 
+
+Remove everything below the `myHTML` declaration within `creating-with-strings.js`. Let's now turn the string into a DOM element. 
+
+```
+const myFragment = document.createRange();
+console.log(myFragment);
+```
+
+![](@attachment/Clipboard_2020-02-26-19-16-40.png) 11:19
+
+This code creates something called a range. A range is essentially a collection of elements or part of HTML that we can then work with. That is exactly what we want, we want to take the `myHTML` string and create a couple of fragments. 
+
+We can call another method directly on `document.createRange()` called `.createContextualFragment();` which takes in a string as a parameter. 
+
+```
+const myFragment = document.createRange().createContextualFragment(myHTML);
+console.log(myFragment);
+```
+
+If you open the page in a browser and view the console, you will see that we can this thing called a **document fragment** (which is just a way of saying some HTML). 
+
+![](@attachment/Clipboard_2020-02-26-19-20-03.png) 11:46
+
+Now, from within this fragment, we are able to access all of the elements that live inside of it. We turned our HTML into true elements which are still not on the page anywhere but we have them as DOM elements and now can do things like `myFragment.querySelector('img');` and look for an image inside of the fragment. 
+
+![](@attachment/Clipboard_2020-02-26-19-22-18.png) 12:29
+
+Let's now try to append the fragment to the document. Let's try `appendChild()` which may not work. 
+
+```
+document.body.appendChild(myHTML);
+```
+
+You will notice an error in the console. Now let's try with just `append()`. 
+
+```
+document.body.append(myHTML);
+```
+
+
+stopped at 13:13

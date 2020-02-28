@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-02-27T01:26:50.033Z'
+modified: '2020-02-28T00:48:44.652Z'
 ---
 
 # Video Course Outline
@@ -42,7 +42,7 @@ Module 4: The DOM - Working with HTML and CSS
 24. ~~The DOM - Build in and Custom Data Attributes (11:41)~~ (typo? ![](@attachment/Clipboard_2020-01-19-17-01-59.png))
 25. ~~The DOM - Creating HTML  (19:53)~~
 26. ~~The DOM - HTml from Strings and XSS~~ (19:10)
-27. The DOM - Traversing and Removing Nodes (11:11)
+27. ~~The DOM - Traversing and Removing Nodes~~(11:11)
 28. The DOM - CARDIO (22:19)
 
 Module 5: Events

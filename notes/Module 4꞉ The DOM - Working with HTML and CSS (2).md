@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-02-28T00:07:44.328Z'
+modified: '2020-02-28T00:49:00.838Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -1158,7 +1158,51 @@ Now let's say we were to select a span inside of `.item2`, and you do $0, it wil
 ![](@attachment/Clipboard_2020-02-27-19-03-47.png) 7:20
 
 By starting with the span in item 2, we went up, up, over down and selected the second element. That is probably not something you would do because assuming that the structure of the HTML is the best way to move aorund elements is probably not a good idea because if someone adds an extra div, then everything is ruined. Using querySelector is better to use to search for what we want. There is also another method `.closest()` which will allow us to search.
-
+ 
 We also have a bunch of different properties for Nodes as well. 
+
+
+```
+el.childNodes
+el.firstChild
+el.lastElementChild
+el.previousElementSibling
+el.nextSibling
+el.parentNode
+```
+
+Unlike the element properties, these will not ignore text nodes, so it's important to know the difference. In most cases, you probably want the element selectors but in some instances you want the node selectors. 
+
+### Removing Elements
+
+There is a method on every single element on every single node which is the ability to remove something. Let's do it from the dev tools. Grab the h2 tag by clicking the element in the element pane and then in the console write `$0.remove()`.
+ 
+ ![](@attachment/Clipboard_2020-02-27-19-40-50.png)
+
+ That removes the element completely from the DOM. 
+ 
+ The only kinda gotcha is what happens if you were to create an element, add it to the DOM and call `.remove()`? 
+
+Let's try it. 
+
+ ```
+const p = document.createElement("p");
+p.textContent = "I will be removed";
+document.body.appendChild(p);
+p.remove()
+ 
+ ```
+
+ If you open the index file in the browser, you won't see the p tag because we added it and then immediately removed it. The question now is what if you console.log `p` after you call `remove()`, will it be null, undefined? 
+
+ ![](@attachment/Clipboard_2020-02-27-19-46-29.png) 10:33
+
+ It is still there! The fact that we had created that element and it exists in our javascript memory means that we do still have access to that paragraph element and we could add it back in to the DOM. If you have reference to that element in javascript, and you've craeted it in your javascript, you can add it again. 
+
+ ---
+
+ ## 28 - The DOM - CARDIO
+
+ 
 
 

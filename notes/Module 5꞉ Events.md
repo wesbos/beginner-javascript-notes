@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png]
+attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-03-01T21:29:38.665Z'
+modified: '2020-03-01T23:57:21.998Z'
 ---
 
 # Module 5: Events
@@ -296,5 +296,58 @@ That will work just as well. Arrow functions work fine. The only downside for us
 
 ## 30 - Events - targets, bubbling, propagation and capture. 
 
+The **event object** is a gold mine of information about what happens when an event fires. Remove everything in the `events.js` file after the `buyButtons` variable declaration.
+
+We are going to loop over every single buy button and attach a handler to it. 
+
+Create a new function, `handleByButtonClick` and console log "You are buying it". We will pass this function to each button's click event listener. 
+
+```
+buyButtons.forEach(function(buyButton) {
+  buyButton.addEventListener("click", handleBuyButtonClick);
+});
+```
+
+Now the question is: when a user clicks one of the buttons, how do I get informatino about what button is being clicked? 
+
+If I have one function that is being called by 10 different button event listeners, how do I know which of the 10 triggered the function?
+
+That information is hidden inside of the event object. The event object is filled with all sorts of information and methods to work with your event. 
+
+To access the event object, we modify our callback function (our handler), to accept a param that is the event. Refresher from earlier: parameters are placeholders. So we can add the following parameter, `event` to `handleBuyButtonClick()`:
+
+```
+function handleBuyButtonClick(event ){
+  console.log('You are buying it');
+}
+```
+
+We could call the `event` parameter anything, as long as it's the first param in our callback function. Why? Because when the browser runs the `handleBuyButtonClick` function for us when someone clicks it, it will run the function and pass to us a number of arguments, the first of which is the event object. 
+
+ Within the `handleBuyBackButtonClick()`, add `console.log(event)` and refresh the HTML page. Now when you click on a button you should see the following in the console:
+
+ ![](@attachment/Clipboard_2020-03-01-18-46-10.png) 3:49
+
+ What we have there is a pointer event, which we will get into more detail about later, but essentialy we have clicks, and touches and mouse movements and they are all consolidated into one event called a pointer event.  
+
+![](@attachment/Clipboard_2020-03-01-18-48-58.png) 4:!8
+
+If you expand the event, you will see all sorts of things. 
+
+**isTrusted**: this is a boolean that will tell you if the click was actually coming from someone's mouse (because it is possible to fake event clicks). If you are making a game, you probably won't want someone to programmatically click on items. 
+
+**pressure**: on newer iPads and other devices, there is pressure sensitivity. 
+
+It tells us `screenX`, `screenY`, `clientX`, `clientY`, `pageX` and `pageY`. Those are details as to where in the screen and where in the page the person has clicked, as well as a bunch of other information like what element was clicked on. 
+
+The one we are interested in is `target` and `currentTarget`. 
+
+Within `handleBuyBackButtonClick`, add `console.log(event.target);`. Now when you refresh and click on different buttons, it will show you which button the user has clicked on. 
+
+![](@attachment/Clipboard_2020-03-01-18-56-28.png) 5:43
+
+That is very useful because we could do something like add a data attribute, such as `data-price=""`.
+
+6:01
 
 

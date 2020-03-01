@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png]
+attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-03-01T20:27:01.853Z'
+modified: '2020-03-01T21:28:53.635Z'
 ---
 
 # Module 5: Events
@@ -114,10 +114,184 @@ If instead of re-using the `handleClick` function we wanted to create anonymous 
 
 So the first benefit is that it makes the code more DRY. 
 
-The second benefit is if you want to remove an eventListener from an element, you must have reference to the function. `removeEventListener()` takes two arguents, the event, and then the function.  It is not possile to remove the event listener from all the click events for example. You need to pass in the reference to the function you want to stop listening on. 
+The second benefit is if you want to remove an eventListener from an element, you must have reference to the function. 
+
+`removeEventListener()` takes two arguents, the event, and then the function.  
+
+It is not possile to remove the event listener from all the click events for example. You need to pass in the reference to the function you want to stop listening on. 
 
 ```
-butts.removeEventListener('click',          )
+butts.removeEventListener('click', handleClick);
 ```
 
-stopped at 9:22
+If you refresh the HTML page, you will see the event listener no longer works.
+
+That is called **unbinding**. 
+
+What does **binding** mean? A binding essentially means taking a function and listening for a specific click within an element. In our examples above, the `handleClick` function was bound to the `butts` element, the `coolButton` element is also bound to the `handleClick` function and when we take it off, we are **unbinding** that function from that element. 
+
+So if you want to remove the event listener, you _must_ have reference to the original function. 
+
+If we had done an anonymous function, we couldn't have removed the click handler. Even if you were to pass the exact same anonymous function to remove, like below, it still would not work. 
+
+```
+butts.addEventLisetner('click', function(){
+  console.log("I am an anon!");
+});
+butts.removeEventListener("click", function(){
+  console.log("I am an anon!");
+});
+```
+
+It does not work. That is because there is no way to reference the actual function we wanted to remove. 
+
+If you ever in the future need to remove an event listener, remember not to use an anonymous function. 
+
+Here is how you would do it wiht an arrow function. 
+
+```
+const hooray = () => console.log("HOORAY!");
+coolButton.addEventLIstener('click', hooray);
+```
+
+The `hooray` function is technically an anonymous function, but because we have stored it in a variable, it will infer the function from the variable name and we can still reference it because it's stuck in a variable. 
+
+Those are the basics of event listeners. We are going to go into what are the other events that are out there as well and how we can create our own custom events. A really handy thing is the ability to emit a buy button or buy event, or you want to emit a success event or something. It's handy to be able to emit your own events and then listen to them like you're listening to regular clicks. 
+
+### Listening to events on multiple items
+
+This is a very common thing. Let's say you have 40 buttons on the page and anytime you come across a specific type of button or any time you come across a specific type of image, or anything like that, you want to listen for the event for all of the things that are on that page.     
+
+
+In our HTML page, add the following: 
+
+```html
+    <button class="buy">Buy Item 1</button>
+    <button class="buy">Buy Item 2</button>
+    <button class="buy">Buy Item 3</button>
+    <button class="buy">Buy Item 4</button>
+    <button class="buy">Buy Item 5</button>
+    <button class="buy">Buy Item 6</button>
+    <button class="buy">Buy Item 7</button>
+    <button class="buy">Buy Item 8</button>
+    <button class="buy">Buy Item 9</button>
+    <button class="buy">Buy Item 10</button>
+```
+
+Note: Wes used an Emmet shortcut to create this text by writing `button.buy{Buy Item $}*10` and then hitting tab to expand the HTML. 
+
+Now how can you listen for a click on all of them? It doesn't make sense to have to select all 10 of them and then have to attach an event listener 10 times. That is actually what we are doing, but there is a much more efficent way. 
+
+First we need to select all the buttons. 
+
+```js
+const buyButtons = document.querySelectorAll("button.buy");
+```
+
+This gives us a node list of all of the buttons. 
+
+![](@attachment/Clipboard_2020-03-01-16-07-01.png) 41:48
+
+You might think, why can't we just go ahead and take our buy buttons and add an event listener of click like so :
+
+```
+function buyItem(){
+  console.log('BUYING ITEM');
+}
+buyButtons.addEventLIstener('click', buyItem);
+```
+
+So we have our elements, we listened for them, and then when that happens, we passed the function to run. You should see the following error when you reload the HTML page and look at the console. 
+
+![](@attachment/Clipboard_2020-03-01-16-09-14.png) 15:41
+
+The error is telling us taht the buy buttons does not have the method `addEventLisetner`. Let's take a look at the buyButtons by console logging them `console.log(buyButtons);`. 
+
+If you ever want to see what all of the diferent methods are that are available on a variable you can look at the prototype. 
+
+![](@attachment/Clipboard_2020-03-01-16-10-58.png) 16:05
+
+You will notice that `addEventListener` is not there. If we were to `console.dir(butts);`, and you expand the prototype, you will see `addEventListener` somewhere in the giant list. 
+
+So if you want to add the event listener to all the buy buttons, we have to loop over and for each element attach it individually. 
+
+We haven't learned about loops just yet, but we should be able to do this. 
+
+You may have noticed that in the `buyButtons` proptype, there was a metho called `forEach`. That is going to allow us to loop over each of the items. 
+
+Note: Wes often takes all the selectors are the top of the file rather than anywhere in the code. For this example, we are going to keep it within the middle of the file. Both methods work, putting it at the top is just a personal preference of Wes'. 
+
+We will take the buyButtons and call the `forEach()` method on them. `forEach` is a method that will run a function for each item in our node list. We can pass it an anonymous function, which is common when we are looping since we don't have the same limitations as we did in event listeners. 
+
+`forEach` function will give you an argument that is the each of the individual buttons, and we can name it whatever we want. We will call it `buyButton`. That is just a parameter (aka a placeholder) and the browser will pass us a variable called buyButton when it runs it for us. 
+
+```
+buyButtons.forEach(function(buyButton)){
+  console.log(buyButton);
+}
+```
+
+If you run that, you should see all the buy buttons logged in the console. 
+
+![](@attachment/Clipboard_2020-03-01-16-17-38.png) 18:42
+
+Anything you put in our forEach loop will happen 10 times, once per button. 
+
+Now that we have the individual elements that are on the page, we can use the `addEventListener()` method to add the event listener to each. 
+
+```
+buyButtons.forEach(function(buyButton) {
+  console.log('Binding the buy button');
+  buyButton.addEventListener("click", buyItem);
+});
+```
+
+If you refresh the page, you will see the "Binding the buy button" text was triggered 10 times and if you click each of the buttons, you should see the text BUYING ITEM logged 10 times. 
+
+![](@attachment/Clipboard_2020-03-01-16-21-03.png) 19:46
+
+Similarly, if you want to remove the event listener from each of those, you have to loop over each of them as well.
+
+Something to note, which is a big hurdle, is that the parameter `buyButton` inside of our forEach function can be named anything. 
+
+Let's say we have a function called `handleBuyButtonClick` (NOTE: Wes mentions that this function was named misleadingly... it is not actually a handler, the handler is `buyItem`). 
+
+
+What we can do is take the code out of the foreach anonymous function and move it to the `handleBuyButtonClick` function like so:
+
+```js
+function handleBuyButtonClick(buyButton){
+  console.log('Binding the buy button');
+  buyButton.addEventListener("click", buyItem);
+}
+buyButtons.forEach(handleBuyButtonClick);
+```
+
+We have made `handleBuyButtonClick` a named function,  which takes in a parameter of `buyButton` which we could have named anything that we want. It is a paremter or a placeholder that we are not supplying, the browser will run the forEach function and it knows that it will pass as the first argument, the element that got clicked. 
+
+If you renamed the parameter to `oprah` it would still work, like so:
+
+```js
+function handleBuyButtonClick(oprah){
+  console.log('Binding the buy button');
+  oprah.addEventListener("click", buyItem);
+}
+```
+
+Other things is that you will often see that people use arrow functions as well for the handlers. 
+
+For example:
+
+```
+buyButtons.forEach((button)=>{
+  button.addEventListener('click', ()=>{
+    console.log("You clicked it!")
+  })
+})
+```
+
+That will work just as well. Arrow functions work fine. The only downside for using the arrow function for your event listener like we  did in the example above is that you cannot unbind it because it's an anonymous function in this case. 
+
+---
+
+

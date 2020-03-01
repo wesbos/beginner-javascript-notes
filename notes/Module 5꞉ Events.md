@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-03-01T21:28:53.635Z'
+modified: '2020-03-01T21:29:38.665Z'
 ---
 
 # Module 5: Events
@@ -293,5 +293,8 @@ buyButtons.forEach((button)=>{
 That will work just as well. Arrow functions work fine. The only downside for using the arrow function for your event listener like we  did in the example above is that you cannot unbind it because it's an anonymous function in this case. 
 
 ---
+
+## 30 - Events - targets, bubbling, propagation and capture. 
+
 
 

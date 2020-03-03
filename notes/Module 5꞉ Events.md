@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png]
+attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-03-03T04:31:29.782Z'
+modified: '2020-03-03T23:12:20.582Z'
 ---
 
 # Module 5: Events
@@ -670,4 +670,225 @@ Because of that, Wes recommends not to use `this` in event listeners or callback
 
 ---
 
-## 31 - 
+## 31 - Events - Prevent Default and Form Events
+
+In this video, we are going to dive into the `preventDefault()` method that exists on the event (which you will likely use all the time) and working with forms. 
+
+Working with forms, inputs, clicks and hovers will likely be things you spend a lot of time working with in javascript. 
+
+In our `/29 - Events` directory, we have a `forms.js` and `forms.html` file. The javascript file should be empty. 
+
+Add a `console.log('IT WORKS')` and refresh the forms page. 
+
+![](@attachment/Clipboard_2020-03-03-16-57-11.png) 00:48
+
+### preventDefault
+
+There are a few html elements that have default functionality when they are used. 
+
+Let's say we have an html link like so:
+
+```html
+<a class="wes" href="https://wesbos.com">Wes Bos</a>
+```
+
+When you click the link, it takes us to the href, like we would expect. Now what we can do is stop the default action of the browser and instead handle the event with javascript. 
+
+In our js file, let's select the link and then listen for a click on it. 
+
+```
+const wes = document.querySelector(".wes");
+
+wes.addEventListener("click", function(event) {
+  console.log(event);
+});
+
+```
+
+When you click the link, you will see the event in the console for a split second before we are redirected to the next page. 
+
+![](@attachment/Clipboard_2020-03-03-17-13-53.png) 1:52
+
+HELPFUL TIP: If you need to console.log something but you are being redirected and the console is being cleared, you can click the "cog" icon in the chrome dev tools and check on "preserve log" to not clear the console when you navigate to another page. 
+
+So the default of a link is to change the page, however if you call `event.preventDefault()` within the event listener, it will prevent the default thing from happening. In this case, the link will not redirect us. 
+
+Let's do an example where before we redirect the user, we first wanted to ask them for some information. We will use `confirm` to confirm the redirect before we go ahead and redirect them. 
+
+```
+wes.addEventListener("click", function(event) {
+  console.log("YOU CLICKED IT");
+  event.preventDefault();
+});
+```
+
+![](@attachment/Clipboard_2020-03-03-17-21-45.png) 4:10
+
+Now when you refresh the page and click the link, you will get an alert asking you if you wish to proceed. If you select OK, the console will show true which is the value of `shouldChangePage`. 
+
+Move the eventDefault call to the top of the anonymous function. Now we can do something like conditionally redirect the user based on the value of `shouldChangePage`. 
+
+```
+wes.addEventListener("click", function(event) {
+  event.preventDefault();
+  const shouldChangePage = confirm(
+    "This website might be malicious! Do you wish to proceed?"
+  );
+  if (shouldChangePage) {
+    window.location = event.currentTarget.href;
+  }
+  console.log(shouldChangePage);
+});
+```
+
+`event.currentTarget.href` will give us the value of the href attribute which is the url we need to redirect the user to manually. 
+
+Now when you click the link, and hit okay in the alert dialogue that comes up in the browser, you will be redirected. If you were to hit "Cancel" rather than OK, you would NOT be redirected. 
+
+Another way we could achieve the same thing is if we moved the `event.preventDefault()` like so:
+
+```
+wes.addEventListener("click", function(event) {
+  const shouldChangePage = confirm(
+    "This website might be malicious! Do you wish to proceed?"
+  );
+  if (!shouldChangePage) {
+    event.preventDefault();
+  }
+  console.log(shouldChangePage);
+});
+```
+
+Now preventDefault will only be called if the user does not click okay, in which case we do not want to redirect the user which preventDefault will prevent from happening. This gives us the exact same functionality, but this time we don't need to touch `window.location`. 
+
+What other sort of defaults are there on a page? 
+
+Another common one is submitting a form element. Let's add a name attribute to the form. The best way to select a form via Javascript is to give it a name, rather than a class. Let's call this form `signup` and select it in our javascript.
+
+If you want to select an element by it's name in javascript, you use an attribute selector. This is standard in CSS as well.
+
+```
+const signupForm = document.querySelectorAll('[name="signup"]);
+```
+
+Now  we will take the sign-up form and add an event listener. However instead of listening for a click, we will listen for a "submit" event. When someone submits a form, the event will fire and give us access to the form. 
+
+```
+signupForm.addEventListener("submit", function(event) {
+  console.log(event);
+  event.preventDefault();
+});
+```
+
+Now if you put your name and email and click submit, you will see in the url the form values that you entered as parameters
+
+![](@attachment/Clipboard_2020-03-03-17-39-41.png) 7:03
+
+More often than not, you don't want to submit the form to the server but you often want to stop the form from submitting, grab those details with JS and continue.
+
+Note: When Wes is working with forms, he often gives the form inputs a default value so he doesn't have to keep entering the values everytime he wants to test it. You can do the same by modifying your email and name inputs to have attributes such as `<input type="text" id="name" name="name" value="Wes Bos">`.
+
+Now when you submit the form, nothing is happening, we just see the event logged.
+
+What we can do now is check whether the terms and conditions have been checked. You could just put a required attribute on the input boxes like so `<input required type="checkbox" id="agree" name="agree">`. Now if you were to refresh and try to submit, you would see this little error. 
+
+![](@attachment/Clipboard_2020-03-03-17-44-28.png) 8:11
+
+In some cases however you want to do extended validation. For example maybe we want to make sure the person's name is not Chad. To do that we would do the following.. 
+
+We want to grab the name input from the form. Let's `console.dir(event.currentTarget)` in the listener to see what we are working with. Just hit submit in the form. You should see something like...
+
+![](@attachment/Clipboard_2020-03-03-17-47-32.png) 8:51
+
+You might notice that we actually have properties inside of the form object with each of input names. There is a name property and a email property. ![](@attachment/Clipboard_2020-03-03-17-48-36.png) 9:09
+
+There are two ways we could grab the fields from the form. We can do th following:
+
+```
+signupForm.addEventListener("submit", function(event) {
+  event.preventDefault();
+  console.log(event.currentTarget.name);
+  console.log(event.currenTarget.email);
+});
+```
+
+![](@attachment/Clipboard_2020-03-03-17-50-22.png) 9:26
+
+Now add `.value` to both of those inputs like so: 
+
+```
+console.log(event.currentTarget.name.value);
+console.log(event.currenTarget.email.value);
+```
+
+![](@attachment/Clipboard_2020-03-03-17-51-26.png) 9:30
+
+That will give us the actual values that are in the input boxes. The reason why those are available to us is because the inputs have a name attribuet on them. One has a name of name and the other of email. There is also one with agree.
+
+With a checkbox, you don't use .value, you would use .checked like so: `  console.log(event.currentTarget.agree.checked);`. That will return true depending on whether it is checked or not. 
+
+That is the easiest way to get the inputs off a form. However we could have also done something like...
+
+```
+  event.currentTarget.querySelector('name="email"]');
+```
+
+However there is no reason to actually run querySelector if you are using proper names. That is a good reason to have valid semantic HTML by giving your inputs proper names. 
+
+Now we will put the name input value in a variable and check whether it contains the name Chad. 
+
+```
+signupForm.addEventListener("submit", function(event) {
+  const name = event.currentTarget.name.value;
+  if (name.includes("chad")) {
+    alert("Sorry bro");
+    event.preventDefault();
+  }
+});
+```
+
+Now if you refresh the page and enter the name wes in the form and hit submit, the page will refresh and the form will submit. However if you change the name to Chad, you will see an alert and the form will not submit.
+
+ASIDE: You might notice that even if you entered the name Chad with an uppercase C, it still works. That is because a string.includes() is not case sensitive. If you want it to be case sensitive, you have to use a **regex** which is something we will cover in the future.
+
+### Other Types of Events with Form INputs
+
+We have `keyup`, `keydown`, `focus`, `blur` and a whole bunch of different types. 
+
+Let's take the signup form name input, and add an event listener that listens to the keyup event. 
+
+First we will make a function called `logEvent` which takes in one parameter which will be named event. Inside of the function we will `console.log(event.type);`.
+
+```
+function logEvent(event) {
+  console.log(event.type);
+}
+
+signupForm.name.addEventListener("keyup", logEvent);
+```
+
+Now when you type anything in the name field, you will see `keyup` getting called many times in the console. We can also log the `event.currentTarget.value` to get what the user has typed into the input. 
+
+![](@attachment/Clipboard_2020-03-03-18-06-14.png) 13:43
+
+This is useful if for example you don't want to allow certain numbers or letters being used in the input, you can simply just prevent the default from happening. You would do that on the `keydown`. Duplicate the `keyup` event listener and paste it right below and modify the event to `keydown` like so:
+
+
+```
+signupForm.name.addEventListener("keydown", logEvent);
+```
+
+![](@attachment/Clipboard_2020-03-03-18-08-39.png) 14:20
+
+This logs the keydown event and the keyup event. The keydown event will tell us what the user had in the input, whereas the `keyup` event will tell us what the value is. 
+
+We also have `focus` and `blur`. Those are events that happen when you focus into an input and when you focus out of it. The same goes with tabbing, it will trigger a focus and blur event as you go between inputs. That can be used for showing styling, or recording info like how long people spend on specific inputs. 
+
+![](@attachment/Clipboard_2020-03-03-18-11-57.png) 15:00
+
+There are some more events on form elements that we will get into in the future but those are the ones that Wes finds himself using the most often. 
+
+--- 
+
+![](@attachment/Clipboard_2020-03-03-18-10-34.png) 14:37
+

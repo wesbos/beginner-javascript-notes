@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png]
+attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-03-01T23:57:21.998Z'
+modified: '2020-03-03T02:12:27.413Z'
 ---
 
 # Module 5: Events
@@ -348,6 +348,134 @@ Within `handleBuyBackButtonClick`, add `console.log(event.target);`. Now when yo
 
 That is very useful because we could do something like add a data attribute, such as `data-price=""`.
 
-6:01
+```
+<button data-price="100" class="buy">Buy Item 1</button>
+<button data-price="200" class="buy">Buy Item 2</button>
+<button data-price="300" class="buy">Buy Item 3</button>
+<button data-price="400" class="buy">Buy Item 4</button>
+<button data-price="500" class="buy">Buy Item 5</button>
+<button data-price="600" class="buy">Buy Item 6</button>
+<button data-price="700" class="buy">Buy Item 7</button>
+<button data-price="800" class="buy">Buy Item 8</button>
+<button data-price="900" class="buy">Buy Item 9</button>
+<button data-price="1000" class="buy">Buy Item 10</button>
+```
+
+ Now we can go into our `handleBuyButtonClick` function and add 
+
+```js
+ function handleBuyBUttonClick(event){
+  console.log('You are buying it!!');
+  console.log(event.target.dataset);
+}
+```
+Now when you click on a specific button, it should show you the dataset in the console.
+
+![](@attachment/Clipboard_2020-03-02-20-43-32.png) 6:23
+
+And if you do `dataset.price`, it will return the price. 
+
+![](@attachment/Clipboard_2020-03-02-20-44-15.png) 6:27
+
+If you do `console.log(typeof event.target.dataset.price);`, you will see that the price is a string, so we need to convert it. `parseFloat(price)` will keep the decimals whereas `parseInt()` will not.  
+
+```
+  console.log(parseFloat(event.target.dataset.price));
+```
+
+Now you get a true number. 
+
+![](@attachment/Clipboard_2020-03-02-20-45-51.png) 6:47
+
+To recap: the event object contains all this information about what happened in this event, such as what type of event it was (mouseclick  etc), the target, and then once you have the target, you can access anything you want about that target.
+
+What Wes likes to do is do 
+
+```js
+const button = event.target;
+```
+and then you can do 
+
+```
+console.log(button.textContent);
+```
+
+You can access anything about that specific element using event.target. 
+
+There is also another property, `console.log(event.currentTarget)`. 
+
+![](@attachment/Clipboard_2020-03-02-20-48-57.png) 7:57
+
+You might notice that you get the same thing. What is the diferent between **event.target** and **event.currentTarget**?
+
+Let's do this: we will log both and then also log a comparison of the two, to see if they are the same elemetn. 
+
+```js
+function handleBuyButtonClick(event){
+  const button = event.target;
+  // console.log(button.textContent);
+  // console.log(parseFloat(event.target.dataset.price));
+  console.log(event.target);
+  console.log(event.currentTarget);
+  console.log(event.target === event.currentTarget);
+}
+```
+
+
+![](@attachment/Clipboard_2020-03-02-20-54-38.png) 8:22
+
+It returns true. So what is the difference?
+
+The difference come in when there are elements nested inside of the element that you are listening to. Let's take all the numbers in our buttons and wrap them in a strong tag like so: `<button data-price="100" class="buy">Buy Item <strong>1</strong></button>`
+
+What happens if you click on the number in the button? ![](@attachment/Clipboard_2020-03-02-20-56-33.png) 8:58
+
+![](@attachment/Clipboard_2020-03-02-20-56-48.png) 
+
+In this instance we are clicking on the button and on the strong tag. 
+
+The `event.target` is the thing that actually got clicked. The `event.currentTarget` is the thing that fired the event listener.
+
+In most cases, you probably want to reach for `event.currentTarget` rather than `event.target`. Although it is useful to know whether someone clicked an element inside of the element that the listener is on, or did they click on the actual element with the listener?
+
+That happens very often (having click events on elements that contain other elements). Let's say we had this scenario:
+
+```
+window.addEventListener('click', function(){
+  console.log('you clicked the window');
+})
+```
+
+Now, when you click anywhere on the HTML page, it will show YOU CLICKED THE WINDOW in the console. IF you click on the h2, it will still show you clicked on the window. But if you click on one of the buttons, are you click on the window, or on the button? 
+
+![](@attachment/Clipboard_2020-03-02-21-03-46.png)
+
+What happened is that both the window event listener fired, and the `handleBuyButtonClick` fired. We technically clicked on both of them. It is possible to be clicking on multiple things as a certain time. That is what is referred to as **propagation**. 
+
+When we clicked the strong tag, what happens is the event bubbles up. Meaning we clicked on the strong tag, but we also clicked on the button, and then we also clicked on the body, and the HTML tag, and the window, and the google chrome browser etc etc. 
+
+![](@attachment/Clipboard_2020-03-02-21-07-13.png) 11:14
+
+Athough we just clicked on the strong tag, the browser and operating system are also listening to that event. 
+
+The way you can prevent that is with a method on the event that is called `stopPropagation`.  Within `handleBuyButtonClick` add the following `  event.stopPropagation();`, 
+
+Now when you refresh the HTML page, if you click anywhere on the window, the window click event will fire, but if you click on the button, it will not. The window listener doesn't fire because we stopped it. 
+
+What is cool about that is if we modify the window eventlistener like so, we can log the event.targe.
+
+```
+window.addEventListener('click', function(event){
+  console.log('you clicked the window');
+  console.log(event.target);
+})
+```
+
+Now anytime we click on something, it will show us what we are actually clicking on. So even though we are listening on the window, it will show what the actual element you clicked on is, whether it's a button or an h2. 
+
+![](@attachment/Clipboard_2020-03-02-21-12-10.png) 13:28
+
+
+stooped at 13:37
 
 

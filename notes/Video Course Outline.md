@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-03-01T19:00:31.731Z'
+modified: '2020-03-09T23:38:22.217Z'
 ---
 
 # Video Course Outline
@@ -46,10 +46,10 @@ Module 4: The DOM - Working with HTML and CSS
 28. ~~The DOM - CARDIO~~ (22:19)
 
 Module 5: Events
-29. Events - Event Listener (23:17)
-30. Events - targets, bubbling, propagation and capture (26:01)
-31. Events - Prevent Default and Form Events (15:05)
-32. Events - Accesibility Gotchas and Keyboard Codes (09:20)
+29. ~~Events - Event Listener~~ (23:17)
+30. ~~Events - targets, bubbling, propagation and capture~~ (26:01)
+31. ~~Events - Prevent Default and Form Events~~ (15:05)
+32. ~~Events - Accesibility Gotchas and Keyboard Codes~~ (09:20)
 
 Module 6: Serious Practice Exercises
 33. Etch-a-Sketch (45:20)

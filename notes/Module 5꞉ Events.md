@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png]
+attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png, Clipboard_2020-03-09-18-49-21.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-03-03T23:12:20.582Z'
+modified: '2020-03-09T22:52:44.234Z'
 ---
 
 # Module 5: Events
@@ -890,5 +890,41 @@ There are some more events on form elements that we will get into in the future 
 
 --- 
 
-![](@attachment/Clipboard_2020-03-03-18-10-34.png) 14:37
+## 32 - Events - Accessibility Gotchas and Keyboard Codes
+
+Making a website accesssible means that you are making it usable to everyone and anyone, regardless of what disability they may have, or what input device they are using, or what situation they are currently in. 
+
+If HTML is marked up correctly, it will be accessible. However, what often happens is Javascript developers will often add code that only  works with the mouse for example, and therefore aren't accessible to anyone. 
+
+In this video, we will cover the common pitfalls that happen in Javascript. 
+
+Most accesibility goof-ups happen not because someone is purposely trying to prevent a certain type of user from accessible the website. They are typically accidental and the developer just did not know what to look for or check to ensure it's still accessible. 
+
+### Difference between Buttons and Links
+
+This is a big accessiblity issue. Buttons are meant to be used for actions that happen inside of an application. Links on the otherhand are used to change the page. Do not mix those up. Links are not meant to be used where buttons are. 
+
+Wes sees code like this all the time:
+
+```
+<a href="#">Save</a>
+```
+
+Then the developer will add a click event via javascript to the a tag and prevent the default, and then perform some sort of action. However, that is not a use-case for a link because that "Save" click doesn't redirect you to anywhere, and thus is not a link. That is a good use case for a button (an action within your application or website). 
+
+It's still fine to prevent default on a specific link. For example, on twitter, if you try to click "tweets and replies" while not logged in, you will see a modal popup sayiing "You are not logged in". 
+
+![](@attachment/Clipboard_2020-03-09-18-49-21.png) 2:35
+
+That is an example of a valid use case for using prevent default with a link. 
+
+WHenever you need to do something, don't mix up buttons and links.
+
+###  Keyboard Accessibility
+
+Elements that are not keyboard accessible should not have clicks registered on them, unless you need to. 
+
+For example, let's say we have an image like so:
+
+stopped at 4:09
 

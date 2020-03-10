@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-10T11:31:47.919Z'
+modified: '2020-03-10T23:20:21.715Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -136,7 +136,62 @@ else {
 
 "nothing was true" will be logge if age is less than 50. 
 
-You might notice that the `else{}` statement does not have parenthesis () like the if and else if statements. That is because else never has a conditoin. 
+Notice that the `else` statement does not have parenthesis () like the if and else if statements. That is because else never has a condition. It is a catch all which runs if none of the conditions are true. It's similar to the default that we learne about in the switch statement. 
 
-4:14
+Let's say we take the following code :
 
+```
+const age = 100;
+if ( age > 70){
+  console.log('In your seventies');
+}
+else if ( age > 60){
+  console.log('In your sixties');
+}
+else if (age > 50){
+  console.log('In your 50s');
+}
+else {
+  console.log("nothing was true");
+}
+
+```
+
+If you run that in the console, what would you see? You should see "in your seventies". 
+
+![](@attachment/Clipboard_2020-03-10-19-08-05.png) 4:39
+
+Even though that the rest of the conditions are true, because the first condition is true, none of the other conditions are evaluated or run. That is important to keep in mind if you're working with multiple things that could be true. You need to be aware of the order of which you check your if statements. 
+
+Now we will talk about if statements inside of a function, which is likely something you will come across and use to return different values. 
+
+```
+  function slugify(sentence, lowercase) {
+      if(lowercase){
+        return sentence.replace(/\s/g, '-').toLowercase();
+      }
+      else {
+        return sentence.replace(/\s/g, '-');
+      }
+    }
+```
+
+We have this slugify function, which takes in a sentence and then takes in a Boolean, which is either going to be true of false based on whether we should lowercase it or not, and then we return that sentence but we call the .replace() method on it. 
+
+You may be wondering about this line of code:
+
+```
+sentence.replace(/\s/g, '-').toLowercase();
+```
+
+This is a **regex**, which stands for regular expression. A regular expression is a way to match characters in a string. 
+
+A regex always starts and closes with a forward slash `/` and then you type in different characters. 
+
+In our case, we want to pass the space character which is `\s`. `g` stands for global, which means find them all, not just the first one. Then we replace it with the dash and call toLowercase. 
+
+If you open the html page in a browser and type into the console `slugify('I am very cool')`, it will return "I-am-very-cool".  It puts dashes where spaces were. 
+
+If you were to run that same code but pass a second argument of true, it will lowercase it as well and return "i-am-very-cool". 
+
+6:28

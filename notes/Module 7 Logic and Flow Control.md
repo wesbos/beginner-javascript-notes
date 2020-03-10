@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-10T11:27:11.895Z'
+modified: '2020-03-10T11:31:47.919Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -101,6 +101,42 @@ else if (3 > 1) {
 }
 ```
 
-Although all three conditions above are true, the second and third blocks will never run because the first condition evaluates to true and runs. 
+Although all three conditions above are true, the second and third blocks will never run because the first condition evaluates to true and runs. An if statement will look for the first condition that evaluates to true and then it only runs that block, it will skip the rest. 
 
-stopped @ 2:32
+If you wish to check for whether multiple things are true, you'd have to have three separate if statements rather than one big if else statement, like so:
+
+```
+if( 10 > 2 ){
+  console.log('Yep');
+}
+if( 11 > 10){
+  console.log('Yep')
+}
+if (3 > 1) {
+  console.log('Yep');
+}
+```
+
+Additionally, if nothing is matched, you can chain a `else{}` onto the if statment like so:
+
+```
+if ( age > 70){
+  console.log('In your seventies');
+}
+else if ( age > 60){
+  console.log('In your sixties');
+}
+else if (age > 50){
+  console.log('In your 50s');
+}
+else {
+  console.log("nothing was true");
+}
+```
+
+"nothing was true" will be logge if age is less than 50. 
+
+You might notice that the `else{}` statement does not have parenthesis () like the if and else if statements. That is because else never has a conditoin. 
+
+4:14
+

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-10T23:20:21.715Z'
+modified: '2020-03-11T11:38:06.691Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -192,6 +192,99 @@ In our case, we want to pass the space character which is `\s`. `g` stands for g
 
 If you open the html page in a browser and type into the console `slugify('I am very cool')`, it will return "I-am-very-cool".  It puts dashes where spaces were. 
 
-If you were to run that same code but pass a second argument of true, it will lowercase it as well and return "i-am-very-cool". 
+If you were to run that same code but pass a second argument of true, it will lowercase the sentence as well and return "i-am-very-cool". 
 
-6:28
+Some developers prefer to keep as much logic out of the brackets as possible because if you delete one by accident, it takes a long time to debug. What you can do is simplify the code by getting rid of the else statement and run the code like this: 
+
+```
+  function slugify(sentence, lowercase) {
+      if(lowercase){
+        return sentence.replace(/\s/g, '-').toLowercase();
+      }
+      return sentence.replace(/\s/g, '-');
+    }
+```
+
+If you try calling `slugify('I am very cool')` again from the console, it will return the same thing. The reason for that is because of the return keyword within the `if(lowercase)` block. 
+
+What does **return** mean? It means to return a value from a function, and stop that function from running. Whenever you return from a function, even if it's inside of an if statement, that function will stop running and the code that was previously within the else will never be reached. So rather than having an if else, we can have an if and then the else is assumed by putting it after the if condition. This is just personal preference, both approaches are completely valid. 
+
+There is so many different ways we could have coded this functon. This is also a valid approach:
+
+
+```
+  function slugify(sentence, lowercase) {
+    let slug  = sentence.replace(/\s/g, '-');
+      if(lowercase){
+        slug = slug.toLowercase();
+      }
+      return slug;
+    }
+```
+
+Here we have assigned the slug variable, then based on the condition (whether lowercase is true or not) we update the slug variable and return it.
+
+You could also do:
+
+
+```
+  function slugify(sentence, lowercase) {
+    let slug  = sentence.replace(/\s/g, '-');
+      if(lowercase){
+        return slug.toLowercase();
+      }
+      return slug;
+    }
+```
+
+The last two approaches to this function are better because we don't have to duplicate the regex in two places. 
+
+### Operators
+
+We talked briefly about the different equal signs (`=`, `==`, `===`).
+
+As a refresher.. if you open the html page in the browser and try to type `age = 100;` in the console, you will get an error like the following:
+
+![](@attachment/Clipboard_2020-03-11-07-21-59.png) 9:05
+
+This is erroring out because the single value will set the value into a variable, and this is a const variable which you cannot do. 
+
+If we do `age == 100`, we will get true. That is because double equals will check that the values are the same. So the value of age is 100, and the value of what we are comparing it against is 100. 
+
+The gotcha with the `==` is that if we were comparing it against another value, such as `age == '100'` for example, it will return true because they are technically the same value but they are not the same type.
+
+Using `===` will check if the type of age and the type of the value are the same. 
+
+![](@attachment/Clipboard_2020-03-11-07-24-38.png) 10:02
+
+Because of that, you should almost always use `===`. 
+
+If that is the case, you may be wondering what is the purpose of having `==` in the language at all? Because of null and undefined.
+
+Sometimes you want to check if a variable is null or undefined. 
+
+`null === undefined` will return false.
+
+`null == undefined` will return true.
+
+Although that is the case, Wes has almost never had to use the `==` in his career because of something called **truthy** or **falsy**. 
+
+We also have does not equal which is the bang (`!` is referred to as a bang in programming) and equals sign. 
+
+You would do `name !== 'keith'` for example, which would return false if `name = 'wes'`. 
+
+You could also do `!=`. 
+
+For example 
+
+```
+10 !== '10' //returns true
+```
+
+```
+10 != '10' //returns false
+```
+
+That is because 10 and '10' are different types, but the double equals ignores the type. 
+
+Stopped at 11:40

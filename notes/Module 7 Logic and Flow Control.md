@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-12T12:05:05.777Z'
+modified: '2020-03-12T23:24:23.892Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -380,6 +380,88 @@ If you run that in the browser, you will see "You have a dog" logged in the cons
 
 However, if you were to change the dog variable declaration like so: `const dog = 'snickers'`, what would happen? We see "you don't have a dog"! 
 
-Why is that? An empty string is not true, and it's not false. It's an empty string. So how come that if statement works? That is because if statements will take in number of different values and it will try to coerce them (turn them) into a boolean 
+Why is that? An empty string is not true, and it's not false. It's an empty string. So how come that if statement works? That is because if statements will take in number of different values and it will try to coerce them (turn them) into a boolean of true or false. Values that are truthy or falsy will also work. 
 
-stopped at 20:00
+So what are examples of values that are truthy or falsy? Here is a list.
+
+### Truthy or Falsy values
+
+ * 0 //falsy
+ * 1 //truthy
+ * -10 //truthy
+ * undefined variable /falsy
+ * Variable set to null //falsy
+ * a variable set to `"hello" - 10` NaN
+ * empty string
+ * full string
+ * a string of "0"
+ * empty array
+ * empty object
+
+0 (the number zero) is a falsy value because it will equate to false. Here is a quick example to demonstrate that. 
+
+```
+const score = 0;
+if(score){
+  console.log('There is a score already');
+}
+else {
+  console.log('No score yet');
+}
+```
+
+If you refresh the html page, you should see "no score yet" in the console. Why? Because zero equates to false. 
+
+![](@attachment/Clipboard_2020-03-12-19-05-43.png) 21:03
+
+1 (the number one) is a truthy value. If we were to change the score variable from the example about to  be `const score = 1;`, you will see "there is a score already" in the console. 
+
+-10 (negative 10) is truthy.  If you change the value of the score to `const score = -10;`, you will be able to demonstrate that. This is because 0 is the only number that is falsy. All other numbers will be truthy. 
+
+If you make score an undefined variable by modifying the code to be `let score;`, you will see that it says no score yet, meaning it's a falsy value. 
+
+Note: We needed to modify the score varibale from a const to a let to make it undefined. Javascript does not support undefined const variables. 
+
+Null is also a falsy value. 
+
+A variable set to "hello" - 10 which would evaluate to NaN (not a number).
+![](@attachment/Clipboard_2020-03-12-19-12-10.png) 22:38
+Would it be truthy or falsy?  It will be falsy, meaning that NaN is falsy. 
+
+An empty string is falsy. 
+
+A full string is truthy. Any string with content in it will be true. 
+
+A string of "0" is tricky because it's a string with content, but it is also zero and we learned that zero is false. Which is it actually? It is truthy! A string of anything, even a string with just an empty space like so `" "` will be true. Only a completely empty string `""` will be falsy.  
+
+The next two we haveb't really covered yet: an empty array and empty object. 
+
+An array can be shown like this:
+
+```
+let score = [1,3,6];
+ ```
+
+Would that be truthy or falsy? 
+
+![](@attachment/Clipboard_2020-03-12-19-17-45.png) 24:21
+
+The array with values is truthy. 
+
+What about an array of nothing? will `let score = [];` will it be truthy or falsy?  
+
+![](@attachment/Clipboard_2020-03-12-19-18-25.png) 24:26
+
+An array with no values is truthy. 
+
+If you ever need to check for something in an array, we would look for something called `.length` but we are getting a bit ahead of ourselves. The length is how you tell how many items are in an array. 
+
+The last one is an empty object like so. `let score = {};`. An empty object is still truthy. 
+
+If you want to check if there is anything in the object, you can use something called `Object.keys({})` which will turn it into an array and then you can chain .length on it like so `Object.keys({}).length`. 
+
+We use a whole bunch in javascript which is why you often see if statments with things that you might not think are true or false, but that is simply because we are checking for it's existence (whether it is there or not). 
+
+stopped at 26:04
+
+stopped at 27

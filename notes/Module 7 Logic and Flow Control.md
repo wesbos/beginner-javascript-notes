@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-11T11:38:06.691Z'
+modified: '2020-03-12T12:05:05.777Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -287,4 +287,99 @@ For example
 
 That is because 10 and '10' are different types, but the double equals ignores the type. 
 
-Stopped at 11:40
+We also have greater than and less than. You could check for example if `10 > 10` which would return false. You can do `10 >= 10` which would be true. 
+
+Some people get confused and think you may need to use double equals when comparing greater than or equal or less than or equal (like `10 >== 10`, however that is not correct. Why? Because the greater than and less than operators only ever deal with numbers. So if you accidentally use a string, it will turn the string into a number at first but you shouldn't be doing that. 
+
+Wes always tells people to think of the greater than and less than sign as a hungry aligator. That is how he remembers it. Is the hungry aligator pointed to the largest number? Then that is true. However, if the hungry aligator is pointing to the smaller number than it's false. 
+
+Additionally we have and and or. 
+
+Let's go back to the `if-statements.html` file. Let's say in this function, we also wanted to check if the persons name was scott because that also is a cool name we would use the or operator like so:
+
+```js
+if (name === "wes" || name === "scott") {
+    console.log("Cool name!");
+}
+```
+
+The or operator is comprised of two pipes like so: `||`. You would read that code like so:  If the name is equal to wes, OR the name is equal to scott, we console log "cool name". 
+
+Now let's say we also wanted to check if the first name was wes and the last name was bos, then we don't use the or `||`, we use the and `&&` instead, like so: 
+
+```
+if(name === 'wes' && last === 'bos'){
+  console.log("cool name);
+}
+```
+
+We can also use BEDMAS here heavily. We can do something like
+
+```
+if(name === 'scott' || (name === 'wes' && last === 'bos')){
+  console.log('Cool name!);
+}
+```
+
+What this code will do is it will check the paranethesis. So name must equal scott and last must equal bos, in order for the whole thing to be true. 
+
+![](@attachment/Clipboard_2020-03-12-07-50-13.png) 15:29
+
+When you use the and operator, if any one of the conditions is false, then the entire thing will evaluate to false. Howevevr, when you use the || operator, if any of the conditions are true, it will always be true. 
+
+Next we will talk about using functions with if statements. This is fairly common. 
+
+If you had a string like `'awesome'` and you wanted to check if it contains the word wes you could use `'awesome'.includes('wes')` which would return true. You could also do `awesome.includes('scott')` which would return false. You can use that directly in an if statement like so: 
+
+```
+const name = 'wes';
+if('awesome'.includes(name)){
+  console.log('SUPER COOL AWESOME NAME');
+}
+```
+
+So pretty often you have methods that return true or false nad pretty often you can use those directly inside. You can also put them in their own variable to make it easier to read like so:
+
+```
+const isAwesomeName = 'awesome'.includes(name);
+if(isAwesomeName){
+  console.log('SUPER COOL NAME");
+}
+```
+
+Sometimes when you are working with a lot of conditions and a long if statement, it can make the code easier to read and follow if you break it up into multiple variables. 
+
+Similarly we can make our own functions that return true or false and then use it, like in this example:
+
+```
+function nameIsAwesome(name){
+  return 'awesome'.includes(name);
+}
+if(nameIsAwesome('wes')){
+  console.log('COOL NAME WES');
+}
+```
+
+Next we have a concept of **truthy** and **falsy**. 
+
+Although Wes has said that if statements require a boolean but that wan't completely true because they will also accept truthy and falsy values.
+
+For example is we do something like: 
+
+```
+const dog = 'snickers';
+if(dog){
+  console.log('You have a dog');
+}
+else {
+  console.log('You don't have a dog');
+}
+```
+
+If you run that in the browser, you will see "You have a dog" logged in the console.
+
+However, if you were to change the dog variable declaration like so: `const dog = 'snickers'`, what would happen? We see "you don't have a dog"! 
+
+Why is that? An empty string is not true, and it's not false. It's an empty string. So how come that if statement works? That is because if statements will take in number of different values and it will try to coerce them (turn them) into a boolean 
+
+stopped at 20:00

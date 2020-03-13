@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-13T00:28:45.867Z'
+modified: '2020-03-13T13:51:05.502Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -497,3 +497,92 @@ else {
 
 ## 39 - Coercion, Ternaries and Conditional Abuse (16:00)39. Coercion, Ternaries and Conditional Abuse
 
+Coercion can seem like an intimidating word but it's a pretty simple concept to understand. 
+
+So far, we have learned that if you only need to use bang operator, that checks for the opposite. For exammple, if you wanted to check if someone is not cool, you might think you have to do the following:
+
+```
+const isCool = true;
+if(isCool){
+
+}
+else{
+  console.log('You are not cool')'
+}
+```
+
+So in this situation where we are only ever using the else, that is because you want the opposite of a value. You could have done something like the following:
+
+```
+if(!isCool){
+  console.log('You are not cool');
+}
+```
+
+A bang in front of a boolean will always flip it. 
+So if `isCool = true`, then `!isCool` would evaluate to false. 
+
+In addition to flipping the boolean to the opposite, it will also does coercion. Coercion is when we force something that is of a different type, such as a string or number, or an object or anything like that. When we take that and cooerce it into a frue boolean. 
+
+Let's do this example. if you type `name` into the console, it should return "wes" (because we assigned that variable in earlier excercises in this javascript file).
+If you type `!name` in the console, it should return false. You will notice that `!name` took the string and turned it into a boolean by putting the bang in front of it. 
+
+So when you use the bang, it will coerce the value into a real boolean. 
+
+That is sort of the opposite because if we want to check if there is a name, if we want to take the fact that there is a name and make it into a real boolean, we can put double bang infront of it `!!` and that will coerce it into the simple existence into a Boolean of it exists or not. So `!!name` would return true. 
+
+Here is another example:
+
+Let's say you have a middle variable that is assigneed an empty string, like so `const middle ="";`. 
+
+![](@attachment/Clipboard_2020-03-13-09-27-49.png) 2:45
+
+When we put one bang infront of it, it gave us the opposite which was true. If we put two bangs, it gives us false. So if you ever see the ! and !! being used in the if statments, that is because someone is taking the fact tha tyou have a truthy or falsy value, and you are coercing it into a true boolean. 
+
+Wes used to use that quite a bit, but now that he has a really good understanding of truthy and falsy values, he doesn't use this coercion method much. 
+
+Coercion in general is the act of changing one type into another. 
+
+### Ternary
+
+Next up we have **ternary**. 
+
+Wes likes to think of ternary's as shorthand if statements. They are helpful when you quickly want to run functoinality based on something being true or false. 
+
+A ternary needs three things. 
+
+1. A condition
+2. What to do if it' true
+3. What to do if it's false. 
+
+For example:
+
+```
+const count = 2;
+let word;
+if(count === 1){
+  word = 'item';
+}else {
+  word = 'items';
+}
+```
+
+So if you had a sentence that said how many items in your cart for example, you could so something like:
+
+```
+const sentence = `You have ${count} ${word} in your cart`;
+console.log(sentence);
+```
+
+![](@attachment/Clipboard_2020-03-13-09-34-29.png) 5:25 
+
+If you changes the count to be 1, it would return the following sentence:
+
+![](@attachment/Clipboard_2020-03-13-09-35-10.png) 5:26
+
+The if statement that we wrote above is a bit verbose.. you first have to declare an empty variable and then update it so what we can do, if it's a simple if else like in this example, you can turn it into a shorthand if statement with **ternary**. 
+
+Comment out the if statement and we will write the folowing
+
+
+stopped at 6:20

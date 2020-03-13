@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-13T13:51:05.502Z'
+modified: '2020-03-13T20:14:23.074Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -582,7 +582,120 @@ If you changes the count to be 1, it would return the following sentence:
 
 The if statement that we wrote above is a bit verbose.. you first have to declare an empty variable and then update it so what we can do, if it's a simple if else like in this example, you can turn it into a shorthand if statement with **ternary**. 
 
-Comment out the if statement and we will write the folowing
+Comment out the if statement that we wrote above, because we will be replacing it was a ternary statement. 
 
+Like we mentioned above, for a ternary statement we need one condition, then we need what to do if that condition is true, and what to do if that condition is false. 
 
-stopped at 6:20
+That would look like this:
+```
+const word = count === 1 ? 'item' : 'items';
+```
+
+If you run that in the console like so:
+
+```js
+const count = 0;
+const word = count === 1 ? 'item' : 'items';
+const sentence = `You have ${count} ${word} in your cart`;
+console.log(sentence);
+```
+
+![](@attachment/Clipboard_2020-03-13-15-48-52.png) 6:55
+
+You should see that it works. 
+
+What this does is it puts the if statement where we have our condition (something that will be true or false) (`count === 1`) and then we have what to return if true (`'item'`), and finally what to return if false (`items`). 
+
+That is useful when you need to do a quick if statement. 
+
+We could even take the example above a step further and do the ternary function directly inside of the sentence like so:
+
+```
+const count = 0;
+const word = count === 1 ? 'item' : 'items';
+const sentence = `You have ${count} item${count === 1 ? '' : 's'} in your cart`;
+console.log(sentence);
+```
+
+What we are doing here is saying if count is equal to 1, return nothing, and if it's not, return "s". That works exactly the same. 
+
+We can also use these for running functions. 
+
+For example, let's say you have a variable like `const isAdmin = true;`.  We can run a function based on if we have it or not, like so: 
+
+```
+isAdmin ? showAdminBar() : null;
+```
+
+So in that example, if the `isAdmin` variable is set to true, we would show the admin bar, otherwise we would do nothing which is why we are returning null. You could also return an empty string or anything really because it's not saving that variable anywhere, it's just checking if it's true. If it's true, it will run a function. 
+
+It is important to note that both what happens when it's true and when it's false needs to be there for a ternary statement. `isAdmin ? showAdminBar();` would not be valid. You need to supply the false case. 
+
+There is one trick you can do, the **and and trick**.
+The neat thing about chaining stuff on conditoins is it will check along the way to make sure that things are true. For example let's say we had three functions and we wanted to make sure that all three functions are true before going ahead we can do an if statement like this:
+
+```
+function check1(){
+  return true'
+}
+function check2(){
+  return true;
+}
+function check3(){
+  return true;
+}
+
+if(check1() && check2() && check3()){
+  console.log('all checks passed');
+}
+```
+
+If you run that in the browser, you will see "all checks passed" logged in the console. 
+
+Now inside each function, add `console.log('Running check 1');` with the corresponding function number (running check 1, running check 2 etc). 
+
+consWhat is cool about this is if you refresh in the console, you will see each one running in order..
+
+![](@attachment/Clipboard_2020-03-13-16-04-27.png) 11:10
+
+Now if we put an else like so, and make one of the checks fail (modify one to return false) like so:
+
+```
+function check2(){
+  return false;
+}
+if(check1() && check2() && check3()){
+  console.log('all checks passed');
+}
+else {
+  console.log('Some checks failed');
+}
+```
+
+When you run in the browser you will see the following:
+
+![](@attachment/Clipboard_2020-03-13-16-06-38.png) 11:35
+
+Did the third check never run? yes, that is true. If you run a condition, Javascript will do the following: it will check the first one, and then if it's okay, it will move to the next condition. If that is true, it will go onto the next one. However, if it any point one of them is false, javascript will give up and say that one is false, there is no reason I would keep checking because already know that the first one is false. Therefore it returns the condition as false, the third condition never runs and the else block will run.
+
+That is sometimes referred to in Javascript as shortcircuiting. Meaning that we never finished what we wanted, but we knew it wouldn't work out anyway so we short circuited it and went directly to else. 
+
+The way that works can be abused or used. Some people hate it, some love it. Wes personally likes it. 
+
+Let's go back to the admin example to demonstrate what it can look like:
+
+```
+isAdmin ? showAdminBar() : null;
+isAdmin && showAdminBar();
+```
+
+We can abuse it by using `isAdmin && showAdminBar();`
+
+Javascript wil lsay, this is a condition so we are going to check if the first is true, and if it is true, we will go ahead and do the next one. However if it is false, it won't run `showAdminBar()`. 
+
+This is abusing the condition chaining, meaning that if the first condition is true, the second will never run.  
+
+You see that sort of thing in react because it's a bit hard to do 
+
+stopped at 14:03
+

@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-03-09T23:38:22.217Z'
+modified: '2020-03-13T00:28:20.785Z'
 ---
 
 # Video Course Outline
@@ -58,8 +58,8 @@ Module 6: Serious Practice Exercises
 36. Tabs (21:54)
 
 Module 7: Logic and Flow Control
-37. BEDMAS (04:23)
-38. Flow Control - If Statements, Function Returns, Truthy, Falsy (29:05)
+37. ~~BEDMAS~~ (04:23)
+38. ~~Flow Control - If Statements, Function Returns, Truthy, Falsy~~ (29:05)
 39. Coercion, Ternaries and Conditional Abuse (16:00)
 40. Case Switch and Animating a Turtle with CSS Variables (18:04)
 41. Intervals and Timers (13:10)

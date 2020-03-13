@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-12T23:24:23.892Z'
+modified: '2020-03-13T00:28:45.867Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -389,14 +389,14 @@ So what are examples of values that are truthy or falsy? Here is a list.
  * 0 //falsy
  * 1 //truthy
  * -10 //truthy
- * undefined variable /falsy
+ * undefined variable //falsy
  * Variable set to null //falsy
- * a variable set to `"hello" - 10` NaN
- * empty string
- * full string
- * a string of "0"
- * empty array
- * empty object
+ * a variable set to `"hello" - 10` NaN //falsy
+ * empty string //falsy
+ * full string //truthy
+ * a string of "0" //truthy
+ * empty array //truthy
+ * empty object //truthy
 
 0 (the number zero) is a falsy value because it will equate to false. Here is a quick example to demonstrate that. 
 
@@ -462,6 +462,38 @@ If you want to check if there is anything in the object, you can use something c
 
 We use a whole bunch in javascript which is why you often see if statments with things that you might not think are true or false, but that is simply because we are checking for it's existence (whether it is there or not). 
 
-stopped at 26:04
+What we are going to do now is make an array with all of these different values and types and loop over them and show you with an if statement whether they are truthy or falsy.  We haven't gone over arrays yet, but an array is a list of things.  
 
-stopped at 27
+```
+const values = [[], [], -10, 1, 0, "", "full string", " ", undefined, NaN, null];
+```
+Now we will call `forEach` much like we did when we were working with DOM nodes. 
+
+```
+console.group('truthy or falsy values');
+values.forEach(value => {
+  console.log(value);
+})
+console.groupEnd('');
+```
+
+![](@attachment/Clipboard_2020-03-12-20-25-30.png) 27:41
+
+Then within the foreach block we will add the following:
+
+```
+if(value) {
+  console.log(value, 'is truthy');
+}
+else {
+  console.log(value, 'is falsy');
+}
+```
+
+![](@attachment/Clipboard_2020-03-12-20-26-56.png) 28:00
+
+
+---
+
+## 39 - Coercion, Ternaries and Conditional Abuse (16:00)39. Coercion, Ternaries and Conditional Abuse
+

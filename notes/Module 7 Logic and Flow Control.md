@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-15-14-42-49.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-13T13:51:05.502Z'
+modified: '2020-03-15T19:08:22.724Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -582,7 +582,32 @@ If you changes the count to be 1, it would return the following sentence:
 
 The if statement that we wrote above is a bit verbose.. you first have to declare an empty variable and then update it so what we can do, if it's a simple if else like in this example, you can turn it into a shorthand if statement with **ternary**. 
 
-Comment out the if statement and we will write the folowing
+Comment out the if statement we wrote earlier and we will write a ternarny statement. Like mentioned earlier, a ternary statement needs a condition, what to do if true and what to do if false. Add the following code:
 
 
-stopped at 6:20
+```
+const word = count === 1 ? 'item' : 'items';
+```
+
+Let's make sure that works are then pull it apart. If you refresh the html page, you should see the following in the console, indicating that the ternary statement works:
+
+![](@attachment/Clipboard_2020-03-15-14-42-49.png) 7:04
+
+In the example above, the condition we are checking for whether it is true or false is whether count equals 1 in both value and type. If it is true, we will return the word "item", however if it is not true, we will return "items".
+
+That is helpful in a lot of these cases where you need to do a quick if or else. You can take that further and do it directly inside of the sentence like so:
+
+```js
+// 1. Condition
+// 2. what to do if true
+// 3. what to do if false
+const word = count === 1 ? 'item' : 'items';
+const sentence = `You have ${count} item${count === 1 ? '' : 's'} in your cart`;
+console.log(sentence);
+```
+
+Now we are running the ternary statement directly witihn the string. If count is one, then we will return nothing but if i'ts more than one, it will return an s. 
+
+We can also use those for running functions. 
+
+stopped at 8:12 (may have done more on my work cmputer and not pushed.

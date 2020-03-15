@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-03-15T20:20:59.752Z'
+modified: '2020-03-15T20:53:37.581Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -171,6 +171,59 @@ Now if you fresh the page, you will see a dot 200 pixels over and 200 pixels dow
  console.log(width, height);
  ``` 
 
- If we console the width and the hieght, what should we get? 
+If we console the width and the hieght, what should we get? You will get 600 and 1000 which are the actual height and weight of the canvas, not the display width. 
 
- stopped at 10:35
+You might notice that when you save the javascript file, Prettier modifiies the variable declarations for width and height like so: 
+
+![](@attachment/Clipboard_2020-03-15-16-29-54.png) 10:38
+
+Prttier is doing **destructing** for us. 
+If you are simply making variables from a property on an object, you can shortform this. 
+
+Instead of:
+
+```
+const width = canvas.width;
+const height = canvas.height;
+```
+
+You can do:
+```
+const { width, height } = canvas;
+```
+
+That is called destructuring. Meaning that we are going to take the width property and put it into a variable called width. We are going to take the height property and put it into a variable called height. That is a nice short way to do that. 
+
+We will do a lot more destructuring in this course, this is just our first time encountering it. 
+
+Why are we grabbing the width and height variables? Wes likes to have top level variables. He finds it easier to use when doing math. It's much easier than writing canvas.width everytime. 
+
+Now we want to creta a random x and y starting points on the canvas. So how do you create random values in Javascript? You may have seen that we have **Math.random()**. If you type that into the console, you will see that it gives us a random number that seems to always be underneath one. 
+
+![](@attachment/Clipboard_2020-03-15-16-36-41.png) 12:54
+
+Can we just pass a random number? Could we do something like `Math.random(100)`? No, that doesn't do anything. Let's look at the docs!
+
+![](@attachment/Clipboard_2020-03-15-16-38-41.png) 13:19
+
+Math.random returns a floating-point (that means it contains decimals), pseudo-random number in the range of 0 to 1, inclusive of 0 but not 1. That means there is a possibility that you will get zero, but you will never get one. It doesn't take any arguments or anything like that.
+
+What you can do is take the `Math.random` value that it give syou and multiply it by 100, we are going to get a random number between zero and 99.99999. 
+
+![](@attachment/Clipboard_2020-03-15-16-40-43.png) 14:09
+
+Then what we can do is run `Math.floor(Math.random() * 100))`, which should give us a number between 0 and 99. 
+
+![](@attachment/Clipboard_2020-03-15-16-41-17.png) 14:24
+
+So that is exactly what we are going to use. We will do:
+
+```
+const { width, height } = canvas;
+
+let x = Math.floor(Math.random() * width);
+```
+
+Replace the hard coded x value was passed to `ctx.moveTo` and `ctx.lineTo` with the variable x. 
+
+stoppped 15:05

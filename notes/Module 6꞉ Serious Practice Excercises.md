@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-03-15T20:53:37.581Z'
+modified: '2020-03-15T22:43:57.876Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -226,4 +226,75 @@ let x = Math.floor(Math.random() * width);
 
 Replace the hard coded x value was passed to `ctx.moveTo` and `ctx.lineTo` with the variable x. 
 
-stoppped 15:05
+```
+ctx.beginPath();
+ctx.moveTo(x, 200);
+ctx.lineTo(x, 200);
+ctx.stroke();
+```
+
+Now when you refresh the page, you should see that we are randomly getting an x value.
+
+Now we will do the same for the y value.
+
+```
+let y = Math.floor(Math.random() * height);
+...
+ctx.moveTo(x,y);
+ctx.lineTo(x,y);
+```
+
+We might need to come back and modify that so it move a little bit quicker but we can leave it there for now.
+
+For now, whenever you refresh the page you get a random x and y value that moves the dot around the page. 
+
+If you change `ctx.lineCap="round";` to `ctx.lineCap = "square";` it looks like this:
+
+![](@attachment/Clipboard_2020-03-15-18-01-03.png) 16:23
+
+But switch it back to round because we want to use round.
+
+Now that we have the basis of our canvas working, let's write the handler for working with the arrow keys. We need to know whether to move the line up or down or left or right. 
+
+We will make a function called `handleKey`. 
+
+We can listen for the arrow keys using a keydown event listener. You can listen for a keydown event on anything, we already did it on text inputs, but if you want to listen to it site wide, you listen to it on the window. 
+
+We listen for a keydown event and when that happens we want to run the `handleKey` function.
+
+```
+function handleKey(){
+  console.log("HANDLING KEY");
+}
+window.addEventListener('keydown', handleKey);
+```
+
+Refresh the `index.html` page and open the console. Click on the html page and try pressing the arrow keys (up, down, left, right) and you should see the console logging "HANDLING KEY" every time you press a key.
+
+You might notice that when you hit the arrow keys, the page is also scrolling. That is because it's a default. You probably don't want to turn off the scroll default unless you were accounting for the page being loaded on a very small window but if you did want to, you could just pass the event to the `handleKey` function like so `handleKey(e)` and call `e.preventDefault();` on it.
+
+If you refresh the html page, and then hit COMMAND + R on your keyboard, that should refresh the page. However, when you try it, you will notice that it does not refresh the page. That is because we called `preventDefault()` on every keydown event. So let's actually comment out the `e.preventDefault()` line of code within the `handleKey()` function and then manually refresh the HTML page. 
+
+```
+function handleKey(e) {
+  // e.preventDefault();
+  console.log(e.key);
+  console.log("HANDLING KEY");
+}
+
+```
+
+Now, if you were to press any key, you would see it logged in the console. We only really care about the arrow keys so what we can is check whether the key value has the word arrow in it. 
+
+![](@attachment/Clipboard_2020-03-15-18-32-04.png) 19:39
+
+We will add an if statement, which we haven't learned about before, but if conditions essentially check if something is true (whether it evalutes to boolean true or false), and then runs a block of code based on that condition. Here we will check whether the key includes the word arrow, and if it does, we will move the logic to log to the console within the if block like so:
+
+```  
+if (e.key.includes("Arrow")) {
+    console.log(e.key);
+    console.log("HANDLING KEY");
+}
+```
+
+stopped at 20:00

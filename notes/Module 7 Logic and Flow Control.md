@@ -584,6 +584,7 @@ The if statement that we wrote above is a bit verbose.. you first have to declar
 
 Comment out the if statement that we wrote above, because we will be replacing it was a ternary statement. 
 
+
 Like we mentioned above, for a ternary statement we need one condition, then we need what to do if that condition is true, and what to do if that condition is false. 
 
 That would look like this:

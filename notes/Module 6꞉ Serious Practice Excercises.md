@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-03-18T00:32:09.955Z'
+modified: '2020-03-18T01:14:37.929Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -304,6 +304,69 @@ Now, if you refresh the html page, if you use any of the arrow keys, you will se
 
 That was just the handler, and what we are going to do is hand off the key to the draw function.
 
-Let's create a function called `draw` that takes in an argument. Instead of just having a key passed as the first argument, we are instead going to take in an options object. That options object will contain everything that we wish to pass to the draw object
+Let's create a function called `draw` that takes in an argument. 
 
-20:49
+Instead of just having a key passed as the first argument, we are instead going to take in an options object. That options object will contain everything that we wish to pass to the draw function. 
+
+This is useful when you have a function that needs a lot of things passed to it. It's too long to pass in that many variables such as `function(one, two, three, four five)` for example, you need to pass them in the specific order and if some of them are optional, it gets even trickier. 
+
+So instead of passing each argument, we will pass in the option object which will contain different properties that contain the data we need. 
+
+```
+function draw(options){
+  console.log(options.key);
+}
+```
+
+Although we haven't learned objects yet, in the handler, we will be passing in an object that has a key property whose value is `e.key` like so:
+
+```
+functionHandleKey(e){
+  if(e.key.includes('Arrow')){
+    e.preventDefault();
+    draw({key:e.key});
+    console.log(e.key);
+    console.log('HANDLING KEY');
+  }
+}
+```
+
+Now, within the draw function, let's console log the options argument.
+
+At this point we have: our event listener, which listens for keydown and runs handleKey, which checks if the key is an arrow and if it is, passes that along to the draw function.
+
+Now our draw function has an object and inside of that there is one property called key which tell us the key is arrow up. 
+
+Another thing Wes likes to use, similar to how we used destructing in an earlier example, is using destructuring in function declarations. 
+
+So instead of doing the following:
+
+```
+function draw(options){
+  console.log(options.key);
+}
+```
+
+We could destructure the options object directly into a key variable like so:
+
+```
+function draw({key}){
+  console.log(key);
+}
+```
+
+This gives us a top level variable called key that we can use directly.
+
+So this curly bracket here:
+
+![](@attachment/Clipboard_2020-03-17-20-44-18.png) 22:57 
+
+is called object destructuring, where we can take properties and rename them into proper variables and it allows us to have shorter variable names.
+
+Get rid of the console logs that we have within our handlers. That should leave one console log of the key within the draw function. Now if you refresh the html page and press the arrow keys, you will see they are being logged.
+
+Now, when someone goes ahead and uses their keys, we can start to draw directly onto the canvas.
+
+Just like we have created our `ctx.beginPath` earlier in the javascript file, we can call beginPath on the context within the draw function. 
+
+23:45

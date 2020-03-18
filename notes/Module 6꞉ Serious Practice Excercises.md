@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-03-15T22:43:57.876Z'
+modified: '2020-03-18T00:32:09.955Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -288,13 +288,22 @@ Now, if you were to press any key, you would see it logged in the console. We on
 
 ![](@attachment/Clipboard_2020-03-15-18-32-04.png) 19:39
 
-We will add an if statement, which we haven't learned about before, but if conditions essentially check if something is true (whether it evalutes to boolean true or false), and then runs a block of code based on that condition. Here we will check whether the key includes the word arrow, and if it does, we will move the logic to log to the console within the if block like so:
+We will add an if statement, which we haven't learned about before, but if conditions check if something is true (whether it evalutes to boolean true or false), and then runs a block of code based on that condition. 
+
+Here we will check whether the key includes the word arrow, and if it does, we will move the logic to log to the console within the if block as well as the `preventDefault()` call, like so:
 
 ```  
 if (e.key.includes("Arrow")) {
+       e.preventDefault();
     console.log(e.key);
     console.log("HANDLING KEY");
 }
 ```
 
-stopped at 20:00
+Now, if you refresh the html page, if you use any of the arrow keys, you will see it logged in the console, but if you press any other key, it won't. Now you should be able to press command + R to refresh your html page using the keyboard shortcut. 
+
+That was just the handler, and what we are going to do is hand off the key to the draw function.
+
+Let's create a function called `draw` that takes in an argument. Instead of just having a key passed as the first argument, we are instead going to take in an options object. That options object will contain everything that we wish to pass to the draw object
+
+20:49

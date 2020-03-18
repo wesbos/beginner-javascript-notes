@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-13T20:14:23.074Z'
+modified: '2020-03-18T00:21:02.585Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -696,7 +696,37 @@ Javascript wil lsay, this is a condition so we are going to check if the first i
 
 This is abusing the condition chaining, meaning that if the first condition is true, the second will never run.  
 
-You see that sort of thing in react because it's a bit hard to do 
+You see that sort of thing in react because it's a bit hard to do if statements in react. 
 
-stopped at 14:03
+You would do something like this React if you wanted to conditionally render the admin bar based on whether the `isAdmin` value is true or false. 
 
+``` 
+{isAdmin && <AdminBar/>}
+```
+
+### Blockless If Statements
+
+If something is on the same line, you don't actually need the block in the if statement. 
+
+For example, the following if statement is on multiple lines so it needs the `{}` block. 
+
+```
+if(isAdmin){
+  showAdminBar();
+}
+```
+
+However, you could refactor it to be on one line like so:
+
+```
+if(isAdmin) showAdminBar();
+```
+
+However, as soon as it goes onto another line, it is broken, so this would NOT be valid:
+
+```
+if(isAdmin)
+showAdminBar();
+```
+
+Should you use blockless if statements? That is up to you to decide. Wes doesn't use it often but he definitely has in the past because it is very convenient to write one-liners. In most cases however Wes will use the blocks just in case someone else accidentally moves the if statement to multiple lines and breaks it. 

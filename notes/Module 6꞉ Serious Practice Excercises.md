@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-03-18T01:14:37.929Z'
+modified: '2020-03-24T00:30:37.662Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -369,4 +369,252 @@ Now, when someone goes ahead and uses their keys, we can start to draw directly 
 
 Just like we have created our `ctx.beginPath` earlier in the javascript file, we can call beginPath on the context within the draw function. 
 
-23:45
+```
+function draw({ key }) {
+  console.log(key);
+  //start the path
+  ctx.beginPath();
+}
+```
+
+Similarly like we called `ctx.moveTo(x,y)` earlier, we need to call `moveTo()`. We want to move the context to where it was so add the following: `ctx.moveTo(x,y);`. Now we need to move our x and y depending on what the user did. 
+
+Let's add the following:
+
+```
+ // move our x and y values depending on what the user did
+  x = x - 10;
+  y = y - 10;
+  ctx.lineto(x,y);
+  ctx.stroke();
+```
+
+So what we did there was change the x and y values and then we created a line to our new x and y values, and then called `.stroke()`. 
+You may notice that Prettier/ESLint is complaining that x and y are const values, which cannot be updated. Previously, ESLint or Prettier noticed that our x and y values which we had saved as let variables were never updated, so ESLint updated them to const. However, now that we want to change those values, we need to switch them back to lets. 
+
+You also may notice that when you save your javascript file, it reformats from `x = x - 10;` to `x -= 10;` which is a shortform way to say the same thing. 
+
+Now if you refresh the page and press an arrow key, you will see an error in the console that says something like this: 
+
+>Uncaught TypeError: ctx.lineto is not a function
+>   at draw (etch-a-sketch.js:31)
+>    at handleKey (etch-a-sketch.js:42)
+
+That is because it should be `ctx.lineTo(x,y)`. Make that change in your code.
+
+Now if you refresh the page and hit an arrow key, you should see a line being drawn on the etch-a-sketch! What is happening there is anytime an arrow key is pressed we are removing 10 pixels from the x and 10 from the y, and then we paint. That's obviously not wht we want but this is just to demonstrate that it is responding to our key pressed. 
+
+One thing Wes doesn't like doing is hardcoding the values like `x = x - 10;`. SO instead, what we will do is we will setup a variable amount and we will set that at the top of the file and reference it to change the value whenever we want. Add the following towards the top of the file:
+
+```
+const MOVE_AMOUNT = 10;
+```
+
+You may be wondering why did Wes use all capitals for that variable name? It's not a "best practice" but it is something that some developers do and Wes has picked it up himself. When it is a true constant, meaning that value will never change, we tend to make it uppercase and use underscores. 
+
+Now, we will go through our `etch-a-sketch.js` file and everywhere that we have used `10`, we will replace with MOVE_AMOUNT. Now we have used one variable to reference the width everywhere we go. 
+
+Now we don't want to just go up and to the left whenever someone presses an arrow key. We need to go back into our draw function and write a bit more code that depending on which arrow key the person has done, we can do it.
+
+We haven't really learned about flow control yet (if statements and such), but this is a perfect case to learn for something called a switch statement. Wes doesn't use switch statements all that often, but it is perfect use case.
+
+A switch statement is essentially saying, take in a variable like the key, and depending on all of the different cases (it might go up, down, left or right). SO we have four possible cases in this example. Each of those cases has a different outcome. A switch statement allows us to say "based on these four different outcomes, do the following". 
+
+Within the `draw` function remove these two lines of code: 
+
+```
+x -= MOVE_AMOUNT;
+y -= MOVE_AMOUNT;
+```
+
+We will instead run a switch statement. We pass the switch statement the variable we want to run it against (the key in this case), and then the cases are the possible values that key might be. 
+
+Note: a switch statement could also be written as an if statment such as 
+
+```
+if(key == 'ArrowUp'){
+
+}
+else if(key == 'OtherValue'){
+  
+}
+```
+
+However a switch statement is a lot more readable. We are going to add a case for `'ArrowUp'`. If key equals ArrowUp, we will move the y 10 pixels like so ` y = y - MOVE_AMOUNT;`. 
+
+```
+switch(key){
+ case 'ArrowUp':
+  y = y - MOVE_AMOUNT;
+   
+}
+```
+
+You might notice if you save the code, vs code will throw an error complaining that the switch statement expects a default case. A switch statement should always have a default case which specifies the behaviour to execute if none of the other cases match (if key does not equal ArrowUp, ArrowDown, ArrowLeft or ArrowRight in our example). Hopefully that should never happen but it's always best practice to give your cases a default. 
+
+Our default will be followed with the keyword `break`. Add the following:
+
+```
+  switch (key) {
+    case "ArrowUp":
+      y -= MOVE_AMOUNT;
+    default:
+      break;
+  }
+```
+
+Actually in a switch statement after every single case, you have to write the `break` keyword which will actually stop the switch from running, and skip over the rest of it. Here is what we have so far:
+
+```
+  switch (key) {
+    case "ArrowUp":
+      y -= MOVE_AMOUNT;
+      break;
+    default:
+      break;
+  }
+```
+
+We have only implemented the case for ArrowUp. If you refresh the page and hit the arrow up key, you should see a line being drawn! 
+
+![](@attachment/Clipboard_2020-03-23-19-52-26.png) 31:06
+
+Now, let's add the rest. Duplicate that case three more times. 
+
+For `ArrowRight`, we will increment the x value. For `ArrowDown` the y value will be incremented. For ArrowLeft, the x value will be decremented.
+
+```
+  switch (key) {
+    case "ArrowUp":
+      y -= MOVE_AMOUNT;
+      break;
+    case "ArrowRight":
+      x += MOVE_AMOUNT;
+      break;
+    case "ArrowDown":
+      y += MOVE_AMOUNT;
+      break;
+    case "ArrowLeft":
+      x -= MOVE_AMOUNT;
+      break;
+    default:
+      break;
+  }
+```
+
+Note: if you get an error about the x being a const, that is likely the result of prettier changing it if it doesn't see it being updated anywhere in your code. You need to change it back to a let variable. 
+
+Now refresh the page and let's try it!
+
+![](@attachment/Clipboard_2020-03-23-19-56-52.png) 32:02
+
+Now what we want to do is modify the code so the colour of the line changes as we go along.
+
+![](@attachment/Clipboard_2020-03-23-19-57-48.png) 32:30
+
+That is actually very simple to do, we just have to change the HSL values. If you have never seen Mothereffing HSL, I would recommend going to https://mothereffinghsl.com. **HSL** is a way to declare color in a browser. It is similar to Hex Codes and RGB, but HSL is a cool way to do it. If you just hover over the gradient, you will see the H value goes from zero to 359-360. Once you pas that, it will just go from the start and give you a rainbow. We can use that value, everytime we move the cursor, we will increment the H value (hue) by 1. 
+
+![](@attachment/Clipboard_2020-03-23-19-59-27.png) 33:00
+
+Above our `draw()` function, we will make a new value called hue and set it to 0. Next we will update the stroke color to start at a bright green like so:
+
+```
+const hue = 0;
+ctx.strokeStyle = `hsl(100, 100%, 50%)`;
+```
+
+Now instead of hardcoding the first argument to hsl, we will interpolate it to pass in the `hue` variable like so: 
+
+```
+ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+```
+
+Now the line will always be red, but what we will do is everytime that we use the draw function, let's increment hue by one and update the stroke style. Add the following code:
+
+```
+// write a draw function
+function draw({ key }) {
+  // increment the hue
+  hue += 1;
+  ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+```
+
+We do need to call `strokeStyle` again, even though we set it on pageload to be a variable, that is done once the page loads, it's not like a live variable that will update itself. We have to explicitly update the strokeStyle by 1. 
+
+If you try it now, you will see that it works. If you want to change  the colors more quickly, you can instead add + 10 when incrementing the hue. 
+
+You can also try to play around with it and do something like this:
+
+```
+ctx.strokeStyle = `hsl(${Math.random()*360}, 100% , 50%);
+```
+
+That will give you cool effects like these: 
+
+![](@attachment/Clipboard_2020-03-23-20-09-14.png) 36:22
+
+You can have a lot of fun with HSL. 
+
+Now we need to work on the shake / clear canvas function! The idea for this effect is to be similar to what you do to clear a real etch-a-sketch, you shake it! We will have a shake button that is responsible for triggering this. 
+
+Add the following code:
+
+```
+
+// clear or shake function
+function clearCanvas()){
+  canvas.classList.add('shake');
+}
+```
+
+Now, when you refresh the html page and run `clearCanvas()` in the console, you should notice the etch-a-sketch doing a little shake animation. That is because the class of shake is applied to it. Because it has a class of shake has been added to it, and Wes has written some CSS to create that effect in this code:
+
+![](@attachment/Clipboard_2020-03-23-20-14-43.png) 38:01
+
+```
+canvas.shake{
+  animation: shake 0.5s linear 1;
+}
+```
+
+What we are saying there is when the canvas has a class of shake, run the shake over 0.5 seconds, run it linearly and only run it once. You could run the animation 10 times if you wanted by pass in the 10 instead of 1. 
+
+We have a couple of problems here. If you were to run `clearCanvas()` again in the console, you will notice nothing happens because the canvas already has a class of shake. However if you were to manually remove that class of shake and then call `clearCanvas()`, it would work. 
+
+
+You might be thinking what the solution is.. do we wait .5 seconds and then remove the shake class? However, trying to lineup timers that are set in your CSS with your Javascript, it is okay but tends to get you in a world of hurt. What we can do is listen for the animation to finish and then programatically remove the class from it.
+
+Just like we can listen to a click, we can listen to this event called `animationend`. 
+
+Within the `clearCanvas()` function, we will add an eventlistener that listens for the animationend event and when that event happens, we will run a function that will remove the class of shake for the canvas. 
+
+```
+// clear or shake function
+function clearCanvas() {
+  canvas.classList.add("shake");
+  canvas.addEventListener("animationend", function() {
+    console.log("done the shake!");
+    canvas.classList.remove("shake");
+  });
+}
+```
+
+Now if you refresh the page and run `clearCanvas()`, you should see the console log and the canvas should shake again. However if you run it again and again from the console, you will notice that "done the shake" is being called many times:
+
+![](@attachment/Clipboard_2020-03-23-20-25-53.png) 41:02
+
+You may be wondering what is going on. This is a common problem, what we are doing is when we run `clearCanvas()`, we add the class, listen for that animation to be over, and then we remove it. 
+
+But what is happening is the canvas still has the event listener of `animationend` added to it. Everytime we clear the canvas, we are adding a new eventlistener to it over and over again. So the number of times you run `clearCanvas()` in the console was the number of eventlisteners that were being added for the same thing. 
+
+If you click on the canvas element in the devtools and then select the "Event Listeners" tab: 
+
+![](@attachment/Clipboard_2020-03-23-20-29-52.png) 41:38
+
+You will see that we are listening for the animationend event every time we run it: 
+![](@attachment/Clipboard_2020-03-23-20-30-24.png) 41:44
+
+ stopped at 41:52
+
+
+

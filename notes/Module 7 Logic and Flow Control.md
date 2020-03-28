@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-18T00:21:02.585Z'
+modified: '2020-03-28T22:34:28.865Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -730,3 +730,59 @@ showAdminBar();
 ```
 
 Should you use blockless if statements? That is up to you to decide. Wes doesn't use it often but he definitely has in the past because it is very convenient to write one-liners. In most cases however Wes will use the blocks just in case someone else accidentally moves the if statement to multiple lines and breaks it. 
+
+---
+
+## 40 - Case Switch and Animating a Turtle with CSS Variables
+
+We are going to talk about switch statements now. We already used a switch statement in our etch-a-sketch exercise. 
+
+In this video we will go over them again and this time do an example where we animate a turtle. 
+
+Open up `switch-statements.html` which is in the `/playground` folder.
+
+Add an img tag like so:
+
+```
+<img src="./turtle.png" alt="Turt" class="turt">
+```
+
+Now add a script tag and within that script tag grab the turtle and console log it: 
+
+```
+<script>
+  const turtle = document.querySelector(".turt");
+  console.log(turtle);
+</script>
+```
+
+It's a bit big so let's add `wdith="200"` to the image element. 
+
+You should see the following when you load the html page:
+
+![](@attachment/Clipboard_2020-03-28-18-30-16.png) 1:11
+
+We want to make this turtle walk, and make it flip around when we hit the arrow keys.
+
+First thing we will do is listen for the key down. What we will do is make a function called `handleKeyDown` which we will pass to the keydown event listener. 
+
+In the handleKeyDown function, we will grab the event and console.log the event key like so:
+
+```
+function handleKeyDown(event) {
+      console.log(event.key);
+}
+window.addEventListener("keydown", handleKeyDown);
+```
+
+We only care if it's an arrow key or not, so we will add code to check if the event key includes the word arrow and if it does not, we will just return which will exit out of the function like so:
+
+```
+if (!event.key.includes("Arrow")) {
+      return;
+}
+```
+
+stopped at 2:25
+
+

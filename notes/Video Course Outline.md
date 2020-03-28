@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-03-13T00:28:20.785Z'
+modified: '2020-03-28T20:03:32.922Z'
 ---
 
 # Video Course Outline
@@ -52,7 +52,7 @@ Module 5: Events
 32. ~~Events - Accesibility Gotchas and Keyboard Codes~~ (09:20)
 
 Module 6: Serious Practice Exercises
-33. Etch-a-Sketch (45:20)
+33. ~~Etch-a-Sketch~~ (45:20)
 34. Click Outside Modal (23:57)
 35. Scroll Events and Intersection Observer (19:16)
 36. Tabs (21:54)

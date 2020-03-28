@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-03-24T00:30:37.662Z'
+modified: '2020-03-28T20:02:29.225Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -614,7 +614,68 @@ If you click on the canvas element in the devtools and then select the "Event Li
 You will see that we are listening for the animationend event every time we run it: 
 ![](@attachment/Clipboard_2020-03-23-20-30-24.png) 41:44
 
- stopped at 41:52
+That is obviously not what we want. Wes mentioned earlier that there is another argument to `addEventListener`. The first two arguments specify what event the listener should listen on, and what to do when the event occurs. There is a third arguments object for addEventLIstener, and we have only so far used the capture option. 
+
+Now we are going to use the option `once`, which we will set to true. If you set once to be true, what happens is addEventListener will unbind itself. It will call `removeEventLIstener` for you, without having to write any code.
+
+```
+// clear or shake function
+function clearCanvas() {
+  canvas.classList.add("shake");
+  canvas.addEventListener(
+    "animationend",
+    function() {
+      console.log("done the shake!");
+      canvas.classList.remove("shake");
+    },
+    {
+      once: true
+    }
+  );
+}
+```
+
+If we didn't have that option, we would have to call canvas.removeEventListener('animationend' and reference the function within which we are calling removeEventListener, which is a bit of a pain. Thankfully we don't have to do that and can use the options argument to set once to true, which will automatically remove the event listener when the animation is done. 
+
+Now if you refresh the page and call `clearCanvas()` from the console, you will notice that we don't keep attaching event listeners. Instead the event listner is being added and removed, added and removed as we need to. 
+
+Next we need to hook up the `clearCanvas()` function to our shake button click. We will add an event listener on the button for a click event. 
+
+Add the following code:
+
+```
+shakebutton.addEventListener("click", clearCanvas);
+```
+
+If you refresh the page and use the arrows to draw something on the etch-a-sketch and click shake, you might notice the animation happens bu the content is not removed from the etch-a-sketch. That is because we forgot to do an entire part, which is clearing the canvas (which is actually very simple).
+
+Let's modify the `clearCanvas()` function to add some more code. Right after we add the shake class, and before we add the animationend eventlistener, we will call `clearRect` on the canvas context. What that does is clear part of or all of the canvas. We tell it to start at 0,0 which is the top left hand corner of the canvas and go for 500 & 500 pixels. Add the following code:
+
+```
+  ctx.clearRect(0, 0, 500, 500);
+```  
+
+Now refresh the page and draw across the canvas.
+
+![](@attachment/Clipboard_2020-03-28-15-59-08.png)
+
+Now click the Shake! button. 
+
+![](@attachment/Clipboard_2020-03-28-15-59-32.png) 44:3`
+
+You should notice only a rectange that is 500 by 500 pixels from the top left corner is cleared. 
+
+Instead of hardcoding the 500x500 pixel value, we will replace those with the variables that we created at the very top of the file, `width` and `height`. 
+
+```
+  ctx.clearRect(0, 0, width, height);
+```
+
+Now if you refresh, it should all be cleared. 
+
+That is all! That is our first exercise. We went a little over the stuff we have learned, and that is Wes' intention for these exercise videos. He is going to push us in these exercises by introducing some new concepts, desctructuring, canvas, right in the excercise. This is so you can get an idea of how it works when you are in the headspace of building real world things. 
+
+  
 
 
 

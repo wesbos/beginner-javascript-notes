@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-31T01:38:19.448Z'
+modified: '2020-03-31T11:43:34.451Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -1043,3 +1043,21 @@ Now when you hit the arrow keys left, right, up and down the turtle should be fa
 ---
 
 ## 41 - Intervals and Timers
+
+In this video we will talk about timeouts and intervals. If you want to run something after 5 seconds, we would use a timeout. If you want to run something every 5 seconds, you would use an interval. They both work exactly the same way and we will dive into them both now.
+
+So we have the `intervals.html` file which is in the `/playgrounds` folder. 
+
+Add a script tag within the body tag. 
+
+Now when you want to run something, you simply type `setTImeout`, which takes a couple of arguments. 
+
+Where did `setTimeout()` come from anyway? Is that just a function that is available to us? The answer is yes. It is a globally scoped method. It is actually `window.setTimeout()` but as we will learn, we don't need to type window. when you are accessingly globally available APIs. 
+
+Wes recommends now using window.setTimeout() and that is because you often want to run the same code you ran in the browser in node.js and node.js does not have a concept of a window. It does have timeout and interval however. 
+
+`setTimeout` takes two things: a callback, and the number of miliseconds after which to run the callback. 
+
+Often what you see is someone give setTImeout an anonymous function as the first argument, and then the number of miliseconds that it should run the anonymous function after. For example if you put 500 miliseconds, the function will run half a second after the javascript has started. 
+
+stopped at 1:45

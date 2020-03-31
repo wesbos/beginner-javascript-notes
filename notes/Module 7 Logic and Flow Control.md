@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-03-31T11:43:34.451Z'
+modified: '2020-03-31T22:33:40.964Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -1060,4 +1060,61 @@ Wes recommends now using window.setTimeout() and that is because you often want 
 
 Often what you see is someone give setTImeout an anonymous function as the first argument, and then the number of miliseconds that it should run the anonymous function after. For example if you put 500 miliseconds, the function will run half a second after the javascript has started. 
 
-stopped at 1:45
+Just in like `addEventListener, you can either pass in an anonymous function, or you can write a function outside of it. 
+
+Create a function called buzzer that console logs ENNNGGG! as the buzzer sound. Now in the set timeout, instead of passing the anonymous function let's pass it a reference to the buzzer function instead, like so:
+
+```js
+function buzzer() {
+  console.log("ENNNNGGGG");
+}
+setTimeout(buzzer, 500);
+```
+
+Now if you refresh the html page, you shoudl see ENNNNGG in the console after half a second. 
+
+Let's try something to demonstate one interesting thing about timers. 
+
+Modify the code like so:
+
+```
+function buzzer() {
+  console.log("ENNNNGGGG");
+}
+
+console.log("Starting");
+setTimeout(buzzer, 500);
+console.log("Finishing!");
+```
+
+what is going to happen here? We are going to console log starting, wait for half a second and then do finishing?
+
+Let's refresh the html page and see. 
+
+![](@attachment/Clipboard_2020-03-31-18-20-36.png) 2:45
+
+So what is happening there? The javascript will run, it will console log starting, set off the timer, queue it up which is basically saying "Ok I have this function called buzzer which I am going to run after 500 miliseconds, but I've got stuff to do so I'm going to keep going", so it moves on to the next line of code which is console logging "finishing". 
+
+That is what is referred to as the **asynchronous** nature of JavaScript. As soon as it queues up the buzzer to be run after 500 miliseconds, it will go off onto the next line of code, and only come back to buzzer when it's time. That is why we call it a callback. Because we come back and call it at a later point in time. 
+
+ So that is good to know that even if you are trying to wait for 500 miliseconds, the rest of javascript will keep on running. 
+
+ Now, when we get into promises and async await, I will show you how to actually do that.  It is a pretty common thing to want to wait a couple of miliseconds before doing something. 
+
+ ### Intervals 
+
+ Intervals work exactly the same. You write `setInterval()` and then it takes two arguments. You pass it a reference to a function like buzzer, and how often you'd like to run it, so let's say everyone 100 miliseconds you would write the following:
+
+ ```
+ setInterval(buzzer, 100);
+ ```
+
+ ![](@attachment/Clipboard_2020-03-31-18-30-38.png) 4:05
+
+ That will result in the interval running every 100 miliseconds.
+
+ There is one gotcha with intervals. Lets say you were using intervals to animate somethihng every 2 seconds or to check something every two seconds. What happens is that it doesn't actually run immediately. It only runs after the first 2 seconds have elapsed. There is no option to tell the interval to run right away, but again also after two seconds.
+
+ If we do want that sort of functionality, we can code our own interval, where we can make a function like so: 
+ 
+ stopped at 5:06

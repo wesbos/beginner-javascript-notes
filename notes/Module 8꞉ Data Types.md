@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-04T22:29:53.387Z'
+modified: '2020-04-04T22:58:13.912Z'
 ---
 
 # Module 8: Data Types
@@ -378,7 +378,7 @@ If you refresh the HTML page, you will see the input on the page:
 
 ![](@attachment/Clipboard_2020-04-04-18-25-38.png) 16:58
 
-Often what happens is we will try to select that input from the form. 
+Often what happens is we will try to select that input from the form like so:
 
 ```
   const nameInput = document.querySelector('[name="first"]');
@@ -392,6 +392,144 @@ We are going to set a value on the input so that it is there on page load. Modif
  <input type="text" name="first" value="Wes" />
 ```
 
-Now, if that input was not on the page, we would get an error "cannot read property of null". 
+When you refresh the page, you should see wes in the console. 
+However, if you comment out that input and then refresh the page, you will get an error "cannot read property value of null". 
 
-stopped at 17:37
+Why does that happen? 
+
+Because we are assigning to the variable `nameInput` an html element that does not exist so `nameInput` is null. And then it checks for a property called `.value` on it. So if that were the case, and you run into this all the time, you had to do the following:
+
+```
+if (nameInput) {
+  const name = nameInput.value;
+}
+```
+
+However there we are making a scoped const variable which isn't very useful because it cannot be used outside the if block. To fix that you could do:
+
+```js
+const name = nameInput? nameInput.value : '';
+```
+
+That code is first checking whether nameInput exists. If it does, it gets the `value` property on it, and if it doesn't, the name variable evaluates to an empty string.
+
+### Deleting a Property from an Object
+
+To delete a property object you use the delete keyword. 
+
+For example `delete wes.job;` will delete the job property. If you are curious if it worked or not, you can save the result in a variable or simply console log it and a delete will either return true or false based on whether it is deleted or not. 
+
+Add the following code:
+
+```
+console.log(delete wes.job);
+```
+
+Now if you take a look, you will see it is undefined.
+
+![](@attachment/Clipboard_2020-04-04-18-39-42.png) 19:19
+
+Sometimes you will also see people setting values to be null or undefined. For example `wes.age = undefined;` or `wes.age = null;`. Those are not deleting the properties, they are simply setting them to be null or undefined (in some frameworks that will allow the code to just skip over it).
+
+In an uncoming video, we will cover **loops** and **looping**. It is a pretty common thing to want to loop over the data that is in an object or an array. 
+
+
+### Methods 
+
+Now, let's talk about methods. We have already talked a lot about this. As we went over earlier, the difference between a method and a function is that a method is just a function that lives inside of an object. That is all we have learned so far. 
+
+If we go back to our 'wes' object and add a property called `sayHello`, we can set it to a function, and that function could take in a greeting if you want (the funtion works the smae as any function that you would have) and from that we could return the greeting in a string and then the name like so:
+
+
+```
+const wes = new Object({
+  name: "wes",
+  propertyToCheck: "NEVER",
+  age,
+  "cool-dude": true,
+  "really cool": false,
+  "777": true,
+  dog: "snickers",
+  clothing: {
+    shirts: 10,
+    pants: 2
+  },
+  sayHello: function(greeting = "Hey") {
+    return `${greeting} ${this.name}`;
+  }
+});
+
+```
+
+Now if you fresh the page, open the console and type in `wes.sayHello()` you should see "Hey wes" in the console. 
+
+You can also try passing in a greeting like so: `wes.sayHello('Hello');`  which would return "Hello wes". 
+
+![](@attachment/Clipboard_2020-04-04-18-46-34.png) 21:04
+
+You may be working what is the `this` keyword that we use in the `sayHello` function when we call `${this.name}`. Like we have mentioned in the past, when you take a look at a method, and if you look to the left of the dot, `this` will always be equal to the left of the dot.
+
+So in our case, `${this.name}` is going to be equal to "wes" because that is the value of the `name` property on our object. You can access the other properties using the this keyword too. 
+
+The reason we use the `this` keyword instead of using `${wes.name}` within the `sayHello` function is because when we get into prototyping, you are going to see how you can use methods like `sayHello` on multiple people rather than just on a person named wes. 
+
+We could create a person object that is a new instance of Wes or Scott and Kate etc. In that case, the `sayHello` method will exist on all of them, and we can reference the current person's name using `${this.name}`.
+
+We will go into that a lot more in the future once we go into prototypes. For now, just know that when you have a function as a property on an object, that is referred to as a method of that object.
+
+There also is a method shorthand similarly to how instead of having to write `age:age` for the age property we were able to just write `age`, the shorthand for the function consist of taking the function keyword away and the colon like this:
+
+```
+const wes = new Object({
+  name: "wes",
+  propertyToCheck: "NEVER",
+  age,
+  "cool-dude": true,
+  "really cool": false,
+  "777": true,
+  dog: "snickers",
+  clothing: {
+    shirts: 10,
+    pants: 2
+  },
+  sayHello(greeting = "Hey") {
+    return `${greeting} ${this.name}`;
+  }
+});
+```
+
+That is just a shorthand, it does the exact same thing. It is **not** an arrow function.
+
+However, you can add arrow functions. Let's add another property called `sneeze` like so:
+
+```
+sneeze: () => {
+  console.log("AHHHH CHOOO");
+}
+```
+
+That is still a method, however because it is an arrow function as a property on an object, we do not have access to the this keyword.
+
+If you also try to console log the `this` keyword like so, you will see it evaluates to Window. 
+
+```js
+sneeze: () => {
+  console.log("AHHHH CHOOO", this);
+}
+```
+
+![](@attachment/Clipboard_2020-04-04-18-55-17.png) 22:58
+
+If you were to change that, to a regular function, `this` would be equal to wes. 
+
+![](@attachment/Clipboard_2020-04-04-18-56-31.png) 23:05
+
+We will go into why that is later but the short answer for now is that arrow functions do not scope this to the thing they are called against, and the parent scope will inherit that. 
+
+That is a high level overview of what objects are. In the next few videos we will get deeper into things you need to know, such as little gotchas before we can then dive into arrays. 
+
+---
+
+## 43 - Object Reference vs Values
+
+

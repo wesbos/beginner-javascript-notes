@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-02T12:15:47.908Z'
+modified: '2020-04-04T00:11:57.130Z'
 ---
 
 # Module 8: Data Types
@@ -118,8 +118,141 @@ Similarly you can also have spaces and numbers in your properties like so:
   age,
   'cool-dude': true,
   'really cool dude': false,
-  '777': true
+  '777': true,
 });
 ```
 
 ![](@attachment/Clipboard_2020-04-02-08-15-45.png) 4:29
+
+Also, you might notice that in the console the orders of the properties looks different from our code, which is expected and fine. 
+
+After each property, you might notice that we add a comma. Wes recommends adding a comma after the last property in the object, even if there is nothing that comes after it. That is what is called a **trailing comma** or a **comma dangle**. 
+
+It's not totally necessary, but putting a **trailing comma** on there will make sure that the next time you come around and add in a property, we can easily add it. What happens all the time is if you don't leave a trailing comma, the next time you go to add a property it's very easy to forget to include the comma.
+
+If you forget to add a comma between properties, you will see an error similar to what is shown below. 
+
+![](@attachment/Clipboard_2020-04-02-18-06-00.png) 5:37
+
+Another reason is version control. Let's say someone else is coming in and editing your code. Instead of just adding a new property, they have to edit the line above to add a comma, and even though you only modified the line above by adding a comma, it will show up in git blame that you modified that line of code
+ last. Git blame is a git functionality that shows who wrote which line of code. 
+
+It used to be that comma dangles weren't supported, but now all modern browsers do support the comma dangle on object properties. 
+
+Other things you can do is add nested properties or nested objects. For example we can create a property called clothing and assign it a sub object like so:
+
+```
+const person = new Object({
+  name: "wes",
+  age,
+  "cool-dude": true,
+  "really cool": false,
+  "777": true,
+  dog: "snickers",
+  clothing: {
+    shirts: 10,
+    pants: 2
+  }
+});
+```
+
+![](@attachment/Clipboard_2020-04-03-19-28-22.png) 6:56
+
+As you can see, now our persons object has a nested object called clothing which has shirt and pants properrties. You can nest objects as deep as you could possibly want. 
+
+There is a gotcha about copying or cloning objects which we will talk about in just a second. 
+
+You can add new properties to an object even after it has been created. You would use the dot notation to do that. For example if we wanted to add a job property to the person object we could simply add this line of code: `person.job = 'Web Developer'`
+
+Now if you were to take a look at it in the console, you will see the job property has been added and is now part of the object. 
+
+![](@attachment/Clipboard_2020-04-03-19-32-22.png) 7:35
+
+Similarly if you were trying to overwrite a property, you could do that as well. For example is you add this line `person.age = 50;` and then refresh the html page and look at the console, you will see that age is now set to 50 even though when creating the object we set it to the variable age which was 100. 
+
+![](@attachment/Clipboard_2020-04-03-19-36-31.png) 7:52
+
+You might have noticed that the person object is a const variable, however we just went ahead and changed part of it. 
+
+That is a gotcha in javascript. Const does not mean that the value of an object cannot be changed. Const means that the binding to that person cannot be changed. What does that mean?
+
+To explain, let's rename the person variable to Wes. You code should now look like this:
+
+```
+const age = 100;
+const wes = new Object({
+name: "wes",
+age,
+"cool-dude": true,
+"really cool": false,
+"777": true,
+dog: "snickers",
+clothing: {
+  shirts: 10,
+  pants: 2
+}
+});
+wes.job = "Web Developer";
+wes.age = 50;
+console.log(person);
+```
+
+Think about it like this.. Wes is Wes, he has been born and this object represents properties about him. Those properties can change as he grows up, however no one can ever replace him. No one can ever overwrite the binding to him. 
+
+No one could ever come by and say "oh a new Wes was born" and create an object like this further down in the code:
+
+```
+wes = {
+name: 'Westopher',
+age: 12,
+job: 'Web Master'
+}
+```
+
+You can't do that. 
+
+If you refresh the html page and open the console, you will see this error 
+
+![](@attachment/Clipboard_2020-04-03-19-54-54.png) 9:00
+
+Even if you put the keyword const infront of the second wes object, you will still get an error that says 
+>Identifier 'wes' has already been declared.
+
+That won't work because the binding to 'wes' has already been created. Even though properties on the wes object can change, the actual object itself will can never be overwritten entirely. 
+
+If you do ever want to freeze the values in an object, what you can do is create a frozen object. You use the captial "O" Object and call `.freeze()` on it and pass the object to it that you want to freeze.
+
+Add the following code at the bottom of the script tag:
+
+```
+const wesFroze = Object.freeze(wes);
+```
+
+That won't freeze the original object wes, but what it will do is return a new object, called `wesFroze` and that can never be changed. 
+
+To demonstrate this, refresh the HTML page and then type wesFroze in the console. That should return the object. Now type in `wesFroze.age = 100` to try to overwrite the age, and hit enter (it should return 100). Now type in wesFrozen again and the object should be returned to you and the age property should still be set to 50. 
+
+![](@attachment/Clipboard_2020-04-03-20-03-21.png) 9:57 
+
+So if you ever want to make an object so it cannot be changed, you could do that with `Object.freeze()`. 
+
+The word in programming that we use to describe something that cannot be changed is **immutable**. **Mutation** is changing a value. 
+
+### Accessing Properties
+
+Wes has already shown us one way to access properties, which is using the dot notation. For example to access the job property you would write `wes.job` which would return "Web Developer".
+
+![](@attachment/Clipboard_2020-04-03-20-07-10.png) 10:35
+
+stopped at 10:35
+
+
+
+
+
+
+
+
+
+
+

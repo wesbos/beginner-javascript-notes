@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-04T00:11:57.130Z'
+modified: '2020-04-04T22:29:53.387Z'
 ---
 
 # Module 8: Data Types
@@ -246,13 +246,152 @@ Wes has already shown us one way to access properties, which is using the dot no
 
 stopped at 10:35
 
+Just like when we looked at DOM elements, we have getters and setters, objects. That is the exact same thing with an object. In fact, a DOM element is just an object with a bit of extra functionality added to it. 
 
+That is the first way, and that is typically the approach you will use in almost every use case. 
 
+However, we have this other notation to access properties and that is with **square brackets**. 
 
+Similarly to how you can access the property using the dot notation you can also use **square brackets**. You simply write the object name then a set of square brackets, and between the square brackets you give the property name in strings, like so: 
 
+```js
+console.log(wes.age);
+console.log(wes["age"]);
+```
 
+Why do we have that? That seems like a much uglier way to access the properties. There are a few reasons. 
 
+One reason is that this method allows us to pass a variable that is a string type to the square brackets instead of passing a string directly. Let's do an example. 
 
+In the `person` object, add another property like so: 
 
+```
+const wes = new Object({
+  name: "wes",
+  propertyToCheck: "NEVER",
+  age,
+  "cool-dude": true,
+  "really cool": false,
+  "777": true,
+  dog: "snickers",
+  clothing: {
+    shirts: 10,
+    pants: 2
+  }
+});
+```
 
+Remove the square bracket console log we added above and add the following code instead:
 
+```
+console.log(wes.age);
+const propertyToCheck = prompt("What do you want to check?");
+console.log(propertyToCheck);
+console.log(wes[propertyToCheck]);
+```
+
+As you can see, instead of passing `"age"` to the square brackets, we are passing the `propertyToCheck` variable instead. The value of propertyToCheck is assigned to whatever we enter into the prompt. Refresh the html page and you should see the following:
+
+![](@attachment/Clipboard_2020-04-04-17-57-58.png) 12:27
+
+If you open the console and then enter a proerty into the prompt such as age, you will see the value is logged. For example, if you were to type in clothing, it gives you the object that is the clothing. 
+
+![](@attachment/Clipboard_2020-04-04-17-59-38.png) 12:32 
+
+That is one reason: when the property of the object is stored in a variable, because you can't just write `wes.propertyToCheck` because the code will literally look for a property named `propertyToCheck` on the object, it will not be able to interpret that it is a variable. Let's test this out.. add the following line of code and refresh the HTML page:
+
+```
+console.log(wes.propertyToCheck);
+```
+
+You should see the word "NEVER" logged in the console. Wes asked us to add that property earlier to demonstrate this: if you use the dot notation, the code will assume you are looking for a property with that name, and it will not know it's a variable. If the property name is stored in a variable, you must use square brackets.
+
+There is another reason, which sometimes the properties of your object are not referenceable via Javascript, you have to use a string. 
+
+Comment out the following code as demonstrated below and refresh the html page. 
+
+```js
+//const propertyToCheck = prompt("What do you want to check?");
+//console.log(propertyToCheck);
+//console.log(wes[propertyToCheck]);
+```
+
+In the console, you can write `wes.age` and the age will be returned, however you CANNOT type `wes.cool-dude` for example because they are invalid property lookups. 
+
+![](@attachment/Clipboard_2020-04-04-18-09-10.png) 13:39
+
+So if that is the case for all three of those properties, (`777`, `really cool`, `cool-dude`) you would have to use square bracket notation to access them. 
+
+So why is that there if it's not really a good idea? Well sometiems you get data that comes from another language, or you get data that comes from server side. If that's the case, you don't really have a whole lot of options so you have to use the square bracket notation in order to reference it.
+
+To reference multiple levels deep, it's the same. For example you would write `wes.clothing.pants` to return the value of the pants property within the children object that is nested within the wes object. 
+
+![](@attachment/Clipboard_2020-04-04-18-13-12.png) 14:26
+
+The only gotcha there is if you try to access a property on an object that does not exist, such as `wes.jobs`, it will evaluate to undefined. 
+
+![](@attachment/Clipboard_2020-04-04-18-13-53.png) 14:41
+
+However, if you try to access a nested property on a property that does not exist, it will throw an error:  
+
+![](@attachment/Clipboard_2020-04-04-18-15-41.png) 14:50
+
+This is a very common error:
+
+>VM181:1 Uncaught TypeError: Cannot read property 'main' of undefined
+>    at <anonymous>:1:10
+
+That is because there is no property that exists on that undefined value. Because `wes.jobs` is undefined, there are no properties that live inside of that. 
+
+If that is the case, the you have to write the following to not throw an error:
+
+```
+wes,jobs ? wes.jobs.side : 'Jobs doesn't exist`;
+```
+
+![](@attachment/Clipboard_2020-04-04-18-19-58.png) 15:#0
+
+There is a proposal and hopefully it will be out soon, which will allow us to do a deep check. It will allow us to do something like this  `wes?.jobs?.side`.
+
+What that would do is the code would say does `wes` object exist? if so, check is the `jobs` property exists, if so, get the value of `side`. That would allow us to do many layers deep. 
+
+It is often the case that we have to write code like this to safely check for the existence of a nested property:
+
+```js
+if(wes && wes.jobs ** wes.jobs.first){
+
+}
+```
+
+Sometimes we don't know if any of the properties exist and instead have to check one by one or else we will run into the "cannot read property of undefined" error. 
+
+NOTE: This currently does not exist. If you wish to see the status of it, search "Optional Chaining MDN".
+
+We will often use an if statement like that when we are using inputs. To demonstrate, add the following code right after the opening body tag:
+
+```html
+<body>
+<input type="text" name="first">
+```
+
+If you refresh the HTML page, you will see the input on the page: 
+
+![](@attachment/Clipboard_2020-04-04-18-25-38.png) 16:58
+
+Often what happens is we will try to select that input from the form. 
+
+```
+  const nameInput = document.querySelector('[name="first"]');
+  const name = nameInput.value;
+  console.log(name);
+```
+
+We are going to set a value on the input so that it is there on page load. Modify the code like so:
+
+```html
+ <input type="text" name="first" value="Wes" />
+```
+
+Now, if that input was not on the page, we would get an error "cannot read property of null". 
+
+stopped at 17:37

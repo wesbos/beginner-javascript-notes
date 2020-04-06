@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-04T22:58:13.912Z'
+modified: '2020-04-06T18:55:23.743Z'
 ---
 
 # Module 8: Data Types
@@ -531,5 +531,58 @@ That is a high level overview of what objects are. In the next few videos we wil
 ---
 
 ## 43 - Object Reference vs Values
+
+An important thing to understand in Javascript is the difference between a reference and a value. 
+
+We will use an example to highlight the differences.
+
+Let's say we have the following two variables, both assigned the value of 'wes':
+
+```
+let name1 = 'wes';
+let name2 = 'wes';
+```
+
+We can check if those variables are equal by adding this line of code `conosole.log(name1 === name2);`, which should return true because both values are identical in both value and type. 
+
+However, what if we assign `name1` the value of scott, and then check if they are equal like so? 
+
+```
+let name1 = 'wes';
+let name2 = 'wes';
+
+console.log(name1 === name2);
+name1 = 'scott';
+console.log(name1 === name2);
+```
+
+That will return false, which is no surprise. 
+Now, the question is, what if you set name1 to equal name2 like so? `name1= name2;`. 
+
+Now if you console log again to check the comparison, it will return true. If you check the value of each variable, `name1` and `name2` will both return "wes". 
+
+![](@attachment/Clipboard_2020-04-06-14-43-10.png) 1:18
+
+If you were to take name2 and set it to name1, that is the same thing, both values would still equal "wes", like so:
+
+`name2 = name1;` 1:28
+
+Now the question is, if you change name2, like so `name2 = 'westopher';`, will name1 and name2 still be equal? We can check what both variables evaluate to by typing them into the console. 
+
+![](@attachment/Clipboard_2020-04-06-14-49-10.png) 1:43
+
+You will notice that `name1` is still "wes" while `name2` is "westopher", because we have not updated `name1`. 
+
+So there are a couple of things to note in this excercise: 
+ 
+1. The triple equals makes us check that the type and the value are identical.
+
+2. When we set one string variable to be another, the value is copied from one to another. 
+
+2:12
+
+
+
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-01T23:29:31.982Z'
+modified: '2020-04-07T11:53:09.225Z'
 ---
 
 # Video Course Outline
@@ -65,8 +65,8 @@ Module 7: Logic and Flow Control
 41. ~~Intervals and Timers~~ (13:10)
 
 Module 8: Data Types
-42. Objects (23:37)
-43. Object Reference vs Values (18:02)
+42. ~~Objects~~ (23:37)
+43. ~~Object Reference vs Values~~ (18:02)
 44. Maps (15:34)
 45. Arrays (31:56)
 46. Array Cardio - Static Methods (15:50)

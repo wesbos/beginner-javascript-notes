@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-06T18:55:23.743Z'
+modified: '2020-04-07T01:08:52.120Z'
 ---
 
 # Module 8: Data Types
@@ -575,14 +575,192 @@ You will notice that `name1` is still "wes" while `name2` is "westopher", becaus
 
 So there are a couple of things to note in this excercise: 
  
-1. The triple equals makes us check that the type and the value are identical.
+1. The triple equals checks that both the type and the value are identical.
 
-2. When we set one string variable to be another, the value is copied from one to another. 
+2. When we set one string variable to be another, the value is copied from one to another. Meaning that when we take `name1` and set it to `name2` (`name1 = name2;`), it just takes the value of `name2` and pastes it to `name1`. So when you update one of the variables, the one pointing to it does not update itself. You may be saying duh, obviously, that's how variables work. But now we will go over how that works for objects, because the example we did was with a string.
 
-2:12
+Let's demonstrate this with an object now. 
+
+Create a `person1` variable and assign to it an object with first and last properties like so:
+
+```
+const person1 = {
+  first: "wes",
+  last: "bos"
+};
+```
+
+Duplicate that code by copy and pasting and renaming the variable to `person2`. The only thing we want to change is `person2`. 
+
+```
+const person1 = {
+  first: "wes",
+  last: "bos"
+};
+const person2 = {
+  first: "wes",
+  last: "bos"
+};
+```
+
+If you refresh the HTML page and open the console, if you try typing in `person1 === person2` you will see it is returning false. 
+Why?
+
+![](@attachment/Clipboard_2020-04-06-17-54-59.png) 3:01
+
+You be thinking "it's the exact same object. It's an objects with the same contents inside of it, so why are we getting false when we are checkign them?". 
+
+That is because when you are comparing objects, it is done by reference to the object itself, not the values inside of it. That means if they are two totally separate objects, they simply have the contents by change. So in our example, `person1` and `person2` are both objects but they are not the same, even though the contents inside of them are the same, they are not the same object. 
+
+That is different from the contents of a string because a string can only have a value whereas an object and, as we will learn, arrays can have multiple things inside of them, whether they are property and values, or whether they are just straight up items.
+
+Next thing we need to know about objects is that if you make a new person object like so:
+
+```
+const person3 = person1;
+```
+
+If refresh the HTML page and look at person3 in the console, you should see the following:
+
+![](@attachment/Clipboard_2020-04-06-19-27-38.png) 4:17
+
+Now if you go ahead and update person3's name as demonstrated below, what will you see in the console when we log `person3.first`?
+
+```
+const person3 = person1;
+person3.first = 'Larry';
+console.log(person3.first);
+```
+
+![](@attachment/Clipboard_2020-04-06-19-29-28.png) 4:34
+
+You get Larry.
+
+However, what if we console log `person1.name` as shown below? 
+
+```js
+const person1 = {
+    first: "wes",
+    last: "bos"
+  };
+  const person2 = {
+    first: "wes",
+    last: "bos"
+  };
+const person3 = person1l 
+person3.first = 'Larry';
+console.log(person3.first);
+console.log(person1.first);
+```
+
+If you look at the person1 object, we have set "wes" as first and "bos" as last. So `person1.first` should be Wes, right?
+
+WRONG! It returns Larry. 
+
+![](@attachment/Clipboard_2020-04-06-20-09-03.png) 4:49 
+
+If you try typing `person1`, `person2`, and `person3` in the console, you should see the following returned:
+
+![](@attachment/Clipboard_2020-04-06-20-20-27.png) 5:03
+
+What is going on there? We just updated `person3`, but for some reason, person1 was updated as well. 
+
+In the console, let's try updating `person3.last` like so: `person3.last = 'Cool'`. So `person3.last` should now return "Cool", but what about `person1`? 
+
+![](@attachment/Clipboard_2020-04-06-20-22-30.png) 5:23
+
+So what the heck!? Why is `person1` being updated? The reason that it happens is a fundamental concept of Javascript, that will come and bite you in the butt if you don't understand it. 
+
+The reason that it happens is that when objects and arrays are copied by reference, (like we did with `const person3 = person1;`), we are not taking a copy of it. We are simply creating a variable that references, or points to, the original variable instead of making a copy of it. 
+
+That can lead to unexpected bugs down the road because you might think you're simply creating a copy of it, and then modifying it, but you are not. `person3` was never it's own object, it was just pointing at the original object.
+The same thing works with Arrays and Maps and Sets which we will learn in the future. 
+
+So what are your options as a developer when you want to take a copy instead of referencing? There are a couple of different ways you can copy and object. The easiest way to copy something is via something called a **spread**. 
+
+A **spread** is a three dot operator and it's used for taking every single item in a object and spreading it into a new object. 
+So instead of doing `const person3 = person1;`, you would do something like this:
+
+```js
+const person3 = { ...person1 };
+```
+
+What we are doing there is we are assigning the variable `person3` to a new object using the object literal syntax, and then using the spread operator within the object literal to copy person1. 
+
+![](@attachment/Clipboard_2020-04-06-20-29-15.png) 7:14
+
+If you console.log `person3`, you will see that it has the same properties as person1. That is because the spread operator will take every single item that is in an object and spread it into the next object. 
+
+There is another way to do this, which is not as popular since spread has been introduced, but previously a lot of people used this method. You call `Object.assign()`, and start with an empty object, and then fold in the other object into it.
+
+```js
+const person3 = Object.assign({}, person1);
+```
+
+You probably won't see that all that much but if you do, know that is a way to take a copy of an object just like the spread. 
+
+So if you use the spread operator and then try to change the value of `person3.first` to Larry, like so, what would you get? 
+
+```
+const person3 = {...person1};
+person3.first = 'Larry';
+```
+
+If you refresh the HTMl page and then console.log `person3.first` and `person1.first`, you will see that only the value of `person3.first` was updated. 
+
+![](@attachment/Clipboard_2020-04-06-20-33-24.png) 8:15
+
+That is because this time we used the spread operator which gave us a copy of the person1 object, and not a reference like we did earlier. 
+
+One thing to do note is that the spread operator only goes one level deep. That means that if we went up to `person1` and added a clothing object, then took a copy of that in person3 like so:
+
+```
+const person1 = {
+  first: "wes",
+  last: "bos",
+  clothing: {
+    shirts: 10,
+    pants: 2
+  }
+};
+const person3 = {... person1};
+person3.first = Larry;
+```
+
+![](@attachment/Clipboard_2020-04-06-20-49-16.png) 8:59
+
+If you try to update  `person3.clothing.shirts = 100;` and then view the object in the console, you will notice that `person3.clothing.shirts` does equal 100. However if you look at `person1`, you will notice that `person1.clothing.shirts` was also updated to be 100.
+
+![](@attachment/Clipboard_2020-04-06-20-49-53.png) 9:11
+
+We have the same problem. `person1.clothing.shirts` was also updated even though Wes just told us we can take a copy of an object with a spread operator. So what we need to take away from that is that the spread operator and the `Object.assign()` operator, they do what is called a **shallow** copy, meaning that they will only ever go one level deep when copying. 
+
+If you do want to do a **deep clone** or a **deep copy** of an object, of all of the properties, there are a number of different ways to do it. 
+
+The most popular way is most likely to use something called a **utility library**. 
 
 
+### Lodash 
 
+Wes most often uses https://lodash.com. 
 
+Lodash is a library that you can include into your script. 
 
+It has a lot of methods that are used when working with objects and arrays. One of those is for doing copies of objects. Let's take a look at the documentation by searching for the keyword clone on the website. 
+
+![](@attachment/Clipboard_2020-04-06-20-57-56.png) 10:28
+
+Based on the documentation we can see that `_.clone(value)` creates a shallow clone of a value. The documentation also provides an example of how to use the method. You would use it by calling  `_.`, which is where all the lodash methods live, and then calling `.clone()`.  That will just do a high level clone like we did with the spread operator earlier, so there is not much value in that.
+
+There is another method called `_.cloneDeep`.
+
+![](@attachment/Clipboard_2020-04-06-21-04-35.png) 11:00
+
+Clone deep will also take a copy of any nested objects for us. 
+
+How do you use that? Wes likes to use something called UNPKG (https://unpkg.com). If you navigate to `https://unpkg.com/lodash`, it will load the latest lodash, so we can just take that url and go up above the script that we need and add it. When you're loading Javascript that other code is dependent on, you need to load that first. 
+
+Add the following within the body, after the input:
+
+stopped at 11:30
 

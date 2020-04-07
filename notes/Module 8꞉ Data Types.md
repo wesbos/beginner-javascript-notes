@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-07T01:08:52.120Z'
+modified: '2020-04-07T03:05:16.394Z'
 ---
 
 # Module 8: Data Types
@@ -762,5 +762,167 @@ How do you use that? Wes likes to use something called UNPKG (https://unpkg.com)
 
 Add the following within the body, after the input:
 
-stopped at 11:30
+```
+<script src="https://unpkg.com/lodash@4.17.15/lodash.js"></script>
+```
+
+Now if you type `_.` in your console, you will see that all of the lodash values are available to us.
+
+Later when we cover modules, Wes will show us how to load just the ones you need, because it's unlikely you will need every method in the library but for simplicities sake, we are loading the entire library now. 
+
+Further down in our code `const person3 = {... person1};`, where we were copying, comment that line out. Underneath it add:
+
+```
+const person3 = _.cloneDeep(person1);
+person3.first = 'Larry';
+person3.clothing.shirts = 100;
+```
+
+![](@attachment/Clipboard_2020-04-06-22-42-28.png) 12:29
+
+As you can see, `person1.clothing.shirts` still equals 10, because we performed a deep clone using the lodash method and then modified the value only for the `person3` object because `person3` was no longer a reference to `person1`. 
+
+Wes doesn't reach for this a lot of the time but that is mostly because the stuff he does can just be done by Javascript, but when you do have to do harder things like a deep clone, you can reach for a lodash method. 
+
+Lodash also has methods for working with arrays. 
+
+The `...` spread operator is also helpful when working with merging objects. 
+
+To demonstrate that, we will do an example. Add the following code:
+
+```
+const meatInventory = {
+  bacon: 2,
+  sausage: 3.
+};
+
+const veggieInventory = {
+  lettuce: 5, 
+  tomatoes: 3,
+};
+```
+
+So we have these two objects: `meatInventory` and `veggieInventory`, both of which have two properties each.
+
+Now we want to merge these two objects and the easiest way to do that is to just make a new variable, an object literal, the dot dot dot followed by one of the objects you want to merge, and then a comma followed by a dot dot dot of the next object you want to merge, as so on, like so: 
+
+```
+const inventory = {...meatInventory, ...veggieInventory};
+```
+
+You can spread in as many objects as you want.
+
+Now we have a new inventory property which you can see if you refresh the page, open the console and type in `inventory`. 
+
+![](@attachment/Clipboard_2020-04-06-22-49-53.png) 13:41
+
+You can also put some objects on their own line and add your own values in. 
+
+For example you could do:
+
+```
+const inventory = {
+  ..meatInventory, 
+  ...veggieInventory,
+  oysters: 10,
+  };
+```
+
+And you can see that oysters will be added to it.
+
+![](@attachment/Clipboard_2020-04-06-22-51-03.png) 13:58
+
+You can mix and match the spreading. 
+The only thing you really need to know about that is if there are duplicates (for example oyster could be an oyster mushroom or an oyster from the sea),  which one will win out?
+
+Let's say we added oyster to `meatInventory` AND `veggieInventory` like so:
+
+```
+const meatInventory = {
+  bacon: 2,
+  sausage: 3.
+  oyster: 10,
+};
+
+const veggieInventory = {
+  lettuce: 5, 
+  tomatoes: 3,
+  oyster: 15,
+};
+const inventory = {
+  ..meatInventory, 
+  ...veggieInventory,
+  };
+```
+
+![](@attachment/Clipboard_2020-04-06-22-53-06.png)  14:30
+
+`oyster:15` wins out. Why? Because `veggieInventory` comes after in the spread, so the order of the spread does matter in this case. Similarly, if you were to type in:
+
+```
+const inventory = {
+  ..meatInventory, 
+  ...veggieInventory,
+  bacon: 10,
+  };
+```
+
+Bacon would be 10 because it would overwrite the value in the `meatInventory`.
+
+Wes really likes the spread operator. It can also be used for arrays which we will learn about in the arry lessons. 
+
+The last thing we are going to hammer home is that the concept of passing in via reference vs copy also applies to functions. 
+
+So if you had a function `doStuff`, which took in an argument called data, and within the function we modified the value of data to be somethign else, like so:
+
+```
+function doStuff(data){
+  data = 'something else';
+}
+```
+
+ALl this function does is take in an argument, and changes that data for whatever reason. 
+
+Now if we were to run that function and pass it our name1 variable which was set to "wes" way up in the code, if we were to take a look at that and console.log the data like so:
+
+```
+function doStuff(data){
+  data = 'something else';
+  console.log(data);
+}
+doStuff(name1);
+```
+
+If you refresh the page and type in `name1` in the console, it should still return "wes". What that means is when you passed in the `name1` variable to `doStuff`, you were only passing in the value of "wes", it doesn't actually reference to the external variable (which is good!).
+
+Now, let's do that again with an object:
+
+```js
+function doStuff2(data){
+  data.tomatoes = 1000000000l
+  console.log(data);
+}
+
+doStuff(inventory);
+```
+
+![](@attachment/Clipboard_2020-04-06-23-01-18.png) 16:39
+
+If you refresh the page and look in the console, you will see the value of data logged as shown above. 
+
+However, if you type in `inventory`, which is the object that lives outside of the `doStuff2` function, you will see that it also contains the tomatoe property.
+
+![](@attachment/Clipboard_2020-04-06-23-03-08.png) 16:50
+
+That means that if you pass in an object to a function, and you modify that object, the external object will also be updated.
+
+That is not the case for booleans, numbers and strings, but it is the case for objects and strings. 
+
+That means that if you modify an object or an array that is passed into a function inside of the function, know that you may be accidentally modifying data that lives outside of it. That is a huge source of bugs, because when you pass in data as a reference, you may be unknowingly modifying data that lives outside of that function.
+
+If that is the case, you make sure you pass it in as a copy. It may be the case that you want to modify external data, but sometimes you don't and it leads to bugs. 
+
+---
+
+## 44 - Maps
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-07T23:42:30.573Z'
+modified: '2020-04-08T00:17:59.558Z'
 ---
 
 # Module 8: Data Types
@@ -1202,3 +1202,99 @@ We will try to use both of them in our examples but Wes personally uses objects 
 
 ![](@attachment/Clipboard_2020-04-07-19-40-51.png) 15:06
 
+---
+
+## 45 - Arrays
+
+In this video we will be learning about arrays: how to create them, how to add items how to remove items, things like that.
+
+In the next video we will cover looping over an array. 
+
+What is an array? 
+An array is used for holding a list of items where the order matters.
+
+Each thing inside of the array is called an **item** and it's position in the array is called an **index**. 
+
+To repeat: the thing is called an **item** and where it remains in the array is called an **index**. 
+
+The number of items inside of an array is called a **length**. 
+
+Each item inside of an array can be any type. It can be: a string, a number, a boolean, an object, another array, a nested array, you name it. 
+
+In the `/playgrounds` directory, open up `arrays.html`. 
+
+Add a script tag inside the body tag (if it's not already there).
+
+We will use an example of a list of names to demonstrate how to create an array. 
+
+Whereas curly brackets are for an object, square brackets `[]` are used for noting you are creating an array or an *array literal**. 
+
+```js
+const name = [];
+```
+
+You can also create an array using the longhand, just like you can with a string, a number, an object etc, like so:
+
+```js
+const names = new Array();
+```
+
+To create items inside of an array you can simply do this:
+
+```js
+const names = ['wes','kait','snickers'];
+```
+
+What we have done there is created an array with 3 items, each of which are separated by a comma. 
+
+Now we can go ahead and open the page up in a browser and take a look at our array in the console.
+
+![](@attachment/Clipboard_2020-04-07-20-06-27.png) 1:54
+
+This is our array. It looks a lot like an object, but as you can see, it has no keys, which is sort of the main difference between arrays and objects. 
+
+An array has no keys. The keys will always be the indexes meaning 0,1,2,3,4,5..
+
+One thing to mention is that if you types into the console `typeof names`, you would get "object" returned.
+
+![](@attachment/Clipboard_2020-04-07-20-08-09.png) 2:20
+
+You might be thinking "Whhaaattt??" typeof names is an object??
+
+You may be thinking back to one of the earlier videos where we went over all the types and remember that we didn't say that array was it's own type. An array is actually just an object at the end of the day, meaning that it can hold data and have a bunch of methods living inside of it. 
+
+If you do need to check whether something is an array, the way you can do that is the following:
+
+```js
+Array.isArray(names)
+```
+
+That will return true or false depending on whether whatever you pass it (in this case `names`, is an array or not). That is something called a **static method** which we will learn about later. 
+
+So we have the names array, but how do you access things inside of it? Because you can't do something like `names.wes`. That's how you access properties in an object. 
+
+If you want to access things inside of an array, you use the index.
+
+```
+console.log(names[1]);
+```
+
+Do you think that will return the first item in the array? If you guess yes, you are wrong! 
+
+If you refresh, you will see  "kait". Why? Because arrays are what are referred to as **zero based**. What that means is that the counting starts at 0.
+
+There are two things Wes likes to tell everyone when he is talking about **zero based**. 
+
+First, he went to McDonalds once and was order number zero. And he went to McDonalds another time and he was number 99. It is just so that the number was huge on the receipt, and they had enough space on the receipt to put two numbers but their ordering system did a hundred numbers and then rolled over and started again. 
+
+What they did is instead of going from 1 to 100, because then the order number (100) wouldn't fit on the receipt, they started at 0 to 99 which still gave them the full hundred orders. 
+
+The second story is that when Wes got married is he had a table 0, and the last table was 23. That means they had 24 tables in total, it was zero based so it started at 0. That was very confusing for people working there and he does not recommend it. 
+
+In order to access the first item in an array you use a zero like so:
+
+```
+console.log(names[0]);
+```
+
+stopped at 5:45

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-08T00:17:59.558Z'
+modified: '2020-04-08T12:02:19.731Z'
 ---
 
 # Module 8: Data Types
@@ -1297,4 +1297,87 @@ In order to access the first item in an array you use a zero like so:
 console.log(names[0]);
 ```
 
-stopped at 5:45
+Which should return "wes" because that is the first item in our array.
+
+If you want to check how many items are in an array, we use `.length`. That is NOT zero based. 
+
+If you refresh the html page and look at the console, you should see the following:
+
+![](@attachment/Clipboard_2020-04-08-07-19-02.png) 5:39
+
+So if you want to acess items within the array it is zero based, however if you are using `.length` to check how many items are in the array it is not zero based.
+
+If you want to get the last item in the array, you could `console.log(names[2]);` which would give us snickers, but what if you don't know how long the array is?
+
+Let's say we modified our array to look like this:
+
+```
+const names = ['wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers'];
+```
+Now we have no idea how many items are there (don't waste your time counting).
+
+When you need to access the last item in the array but do not know how many there are, you can use the length property like so:
+
+```
+console.log(names[names.length -1]);
+```
+
+If you tried to do `console.log(names[names.length])`, it will return undefined. Why? Because `names[27]` does not have a value, the last item is actually at `names[26]` because the length is 27. 
+
+### Array Methods
+
+The Array prototype is full of useful methods for adding, removing and finding things inside of the array. 
+
+Let's update our names array to onlly contain 3 names again. 
+
+```js
+const names = ["wes", "kait", "snickers"];
+```
+
+If you refresh the page and take a look at the names array in the console, you should see something like:
+
+![](@attachment/Clipboard_2020-04-08-07-27-37.png) 7:47
+
+Those are all methods.. `concat`, `copyWithin`, `push`, `pop`, `findIndex`. There are tons of methods available to use when working with an array. 
+
+We are not going to go over how every single one works, we will go over the more important ones and learning the idea of **immutability**, **mutable** and **immutable**, because Wes believes thats much more important.
+
+Let's talk about the scary words **mutable** and **immutable** again. 
+
+Mutable methods perform mutations. You can think of this like the Teenage Mutant Ninja turtles. Why were they mutants? Because they transformed from turtles into teenagers with really cool bandanas. 
+
+When something changes the original version of it, that is what is referred to as a **mutation**. 
+
+**Immutable** methods do not change the original thing, they simply return an new array. 
+
+Let's do some examples. Firt, we will look at a mutation method. 
+
+```
+//Mutation Method
+const numbers = [1,2,3,4,5,6,7,8,9];
+const numbersBackwards = numbers.reverse();
+console.log(numbersBackwards);
+```
+
+![](@attachment/Clipboard_2020-04-08-07-50-01.png) 9:46
+
+It gives us the array backwards. Now what if we console.log `numbers`? Will the numbers in that array still be in the right order, will they be reversed or has it been deleted?
+
+![](@attachment/Clipboard_2020-04-08-07-51-03.png) 10:09
+
+The original array has actually been reversed as well. That is what is referred to as a mutation, meaning the original data has been changed from what it was originally set out to be. 
+
+So we don't even need that secondary variable in our example, we could just do 
+
+```js
+const numbers = [1,2,3,4,5,6,7,8,9];
+numbers.reverse();
+console.log(numbers);
+```
+
+Mutability is not someting bad, it's just important to know the behaviour and which methods will modify the original array and which won't.
+
+Some will just create a new array and leave the original one intact.
+
+stopped at 10:50
+

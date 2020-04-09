@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-09T00:47:28.375Z'
+modified: '2020-04-09T23:05:02.049Z'
 ---
 
 # Module 8: Data Types
@@ -1759,3 +1759,189 @@ The original comments are still there, we just made a new array called deleteCom
 --- 
 
 ## 46 - Array Cardio - Static Methods
+
+This is method cardio! This is something that Wes likes to do where we do a bunch of little examples. Instead of Wes sitting there and trying to explain all the different array methods to us, we are just going to do lots of examples. 
+
+You can take a stab at trying each one on your own, then come back and watch Wes do it, and he will talk through how it works. 
+
+Let's look up the MDN docs for arrays. When you open it, you will see all the array methods in the documentation, along the sidebar. 
+
+![](@attachment/Clipboard_2020-04-09-18-06-44.png) 00:31
+
+Instead of Wes going through each one, we are going to work with the data Wes has provided and use the methods in examples to add things, remove things and sort things. 
+
+Wes has another course called Javascript30 (it's totally free), and in that course there are two lessons that focus on Array Cardio. So if after this video you want more practice, you can visit those videos. 
+
+Wes has broken this up into different sections.
+We have:
+- static methods
+- instance methods
+- callback methods
+- looping methods
+
+We are going to start off with the static methods. 
+
+Open up `array-methods-START.html`, which will give you a starting version with data and commented out instructions. 
+
+![](@attachment/Clipboard_2020-04-09-18-19-45.png) 2:13
+
+If you look at the sidebar of the array documentation, you will see there are three methods: `Array.from()`, `Array.isArray()` and `Array.of()`
+
+All the rest of the methods have `Array.prototype` and then the method instead of calling the method directly on `Array`. what is the deal with that? 
+
+That is because those three methods are **static methods**, while the rest are referred to as **instance or prototypal** methods.
+
+If you  refresh the HTML page and open the console, we can create an array like so:
+
+```
+const numbers = [1,2,3,4,5];
+```
+
+We can call pop numbers out, push numbers in, etc. Those are methods sort of just come along whenever you create an array.
+
+![](@attachment/Clipboard_2020-04-09-18-22-45.png) 2:51
+
+Whenever you create an array, you get what is referred to as the array prototype. These are the methods that are on every single array that are available for us to work with on that array. 
+
+Now there are also this thing called **static methods** which aren't available on every single array, but they sort of live on the capital A `Array`. Those are often what Wes refers to as utility methods. They are handy methods for creating or working with arrays. We will also look at some object static methods as well.
+
+The way static methods work are they are NOT a method like `numbers.push(5)`. We call `push()` on the `numbers` array that we created. 
+
+Static methods are called with something like `Array.from()` and they are access like that. Let's go through it.
+
+`Array.of()` is used for creating an array from it's arguments.
+
+For example you could pass it the arguments of 'wes' and 'kait' and it would create an array with those two items, like so: 
+
+![](@attachment/Clipboard_2020-04-09-18-29-23.png) 4:00
+
+Wes has never used that in his career, ever, mainly because it's shorter and simpler to create an array usign an array literal. 
+
+There are a coulpe of little edge cases uses for it. One kinda cool this is you can spread into a function. 
+
+We have already covered how when you have something, you can spread into an array, like so:
+
+```
+[...'wes'];
+Array.of(...'wes');
+```
+![](@attachment/Clipboard_2020-04-09-18-31-20.png) 4:34
+
+What the ... does in the example above is it takes an **iterable**, meaning something that has a length, ("wes" is something that has a length because strings have a length), and you can sperad each of the items of that iterable into the surrounding array.
+
+So in the example above, we have spread every letter that makes up wes and put it as an item of the array.
+
+The same things works if you are spreading into a function. For example, if you have a function that takes an unlimited amount of arguments, or you have something where you want to spread each item as argument one, argument two etc. you an spread into a function call. That's what it does, you can use that 
+
+Next let's talk about `Array.from()` which is somethign that Wes uses fairly often.
+
+`Array.from()` will take an **iterable** (something with a length), and most often Wes will give it an object with a length property like so:
+
+```
+Array.from({length:10})
+```
+
+What that will do is it returns an array from that iterable with that many empty slots.  So in our example, we are saying we want 10 spots, and that returns to us an array with 10 empty spots. 
+
+![](@attachment/Clipboard_2020-04-09-18-37-33.png) 5:59
+
+That is really handy because Wes often wants to make an array of numbers 1 through 10 and loop over them and display each items or something like that. Sometimes Wes just wants to loop from 1 to 10 or 5 to 8 and using `Array.from()` will do that. 
+
+`Array.from()` also takes in a secondary argument which is referred to as a map argument. The map function will tell us what we can return to put into those slots. 
+
+Let's do an example.  We will create a variable named range, which will be equal to an array with 10 slots, like so:
+
+```
+const range = Array.from({length:10});
+```
+
+A second argument from that is a function from which you can return anything. 
+
+Add the following:
+
+```js
+const range = Array.from({length:10}, function(){
+  return 'wes';
+});
+```
+
+If you refresh the page, and open the console you should see that all 10 items have a value of "wes". 
+
+![](@attachment/Clipboard_2020-04-09-18-49-53.png) 6:59
+
+This callback function will give you the actual item that is in the slot as an argument, as well as the index. For example:
+
+```js
+const range = Array.from({length:10}, function(item, index){
+  return index';
+});
+```
+
+What that has done is it has given us an array where each number is the index that we have. 
+
+![](@attachment/Clipboard_2020-04-09-18-51-40.png) 7:42
+
+We can use this to make a little function that takes in two arguments, start and end:  `createRange(start,end)`. 
+
+We will move the const range variable inside of that function like so:
+
+```
+function createRange(start,end){
+  const range = Array.from({length:10}, function(item, index){
+  return index';
+});
+}
+```
+
+However, we want to change the length value. Instead of 10, we will do the end minus the start like so:
+
+```
+function createRange(start,end){
+  const range = Array.from({length:end - start}, 
+  function(item, index){
+    return index';
+  });
+}
+```
+
+Let's test that out by refreshing the HTML page and testing it in the console. 
+
+Add the following in the console:
+```
+createRange(3,7)
+```
+
+You should see the following in the console:
+
+![](@attachment/Clipboard_2020-04-09-19-02-07.png) 8:24
+
+Oops! We forgot to return the range. add a return to the function like so:
+
+```
+function createRange(start,end){
+  const range = Array.from({length:end - start}, 
+  function(item, index){
+    return index;
+  });
+return range;
+}
+```
+
+![](@attachment/Clipboard_2020-04-09-19-03-25.png) 8:34
+
+We started at 3 and went to 7, which gave us 4 spots.
+
+Then what we can do is return the index + the start number by modifying the code to instead of returning `index`, to return `index + start` like so:
+
+
+```
+function createRange(start,end){
+  const range = Array.from({length:end - start}, 
+  function(item, index){
+    return index + start ;
+  });
+return range;
+}
+```
+
+![](@attachment/Clipboard_2020-04-09-19-04-38.png) 8:45

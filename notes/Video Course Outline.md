@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-09T00:48:09.100Z'
+modified: '2020-04-10T21:09:29.995Z'
 ---
 
 # Video Course Outline
@@ -69,8 +69,8 @@ Module 8: Data Types
 43. ~~Object Reference vs Values~~ (18:02)
 44. ~~Maps~~ (15:34)
 45. ~~Arrays~~ (31:56)
-46. Array Cardio - Static Methods (15:50)
-47. Array Cardio - Instance Methods (15:34)
+46. ~~Array Cardio - Static Methods~~ (15:50)
+47. ~~Array Cardio - Instance Methods~~ (15:34)
 48. Array Cardio - Callback Methods and Function Generation (33:49)
 
 Module 9: Gettin' Loopy

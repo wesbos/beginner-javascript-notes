@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-09T23:05:02.049Z'
+modified: '2020-04-10T17:11:43.065Z'
 ---
 
 # Module 8: Data Types
@@ -1945,3 +1945,185 @@ return range;
 ```
 
 ![](@attachment/Clipboard_2020-04-09-19-04-38.png) 8:45
+
+If you wanted this to be inclusive of 7, you could add add 1 to where you set the length of array. You change `Array.from({ length: end - start}` to `Array.from({ length: end - start + 1 }`
+
+
+That is a handy range function which Wes has probably written a dozen times in his career. So that is what Array.from() does, it creates an array given an iterable which is most likely aways going to be an object with a length on it. 
+
+
+Let's create a range using that function. Add the following line underneath the range function: 
+
+```
+const myRange = createRange(3, 7);
+```
+
+Let's refresh the HTML page and open the console. Let's try to the following `createRange(3,734223423)`. If you try that, you should get an error like so: 
+
+![](@attachment/Clipboard_2020-04-10-12-31-54.png) 9:49
+
+There is a limit to how big your arrays can be. They are very, very, very large. There are some additional datatypes in the language for having big, big arrays, and you will most likely only run into those when you're dealing with 3D graphics and you have to work at a per pixel level.
+
+Let's refresh the page, open the console and try with a smaller number like 
+
+```
+createRange(3,7342);
+```
+
+![](@attachment/Clipboard_2020-04-10-12-37-17.png) 10:09
+
+You can see that runs nice and quickly. 
+
+We have looked at `Array.isArray()` before but let's do it quickly.
+
+```js
+console.log(Array.isArray(myRange));
+```
+
+You should see "true" logged. 
+
+![](@attachment/Clipboard_2020-04-10-12-38-47.png) 10:30
+
+That is a pretty common thing you will need to do because if you try to use typeof with an array, it will return "object" because an array isn't a real type. The only way to check whether an array is an array is by using `Array.isArray()` 
+
+Some people sort of cheat it and instead of using `Array.isArray` they will check fo the existence of this that are array-ish such as for the existance of a length property. That isn't good because you could have an object with a length property as well and that check wouldn't work.
+
+
+#### Object Static Methods
+
+Next up we have these static methods: `Object.entries()`, `Object.keys`, `Object.values()`, which are on the object instead of on the array. However they return arrays, which is why we are covering them here.
+
+This exercise requires us to take the `meats` object and make three arrays with `.entries()`, `.keys()`, `.values()`. 
+
+Here is our meats object:
+
+```
+const meats = {
+  beyond: 10,
+  beef: 5,
+  pork: 7,
+};
+```
+
+If you want to turn this object into an array of keys, or an array of the values, or both, that is where we use these static helper methods. 
+
+You use `Object.entries()` when you want to put both the keys and values into an array like so:
+
+```
+console.log(Object.entries(meats));
+```
+
+![](@attachment/Clipboard_2020-04-10-12-48-26.png) 11:48
+
+
+Now add the following code below the line where we are logging the entries array:
+
+```js
+console.log(Object.entries(meats));
+console.log(Object.keys(meats));
+console.log(Object.values(meats));
+```
+
+![](@attachment/Clipboard_2020-04-10-12-50-45.png) 11:58
+
+As you can see, `keys()` is going to give us an array of all the object keys, `values()` will give us an array of all the values and `entries()` is going to give us an array where each item is then a nested second array inside of it where the first item in the nested array is the key and the second item is the value. 
+
+These are pretty common things to do. 
+
+One pretty common way to work with those is using the `forEach`. This is getting a little bit ahead of ourselves because we haven't learned about looping all that much, but Wes will show us how to do it anyway.
+
+So let's say we do the following:
+
+```
+Object.values(meats).forEach(qty => {
+  console.log(qty);
+});
+```
+If you refresh the HTML page and look at the console you should see the following:
+
+![](@attachment/Clipboard_2020-04-10-12-56-17.png) 12:53
+
+That is a pretty common thing to do it you want to like loop over and add up how much inventory you have or you want to add up all the numbers, we will look at how we can use `reduce()` to do that. 
+
+The same thing is if we were to do `keys`, instead of getting the quantity we would be grabbing the values and putting them into an array and then looping over them. 
+
+```js
+Object.keys(meats).forEach(qty => {
+  console.log(qty);
+});
+```
+
+![](@attachment/Clipboard_2020-04-10-12-58-33.png) 13:13
+
+Now let's try entries:
+
+```
+  Object.entries(meats).forEach(entry => {
+    console.log(entry);
+  });
+```
+
+![](@attachment/Clipboard_2020-04-10-12-59-54.png) 13:24
+
+For each one, you get an array with two items. The first item is always going to be the key, and the second value will always be the value. So if you wanted to split those up into their own vairables you could do the following: 
+
+```
+const key = entry[0];
+const value = entry[1];
+console.log(key,value);
+```
+
+![](@attachment/Clipboard_2020-04-10-13-01-17.png) 13:51
+
+Something that we have talked about that is very useful in this scenario is **destructuring**. Instead of using the square brackets and indexes on the entry array to grab each item, we can do this:
+
+```js
+const [key, value] = entry; 
+```
+What that code is doing is it is taking the first item in the entry array and assigning it to the variable key and it's taking the second item and assigning it to the variable value. 
+
+That is the exact same thing as:
+```
+const key = entry[0];
+const value = entry[1];
+```
+
+We could take it even one step further and destructure the entry variable inside of the function definition rather than in the function body. 
+
+
+First we will modify this line of code: `Object.entries(meats).forEach(entry => {` and instead wrap `entry` in paranthesis like so: `Object.entries(meats).forEach((entry) => {`. If you refresh the page, everything should still work, we did nothing by adding those parenthesis. 
+
+Now, instead of just passing one variable called `entry`, we are going to destructure that `entry` array into `key` and `value` directly.  Now within the function body we do not need to do any destructuring, we can just log the key and value variables directly. 
+
+```
+   Object.entries(meats).forEach(([key, value]) => {
+        // const key = entry[0];
+        // const value = entry[1];
+        //const [key, value] = entry;
+        console.log(key, value);
+      });
+
+```
+
+`key` and `value` are not special names, you could name them anything you want, for example this would still work:
+
+
+```
+Object.entries(meats).forEach(([meat, qty]) => {
+  // const key = entry[0];
+  // const value = entry[1];
+  //const [key, value] = entry;
+  console.log(meat, qty);
+});
+
+```
+
+There is nothing wrong with any of these approaches, they all work. Wes find that for some beginners destructuring can be a bit confusing so feel free to use the other approahces for now if they are more clear to you. 
+
+
+---
+
+## 47 - Array Cardio - Instance Methods
+
+
+

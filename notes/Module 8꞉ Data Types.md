@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-10T17:11:43.065Z'
+modified: '2020-04-10T19:18:29.596Z'
 ---
 
 # Module 8: Data Types
@@ -2125,5 +2125,308 @@ There is nothing wrong with any of these approaches, they all work. Wes find tha
 
 ## 47 - Array Cardio - Instance Methods
 
+Instance methods are methods that live on each array.
+
+We will be working out of the same `array-methods-START.html` file. 
+
+The first exercise is to display all bun types with " or " - use join(). 
+
+What is `join()`?  
+
+If you open the HTML page and console, let's type in `buns` to see what we are working with and then call `buns.join()`. You should see the following returned:
+
+![](@attachment/Clipboard_2020-04-10-13-29-18.png) 00:22
+
+`join()` turns the array into a string, joining each item with a comma. `join` takes an argument, and that is what you want to join it on. Add the following in our exercises file:
+
+```
+console.log(buns.join(' or '));
+```
+
+Now instead of being joined with commas in the string, we are joining the items using the word "or". 
+
+![](@attachment/Clipboard_2020-04-10-13-31-43.png) 00:39
+
+In our next example, we have a string with a bunch of items **delimited** by a comma:  `"hot dogs,hamburgers,sausages,corn"` and we need to use `split()` to turn it into a string. Split will take the string and split it up into an array. 
+
+Add the following: `const foodString = "hot dogs,hamburgers,sausages,corn";`
+
+Now if you want to turn this string into an array, it's actually not an array method, it's a string method. 
+
+Split takes in an argument, which is the character on which to split the string on. In our example we want to split the string on the comma. `split(',')` will get rid of those commas for us, which is probably what we want. 
+
+```
+console.log(foodString.split(','));  
+```
+
+![](@attachment/Clipboard_2020-04-10-13-40-08.png) 1:36
+
+Split is a pretty common method that is used. 
+
+You can call `split()` and pass it nothing. That will just take every letter in the string into it's own item. That is very similar to **spreading** which we did earlier. 
+
+One little "gotcha" about split is that you can do something like this no problem: 
+
+![](@attachment/Clipboard_2020-04-10-13-41-43.png) 1:58
+
+However, if you have emojis in there, like:
+
+```js
+'wes bos👪'.split('')
+```
+
+That emoji is actually made up of several different emojis and what is referred to as a zero width joiner. So that will come and bite you if you ever try to split something with an emoji, just something to keep in mind. If you do run into issues doing that, there are libraries you can use to help with that. 
+
+![](@attachment/Clipboard_2020-04-10-13-42-49.png) 2:07
+
+The next exercise is to take the last item off `toppings` using `pop()`. We haven't learned what pop does just yet. 
+
+Let's look at our `toppings` array in the console. 
+
+![](@attachment/Clipboard_2020-04-10-13-45-06.png) 2:44
+
+If you call `toppings.pop()`, it will return to us the last item in the array, which is "Cheese". 
+
+![](@attachment/Clipboard_2020-04-10-13-45-29.png) 2:44
+
+If you take a look at `toppings` again, you will see that "Cheese" is no longer part of the array.  
+
+![](@attachment/Clipboard_2020-04-10-13-45-58.png) 3:03
+
+This is a handy method if you need to grab one off the end of the array and then work with it, and it will just take that item out of the array. 
+
+Based on that, is this an immutable or mutable method? It is a **mutable** method because it mutates the original array. It takes it off the original array. 
+Now let's go ahead and do that in our code:
+
+```
+const lastItem = toppings.pop();
+console.log(lastItem);
+```
+
+The next step is to put it back with `push()`.  Let's log what is returned from the push to a variable called `t2` and then look at it in the console. Add this code:
+
+```
+// take the last item off toppings with pop()
+const lastItem = toppings.pop();
+console.log(lastItem);
+// add it back with push()
+const t2 = toppings.push(lastItem);
+console.log(t2);
+```
+
+You should see 11 in the console. What does that mean? Well when you push an item into an array, it will return to you the new length of the array, in case you need it. 
+
+![](@attachment/Clipboard_2020-04-10-13-53-39.png) 3:49
 
 
+You don't have to put it into a variable if you don't need it, so in our case we will remove the declaration of t2 and instead just use `toppings.push(lastItem)` and remove the `console.log(t2);`. Instead let's `console.log(toppings)` to see if cheese has been added back. 
+
+![](@attachment/Clipboard_2020-04-10-13-56-07.png) 4:07
+
+It has been added back. 
+
+The next instance method exercise will be using `shift()` to take the first item off toppings. This is pretty similar. 
+
+```
+// take the first item off toppings with shift()
+const firstItem = toppings.shift();
+console.log(firstItem);
+```
+
+That should give us mushrooms. 
+
+![](@attachment/Clipboard_2020-04-10-13-59-02.png) 4:24
+
+Next we need to add it back using unshift like so:
+
+```
+// add it back in with unshift()
+toppings.unshift(firstItem);
+```
+
+The next part of the exercise is to do the last four but immutable (with spreads and new variables).  Okay so we know how to do that. 
+
+So we need to:
+1. Take the last item off toppings with `pop()`
+2. add it back with `push()`
+3. Take the first item off toppings with `shift()`
+4. add it back with `unshift()`. 
+
+Start with #1, how do we take the last item off without mutating the original one? 
+
+Let's use slice. We will start at 0 and go till the end except one, so `length - 1` 
+
+```
+const newToppings = toppings.slice(0, toppings.length - 1);
+```
+
+![](@attachment/Clipboard_2020-04-10-14-06-50.png) 5:22
+
+Cheese is now off, which is what we want. 
+
+The next exercise is to put it back, so we can just do this. Change `newToppings` from a const to a let and then we will spread the newToppings array into itself and also add that last item back on. You could reference that last item using `toppings.length - 1`.
+
+We took Cheese out, but we didn't store it anywhere, so if we need to reference it, we need to reference it from the original toppings array.
+
+
+```
+let newToppings = toppings.slice(0, toppings.length - 1);
+newToppings = [...newToppings, toppings[toppings.length -1]];
+console.log(newToppings);
+```
+
+We should see "cheese" at the end like so: 
+
+![](@attachment/Clipboard_2020-04-10-14-11-16.png) 6:41
+
+Next, we want to add it to the front. 
+
+We would do exactly the same thing that we did just now to add it to the back, except you start at 1 and go for the length, and then when you add it back in, you put it first and then spread after that. 
+
+THe next step is to make a copy of the toppings array with `slice()`. How do you make a copy of an array? You can use `slice()`. 
+
+Let's do the following:
+
+```
+const toppingsCopy = toppings.slice(0);
+console.log(toppingsCopy);
+```
+
+Do we need to pass a second argument to `slice()`? Let's look it up.
+
+![](@attachment/Clipboard_2020-04-10-14-17-07.png) 7:55
+
+It says that end is optional. If it is ommited, slice extracts through the end of the sequence, so we don't need it!
+
+As you can see below, that worked. 
+
+![](@attachment/Clipboard_2020-04-10-14-18-03.png) 8:06
+
+The way we can tell if that is a copy is if we change the original `toppings` and then console log both, like so: 
+
+```
+const toppingsCopy = toppings.slice(0);
+toppings[0] = 'Mushy Boi';
+console.log(toppings);
+console.log(toppingsCopy);
+```
+As you can see below, only `toppings` has the "mushy boi" object, which tells us that `toppingsCopy` is a true copy.  
+
+![](@attachment/Clipboard_2020-04-10-14-19-46.png) 8:31
+
+The next exercise is to make a copy of the topppings array with a spread. 
+
+```
+const toppingsCopy2 = [...toppings];
+```
+
+Wes likes using spreads a lot. It's a bit weird at first because the ... syntax might be a bit funky to you but Wes believes that once you understand what's actually going on there and how spreads work, then you are in good shape. 
+
+The next exercise is to take out items 3 for 5 of the new toppings array with `splice()`.  
+
+```
+toppingsCopy.splice(3,5);
+console.log(toppingsCopy);
+```
+
+As you can see, there are now only 6 items rather than 11 in the array. 
+
+![](@attachment/Clipboard_2020-04-10-14-46-11.png) 9:32
+
+Next we need to find the index of avocado with `indexOf`. Previously we had looked for an item using find. But if the yare simply just strings or numbers, or references to an object: if you know exactly what you're looking for, `indexOf` will do what you need it to do. 
+
+```
+const avoIndex = toppings.indexOf('Avocado');
+console.log(avoIndex);
+```
+
+If we refresh the page you should see "5" logged in the console. That tells us that the avocado item is in the 5th index. 
+
+![](@attachment/Clipboard_2020-04-10-14-50-49.png) 10:15
+
+One thing about `indexOf` that you should know is that it works with any type. Let's do an example to demonstrate 
+
+```
+const wes = { name: "wes" };
+const people = [{ name: "scott" }, wes];
+console.log(people.indexOf(wes));
+```
+
+If you refresh the page and look at the console you should see the number 1 logged, which tells us the wes object is at index of 1 because it is giving reference to the wes object. 
+
+![](@attachment/Clipboard_2020-04-10-14-58-53.png) 11:09
+
+Now let's say instead of passing a reference to an object you pass in an object directly like so: `peopleIndexOf({name:'scott'})`. 
+Note that the object we are passing is identical to the first object in the people's array. 
+
+However, if you try that, you will see -1 in the console. -1 is what is returned when it didn't find anything (the reason it doens't give you 0 is because 0 is the first item in the array). 
+
+![](@attachment/Clipboard_2020-04-10-15-00-54.png) 11:25
+
+So why it work when we passed it `wes` but it didn't work when we passed it `{name:'scott'}`, which is an object exactly the same as the item in the first slot? 
+
+That is because although the objects look exactly the same, they are not exactly the same thing. 
+
+So if you were to say `{name : 'wes' } === wes`, it would return false. Why? because objects don't do a deep check to see if all the properties match up, they just check if the reference to it is actually the same object. 
+
+![](@attachment/Clipboard_2020-04-10-15-05-27.png) 12:16
+
+When we called `indexOf(wes)`, it was checking whether the people variable contained a reference to the object wes, which it did. When we checked it for an object that just looks the same, it gave me false. That is the whole reference vs value thing again.
+
+If you did need to find scott in that exampe you would just use `find()` with a callback. 
+
+The is also `lastIndexOf()`. `indexOf()` will find you the first instance of the argument you pass, whereas `lastIndexOf` will find you the last instance of it. 
+
+Next we need to check if hot sauce is in the toppings array using `includes()`. 
+
+`includes()` is useful. Let's say you have an array of numbers. You can call `includes()` to check if the array contains that number, like so:  `[1,2,3,4].includes(4)`. If you passed includes an object, it would check if the reference to that object exists in the array. 
+
+![](@attachment/Clipboard_2020-04-10-15-09-25.png) 13:13
+
+```
+const isInToppings = toppings.includes('Hot Sauce');
+console.log(isInToppings);
+```
+
+![](@attachment/Clipboard_2020-04-10-15-11-53.png) 13:53
+
+Note that includes is case sensitive, so if you were checking for all different versions of the case, what you would want to do is first lowercase the entire array with `.map()` which we will look at in the next couple of videos. 
+
+Next we are supposed to add "Hot Sauce" if it is not already included in the toppings array.  
+
+```
+// add it if it's not
+if (!isInToppings) {
+  toppings.push("Hot Sauce");
+}
+console.log(toppings);
+```
+
+![](@attachment/Clipboard_2020-04-10-15-13-19.png) 14:16
+
+Finallyl we need to fip the toppings around using `reverse()`. There are two ways to reverse, we can just call `toppings.reverse()` which we know is a **mutable** method, meaning it will reverse the toppings array 
+for us.  
+
+```
+// flip those toppings around with reverse()
+toppings.reverse();
+console.log(toppings);
+```
+
+![](@attachment/Clipboard_2020-04-10-15-14-31.png) 14:31
+
+If you want to do it **immutably** without modifying the original toppings array, we can create a new array, spread toppings into it, and then call `reverse()` directly on it like so:
+
+```js
+const toppingsReversed = [...toppings].reverse();
+```
+
+Using the second approach leaves `topppings` untouched because it just reverses our new array, which is a copy of toppings. 
+
+Those are the main methods Wes thinks will be helpful. There are a couple of others that are used often, you can take a look at the MDN list, but almost all of those are callback methods or filtering methods.  
+
+We will talk about callback methods in the next video. 
+
+---
+
+## 48 - Array Cardio - Callback Methods and Function Generation

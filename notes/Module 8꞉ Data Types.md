@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-04-10T21:56:36.024Z'
+modified: '2020-04-12T20:38:38.598Z'
 ---
 
 # Module 8: Data Types
@@ -2641,6 +2641,156 @@ There is actually one more way which is putting them in modules and importing an
 
 One other concept is functions that return other functions.  We refer to those as **high-order** functions. 
 
-8:59
+Wes is going to show us how thosee work. Now the `findBurgRating` function is very tied to the word "burg". If we wanted to make another function that looked for another word, like for example the word "smoothie". What we would have to do is duplicate our `findBurgRating` method, and make a `findSmoothieRating` function and then swap out the word we are looking for like so:
+
+```
+const findBurgRating = (singleFeedback) =>  singleFeedback.comment.include("burg");
+const findSmoothieRating = (singleFeedback) =>  singleFeedback.comment.includes("Smoothie");
+const burgRating = feedback.find(findSmoothieRating);
+console.log(burgRating);
+```
+
+That might seem a bit weird. You may be thinking "Do I have to create a new function for every single word?" The answer is no! We can create a function that will create these functions for us. 
+
+Comment out of `findBurgRating` and `findSmoothieRating` functions and make another function called `findByWord`, which takes in one argument: word. 
+
+In that, we are going to return another function which takes in the single feedback and returns true or false based on whether the object includes the word we have passed like so:
+
+```
+ function findByWord(word) {
+  return function(singleFeedback) {
+    return singleFeedback.comment.includes(word);
+  };
+}
+```
+
+So this function `findByWord` you can think of as a sort of momma function which returns another function, and we have made this function machine which will turn out more functions. 
+
+What we can do here is modify how we grab the burgRating like so:
+
+```
+const burgFinder = findByWord('burg');
+const burgRating = feedback.find(burgFinder);
+```
+
+`burgFinder` is just a function that is setup for finding the word burg and we can pass it to the `find` method.  Now we can do something similar with the word smoothie like so:
+
+```
+const burgFinder = findByWord('burg');
+const burgRating = feedback.find(burgFinder);
+
+const smoothieFinder = findByWord('Smoothie');
+const smoothieRating = feedback.find(smoothieFinder)
+```
+
+What we have done is created a function, `findByWord`, which makes a function. We have made `findByWord` flexible enough that we can pass it the word we are looking for and it will find the specific word that we want. 
+
+We don't even need the `smoothieFinder` and `burgFinder` variables. We can instead just pass them directly like so:
+
+```
+const burgRating = feedback.find(indByWord('burg'));
+const smoothieRating = feedback.find(findByWord('Smoothie'))
+```
+
+You might be saying, "hold on Wes, I thought you werne't supposed to call a function when you pass it to find. I thought you were just supposed to pass it reference to the function". 
+
+The key here is that `findByWord()` function doesn't find the burger itself, instead it returns a function which then, in turn, will find the burg for you.
+
+To demonstrate this, open the console and clear everything. Let's try running `findByWord('burg')` and see what is returned in the console. 
+
+![](@attachment/Clipboard_2020-04-12-16-02-45.png) 12:37
+
+As you see, when you run the `findByWord` burg function, it returns to us another function that is then setup to find the word burg in it. 
+
+That is a bit of an advanced example, but if you do find yourself in a situation where you keep writing the same code over and over and just one thing is changing, then maybe come back to this video to refresh on how we made a function that returns another function. 
+
+The next exercise is finding all the ratings that are above 2 using `filter()`. 
+
+`filter()` works very much like `find()` but it will return to you a new array instead of just one item. 
+
+The `filter` method will loop over every single one and either return true (I want to keep it) or false (I don't want to keep it). 
+
+```
+const goodReviews = feedback.filter(singleFeedback => {
+  if(singleFeedback.rating >= 2){
+    return true;
+  } else {
+    return false;
+  }
+});
+console.table(goodReviews);
+```
+
+![](@attachment/Clipboard_2020-04-12-16-18-00.png) 14:12
+
+As you can see, this also returns an item with a rating of 2 so let's actually change our filter from greater than or equal to 2 to just greater than 2. Now we only get three items returned. 
+
+![](@attachment/Clipboard_2020-04-12-16-19-18.png) 14:28
+
+Now, how can we make this function better? We have done this a few times now so you can feel free to do it yourself. 
+
+This function contains a condition that returns true or false, so we can just simple return the condition instead, and use an implict return, like so:
+
+```
+const goodReviews = feedback.filter(singleFeedback => singleFeedback.rating > 2);
+console.table(goodReviews);
+```
+
+That should work the same.
+
+Now could we do another function like `findByWord`? Yes, we can!
+
+We could add the following function `filterByMinRating`. One thing to note with these filtering and find methods is it is a lot easier if you explicitly name them to describe what they are supposed to do because quite often they will be in another file or something, and it is nice to be able to know what they do just by the name without having to look at the function.
+
+```
+function filterByMinRating(minRating){
+  return function(singleFeedback){
+    return singleFeedback.rating > minRating;
+  }
+}
+```
+
+Another thing to note is that the function we are returning does not have to be named. It can be, but there is no need to. 
+
+Our function above takes in a minRating value and then returns another function that checks whether the object passed in contains a rating greater than the minrating that was passed.
+
+Now we can go to our `filter` function and replace the filter by generate another function like so: 
+
+```
+const goodReviews = feedback.filter(filterByMinRating(2));
+console.log(goodReviews);
+```
+If you refresh the HTML page and open the console, you will see that it still works. 
+
+Now we can change our filter to take any items with a rating over 4 like so: `const goodReviews = feedback.filter(filterByMinRating(4));`
+
+![](@attachment/Clipboard_2020-04-12-16-28-20.png) 16:25
+
+
+The next exercuise asks use to find all the ratings that talk about a burger using filter. 
+
+```
+const burgRatings = feedback.filter(singleFeedback => singleFeedback.comment.includes('burg'));
+console.table(burgRatings);
+```
+
+You might be saying "hold on Wes, didn't we already do that with our `findByWord` function?". Yes, we did! What we can do is we can actually just reuse the function in our filter like so:
+
+```
+const burgRatings = feedback.filter(findByWord('burg'));
+console.table(burgRatings);
+```
+
+![](@attachment/Clipboard_2020-04-12-16-35-42.png) 17:34
+
+If you refresh the page, you will see that it still works. 
+
+So what we have done is we have written a javascript function, `findByWord` that can be used both for our `find` method and our `filter` method because they both just check whether a condition is true ot not. 
+
+It is fine if you don't create re-usable functions all the time, because sometimes a small little arrow function just does the trick. However it is good to know that if you ever keep repeating yourself over and over than you should probably refactor to save yourself some typing. 
+
+The next exercise is to remove the 1 star rating, however we like. Let's take a look at the one star rating.
+
+![](@attachment/Clipboard_2020-04-12-16-38-32.png) 18:25 
 
 

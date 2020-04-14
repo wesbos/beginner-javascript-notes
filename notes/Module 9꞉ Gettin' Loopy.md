@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-14T12:05:13.916Z'
+modified: '2020-04-14T12:26:33.999Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -428,4 +428,51 @@ In our `attachBody` function, we are just filling it with an emoji and then call
 
 `.map` can be used with any type of data. So far we have looked at examples with strings and numbers but more often than not, you will actually have an array of objects that comes back from the API. 
 
-stopped at 12:14
+
+Let's take a look at an example with the `peoples` array.
+
+```
+const people = [
+  {
+    birthday: "April 22, 1993",
+    names: {
+      first: "Keith",
+      last: "Buckley",
+    },
+  },
+  {
+    birthday: "January 3, 1975",
+    names: {
+      first: "Larry",
+      last: "Heep",
+    },
+  },
+  {
+    birthday: "February 12, 1944",
+    names: {
+      first: "Linda",
+      last: "Bermeer",
+    },
+  },
+];
+```
+
+Each person is signified by an object, and each person has a birthday, and a names object which has a nested first and last property inside of that.
+
+That data is okay but it's not in the format that we need. That happens all the time when you are working with APIs. 
+
+So what we have to do is take in that data, "massage" it a little bit and then return the new formatted data that we want. Let's go ahead and do that. 
+
+```
+const cleanPeople = people.map(function(person){
+  console.log(person);
+})
+```
+
+ We are using an inline function which takes in an parameter of `person` (which will be each item in the array as it loops through). We are logging the person. 
+
+ It is fine to log within a `map` function, just don't ever do things like updating the dom inside of a map function. That is what a `forEach` is for.
+
+ The first thing we need this function to do is get the person's birthday, and then figure out how old they are. Then we want to return their full name and birthday in an object.
+
+ stopped at 13:50

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-14T00:24:13.334Z'
+modified: '2020-04-14T03:44:11.192Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -212,7 +212,141 @@ Let's see how that is different from what Wes likes to call the 'Big Three' whic
 
 ---
 
-## 50 - 
+## 50 - Looping and Iterating - Mapping
+
+In the previous lesson we learned about `forEach`, which is useful when you want to loop over some data and do something with each piece of data. Whether that something is display the data on a page, log the value, or attaching an event listener to each item, those are often referred to as things called **side effects**. 
+
+Side effect is when you are inside of a function and you reach outside of that function to do something else. 
+
+While side effects are totally fine, because at some point you do need to do things that reach outside the function, there are a whole slew of other types of loops that are simply taking in data, doing something with that data and then returning the data that has been modified, massaged or transformed in some way. 
+
+That is where we get into `map`, `filter`, and `reduce`. 
+
+We have already looked at one example of `filter` and that is `find`, where you take in an array and return one thing. That is a transformation of that data and are often referred to as **pure functions**. 
+
+Pure functions take in data, they return data, they always work exactly the same way given the data that's inputed, it returns the exact same thing. They don't reach outside themselves to do that. 
+
+Let's talk about `map`. Map is like a machine in a factory. It takes in data, performs an operation and then spits it out on the other side.
+
+`map` will always produce the same length of the array as it starts with. 
+
+Lets go into a little example right now. 
+
+First add `console.clear()` to the script tag to clear all the toppings work we did. 
+
+Wes loves the analogy of a machine, taking in data, performing an operation and then spitting it out on the other side. You can think of like a toy machine in a factory which adds one arm then the other arm then a leg. 
+
+Let's do a really simple example. 
+
+We have this array `const faces = ['😃', '🤠', '🤡', '🤑', '😵', '🌞', '🐶', '😺'];`. 
+
+Let's create some functions that will map over each one. 
+
+So if we make a function called `addArms`, it takes in a face, and from that let's return an emoji:
+
+```js
+function addArms(face){
+  return `👋${face} 👋`;
+}
+```
+
+That is just a regular function like we have written a hundred times by now. You can play with it in the console. It's silly, but it works.
+
+![](@attachment/Clipboard_2020-04-13-23-22-05.png) 3:01
+
+Now what we can do is we can take our array of faces and add arms to all of them, and this how that works. 
+
+```
+const toys = faces.map(addArms);
+console.log(toys);
+```
+
+![](@attachment/Clipboard_2020-04-13-23-23-16.png) 3:36
+
+As you can see, what was returned to us is an array of exactly the same length as we put it in, so if the array had 8 things, it will have 8 things when it's returned, there is no way to return more or less items with `map`. You simply take in something and return something else. 
+
+One other simple example is lets say you have 
+
+```
+const fullNames = ['wes','kait','poppy'].map(name => `${name} bos`);
+console.log(fullNames);
+```
+
+![](@attachment/Clipboard_2020-04-13-23-26-57.png) 4:33
+
+We could do multiple transforms. 
+
+Let's make the code above into a function. 
+
+```
+function bosify(name){
+  return `${name} Bos`;
+}
+
+const fullNames = [ 'wes', 'kait', 'poppy'].map(bosify);
+```
+
+![](@attachment/Clipboard_2020-04-13-23-31-21.png) 5:17
+
+Now the first names don't have capitals so let's make another function called `capitalize` which takes in a word. 
+
+You can access each character of a word using an index. 
+
+For example `'wes'[0]`, `'wes'[1]`, `'wes'[2]` will return the following..
+
+![](@attachment/Clipboard_2020-04-13-23-33-14.png) 5:55
+ 
+So we can capitalize the first letter of word like so: 
+
+```
+function capitalize(word){
+    return word[0].toUppercase();
+}
+```
+
+Let's try that so far. So now we are going to chain our maps like so:
+
+```
+const fullNames = [ 'wes', 'kait', 'poppy'].map(capitalize).map(bosify);
+```
+
+You can chain as many maps as you want because each returns a new array until it reaches the last one. 
 
 
+A nice way to format that to make it easier to read is to put each map on its on line. You still only put one semi colon `;` at the end of the chain, not on each line. 
 
+```
+const fullNames = ['wes','kait','poppy']
+  .map(capitalize)
+  .map(bosify);
+console.log(fullNames);
+```
+
+![](@attachment/Clipboard_2020-04-13-23-37-32.png) 6:56
+
+As you can see, that does not return the whole word. Let's fix that.
+
+We will use slice to return the words from index 1 to the end of the word like so:
+
+```
+function capitalize(word){
+    return word[0].toUppercase() + word.slice(1);
+}
+```
+
+![](@attachment/Clipboard_2020-04-13-23-38-35.png) 7:12
+
+As you can see, that works. 
+
+Let's change that so instead of using the `+` operator, we use backticks because it's better to reserve adding for numbers. 
+
+Modify it like below. 
+
+```js
+function capitalize(word){
+    return `${word[0].toUppercase()} ${word.slice(1)}`;
+}
+```
+
+
+stopped at 7:57

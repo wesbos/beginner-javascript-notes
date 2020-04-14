@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-14T03:44:11.192Z'
+modified: '2020-04-14T12:05:13.916Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -344,9 +344,88 @@ Modify it like below.
 
 ```js
 function capitalize(word){
-    return `${word[0].toUppercase()} ${word.slice(1)}`;
+    return `${word[0].toUppercase()}${word.slice(1)}`;
 }
 ```
 
+![](@attachment/Clipboard_2020-04-14-07-39-08.png) 7:%6
 
-stopped at 7:57
+Map will always take in an item, do some work with it and then return a new value. 
+
+The same thing works with numbers. 
+
+```
+const orderTotals = [342, 1002, 523, 34, 634, 854, 1644, 2222];
+```
+
+Lets say we want to add tax to all items in the `orderTotals` array. 
+
+Watch what happens if for every single item in our map, we just return one. 
+
+```
+const orderTotalsWithTax = orderTotals.map(total => 1);
+```
+
+![](@attachment/Clipboard_2020-04-14-07-41-24.png) 8:32
+
+As you can see, all the items in the array have now been turned into 1. Why? Because whatever you return from your map function will replace whatever was initially in your map function.
+
+It is not mutable. What that means is our `orderTotals` are still there. The new array has the updated value. So back to our example, to add the tax to every item in the order total we will do
+
+```
+const orderTotalsWithTax = orderTotals.map(total => total * 1.13);
+```
+
+![](@attachment/Clipboard_2020-04-14-07-45-20.png) 9:09
+
+As you can see, we now have our values with tax added to them. 
+
+Wes finds map to be extremely helpful.
+
+There is one really silly example that Wes wants to show us. There is this thing on twitter where you can make cowboy bodies out of emojis.
+
+ ![](@attachment/Clipboard_2020-04-14-07-46-49.png) 9:41
+
+```
+function attachBody(face, body) {
+  return `
+      ${face}
+　　　　　${body.repeat(3)}
+　　　　 ${Array(3).fill(body).join(' ')}
+　　　👇🏽　 ${body.repeat(2)}　👇🏽
+    ${Array(2).fill(body).join('   ')}
+    ${Array(2).fill(body).join('   ')}
+　　　　　👢　　👢
+  `
+}
+
+faces.map(face => attachBody(face, '🍟')).forEach(body => console.log(body))
+```
+
+What Wes has done here is he has taken our faces array that we used earlier, looped over each one and passed the face as an argument along with whatever he wants to body to be made up of. That will return us a new array and then for each of those we just console log them. 
+
+The `attachBody` function simply takes in a face, and then whatever the body is made up of and we use backticks so we can use multiple lines and then it fills in the variables. So it fills in the face variable, then the body variable repeats three times.  
+
+One thing Wes hasn't shown us yet is `repeat`. You can take a string and call repeat on it and javascript will repeat that however many times you like, like so:
+
+```
+'x'.repeat(199);
+```
+
+![](@attachment/Clipboard_2020-04-14-07-51-17.png) 10:46
+
+Another thing Wes hasn't shown us yet is `Array.fill()`.  
+
+With `Array(3)`, it will create three empty spots in an array, much like `Array.from()`. 
+
+![](@attachment/Clipboard_2020-04-14-08-01-39.png) 10:53
+
+However if you want to fill them with the exact same thing, you can use `Array(3).fill('x')`. That is a bit quicker than `Arrau.from` and map function that we looked at. 
+
+![](@attachment/Clipboard_2020-04-14-08-02-45.png) 11:09
+
+In our `attachBody` function, we are just filling it with an emoji and then calling `.join(' ')` with a space separator in it. That gives us the actual body of the person.
+
+`.map` can be used with any type of data. So far we have looked at examples with strings and numbers but more often than not, you will actually have an array of objects that comes back from the API. 
+
+stopped at 12:14

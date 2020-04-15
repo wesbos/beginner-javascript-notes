@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-14T23:31:12.163Z'
+modified: '2020-04-15T01:37:22.018Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -652,3 +652,260 @@ So once again, that is what Map does. It takes in some data that doesn't look ex
 ---
 
 ## 51 - Looping and Iterating = Filter, Find and Higher Order Functions
+
+You can skip this lesson if you feel confident with your knowledge of `filter` and `find` because we have already covered that a few times. Wes just wants to have a video specifically dedicated to it so we can come back and refer it at a later time conveniently. 
+
+Let's continue from the example in our previous lesson. We created an array `cleanPeople`.  Let's work with that. 
+
+![](@attachment/Clipboard_2020-04-14-20-34-12.png) 00:25
+
+Very often you will find yourself in a situation where you either need to find one person in that or you want to filter the list down to be a subset of it. 
+
+Let's say we want to find people who are over 40 years old. We can use `.filter()` for that. The way filter works is you loop over every single item in an array, and you either say yes, true or no, false. If you return true that item will be in the array subset, if you return false it will out that item from the array that is returned.
+
+```js
+const over40 = cleanPeople.filter(function(person){
+  if(person.age > 40 ){
+    return true;
+  }
+  else {
+    return false;
+  }
+})
+console.table(over40);
+```
+
+That is the verbose way to write it, which Wes is using just to show us how it works.
+
+![](@attachment/Clipboard_2020-04-14-20-54-24.png) 1:39
+
+As you can see, we now have only a subset of the original array. 
+
+Now let's refactor the function above to make it more concise.
+
+How Wes would approach it is he would look at the condition within the filter function. If the condition is met, we will return true. That means there is no need for an else because anything that comes after the condition will only run if the condition is true. So that else is unnecessary.
+
+```
+  if(person.age > 40 ){
+    return true;
+  }
+  return false;
+}
+```
+
+Since the condition evaluates to true or false, we can just return the condition like so 
+
+```
+const over40 = cleanPeople.filter(function(person){ return person.age > 40});
+```
+
+We can make it an arrow function like so:
+
+```js
+const over40 = cleanPeople.filter((person) => { return person.age > 40});
+```
+
+We can go one step further and make it an implicit return and take off the parameter parenthesis like so:
+
+```js
+const over40 = cleanPeople.filter(person => person.age > 40);
+```
+
+If there ever is a situation where we call this filter method on an array with no people over 40 in it, it will just return to us an empty array. ![](@attachment/Clipboard_2020-04-14-20-59-30.png) 3:29
+
+ If you wanted to check if there were any people over 40 in this case you could use the following code:
+
+ ```
+ if(over40.length){
+   console.log('There are some people over 40');
+ }
+ ```
+
+That is how filter works. 
+
+`.find()` works the exact same way except that find only finds one item in the array and returns it whereas filter will always return to you all of the items that match. 
+
+`.filter()` will always return an array
+
+`.find()` will always return the item that you want. 
+
+Let's use the `students` array for our find example. 
+
+Here is what that array looks like:
+
+```
+const students = [
+  {
+    id: "11ce",
+    first_name: "Dall",
+    last_name: "Puckring",
+  },
+  {
+    id: "2958",
+    first_name: "Margarete",
+    last_name: "Brandi",
+  },
+  {
+    id: "565a",
+    first_name: "Bendicty",
+    last_name: "Woodage",
+  },
+  {
+    id: "3a16",
+    first_name: "Micki",
+    last_name: "Mattes",
+  },
+  {
+    id: "f396",
+    first_name: "Flory",
+    last_name: "Gladeche",
+  },
+  {
+    id: "de5f",
+    first_name: "Jamill",
+    last_name: "Emilien",
+  },
+  {
+    id: "54cb",
+    first_name: "Brett",
+    last_name: "Aizikowitz",
+  },
+  {
+    id: "9135",
+    first_name: "Lorry",
+    last_name: "Smallman",
+  },
+  {
+    id: "978f",
+    first_name: "Gilly",
+    last_name: "Flott",
+  },
+];
+```
+
+Now let's say we want to find a student with the `id` of `565a`.
+
+
+```
+const student = students.find(student => );
+```
+
+The code above is incomplete, but one weird thing worth pointing out is that we are naming the variable that we are storing the item in as `student` but we are also naming the individual loop a student. Is that okay? 
+
+It is allowed because the student which is a parameter of the `.find()` loop is scoped to within that function. It is confusing however so it's often better to change it to something else. We will name the parameter `stud` instead like so:
+
+```
+const student = students.find(stud => stud.id === '565a');
+console.log(student);
+```
+
+![](@attachment/Clipboard_2020-04-14-21-10-56.png) 5:19 
+
+As you can see, the correct student record is returned. If that didn't match anything, what would we find? We would get undefined. You always want to check if something got found. 
+
+![](@attachment/Clipboard_2020-04-14-21-11-50.png) 5:25
+
+As you may have noticed, the `find` method did not return an array of students to us, it returns to us an object which is the student itself. 
+
+We could just swap the `.find()` to a `.filter()` like so:
+
+```
+const student = students.filter(stud => stud.id === '565a');
+console.log(student);
+```
+
+![](@attachment/Clipboard_2020-04-14-21-13-24.png) 5:41
+
+As you can see, that returns to us an array of one item. That is the different between `.filter()` and `.find()`, everything else is exactly the same.
+
+One neat thing that we could do is make an external function and then pass that in, like so:
+
+```
+function isStudent(student){
+  return student.id === '565a';
+}
+const student = students.find(isStudent);
+console.log(student);
+```
+
+Now that is a little bit weird. Why would we write a function that is hardccoded to a specific id? It's more likely that we will be looking for a student with a specific id. 
+
+What we can do is wrap that in another function called `findById`, which takes in one parameter: `id` which returns another function like so:
+
+```
+function findById(id){
+  return function isStudent(student){
+    return student.id === id;
+  }
+};
+```
+
+This is called a **high order function** or a **higher order function**. It is a function that will return another function. 
+
+Now we can simply replace the method we pass to `.find()` like so:
+
+```
+const student = students.find(findById('56a'));
+```
+
+`findById('56a')` will generate a new function that is coded to find the id that we are looking for. 
+
+![](@attachment/Clipboard_2020-04-14-21-22-51.png) 7:22
+
+It still finds the right person. So that is a little more flexible.
+
+Even further we can make another function that is even more flexible because let's say you run into a scenario where the object has a lot of properties. Are you going to create a separate function called `findByFirstName` and then `findByLastName` and then all the other properties? 
+
+We can actually modify the function to make it even more flexible. We will start with a new function instead. That function takes in two things: the property and then the property we are looking for. It will return a function which is the looping function. 
+
+We are not going to return if the id is equal to the id, we are going to return if the student property is equal to the property value we are looking for. 
+
+```
+function findByProp(prop, propWeAreLookingFor){
+  return function isStudent(student){
+    return student[prop] === propWeAreLookingFor;
+  }
+}
+```
+
+Now that might be a little confusing to you. Let's go over how it works.
+
+```
+const student = students.find(findByProp('id', '565a'));
+```
+
+What that does is it makes the function really flexible. The code we added above still works, but we can make other student where the first name property is equal to  'Micki'. 
+
+
+```
+const student = students.find(findByProp('id', '565a'));
+const student = students.find(findByProp('first_name', 'Micki'));
+console.log(student);
+console.log(student2);
+```
+
+![](@attachment/Clipboard_2020-04-14-21-31-12.png) 9:17
+
+Let's go over the function one more time. The `findByProp` function takes in a prop as the first parameter and `propWeAreLookingFor` as the second parameter. What we mean by that is the first parameter takes in the key, and the second parameter takes in the value we are matching the property against.
+
+![](@attachment/Clipboard_2020-04-14-21-32-56.png) 9:39
+
+In the image above, the text that is selected is the property `last_name` . It is the property key. 
+
+![](@attachment/Clipboard_2020-04-14-21-33-49.png) 9:40
+
+The property value for the `last_name` property for the student shown above is `Aizikowitz`. 
+
+So our function takes in a property and a value, and then it will look in each object for whatever property you specified is equal to whatever value you specified.
+
+![](@attachment/Clipboard_2020-04-14-21-35-10.png) 9:55
+
+The reaosn we have to use square brackets and not the dot notation in the code highlighted in the image above is because the property that we are looking for is being passed in as an argument to the function. 
+
+This is a bit advance so don't feel too let down if you feel a bit confused. It took Wes years to understand the benefit of a function like we just made with `findByProp`. 
+
+---
+
+## 52 - Looping and Iterating - Reduce 
+
+

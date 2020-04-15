@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-13T22:24:39.064Z'
+modified: '2020-04-15T00:24:09.228Z'
 ---
 
 # Video Course Outline
@@ -74,8 +74,8 @@ Module 8: Data Types
 48. ~~Array Cardio - Callback Methods and Function Generation~~ (33:49)
 
 Module 9: Gettin' Loopy
-49. Looping and Iterating - Array .forEach (11:53)
-50. Looping and Iterating - Mapping (21:33)
+49. ~~Looping and Iterating - Array .forEach~~~ (11:53)
+50. ~~Looping and Iterating - Mapping~~ (21:33)
 51. Looping and Iterating - Filter, Find and Higher Order Functions (10:44)
 52. Looping and Iterating - Reduce (16:40)
 53. Looping and Iterating - Reduce Exercise (16:14)

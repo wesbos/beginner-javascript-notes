@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-15T12:35:30.435Z'
+modified: '2020-04-15T22:11:31.266Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -1002,7 +1002,7 @@ So as you can see, in the first loop the tally is 0 and then in the rest it is u
 
 Now that we got the loop working, we have this problem where everything after the first loop is returning undefined for the tally. That is because of the accumulator parameter, in our case `tally`, that is passed from the previous iteration of the loop. 
 
-So if we were to just return `'WES IS COOL';` from our `tallyNumbers` function, the accumulator is going to be equal to that on the next iteration. 
+So if we were to just return `'WES IS COOL';` from each of the iteration in our loop, the accumulator is going to be equal to that on the next iteration. Modify the `tallyNumbers` function by adding `return 'WES IS COOL'` as shown below. 
 
 ```js
 function tallyNumbers(tally, currentTotal) {
@@ -1016,6 +1016,195 @@ const allOrders = orderTotals.reduce(tallyNumbers, 0);
 
 ![](@attachment/Clipboard_2020-04-15-08-35-08.png) 7:18
 
+As you can see, the first time the loop runs, the tally is 0 because we started with an accumulator of 0 and then for all the next instances, our accumulator `tally` is equal to "WES IS COOL" because whatever you return from this function is what the accumulator is equal to. 
+
+So what we really want to do is return the current tally PLUS the current order's total. 
+
+
+```
+function tallyNumbers(tally, currentTotal) {
+  console.log(`The current tally is ${tally}`);
+  console.log(`The current total is ${currentTotal}`);
+  console.log("----------");
+  return tally + currentTotal;
+}
+const allOrders = orderTotals.reduce(tallyNumbers, 0);
+
+```
+
+![](@attachment/Clipboard_2020-04-15-17-03-17.png) 7:49
+
+In the console above, as you can see we start with 0 because our accumulator starts at 0 as shown in the highlighted code in the image below. 
+
+![](@attachment/Clipboard_2020-04-15-17-04-40.png) 7:56
+
+If we were to not pass an accumulator, the first loop iteration will take the first two numbers. In our case, that would still work but Wes always like to pass a default value so we know what we are starting with and so we can see what type we are starting with. 
+
+So we start with 0, then the currentTotal is 342. Then in the next iteration, because we have returned 342 from the previous iteration, we are going to start with that as tally variable in the next iteration. We add the current value and return the tally variable to the next iteration and so on.
+
+So, a reduce will loop over items in an array and every single time that you loop over an item in an array, you have an option to return a value which you can use to accumulate values or distill them down into one value.
+
+Now, if we want to total the numbers, we already have them in the `allOrders` variable so we can simply add `console.log(allOrders);` which should return to us 7255.
+
+For the next example, let's look at the `inventory` variable. 
+
+```js
+const inventory = [
+  { type: "shirt", price: 4000 },
+  { type: "pants", price: 4532 },
+  { type: "socks", price: 234 },
+  { type: "shirt", price: 2343 },
+  { type: "pants", price: 2343 },
+  { type: "socks", price: 542 },
+  { type: "pants", price: 123 },
+];
+```
+
+It is an array of objects and each object has a `type` and a `price` property on it. 
+
+In this exercise, we need to figure out how many instances there are with type of pants, how many are pants, and how many are socks. We also want to figure out what is the total value of all of the inventory that we have.
+
+You could probably figure out how to calculate the total value form the last exercise, but the other part where we need to count how many instances of something there are, happens all the time in Javascript.
+
+Let's add some code. Let's make a function called `inventoryReducer` which we will pass to `.reduce()` when we call it.  
+
+```
+function inventoryReducer(){
+
+}
+const inventoryCounts = inventory.reduce(inventoryReducer,);
+```
+
+
+We also need to decide what value we should start with for the accumulator. 
+In our case, we want to return an object that looks something like this 👇
+
+```
+{
+  shirts: 3,
+  pants: 2,
+  socks: 523
+}
+```
+
+In order for us to get that, we need to pass an object. We could pass an object like this:
+
+```
+const inventoryCounts = inventory.reduce(inventoryReducer, {
+  shirts:0,
+  pants: 0,
+  socks: 0
+});
+```
+
+That would start everything off at zero. 
+
+However, more often then not, you are not aware of all of the different types that will be coming in so there is no way for you to go in and make a huge list of everything ahead of time. Or -- you might be aware of it and there are 50 different things so it doesn't make sense to do that.
+
+What we will do instead is we will start of with an empty object and then add the keys and set them to one as they appear, otherwise if they already exist, we will increment them by one. 
+
+Here is how you pass an empty object as the accumulator `const inventoryCounts = inventory.reduce(inventoryReducer, {});`
+
+Our reducer takes two things: 
+1. our accumulator which we will call `totals`
+2. our item which we will call `item`
+
+
+Let's add a log to our reducer function which logs the item's type like so
+
+```js
+function inventoryReducer(totals, item){
+  console.log(`Looping over ${item.type}`);
+}
+```
+
+![](@attachment/Clipboard_2020-04-15-17-54-18.png) 11:54
+
+Inside of the reducer we need to increment the type by 1 and then return the accumulator or return the totals so the next loop can use it. 
+
+To increment the type, let's try the following:
+
+```
+function inventoryReducer(totals, item){
+  console.log(`Looping over ${item.type}`);
+  totals.shirt = totals.shirt + 1; 
+  return totals;
+}
+const inventoryCounts = inventory.reduce(inventoryReducer, {});
+console.log(inventoryCounts);
+```
+
+![](@attachment/Clipboard_2020-04-15-17-57-15.png) 12:42 
+
+Hm.. shirt is equal to NaN. Why would that be? That is because if you are trying to add one to something that doesn't exist, it will give you NaN (not a number). 
+
+What we can do is check if the shirt already exists on our totals and if it does we increment it by one but if it doesn't, we will set it to zero. 
+
+So what we can try to do is say totals.shirt equals to itself plus 1 or 1 like so
+
+```
+totals.shirt = totals.shirt + 1 || 1;
+```
+Lets try it. 
+
+![](@attachment/Clipboard_2020-04-15-17-59-42.png) 13:17
+
+Why did that work? This is an example of taking advantage of conditionals or abusing conditionals. 
+
+If we were to write that as an if statement, it would look like this:
+
+```
+if(totals.shirt){
+  totals.shirt = totals.shirt + 1;
+}
+else {
+  totals.shirt = 1;
+}
+```
+
+Note you can also increment totals.shirt like this `totals.shirt++;` Both work!
+
+So what is happening there is if the property doesn't exist, we first need to add it, and set it to one, and then we can start incrementing it.
+
+In this statement `totals.shirt = totals.shirt + 1 || 1;`, if `totals.shirt + 1` turns out to be NaN, then that is falsy and it will fall back to 1. It's a bit harder to read which in a lot of cases isn't ideal, but it is nice to do it in a one liner. 
+
+Another way we could do it is write 
+
+```
+totals.shirt ? totals.shirt + 1 : totals.shirt = 1;
+```
+
+So we are checking if `totals.shirt` exists, if it does, we increment it by 1, if it doesn't we create the property and set it to 1. 
+
+Now one thing you may have noticed is we have been hardcoding shirt, which we shouldn't be doing because there are a few differnt types. 
+
+We can change it to a variable lookup item using square brackets like so: 
+
+```
+totals[item.type] = totals[item.type] + 1 || 1;
+```
+
+![](@attachment/Clipboard_2020-04-15-18-07-54.png) 15:33
+
+As you can see, now our accumulator has the 2 shirts, 2 socks and 3 pants.
+
+Pretty often a reduce can be done in an arrow function, a really quick one. 
+
+In our case, we just want to add up the inventory `price` on each of them. We will start with 0 as our accumulator because we want to add up the total prices. 
+
+```
+const totalInventoryPrice = inventory.reduce((acc, item) => acc + item.price, 0);
+console.log(totalInventoryPrice);
+```
+ 
+ We loop over every single item and then we return the accumulator plus the current item price.
+
+ --
+
+ ## 53 - Looping and Iterating - Reduce Exercise
+
+ 
 
 
 
+Wh

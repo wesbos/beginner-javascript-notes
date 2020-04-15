@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-15T01:37:22.018Z'
+modified: '2020-04-15T11:53:48.383Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -907,5 +907,87 @@ This is a bit advance so don't feel too let down if you feel a bit confused. It 
 ---
 
 ## 52 - Looping and Iterating - Reduce 
+
+Let's add a `console.clear()` to the bottom of the script section in the HTML page we have been using for the last few examples. 
+
+So far we have covered `.map()`, where you take in items and return transformed items, and `.filter()` where you take in items and return a subset of those items. 
+`.reduce()` is probably one of the trickier array methods to understand because it does so muc and there are a couple of different use cases for it. 
+
+So what does it do? It takes in an array of data (just like `map` and `filter`) and it will return to you a result of or a single value. 
+
+Now what does that 👆exactly mean? Let's do an example to demonstrate. 
+
+```
+const orderTotals = [342, 1002, 523, 34, 634, 854, 1644, 2222];
+```
+
+We want to take the ordersTotal array and add up all the numbers in the array. 
+
+Maybe one way you could approach it is to set a let variable to zero and then use a `forEach()` to loop over each item and add to the total. 
+
+```js
+let total = 0;
+orderTotals.forEach(singleTotal => {
+  total = total + singleTotal;
+})
+console.log(total);
+```
+
+![](@attachment/Clipboard_2020-04-15-07-39-54.png) 1:40
+
+As you can see, that does work. 
+However, is that the best way to add up a bunch of things? No, it is not. 
+
+![](@attachment/Clipboard_2020-04-15-07-40-47.png) 1:52
+
+We have the callback method within our `forEach`, which relies on an external variable being made. So we have sort of reached outside of it. That is what is referred to as a **side effect** which is where you update a variable that exists outside of the function. 
+
+`.reduce()` will allow us to loop over every single item in that array, and in this case it would allow us to do a running total with those numbers. 
+
+Here are some visualizations that Wes has pulled from online by google image searching "map filter reduce".
+
+![](@attachment/Clipboard_2020-04-15-07-43-24.png) 2:36
+
+In the image above, the language is not javascript but it doesn't matter because each language has some for of those three. 
+
+So in the image above, in the map, it takes in raw materials of cow, potato, chicken and corn and that returns the cooked materials via the cook function. 
+
+The filter will return to you a subset of the original array of what is vegetarian. 
+
+`.reduce()` will take in an array of food and return to you something that is compiled into a smaller version of it.
+
+If you think about making a reduction when you're cooking or making a soup, what you do is you add a whole bunch of stuff to it and then you let it simmer and sort of become one. It is typically reduced down to something that is smaller than the original value that it came from. 
+
+Now we will go through a bunch of use cases for `.reduce()`. We will make a new variable called `allOrders`. We will call `.reduce()` on our `orderTotals` array.
+
+```
+const allOrders = orderTotals.reduce();
+```
+
+We need a callback function that will be run on each item in the array. Let's call it `tallyNumbers`. It will take in two arguments because that is what the callback function of a reduce method takes. Let's look that up in the MDN docs.
+
+![](@attachment/Clipboard_2020-04-15-07-50-19.png) 4:26
+
+So the two parameters it takes is the **accumulator** and the current balue.
+The accumulator is the thing that has been handed to you from the last instance of the loop. The `currentValue` parameter is the current item in the array.
+
+We will name our parameters `tally` and `currentTotal`. Inside of the function we will add a log specifying what the current tally is and what the current total is like so:
+
+```
+function tallyNumbers(tally, currentTotal){
+  console.log(`The current tally is ${tally}`);
+  console.log('The current total is ${currentTotal}`);
+}
+```
+
+stopped at 5:07
+
+
+
+
+
+
+
+
 
 

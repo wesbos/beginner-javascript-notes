@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-16T12:56:37.466Z'
+modified: '2020-04-16T23:45:13.264Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -1348,12 +1348,177 @@ char.match(/[a-z0-9]/i)
 
 The `i` flag will make it case insensitive. Let's refresh to mak sure that still works. 
 
-
 ![](@attachment/Clipboard_2020-04-16-08-56-21.png) 6:24
 
 As you can see, it does work, and we also getting numbers now. 
 
-6:24
+You might notice in the dev tools that when you expand a large array, it breaks them up into groups as displayed in the image below.
 
-6:23
+![](@attachment/Clipboard_2020-04-16-18-39-05.png) 6:29
 
+So that is our first filter. The next thing we want to do is we want to lowercase everything. One way we can do that is using `.map()`. 
+
+We can chain the `.map()` directly on the `.filter()`, however the code is getting to be a little bit hard to work with so let's first refactor a bit. 
+
+Let's refactor the inline function we pass to filter to an external function we will name `isValidChar`. 
+
+```
+const everything = text.split("");
+function isValidChar(char) {
+  return char.match(/[a-z0-9]/i);
+}
+
+const result = everything.filter(isValidChar);
+
+console.log(result);
+```
+
+That already looks much neater. We can make the code even more concise by chaining the `.split()` instead of assigning it to a variable, like so.
+
+```
+function isValidChar(char) {
+  return char.match(/[a-z0-9]/i);
+}
+
+const result = text.split("").filter(isValidChar);
+
+console.log(result);
+```
+
+Often developers like to put each method that is chained on it's own line like below.
+
+```
+const result = text
+  .split('') //split each char into an item of an array
+  .filter(isValidChar);
+
+console.log(result);
+```
+
+Now let's chain the map over a function we will call `lowercase`. 
+
+```
+function lowercase(char){
+  return char.ToLowerCase();
+}
+```
+
+You could also write that as an arrow function, which we will use instead so comment the lowercase method out and add the code below
+
+```
+const lowercase = char => char.toLowerCase(); 
+```
+
+If you refresh the page and open the array in the console, you will see that now there are only lowercase letters.
+
+The last step in this exercise is to count the instances of each letter and number using a reduce. 
+
+Let's create an external function which we will pass to the reduce method. We want to start with an empty object so we will pass that as the second argument. 
+
+```
+function instanceCounter(){
+}
+
+const result = text
+  .split("")
+  .filter(isValidChar)
+  .map(lowercase)
+  .reduce(instanceCounter, {});
+```
+
+We will name the accumulator parameter `counts` and the individual character instance `char`. Inside of the function, we will check whether the character already exists in the array using square brackets and a ternary function. 
+
+If the character does exist, we will increment it by 1. If it does not, we will add it and set it to one. 
+
+```
+function instanceCounter(counts, char) {
+  counts[char] ? counts[char] + 1 : (counts[char] = 1);
+}
+```
+If you refresh the page, you might see something like the following error: 
+
+![](@attachment/Clipboard_2020-04-16-19-06-33.png) 11:02
+
+In Wes example, `k` is the second character. ![](@attachment/Clipboard_2020-04-16-19-07-32.png) 11:06
+
+Why is it telling us it's undefined? It's because the first time it works, the first time our reducer accumulator is an object. However, because we didn't return anything from this line, then the second time the return is undefined. 
+
+To fix the issue, we simply need to add `return counts;` to the end of our `instanceCounter` method. 
+
+```
+ function instanceCounter(counts, char) {
+  counts[char] ? counts[char] + 1 : (counts[char] = 1);
+  return counts;
+}
+```
+
+If you refresh the page and open the console, you will see it is showing a count of 1 next to each character. That's not right!
+
+![](@attachment/Clipboard_2020-04-16-19-20-39.png) 11:36
+
+Let's debug this by looking at our ternary operator in `instanceCounter`. 
+
+So first we check if the letter exists in the array with `counts[char] ?`.
+
+If it does exist, then the count of that character should be equal to the existing count plus one. We forgot the equal sign. 
+
+![](@attachment/Clipboard_2020-04-16-19-21-36.png) 11:56
+
+Modify the code like so
+
+```
+counts[char] ? counts[char] = counts[char] + 1 : counts[char] = 1;
+```
+
+You could even put the ternary operator on separate lines like so
+
+```
+counts[char] 
+  ? (counts[char] = counts[char] + 1) : (counts[char] = 1);
+```
+
+![](@attachment/Clipboard_2020-04-16-19-28-11.png) 12:26
+
+Now it looks like we are getting real values!
+
+A fun thing you could do now with the object we get back is figure out how to sort the characters from the most popular to the least popular. 
+
+Let's do it together. 
+
+What if we try using `Object.entries(result);`? 
+
+![](@attachment/Clipboard_2020-04-16-19-32-08.png) 13:31
+
+It gives us an array of arrays with each arrays first item being the key and the second item being the count.
+
+Next, we can use `.sort()`. 
+
+Let's make an external function called `sortByValue`. With a sort we get two parameters which we will name  `a` and `b`. 
+
+Now within the function we will compare the second items in the array because the first item is the key and the second item is the count. 
+We want to compare the count. 
+
+If you recall, sort works by taking the previous  the way that sort works is that you can take the previous one and the next one and you can compare their values. 
+
+You can return any of these from a sort:
+0, stay where you are. 
+-1, go forward
+1, go backward towards the end of the array
+
+So instead of saying if it's greater or less than (go back to the sorting video if you want to see that), we can simply just return whatever the value is. 
+
+It might be a positive value, it might be a zero value, that's just the benefit of doing that.
+
+```
+function sortByValue(a, b) {
+  return a[1] - b[1];
+}
+const sortedResult = Object
+    .entries(result)
+    .sort(sortByValue);
+```
+
+![](@attachment/Clipboard_2020-04-16-19-37-20.png) 14:31
+
+
+It is possible to do all of the work we just did in one single reduce function,  but it's much easier to read and better for re-usability to split it up into separate functions and chain them along. 

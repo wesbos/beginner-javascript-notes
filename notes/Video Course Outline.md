@@ -1,7 +1,7 @@
 ---
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-15T23:12:44.002Z'
+modified: '2020-04-17T00:16:49.698Z'
 ---
 
 # Video Course Outline
@@ -78,7 +78,7 @@ Module 9: Gettin' Loopy
 50. ~~Looping and Iterating - Mapping~~ (21:33)
 51. ~~Looping and Iterating - Filter, Find and Higher Order Functions~~(10:44)
 52. ~~Looping and Iterating - Reduce~~ (16:40)
-53. Looping and Iterating - Reduce Exercise (16:14)
+53. ~~Looping and Iterating - Reduce Exercise~~ (16:14)
 54. Looping and Iterating - for, for in, for of and while Loops (19:35)
 
 Module 10: Harder Practice Excercises

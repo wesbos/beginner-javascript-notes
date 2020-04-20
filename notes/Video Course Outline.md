@@ -1,7 +1,8 @@
 ---
+favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-17T23:04:27.513Z'
+modified: '2020-04-20T11:16:17.651Z'
 ---
 
 # Video Course Outline

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-21T11:29:06.901Z'
+modified: '2020-04-21T12:04:26.841Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -452,6 +452,138 @@ If you refresh the page, you should see lots of logs like the following:
 
 ![](@attachment/Clipboard_2020-04-21-07-28-44.png)
 
-stopped at 30:05
+One trick you can do is if within our log, we just wrap the items in curly brackets like this, it will actually show us the property names and values.
+
+```
+console.log({width, height, top, left});
+```
+
+The reason that works is because you are essentially making an object.
+
+![](@attachment/Clipboard_2020-04-21-07-45-14.png) 30:34
+
+Now we want to draw a box onto our canvas element that is down in the part of the page that is highlighted in the image below.
+
+![](@attachment/Clipboard_2020-04-21-07-45-43.png) 30:47
+
+We are going to overlay it with the video in order to do that. 
+
+Let's set a couple of defaults at the top of the page. 
+
+```
+const ctx = canvas.getContext("2d");
+ctx.strokeStyle = "#ffc600";
+ctx.lineWidth = 2;
+```
+
+Now let's go into our `drawFace` function and we will call `ctx.strokeRect()`, which is the API for drawing a rectangle. 
+
+```
+function drawFace(face) {
+  const { width, height, top, left } = face.boundingBox;
+  ctx.strokeRect(left, top, width, height);
+}
+```
+
+![](@attachment/Clipboard_2020-04-21-07-49-15.png) 31:45
+
+As you can see, it does work. if you move your face around, the boxes should move around as well. 
+
+We need to fix a few things though. One of those things is that our rectangles are not overlaid on top. 
+
+Note: if the rectanges are overlaid for you, you  can ignore these instructions.
+
+Let's take a look at our `face.html`. It seems like it's ignoring our style tag. Let's try moving our styles to the head. 
+
+```html
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+    }
+
+    .wrap {
+      position: relative;
+      min-height: 100vh;
+      display: grid;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .wrap > * {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    .face {
+      position: absolute;
+    }
+  </style>
+</head>
+
+<body>
+```
+
+If you refresh the page now, it should work. This likely happened because we are using a beta version of Parcel.
+
+![](@attachment/Clipboard_2020-04-21-07-52-21.png) 32:29 
+
+The next thing to fix is that the stroke that the rectangle is created in is not yellow. Let's try moving where we set the strokeStyle and the lineWidth into the function right before we draw the rectangle like so:
+
+```
+function drawFace(face) {
+  const { width, height, top, left } = face.boundingBox;
+  ctx.strokeStyle = "#ffc600";
+  ctx.lineWidth = 2;
+  ctx.strokeRect(left, top, width, height);
+}
+```
+
+The next thing to fix is that they are not clearing. We can fix that by calling `ctx.clearRect` before we draw the rect. 
+
+```
+ctx.clearRect(0,0, canvas.width, canvas.height)
+```
+
+That clears the amount, the width and the height, based on starting at the top left hand corner, everytime it runs, it clears the canvas for us.
+
+It is working pretty well. It is a bit jumpy right now, it used to be a lot better, they're still working on it. The eyes, nose, and mouth values were working very well for Wes for a while, but currently they're really weird.
+
+The next thing we want to do is pixelate the user's face on top of it. Lets go ahead and do that. 
+
+We will create a function called `censor` which will take in a `face`. In our case, we don't care about anything but the bounding box.  SO instead of doing something like this:
+
+
+```
+function censor(face){
+  const faceDetails = face.boundingBox;
+}
+```
+
+we are going to destructure the bounding box properties directly like so:
+
+```
+function censor({boundingBox}){
+}
+```
+
+Now we just have a variable called `boundingBox`. We could also rename it to a variable called face like so:
+
+```
+function censor({boundingBox: face}){
+ console.log(face);
+}
+```
+
+![](@attachment/Clipboard_2020-04-21-08-01-54.png) 35:28
+
+As you can see, we are getting that bounding box. 
+
+Now the question is how do you censor something, right? There are a couple of different ways you can do it. The way Wes has found to do it is to take a snapshot of the user's face, scale it down very very small, and then paint it to the canvas. 
+
+35:49
 
 ## 56 - Sarcastic Text Generator

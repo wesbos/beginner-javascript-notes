@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-21T01:31:51.764Z'
+modified: '2020-04-21T11:29:06.901Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -238,7 +238,7 @@ Modify the code like so and get rid of the log we had added earlier.
 
 ```
 function populateVideo() {
-  const stream = navigator.mediaDevices.getUserMeda({
+  const stream = navigator.mediaDevices.getUserMedia({
     video: { width: 1280, height: 720 },
   });
   console.log(stream);
@@ -256,7 +256,7 @@ The best way to do it would just be to add a log in your javascript file and you
 
 ![](@attachment/Clipboard_2020-04-20-21-29-44.png) 16:48
 
-That will store it in a global variable called `temp1`. If you try calling `temp1()`, you will see something returned to us called a **promiose**. 
+That will store it in a global variable called `temp1`. If you try calling `temp1()`, you will see something returned to us called a **promise**.  
 
 ![](@attachment/Clipboard_2020-04-20-21-30-27.png) 16:57
 
@@ -264,7 +264,194 @@ There are a couple things going on here. First, it might show you a little recor
 
 ![](@attachment/Clipboard_2020-04-20-21-31-22.png) 17:03
 
-stopped at 17:10
+As mentioned, we are returned a promise when we call `temp1()` in the console (which is our `populateVideo()` function stored as a global variabe). 
 
+What that means is we have not been returned the actual stream of video, instead it's just something called a promise that it will get the stream of the webcam eventually. 
+
+We will get more into promises in future videos, but for now just know that `navigator.mediaDevices.getUserMedia()` is a special kind of function that returns this thing called a promise.
+
+In order for us to wait for the stream to come back from the webcam, because that takes some time, we need to first mark the function a `async` by typing the word `async` in front of it, and add the keyword `await` before we call `navigator.mediaDevices.getUserMedia()`. 
+
+We will also add a call to `populateVideo()` where we used to log it.
+
+
+```
+async function populateVideo() {
+  const stream = await navigator.mediaDevices.getUserMedia({
+    video: { width: 1280, height: 720 },
+  });
+  console.log(stream);
+}
+populateVideo();
+```
+
+If you refresh the page and look at the console, you may see the following:
+
+![](@attachment/Clipboard_2020-04-21-06-28-28.png) 18:09
+
+If you do not, you may see a little red X on your video camera icon in the browser tab. 
+
+To fix that, you need to click on it and select "continue" or "always allow access". Click done, then reload the page, and then you should see a media stream in the console.
+
+![](@attachment/Clipboard_2020-04-21-06-28-56.png) 18:18
+
+How is what is returned to us via the `MediaStream` useful?
+
+We can now put the stream into our video which we have already selected. You would normally pass the video something like `video.srcObject = "dog.mp4";` but we will be passing the video the stream instead and then calling `play()` on it. We will put an `await` infront of where we call `video.play()` because sometimes it takes a few seconds to start playing and that will wait for it.
+
+```
+video.srcObject = stream;
+await video.play();
+```
+
+If you refresh the page, you should see it worked. 
+
+So what did we do there? We made a function called `popuateVideo()`, we grabbed the feed off the user's webcam, and then we set the object to be the stream, and then played it. 
+
+Another thing we need to do is size the canvases to be the same size as the video.
+
+If we were to add a `console.log(video.videoWidth, video.videoHeight);` we should get 1280 x 720. 
+
+If we change one line of code from `navigator.mediaDevices.getUserMedia({video: { width: 1280, height: 720 }});` to `navigator.mediaDevices.getUserMedia({video: true});`, and refreshed the page, we should see the sixes 640 x 480. Let's switch that back.
+
+Note: these sizes might not be the same on your computer, depending on your webcam. 
+
+So we need to size the canvases to match the video, which we can do like so:
+
+```
+canvas.width = video.videoWidth;
+canvas.height = video.videoHeight;
+
+faceCanavs.width = video.videoWidth;
+faceCanvas.height = video.videoHeight;
+```
+
+Now we have two canvases that are the same size as the video feed.
+
+The next thing we need to do is work with the FaceDetection API. We will call it `detect` and it also needs the `async` keyword in front of it (we will cover why in future video). 
+
+Now we want to go ahead and detect faces that are in the shot.
+
+Next we will use the `faceDetector` variable we created earlier and call `.detect()` on it. You pass `detect()` reference to three things:
+- an image
+- a video
+- or a canvas
+
+In our case we are going to pass it access to the video. 
+
+```
+async function detect(){
+  const faces = await faceDetector.detect(video);
+  console.log(faces);
+}
+```
+
+Now, we need to run our `detect()` function once, but after the video has been populated. If you run `detect()` when there is no video, it will not find any faces.
+
+The way we can do that is by tagging a `.then()` onto `populateVideo` like so:
+
+```
+populateVideo().then(detect);
+```
+
+This is promise based, which we will cover in more detail in future videos. 
+
+If you refresh the page and open the console now, you should see a face detected. IT will tell you exactly where the eyes, the nose, and the mouth are. 
+
+![](@attachment/Clipboard_2020-04-21-06-58-49.png) 23:24
+
+It also gives us the `boundingBox` which is the square around the user's head.
+
+The way we are calling `detect()` right now, it will only run once after `populateVideo()` is done playing.
+
+So what we need to do is call `detect()` over aned over again. You might be thinking we can use an interval for this. That is the way we used to do this stuff, but there is a better way, that allows you to do stuff as fast as possible, is to use something called **request animation frame**.
+
+Request animation frame allows the browser to tell us when we should repaint or redo something. Instead of us trying to do something every 60 miliseconds, because some people's computers vary in speed, request animation frame will repaint or rerun the stuff on the screen a lot less frequently on a computer that isn't as fast. 
+
+So what we will do is ask the browser when the next animation frame is, and then tell it to run detect for us. 
+
+```
+async function detect() {
+  const faces = await faceDetector.detect();
+  console.log(faces);
+  // ask the browser when the next animation frame is and tell it to run detect for us
+  requestAnimationFrame(detect);
+}
+
+populateVideo().then(detect);
+```
+
+If you refresh the page, you should see lots of DetectedFaces logged in the console. 
+
+Let's look at what is happening there..
+
+Instead of calling `requestAnimationFrame(detect)`, we could have just called `detect()` and that works pretty well, but because of performance reasons, it's better to call `requestAnimationFrame()`.
+
+What we have just done there is a concept called **recursion**. Recursion is when a function calls itself. It will run forever, and ever, until something stops it, such as an exit condition.
+
+Recursion is when a function calls itself, inside of itself. Detect is being called from `detect` which allows us to run it infinitely.
+
+Let's take a look at the DetectedFace. 
+
+![](@attachment/Clipboard_2020-04-21-07-19-00.png) 26:24
+
+As you can see, it gives us an array with one item. So let's `console.log(faces.length);`.
+
+![](@attachment/Clipboard_2020-04-21-07-19-53.png) 26:44
+
+As you can see, it only logs one face until Wes holds up the queens face on a dollar bill. 
+
+![](@attachment/Clipboard_2020-04-21-07-20-57.png) 27:35
+
+When Wes holds up a picture, FaceDetection detects all four faces.
+
+Next up, we need to do two things:
+- we need to draw triangles around the faces that are found
+- we need to censor the face by pixelating the area that is around their face.
+
+We will make a function called `drawFace` which will take in the user's face. We need a couple of pieces of information. 
+
+We need to know how wide and high is the user's face, because the further away the subjects are from the camera will affect that. 
+
+We also need the X and Y coordinate from the top. For example over 400 pixels and down 300 pixels is where the head starts.
+
+Let's start by just logging the faces and calling `drawFace()`.  We will loop over all the faces in a `.forEach` and call `drawFace` for each. 
+
+```
+async function detect() {
+  const faces = await faceDetector.detect();
+  console.log(faces);
+  // ask the browser when the next animation frame is and tell it to run detect for us
+  faces.forEach(drawFace);
+  requestAnimationFrame(detect);
+}
+
+function drawFace(face) {
+  console.log(face);
+}
+
+populateVideo().then(detect);
+```
+
+When you refresh the page and look at the console, you should see many faces logged. 
+
+
+Let's get the bounding box from one of those. We need the `top` and `left`, `width`, and the `height`. 
+
+![](@attachment/Clipboard_2020-04-21-07-25-23.png) 29:17
+
+
+```
+function drawFace(face) {
+  const { width, height, top, left } = face.boundingBox;
+  console.log(width, height, top, left);
+}
+```
+
+If you refresh the page, you should see lots of logs like the following: 
+
+![](@attachment/Clipboard_2020-04-21-07-28-44.png)
+
+stopped at 30:05
 
 ## 56 - Sarcastic Text Generator

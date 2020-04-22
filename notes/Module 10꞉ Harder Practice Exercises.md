@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-22T11:48:05.737Z'
+modified: '2020-04-22T21:57:25.976Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -1196,14 +1196,138 @@ function transformText(text) {
 
 With the way the code is written now, we will be transforming our filterInputs into an array every time the person types. That is not ideal. Let's instead turn it into an array once on pageload because it is unnecessary to have to keep doing that. 
 
-
 Modify the code like so:
-
 ```
 const filterInputs = Array.from(document.querySelectorAll('[name="filter"]'));
 ```
 
-stopped at 15:10
+Let's do some cleanup and get rid of the console logs within our `transformText` function. 
 
+Now what we can do is take the filter variable and use it as a property lookup instead of hardcoding the value.
 
+Replace this line of code:  `const mod = Array.from(text).map(filters.sarcastic);`
+With this: `const mod = Array.from(text).map(filters[filter]);`
 
+Because filter is stored in a variable, we need to use square brackets to look up the property. 
+
+If you refresh the page, the sarcastic option should still work but nothing should happen when you select the other two options because we haven't hooked them up yet.
+
+Let's do funky now. Add the parameter `letter` to the function, like so:
+
+```
+funky(letter){},
+unable() {},
+};
+```
+
+We need some sort of dictionary or lookup of funky letters. If you open the `text-DEMO` or `text-FINISHED` file, you will see an object of funky letters. Copy that variable along with the `/* eslint-disable */` and `/* eslint-enable */` commens into our text.js file.  Paste it towards the top of the file, after our `filterInputs` declaration. 
+
+![](@attachment/Clipboard_2020-04-22-17-20-49.png) 16:15
+
+This object is just a lookup of letters that match to funky letters. 
+
+We kept the eslint disable comments because otherwise when you save the javascript file, it formats the object so each property is on it's own line, which makes it hard to work within the file because it becomes so long. 
+
+Back to our funky function logic, we need to do the following:
+1. Check if there is a funky letter for this case
+2. If there is no funky letter for this case, check if there is a lowercase version. 
+3. If there is nothing, return the regular letter
+
+So we have our letter argument, which we can use to look up inside of `funkyLetters`. So for example if someone types `T`, we now there is a t for us. 
+
+![](@attachment/Clipboard_2020-04-22-17-27-58.png) 17:43
+
+Add the following code:
+
+```
+let funkyLetter = funkyLetters[letter];
+```
+
+What we are doing there is we are looking up the letter in our `funkyLetter` object and assigning the value to our `funkyLetter` variable. 
+If there is a funkyLetter, we will return it. 
+If there is not, we will return the original letter. 
+
+```
+funky(letter) {
+  // first check if there is a funky letter for this case
+  const funkyLetter = funkyLetters[letter];
+  if (funkyLetter) return funkyLetter;
+  // if there is not, check if there is a lowercase version
+  // if there is nothing, return the regular letter
+  return letter;
+},
+```
+
+If you refresh the page and try typing something while selecting the funky radio button, you should see it start working. 
+
+![](@attachment/Clipboard_2020-04-22-17-32-28.png) 18:27
+
+If no `funkyLetter` is returned, we want to check for the lowercase version of it because some letters have a funky version for both lower and uppercase, like `f`.
+
+![](@attachment/Clipboard_2020-04-22-17-33-53.png) 18:37
+
+To do that, we will modify `funkyLetter` to be a let instead of a const, and then after the comment where we check if there is a lowercase version, we will try to grab the lowercase version by lowercasing the letter and looking it up in the `funkyLetters` object and then assigning the value to  `funkyLetter`. If a value is found, we will return it, otherwise we will just return the letter as is. 
+
+```js
+funky(letter) {
+    // first check if there is a funky letter for this case
+    let funkyLetter = funkyLetters[letter];
+    if (funkyLetter) return funkyLetter;
+    // if there is not, check if there is a lowercase version
+    funkyLetter = funkyLetters[letter.toLowerCase()];
+    if (funkyLetter) return funkyLetter;
+    // if there is nothing, return the regular letter
+    return letter;
+  },
+```
+
+The last one is `unable`. It will take in a letter, and what we will do is one-in-three spaces, we will use the dot dot dot. 
+
+So we need a random number between zero and two, so we need like 1, 2, or 3 or 0, 1, 2. 
+
+The way that we can do that is using `Math.random() * 3`. That returns a number with decimals so we need to wrap it in a `Math.floor()`. 
+
+![](@attachment/Clipboard_2020-04-22-17-41-21.png) 20:06 
+
+Now we will get 0, 1, or 2 returned. So let's grab that random number within the `unable` function. 
+
+```
+const random = Math.floor(Math.random() * 3);
+```
+
+Next we are going to check whether the letter is equal to an empty sqace, and that the random is equal to 2 (so 1 in 3), then return dot dot dot. 
+Otherwise, we just return the letter. 
+
+```
+unable(letter) {
+  const random = Math.floor(Math.random() * 3);
+  if (letter === " " && random === 2) {
+    return "....";
+  }
+  return letter;
+},
+```
+
+Now if you refresh the page, select the unable option and try typing into the textarea, there is a one in three chance that the space will be turned into a `...` 
+
+![](@attachment/Clipboard_2020-04-22-17-45-30.png) 21:13
+
+The last thing we want to do is when you click on the radio button options, it should trigger that filter and show you the result. 
+
+To do this we can take our `filterInputs`, loop over each one of them, add an eventlistener that listens for the input event, and then when there is an input event, we will call another function which calls `transformText` and passes the text from the textarea. 
+
+```
+filterInputs.forEach((input) =>
+  input.addEventListener("input", () => {
+    transformText(textarea.value);
+  })
+);
+```
+
+Now each of our filter inputs have an event listener that listens to the input event, and when that fires, it triggers the `transformText` event and passes the value of the text. 
+
+Now if you refresh the page, you should be able to select the different radio buttons and the text formatting will change based on the filter you select.
+
+The main thing Wes wanted to get across in this lesson is that you can store methods inside of an object, to keep them together, as well as look them up on that object with a variable that is populated from some external input. 
+
+--

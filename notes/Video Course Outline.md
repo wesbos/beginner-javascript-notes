@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-20T11:16:17.651Z'
+modified: '2020-04-22T00:08:39.725Z'
 ---
 
 # Video Course Outline
@@ -83,7 +83,7 @@ Module 9: Gettin' Loopy
 54. ~~Looping and Iterating - for, for in, for of and while Loops~~ (19:35)
 
 Module 10: Harder Practice Excercises
-55. Face Detection and Censorship (54:31)
+55. ~~Face Detection and Censorship~~ (54:31)
 56. Sarcastic Text Generator (22:53)
 57. Shopping Form with Custom Events, Delegation and localstorage (58:50)
 58. Building a Gallery Exercise (35:25)

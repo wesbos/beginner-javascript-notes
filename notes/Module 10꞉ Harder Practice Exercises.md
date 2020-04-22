@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-21T23:50:10.409Z'
+modified: '2020-04-22T11:48:05.737Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -930,6 +930,280 @@ options[name] = parseFloat(value);
 
  That was a long video, but hopefully it was fun for you. 
 
- 
+---
 
 ## 56 - Sarcastic Text Generator
+
+This is a quick and fun exercise. You can try this yourself to see how you would structure it.
+
+What we will be doing is building a sarcastic text generator where you can enter some text and then select one of three options: sarcastic, funky, or unablet o structure a sentence. Based on your selection, the text you entered will be modified to match the style option you selected.
+
+The sarcastic option gives us sponge bob case as it's often called, which is depicted in the image below. 
+
+![](@attachment/Clipboard_2020-04-22-06-38-44.png) 00:34
+
+![](@attachment/Clipboard_2020-04-22-06-37-18.png) 00:26
+
+![](@attachment/Clipboard_2020-04-22-06-39-50.png) 00:45
+
+Note: the funky option gives us those weird characters but you should never use these charactres in a real world situation because they are inaccessible to someone with a screen reader.
+
+We will be working out of the `56 - Sarcastic Text` folder. Open up `index.html`. 
+
+The page already contains some base styles so we can center it on the page, then we have a div with a bunch of inputs.
+
+```html
+<body>
+
+  <div class="typer">
+    <label for="sarcastic">
+      <input type="radio" value="sarcastic" id="sarcastic" name="filter" checked>
+      Sarcastic
+    </label>
+    <label for="funky">
+      <input type="radio" value="funky" id="funky" name="filter">
+      Funky
+    </label>
+    <label for="unable">
+      <input type="radio" value="unable" id="unable" name="filter">
+      Unable to Structure a Sentence
+    </label>
+    <textarea name="text">so I was thinking about going to the store.</textarea>
+    <p class="result"></p>
+  </div>
+
+  <script src="./text.js"></script>
+</body>
+```
+
+The only thing we need to know about the inputs is they all have the same `name` attribuet value. That allows us to only select one of the radio buttons at a time. We are going to be using their values (sarcastic, funky, or unable) to pull the specific filters. 
+
+First thing we want to to do is select a few things. We need the text area that the person will input heir text into, the paragraph where we display the result and then all the inputs.
+
+Let's grab the text area. Let's use an attribute selector to specify the textarea in case in the future we add more than one to the page.
+
+```
+const textarea = document.querySelector('[name="text"]');
+```
+
+Then we need the result.
+
+```
+const result = document.querySelector('.result');
+```
+
+Then we need the inputs. We will use `querySelectorAll` for these. We will select all the inputs with a name of "filter" on them. 
+
+```
+const filterInputs = document.querySelectorAll('[name="filter"]');
+```
+
+Let's log them all the make sure they are working.
+
+![](@attachment/Clipboard_2020-04-22-06-55-58.png) 2:50
+
+Next we need a handler that will output the text. We will make a new function called `transformText`. It will take in some text and then output the result.
+
+We will add an event listener on the input event and call `transformText` everytime the event fires. 
+
+To get the text out of the text area to pass to our function we can use `e.target.value`. 
+
+```
+function transformText(text){
+  result.textContent = 'Transformed Text';
+}
+textarea.addEventListener('input', e => transformText(e.target.value));
+```
+
+Let's check that it is working by simply logging the text within the transformText function. When you refresh the html page, open the console and type into the text area, you should see the text you are typing being logged. 
+
+Now we need to write some filters. We have three filters, and we will start by writing the sarcastic filter. 
+
+One thing Wes likes to do when we have a few related things like these filters is to stick them in an object instead of having them all as their own function.
+
+Let's call the object `filters` and each property will be the filter name like so:
+
+```js
+const filters = {
+  sarcastic: function(){
+
+  },
+  funky: function(){
+
+  },
+  unable: function(){
+
+  },
+}
+```
+
+You will notice when you save the file that it refactors the object to this, which is just a shortcut. It's not the same thing as an arrow function, it's just a shorter way to write functions in objects. 
+
+```
+const filters = {
+  sarcastic() {},
+  funky() {},
+  unable() {},
+};
+```
+
+So what we need to do is take the text and loop over every letter, because for "sarcastic text", every other letter is a different case. 
+
+```
+const transformText(text){
+  //take the text, and loop over each letter
+  const mod = Array.from(text);
+  console.log(mod);
+  result.textContent = text;
+}
+```
+
+Now everytime you type, we should get an array of every single letter that the person has in there. 
+
+![](@attachment/Clipboard_2020-04-22-07-14-34.png) 5:54
+
+Now we want to loop over that array and every other one we want to uppercase and every other one we want to lowercase. We can use `map` for that, and we will pass `map` our `filtres.sarcastic` function. 
+
+Since this is just a map function, our sarcastic method on the filters can take in all the arguments that a regular map can do. Let's use the parameters `letter` and` index` and log those to make sure it's working correctly like so: 
+
+```
+
+
+const filters = {
+  sarcastic(letter, index) {
+    console.log(letter, index);
+    return letter;
+  },
+  funky() {},
+  unable() {},
+};
+
+function transformText(text) {
+  // take the text, and loop over each letter
+  const mod = Array.from(text).map(filters.sarcastic);
+  console.log(mod);
+  result.textContent = text;
+}
+
+textarea.addEventListener("input", (e) => transformText(e.target.value));
+```
+
+![](@attachment/Clipboard_2020-04-22-07-21-16.png) 6:54
+
+Now when you type, as you can see, we are logging the letter and the index. What we can do is say if it's an even number, let's lowercase it, and if it's an odd number, uppercase it. 
+
+How do you know if a number is even or odd? There is a neat way of doing that with the **modulo** operator.  Let's do a little aside to go over how the modulo operator works. 
+
+![](@attachment/Clipboard_2020-04-22-07-22-44.png) 7:41
+
+Let's say Wes he has a pack of 10 smarties (which are a candy in Canada) and three kids. 
+
+If we try to divide 10 by 3 we get `10 / 3 = 3.33333333335`. Well you can't really split a smartie into thirds. You might think we can use `Math.floor(10/3)` which does return 3. 
+
+![](@attachment/Clipboard_2020-04-22-07-24-48.png) 8:21
+
+So each kid gets 3 smarties. If we have a pack of 10, each kid gets three, if we had a pack of 20, each kid will get six. Now the question is, how many are leftover that Wes gets? 
+
+You could try to figure it out using math but it's not the best way. 
+[](@attachment/Clipboard_2020-04-22-07-26-09.png) 8:50
+
+What you can do is you can use the modulo operator. Let's say you have 10 smarties, and three kids. The modulo operator will tell us after they are evenly divided, how many are left? 
+
+`10 % 3` = 1.
+
+![](@attachment/Clipboard_2020-04-22-07-27-16.png) 9:17
+
+So if we have 10 smarties that we divide by 3, there will be one leftover. 
+If we have 6 smarties, there will be none leftover.
+
+The modulo operator is great for knowing how much is left after you have evenly divided. 
+
+We can use this operator to check if something is even or not. `10 % 2` will be 0, because 10 is event. If you do `11 % 2` you will get 1 returned. So anytime that 1 is returned with the modulo operator you know it's odd and if 0 is returned, then it's even. 
+
+We can use this to upper/lowercase every other letter in our sarcastic filter. 
+
+```
+const filters = {
+  sarcastic(letter, index) {
+    // if it is od, it will return 1 which is truthy.
+    if (index % 2) {
+      return letter.toUpperCase();
+    }
+    // if it is even, it will return 0 and we will lowercase it.
+    return letter.toLowerCase();
+  },
+```
+
+If you refresh the page and start typing, you will see that every other leter is uppercased. 
+
+![](@attachment/Clipboard_2020-04-22-07-37-32.png) 12:02
+
+What we can do is set the result to be `mod.join(' ')`. 
+
+```
+function transformText(text) {
+  // take the text, and loop over each letter
+  const mod = Array.from(text).map(filters.sarcastic);
+  console.log(mod);
+  result.textContent = mod.join("");
+}
+```
+
+Now if you type in the textarea and select the sarcastic filter, you should see something like this:
+
+![](@attachment/Clipboard_2020-04-22-07-38-43.png) 12:15
+
+So that is our first filter, and we are just hardcoding it in our transformText function right now. But it would be great if we can use it based on the radio selection that we have.
+
+How could we  do that? 
+
+The first like of our `tranformText` could be grabbing the filter. We want to find the input with name of filter that is also checked, and we want to grab it's value. 
+
+```
+const filter = document.querySelector('[name="filter"]:checked').value;
+console.log(filter);
+```
+
+![](@attachment/Clipboard_2020-04-22-07-42-12.png) 13:04
+
+Now when we type in it, we get the selected filter type logged in the console. 
+
+![](@attachment/Clipboard_2020-04-22-07-42-55.png) 13:19
+
+Another way we could have done the filter is because we already have the inputs, we could use the find method to find the input that is checked like so:
+
+`filterInputs.find(input => input.checked)`
+
+![](@attachment/Clipboard_2020-04-22-07-44-12.png) 13:49
+
+If you try that, you should notice an error in the console that says
+>filterInputs.find is not a function. 
+
+That is because `filterInputs` is a nodelist, not an array. We could wrap it in Array.from and then call find like so:
+
+```
+Array.from(filterInputs).find(input => input.checked);
+```
+
+![](@attachment/Clipboard_2020-04-22-07-45-16.png) 14:05
+
+This is actually a better approach because why rerun the query selector if we have already selected all of the inputs. Let's change the code to use that instead. 
+
+```
+function transformText(text) {
+  const filter = Array.from(filterInputs).find((input) => input.checked).value;
+```
+
+With the way the code is written now, we will be transforming our filterInputs into an array every time the person types. That is not ideal. Let's instead turn it into an array once on pageload because it is unnecessary to have to keep doing that. 
+
+
+Modify the code like so:
+
+```
+const filterInputs = Array.from(document.querySelectorAll('[name="filter"]'));
+```
+
+stopped at 15:10
+
+
+

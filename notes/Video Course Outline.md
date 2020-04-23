@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-22T00:08:39.725Z'
+modified: '2020-04-22T21:58:48.880Z'
 ---
 
 # Video Course Outline
@@ -84,7 +84,7 @@ Module 9: Gettin' Loopy
 
 Module 10: Harder Practice Excercises
 55. ~~Face Detection and Censorship~~ (54:31)
-56. Sarcastic Text Generator (22:53)
+56. ~~Sarcastic Text Generator~~ (22:53)
 57. Shopping Form with Custom Events, Delegation and localstorage (58:50)
 58. Building a Gallery Exercise (35:25)
 59. Building a Slider (34:22)

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-27T20:02:09.408Z'
+modified: '2020-04-27T22:45:37.448Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -1794,6 +1794,7 @@ function mirrorToLocalStorage() {
   console.info("Saving items to localstorage");
 }
 ```
+
 If you take a look, you will see `[object Object]`.. what?? If you try to open it up, you can't, it's just the word object.
 
 ![](@attachment/Clipboard_2020-04-27-15-56-59.png) 31:39
@@ -1814,4 +1815,428 @@ So how do you convert objects to strings? Using JSON. If you call `JSON.stringif
 
 That is exacty what we will do here. Before we put the object into local storage, we will convert it to a string and when we pull it out of local storage, we can convert it back to an array of objects.
 
-stopped at 33:59
+Modify the code like so:
+
+```
+function mirrorToLocalStorage() {
+  localStorage.setItem(items, JSON.stringify(items));
+  console.info("Saving items to localstorage");
+}
+```
+If you try to add some items now, you will see those changes reflected in local storage. 
+
+![](@attachment/Clipboard_2020-04-27-17-19-26.png) 34:18
+
+Now that we mirror everything to local storage, we need another function that when you load the page, it restores from local storage.
+
+```
+function restoreFromLocalStorage(){
+  console.log('Restoring from local storage');
+}
+```
+
+We will run that on page load so you can add the call `restoreFromLocalStorage()` to the end of the javascript file. 
+
+If you refresh the page, you should see the message in the console. 
+
+Now we need to pull the items from local storage. To do that, we will call `localStorage.getItem()` and that will bring us back a large string of text so we need to  convert it back into an object by wrapping that getItem method call around `JSON.parse()` which will convert the text back into an array of objects
+
+```
+function restoreFromLocalStorage() {
+  console.info("restoring from LS");
+  const lsItems = JSON.parse(localStorage.getItem("items"));
+}
+```
+
+Next we want to check if there are any items in the `lsItems` array, because it could be that this is the first time the user is loading the application, and there isn't even an empty array yet. 
+
+If there is something in local storage, we will assign the value to the `items` variable and then dispatch thet `itemsUpdated` event. 
+
+```
+if(lsItems.length){
+  items = lsItems;
+  list.dispatchEvent(new CustomEvent('itemsUpdated'));
+}
+```
+
+However if you refresh that you will see an error in the console that "items" is ready only. Why? Because it's a const variable. 
+
+We can fix that a few ways, we can change the variable from a const to a let. 
+
+Or each push all the items into the items array like so
+```
+lsItems.forEach(item=> items.push(item));
+```
+
+We could also use a combination of push and the spread operator like so:
+
+```
+items.push(...lsItems);
+```
+ 
+Why does that work? That works because push takes unlimited arguments. We could have called `items.push(lsItems[0], lsItems[1])` and that would have worked fine, but using the spread operator it takes each item in the array and spreads it into the method as an argument.
+
+Two more things we need to do:
+1. We need to handle the clicking of the checkboxes. As it stands right now, you can check the item but when you refresh the page, it will no longer be checked. So the fact that you bought that think isn't being mirrored to the state. 
+2. The deleting of items. 
+
+Let's start with the deletion. 
+
+You might think let's select the buttons on the page, loop over them and listen for a click, and when that happens, remove it from our array. That is kind of right, but lets show you why that doesn't exist. 
+
+Let's demonstrate that. Add the following code to the very bottom of the javascript file:
+
+```
+const buttons = list.querySelectorAll('button');
+console.log(buttons);
+```
+
+How many should we get? We get 5. 
+
+![](@attachment/Clipboard_2020-04-27-17-39-31.png) 39:30
+
+However, if you move that code further up, above the event listener declarations, we get none. 
+
+![](@attachment/Clipboard_2020-04-27-17-40-10.png) 39:34
+
+Why is that? Because when we run the code from a bit further up in the file, none of the rest of the code below it has been executed and thus all those event listeners have not yet been created. So that means we have not yet created any of the items. 
+
+If you throw a `debugger;` after the `console.log(buttons);` code, and refresh the page, you will see that when the debugger hits, there are no items yet. 
+
+![](@attachment/Clipboard_2020-04-27-17-41-48.png) 40:10
+
+That happen a bit later. So you may think it's safe to leave that code at the very bottom of the page. So let's try that. 
+
+We will create a `deleteItem` function which takes in an `id` and right now just logs that it is deleting the item. 
+
+```
+function deleteItem(id){
+  console.log("DELETING ITEM!");
+}
+```
+
+If you try pressing all the delete buttons, you will see that it works. However, if we were to add a new item, if you click on the x, it doesn't say deleting item. If you try to click any of the delete buttons that worked before we added the item, you will notice that it no longer works. Why??
+
+There are two things going on. 
+
+If you try to listen for clicks on things that do not exist on the page, it will not attach an event listener to that element. That is why the code behaved so differently when we moved it above the eventListeners. 
+
+The second problem is that when we add a new item, it re-renders the entire list. If you have the console open while you add an item, you will notice that for a second the ul disappears and is added back, because it is re-rendering. 
+That is because we have re-run our `displayItems` function, and it's actually creating a brand new list item each time. When you remove an item from thte DOM, and replace it with a new item, all of those event listeners are lost. We would have to manually add them back, which is a pain.
+
+So what do we do? We can use a concept called **event delegation**. 
+
+What that means is instead of listening for clicks on things that might not exist yet, or things that will come in the future, what we do is listen for clicks on things that we do know will be there, and then we check if the things that they actually clicked on is a lower item. 
+
+Let's demonstrate this. Get rid of our buttons console log and query selector, but let's keep the `deleteItem` function. 
+
+What we will do is listen for a click on our list, and when that happens we will get the event, and then log both `e.target` and `e.currentTarget`. 
+
+```
+list.addEventListeners('click', function(e){
+  console.log(e.target, e.currentTarget);
+});
+```
+
+If you refresh the page and then click anywhere on it, you will see that it thinks we are click on the span, even though we listened on the list. 
+
+![](@attachment/Clipboard_2020-04-27-17-53-33.png) 43:55
+
+Now if you click on the x next to an item, we listened on the list but we actually clicked on the button. So the `currentTarget` is the thing that you listened on and the `target` is the thing that you actually clicked on.
+
+![](@attachment/Clipboard_2020-04-27-17-54-51.png) 44:00
+
+So what we can do is check if what was clicked matches the button, using `e.target.matches('button')`. What matches does is it checks if an element matches a CSS selector so if it matches button, then we will delete the item by passing the delete method the id of that item. 
+
+```
+// event delegation: We listened for the click on the list <ul> but then delegate the click over to the button if that is what was clicked.
+list.addEventListeners('click', function(e){
+  if(e.target.matches('button')){
+    deleteItem();
+  }
+});
+```
+
+Now, when you click on any X next to an item, you should see "DELETING ITEM". If we add a new item and then click on it's X button, we should still see "DELETING ITEM", because we are simply just listening on the ul and delegating the event to the delete button. 
+
+One more thing we should mention is that whenever we add an item to the list, we re-render the entire list. We are basically deleting the existing list and adding a brand new one. This hapen so quick you can't even see it happening but on large applications, that can slow down how your application works. That is where frameworks like Angular, React, Vue come in handy. They know how to instead of re-rendering the entire list, only update a specific piece of it. Just changing part of the DOM rather than wiping it out leads to better performing applications. That is hard to do in just Vanilla JS. For our purposes, the way we are doing it is fine. 
+
+Next we need to figure out when someone clicks on the x, which item id is it related to?
+We can solve this by giving our button a value. When we create it, we can also give the button a value of the item's id. 
+
+Modify the code like below. 
+
+```
+function displayItems() {
+  console.log(items);
+  const html = items
+    .map(
+      (item) => `<li class="shopping-item">
+    <input type="checkbox">
+    <span class="itemName">${item.name}</span>
+    <button 
+      aria-label="Remove ${item.name}"
+      value="${item.id}"
+    >&times;</button>
+  </li>`
+    )
+    .join("");
+  list.innerHTML = html;
+}
+```
+
+Now when you look at the HTML, you should see the id is in the button. We can now pass that value to the `deleteItem` function. 
+
+![](@attachment/Clipboard_2020-04-27-18-06-35.png) 47:11
+
+Modify the code like below.
+
+```
+list.addEventListener("click", function(e) {
+  if (e.target.matches("button")) {
+    deleteItem(e.target.value);
+  }
+});
+```
+
+Let's also log the id in our `deleteItem` function.
+
+![](@attachment/Clipboard_2020-04-27-18-08-28.png) 47:35
+
+Why that works is that now when you click on the button, we will take the value of the button and pass it as an argument to our `deleteItem` function which then logs that argument. 
+
+Now how do we update our items array to remove that one item? It's actually pretty simple. We can filter for every item that is not the one with the ID.
+
+```
+const newItems = items.filter(item => item.id === id);
+```
+
+That is the opposite, but we will flip it in a second. 
+Now if you press the delete button next to an item, we get nothing. 
+
+![](@attachment/Clipboard_2020-04-27-18-11-36.png) 48:35
+
+If we change the code from `===` to `==` will it work? Let's try that. Modify the code like below.  
+
+```
+const newItems = items.filter(item => item.id == id);
+```
+
+Why does it work with double equals? That is because the id is being stored as a number, but when you pull it out, it is returned as a string. So when we pass the value to the `deleteItem` function, we can wrap it in `parseInt` like so `deleteItem(parseInt(e.target.value));` which will covert it to a number for us. Now we can add back the triple equals. 
+
+Now when you click it, we will get the item that needs to be remoed. 
+
+![](@attachment/Clipboard_2020-04-27-18-13-56.png) 49:13
+
+We actually want the opposite so modify the line of code to be `const newItems = items.filter(item => item.id !== id);`
+
+Now when we click the delete button for an item, if we had 12 items, we will only get 11 returned to us. 
+
+![](@attachment/Clipboard_2020-04-27-18-15-08.png) 49:21 
+
+Now, how do we get the new items into our items array? In our case, we just want to overwrite the entire list. Let's change the declaration of the `items` array from a const to a let. 
+
+In our deleteItem, we will modify the code so instead of assigning the filter to a variable `newItems` we will assign it to `items` instead so it overwrites whatever the previous value was. 
+
+```
+function deleteItem(id) {
+  console.log("DELETING ITEM!!!", id);
+  items = items.filter((item) => item.id !== id);
+}
+```
+
+Now if you click the items, you can tell their are deleting because the array that is being logged keeps getting smaller but if you refresh the page, you will see they are all still there. 
+
+Two things need to happen:
+1. we need to re-render everything
+2. we need to update our localStorage
+
+You might notice that both of those things, re-rendering the list and mirroring to local storage are bound to our itemsUpdated event. So we can just fire another `itemsUpdated` event like so:
+
+```
+function deleteItem(id) {
+  console.log("DELETING ITEM!!!", id);
+  items = items.filter((item) => item.id !== id);
+  list.dispatchEvent(new CustomEvent("itemsUpdated"));
+}
+```
+
+Now it should just work. When you click the item, it should be removed as you do it. Why? Because your event listener is listening for the items to be updated and then will do it's respective work, mirroring them to the page and updating.
+
+The last thing we need to do is handle the checking and unchecking of the data. If we have three items and two were checked, that information should persist when we refresh the page.
+
+We will create another function for this called `markAsComplete` which will take in an id. 
+
+What do we listen for in our case? We want to listen for a check of the checkbox. 
+
+We can use event delegation as well for that. We can add another event listener or we can do it inside our existing click event listener. 
+
+We will do it inside of our existing one. 
+
+```
+list.addEventListener("click", function(e) {
+  if (e.target.matches("button")) {
+    deleteItem(parseInt(e.target.value));
+  }
+  if (e.target.matches('input[type="checkbox"]')) {
+    markAsComplete();
+  }
+});
+```
+
+Our checkbox input current does not have an id on it, so let's fix that. We will go to where we make our HTML and modify the code like so:
+
+```
+  const html = items
+    .map(
+      (item) => `<li class="shopping-item">
+    <input type="checkbox" value="${item.id}">
+    <span class="itemName">${item.name}</span>
+    <button 
+      aria-label="Remove ${item.name}"
+      value="${item.id}"
+    >&times;</button>
+  </li>`
+    )
+    .join("");
+```
+
+Now, we have the value of the id in the input so we can go to our event delegation and pass the id like so:
+
+```
+ if (e.target.matches('input[type="checkbox"]')) {
+    markAsComplete(parseInt(e.target.value));
+  }
+```
+
+Now when you check them, you should see "marking as complete" with the id logged to the console. 
+
+![](@attachment/Clipboard_2020-04-27-18-27-41.png) 53:17
+
+We are repeating ourselves a bit in our event delegator so lets refactor it like so:
+
+
+```
+list.addEventListener("click", function(e) {
+  const id = parseInt(e.target.value);
+  if (e.target.matches("button")) {
+    deleteItem(id);
+  }
+  if (e.target.matches('input[type="checkbox"]')) {
+    markAsComplete(id);
+  }
+});
+```
+
+Now let's go back to our `markComplete` function. We have to actually find the item that we need to set as completed. How do we look for it? We can use `find`. 
+
+We will look for an item whose id matches the id that was passed in, using the code below. 
+
+```
+function markAsComplete(id) {
+  console.log("Marking as complete!", id);
+  const itemRef = items.find((item) => item.id === id);
+  console.log(itemRef);
+}
+```
+
+The reason we called it `itemRef` because if we change a value on the objet, it will be reflected in the array of items. So we can update the value of the items complete property easily. 
+
+```
+itemRef.complete = 
+```
+
+Now this function will be used to check it on and off, so we could have an if statement that says if it's true, set to false and if false, set to true. Or we can just set it to itself, but the opposite.
+
+```
+itemRef.complete = !itemRef.complete;
+```
+
+That should work because the opposite of true is false and vice versa. 
+
+![](@attachment/Clipboard_2020-04-27-18-33-45.png) 55:00
+
+So setting it to the bang version of itself should work. 
+
+So now all we have to do is dispatch the itemsUpdated event because we updated the items, now we just have to dispatch it.
+
+```
+itemRef.complete = !itemRef.complete;
+list.dispatchEvent(new CustomEvent('itemsUpdated'));
+```
+
+You will notice that if you try to enter an item and the check it, it looks like nothing is happening. 
+
+However if you go to the application tab, you will see that the local storage values are updating. 
+
+![](@attachment/Clipboard_2020-04-27-18-36-57.png) 55:38
+
+What is going on? What is happening is the value is toggling true to false, but the checkbox is never working because we have not yet supplied the "checked" attribute to it when we rendered our HTML.
+
+Modify the code like so to add the checked attribute:
+
+```
+  const html = items
+    .map(
+      (item) => `<li class="shopping-item">
+    <input 
+      type="checkbox" 
+      value="${item.id}"
+      checked="true"
+    >
+    <span class="itemName">${item.name}</span>
+    <button 
+      aria-label="Remove ${item.name}"
+      value="${item.id}"
+    >&times;</button>
+  </li>`
+    )
+    .join("");
+```
+
+Now all the items will be checked by default. One of the things about the checked attribute is if you do `checked="false"`, they will still maintain checked. Even just passing `checked` like below works. 
+
+```
+   <input 
+      type="checkbox" 
+      value="${item.id}"
+      checked
+    >
+```
+
+What makes something unchecked? The absence of the checked attribute. 
+
+What we need to do is check if the checked attribute is true, and if it is, we need to put the checked attribute there, otherwise we will pass nothing. We can do that by modifying the code like so:
+
+```
+  const html = items
+    .map(
+      (item) => `<li class="shopping-item">
+    <input 
+      type="checkbox" 
+      value="${item.id}"
+      ${item.complete ? 'checked' : ''}
+      >
+    <span class="itemName">${item.name}</span>
+    <button 
+      aria-label="Remove ${item.name}"
+      value="${item.id}"
+    >&times;</button>
+  </li>`
+    )
+    .join("");
+```
+
+We could have also used the && operator instead like so: 
+
+```
+${item.compelte && 'checked'}
+```
+
+Now if you refresh, the checkmarks should stay as they were.
+
+That was a lot, but that is how all of those frameworks work. You basically have some state, you write a bunch of handlers to update state and to modify it, filter it, change it. When that state changes, you rerender out the HTML that is on the page. 
+
+One last thing is that security, which we will go over in future lessons in more details. 
+
+Right now, if you wanted, you could submit an image as a list item input, which is a security issue. When you take input from a user and then display it in the HTML, we need to clean all the data the user types in. 

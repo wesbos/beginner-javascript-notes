@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-23T12:42:49.409Z'
+modified: '2020-04-27T15:47:48.404Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -1334,35 +1334,167 @@ The main thing Wes wanted to get across in this lesson is that you can store met
 
 ## 57 - Shopping Form with Custom Events, Delegation and localstorage 
 
-In this lesson we will build a shopping list, where you can add items, check them off, and delete it if you can.
+In this lesson we will build a shopping list, where you can add items, check them off, and delete them.
 
 ![](@attachment/Clipboard_2020-04-23-08-31-55.png) 00:24
 
-You may have written something like this before, however Wes baked a lot of things that we need to learn about Javascript, into this fairly simple example. 
+Although you may have written something like this before, Wes has baked a lot of things that we need to learn about Javascript into this simple example.  
 
-We will be learning about emitting custom events, such as the one hightlighted in the image below (if you don't know what a custom event is, don't worry we will be learning about it). 
+We will be learning about emitting custom events, such as the one hightlighted in the image below (if you don't know what a custom event is, don't worry, we will be learning about it). 
 
 ![](@attachment/Clipboard_2020-04-23-08-37-40.png) 00:40
 
-We will be learning about event delegation, how do you listen for clicks on things that happen in the future? 
+We will also be learning about event delegation, how do you listen for clicks on things that happen in the future, as well as DOM events, and local storage.
 
-Also about DOM events.
+If you open up the `index.html` file in the `exercises/57 - Shopping List` directory let's go over the code that we are starting and working with. We have a div called shoppinglist which contains a form element and an empty ul. Within that ul, we will be outputting our shopping list items. The form has our input and our submit buttons.
 
-We are going to be looking at the local storage.
+```html
+<body>
+  <div class="shopping-list">
+    <form class="shopping">
+      <input type="text" name="item" id="item">
+      <button type="submit">+ Add Item</button>
+    </form>
 
-If you go to your Application tab in dev tools and open it up, you will see that we have a whole bunch of things inside of it. When you refresh the page
+    <ul class="list"></ul>
+  </div>
 
-![](@attachment/Clipboard_2020-04-23-08-42-37.png) 00:56
+  <script src="./shopping.js"></script>
+</body>
+```
 
+With this exercise, you can right-click and open the filter in the browser and everything should still work. However if you do want the live reloading, and instant CSS changes, we can use Parcel, which will give us a server, live reloading and module bundling (which we have yet to learn about). 
 
+There are two ways to install Parcel on your machine. You can install it once, to each project, which is what we did in the last exercise, or you can install it globally on your machine so that anytime you need it you can get a little server up and running. 
 
+The way that you install Parcel globally on your machine is by opening the terminal and typing `npm install -g parcel-bundler` . Now, anytime you are in a terminal, it will be available to you as a command called Parcel. 
 
+![](@attachment/Clipboard_2020-04-27-11-00-37.png) 3:00
 
+If you are on a mac and you have trouble installing global modules on your command line, type `sudo` infront of the command like so `sudo npm install -g parcel-bundler`.  
+That will ask you for a password first. You can tell it works if you type `parcel --version` it will tell you what version you have.
 
+Now in the terminal, cd into the Shopping List directory and then type `parcel index.html` in the terminal and hit enter. There will be a message in the terminal telling on which server it is running (usually localhost:1234).
 
+![](@attachment/Clipboard_2020-04-27-11-04-47.png) 3:59
 
+ ![](@attachment/Clipboard_2020-04-27-11-06-05.png) 
 
+ Let's get started. Open the `shopping.js` file, which should contain nothing. 
 
+ There are a couple of things that need to happen...
+ - need to listen for when someone types into the input and hits the submit button
+ - need to keep track of all of the shopping list items and whether or not they are complete
+ - need to render out a list of all of those items
 
+Note: you may notice when you focus into the input to enter a shopping list, all these values show up of everything you have ever typed, like in the picture below. To fix that, you can go to the HTML, you can set autocomplete to false on either the input or the whole form. There is also an `autocapitialize` attribute which you can switch on or off. 
 
+![](@attachment/Clipboard_2020-04-27-11-16-04.png) 5:17
 
+```
+<form class="shopping" autocomplete="off">
+```
+
+Back to our javascript, lets start by grabbing a few elements: the shopping form and the list. 
+
+```js
+const shoppingForm = document.querySelector(".shopping");
+const list = document.querySelector(".list");
+```
+
+Next we need an array to hold our **state**. 
+
+```
+//We need an array to hold our state
+const items = [];
+```
+
+What does **state** mean? The definition changes from framework to framework, but generally what people are saying is that state is a bunch of data that reflects the state of your application. But what does that mean? Let's use this finished shopping list screenshot as an example. 
+
+![](@attachment/Clipboard_2020-04-27-11-21-34.png) 7:09
+
+State is going to contain a list of all of my items, and a list of all the IDs of each of those items, and whether they have been completed or not. If it was a shopping cart, state would be a list of all the items in the card, how many of each item was in the shopping cart, how expensive is each item, etc. 
+
+You should always be able to recreate the visual part of your application given just the data. All of the current state of your application, meaning how it current is, should always be reflected in some sort of object or array of data and that is what we refer to as **state**. 
+
+Next we need to listen for a submit event on the form. 
+
+If you refresh the page and try to type an item in the input and hit submit, you will notice that the form submits, it puts `?item=Egg` in the URL bar. However that is now what we want. 
+
+![](@attachment/Clipboard_2020-04-27-11-25-30.png) 8:01
+
+![](@attachment/Clipboard_2020-04-27-11-26-43.png) 8:13
+
+Let's make a submit handler for that. The first thing the handler needs to do is prevent the form from submitting so let's add `e.preventDefault()`. 
+
+```
+function handleSubmit(e){
+  e.preventDefault();
+}
+```
+
+Now we will grab our `shoppingForm` nad add an event listener on the submit event and pass it the `handleSubmit` callback. Remember, for forms, we don't use click or enter events because it's much easier to just listen to the submit event. That way, if you submit by clicking, you submit by hitting enter, something else triggers a submit of the form, all of those use cases are covered by a single event called submit. 
+
+```
+shoppingForm.addEventListener('submit', handleSubmit);
+```
+
+Now if you refresh the page, type in eggs and hit enter, nothing should happen, which is good. Let's log "submitted" in our `handleSubmit` function. 
+
+Next we need to pull the data out of the input. How can we get that? Within the `handleSubmit` function, add the following code after we log submitted.
+
+```
+function handleSubmit(e) {
+  e.preventDefault();
+  console.log("Submitted!!!!");
+  const name = e.currentTarget.value;
+  console.log(name);
+}
+```
+
+If you refresh the page now, type in eggs and hit enter, you should get something like below in the console. 
+
+![](@attachment/Clipboard_2020-04-27-11-35-40.png) 10:00
+
+Why are we getting undefined? Let's do a bit of debugging. Let's add a log of `e.currentTarget` to our handler. If you do that and then refresh the page, you should see the form element logged. 
+
+![](@attachment/Clipboard_2020-04-27-11-37-15.png) 10:13
+
+The reason we are getting undefined because the currentTarget is the form, not the input. We want to get the text out of the input.  There are a couple ways we could do this. 
+
+We could write another query selector to grab it, however, because the input has a name `<input type="text" name="item" id="item>`, it's actually accessible via the form dot the name of the input. 
+
+![](@attachment/Clipboard_2020-04-27-11-39-20.png) 10:34
+
+If we take the form and store it as a global variable, called `temp1`. We can do `console.dir(temp1)` to get every property inside of it.
+
+![](@attachment/Clipboard_2020-04-27-11-40-58.png) 10:56
+
+Somewhere inside of all thoes properties is `item`. Wes is having trouble finding it but we will demonstrate it with code. Modify the log of `console.log(e.currentTarget)` to `console.log(e.currentTartget.item)`. 
+
+![](@attachment/Clipboard_2020-04-27-11-42-16.png) 11:04
+
+As you can see, we now get the item, not the entire form itself. 
+
+So modify our name declaration to `e.currentTarget.item.value` like so:
+
+```
+function handleSubmit(e) {
+  e.preventDefault();
+  console.log("Submitted!!!!");
+  const name = e.currentTarget.item.value;
+  console.log(name);
+}
+```
+
+As you can see, now we can capture the value of eggs. 
+
+![](@attachment/Clipboard_2020-04-27-11-43-52.png) 11:20
+
+Next step is to store the data about the shopping item in the items array, but we cannot just store the straight up string, because we need to be able to store a bit more info about that item. 
+
+The other two things we need to know are:
+-  is it completed (have you bought it or not?) 
+- what is the ID of the item?  
+
+stopped at 11:44

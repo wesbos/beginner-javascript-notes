@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-27T15:47:48.404Z'
+modified: '2020-04-27T20:02:09.408Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -1497,4 +1497,321 @@ The other two things we need to know are:
 -  is it completed (have you bought it or not?) 
 - what is the ID of the item?  
 
-stopped at 11:44
+Anytime you have a list of items, it's best to give every single one a unique identifier, so you can easily find it from within the list. That is what we are going to do now. 
+
+The name of the item is going to be our name variable. 
+
+The id of the item just needs to be something unique. One trick that Wes likes to use is to use `Date.now()` as an ID, which works if you aren't creating more than one item per milisecond, which works for our case.  
+
+![](@attachment/Clipboard_2020-04-27-14-09-29.png) 12:17
+
+The third property will be `complete` which we will set to false when the item is added to the list.  
+
+```
+function handleSubmit(e) {
+  e.preventDefault();
+  console.log("Submitted!!!!");
+  const name = e.currentTarget.item.value;
+  const item = {
+    name: name, 
+    id: Date.now(),
+    complete: false
+  }
+}
+```
+
+Note: when you save the code above, it might refactor it due to prettier to look more like 
+
+```
+const item = {
+  name,
+  id: Date.now(),
+  complete: false,
+};
+```
+
+Next we need to push these items to our state, which we will do by adding the following code to the `handleSubmit` function. 
+
+```
+items.push(item);
+console.log(`Tere are now ${items.length} in your state`);
+```
+
+If you refresh the page and try adding a few items, you should see the count in our log increasing. 
+
+![](@attachment/Clipboard_2020-04-27-14-16-16.png) 13:32
+
+Now we need to clear the form. There are a few ways we can do this. 
+
+One way is to set the item's value to nothing like so:  `event.currentTarget.item.value = ''`. 
+
+Another way you can do it, and this works if there are multiple inputs, is to call `e.target.reset()`. That will clear all of the inputs in a particular form. 
+
+Notice that we used `e.target` not `e.currentTarget`. If we used `e.currentTarget` it would still work the same in this scenario. 
+
+```
+function handleSubmit(e) {
+  e.preventDefault();
+  console.log("Submitted!!!!");
+  const name = e.currentTarget.item.value;
+  const item = {
+    name,
+    id: Date.now(),
+    complete: false,
+  };
+  // push the items into our state
+  items.push(item);
+  console.log(`There are now ${items.length} in your state`);
+  // clear the form
+  e.target.reset();
+}
+```
+
+
+When we have a form event, it will only actually evevr fire on the form, it doesn't bubble like our clicks and hovers do. 
+
+In this case, there is no upside or downside to using `target` vs `currentTarget` to reset the form using the `.reset()` method. 
+
+So far we have written code to enter an item and push that item up to state. 
+
+Next, we need to display the items that are in our state. We will create a function called `displayItems` which will loop over each item in the array and return a list item for each. 
+
+What is the best method to loop over an array and return some HTML for each one? Map! 
+
+Why? Let's go over a little demonstration in the console. Let's say you have an array of names like `const names = ['wes','kait'];`. You can call `map` on the names array which will go over each of them and then you can just wrap each one in a list item tag as a string using interpolation and then you can call `.join('')` on the returned array to join all the list item strings like in the image below. That is what we will be doing with the `items` array. 
+
+![](@attachment/Clipboard_2020-04-27-14-25-15.png) 16:01
+
+```
+function displayItems() {
+  console.log(items);
+  const html = items.map((item) => `<li>${item.name}</li>`);
+  console.log(html);
+}
+```
+
+Now how do we run `displayItems`? You might be thinking that we need to display them after we submit, right? 
+
+So we could just add `displayItems()` right after the `e.target.reset()` call within the `handleSubmit` function. That is okay for now, but Wes will show us a better way to do it, and why, with custom events. For now, let's just add it to our `handleSubmit()` function. 
+
+If you refresh the page and test that out by adding a few items: egg, milk and then beer, you should see something like what is displayed below in the console. 
+
+We pushed the item into state, and then once that is finished displayItems run and that loops over each item and returns a list item with each of them. 
+
+![](@attachment/Clipboard_2020-04-27-14-34-08.png) 17:12
+
+A couple of problems there... 
+1. the list items returned to us are in an array, not in an HTML string. 
+
+To fix that, we can add a `.join('');` on our html variable declaration like so:
+
+```
+const html = items.map(item=>`<li>${item.name}</li>`).join('');
+console.log(html);
+```
+
+Now as you can see, we are returned one string. 
+
+![](@attachment/Clipboard_2020-04-27-14-48-08.png) 17:41
+
+Now what we can do is take our list and set the innerHTML of it, within our displayItems function. 
+
+```
+function displayItems() {
+  console.log(items);
+  const html = items.map((item) => `<li>${item.name}</li>`);
+  list.innerHTML = html;
+}
+```
+
+Now when you type in an item and enter submit you will see it displayed.
+  
+![](@attachment/Clipboard_2020-04-27-14-50-55.png) 18:00  
+
+We need to add a bit more to our HTML like a delete button and a complete checkbox. Let's scaffold the HTML out a bit more for each item. 
+
+We need to add a class of `shopping-item` to each list item. We also need to add a checkbox as well as a button with `&times;` which should give us an x. 
+
+```
+function displayItems() {
+  console.log(items);
+  const html = items
+    .map(
+      (item) => `<li class="shopping-item">
+    <input type="checkbox">
+    <span class="itemName">${item.name}</span>
+    <button>&times;</button>
+    </li>`
+    )
+    .join("");
+  list.innerHTML = html;
+}
+```
+
+If you refresh the page and try entering items, you should see something like the following:
+
+![](@attachment/Clipboard_2020-04-27-15-00-26.png) 19:35
+
+Now we need to fix a few things here. 
+
+The button that we added is currently not accesible to people who are using screen readers. If the screenreader were to read to the user what is currently on the page it would read the item's nae and then the multiplication sign, which makes no sense. 
+
+What we can do to fix that is to add an aria-label attribute to it. For sighted users, nothing changes, but for people using a screenreader, when they tab over to it, it will tell them "remove bananas" instead. 
+
+```
+<button aria-label="Remove ${item.name}">&times;</button>
+```
+
+Another thing we need to do is when you check one of the items, we need to add the item to our state and update the checked property. 
+
+One other thing we need to fix is right now if you don't type anything into the input and hit enter, you will see we are able to submit a lot of blanks. 
+
+One way to fix that would be to add the required attribute to the input like so `<input type="text" name="item" id="item" required>`. That is an example of client side validation. 
+
+Another thing we can do is say if there is no name, return within our handleSubmit function like so:
+
+```
+function handleSubmit(e) {
+  e.preventDefault();
+  console.log("Submitted!!!!");
+  const name = e.currentTarget.item.value;
+  //if it's empty, then don't submit it. 
+  if (!name) return;
+  const item = {
+    name,
+    id: Date.now(),
+    complete: false,
+  };
+```
+
+Now if you try to submit a blank input, you will see that no item is added because we just return from the function. If you try entering any of the following: `0, null, undefined, false` in the input, it will still get added to the list instead of being returned, even though they are falsy. Why is that? Because they are all strings, and not types. 
+
+Let's go back to how we are calling `displayItems` each time our `handleSubmit` function is called. The reason Wes doesn't love that approach is because it tightly couples the `handleSubmit` with the displaying of the items. 
+
+What will happen is that we will also need to display the items when they are restored from local storage (when we refresh the page, we want the items to still be there) so we would need to call it again. We also need to display the items when we mark them as complete. When we delete an item we will need to re-run `displayItems` because there is now one less item. And a couple of other spots. 
+
+Having those functions so tightly coupled now isn't a big deal but what happens in larger JS applications is you may need to do more things after you display the items, and then sometimes you won't want to run all those other things after displaying the items. So what people end up doing is copy and pasting the function and modifying it slightly which causes duplicated logic. 
+
+Instead, what we are going to do is use the event system in Javascript to fire off our own events, and then listen for those events.
+
+We are going to listen to an item updating event, and then anyone who cares about that event can listen for it, just like if it were a click or a hover. That allows us to decouple it, and you will see this pattern a lot in Javascript applications. 
+
+Let's do that right now. 
+
+Instead of displaying our items, we will fire off a custom event which will tell anyone who cares that our items have been updated. 
+
+We will be using the term **dispatch** which means an event happens. When you click on something, the browser dispatches a click event. 
+
+Now what we need sometime to fire off an event about that data and we need to attach it. If we look at our HTML, we will probably fire off the event from this list. You could also fire it off from the form or the body, it doesn't matter that much. 
+
+![](@attachment/Clipboard_2020-04-27-15-21-44.png) 25:44
+
+At the bottom of our `handleSubmit` function, we will run the `list.dispatchEvent()`. The `dispatchEvent` method lives on all DOM elements. You provide it a `CustomEvent`, which is a constructor in the browser.
+
+As you can see, it's just a function. 
+
+![](@attachment/Clipboard_2020-04-27-15-24-34.png) 26:12
+
+If you were to run it by passing the name of your event, like so: `new CustomEvent('PIZZAS HERE')` you should see something like the image below in the console. 
+
+![](@attachment/Clipboard_2020-04-27-15-26-14.png) 26:45
+
+It gives us the type of events, as well as any details about when it is fired. So when we want to dispatch a custom event, we must first create a new CustomEvent, by passing the constructor the name of the event. 
+
+```
+list.dispatchEvent(new CustomEvent('itemsUpdated'));
+```
+
+If you try to add an item now, nothing happens, it just dispatched that event. No one is listening for `itemsUpdated` so no one cares, but if we go down to the bottom of the javascript file, where we have added our event listeners, we can listen for that event like so...
+
+```
+list.addEventListener('itemsUpdated', displayItems);
+```
+
+Now when you add an item, you will see it in the list. That is because we are dispatching the itemsUpdated event and also listening to it, and then calling `displayItems` when it fires. 
+
+You can add as many event listeners to the same event as you want.
+
+If we were to add the following code and refresh the page and add an item, we can see the details of the event. 
+
+```
+list.addEventListener('itemsUpdated', e=> {
+  console.log(e);
+});
+```
+
+![](@attachment/Clipboard_2020-04-27-15-42-28.png) 28:17
+
+You can see all sorts of details such as the path, which is pretty neat because it shows you the path at which the events have bubbled through. It was first triggered on the ul, then bubbled up to the shopping list, then the body, html, document and then the window.  
+
+That is a **custom** event, which Wes uses often when working with vanilla javascript to keep concerns seperate, instead of tightly tying them together. 
+
+Remove our second event listener where we are just logging the event. 
+
+Next, we want to mirror the data to **local storage**. 
+
+Local storage is kind of like a mini database that lives in your browser. It allows users who are using your website to come back with the same browser and pickup from where they last left. It does not send data to a server. It's just the ability to save some data in the user's browser. 
+
+If you go to the "Application" tab of the chrome developer tools and look at Local Storage, and then click on the domain name, you won't see anything. However Wes has already completed it so he has values there. There is all this information in his local storage about the items. 
+
+![](@attachment/Clipboard_2020-04-27-15-46-13.png) 29:25
+
+So what we want to do now is create a function that will mirror our data to local storage.
+
+```
+function mirrorToLocalStorage(){
+  console.info('Saving items to localstorage');
+}
+```
+
+So when we add something, we need to listen for the event, and then mirror all the items to local storage.  Let's duplicate our event listener and call `mirrorToLocalStorage` when the `itemUpdated` event is triggered. Add the following code where we call the rest of our event listeners..
+
+```
+list.addEventListener("itemsUpdated", mirrorToLocalStorage);
+```
+
+See how nice having a custom event is? Anyone who cares about items updating can listen in on the event. 
+Now if you try typing in an item, you should see logged in the console "Saving items to local storage". 
+
+How do you save items to local storage? The API is pretty simple. 
+
+If you type in `localStorage` in the console, it will return to you everything that is in local storage.
+
+![](@attachment/Clipboard_2020-04-27-15-51-09.png) 30:34
+
+To set an item in local storage you can use `localStorage.setItem()` where you pass in the key and the value.
+To get an item from local storage, you can use `localStorage.getItem()` to which you pass the key that you are looking for. 
+
+If something funky is happenign with local storage, it's best to just clear it out and start fresh which you can use by clicking this button in the Applications tab. 
+
+![](@attachment/Clipboard_2020-04-27-15-55-27.png) 31:05
+
+So how are we going to save items to local storage? What if we do something like this... 
+
+```
+function mirrorToLocalStorage() {
+  localStorage.setItem(items, items);
+  console.info("Saving items to localstorage");
+}
+```
+If you take a look, you will see `[object Object]`.. what?? If you try to open it up, you can't, it's just the word object.
+
+![](@attachment/Clipboard_2020-04-27-15-56-59.png) 31:39
+
+Why is that? That is because local storage is text only. That means if you have an object or an array or a boolean, it will try to convert that item to text first before it puts it in. 
+
+Every single type has a `.toString()` method, which will convert it to a string.
+
+![](@attachment/Clipboard_2020-04-27-15-58-55.png) 32:37
+
+If you have an object, and you call `.toString()` on it, it just gives you `"[object Object]"`, which is not helpful at all. 
+
+![](@attachment/Clipboard_2020-04-27-15-59-40.png) 32:56
+
+That is what is happening here, because we are passing it an object, it is trying to convert it to a string which isn't very helpful because there is no data for that.
+
+So how do you convert objects to strings? Using JSON. If you call `JSON.stringify()`, you can pass it an object, it will convert that object to a string representation of that object. At a later point in time, we can do the opposite which is `JSON.parse()`. If you pass it a string, it will convert it back to an object. 
+
+That is exacty what we will do here. Before we put the object into local storage, we will convert it to a string and when we pull it out of local storage, we can convert it back to an array of objects.
+
+stopped at 33:59

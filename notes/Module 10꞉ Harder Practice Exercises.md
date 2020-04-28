@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-28T11:35:39.526Z'
+modified: '2020-04-28T23:09:44.138Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -2339,7 +2339,93 @@ function Gallery(gallery){
 
 ![](@attachment/Clipboard_2020-04-28-07-33-52.png) 4:58
 
-If you want instead of the function to gracefully degrade, you can simply return without throwing anythng. What that will do is break without throwing any errors in the console. 
+If instead you want the function to gracefully degrade, you can simply return without throwing anything. That will break and exit the function without throwing any errors in the console. 
 
-5:25
+We will keep the code we added above. 
+
+Next we need to select the whole bunch of images. Previously, Wes has been selecitng everything at the top of the file, however, since we need to select these things for each of our instances, we will be selecting the images from within our Gallery function.
+
+The first thing we need is a list of all of the images. Instead of using `document.querySelector` however, we need to make sure it's scoped to the gallery element that was passed in to our function. 
+
+![](@attachment/Clipboard_2020-04-28-18-52-19.png) 6:25
+
+So we will use the `gallery` variable as our selector. For the list we will use `Array.from()` because we will need to loop over it at some point. 
+
+Add the following code
+
+```
+const images = Array.from(gallery.querySelectorAll('img'));
+console.log(images);
+```
+
+![](@attachment/Clipboard_2020-04-28-18-53-25.png) 6:47
+
+If you added that code and looked at the console, you will notice it is empty. 
+
+Let's debug that. Let's start by adding a `console.log(gallery);` before our `images` variable declaration. 
+
+![](@attachment/Clipboard_2020-04-28-18-54-59.png) 6:54
+
+As you can see, the gallery is showing up.
+
+![](@attachment/Clipboard_2020-04-28-18-55-23.png) 6:57
+
+If we look inside of the gallery, we can see lots of image elements. 
+
+Oh! The problem is we used `querySelector` instead of `querySelectorAll`. Modify the code and now you should be getting 9 images back for each gallery. 
+
+![](@attachment/Clipboard_2020-04-28-18-59-07.png) 7:06
+
+The next thing we need is our modal, with our next and previous buttons. 
+
+If we take a look at the HTML Wes has provided us with, he has scaffolded out the HTML for showing the modal. 
+
+```
+<div class="modal">
+      <div class="modalInner">
+        <button aria-label="Previous Photo" class="prev">←</button>
+        <figure>
+          <img src="./images/kith-hoodie.jpg" />
+          <figcaption>
+            <h2>Test Title</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
+              dignissimos obcaecati nisi placeat eaque voluptate,
+              exercitationem eius? Non, iusto provident itaque, voluptate
+              labore a alias officia, amet sunt pariatur praesentium tenetur
+              voluptatibus dolores mollitia quasi aliquid assumenda possimus
+              maiores exercitationem!
+            </p>
+          </figcaption>
+        </figure>
+        <button class="next" aria-label="Next Photo">→</button>
+      </div>
+```
+
+So we have a figure with an image, a figcaption, an h2, a paragraph. 
+
+What will happen is we will show the modal when someone pops an image open and we will swap out all the text content with the content associated with that image. 
+
+Now we need to select the modal. We will do that with the `document` selector because in this instance, the markup for the modal will be shared between the galleries because we can only ever have one modal open at a time. 
+
+After that we will look inside of the modal for our previous and next buttons. 
+
+Add the following code:
+
+```
+const modal = document.querySelector('.modal');
+const prevButton = modal.querySelector('.prev');
+const nextButton = modal.querySelector('.next');
+```
+
+For all the rest of this exercise, we will be chunking up the functionality into a bunch of little functions. We will show the image, open the modal, close the modal, listen for clicks on the keyword, there is actually a lot going on.
+
+This is a great example of how you can take a javascript app and make it simpler by breaking it into smaller, little functions.
+
+Let's start with the showing of the iamge. 
+
+When someone clicks on one of the images, we need to update that modal with the associated images, as well as pop open the modal. Let's call that function `showImage`. It will take a reference to an image element as a parameter which we will call `el`.
+
+stopped at 9:41
+
 

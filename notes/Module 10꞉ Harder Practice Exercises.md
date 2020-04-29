@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-28T23:09:44.138Z'
+modified: '2020-04-29T01:16:59.200Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -2426,6 +2426,211 @@ Let's start with the showing of the iamge.
 
 When someone clicks on one of the images, we need to update that modal with the associated images, as well as pop open the modal. Let's call that function `showImage`. It will take a reference to an image element as a parameter which we will call `el`.
 
-stopped at 9:41
+Within that function we will first check whether a reference to an image was passed or not, and if it wasn't, we will add `console.info('no image to show')` and return.
+
+The reason we are adding these checks is because sometimes the functions can get run and if for some reason something is broken, having those safety checks can stop a broken application on your page.
+
+Otherwise, what we need to do is update the modal with that image's information.
+For now, we will just add `console.log(el)`. 
+
+The function should look like below.
+
+```
+function Gallery(gallery) {
+  if (!gallery) {
+    throw new Error("No Gallery Found!");
+  }
+
+  const images = Array.from(gallery.querySelectorAll("img"));
+  const modal = document.querySelector(".modal");
+  const prevButton = modal.querySelector(".prev");
+  const nextButton = modal.querySelector(".next");
+  function showImage(el) {
+    if(!el){
+      console.info("no image to show");
+      return;
+    }
+    // update the modal with this info
+    console.log(el);
+  }
+```
+
+Next we are going to take our images and loop over each of them to add an event listener. We will listen for the click event, and when that happens, we will run a callback function, which we will call `handleImageClick` which takes the event as an argument.
+
+```
+function handleImageClick(event){
+
+}
+
+images.forEach(image => image.addEventListener('click', handleImageClick));
+```
+
+Inside of `handleImageClick`, we simply just need to pass the image tag of whatever image we want to show our `showImage` function. Within the handler we will call `showImage` and pass it a reference to the image that was clicked by using `event.currentTarget`.
+
+Because we have added a bunch of different functions, let's check if it works and then refactor it out to another arrow function. 
+
+If you refresh the page, you should see that when we click on an image, that image element is logged to the console. 
+
+![](@attachment/Clipboard_2020-04-28-19-22-14.png) 11:42
+
+Let's refactor the code so instead of having a separate `handleImageClick` function, we can just do the same functionality with an arrow function. Remove the `handleImageClick` function and refactor the code as shown below.
+
+```
+images.forEach(image => image.addEventListener('click', (e)=> showImage(e.currentTarget)));
+```
+
+If you check, everything should work exactly the same.
+
+Back to showImage, there are a few things that need to happen. When someone clicks the image, we need to update the source of the image element in the modal.
+We also need to update the h2 and the paragraph content. 
+
+![](@attachment/Clipboard_2020-04-28-19-28-26.png) 12:37
+
+Add the following code:
+
+```
+console.log(el);
+modal.querySelector('img').src = el.src;
+```
+
+Now if you refresh the page and click on an image, you should be able to go into the elements tab and look inside the modal to check the img src. It should be the source of the image that you clicked. 
+
+So let's go ahead and duplicate the last line of code we added and switch the selector to be the h2 instead. Instead of setting the src, we will update the `textContent` of the `h2` to be `el.title`. 
+
+```
+modal.querySelector('h2').textContent = el.title;
+```
+
+Why do we do that? If you take a look at our image elements, you will see we have a couple of things on them. 
+
+![](@attachment/Clipboard_2020-04-28-19-32-08.png) 13:37
+
+One of those is the title. So we can go ahead and take the title from the image and then duplicate it again and grab the paragraph. The description is a data attribute that is on our image element. We will need to us `dataset` to grab that value. 
+
+```
+modal.querySelector('figure p').textContent = el.dataset.description;
+```
+
+Finally what we want to do is keep track of what the currently opened image is. Right underneath where we declare our next button, add this line `let currentImage;`.
+
+Now add to the very bottom of the `showImage` function `currentImage = el;`
+
+When you refresh the page and click on an image, if you open the elements tab you should see the modal values being swapped out. 
+![](@attachment/Clipboard_2020-04-28-19-36-43.png) 14:55
+
+Note: the demo text is the same for each image, but you can tell it's being swapped because the first time you load the page, and then click, the value will be different. 
+
+Now let's actually open up the modal to the user. We will add a function `openModal` to do that. For now just add `console.info('Opening Modal...');`. 
+
+We will run `openModal()` from the bottom of our `showImage` function. 
+
+Now within the `openModal` function, there are a few things we need to do. 
+
+First, we need to check if the modal is already open (we need to perform this check because Wes has added some animations that will animate it in and out).  We don't want to be triggering those animations if the modal is already open for some reason. 
+
+Next we will use `modal.matches('.open')`, which will take our modal and check whether it matches a CSS selector or not. The way we are going to tell if the modal is open or not is by a CSS class that is "open". 
+
+If it is open, we will log that it's already open and return. If it's not already open, we will add a class of "open" to it.
+
+`modal.classList.add('open')`. 
+
+Your open modal function should look like this:
+
+```
+function openModal() {
+  console.info("Opening Modal...");
+  // First check if the modal is already open
+  if (modal.matches(".open")) {
+    console.info("Modal already open");
+    return;
+  }
+  modal.classList.add("open");
+}
+```
+
+If you refresh the page, when you click on an image, the modal should now open.
+
+THe previous and next buttons won't work in the modal, neither will closing the modal by hitting escape on the keyboard or clicking outside of it. But it will slide down from the top when we click an image.
+
+Why does that work? If you look at the `gallery.css`, you will see that by default, our modal has an opacity of 0 and pointer-event of none. 
+
+![](@attachment/Clipboard_2020-04-28-20-23-51.png) 17:29
+
+However the modal with the class of open has opacity of 1 and pointer-event of all. 
+
+![](@attachment/Clipboard_2020-04-28-20-24-06.png) 17:22
+
+`opacity:0` css style will hide the element from the user, and setting `pointer-events:none` will ignore all the clicks on the element. 
+
+![](@attachment/Clipboard_2020-04-28-20-25-38.png) 17:57
+
+We also have our modal inner which is currently off the page, via the css style `transform: translateY(-100vh);`. If we comment that css style out and also set `opacity:1` by default on the modal, you will see that the modal is actually open and visible on the page by default. Negative 100 viewport will move it off the screen. 
+
+When there is an open property on the parent, `.modalInner` gets a translate Y of 0. 
+
+![](@attachment/Clipboard_2020-04-28-20-28-26.png) 18:23
+
+Next we will make a function called `closeModal` which will remove the `open` class from the modal.
+
+We will also want to add a TODO comment to remind us to add event listeners for clicks and keyboard like the escape key. 
+
+```
+function closeModal(){
+  modal.classList.remove('open');
+  //TODO: add event listeners fro clicks and keyboard
+}
+```
+
+If we click outside of the modal, we want to be able to run the `closeModal` function. How would we do that?
+
+
+![](@attachment/Clipboard_2020-04-28-21-02-49.png) 15:37
+
+If someone clicks outside the `modalInner`, we want to modal to close. So if you click within the modal, we don't want it to close, but if you click anywhere outside of that, then we do want it to close. 
+
+Let's make a new function called `handleClickOutside`, which takes in an event. 
+
+Then let's go down to where we have our event listeners and let's add a comment of `//These are our Event Listeners`. 
+
+We will also add `modal.addEventListener('click',handleClickOutside);`. 
+
+Now inside of our `handleClickOutside` function, we will check whether the event.target is equal to the event.target. If it is, we will run `closeModal()`. 
+
+```
+function handleClickOutside(e){
+  if(e.target === e.currentTarget){
+    closeModal();
+  }
+}
+```
+
+If the thing that they actually clicked and the thing you're listening for the click on are the exact same thing, then it means that the user has clicked on the actual modal div, and not within the modal. So if you click within the modal, that would return false but if you clicked outside of it,  it would close. 
+
+![](@attachment/Clipboard_2020-04-28-21-08-26.png) 21:01
+
+Now if you refresh the page and open the modal and click outside of it, you should see that clicking outside the modal works. 
+
+Now let's wire up the escape key on our keyboard. We will make another function called `handleKeyUp`, which takes in an event. Inside of the function we will add an if statement where we check whether `event.key === 'Escape'`. If it is, we run `closeModal()`. This if statment is a good use case for a blockless if statement because it is a clean one liner. 
+
+```
+function handleKeyUp(event){
+  if(event.key === 'Escape') closeModal();
+}
+```
+
+Because of the way `keyUp` works, it will actually fire for any key. So we will be putting in a bunch more logic in that function in the future. 
+
+Now let's go down to our event listeners and add an event listener on the window. We will listen for the keyup event and pass it the `handleKeyUp` function. 
+
+```
+window.addEventListener('keyup', handleKeyUp);
+```
+
+If you refresh the page, you will see that when you open the modal, you can hit the escape key and that will work. Try the second gallery to make sure it's still working too.
+
+Next we need to hook up the next and previous buttons . 
+
+stoped at 22:41
+The next thing we need to do is hook up the buttons by showing the next and previous images, either by clicking on the m 
 
 

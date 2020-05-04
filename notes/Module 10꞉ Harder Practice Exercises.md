@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-05-04T22:35:49.445Z'
+modified: '2020-05-04T23:15:48.570Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -3067,4 +3067,144 @@ If you were to inspect the code you would see that now the appropriate slides ha
 
 ![](@attachment/Clipboard_2020-05-04-18-35-39.png) 22:35
 
-stopped at 22:35
+Next we need a method called `move` that takes in a direction like back or forwards.
+
+```
+function move(direction){
+
+}
+```
+
+When we call the move function it will move the classes around to switch which the current, next and previous slides are. You could manually edit the classes yourself in the element panel to do that.
+
+The first thing this function will do is strip all the current classes off the slides. 
+
+We will make an array of classes to remove and put the classes that we want to remove inside of the array. 
+
+Then we will take the previous element and call remove.  Remove will take in as many arguments of classes that you want to remove as you want. 
+
+We will have to do that with current and next as well which is kind of annoying. 
+
+```
+prev.classList.remove("prev", "current", "next");
+current.classList.remove("prev", "current", "next");
+next.classList.remove("prev", "current", "next");
+
+```
+
+What is even better is we can take the array of classes to remove and spread it into the remove method. 
+
+```
+function move(direction){
+  //first strip all classes off the current slides
+  const classesToRemove = ['prev', 'current', 'next'];
+  prev.classList.remove(...classesToRemove);
+  current.classList.remove(...classesToRemove);
+  next.classList.remove(...classesToRemove);
+}
+```
+
+We could even make that shorter by putting our elements into an array and then calling forEach on them and then within the foreach calling remove and spreading the classesToRemove array into it. 
+
+```
+[prev, current, next].forEach(el => el.classList.remove(...classesToRemove));
+```
+
+Let's go with the approach where we have three lines instead of the one liner to make it more readable instead however.
+
+Now we need to figure out which direction the slides are going. 
+If the slides are going backwards, the need to take our `current`, `previous` and `next` variables and shift them by one. If we are going backwards previous will become current, current will become next. We are basically shifting everything to the left.
+
+There is a bit of a problem when you are assigning variabels to be each other. Let's say we tried 
+
+```
+if(direction === 'back'){
+  prev = prev.previousElementSibling;
+  current = prev;
+}
+```
+
+We have run into this problem where we have already updated what previous is. How do we access the old previous? We could do have a variable called `oldPrev` and then assign the value of prev to that before we reassign it but that is not the best way. 
+
+What Wes will show us instead is how to use destructuring to switch variables easily.
+
+We will destructure the `[prev, current, next]` variables annd make an array of their new values and destructure them over and into the prev, current and next variables. 
+
+That means the first thing we put into the array will be assigned to `prev`. Then next item will be current and the last will be next. 
+
+
+The first thing will be `prev.previousElementSibling`. Then the current will be the `prev` and the `next` will become the current. 
+
+```
+[prev, current, next] = [prev.previousElementSibling, prev, current];
+```
+
+Now we will do the opposite if the direction is forward:
+
+```
+if (direction === "back") {
+  [prev, current, next] = [prev.previousElementSibling, prev, current];
+} else {
+  [prev, current, next] = [current, next, next.nextElementSibling];
+}
+```
+
+That seems confusing but all we are doing is shifting them all one lower. Next we will just run the `applyClasses()` function which will in turn add the current, previous and next classes. and that should work for us. 
+
+Now we can take our previous button and our next button and hook up click events.
+
+Let's do it at the very bottom of our `Slider` function. We will call the move function from the event listener handlers and pass `'back'` to when the previous button is clicked using an arrow function. When the next button is clicked, we will just pass reference to move since unless you pass the string "back", it will move in the forward direction.
+
+
+
+```
+//Event Listeners
+
+prevButton.addEventListener('click', ()=> move('back'));
+nextButton.addEventListeners('click', move;
+```
+
+The difference there is if you need to pass an argument to a function, you need to run an arrow function here. Or, you use call and apply which you will learn about in the next video. 
+
+Now when you click it, you will see the slider works. 
+
+One error is when you get to the very end or very beginning, we will get an arrow because we lose our `next` class.
+
+![](@attachment/Clipboard_2020-05-04-19-08-19.png) 31:08
+
+Sonow we need to say when we have the edge case where a previous element or next sibling doens't exist you will add an or condition and get the slides lastElementChild or `slides.firstElementChild` for the next button. 
+
+```
+if (direction === "back") {
+  [prev, current, next] = [
+    // get the prev slide, if there is none, get the last slide from the entire slider for wrappign
+    prev.previousElementSibling || slides.lastElementChild,
+    prev,
+    current,
+  ];
+} else {
+  [prev, current, next] = [
+    current,
+    next,
+    //get the next slde or if its at the end, loop around and grba the first
+    next.nextElementSibling || slides.firstElementChild,
+  ];
+}
+
+```
+
+Now if you refresh the page you will see the slider is working but the second one is not. Why not? Let's debug. 
+
+The reason is that the buttons are not working for the second  slider. Why is that? Because if you look back at where we grab the buttons in our code, we are using `document.querySelector()` instead of `querySelectorAll()` to grab the buttons. So what is happening is both sliders are being moved by the same button. `querySelector` just finds the first element on the page and binds to that. it shouldn't be `document`, it should be `slider` because we need to look for the buttons within the slider itself.
+
+If you refresh the page you will see they now run on their own.
+
+![](@attachment/Clipboard_2020-05-04-19-13-57.png) 33:35
+
+63 lines of code for a slider! 
+
+It would be cool to get the arrow keys working but only when someone is focued in on one of the Divs. That would be an interesting exercise to give a shot yourself if you're interested. 
+
+We will be revisiting this exercise in our prototype lesson. The functions, `move`, `applyClasses` and `startSlider` are going to be moving to what are called the prototype.
+
+--

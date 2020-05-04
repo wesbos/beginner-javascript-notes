@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png]
+attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-04-29T12:49:26.448Z'
+modified: '2020-05-04T22:35:49.445Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -2991,10 +2991,80 @@ function startSlider(){
 
 When we create the slider, we now have to run the `startSlider` function.  Add it to the bottom of the `Slider` function. 
 
-stopped at 15:20
+```
+//when this slider is created, run the start slider function
+startSlider();
+```
 
+That is often what we refer to as a **constructor**, which we will be getting into more when we hit classes.
 
+If you refresh the page you will see that we now have both of our slides logged in the console. The first slide starts at 16 because it has the class current on it and the slider had no class of current on any of the slides so it started on the first slide.
 
+![](@attachment/Clipboard_2020-05-04-18-16-53.png) 18:30
 
+For the previous one we will grab the element that is behind the current one using `previousElementSibling`. Let's demo how that works by going to the html page in the browser, selecting slide #2 in the elements tab and then going back to the console and typing $0.previousElementSibling. You will see that the slide that says 1 will be returned. 
 
+![](@attachment/Clipboard_2020-05-04-18-20-04.png) 18:57
 
+If you were to do the same thing but with #1 slide, you would get null because because there is nothing next to one. 
+
+![](@attachment/Clipboard_2020-05-04-18-21-38.png) 19:13
+
+So we want to set the previous slide to be the `previousElementSibling`, or, if that doesn't exist, we can fall back to the last slide within our slides div.
+
+```
+prev = current.previousElementSibling || slides.lastElementChild;
+```
+
+Side note: Why is Wes using the Element version of the methods instead of using `current.previousSibling` or `slides.lastChild`?
+
+Let's demonstrate with an example. If you were to add a paragraph at the top of the HTML page such as `<p>I <strong>love</strong> to eat <strong>pizza</strong></p>` and inspect it.
+
+![](@attachment/Clipboard_2020-05-04-18-26-28.png) 20:07
+
+Click on "love", and then go into the console and try the following:
+
+![](@attachment/Clipboard_2020-05-04-18-27-21.png) 20:24
+
+What is the difference? `nextSibling` gives us a Node, and a node can be text or an element, whereas next Element sibling will only return elements. Always use element sibling when you are looking for an element. 
+
+Next will be `next = current.nextElementSibling || slides.firstElementChild;`. 
+
+Then we will add `console.log({current, prev, next });
+
+```
+function startSlider() {
+    current = slider.querySelector(".current") || slides.firstElementChild;
+    prev = current.previousElementSibling || slides.lastElementChild;
+    next = current.nextElementSibling || slides.firstElementChild;
+    console.log({ current, prev, next });
+  }
+
+```
+
+![](@attachment/Clipboard_2020-05-04-18-31-15.png) 21:27
+
+If you open the console, you will see we have `current, prev, next`. 
+
+Now we need to start applying classes to those to make them show up. Make a function `applyClasses` and we will take the current, add the class of current to it and then do the same the prev and next.   
+
+```
+function applyClasses(){
+  current.classList.add('current');
+  prev.classList.add('prev');
+  next.classList.add('next');
+}
+```
+
+Now when the code runs, we will just run `applyClasses` as well. 
+
+```
+startSlider();
+applyClasses();
+```
+
+If you were to inspect the code you would see that now the appropriate slides have classes.
+
+![](@attachment/Clipboard_2020-05-04-18-35-39.png) 22:35
+
+stopped at 22:35

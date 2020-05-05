@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-04-29T03:18:50.914Z'
+modified: '2020-05-04T23:17:38.460Z'
 ---
 
 # Video Course Outline
@@ -87,7 +87,7 @@ Module 10: Harder Practice Excercises
 56. ~~Sarcastic Text Generator~~ (22:53)
 57. ~~Shopping Form with Custom Events, Delegation and localstorage~~ (58:50)
 58. ~~Building a Gallery Exercise~~ (35:25)
-59. Building a Slider (34:22)
+59. ~~Building a Slider~~ (34:22)
 
 Module 11: Prototypes, `this`, `new` and Inheritance
 60. The New Keyword (11:44)

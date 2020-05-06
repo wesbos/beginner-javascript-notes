@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png]
+attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-05-06T10:15:00.962Z'
+modified: '2020-05-06T10:38:18.239Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -727,17 +727,92 @@ If you feel like a challenge, feel free to try to refactor the slider one yourse
 
 --- 
 
+## 63 - Prototypes and Prototypal Inheritance
 
+In the last video we learned that having a function and using the `new` keyword would return an object, that is an instance of that object. 
 
+```
+function Pizza(toppings = [], customer) {
+    console.log("Making a pizza");
+    // save the toppings that were passed in, to this instance of pizza
+    this.toppings = toppings;
+    this.customer = customer;
+    this.id = Math.floor(Math.random() * 16777215).toString(16);
+  }
+    const pepperoniPizza = new Pizza(["pepperoni"], "Wes Bos");
+    const canadianPizza = new Pizza(
+      ["pepperoni", "mushrooms", "onion"],
+      "Kait Bos"
+    );
 
+```
 
+In the example above, both `canadianPizza` and `pepperoniPizza` are instances of the `Pizza` function. The way that we attach properties onto that instance is by saying `this.`propertyname. 
 
+Let's say we want to add some functionality, like the abilitiy to count the number of slices left in the pizza. We can start with every pizza having 10 slices by adding this to our `Pizza` constructor function `this.slices = 10;`.
 
+Now if you take a look at the pizza, you will see that ther are 10 slices in that pizza. 
 
+![](@attachment/Clipboard_2020-05-06-06-26-03.png) 1:10
 
+Now if we needed to make a method of the pizza like `eat()`, which takes away slices one at a time, you might think you coudl do something like this..
 
+```
+this.eat = function(){
+  console.log('CHOMP');
+  this.slices = this.slices - 1;
+}
+```
 
+Now if you refresh the page and go to the console and call `eat()` on one of the pizzas, we will see "CHOMP". If you look at how many slices there are, you would get 9. 
 
+![](@attachment/Clipboard_2020-05-06-06-28-15.png) 1:57
+
+If you run it again, you will see we have 8. 
+
+Lets go ahead and modify it so we do not run out of slices. Add this condition
+
+```
+this.eat = function(){
+  if(this.slices > 0){
+    this.slices = this.slices - 1;
+    console.log(`CHOMP you have ${this.slices} left!`);
+  }
+  else {
+    console.log('Sorry! No slices left');
+  }
+```
+
+It might also be a good idea to return the new number of slices from the function (similar to how Array.prototype.push returns the number of items in an array after we add them. You would just add `return this.slices;`). 
+
+If you call that a bunch of times in the console, you should see that it now works. 
+
+![](@attachment/Clipboard_2020-05-06-06-31-13.png) 2:57
+
+That works very well, however there is a downside to this which is that we are actually creating the `eat()` function once for every single pizza that is made. 
+
+If you compared whether `pepperoniPizza.eat` and `canadianPizza.eat` are the same function, you would get false even though they look identical. 
+
+![](@attachment/Clipboard_2020-05-06-06-32-31.png) 3:31
+
+What is happening there is we are duplicating the functionality of the function once from every single pizza. That functionality looks identical for every single pizza so there is no need to be generating one per instance.
+
+It does need to maintain it's own slice count, toppings, customer etc, but the functionality to eat a piece of pizza is the asme for every single pizza that is out there. 
+
+Instead of putting functions on every single instance, we can put them on what is referred to as the **prototype**. 
+
+You might be thinking, what is wrong wit the code we have now? It seems to be working so far. 
+
+The problem comes when you have 20,000 pizzas. Then you have lots of instances of the pizza, and everytime you define a new function, that takes up memory in your computer and that is what causes websites and computers to go slow in many cases. 
+
+It would be much more efficient to have one `eat()` function that is shared amongst all our pizzas. 
+
+Let's pause on that for a second and look at some of the built in prototypes that we have. 
+
+We have our `names` array which we have already delcared. Let's say we make a new array called "numbers". We have two arrays now. 
+
+stopped at 5:09
+In each of them, 
 
 
 

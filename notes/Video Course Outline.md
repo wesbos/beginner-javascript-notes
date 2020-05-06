@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-04T23:17:38.460Z'
+modified: '2020-05-05T11:40:27.294Z'
 ---
 
 # Video Course Outline
@@ -90,7 +90,7 @@ Module 10: Harder Practice Excercises
 59. ~~Building a Slider~~ (34:22)
 
 Module 11: Prototypes, `this`, `new` and Inheritance
-60. The New Keyword (11:44)
+60. ~~The New Keyword~~ (11:44)
 61. The this Keyword (10:35)
 62. Prototype Refactor of the Gallery Exercise (17:44)
 63. Prototypes and Prototypal Inheritance (19:30)

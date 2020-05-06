@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png]
+attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-05-06T10:38:18.239Z'
+modified: '2020-05-06T11:11:40.704Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -809,12 +809,128 @@ It would be much more efficient to have one `eat()` function that is shared amon
 
 Let's pause on that for a second and look at some of the built in prototypes that we have. 
 
-We have our `names` array which we have already delcared. Let's say we make a new array called "numbers". We have two arrays now. 
+We have our `names` array which we have already delcared and we will create a new array called `numbers`. 
 
-stopped at 5:09
-In each of them, 
+![](@attachment/Clipboard_2020-05-06-06-39-58.png) 5:13
 
+Both of those arrays with have methods on them like `filter` for example. Every single time you make an array, the browser does not copy and paste the functionality inside of each one. 
 
+Instead, the method actually lives in something called a prototype, which allows each of the arrays to share that functionality. 
+
+If you checked for the equal of the `filter` method of numbers and names, you would get true because they are the exact same function. They don't just have the same functionality, they are the same function. 
+
+![](@attachment/Clipboard_2020-05-06-06-44-44.png) 6:39 
+
+Take our eat function, copy it and then remove those lines of code. Go further down the file, right below our Pizza function and then modify it liek so:
+
+```
+Pizza.prototype.eat = function() {
+  if (this.slices > 0) {
+    this.slices = this.slices - 1;
+    console.log(`CHOMP you now have ${this.slices} left!`);
+  } else {
+    console.log(`Sorry! No slices left!`);
+  }
+};
+```
+
+Now every single time we make a pizza, we won't give it that function, but it will be available on the prototype. 
+
+Let's test that it still works by calling `canadianPizza.eat()` in the console multiple times. Then try calling `pepperoniPizza.eat()` multiple times. It looks like it is working. 
+
+However, if you log `pepperoniPizza` and look inside, you will see  customer, id, toppings (all of which are instance properties). But there is no eat functionality. However, if you open up the prototype, you will see it there. 
+
+![](@attachment/Clipboard_2020-05-06-06-47-51.png) 7:31
+
+That is what is referred to as the **prototype lookup**. If you put something on the prototype, and it doesn't exist on the instance, it will look for it in the mamma.
+
+If we did `pepperoniPizza.toppings` that would be an instance but if we did `pepperoniPizza.eat`, what would first happen is it would look inside the Pizza constructor function for a proeprty called `eat`. 
+
+What that means is that every time an instance is made, we have access to this eat function. 
+
+One benefit of that is you can actually change the functions andthose changes will apply to every single pizza that is there. 
+
+8:40
+
+Let's do one more example with just the number. 
+
+Add the following under our `eat` function. 
+
+```
+Pizza.prototype.size = 'Large';
+```
+
+Now if we go to our pepperoniPizza and look for the size, it will tell us "Large". 
+
+![](@attachment/Clipboard_2020-05-06-06-52-31.png) 9:14
+
+However, if we were to go into our `Pizza` function and add `this.size = "Medium";`, we will get "Medium". 
+
+![](@attachment/Clipboard_2020-05-06-06-53-11.png) 9:15
+
+It first checks for a property on the instance and if it doesn't exist, it will go to the prototype and look that up. 
+
+(Get rid of the `this.size` because we don't actually need it). 
+
+Now if we look at our `name` array by typing `name.` in the console, you will see a long list of methods that are available to us.
+
+If we log `String.prototype` you will also see the methods available to us every single time that we create a new string. 
+
+![](@attachment/Clipboard_2020-05-06-06-59-11.png) 10:15
+
+All of the methods that you see already there are what is referred to as **built in** functions, meaning they just come with the language. You can actually add your own, but warning -- you should never do this. Wes is just demoing it to show us how that works. 
+
+```
+String.prototype.toUpperCase = function() {
+  return 'YELLING';
+}
+```
+
+Now if we run `name.toUpperCase()` in the console, it will return to us 'YELLING'. 
+
+![](@attachment/Clipboard_2020-05-06-07-02-46.png) 11:56
+
+That is because we overwrote the existing `toUpperCase` functionality on the prototype. 
+
+Now when any string calls `toUpperCase()` that will run instead. You can see why it would be a bad idea to modify a built in, because on person might expect the method to do something one way, and then if you have changed something, the libaries on the page that are expecting toUpperCase to work will break. You should never modify built in for this reason. 
+
+If you should never modify built-in functions, then why is that allowed? 
+
+For new functionality that is added to the browser, like `Array.includes()`, might be missing from some older browsers. For those browsers, you can use something called a **polyfill**, which recreates the missing functionality. When the browser doesn't include it natively, you can **pollyfill** it by recreating the functionality in vanilla JS. 
+
+You can also add your own methods. Again don't do this, but it's possible. 
+
+Let's add this to our code right before our `Pizza` function constructor. 
+
+```
+String.prototype.sarcastic = function(){
+  console.log(this);
+}
+```
+
+Now if we refresh the page and open the console, let's try using that function. 
+
+![](@attachment/Clipboard_2020-05-06-07-08-30.png) 15:16
+
+As you can see, it logged `this` which is a string of "wes". 
+
+What we can do is build out our sarcastic method similar to how we did in a previous example. 
+
+```
+String.prototype.sarcastic = function() {
+  const sarcsatic = this.split('').map((char, i) => {
+    if(i%2){
+      return char.toUpperCase();
+    }
+    else {
+      return char.toLowerCase();
+    }
+  }).join('');
+  return sarcastic;
+}
+```
+
+stopped at 15:50
 
 
 

@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-07T11:33:25.650Z'
+modified: '2020-05-07T23:18:24.521Z'
 ---
 
 # Video Course Outline
@@ -95,7 +95,7 @@ Module 11: Prototypes, `this`, `new` and Inheritance
 62. ~~Prototype Refactor of the Gallery Exercise~~ (17:44)
 63. ~~Prototypes and Prototypal Inheritance~~ (19:30)
 64. ~~Prototype Refactor of the Slider Exercise~~ (12:23)
-65. bind, call and apply (19:45)
+65. ~~bind, call and apply~~ (19:45)
 
 Module 12: Advanced Flow Control 
 66. The Event Loop and Callback Hell (17:44)

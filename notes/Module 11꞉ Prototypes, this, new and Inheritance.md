@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png]
+attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-05-06T23:52:39.173Z'
+modified: '2020-05-07T11:59:13.643Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -962,56 +962,574 @@ Now if you run `canadianPizza.eat()` a few times in the console and then call de
 
 ---
 
+## 64 - Prototype Refactor of the Slider Exercise
+
+This lesson is a bit easier because there is no removing of events so there is no binding that we need to deal with. 
+
+Let's open up the slider exercise directory and open up the `index.js`. Let's take a copy of and call it `index-prototype.js` and then go to the `index.html` and modify the script's source tag to point to `index-prototype.js` and then navigate into that directory in the terminal and run `npm start` within the actual terminal window (not the console). 
+
+Open the server up on your localhost and run the slider to make sure that it still works.
+
+We have the sliders that we grabbed at the bottom. We will log them, like we did in the previous lesson. 
+
+![](@attachment/Clipboard_2020-05-06-19-56-42.png) 1:05
+
+You should the following in the console 
+
+![](@attachment/Clipboard_2020-05-06-19-57-19.png) 1:18
+
+Now we will do the same thing we did last time -- add a new keyword infront of it. That will create a new instance of the slider for each instance that we have. 
+
+```
+const mySlider = new Slider(document.querySelector(".slider"));
+const dogSlider = new Slider(document.querySelector(".dog-slider"));
+
+console.log(mySlider, dogSlider);
+```
+
+![](@attachment/Clipboard_2020-05-07-06-33-43.png) 1:31
+
+As you can see we have our sliders now, and they each have the prototypes, and there is nothing in them yet. 
+
+Let's start refactoring from the top of the file now. 
+
+Here is what we are starting with:
+
+```
+function Slider(slider) {
+  if (!(slider instanceof Element)) {
+    throw new Error('No slider passed in');
+  }
+  // create some variables for working iwth the slider
+  let prev;
+  let current;
+  let next;
+  // select the elements needed for the slider
+  const slides = slider.querySelector('.slides');
+  const prevButton = slider.querySelector('.goToPrev');
+  const nextButton = slider.querySelector('.goToNext');
+
+  function startSlider() {
+    current = slider.querySelector('.current') || slides.firstElementChild;
+    prev = current.previousElementSibling || slides.lastElementChild;
+    next = current.nextElementSibling || slides.firstElementChild;
+    console.log({ current, prev, next });
+  }
+
+  function applyClasses() {
+    current.classList.add('current');
+    prev.classList.add('prev');
+    next.classList.add('next');
+  }
+
+  function move(direction) {
+    // first strip all the classes off the current slides
+    const classesToRemove = ['prev', 'current', 'next'];
+    prev.classList.remove(...classesToRemove);
+    current.classList.remove(...classesToRemove);
+    next.classList.remove(...classesToRemove);
+    if (direction === 'back') {
+      // make an new array of the new values, and destructure them over and into the prev, current and next variables
+      [prev, current, next] = [
+        // get the prev slide, if there is none, get the last slide from the entire slider for wrapping
+        prev.previousElementSibling || slides.lastElementChild,
+        prev,
+        current,
+      ];
+    } else {
+      [prev, current, next] = [
+        current,
+        next,
+        // get the next slide, or if it's at the end, loop around and grab the first slide
+        next.nextElementSibling || slides.firstElementChild,
+      ];
+    }
+
+    applyClasses();
+  }
+
+  // when this slider is created, run the start slider function
+  startSlider();
+  applyClasses();
+
+  // Event listeners
+  prevButton.addEventListener('click', () => move('back'));
+  nextButton.addEventListener('click', move);
+}
+
+const mySlider = Slider(document.querySelector('.slider'));
+const dogSlider = Slider(document.querySelector('.dog-slider'));function Slider(slider) {
+  if (!(slider instanceof Element)) {
+    throw new Error('No slider passed in');
+  }
+  // create some variables for working iwth the slider
+  let prev;
+  let current;
+  let next;
+  // select the elements needed for the slider
+  const slides = slider.querySelector('.slides');
+  const prevButton = slider.querySelector('.goToPrev');
+  const nextButton = slider.querySelector('.goToNext');
+
+  function startSlider() {
+    current = slider.querySelector('.current') || slides.firstElementChild;
+    prev = current.previousElementSibling || slides.lastElementChild;
+    next = current.nextElementSibling || slides.firstElementChild;
+    console.log({ current, prev, next });
+  }
+
+  function applyClasses() {
+    current.classList.add('current');
+    prev.classList.add('prev');
+    next.classList.add('next');
+  }
+
+  function move(direction) {
+    // first strip all the classes off the current slides
+    const classesToRemove = ['prev', 'current', 'next'];
+    prev.classList.remove(...classesToRemove);
+    current.classList.remove(...classesToRemove);
+    next.classList.remove(...classesToRemove);
+    if (direction === 'back') {
+      // make an new array of the new values, and destructure them over and into the prev, current and next variables
+      [prev, current, next] = [
+        // get the prev slide, if there is none, get the last slide from the entire slider for wrapping
+        prev.previousElementSibling || slides.lastElementChild,
+        prev,
+        current,
+      ];
+    } else {
+      [prev, current, next] = [
+        current,
+        next,
+        // get the next slide, or if it's at the end, loop around and grab the first slide
+        next.nextElementSibling || slides.firstElementChild,
+      ];
+    }
+
+    applyClasses();
+  }
+
+  // when this slider is created, run the start slider function
+  startSlider();
+  applyClasses();
+
+  // Event listeners
+  prevButton.addEventListener('click', () => move('back'));
+  nextButton.addEventListener('click', move);
+}
+
+const mySlider = Slider(document.querySelector('.slider'));
+const dogSlider = Slider(document.querySelector('.dog-slider'));
+```
+
+The condition that checks whether the parameter is an element or not is fine, we do not have to refactor that. 
+
+The let variable declarations that come next need to be renamed to be `this.` the variable name. 
+
+```
+let prev;
+let current;
+let next;
+```
+
+Rename the variable and everywhere in the code that it is used. 
+
+```
+this.prev;
+this.current;
+this.next;
+```
+
+Now that we have done that, we actually do not need those declarations because there is no sense in making those variables when they are properties because properties can be added at any time. We were only declaring those variables so we had a closure where those variables were available. 
+
+You can go ahead and delete those three variable declarations (but keep the references to them that you renamed elsewhere!)
+
+```
+// select the elements needed for the slider
+const slides = slider.querySelector(".slides");
+const prevButton = slider.querySelector(".goToPrev");
+const nextButton = slider.querySelector(".goToNext");
+```
+
+The next three declarations you see above also need to be `this.`. Let's go ahead and rename those and everywhere they are being referenced. The prevButton however is only accessible inside of the constuctor when we add the event listener. They are not needed anywhere inside of the prototype method, so it's not necessary to put it on `this`. So `prevButton` and `nextButton` can stay variables but we will just rename `slides` like so:
 
 
+```
+// select the elements needed for the slider
+this.slides = slider.querySelector(".slides");
+const prevButton = slider.querySelector(".goToPrev");
+const nextButton = slider.querySelector(".goToNext");
+```
+
+Now we will move all of the methods out of the `Slider()` constructor. Grab everything from the `startSlider` function all the way to where we have our event listeners and the call to startSlider and applyClasses. 
+
+Your file should look like the following now: 
+
+```
+function Slider(slider) {
+  if (!(slider instanceof Element)) {
+    throw new Error("No slider passed in");
+  }
+  // create some variables for working iwth the slider
+  let prev;
+  let current;
+  let next;
+  // select the elements needed for the slider
+  const slides = slider.querySelector(".slides");
+  const prevButton = slider.querySelector(".goToPrev");
+  const nextButton = slider.querySelector(".goToNext");
+
+  // when this slider is created, run the start slider function
+  startSlider();
+  applyClasses();
+
+  // Event listeners
+  prevButton.addEventListener("click", () => move("back"));
+  nextButton.addEventListener("click", move);
+}
+
+function startSlider() {
+  current = slider.querySelector(".current") || slides.firstElementChild;
+  prev = current.previousElementSibling || slides.lastElementChild;
+  next = current.nextElementSibling || slides.firstElementChild;
+  console.log({ current, prev, next });
+}
+
+function applyClasses() {
+  current.classList.add("current");
+  prev.classList.add("prev");
+  next.classList.add("next");
+}
+
+function move(direction) {
+  // first strip all the classes off the current slides
+  const classesToRemove = ["prev", "current", "next"];
+  prev.classList.remove(...classesToRemove);
+  current.classList.remove(...classesToRemove);
+  next.classList.remove(...classesToRemove);
+  if (direction === "back") {
+    // make an new array of the new values, and destructure them over and into the prev, current and next variables
+    [prev, current, next] = [
+      // get the prev slide, if there is none, get the last slide from the entire slider for wrapping
+      prev.previousElementSibling || slides.lastElementChild,
+      prev,
+      current,
+    ];
+  } else {
+    [prev, current, next] = [
+      current,
+      next,
+      // get the next slide, or if it's at the end, loop around and grab the first slide
+      next.nextElementSibling || slides.firstElementChild,
+    ];
+  }
+
+  applyClasses();
+}
+
+const mySlider = new Slider(document.querySelector(".slider"));
+const dogSlider = new Slider(document.querySelector(".dog-slider"));
+console.log(mySlider, dogSlider);
+```
+
+Now we need to grab every function that we just moved out of the constructor and refactor it to live on the prototype. 
+
+```
+
+function Slider(slider) {
+  if (!(slider instanceof Element)) {
+    throw new Error("No slider passed in");
+  }
+  // create some variables for working iwth the slider
+  this.prev;
+  this.current;
+  this.next;
+  // select the elements needed for the slider
+  this.slides = slider.querySelector(".slides");
+  const prevButton = slider.querySelector(".goToPrev");
+  const nextButton = slider.querySelector(".goToNext");
+
+  // when this slider is created, run the start slider function
+  this.startSlider();
+  this.applyClasses();
+
+  // Event listeners
+  prevButton.addEventListener("click", () => this.move("back"));
+  nextButton.addEventListener("click", this.move);
+}
+
+Slider.prototype.startSlider = function() {
+  this.current =
+    this.slider.querySelector(".current") || this.slides.firstElementChild;
+  this.prev =
+    this.current.previousElementSibling || this.slides.lastElementChild;
+  this.next = this.current.nextElementSibling || this.slides.firstElementChild;
+};
+
+Slider.prototype.applyClasses = function() {
+  this.current.classList.add("current");
+  this.prev.classList.add("prev");
+  this.next.classList.add("next");
+};
+
+Slider.prototype.move = function(direction) {
+  // first strip all the classes off the current slides
+  const classesToRemove = ["prev", "current", "next"];
+  this.prev.classList.remove(...classesToRemove);
+  this.current.classList.remove(...classesToRemove);
+  this.next.classList.remove(...classesToRemove);
+  if (direction === "back") {
+    // make an new array of the new values, and destructure them over and into the prev, current and next variables
+    [this.prev, this.current, this.next] = [
+      // get the prev slide, if there is none, get the last slide from the entire slider for wrapping
+      this.prev.previousElementSibling || this.slides.lastElementChild,
+      this.prev,
+      this.current,
+    ];
+  } else {
+    [this.prev, this.current, this.next] = [
+      this.current,
+      this.next,
+      // get the next slide, or if it's at the end, loop around and grab the first slide
+      this.next.nextElementSibling || this.slides.firstElementChild,
+    ];
+  }
+
+  this.applyClasses();
+};
 
 
+```
+
+Now let's go ahead and fix the errors showing up in the text editor. 
+
+The call to `startSlider` and `applyClasses` need to be chagned to `this.startSlider()` and `this.applyClasses()`. Same thing for the calls to the `move` function, they need to be `this.move`. 
 
 
+```
+// when this slider is created, run the start slider function
+this.startSlider();
+this.applyClasses();
+
+// Event listeners
+prevButton.addEventListener("click", () => this.move("back"));
+nextButton.addEventListener("click", this.move);
+```
+
+Within `move` functino we need to change it to call `this.applyClasses()`.
+
+Now let's go to our browser to refresh and see what errors we are getting. 
 
 
+![](@attachment/Clipboard_2020-05-07-07-02-13.png) 4:41
+
+The first one we see is `Cannot read property 'querySelector' of undefined`. The stack trace tells us it happened on line 63, however that is not helpful because that is the end of our file. Further down the stacktrace it mentions line 41 so let's check that, however that line is just a comment! So let's click on the error to see where it takes us. 
+
+![](@attachment/Clipboard_2020-05-07-07-04-00.png) 5:14
+
+Unfortunately that is not very helpful either. Sometimes you get these errors and it's hard to find where the error is even when the browser tries to give you a stack trace.
+
+Let's just try to debug this ourselves. Let's look at everywhere that we are using querySelector.
+
+![](@attachment/Clipboard_2020-05-07-07-05-10.png) 5:40
+
+Those first three should be fine since we are passing in the slider. Where else are we using querySelector? Within our `startSlider` function and where we intialize the slider instances. 
 
 
+![](@attachment/Clipboard_2020-05-07-07-06-31.png) 6:01
 
+Wes thinks it might be the latter, which he will test by logging the slider parameter within the `Slider()`. We can tell it's not an issue with that because we can see the slider being logged to the console. 
 
+It seems like the issue must be in our `startSlider` function when we try to access `this.slider`. 
 
+![](@attachment/Clipboard_2020-05-07-07-08-25.png) 6:22
 
+Let's throw a debugger in the first line of the `startSlider` function. 
 
+Now when you refresh the page, the debugger should pause the execution of the code. If we look at the debug dev tools, we can see that at this point in time, the Slider is missing properties it needs, such as `this.slider`. 
 
+Whenever the `startSlider()` function is running, `this.slider` does not yet exist. 
 
+The reason for this is we never saved a reference to the slider that was passed in, so let's go ahead and do that. 
 
+```
+// select the elements needed for the slider
+this.slides = slider.querySelector(".slides");
+this.slider = slider;
+```
 
+Now if you refresh thae page you should no longer see that problem in the console. 
 
+>index-prototype.js:41 Uncaught TypeError: Cannot read property 'classList' of undefined
+>    at HTMLButtonElement.Slider.move (index-prototype.js:38)
 
+On line 38 we are calling `this.prev.classList.remove(...classesToRemove);`. It is trying to tell us that `this.prev` is not defined. 
 
+If we log what `this` is within our `move` function, we will see that it's the next button which is not working. The previous button actually works.
 
+So let's go to where we have listened to our move. 
 
+![](@attachment/Clipboard_2020-05-07-07-18-33.png) 8:22
 
+The reason next is broken but previous is ot is that in next, we just pass a reference to that function, and it's being rebound. In the `prevButton` case, we are passing it an anonymous arrow function. 
 
+We can solve this issue one of two ways. 
 
+We can bind it with `this` and that will work. 
 
+```
+nextButton.addEventListener('click', this.move.bind(this));
+```
 
+The reason we are allowed to do that here is because we aren't removing the event listener so we dont need access to the new `this` that was bound. 
 
+The other thing we can do is refactor it to an arrow function like so:
 
+```
+nextButton.addEventListener('click', () => this.move());
+```
 
+You can also do it as shown below.
 
+```
+// Event listeners
+this.move = this.move.bind(this);
+prevButton.addEventListener('click', () => this.move('back'));
+nextButton.addEventListener('click', () => this.move());
+```
 
+We will stick to the arrow function in this case. The arrow function will have bound and not the `this.move` which is what we want, because `this.move` needs access to the instance in order to reference the previous, next and current dom elements.
 
+The slider should be working well now if you refresh the page!
 
+Now that we are done, let's just go over a few things. 
 
+![](@attachment/Clipboard_2020-05-07-07-26-48.png) 10:09
 
+Why did we not rename the buttons to live on `this` like `this.prevButton = slider.querySelector('.goToPrev');`?
 
+It is because we do not need them anywhere outside of the constructor. If that is the case, keep them as regular variables and reference them when you need them inside of the function. 
 
+One cool thing about this is if you take our `dogSlider`, we cannot access it in the console using Parcel. If we want to access it, we have to say something like 
+`window.dogSlider = dogSlider` and then we have access to `dogSlider` in the console. 
 
+The cool thing about that is now you can call the functions yourself like the move in the terminal to control the slider. 
 
+![](@attachment/Clipboard_2020-05-07-07-29-04.png) 10:55
 
+What we could do is at the bottom of the page add an event listener on the window's keyup event like below: 
 
+![](@attachment/Clipboard_2020-05-07-07-30-06.png) 11:43
 
+Now if you use your arrow keys you will see that it works. That is what is great about this, you can build something like this slider and then surface the functionality via methods and then let other people hook into your slider functionality and extend it with their own. 
 
+---
+## 65 -  bind, call and apply
 
+This lesson will focus on the `bind`, `call` and `apply` functions, where are all used to change the scope of what `this` is equal to inside of a function or a method. 
 
+Wes does not use these very often, but they are common interview questions so we will go over them so you have an understanding of how it works. 
 
+Go into our `playground/` directory and add a file called `bind-call-apply.html`. We will get our HTML base going and then add a script tag within the body tag. 
 
+We will start with a simple example of an object that has a method on it. We will create a person object on it with property of `name` and `sayHi`. The name can be your name, and `sayHi` will equal a function that logs Hey! with the person's name. 
+
+```
+const person = {
+  name: 'Wes Bos',
+  sayHi: function(){
+    return 'hey ${this.name}';
+  }
+};
+```
+
+Let's change it shorthand, which is the exact same thing as above just shorter syntax for the `sayHi` property. 
+
+```
+const person = {
+  name: 'Wes Bos',
+  sayHi(){
+    return 'hey ${this.name}';
+  }
+};
+``` 
+
+Let's open that in the browser and take a look at that in our console. 
+
+![](@attachment/Clipboard_2020-05-07-07-46-18.png) 2:12
+
+As you can see, it says "hey wes bos". Why is that? That is because `sayHi` is a method, and when a method is called, the way they get the `this` value is they look to the left of the dot to see what they are bound against.
+
+The `sayHi` method will give us the object it was run against. This is no different than if we were to have  class or prototype. The `this` is going to be equal to whatever was to the left of the dot. 
+
+Now if we were to take the `sayHi` method and put it in it's own variable, like so:
+
+```
+const sayHi = person1.sayHi;
+```
+
+When you run that, we will just see "hey " with no name.
+
+![](@attachment/Clipboard_2020-05-07-07-48-45.png) 3:13
+
+You can see if we call the `sayHi()` on the person object, we get the hey message returned with a name. But when we just call `sayHi()`, `this` is equal to the window because there is nothing that the method was bound to on the left hand side.
+
+That is important. In Javascript, the `this` keyword is always defined by where the function is being called, and not where the function is being defined. 
+
+So although we defined the `sayHi` function inside of an object, it's not bound to it unless we call it as a method of an object. 
+
+We can use the `bind` keyword to change where the `this` keyword is equal to or what is it bound to.
+
+Let's try that by binding the `sayHi` method back to the original person. 
+
+```
+const sayHi = person1.sayHi.bind(person);
+```
+
+This code tells Javascript to call a function `sayHi` and when it's called, it's `this` keyword is equal to whatever we pass to the `bind()` method. 
+
+Now when you refresh the page, if you were to run `sayHi()`, you will see that it now says "hey wes bos" instead of just "hey".
+
+That is because we have changed what `this` will be equal to by binding it to another object.
+
+Why would that be useful? Somtimes you want to use a method of an object with some other information. Let's say we have a Jenna object that we crete like so:
+
+```
+const jenna = { name: 'Jenna'};
+```
+
+How would we use the `sayHi` method for this other object when `name` isn't being passed in as an argument?
+
+![](@attachment/Clipboard_2020-05-07-07-55-14.png) 5:25
+
+That is the difference between object oriented programming and functional programming. 
+
+![](@attachment/Clipboard_2020-05-07-07-55-59.png) 5:35
+
+Our `sayHi` method is object oriented. If it were to take an argument, that would be much more of a functional approach.
+
+So if we are in this use case, what we can do is we can bind it to Jenna object like so:
+
+```
+const sayHi = person.sayHi.bind(jenna);
+```
+
+![](@attachment/Clipboard_2020-05-07-07-57-22.png) 5:57
+
+`bind` is a method that lives on all functions and it says change the `this` keyword to be equal to, in this example, a different object.
+
+You cuold also manually pass in a name like so:
+
+```
+const sayHi = person.sayHi.bind({name:'Harry'});
+```
+
+If you refresh the page and call `sayHi()` you will see "hey Harry" returned. 
+
+Let's look at another example. 
+
+stopped at 13:10
 
 
 

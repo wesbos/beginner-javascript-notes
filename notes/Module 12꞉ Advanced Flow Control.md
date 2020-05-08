@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-07T23:49:33.928Z'
+modified: '2020-05-08T00:38:34.913Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -42,11 +42,20 @@ console.log('ending');
 
 Now if you refresh the page, what will you see? 
 
+You might expet to see starting, running, ending, but instead we get Starting, ending, and then running. 
 
-stopped at 1:20
+![](@attachment/Clipboard_2020-05-07-20-30-57.png) 1:20
 
+Why is that not in the order that we coded it in? Shouldn't the timeout cause the code to pause for two seconds, log running and then log ending?
 
+It doesn't work that way. 
 
+The way that Javascript works is it will parse the first line and log Starting. 
+- 
+
+Next, it will pause the next few lines which is the `setTimeout()` function. 
+
+stopped 2 min in
 
 
 

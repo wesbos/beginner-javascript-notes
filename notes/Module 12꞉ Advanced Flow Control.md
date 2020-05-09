@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-08T11:38:05.457Z'
+modified: '2020-05-09T00:30:46.947Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -201,25 +201,202 @@ What we will do is make a div within the body tag and give it a class of go.
 <div class="go">Click Me</div>
 ```
 
-Comment out all the other code we have in the script tag and let's start with selecting the div and changing the text to go when clicked. 
+Comment out all the other code we have in the script tag and let's start with selecting the div and changing the text to go when clicked.
+
+
+When the div is clicked, we will grab the event and save the div element in a variable `el`. The reason we are saving that in a variable will  make sense in just a second.
 
 ```
 go.addEventListener('click', function(e){
   const el = e.currentTarget;
+  console.log(el);
 })
+```
+
+![](@attachment/Clipboard_2020-05-08-20-01-54.png) 12:02
+
+As you can see, we have the div.  
+
+Let's add some default styling there. Add style tag on the page with some styling. 
+
+```
+.go { 
+  margin: $rem;
+  background: white;
+  background: 5rem; 
+  width: 25rem;
+}
+```
+
+Now when you refresh the page, your button should look like this: 
+
+![](@attachment/Clipboard_2020-05-08-20-05-09.png) 12:43
+
+Now we have to make it a cirlce after two seconds. We ccan do that by adding a `setTimeout`. 
+
+```
+go.addEventListener('click', function(e){
+const el = e.currentTarget;
+console.log(el);
+setTimetout(function(){
+  el.classList.add('circle');
+}, 2000);
+});
+```
+
+Now back in our style tag, let's add a border radius of 50% for the class circle. 
+
+```
+.go.circle {
+  border-radius:50%;
+}
+```
+
+![](@attachment/Clipboard_2020-05-08-20-09-15.png)
+
+If you refresh the page you will see that the div style changes to a cirlce after 2 seconds. We forgot to change the text when clicked for step one so right before the `setTimeout` add 👇
+
+```
+el.textContent = 'GO!';
+```
+
+Let's put a height on the go css style class as well so that it is square. 
+
+![](@attachment/Clipboard_2020-05-08-20-11-45.png) 13:38
+
+We can add a transition on there too.
+
+
+```
+.go { 
+  margin: $rem;
+  background: white;
+  background: 5rem; 
+  width: 25rem;
+  height:25rem;
+  transition: all 0.2s; 
+}
+```
+
+After 0.5 seconds we need to make it ren. Let's add anotehr `setTimeout` to do that.
+
+
+```
+go.addEventListener('click', function(e){
+const el = e.currentTarget;
+console.log(el);
+  setTimetout(function(){
+      el.classList.add('circle');
+      setTimeout(function(){
+        el.classList.add('red');
+      }, 500);
+    }, 2000);
+});
+```
+
+Let's add the follow css styles to the css class "red" and to purple. 
+
+```
+.go.red {
+  background:red;
+}
+
+.go.purple {
+  background: purple;
+  color: white;
+}
+```
+
+![](@attachment/Clipboard_2020-05-08-20-16-18.png) 14:31
+
+Now after 0.25 seconds we need to make it a square. 
+
+
+```js
+go.addEventListener("click", function(e) {
+      const el = e.currentTarget;
+      console.log(el);
+      //1. make it a circle after 2 seconds
+      setTimeout(function() {
+        el.classList.add("circle");
+        //2. make it red after 0.5s
+        setTimeout(function() {
+          el.classList.add("red");
+          //3. make it square after 0.3
+          setTimeout(function() {
+            el.classList.remove("circle");
+          }, 300);
+        }, 500);
+      }, 2000);
+    });
+```
+
+Now we need to make it purple after 0.3 seconds.
+
+Add these  styles 👇
+
+```css
+.go.purple {
+  background: purple;
+  color: white;
+}
+```
+
+```js
+go.addEventListener("click", function(e) {
+      const el = e.currentTarget;
+      console.log(el);
+      //1. make it a circle after 2 seconds
+      setTimeout(function() {
+        el.classList.add("circle");
+        //2. make it red after 0.5s
+        setTimeout(function() {
+          el.classList.add("red");
+          //3. make it square after 0.3
+          setTimeout(function() {
+            el.classList.remove("circle");
+            //4. make it purple after 0.3s
+            setTimeout(function() {
+              el.classList.remove("red");
+              el.classList.remove("purple");
+              //5. fade out after 0.5 seconds
+              setTimeout(function(){
+                el.classList.add('fadeOut');
+              })
+            }, 300);
+          }, 300);
+        }, 500);
+      }, 2000);
+    });
 
 ```
 
-stopped at 11:40
+Add this style
+
+```css
+.go.fadeOut {
+  opacity: 0;
+}
+```
 
 
+![](@attachment/loop-animation.gif) 16:44
 
+That was a really simple animation and look at all this, this is what is referred to as callback hell.
 
+Callback hell is if you must do things one after the other, you must nest things inside of each other because they all depende on the previous callback to being called before it can then go ahead and run. 
 
+It is also redered to as "Christmas Tree" code because of how indented the code is sideways.
 
+It's not all that great. 
 
+The solution to call-back hell is the "promise" land. 
 
+Promises are a sort of IOU for something that will happen in the future. They allow us to write code that is much easier to look at. 
 
+We will be looking at that in the next video. 
+
+---
 
 
 

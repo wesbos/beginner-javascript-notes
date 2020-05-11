@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-07T23:18:24.521Z'
+modified: '2020-05-09T00:31:20.242Z'
 ---
 
 # Video Course Outline
@@ -98,7 +98,7 @@ Module 11: Prototypes, `this`, `new` and Inheritance
 65. ~~bind, call and apply~~ (19:45)
 
 Module 12: Advanced Flow Control 
-66. The Event Loop and Callback Hell (17:44)
+66. ~~The Event Loop and Callback Hell~~ (17:44)
 67. Promises (21:24)
 68. Promises - Error Handling (07:31)
 69. Refactoring Callback Hell to Promise Land (08:59)

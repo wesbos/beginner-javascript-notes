@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-09T01:18:43.054Z'
+modified: '2020-05-11T11:30:59.511Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -405,6 +405,168 @@ The solution to callback hell is to use a promise, and although we haven't cover
 Promises are an IO for something that will happen in the future. 
 
 If you think of our timer, data being returned from an API or someone giving access to a webcam, when we request or start those things, what we often get in return is not the immediate data back, because those things take time. Instead of getting the immediate data returned, we get a promise. 
+
+You can think of a Promise as a litlte ticket you have in your hand that says "I might get a timer, or some data at some point" and eventually at some point we will get some data back (it can also fail which is called rejecting). 
+
+Or, if you are asking for a user's webcam, like we did in our Face Detection exercises, we were asking for a user's webcam using the code below.
+
+```
+const stream = await navigator.mediaDevices.getUserMedia({
+  video: { width: 1280, height:720 },
+});
+video.srcObject = stream;
+await video.play();
+```
+
+We had to wait for the user to give us access to their webcam before playing the video. That happens all the time in Javascript, and that is what a promise is.
+
+In our `playground` directory, let's make a `promises.html` file. Let's give ourselves the base HTML and then lets add a script tag.
+
+```
+<script>
+function makePizza(){
+
+}
+
+</script>
+```
+
+Inside of this script tag, we are going to make a pizza promise. You can't make a pizza instantly. You gotta put the toppings on, the pepperoni on, that takes time. 
+
+If you were to order a pizza by phoning them or doing it online, they will immediately give you some sort of order number. That order number is not the pizza -- you cannot eat it, but you know that the order number or that receipt is a promise that they will give it to you when its finished. 
+
+So what we need to do is to make a promise and then return it from our function immediately.
+
+```
+function makePizza(){
+  const pizzaPromise  = new Promise();
+  return pizzaPromise;
+}
+```
+
+Promises are made immediately, but they do not resolve immediately (they resolve once the timer is finished or the data comes back). 
+
+That idea of returning happening immediately and resolving happening when it's done is really important. 
+
+A promise takes a callback function, and that calback function is going to give us two arguments. We get the `resolve` function and the `reject` function (first will always be resolve, second will always be reject). 
+
+Now what you can do is when you are ready, you can resolve the promise or if something went wrong you can reject it. 
+
+```
+function makePizza(){
+  const pizzaPromise = new Promise(function(resolve. reject){
+    resolve('');
+  });
+  return pizzaPromise;
+}
+const pizza = makePizza();
+console.log(pizza);
+```
+
+Now if we refresh the page, what do you think we will get in the console? Will we get the pizza or something else, like a promise.
+
+![](@attachment/Clipboard_2020-05-11-07-07-09.png) 4:39
+
+If you refresh the page, you should see the promise. What is important to note is that our `makePizza` function doesn't give us the pizza, it givs us the promise of pizza, that at some point in the future, we will either resolve a slice of pizza or reject it if something went wrong.
+
+Let's make the function a bit more robust.
+
+We will take in some toppings and will resolve using back ticks. Modify the code like so to make a `pepperoniPomise` and a `canadianPromise` like so:
+
+```
+function makePizza(toppings){
+  const pizzaPromise = new Promise(function(resolve. reject){
+    resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+  });
+  return pizzaPromise;
+}
+const pepperoniPromise = makePizza('[pepperoni]');
+const canadianPromise = makePizza(['pepperoni', 'mushroom', 'onions'])
+
+console.log(pepperoniPromise, canadianPromise);
+```
+
+![](@attachment/Clipboard_2020-05-11-07-11-39.png) 6:09
+
+As you can see, we get our two promises. But how do we get the actual pizza itself? This is a bit confusing because the devtools will show you the value when it is resolved, but in Javascript if you actually want to access the value of the pizza, you cannot say `pepperoniPromise.value` or anything. 
+
+The way that we can access it by using the `then()` method, which takes in a callback method. The callback method will pass you the pizza, which we will then log. 
+
+```
+pepperoniPromise.then(function(pizza){
+  console.log("Ahh I got it!");
+  console.log(pizza);
+});
+```
+
+Now when you refresh the page you should see the following..
+
+![](@attachment/Clipboard_2020-05-11-07-14-47.png) 7:00
+
+At this stage, you might be wondering "why are you doing it like this Wes? this seems like a much harder way to just return data".
+
+The reason for that is we haven't introduced any time delays in our example so let's go ahead and do that. We will add a 1 second wait for the pizza to cook using `setTimeout` and then call `resolve` from within that timeout. 
+
+```js
+function makePizza(toppings){
+  const pizzaPromise = new Promise(function(resolve, reject){
+    //wait 1 second for the pizza to cook
+    setTimeout(function(){
+      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+    }, 1000)
+    //if something went wrong, we can reject this promise
+  });
+  return pizzaPromise;
+}
+
+const pepperoniPromise = makePizza(['pepperoni']);
+pepperoniPromise.then(function(pizza){
+  console.log("Ahh I got it!");
+  console.log(pizza);
+});
+```
+
+If you refresh the page, you will see in the console that we get our promise immediately and then a second after actually have access to our pizza. 
+
+![](@attachment/Clipboard_2020-05-11-07-19-32.png) 7:59 
+
+That is a great example of how we sometimes have to wait.
+
+Often what you will see is instead of making a promise and then returning it, people will often just return the promise immediately. 
+
+![](@attachment/Clipboard_2020-05-11-07-20-48.png) 8:27
+
+The logic to how a Promise gets resolved is always inside of the Promise body.
+
+![](@attachment/Clipboard_2020-05-11-07-21-16.png) 8:36
+
+That function will resolve or reject whenever it feels ready. In our case, we feel like the pizza is ready after one second.
+
+So what is happening here is when we declare our `pepperoniPromise` we can call `makePizza(['pepperoni'])`, which returns a promise of pizza. In order to get the pizza, the way we can access the resolved value is by chaining a `.then` onto it. 
+
+```
+console.log('Starting');
+pepperoniPromise.then(function(pizza){
+  console.log('Ahhh got it!');
+  console.log(pizza);
+});
+console.log('finishing');
+```
+
+When you fresh the page you will see that we get "Starting" then "finishing" then the I got it message. 
+
+![](@attachment/Clipboard_2020-05-11-07-27-24.png) 9:21
+
+We will look at how we can use `async await` to actually do that sequentially if we would like to, but for now we know we can chain a `.then()` onto it.
+
+Why is that any more useful than a regular callback? That is useful becaue let's say we wanted to make multiple pizzas one after the other, and let's say we have an oven that can only cook one at at time. 
+
+Delete our `canadianPizza` and `pepperoniPizza` declaration code and everything below it in the script tag and just leave this: `makePizza(['pepperoni'])`. 
+
+We can chain a `.then()` immediately onto it (because `makePizza` returns a promise), which gives a function that has a pizza.
+
+stopped at 10 min
+
 ---
 
 ## 68 - Promises - Error Handling

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-11T11:30:59.511Z'
+modified: '2020-05-12T10:55:10.343Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -563,9 +563,79 @@ Why is that any more useful than a regular callback? That is useful becaue let's
 
 Delete our `canadianPizza` and `pepperoniPizza` declaration code and everything below it in the script tag and just leave this: `makePizza(['pepperoni'])`. 
 
-We can chain a `.then()` immediately onto it (because `makePizza` returns a promise), which gives a function that has a pizza.
+We can chain a `.then()` immediately onto it (because `makePizza` returns a promise), which gives a function that has a pizza. Let's just log the pizza so that we know that it still works. 
 
-stopped at 10 min
+The neat thing is if from this `then()` we return another `makePizza`, you can then chain another `.then()` on that function. 
+
+
+```
+makePizza(['pepperoni', 'ham']).then(function(pizza){
+   console.log(pizza);
+   return makePizza(['ham', 'cheese']);
+}).then(function(pizza){
+  console.log(pizza);
+})
+```
+
+As you can see first we get one pizza and then after a second we see the other pizza logged to the console. 
+
+![](@attachment/Clipboard_2020-05-12-06-45-31.png) 11:03
+
+You can chain as many as you want. 
+
+Often people like to organize the code so that each `.then()` is on it's own line to make it more readable as you see below.
+
+
+```
+makePizza(['pepperoni', 'ham'])
+  .then(function(pizza){
+    console.log(pizza);
+    return makePizza(['ham', 'cheese']);
+  })
+  .then(function(pizza){
+    console.log(pizza);
+    return makePizza(['hot peppers','onion', 'feta']);
+  })
+  .then(function(pizza){
+    console.log(pizza);
+  })
+```
+
+Unlike what we were doing the lesson where we were adding and removing classes which were all nested in callback hell, this chaining of `then` is the promise land and it allows us to keep all of our logic one level deep.
+
+The downside to that is if you had a log of First and After all our promise chaining, both logs would execute before any of our pizzas are logged. 
+
+
+```js
+console.log('First');
+makePizza(['pepperoni', 'ham'])
+  .then(function(pizza){
+    console.log(pizza);
+    return makePizza(['ham', 'cheese']);
+  })
+  .then(function(pizza){
+    console.log(pizza);
+    return makePizza(['hot peppers','onion', 'feta']);
+  })
+  .then(function(pizza){
+    console.log(pizza);
+  })
+console.log('Right after');
+```
+
+![](@attachment/Clipboard_2020-05-12-06-50-19.png) 12:26
+
+We will look at how we can use async await to get around that. 
+
+If you look at the call stack, what we know is that it first runs function highlighted below, which immediately returns a proimse. 
+
+![](@attachment/Clipboard_2020-05-12-06-50-58.png) 12:34
+
+Then it runs the bottom log, before jumping back up to the first `then` we have when the promise is resolved, and then it keeps going down the promise chain. 
+
+Let's make our `makePizza` function a bit more resilient. 
+
+stopped at 12;52
 
 ---
 

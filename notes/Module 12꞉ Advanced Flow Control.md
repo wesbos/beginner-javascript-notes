@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-12T10:55:10.343Z'
+modified: '2020-05-13T22:55:35.590Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -633,9 +633,150 @@ If you look at the call stack, what we know is that it first runs function highl
 
 Then it runs the bottom log, before jumping back up to the first `then` we have when the promise is resolved, and then it keeps going down the promise chain. 
 
-Let's make our `makePizza` function a bit more resilient. 
+Let's make our `makePizza` function a bit more resilient, starting with `toppings`. Let's set an empty array as the default because sometimes people might order a pizza with nothing on it `function makePizza(toppings = [])`. 
 
-stopped at 12;52
+
+For every single topping that is added to the pizza, let's add 200 miliseconds to the initial bake time which is 500. Let's calculate that and save it in a variable like so `const amountOfTimeToBake = 500 + (toppings.length * 200);`. 
+
+Now we will take that variable and pass it to our timeout. 
+```
+function makePizza(toppings = []){
+  const pizzaPromise = new Promise(function(resolve, reject){
+    const amountOfTimeToBake = 500 + (toppings.length * 200);
+    //wait 1 second for the pizza to cook
+    setTimeout(function(){
+      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+    }, amountOfTimeToBake)
+    //if something went wrong, we can reject this promise
+  });
+  return pizzaPromise;
+}
+```
+
+![](@attachment/Clipboard_2020-05-13-18-25-48.png) 13:35
+
+When we refresh the page and the above code is executed, what should happen is ham and cheese should be logged to the console faster than the pizza with three toppings. 
+
+
+Let's chain two more pizzas together, one with no toppings, the other with a lot of toppings. THen let's resolve that last pizza and just log it using an arrow function like so 
+
+```
+console.log('First');
+makePizza(['pepperoni', 'ham'])
+  .then(function(pizza){
+    console.log(pizza);
+    return makePizza(['ham', 'cheese']);
+  })
+  .then(function(pizza){
+    console.log(pizza);
+    return makePizza(['hot peppers','onion', 'feta']);
+  })
+  .then(function(pizza){
+    console.log(pizza);
+    return makePizza();
+  })
+  .then(function (pizza) {
+        console.log(pizza);
+        return makePizza(['one', 'two', 'three', 'four', 'one', 'two', 'three', 'four', 'one', 'two', 'three', 'four']);
+      })
+  .then(pizza => {
+      console.log('All done! here is your last pizza');
+      console.log(pizza);
+    })
+console.log('Right after');
+```
+
+Let's say we have a big oven and we can make all the pizzas at once. You could them all at once concurrently, instead of one after another like we are doing (which is referred to as sequentially). 
+
+If you have 10 employees and an oven big enough to cook the mall at once you can do it like so 👇
+
+```
+  // Run them Concurrently
+    const pizzaPromise1 = makePizza(['hot peppers', 'onion', 'feta']);
+    const pizzaPromise2 = makePizza(['one', 'two', 'three', 'four', 'one', 'two', 'three', 'four', 'one', 'two', 'three', 'four']);
+    const pizzaPromise3 = makePizza(['ham', 'cheese']);
+```
+
+So how do we know when all of those promises are done? We could do .then() on each of them like so 👇
+
+![](@attachment/Clipboard_2020-05-13-18-36-33.png) 16:36
+
+But those are going to pop into the console in whatever order they are done, which isn't what we want. We can instead make it into a "mega promise" that we then wait upon. 
+
+If you have a few promises and all you care about is when all three of them are finished, you can make a mega promises, which we will call a `dinnerPromise`. 
+
+```
+    const dinnerPromise = Promise.all([pizzaPromise1, pizzaPromise2, pizzaPromise3]);
+```
+
+`Promise.all()` is a static method because it lives on the momma Promise directly. 
+
+It takes an array of "baby" promises which are `pizza1`, `pizza2`, `pizza3`. 
+
+That makes one big promise which then you can call `.then()` on and we get passed the `pizzas` which we will log. 
+
+```
+dinnerPromise.then(pizzas => {
+  console.log(pizzas);
+})
+```
+
+Now we wait for all three to be finished, and we get an array of all three of them. 
+
+![](@attachment/Clipboard_2020-05-13-18-42-40.png) 17:58
+
+If you wanted the first pizza it would be `pizza[0]`. 
+
+A pretty common thing to do is destructure the pizzas. Let's convert the arrow function to a regular function to make it clearer to understand. 
+
+We will use an array destructuring. Let's call the first pizza `hottie`, second one `garbagePail` and third one `hamAndCheese`. Those will now be equal to three variables which we can now log or use however we want like so 👇
+
+```
+innerPromise.then(function (pizzas) {
+  [hottie, garbagePail, hamAndCheese] = pizzas;
+  console.log(hottie, garbagePail, hamAndCheese);
+}); 
+```
+![](@attachment/Clipboard_2020-05-13-18-48-06.png) 18:58
+
+You do not have to destructure those variables in the body of the function, you can destructure the argument directly with square brackets.
+
+```
+dinnerPromise.then(function ([hottie, garbagePail, hamAndCheese]) {
+  console.log(hottie, garbagePail, hamAndCheese);
+});
+```
+
+That is saying take the first argument and destructure it into a variable named `hottie` , the second one into `garbagePail` and so on.
+
+If you refresh the page you will see it still works. 
+
+To reiterate, `Promise.all()` will take all of your promises and will only resolve when all three of the sub-promisess have been resolved themselves.
+
+Similarly there is `Promise.race()`. Let's say someone is really hungry and they will take whichever pizza the first pizza is that is ready because they are very hungry. 
+
+We could do this 👇
+
+```
+const firstPizzaPromise = Promise.race([pizzaPromise1, pizzaPromise2, pizzaPromise3]);
+```
+
+Now we can log it. 
+
+```
+firstPizzaPromise.then(pizza => {
+  console.log('You must be hungry, here is the first one ready');
+  console.log(pizza);
+})
+```
+
+TO reiterate, `Promise.race()` will wait for the first one to finish rendering. 
+
+![](@attachment/Clipboard_2020-05-13-18-53-52.png) 20:46
+
+There are also a couple of other ones which we will get into when we talk about error handling. 
+
+That is a high level overview of promises. 
 
 ---
 

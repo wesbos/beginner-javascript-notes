@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-13T22:55:35.590Z'
+modified: '2020-05-14T12:19:06.012Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -781,6 +781,148 @@ That is a high level overview of promises.
 ---
 
 ## 68 - Promises - Error Handling
+
+In this lesson we will talk about the opposite of resolving, which is rejecting. When a promise goes awry, and you want to bail on it, you can call the reject function. 
+
+Let's go back to our `makePizza` definition and inside of our promise we need to check whether one of the toppings chosen for the pizza is pineapple. If it is true, we need to reject the pizza from happening. 
+
+To do that we will add the following code. For now will only check for lowercase "pineapple" but we will have to try to weed out people who uppercase it as well later. If that condition is met, then we will call reject and pass it "seriously? get out". 
+
+```
+if(toppings.includes('pineapple')){
+  reject("Seriously? Get out 🍍");
+}
+```
+
+Now let's go to the bottom of the script section and let's commment out the code we added in the previous lesson when we were doing an example on how to run promises concurrently. 
+
+Below that commented out code add the following
+
+```
+makePizza(['cheese','pineapple']).then(pizza=>{
+  console.log(pizza);
+})
+```
+
+![](@attachment/Clipboard_2020-05-14-07-53-01.png) 1:55
+
+What does that log that we see mean? It means that there was an error in one of our promises, but we did not write any code in order to handle that error and try to catch it. 
+
+The way you catch an error in a promise is you chain a `.catch()` to it. Catch will pass you the error as a parameter which we will use to log the error like so: 
+
+```
+makePizza(['cheese','pineapple']).then(pizza=>{
+  console.log(pizza);
+}).catch(err=>{
+  console.log('Oh noooo!!');
+  console.log(err);
+})
+```
+
+As you see, we no longer get an error logged because we caught and logged the error ourselves.
+
+![](@attachment/Clipboard_2020-05-14-07-55-32.png) 2:24
+
+`.then()` will only run when the promise resolves successfully, and the catch will only run if the promise doesn't go successfully.
+
+Almost always with your promise built functions you must chain a `.then()` and a `.catch()` at the end so that if anything goes wrong, you are able to catch it and display it to the user.
+
+What Wes will usually do is make a function called `handleError` which will take in the error and log it like so:
+
+```
+function handleError(err){
+  console.log('Oh noooo!');
+  console.log(err);
+}
+```
+
+Now instead of catching the error using the code we had before we can simply replace it with this:
+
+```
+makePizza(['cheese','pineapple']).then(pizza=>{
+  console.log(pizza);
+}).catch(handleError);
+```
+
+In the code above we are passing the reference to the function which will then handle the error.
+
+It's important to note that not every single promise needs a catch on the end.  
+
+If we go back to our pizzas where we chained a bunch of promises together and modify the pizza with no toppings to instead pass the topping of "pineapple", 
+
+
+![](@attachment/Clipboard_2020-05-14-08-07-15.png) 3:59
+
+What happens there is we go through the chain of promises and then as soon as we hit the code where we try to make a pizza with a pineapple we get the uncaught i promise error. 
+
+![](@attachment/Clipboard_2020-05-14-08-08-07.png) 4:06
+
+So how do we catch the error? Does it mean we have to add a `catch` after each `then`? That would be annoying. 
+
+Thankfully, the answer is no. 
+
+You just need to put one catch at the very end that will be able to handle our error. 
+
+![](@attachment/Clipboard_2020-05-14-08-09-12.png) 4:31
+
+The thing about an error happening in a promise chain is that where the error happens, it will then bail out of executing the rest of the promise chain. 
+
+If you have 7 or 8 steps in the promise chain and they are all dependent on one another, then that is good because if step three in the breaks, you don't want to continue to step 4.
+
+But sometimes you want to continue even if one of the promises fails. If that is the case, then promise chaining is not what you want to use. Instead, you'd want to use some of the other Promise static methods like `Promise.all()` or `Promise.race()`.
+
+Let's do an example. We will start with two pizzas. 
+
+```
+const p1 = makePizza(['pep']);
+const p2 = makePizza(['pineapple']);
+```
+
+We will use a new API that we haven't learned yet called `Promise.allSettled()`.
+
+Let's start by making a mega promise.
+
+```
+const dinnerPromise2 = Promise.allSettled([p1, p2]);
+```
+
+Let's just get the results and log them for now. 
+
+```
+dinnerPromise2.then(results=> {
+  console.log(results)l
+})
+```
+
+![](@attachment/Clipboard_2020-05-14-08-13-58.png) 6:17
+
+As you can see in our results we can see that the first one was **fulfilled** and the second one was **rejected**. Fulfilled is another word they use for resolved.
+
+If we tried that example but with `Promise.all()` like so, you will see that the code will break. 
+
+```
+const dinnerPromise2 = Promise.all([p1, p2]);
+```
+
+![](@attachment/Clipboard_2020-05-14-08-15-32.png) 6:39
+
+That is because `Promise.all` assumes that all of them will go successfully. 
+
+If you want to catch any errors that happen in `Promise.all()` you would have to catch them like so:
+
+```
+const dinnerPromise2 = Promise.all([p1, p2]).catch(handleError);
+```
+
+![](@attachment/Clipboard_2020-05-14-08-17-26.png) 7:02
+
+That is probably not what you want because if one of them breaks, you might still want the other one, because those other pizzas are still good. 
+
+`Promise.allSettled()` will tell you when all the promises are done, regardless of whether they were rejected or resolved.
+
+There are a few more error handling techniques that we need to use but they do not get introduced until we learn **async await**. 
+
+Let's go back and refactor the last exercise we did to use promises instead of callback hell.
 
 ---
 

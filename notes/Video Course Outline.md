@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-09T00:31:20.242Z'
+modified: '2020-05-14T12:19:35.432Z'
 ---
 
 # Video Course Outline
@@ -99,8 +99,8 @@ Module 11: Prototypes, `this`, `new` and Inheritance
 
 Module 12: Advanced Flow Control 
 66. ~~The Event Loop and Callback Hell~~ (17:44)
-67. Promises (21:24)
-68. Promises - Error Handling (07:31)
+67. ~~Promises~~ (21:24)
+68. ~~Promises - Error Handling~~ (07:31)
 69. Refactoring Callback Hell to Promise Land (08:59)
 70. Async Await (14:23)
 71. Async Await Error Handling (14:02)

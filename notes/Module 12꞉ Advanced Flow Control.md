@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-14T12:19:06.012Z'
+modified: '2020-05-16T20:42:33.247Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -928,6 +928,183 @@ Let's go back and refactor the last exercise we did to use promises instead of c
 
 ## 69 - Refactoring Callback Hell to Promise Land
 
+In this lesson we will go back to the event loop example, where we added the classes of `circle`, `purple` and `fadeout`, and we will refactor it to use promises instead.
+
+![](@attachment/Clipboard_2020-05-16-16-02-08.png) 00:13
+
+We will be coming back to this example one more time and refactor it after we learn `async await`.
+
+Take out `event-loop.html` file, duplicate it and rename it as `promise-chain.html`.
+
+The first thing we want to do is make a function that will simply wait for a certain amount of time. This is something Wes does in almost every single project because it is such a common thing.
+
+Let's make a function called `wait` which will take in the number of miliseconds we want to wait using the parametetr `ms`, which we will default to 0 seconds, and then we will return a new promise which will resolve after the number of miliseconds that got sent in.
+
+Then we will just test our new method by waiting 2 seconds (2000 miliseconds) before logging "DONE".
+
+```
+function wait(ms = 0){
+  return new Promise(function(resolve){
+    setTimeout(resolve, ms);
+  });
+}
+
+wait(200).then(()=>{
+  console.log('Done');
+})
+```
+Now if you refresh the page, after 2 seconds you should see "done" logged to the console.
+
+![](@attachment/Clipboard_2020-05-16-16-13-20.png) 2:03
+
+That is such a common thing that Wes actually has an npm package called `Waait` which gets around 75k downloads per week and all it does is return a promise that resolves after a certain number of miliseconds that have been passed in. 
+
+We can use the implicit return and arrow function to refactor the `wait` function like so to be on one line:  
+
+```
+const wait = (ms = 0) => new Promise(resolve =>  setTimeout(resolve, ms));
+```
+
+Now that we have this `wait` function, we can start to tackle all the callback hell.
+
+Let's just rewrite it starting at the beginning by taking all our setTimeouts and instead making them promise based.
+
+The first thing we will do is make an external function called `animate` and when someone clicks the go button, we will run `animate`. 
+
+`animate` will take in the event and let's start moving logic up to it. 
+
+For the event listener we already had on `go`, we will replace `click` with `clickXXXXX` so it doen't actually trigger and we can refactor piece by piece.
+
+
+```
+function animate(e){
+
+}
+go.addEventListener('click', animate);
+
+go.addEventListener('clickxxxx', function go(e){
+
+})
+```
+
+The first thing we want to do is grab the element, then we want to change the text to "GO" when clicked, which is immediately so we can put it right into our animate function. 
+
+```
+function animate(e){
+  const el = e.currentTarget;
+  //1. change the text to GO when clicked
+  el.textContent = 'GO';
+}
+```
+
+Now we want to make it a circle after two seconds so we can use our `wait` function we made. We will chain a `.then()`, although there is no piece of data that is resolved from the wait, it simply is just done. 
+
+```
+function animate(e){
+  const el = e.currentTarget;
+  //1. change the text to GO when clicked
+  el.textContent = 'GO';
+  wait(200).then(()=>{
+     el.classList.add('cirlce');
+  })
+}
+```
+
+Now after 2 miliseconds, the GO square will turn into a circle. If you refresh the page, you will see it still works.
+
+![](@attachment/Clipboard_2020-05-16-16-26-37.png) 6:11
+
+Now how do we make it red after 0.5 seconds? We cannot just call it after the wait function because that will cause it to go red before it goes to circle.
+
+What we can do instead is we can return another wait of 500 miliseconds and then chain anonther  `.then()` onto it and put our third item in their, like so:
+
+
+```
+function animate(e){
+  const el = e.currentTarget;
+  //1. change the text to GO when clicked
+  el.textContent = 'GO';
+  //2. make it a circle after 2 seconds
+  wait(200).then(()=>{
+     el.classList.add('cirlce');
+     return wait(500);
+  }).then(()=>{
+    //3. make it ared after 0.5 seconds
+    el.classList.add('red');
+  })
+}
+```
+
+To make this more readable you can format them each on their own line like so:
+
+
+```
+function animate(e){
+  const el = e.currentTarget;
+  //1. change the text to GO when clicked
+  el.textContent = 'GO';
+  //2. make it a circle after 2 seconds
+  wait(200)
+  .then(()=>{
+     el.classList.add('cirlce');
+     return wait(500);
+  })
+  .then(()=>{
+    //3. make it ared after 0.5 seconds
+    el.classList.add('red');
+  })
+}
+```
+Now we have to make it a square after 0.25 seconds by removing the class of circle.  
+
+```
+.then(()=>{
+  //3. make it ared after 0.5 seconds
+  el.classList.add('red');
+  return wait(250);
+})
+.then(()=>{
+  el.classList.remove('cirlce');
+})
+```
+
+Now after 500 miliseconds we want to remove the red class and add the purple one like so:
+
+
+```
+.then(()=>{
+  //3. make it ared after 0.5 seconds
+  el.classList.add('red');
+  return wait(250);
+})
+.then(()=>{
+  el.classList.remove('cirlce');
+  return wait (500);
+})
+.then(()=>{
+  el.classList.remove('red');
+  el.classList.add('purple');
+})
+```
+
+Now finally, after half a second, we need to make it invisible.
+
+```
+.then(()=>{
+  el.classList.remove('red');
+  el.classList.add('purple');
+  return wait(500);
+})
+.then(()=>{
+  el.classList.add('fadeOut');
+})
+```
+
+So what we have done here is taken the nested callback function and made it one level deep, which is waiting returning, waiting returning. That is chaining multiple `.then()`s onto each other.
+
+That gets much better when we get to `async await` but for now, this is the best way we can refactor these promises into a promise chain. 
+
+ 
 ---
 
 ## 70 - Async Await

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-16T20:42:33.247Z'
+modified: '2020-05-17T16:05:56.320Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1104,10 +1104,35 @@ So what we have done here is taken the nested callback function and made it one 
 
 That gets much better when we get to `async await` but for now, this is the best way we can refactor these promises into a promise chain. 
 
- 
 ---
 
 ## 70 - Async Await
+
+Although in the last lesson we refactored our callback hell example to use promises, the syntax still isn't that great because we are nesting at least one level deep inside of callback hell with the `.then()` syntax. 
+
+`async await` is a new syntax that will allow us to use the keyword `async` and the keyword `await` for a much nicer, easier to read looking code and we will see how that works in just a second. 
+
+Your functions that return promise still stay exactly the same way. There is nothing that needs to change about your promsie generating functions. The code that we need to change is where we actually call the code that `async await` comes in handy. 
+
+Let's go into our `playground` folder and make a new file called `async-await.html` and we will give it our base. 
+
+Let's give ourselves a script tag, and create that wait function again like so
+
+```
+<script>
+function wait(ms = 0){
+  return new Promise((resolve)=>{
+    setTimeout(resolve,ms);
+  })
+}
+
+</script>
+```
+
+Now if we want to use the `async await` syntax there are a few things that need to happen. First of all, you can only use `async await` inside of a function that is marked as `async`. So what we have to do is we have to make a function, let's call it go.
+
+stopped at 2:15
+
 
 ---
 

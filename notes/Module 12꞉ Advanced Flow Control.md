@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-18T13:59:47.858Z'
+modified: '2020-05-18T17:32:45.503Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1433,6 +1433,294 @@ In the next video we will look at how to handle errors with `async await` and we
 ---
 
 ## 71 - Async Await Error Handling
+
+We will talk about error handling strategies for `async await` in this lesson. Because there is no `.then()` that we are chaining on, it's not as easy as just chaining a `.catch()` onto the end of a promise chain in order to deal with what is going on. 
+
+We will cover 4 different ways that you can do error handling in `async await`, and then Wes will explain which approach he would use in which scenarios. 
+
+Go into our playground and copy the `async-await.html` file and rename it to `async-await-error-handling.html`. 
+
+Now let's go and delete everything except for our two functions: `wait` and `makePizza`. 
+
+```
+<body>
+<script>
+function wait(ms = 0) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  })
+}
+
+function makePizza(toppings = []) {
+  return new Promise(function (resolve, reject) {
+    // reject if people try with pineapple
+    if (toppings.includes('pineapple')) {
+      reject('Seriously? Get out 🍍');
+    }
+    const amountOfTimeToBake = 500 + (toppings.length * 200);
+    // wait 1 second for the pizza to cook:
+    setTimeout(function () {
+      // when you are ready, you can resolve this promise
+      resolve(`Here is your pizza 🍕 with the toppings ${toppings.join(' ')}`);
+    }, amountOfTimeToBake);
+    // if something went wrong, we can reject this promise;
+  });
+}
+</script>
+</body>
+```
+
+In our `makePizza` function, we know that if it includes pineapple, it will reject because there is an error. S
+
+Let's go below the `makePizza` function declaration and we will make a function called `go`, in which we will make one pizza with the topping pineapple, and then we will call the function right below, like so 
+
+```
+function go(){
+  const pizza = makePizza(['pineapple']);
+}
+go();
+```
+
+If you refresh the page, you will see we get an error. 
+
+![](@attachment/Clipboard_2020-05-18-12-49-32.png) 1:32
+
+If you try to log `pizza` within the `go` function, we don't get anything, we do not even get the error logged. 
+
+So there are four ways that we could handle that. THe first two are with `try` and `catch`. `try and catch` in Javascript is basically what the name suggests. You try a bunch of stuff and you wrap it in a safety blanket and then if anything goes wrong, you catch the error and handle it.
+
+The way that it works is you can do it inside of the function, when you actually go ahead and call it like so. 
+
+
+```
+async function go(){
+  try{
+    const pizza = await makePizza(['pineapple']);
+    console.log(pizza);
+  } catch(err){
+    console.log('Ohhhh nooo!');
+    console.log(err);
+  }
+}
+```
+
+Now if you refresh the page, you should see the following..
+
+![](@attachment/Clipboard_2020-05-18-12-56-11.png) 2:56
+
+What happened is any code inside of the try block is in the safe zone. It won't break the entire application if some of the code within the try errors out. Instead, it will just fail over to the `.catch()`. 
+
+That works with anything, not just `async await`.
+
+If we tried calling a function that doesn't exist such as `window.doesNotExist()`, you will see we still get the errors for that. 
+
+![](@attachment/Clipboard_2020-05-18-12-57-59.png) 3:28
+
+One downside to this is the syntax messes up our beautiful async await syntax because you have to wrap everything inside of the try and catch. 
+
+The benefit to that is you can have multiple promises, for exampe if we tried to make multiple pineapple pizzas, if either one failed, it would be caught by the same try/catch. 
+
+Another way we can do that is using what Wes refers to as "mix and match". Meaning that we can use `async-await` but use the promise syntax for error handling.  
+
+Let's go and get rid of the try/catch we just added all together. Instead, lets make a function called `handleError`. 
+
+```
+function handleError(err){
+  console.log('Ohhhh nooo');
+  console.log(err);
+}
+```
+
+Normally within function like `handleError` you would want to display the error in the UI to your user, send it off to an error handling service to log it, or something like that so you know what is going on on your clients side. 
+
+In our case, we are just logging "Oh no!" and the error. 
+
+What we can do is now chain a `.catch()` to the end of our `makePizza` call from within our async `go` function and pass it reference to `handleError`. 
+
+```
+async function go(){
+  const pizza = await makePizza(['pineapple']).catch(handleError);
+  console.log(pizza);
+}
+```
+
+Now when it runs, it will give us "oh nooo. Seriously? get out" and then log undefined.
+
+![](@attachment/Clipboard_2020-05-18-13-03-56.png) 4:52
+
+We are sort of mix and matching to get the best of both worlds. We are using await to get the data from the promise instead of using the `.then()`. But we are still using the other syntax which is a `.catch()` onto the end of the function. 
+
+That approach is helpful when you want to handle the error at the time that you define the function, so you handle it inside of the function. 
+
+Sometimes you want to handle the error when you call the actual function. If that is the case, we wouldn't handle it inside of the definition, but we would go down to where we call our async function and chain a `.catch()` onto there. 
+
+For example:
+
+```
+function handleError(err){
+  console.log('Ohhhh nooo');
+  console.log(err);
+}
+
+async function go(){
+  const pizza = await makePizza(['pineapple']).catch(handleError);
+  console.log(pizza);
+}
+
+go.catch(handleEror);
+```
+
+![](@attachment/Clipboard_2020-05-18-13-06-46.png) 5:45 
+
+When you refresh the page you will see that the exact same thing just happened. What is interesting about that is you can also catch things that are unrelated. 
+
+For example if within our `go()` function we call another function that does not yet exist, it will catch that error as well. 
+
+```
+async function go(){
+  window.doesNotExist();
+  const pizza = await makePizza(['pineapple']).catch(handleError);
+  console.log(pizza);
+}
+```
+
+You might be saying to yourself "Wes, you said that `.then()` and `.catch()` can only be used on functions that return a promise, but here you are using a `.catch` on a function that does not return a promise. 
+
+`go()` doesn't return a promise, does it? Let's check by returning pizza from the function like so:
+
+```
+async function go(){
+  const pizza = await makePizza(['pineapple']).catch(handleError);
+  console.log(pizza);
+  return pizza;
+}
+const result = go().catch(handleError);
+console.log(result);
+```
+
+What will the result be? Will we get the pizza? Will we get nothing? 
+
+![](@attachment/Clipboard_2020-05-18-13-11-09.png) 6:43
+
+We get a promise! Whaaaaat?! 
+
+This is a very important thing about promises in `async await`. When you mark a function as `async`, it will immediately return a promise to you. When a function is not marked with `async`, it is a regular function that will return the data that you want. 
+
+When you mark the function as async, that function will then return a promise. 
+
+What is possible is that you can await `async` functions as well, because they in themselves are promises. So you could do something like this...
+
+```
+go().then(result => {
+  console.log(result);
+}).catch(handleError);
+```
+
+![](@attachment/Clipboard_2020-05-18-13-13-50.png) 7:35
+
+In that example it went straight to catch. But if instead we were making a pepperoni pizza and modified the topping to be pepperoni instead of pineapple, then we would actually get access to the pepperoni pizza. 
+
+![](@attachment/Clipboard_2020-05-18-13-14-40.png) 7:42
+
+Asynchronous functions will always return a promise themselves, which means we can use the `.catch()` or the `.then()` syntax on the `async` functions if we want. 
+
+Why is that useful? You often have a function with a few promises inside of it, but then you want to wait for that entire function to finish returning it's data.  If that is the case, you use a `.then().catch()` or an `await` on it.
+
+Similarly, we do something like this:
+
+```
+async function go(){
+  const pizza = await makePizza(['pineapple']).catch(handleError);
+  console.log(pizza);
+  return pizza;
+}
+
+async function goGo(){
+  const result = await go();
+}
+
+goGo();
+```
+
+If you refresh the page and run that, you will get an error. 
+
+![](@attachment/Clipboard_2020-05-18-13-17-58.png) 8:56
+
+How would you then handle that? 
+
+```
+goGo().catch(handleError);
+```
+
+![](@attachment/Clipboard_2020-05-18-13-18-31.png) 9:09
+
+As you can see by chaining a `.catch()` onto it, we handle the error. 
+
+You can nest promises as deep as you want and it is pretty common to have a good number of your functions marked as `async` and sort of have promises happening inside of promises. We will get into a lot more examples of that, so that might be a little confusing to you. 
+
+Let's bring the examples back to `go().catch(handleError)`. 
+
+That is the approach that Wes uses most often. It's sort of the best of both worlds. You can use the `await` like you want, and then you can catch them at call time.
+
+The only difference would be calling `.catch()` inside of `go()` like so:
+
+```
+async function go(){
+  const pizza = await makePizza(['pinapple']).catch(handleError);
+}
+```
+
+That is useful if you need to do somethign with the error inside the function like display a special modal box at the time of definition, rather than at the time of call.
+
+The last way to handle an error with `async/await` is called a **higher order function**.
+
+We hae talked about this a couple of times now. A higher order function is a function that returns another function. 
+
+The way it works is you go ahead and define all of your functions, just as if you were never to have any errors. That is the way Wes typically likes to write his code, he will write them as `async` functions and he doesn't worry about error handling inside of those functions. 
+
+When it comes time to calling that function, you have two options. You can catch it at run time like `go().catch(handleError)` or you can make a safe function with a higher order function. 
+
+Let's call the higher order function `makeSafe` and it will take in two paremeters. The first is the function that we want to make safe, and the second is the function we want to be responsible for handling the error. 
+
+What this function will do is it will return another function which then calls our original function and chains the `.catch()` onto the end. 
+
+This might not make sense to you, it didn't make sense to Wes for years, so don't sweat it if that's confusing. 
+
+```
+// make a safe function with a HOF
+function makeSafe(fn, errorHandler){
+  return function(){
+    fn().catch(errorHandler);
+  }
+}
+```
+
+If we just tried calling `go()` we would get an exception. But if we instead call go by first wrapping it in the `makeSafe(go)` function, like so, it will handle the error gracefully: 
+
+```
+const safeGo = makeSafe(go, handleError);
+safeGo();
+```
+
+That is because `makeSafe` takes in a function, and then returns a new function that is just your original function with a `.catch()` tacked onto the end of it.  
+![](@attachment/Clipboard_2020-05-18-13-29-12.png) 12:28
+
+Now we have the function `safeGo` which is jsut a function that has the catch tacked onto the end of it and now we can just call it without worrying about anything.
+
+![](@attachment/Clipboard_2020-05-18-13-29-49.png) 12:41
+
+That works just fine.
+
+Why would that be better than catching it like we were with `go().catch(handleError)` ? More often than not, Wes has a function like `safeGo` or a function that does a specific task, and he uses that like 30 different times throughout his application. If he has to write the code to handle the error 30 different times, that is pretty cumbersome.  
+
+What you can do instead is make the safe function once (using `makeSafe` in our example),  and then you can carry the safe function and run it whenever you want, knowing the error handler will have been attached on. 
+
+Those are a couple of different options you can use. 
+
+Wes most often catches errors at run time using `go().catch(handleError)`, and then when he is in Node/Express land, he tends to reach for a higher order function.
+
+
+
 
 ---
 

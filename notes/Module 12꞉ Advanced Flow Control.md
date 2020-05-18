@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-17T16:05:56.320Z'
+modified: '2020-05-18T13:59:47.858Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1129,10 +1129,306 @@ function wait(ms = 0){
 </script>
 ```
 
-Now if we want to use the `async await` syntax there are a few things that need to happen. First of all, you can only use `async await` inside of a function that is marked as `async`. So what we have to do is we have to make a function, let's call it go.
+Now if we want to use the `async await` syntax there are a few things that need to happen. First of all, you can only use `async await` inside of a function that is marked as `async`. 
 
-stopped at 2:15
+So what we have to do is we have to make a function, let's call it go.
+The way that it will work is we will log "starting" and then we will log "ending". 
 
+If we want to wait for two seconds inbetween there we would do the following:
+
+```
+function go(){
+  console.log('Starting');
+  wait(2000);
+  console.log('Ending');
+}
+go();
+```
+
+Now we know if we run `go` on page load like that, we will get starting and ending immediately.
+
+![](@attachment/Clipboard_2020-05-17-13-49-04.png) 2:32
+
+What async await allows us to do is we can put the keyword `await` in front of a promise based function and it will sort of temporarily pause that function from running until that promise is resolved. 
+
+
+```
+function go(){
+  console.log('Starting');
+  await wait(2000);
+  console.log('ending')
+}
+go();
+```
+
+If you modify the code as shown above and then refresh the page, you will see an error in the console.
+
+![](@attachment/Clipboard_2020-05-18-09-04-34.png) 2:52
+
+>Uncaught SyntaxError: await is only valid in async function
+
+To fix this, we need to mark our function as `async`. That tells the code that somewhere inside of the function, we will be doing some awaiting. In order to do that, we must mark our functions as `async` like so:
+
+```
+async function go(){
+  console.log('Starting');
+  await wait(2000);
+  console.log('ending');
+}
+```
+
+Now if you go ahead and save the function and then refresh, we will getting starting logged to the console and then two seconds later we will get ending.
+
+That is beautiful because we achieved that without chaining  a bunch of `.then()` . If we wanted to wait for another period of time in the same function before executing something else, we can.
+
+```
+async function go(){
+  console.log('Starting');
+  await wait(2000);
+  console.log('running');
+  await wait(200);
+  console.log('ending');
+}
+```
+
+![](@attachment/Clipboard_2020-05-18-09-09-01.png) 3:51
+
+We are now able to just stick these calls to our `wait` function wherever we want within our `go` function and the execution of that function will temporarily pause until the promise has been resolved.
+
+Marking functions as `async` can work with any type of function.
+
+Let's go over all the functions just to demonstrate. 
+
+You can add `async` to a function declaration like so:
+
+```
+// Function Declaration
+async function fd(){}
+```
+
+We can also have an arrow function 
+
+```
+//arrow function
+const arrowFn = async () => {}
+```
+
+We also have callback functions. Let's say we had an event listener. We would make the callback function async like so:
+
+```
+window.addEventListener('click', async function(){
+
+})
+```
+
+We also have methods. 
+
+```
+const person = {
+  sayHi: async function(){
+
+  }
+}
+```
+
+We also have the method shorthand and function property. 
+
+
+```
+const person = {
+  //method
+  sayHi: async function(){
+
+  },
+  //method shorthand
+  async sayHello(){
+
+  },
+  //function property
+  sayHey: async () => {
+
+  }
+}
+```
+
+Essentially whenever you have a function, put the word `async` infront of it and that will allow you to do `awaiting` inside of it. 
+
+You cannot do what is referred to as top level await. Meaning if we were to open go directly into our script tag and try calling `wait` like so:
+
+```
+console.log('one');
+await wait(200);
+console.log('two');
+```
+
+We get an error in the console.
+
+![](@attachment/Clipboard_2020-05-18-09-18-33.png) 6:24
+
+You can however copy and paste the call to the wait function and call it directly from devtools. 
+
+Let's take a look at some other examples. Let's go to our `promises.html` file that we have and let's grab the `makePizza` function, and move it over to our `async await` file. 
+
+Both of those functions return a promise.  
+
+![](@attachment/Clipboard_2020-05-18-09-21-11.png) 7:48
+
+Let's go to the bottom of the script tag and make another async function which we will call `makeDinner`. Within that function we will call `makePizza` to make `pizza1` and then we will log it. 
+
+```
+async function makeDinner(){
+  conost pizza1 = makePizza(['pepperoni']);
+  console.log(pizza1);
+}
+makeDinner();
+```
+
+If you comment out the go function and the code where we call `go` and instead just run the code we added right above, you will see that we get a promise logged to the console. 
+
+![](@attachment/Clipboard_2020-05-18-09-36-05.png) 8:43
+
+That is because we are running the function and storing it in a variable, which will store the promise in the variable. Note that we call it "await" instead of "wait" because it is asynchronously waiting. Meaning it won't actuallly pause all of javascript, it's not going to block the rest of the javascript from running. 
+
+If we instead put an `await` infront of our `makePizza` function, we will asynchronously be waiting for the pizza to be done, and when it is, we will simply log it.
+
+```
+async function makeDinner(){
+  conost pizza1 = await makePizza(['pepperoni']);
+  console.log(pizza1);
+}
+makeDinner();
+```
+
+![](@attachment/Clipboard_2020-05-18-09-42-46.png) 9:44
+
+Similarly we can do that with pizza2 as well. 
+
+```
+async function makeDinner(){
+  conost pizza1 = await makePizza(['pepperoni']);
+  console.log(pizza1);
+  conost pizza2 = await makePizza(['mushroos']);
+  console.log(pizza2); 
+}
+makeDinner();
+```
+
+![](@attachment/Clipboard_2020-05-18-09-43-37.png) 9:58
+
+Now let's say we want to wait for both of those to be done because the way it is coded right now could be possibly inefficient. 
+
+This is what is referred to as a **foot gun** in the industry. If you give somebody the tools it is possible they could make code that is not performant. 
+
+What that means if if you are making a pepperoni and a mushroom pizza, the way we have coded it, you have to wait for the pepperoni pizza to be created, baked and taken out before we even start making the next pizza. 
+
+It is likely that we could be making the pizza's concurrently, so what we can do is instead of waiting for one, then moving onto the next line and making the next one, we will remove the await from both of them, make them both into promises and then make one big promise which we can await. 
+
+```
+async function makeDinner(){
+  const pizzaPromise1 = makePizza(['pepperoni']);
+  const pizzaPromise2 = makePizza(['mushrooms']);
+  const pizzas = Promise.all([pizzaPromise1, pizzaPromise2]);
+  console.log(pizzas);
+}
+```
+
+If you do it like above, we will still only get the big promise. 
+
+![](@attachment/Clipboard_2020-05-18-09-48-26.png) 11:18
+
+We need to modify the code to await the mamma promise like so: 
+
+```
+const pizzas = await Promise.all([pizzaPromise1, pizzaPromise2]);
+```
+
+![](@attachment/Clipboard_2020-05-18-09-49-13.png) 11:29
+
+Now we get the actual pizzas instead of just the proimises. 
+
+We can go ahead and destructure the two pizzas that are returned.
+
+```
+const [pep, mush] = await Promise.all([pizzaPromise1, pizzaPromise2]);
+console.log(pep, mush);
+```
+
+![](@attachment/Clipboard_2020-05-18-09-50-19.png) 11:46
+
+What we want to do now is let's go back to the code that we wrote early on with our promise chain and rewrite it one more time into async await. 
+
+![](@attachment/Clipboard_2020-05-18-09-50-59.png) 12:15
+
+Let's take the entire animate function and copy it and rename it to `animate2`. 
+
+Modify the click event to call `animate2` like so: 
+
+```
+go.addEventListener('click', animate2);
+```
+
+Now let's go back to our `animate2` function. The first thing you need to do is mark the function as `async` and then we need to check that it still works. 
+
+```
+async function animate2(e){
+```
+
+Open it up in the browser to make sure that it still works. 
+
+Now let's refactor the animate function to instead await like so: 
+
+```
+async function animate2(e) {
+  const el = e.currentTarget;
+  // 1. Change the text to GO when clicked.
+  el.textContent = 'GO';
+  // 2. Make it a circle after 2 seconds
+  await wait(200);
+  el.classList.add('circle');
+  await wait(500);
+  el.classList.add('red');
+  await wait(250);
+  el.classList.remove('circle');
+  await wait(500);
+  el.classList.remove('red');
+  el.classList.add('purple');
+  await wait(500);
+  el.classList.add('fadeOut');
+}
+
+function animate(e) {
+  const el = e.currentTarget;
+  // 1. Change the text to GO when clicked.
+  el.textContent = 'GO';
+  // 2. Make it a circle after 2 seconds
+  wait(200)
+    .then(() => {
+      el.classList.add('circle');
+      return wait(500);
+    })
+    .then(() => {
+      // 3. Make it red after 0.5s
+      el.classList.add('red');
+      return wait(250);
+    })
+    .then(() => {
+      el.classList.remove('circle');
+      return wait(500);
+    })
+    .then(() => {
+      el.classList.remove('red');
+      el.classList.add('purple');
+      return wait(500);
+    })
+    .then(() => {
+      el.classList.add('fadeOut');
+    })
+}
+```
+
+As you can see in `animate2` there are no `.then()` and no callbacks, we simply just pause the function from running with our `await` infront of a function that returns to us a promise. 
+
+In the next video we will look at how to handle errors with `async await` and we will go over a lot of the browser APIs that come with `async await`.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-18T17:32:45.503Z'
+modified: '2020-05-19T11:10:24.592Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1719,12 +1719,208 @@ Those are a couple of different options you can use.
 
 Wes most often catches errors at run time using `go().catch(handleError)`, and then when he is in Node/Express land, he tends to reach for a higher order function.
 
-
-
-
 ---
 
 ## 72 - Async Await Prompt UI
+
+In this lesson we will be working more with promises and async await to build a sort of prompt interface. 
+
+A pretty common thing to do in Javascript is when someone clicks a button or something happens on the page, you want to pop up a little box, ask them for something, and then go ahead and get that data back and display it on the page somehow. 
+
+![](@attachment/Clipboard_2020-05-19-06-09-20.png) 00:17
+
+There is a prompt that is built into the browser, but the problem with that prompt if you can only have one input box, let's say you wanted multiple input boxes or an image upload or something like that, you couldn't do that with the built in. The built-in interface is also blocking, meaning that when it is popped up, you cannot do anything else on the page. 
+
+We are going to see how we can re-implement this with promises and async/await. 
+
+We will be working out of the `exercises/72 - Async Prompts/` directory. We are starting with some very basic HTML here. 
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Async Prompt</title>
+  <link rel="stylesheet" href="../../base.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+  <div class="wrapper">
+    <button class="askMe" data-question="What is your name?">Enter Name</button>
+    <button class="askMe" data-cancel data-question="What is your age?">Enter Age</button>
+  </div>
+  <script src="./scripts.js"></script>
+
+</body>
+
+</html>
+
+```
+
+We also have some CSS that Wes will explain to us because we will be using CSS variables for animation, which is pretty nifty. 
+
+```
+.popup {
+  background: hsla(0, 0%, 30%, 0.5);
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  transition: all 0.25s;
+  top: 0;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none;
+  --opacity: 0;
+  opacity: var(--opacity);
+}
+
+.popup fieldset {
+  background: var(--grey);
+  padding: 2rem;
+  border: 3px solid var(--pink);
+  border-radius: 5px;
+  box-shadow: var(--box-shadow);
+  transition: all 0.2s;
+  --scale: 0.3;
+  transform: scale(var(--scale));
+}
+
+.popup.open {
+  --opacity: 1;
+  pointer-events: all;
+}
+
+.popup.open fieldset {
+  --scale: 1;
+}
+```
+
+The buttons on the HTML page are there so that when you click them, they will invoke the prompt.
+
+One more thing we will look at is how to open one prompt after the other and get all three pieces of data back, which is going to be in a synchronous map. That is pretty tricking to do, so Wes will show us how to do that, how to run something in series when you have promise in async/await.
+
+Open up `scripts.js` in your code editor and open up `index.html` in the browser.
+
+Let's get going on the javascript in our script file. 
+
+Let's start by creating a function, `ask` which will take in some options. The options will be two things: 
+1. What will the text for the prompt be?
+2. Are they allowed to cancel it with a cancel button?
+
+Inside of the function we want to first return a new promise. Inside of that promise we will have a function that will accept resolve as the first argument. It also accepts reject, but we won't be rejecting it in this example. When somebody hits cancel, we will just resolve it with nothing instead of reject because that is how the one built into the browser works.
+
+Now there are a couple of things that need to happen.
+
+First, we need to create a popup with all the fields in it. 
+
+Then we need to check if they want a cancel button.
+
+Next we need to lsiten for a submit event on the input, and then when someone does finally submit it, we need to resole the data that was in the input box. 
+
+Let's start sequentially with the popup. We will use a form tag for this so we can get the submit. 
+
+We will use `document.createElement` because that will immediately return to us a DOM node, which allows us to add event listeners for things like submit on it. If we just used backticks and a form tag, we wouldn't be able to add event listeners inside of the function, we would have to wait until that thing was put into the page before we could add event listeners to it. 
+
+```
+const popup = document.createELement('form');
+```
+
+Now we can add a class of `popup` to it, which just makes sure it has position of fixed, a specific background color, that the width and height are 100 percent of the viewport width and height. We set the opacity to 0 because we want to fade it in which we will do using a class of open.
+
+```
+popup.classList.add('popup');
+```
+
+Now we need to put some HTML inside of the popup. We will use backticks in this case because there is nothing inside of it that needs an event listener added to it.  
+
+```
+popup.insertAdjacentHTML('afterbegin', `
+  <fieldset>
+    <label>${options.title}</label>
+  </fieldset>
+`)
+console.log(popup);
+```
+
+Let's refresh the page to check whether the code still works. We will call `ask` directly from the console. We need to pass in an options object as an argument with one property in the option, the title.
+
+```
+ask({title:'does this work'});
+```
+
+![](@attachment/Clipboard_2020-05-19-06-40-35.png) 7:15
+
+As you can see, we have the form, with a fieldset and label containing the title so we know that it works so far.
+
+Now let's check if they want a cancel button and if they do, let's go ahead and create that button. You must specify the type of the button or else the browser will just assume it is a submit button and submit the form. 
+
+We also need to listen for a click on the cancel but for now we will just add a TODO and come back to that later to keep things more simple. 
+
+```
+if(options.cancel){
+  const skipButton = document.createElement('button');
+  skipButton.type = 'button';
+  skipButton.textContent = 'Cancel';
+  //TODO: listen for a click on that cancel button
+}
+```
+
+We still need to listen for the submit event on the inputs, and resolve the data that was entered into the input box and we need to insert that popup into the DOM.
+
+Let's do that last step first. 
+
+```
+document.body.appendChild(popup);
+```
+
+![](@attachment/Clipboard_2020-05-19-06-46-29.png) 9:25
+
+Let's get that popup showing up so we have a visual. If you go to our CSS, you will see that we have opacity of 0 on the `popup` class. The reason Wes has created a CSS custom property (or variable as it is referred to in CSS). You can then reference the variable. 
+
+![](@attachment/Clipboard_2020-05-19-06-51-52.png) 9:43
+
+The reason Wes did it like this is so that when we go to the popup with class of `open`, it will know to update the value of the opacity variable everything that it is used.
+
+So right after we append our child, we need to take the popup's class list and add a class of open. 
+
+```
+document.body.appendChild(popup);
+popup.classList.add('open');
+```
+
+Now when we click it, as you see, it is not fading itself in, which is a bit of a problem. That is back to the whole event loop that we talked about a few videos ago. 
+
+![](@attachment/Clipboard_2020-05-19-06-57-27.png) 10:20
+
+The reason it is not animating itself in is because it queues up the add a class of `popup` and a class of `open` sort of at the same time. There is no time for it to transition from regular popup opacity 0 to popup open opacity one. There is no A to B to transition itself from one to another.
+
+The solution there is to put a very small timeout before we add the `open` class. What that will do is it will stick the code that is beyond it at the end of the event loop and that is enough to give it a little bit of time between A 
+and B to transition itself. 
+
+Let's add a timeout of 10 miliseconds and then add the class of open like so
+
+```
+document.body.appendChild(popup);
+//put a very small timeout before we add the open clicks
+setTimeout(function(){
+  popup.classList.add('open');
+}, 10);
+```
+
+Sometimes you can even get away with doing a 0 second timeout. Why does that work?
+
+As we learned earlier how the event loop works is that when you have a timeout, it runs it, then sticks the callback in the Web APIs which puts it in the queue, and then the event loop will pull it back. 
+
+Sometimes you will see this where body puts something at a timeout of 0, all that is doing is it puts that at the end of the event loop so that the other code finishes running by the time we add our class list of open.
+
+Wes has tested that in a few browsers but it doesn't work too great, so let's change it to 50 miliseconds. 
+
+stoppd at 12:39
 
 ---
 

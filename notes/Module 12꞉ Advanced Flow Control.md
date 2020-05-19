@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-19T11:10:24.592Z'
+modified: '2020-05-19T23:33:01.800Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1814,6 +1814,17 @@ Let's start by creating a function, `ask` which will take in some options. The o
 
 Inside of the function we want to first return a new promise. Inside of that promise we will have a function that will accept resolve as the first argument. It also accepts reject, but we won't be rejecting it in this example. When somebody hits cancel, we will just resolve it with nothing instead of reject because that is how the one built into the browser works.
 
+```
+function ask(options) {
+    // First we need to create a popup with all the fields in it
+    // check if they want a cancel button
+    // listen for the submit event on the inputs
+    // when someone does submit it, resolve the data that was in the input box!
+    // insert that popup into the DOM
+    // put a very small timeout before we add the open class
+}
+```
+
 Now there are a couple of things that need to happen.
 
 First, we need to create a popup with all the fields in it. 
@@ -1916,11 +1927,267 @@ Sometimes you can even get away with doing a 0 second timeout. Why does that wor
 
 As we learned earlier how the event loop works is that when you have a timeout, it runs it, then sticks the callback in the Web APIs which puts it in the queue, and then the event loop will pull it back. 
 
-Sometimes you will see this where body puts something at a timeout of 0, all that is doing is it puts that at the end of the event loop so that the other code finishes running by the time we add our class list of open.
+Sometimes you will see this where body puts something at a timeout of 0, all that is doing is it puts that at the end of the event loop so that the other code finishes running by the time we add our class list of open. Wes has tested that in a few browsers but it doesn't work too great, so let's change it to 50 miliseconds instead of 0. 
 
-Wes has tested that in a few browsers but it doesn't work too great, so let's change it to 50 miliseconds. 
+```
+setTimeout(function(){
+  popup.classList.add('open');
+}, 50);
+```
 
-stoppd at 12:39
+Now one thing we can do is instead of using `setTimeout`, we could use `async/await`. 
+
+Let's code that `wait` function again.
+
+
+```
+function wait(ms = 0){
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+```
+
+Now let's go back to where we had added the timeout and replace it instead with...
+
+```
+document.body.appendChild(popup);
+//put a very small timeout before we add the open clicks
+await wait(50);
+popup.classList.add('open'); 
+```
+
+You might notice your code editor yelling at you that you have can only call `await` from an async function so let's make it async like so:
+
+```js
+function ask(options){
+  return new Promise(async function(resolve){
+```
+
+The reason we did not mark the `ask` function itself as async is because you have to mark the parent function which is the promise callback. 
+
+Now that should work exactly the same way as it did before when you call `ask({title: ' does this work'})` from the console.  Try opening Firefox and testing it there to see if it works. 
+
+![](@attachment/Clipboard_2020-05-19-18-25-20.png) 13:35
+
+Now let's go back to our fieldset and put the rest of them in there. 
+
+First we need an input with type of text, which we will name "input" and a button with type of submit. 
+
+```
+popup.insertAdjacentHTML(
+  "afterbegin",
+  `
+  <fieldset>
+    <label>${options.title}</label>
+    <input type="text" name="input"/>
+    <button type="submit">Submit</button>
+  </fieldset>
+`
+);
+```
+
+If you refresh the page, you should see the following:
+
+![](@attachment/Clipboard_2020-05-19-18-36-46.png) 14:09
+
+If you try to enter a value into the input and hit submit, you will see that the page refreshed and that we get the value entered in the query string of the url. 
+
+![](@attachment/submit.gif)
+
+We need to use `preventDefault` to stop the form from submitting. 
+
+Before we do that, let's add the cancel button onto the popup if the option is passed, which we forgot to do earlier. 
+
+```
+ // check if they want a cancel button
+if (options.cancel) {
+  const skipButton = document.createElement("button");
+  skipButton.type = "button";
+  skipButton.textContent = "Cancel";
+  popup.firstChild.appendChild(skipButton);
+  // TODO: listen for a click on that cancel button
+}
+```
+
+So now let's try it by running `ask({title:"does it work"})` in the console and the popup should still show up. 
+
+Let's try running `ask({title:"does it work?", cancel: true})`. 
+
+We are getting an error.
+>Uncaught (in promise) DOMException: Failed to execute 'appendChild' on 'Node': This node type does not support this method.
+
+![](@attachment/Clipboard_2020-05-19-18-45-50.png)  15:37
+
+Why is that happening? 
+
+Let's debug by logging the value of `popup.firstChild` before we call `appendChild` on it. 
+
+![](@attachment/Clipboard_2020-05-19-18-48-33.png) 16:14 
+
+As you can see, it is returning text node.
+
+If you scroll up to our code, you will see that where we created the fieldset using backticks, we had the fieldset start on a new line. 
+
+![](@attachment/Clipboard_2020-05-19-18-49-38.png) 15:53 
+
+If you just modify the code so that the fieldset starts on the same line as the backtick, it will work. 
+
+![](@attachment/Clipboard_2020-05-19-18-50-20.png) 16:07
+
+What happened is when we had the fieldset start on a new line, the new line was treated as a text node. If you recall `firstChild` will grab all the nodes, not just elements. As Wes has mentioned, if you want to just grab elements, you should use `firstElementChild` instead. We were trying to append a DOM node to just blank text, which isn't possible, you can only append it to actual elements. 
+
+Let's leave the fieldset on the separate line and then modify the code to be `popup.firstElementChild.appendChild(skipButton)`. 
+
+That fixes it! 
+
+![](@attachment/Clipboard_2020-05-19-18-58-55.png) 17:09
+
+Let's also fix the fieldset so it's not on it's own line because that was sloppy formatting. 
+
+```
+popup.insertAdjacentHTML(
+  "afterbegin",
+  `<fieldset>
+    <label>${options.title}</label>
+    <input type="text" name="input"/>
+    <button type="submit">Submit</button>
+  </fieldset>
+`
+);
+```
+
+Now that we have both the buttons, let's hook up the event listeners, starting with the submit button and preventing default on the form. 
+
+We will pass an anonymous function to the event listener. You could make a separate function but keeping it inside of the our `ask` function as an anonymous function is fine. 
+
+```
+// listen for the submit event on the inputs
+  popup.addEventListener("submit", function(e) {
+    e.preventDefault();
+    console.log("Submitted!");
+  });
+```
+
+![](@attachment/Clipboard_2020-05-19-19-06-17.png) 18:07
+
+Next we want to take the value out of the input and resolve it. We have access to the `resolve` function bcause it passed as a parameter. 
+
+![](@attachment/Clipboard_2020-05-19-19-07-16.png) 18:24
+
+Because of the scope of our promise callback, the `resolve` function is available to us in the higher function. 
+
+We will call resovle and pass in `e.target.input.value` but before we do that, let's just log the target to see what we have. 
+
+```
+popup.addEventListener("submit", function(e) {
+  e.preventDefault();
+  console.log(e.target);
+});
+```
+
+![](@attachment/Clipboard_2020-05-19-19-09-16.png) 19:03
+
+As you can see, the target is the form. 
+
+Now let's see what input is. 
+
+```
+popup.addEventListener("submit", function(e) {
+  e.preventDefault();
+  console.log(e.target.input);
+});
+```
+
+As you can see, it returns the input with a name of input. 
+
+![](@attachment/Clipboard_2020-05-19-19-10-05.png) 19:14
+
+Remember, anytime an input has a name property, it will be available via the property on the form.
+
+To get the value from that input, we just tack on a `.value` and then resolve that data by passing it to our resolve function like so:
+
+```
+popup.addEventListener("submit", function(e) {
+  e.preventDefault();
+  resolve(e.target.input.value);
+});
+```
+
+If you refresh the page and try it by calling `ask({title:'does it work', cancel:true})` in the console, entering a value in the input and pressing submit, you should see the promise in the console with the resolved value. 
+
+![](@attachment/Clipboard_2020-05-19-19-13-05.png) 19:39
+
+If we wanted to get the actual data from the input, we could just call `ask` with `await` infront of it from the console, like so:
+
+```
+await ask({title:'does it work', cancel:true})
+```
+
+![](@attachment/Clipboard_2020-05-19-19-14-13.png) 19:54
+
+Now if you try pressing the submit button again, it doesn't really do anything, but that event listener is still there. You can tell that it is still there by adding a log of "Submitted" to the handler.  
+
+![](@attachment/Clipboard_2020-05-19-19-15-34.png) 20:21
+
+One neat thing about `addEventListener` is you could remove the event listener for submitted as soon as it is resolved. There is a shortcut we can use where the third argument of `addEventListener` is an options object, and we can pass it `{once:true}`. That will tell the browser to only listen for the submit event once, and then remove the event listener. 
+
+That is very handy for things that you only want to happen once.
+
+Now we want to remove the popup from the DOM entirely. 
+
+To do that, we will create a function called `destroyPopup` because we need to run it on submit and on cancel. For now, let's just call the function which we still need to create and we will pass it the popup. 
+
+```
+popup.addEventListener(
+  "submit",
+  function(e) {
+    e.preventDefault();
+    console.log("Submitted!");
+    resolve(e.target.input.value);
+    // remove it from the DOM entirely
+    destroyPopup(popup);
+  },
+  { once: true }
+);
+```
+
+Let's create that function above our `ask` function declaration. Because our `popup` is scoped to a different function, in order to access it within `destroyPopup`, we need to pass it as an argument. Within the function, let's remove the class of `open` from the popup and then wait one second because we want to wait for the thing to fadeout before we remove it from the DOM.
+
+In order to be able to use `await` within `destroyPopup` we will need to mark it as async. 
+
+```
+async function destroyPopup(){
+  popup.classList.remove('open');
+  await wait(1000);
+}
+```
+
+
+stopped at 22:55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 

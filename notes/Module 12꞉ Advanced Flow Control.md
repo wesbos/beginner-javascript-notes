@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-19T23:33:01.800Z'
+modified: '2020-05-20T00:46:47.385Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -2161,21 +2161,142 @@ async function destroyPopup(){
 }
 ```
 
+Then we want to remove the popup entirely. Add this to the `destroyPopup` function.
 
-stopped at 22:55
+```
+popup.remove();
+```
+
+Before we had the `.remove()` method, we used to grab the element one level up and call `removeChild` on it and pass the popup like so:
+
+```
+popup.parentElement.removeChild(popup);
+```
+
+Thankfully there is now just a `.remove()` method that we can use.
+
+If you refresh the page and then click the button and submit a value into the input, you will see the popup fades out.
+
+Let's check one thing. If we try to log the `popup` even after we have removed it, is it still there?
+
+```
+popup.remove();
+console.log(popup);
+```
+
+As you can see, we still have access to the popup even though it has been removed from the DOM. That is a potential memory leak, because everytime you pop something up, you add all these things to it, and all these event listeners and simply removing the element from the DOM does **not** remove it from Javascript's memory entirely (because it is possible you might want to add it back). 
+
+If you do want to get rid of it entirely, just destroy any evidence of that, we can do `popup = null;`. You may notice in the video that Wes' ESLint is yelling at him because he has a rule to not overwrite parameters.  However, to get around that you could do something like this:
+
+```
+async function destroyPopup(popup){
+  let myPopup = popup;
+  popup.classList.remove('open');
+  await wait(1000);
+  //remove the popup entirely
+  popup.remove();
+  myPopup = null;
+}
+```
+
+The reason that works is that it is all references. 
+
+If we wanted to disable that rule in eslint we could wrap it in the following:
+
+```
+/* eslint-disable no-param-reassign */ 
+/* eslint-enable no-param-reassign */
+```
+
+The next thing that we need to do is handle the cancel button. Let's hookup the buttons because at this point, Wes is tired of running the code from the console. 
+
+Let's go to the very bottom of the script and grab all the elements with an attribute of `data-question`. 
+
+```
+// select all buttons that have a question
+const buttons = document.querySelectorAll('[data-question]`);
+console.log(button);
+```
+
+![](@attachment/Clipboard_2020-05-19-20-26-06.png) 26:27
+
+As you can see we get a node list of buttons. 
+
+Now for each button, we will listen on the fclick event and pass it a reference to a function we will make `askQuestion`. 
+
+```
+buttons.forEach(button => button.addEventListener('click', askQuestion));
+```
+
+Inside of `askQuestion`, let's just log the event. 
 
 
+```
+function askQuestion(e){
+  console.log(e);
+}
+```
+
+![](@attachment/Clipboard_2020-05-19-20-29-12.png) 27:22
+
+As you can see, when we click the button we get the event. 
+
+Now let's grab the button that was clicked, and then save the answer. We will need to use `await` so let's mark the function as `async`.  
+For the question, we will want to pass the title whatever the button text is. To do that, we can use `button.dataset.question`. 
+
+```
+
+async function askQuestion(e) {
+  const button = e.currentTarget;
+  const answer = await ask({ title: button.dataset.question });
+  console.log(answer);
+}
+```
+
+![](@attachment/Clipboard_2020-05-19-20-38-38.png) 27:58
+
+As you can see, when you click the popup for name and enter name, we get the value back. 
+
+![](@attachment/Clipboard_2020-05-19-20-39-26.png) 28:10
+
+Now we need to check if someone has passed the `data-cancel` attribute, we need to pass `cancel` to the options object we are passing to `ask`. How do we tell if the user has passed a `data-cancel` attribute?
+
+Let's try logging the dataset. Add a log within `askQuestion` like so:
+
+```
+const button = e.currentTarget;
+console.log(button.dataset);
+```   
+
+If you refresh the page and click the age button you will see the `button` dataset logged to the console like so
+
+![](@attachment/Clipboard_2020-05-19-20-41-28.png) 28:52 
+
+Why is `cancel` an empty string? Because we didn't pass it as `data-cancel="true"`, because the way HTML attributes work is that simply by existing, they're true. By not existing, they are false. In addition, trying to convert a string of "true" and "false" is a bit of a nightmare, so instead we will just pass an attribuet with nothing in it if it means we should have a cancel button.
 
 
+To detect if it is there we can add the following code:
 
+```
+const shouldCanel = button.dataset.cancel;
+const answer = await  ask({title: butotn.dataset.question, cancel: shouldCancel});
+```
 
+If you refresh the page and try that, does it work? The answer is no, avnd the reason why it does not work is `shouldCancel` is going to give us an empty string. Is an empty string `true` or `false`? It is falsy! So if we are passing an empty string, it is going to be falsy. 
 
+You might think you could just put a bang infront of it like below but we still have the issue with an empty string being falsy.
 
+```
+const shouldCancel = !!button.dagtaset.cancel;
+```
 
+So how do we detect if there is a `cancel` property within the dataset? Because if it's not there, it won't exist. The way we can chek is using this syntax: 
 
+```
+const shouldCancel = 'cancel' in button.dataset;
+```
 
-
-
+stopped at 30:46
 
 
 

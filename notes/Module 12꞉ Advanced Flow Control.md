@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-20T11:01:32.152Z'
+modified: '2020-05-20T22:50:06.223Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -2559,6 +2559,12 @@ function getRandomBetween(min = 20, max = 150, randomNumber = Math.random()){
 
 Next we want to make our function called `draw` which will take in an element. Let's just log the element within that function for now. 
 
+```
+function draw(el){
+  const text = el.textContent;
+}
+```
+
 Below that, let's grab the elements with a `data-type` attribute on it. For each one, we will all the `draw` method. 
 
 ```
@@ -2573,6 +2579,209 @@ That works because it will call the function for us, for each one. We can take t
 document.querySelectorAll('[data-type']).forEach(draw);
 ```
 
-stopped at 6:59
+Next we want to start looping over it. We will do it twice.
+
+The first time we will use an async for of loop and then we are going to do it again with recursion.
+
+The way this `draw` function will work is we are going to erase all the text that is in the element and write it back in letter by letter.
+
+First we will write `T`, then `Th`, then `Thi`, then `This` and so on for all the text within the element.
+
+Let's make a variable called `soFar` which we will set to an empty string. Then we will loop over every letter of the text. 
+
+Previously for looping over letters we used a spread or we split it. But a `for of` loop has the ability to loop over text one letter at a time.  We will call the variable that represents each letter in our text variable `letter`. 
+
+```
+for(const letter of text){
+
+}
+```
+
+Now within the loop, we will log the letter and then on the next line we will tack the letter onto the `soFar` variable and then log that variable. 
+```
+function draw(el){
+  const text = el.textContent;
+  let soFar = '';
+  for(const letter of text){
+    console.log(letter);
+    soFar += letter;
+    console.log(soFar);
+  }
+}
+```
+
+If you take the `data-type` attribute off of the paragraph tag in our html and then open the console, it is easier to visualize this and how the text is slowly building up.
+
+![](@attachments/textflow.gif) 9:15
+
+If we tried to set the text content of the element to `el.textContent = soFar`, when you refresh the page it happens so fast that you can barely see it. 
+
+To fix that, let's wait for some amount of time. Let's make the `draw` function async and then add `await wait(10);`. 
+
+```
+async function draw(el){
+  const text = el.textContent;
+  let soFar = '';
+  for(const letter of text){
+    console.log(letter);
+    soFar += letter;
+    console.log(soFar);
+    await wait(10);
+  }
+}
+```
+
+That loops pretty cool but to make it seem more human, we will wait a random amount of time instead of 10 ms everytime. 
+
+Let's do that using our random number funciton. 
+
+```
+const amountOfTimeToWait = getRandomBetween();
+await wait(10);
+```
+
+We can do is we can pull in the min and max values from the data attributes using `el.dataset` and destructuring. Let's pass the min and max values to our random function. 
+
+```
+const { typeMin, typeMax } = el.dataset;
+const amountOfTimeToWait = getRandomBetween(typeMin, typeMax);
+await wait(amountOfTimeToWait);
+```
+
+We can get rid of all the console logs we have added and put the `data-type` back on our paragraph tag. 
+
+That is how you do it with a `for of` loop. 
+
+Next we will look at how we can do this with **recursion**. Recursion refers to this concept of a function calling itself until there is some sort of exit condition that tells it to stop.
+
+Let's make a function we will also call draw `draw`. 
+The way this function will work is we will keep an index variable inside of the function and increment it once each time.
+
+```
+function draw(el){
+  const index = 1;
+  const text = el.textContent;
+  const { typeMin, typeMax } = el.dataset; 
+}
+```
+
+We will add another function within this `draw` function to take advantage of closures because we can run a function multiple times while still accessing the variables within the `draw` function. Let's call that other function `drawLetter` and we will make it async.
 
 
+So the way this will work is we will start at the index and take 1 letter, then we will take two letters, and then three letters and so on using slice, and then we will update the element every single time. 
+
+```
+async function drawLetter(){
+  el.textContent = text.slice(0,index);
+}
+```
+
+Here is a quick refresher of how slice works. You pass it a starting and ending index and it will return the charactres inbetween like so. 
+
+![](@attachment/Clipboard_2020-05-20-18-36-53.png) 14:11
+
+```
+function draw(el){
+  const index = 1;
+  const text = el.textContent;
+  const { typeMin, typeMax } = el.dataset; 
+  async function drawLetter(){
+    el.textContent = text.slice(0,index);
+  }
+}
+```
+
+Now when you run this, nothing actually happens. It doesn't actually do anything but that is because we haven't called `drawLetter`. 
+
+Let's go ahead and do that. 
+
+```
+function draw(el){
+  const index = 1;
+  const text = el.textContent;
+  const { typeMin, typeMax } = el.dataset; 
+  async function drawLetter(){
+    el.textContent = text.slice(0,index);
+  }
+  //when this function draw() runs, kick off drawLetter
+  drawLetter();
+}
+```
+
+If you refresh the page you will just see the first letter which is okay because we still need to increment the index using `index = index + 1;` or `index += 1;`. And then we need to call `drawLetter()` again.
+
+How do we do that? We just call `drawLetter()` within our async function like so: 
+
+```
+function draw(el){
+  const index = 1;
+  const text = el.textContent;
+  const { typeMin, typeMax } = el.dataset; 
+  async function drawLetter(){
+    el.textContent = text.slice(0,index);
+    index += 1;
+    drawLetter();
+  }
+  //when this function draw() runs, kick off drawLetter
+  drawLetter();
+}
+
+document.querySelectorAll('[data-type]').forEach(draw);
+```
+
+This is the recursive part, meaning that part of the logic of `drawLetter` is to call itself. The way the code is now will create an infinite loop and will probably break the browser. 
+
+When Wes ran the code he got the following error..
+
+![](@attachment/Clipboard_2020-05-20-18-43-10.png) 15:43
+
+Remember when we discussed the call stack previously? What is happening is `drawLetter` is calling itself over and over again and eventually the browser complains that you have added too many things to the call stack. 
+
+What we need to do is add an exit condition. We need to check if the index is less than or equal to the length of our `text` variable, the run it again. 
+
+```
+  async function drawLetter(){
+    el.textContent = text.slice(0,index);
+    index += 1;
+    //exit condition
+    if(index <= text.length){
+        drawLetter();
+    }
+  }
+  //when this function draw() runs, kick off drawLetter
+  drawLetter();
+```
+
+What that will do is if there are no more letters to draw, it will stop and the function will end.
+
+If you refresh the page, it still works but it happens so quickly we don't see anything. 
+
+Let's wait 10 miliseconds using the wait function which we will add above the if statement. 
+
+Now if you refresh the page you will see it's adding the text at a rate of 10 miliseconds. 
+
+
+We can do the same thing we did in the previous method and grab our min and max  and pass it to `getRandomBetween`. The reason why we do thte calculation for the random amount of time inside of `drawLetter` is that we want every letter to be random. If we added that code at the top, the random value would only be calculated once. 
+
+
+```  
+function draw(el){
+  const index = 1;
+  const text = el.textContent;
+  const { typeMin, typeMax } = el.dataset; 
+  async function drawLetter(){
+    el.textContent = text.slice(0,index);
+    index += 1;
+    const amountOfTimeToWait = getRandomBetween(typeMin, typeMax);
+    //exit condition
+    await wait(10);
+    if(index <= text.length){
+        drawLetter();
+    }
+  }
+  //when this function draw() runs, kick off drawLetter
+  drawLetter();
+}
+```
+
+If you refresh the page, you will see that it still works. You could probably also do it with a While loop, but Wes would personally choose the `for of` loop but that is just a personal preference. 

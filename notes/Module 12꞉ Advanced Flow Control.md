@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif]
+attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-05-20T00:46:47.385Z'
+modified: '2020-05-20T11:01:32.152Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -2296,20 +2296,283 @@ So how do we detect if there is a `cancel` property within the dataset? Because 
 const shouldCancel = 'cancel' in button.dataset;
 ```
 
-stopped at 30:46
+What is that syntax? 
+
+Let's say we have an object `const wes = { name: 'wes'}`. 
+
+If we want to check if Wes has a name property. We are not checking that it is there, but simply that it has a name property. 
 
 
+To check for that, we can do `'name' in wes` which would return true and if we check for a property that doesn't exist like `'asfdas' in wes`. That is how you check if a property is there.
 
+We cannot use the other methods to check because sometimes a property is set to a falsy value such as an empty string or a 0. Using the `in` syntax solves that issue. 
 
+```
+const button = e.currentTarget;
+const shouldCancel = 'cancel' in button.dataset;
 
+const answer = await ask({
+  title: button.dataset.question,
+  cancel: shouldCancel
+});
+```
 
+Let's refactor that and rename `shouldCancel` to just `cancel` so we can use the shorthand syntax.
 
+```
+const answer = await ask({
+  title: button.dataset.question,
+  cancel
+});
+```
 
+NOTE: In the video, Wes pauses it to specify that he could have used `button.hasAttribute('data-cancel');` to check for this but he decided to leave this in the video because it is a good lesson on how to check if a property on an object exists, regardless of which value it is set to. 
 
+![](@attachment/Clipboard_2020-05-19-23-42-23.png) 31:33
 
+If you refresh the page, that should now work.
 
+Let's hook up the cancel button. Go back to where we created it and under the TODO comment we will create a callback function which resolves the promise with null, and then we will call `destroyPopup` because we want to completely remove the popup. 
 
+```
+skipButton.addEventListener(
+  'click', 
+  function(){
+  resolve(null);
+  destroyPopup(popup);
+  }, 
+  {once:true}
+);
+```
+
+If you refresh the page, you will see that it is still working.
+
+That is the basics of the pop-up. 
+
+The last thing we will cover is how to use the popup to ask questions in series. For example let's say someone is going through a form and you want to popup something and ask three pieces of data before they can continue. 
+
+Let's say we had an array of questions like you see in the image below. 
+
+![](@attachment/Clipboard_2020-05-19-23-48-08.png) 33:22
+
+How would we ask them in series? 
+
+You might assume we could use `Promise.all()`. For each one, we want to pass the `ask` a different question from the questions array like so: 
+
+```
+const answers = Promise.all([
+  ask(questions[0]);
+  ask(questions[1]);
+  ask(questions[2]);
+]).then(answers=>{
+  console.log(answers); 
+});
+```
+
+This is not an uncommon thing to do, waiting for few promises to resolve and then getting the answers. 
+
+WE have to use the promise syntax because we are not in an async function where  we are calling `Promise.all()`. 
+
+If you refresh the page and try that, you will see that the questions are asked out of order. What actually happened there is it works, but what is happening is there are actualy three popups on the page at the same time. 
+
+![](@attachment/Clipboard_2020-05-19-23-51-57.png) 35:04
+
+That is not a good solution, we do not want to pop them all up at once. `Promise.all` will fire them all off concurrently at the same time, which is often what you want but when you want to do it sequentially like we do, you cannot use `Promise.all`.
+
+A better way to do this would be to take your questions and map over each and pass in the `ask` function .
+
+```
+const qPromises = questions.amp(ask);
+console.log(qPromises);
+```
+
+If you refresh the page and look at that in the console, you will see we have an array of three promises which have not been answered yet. 
+
+![](@attachment/Clipboard_2020-05-19-23-54-00.png) 36:16
+
+What we can do is loop over the array and for each one return a promises to get an array of promises. Then you can wrap that in a `Promise.all()` like so. 
+
+```
+Promise.all(questions.map(ask)).then(data=> {
+  console.log(data);
+});
+```
+
+So what that will do is loop over each of the questions, pipe it into an ask function (which will return a promise), that will return to us an array. We wrap it in a `Promise.all()` and then listen with a then. This will actually work. 
+
+We still have the problem of the UI popping up all the time so that is not what we want.
+
+What we do want is to map over it, but asynchronously. 
+
+```
+questions.forEach(async function(){
+  console.log('Asking a question');
+  console.log(question);
+  const answer = await ask(question);
+  console.log(answer);
+})
+```
+
+![](@attachment/Clipboard_2020-05-19-23-57-28.png) 38:07
+
+That did not wait for anything right? They will resolve, but they all three ran at the same time. 
+
+So how do we make an async map function? We use a `for of` loop.
+
+Let's make an async function called `askMany`.  Within that function we will have the for of loop which loops through all the questions. Inside of the loop we will have `const answer = await ask(question);`. We will log the answer after it 
+
+```
+async function askMany(){
+  for(const question of questions){
+    const answer = await ask(question);
+    console.log(answer);
+  }
+}
+
+askMany();
+```
+
+Now when you refresh the page, you will see the questions come up one after the other and are submitted sequentially as well.
+
+![](@attachment/Clipboard_2020-05-20-00-00-29.png) 39:32
+
+The reason for that is unlike `map` and `foreach`, `for of` allows you to pause a loop by awaiting something inside of it, which is great.
+
+One thing Wes likes to do is make a utility function called `asyncMap` which does exactly what our function does but returns to us an array, like a map does. 
+
+We will be using generic variable names here to make the function as flexible as possible. 
+
+```
+async function asyncMap(array, callback){
+  // make an array to store our results
+  const results = [];
+  // loop over our array
+  for(const data of array){
+    const result = await callback(item);
+    results.push(result);
+  }
+  //when we are done the loop, return it
+  return results;
+}
+```
+
+Now what we should be able to do is, replacing the `askMany` code, we will make a new function called `go` which we will mark as async to allow us to run an await. 
+
+```
+async function go(){
+  const answers = await asyncMap(questions, ask);
+  console.log(answers);
+}
+
+go();
+```
+
+Now when you refresh the page and look at the reults, you should wee that we get our array back. 
+
+![](@attachment/Clipboard_2020-05-20-00-04-48.png) 42:40
+
+We could take things one step furether and refactor the function slightly to push the await of the callback directly like so: 
+
+```
+async function asyncMap(array, callback){
+  // make an array to store our results
+  const results = [];
+  // loop over our array
+  for(const data of array){
+    results.push(await callback(item));
+  }
+  //when we are done the loop, return it
+  return results;
+}
+```
 
 ---
 
 ## 73 - Async Typer UI - two ways
+
+![](@attachment/typer.gif) 00:55
+
+In this video we will using `async/await` and **recursion** to create the effect of someone typing at different speeds/ 
+
+We will do this by taking any element with a `data-type` attribute on it. We will figure out how we can make it look like it is being typed. We will also support the ability to pass in a `data-type-min` and a `data-type-max` attribute to specify the amount of time between each letter being typed to make it look a little more human (so instead of always typing a new letter every 10 miliseconds, there is a range).
+
+This is a great example of asynchronous code because if it was synchronous, the could would need to wait for one element's text to finish being typed before starting the next one. Using `async`, each element can wait for a certain amount of time without interfering with each other.
+
+
+We will be working out of `73 - async typer` exercise folder. Open up the `scripts.js` file and let's start by adding our `wait` function which we have used in the last few videos. 
+
+
+```
+funciton wait(ms = 0){
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+```
+
+Next we need a function that will return us a random number between a max and min value. 
+
+We already know that you can calculate a random number using a combination of `Math.floor` and `Math.random` like `Math.floor(Math.random() * 3)`. 
+
+![](@attachment/Clipboard_2020-05-20-06-45-58.png) 2:06 
+
+But what if you want a number between 10 and 15, how would we do that? It is basically the same thing, we just shift it up by the amount of the min.
+
+We will call `Math.random()` and multiply that by `(max - min)` and then add the min to that value. 
+
+Let's add defaults of 20 miliseconds for the min and 150 for the max. 
+
+```
+function getRandomBetween(min = 20, max = 150){
+  return Math.random() * (max - min) + min;
+
+}
+```
+
+If you refresh the page and try running the code, you will see that it gives us a random number between 0 and 100.
+
+You can also wrap that in a `Math.floor()` and that will give you a whole number. 
+
+One thing that people do not like about functions that  get random numbers is that it is not a **pure function**. Pure functions are functions where every single time that you run the function with certain parameters, you will always get the same result.
+
+A pure function is the idea that a function that takes in arguments will always, always return the exact same value. That makes testing your functions easy.
+
+So how do you write a pure function when the thing you are trying to do is implicitly random? You can do that by passing in a random number so you can then test it. We will replace where we use `Math.random` i nthe function to instead use the `randomNumber` parameter we pass in.
+
+```
+function getRandomBetween(min = 20, max = 150, randomNumber){
+  return Math.floor(randomNumber * (max - min) + min);
+}
+```
+
+![](@attachment/Clipboard_2020-05-20-06-53-09.png) 4:47
+
+This way, when you pass the arguments to the function, we will always get the same value returned.  
+
+To use this in a production application, you could do `getRandomBetween(0, 100, Math.random())` and pass the random number using `Math.random()`.
+
+One cheat you can do is set the default for `randomNumber` to be `Math.random()` like so...
+
+```
+function getRandomBetween(min = 20, max = 150, randomNumber = Math.random()){
+  return Math.floor(randomNumber * (max - min) + min);
+}
+```
+
+Next we want to make our function called `draw` which will take in an element. Let's just log the element within that function for now. 
+
+Below that, let's grab the elements with a `data-type` attribute on it. For each one, we will all the `draw` method. 
+
+```
+els.forEach(el=> draw(el));
+```
+
+We can refactor that code to be even shorter like so: `els.forEach(draw)`.
+
+That works because it will call the function for us, for each one. We can take that even one step further like so:
+
+```
+document.querySelectorAll('[data-type']).forEach(draw);
+```
+
+stopped at 6:59
+
+

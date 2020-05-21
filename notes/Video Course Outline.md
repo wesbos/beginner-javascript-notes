@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-20T04:05:09.300Z'
+modified: '2020-05-20T22:50:29.526Z'
 ---
 
 # Video Course Outline
@@ -105,7 +105,7 @@ Module 12: Advanced Flow Control
 70. ~~Async Await~~ (14:23)
 71. ~~Async Await Error Handling~~ (14:02)
 72. ~~Async Await Prompt UI~~ (43:44)
-73. Async Typer UI - two ways (18:18)
+73. ~~Async Typer UI - two ways~~ (18:18)
 
 Module 13 - Ajax and Fetching Data
 74. Ajax and APIs (18:13)

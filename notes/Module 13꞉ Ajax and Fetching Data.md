@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-21T11:11:58.140Z'
+modified: '2020-05-21T22:50:51.214Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -147,17 +147,192 @@ wesPromise
 
 Now when you refresh the page, we do not get the Promise anymore, instead we get this response object you see above. The response tells us the type is "cors" which we will talk about in a second. 
 
-stopeped at 9:00
+We have all these properties on the response object but where do we get the data? If you expand the properties like `headers` and `body`, you won't see much. 
+
+![](@attachment/Clipboard_2020-05-21-18-09-08.png) 9:27
+
+As you can see, the data is nowhere to be found. 
+
+There is another step that needs to happen before we can get the data. In the step we just did, we get the data that is steaming into the browser in the variable we have named `response`. The data is not yet fully downloaded and we also do not know what type of data is coming back, you can use `fetch` to fetch any type of data. It is not assumed it is JSON, it could be an image or raw text. 
+
+In order to actually get the data, we need to tell the browser that when the data is finished downloading, go ahead and convert it from JSON to a javascipt object. 
+
+![](@attachment/Clipboard_2020-05-21-18-22-56.png) 10:30
+
+If you look at the prototype of the response object, you will see that there is a number of methods on the response. In our case, we want to use `json()`.  
+
+We will return `response.json()` which will return another promise. 
+
+```
+wesPromise
+.then((response) => {
+  return response.json();
+}).catch(handleError);
+```
+Now we can chain on another `.then()` and then we will have the actual data, which we can log.
+
+After a split second, you should see that we have the full object. There is no need to `JSON.parse()` it because `response.json()` will do it. 
+
+SO you need to use a double promise to actually get the data when you use fetch.
+The first one gets the response and the second one gets the response and turns it into JSON for us.
+
+Now we can log information from the data we fetched. 
+
+```
+wesPromise
+.then((response) => {
+  return response.json();
+})
+.then(data=>{
+  console.log(data);
+  console.log(data.blog);
+  console.log(data.name);
+  console.log(data.location)
+
+})
+.catch(handleError)
+```
+
+![](@attachment/Clipboard_2020-05-21-18-29-13.png) 11:40
+
+Let's now display some info about the user. 
+
+Let's add a paragraph tag in our HTML and give it a class of `user`, then select it in our script tag. 
+
+```
+<body>
+  <p class="user"></p>
+  <script>
+    function handleError(err) {
+      console.log("OH NO!");
+      console.log(err);
+    }
+
+    const userEl = document.querySelector(".user");
+
+    const endpoint = "https://api.github.com/users/wesbos";
+
+    const wesPromise = fetch(endpoint);
+    wesPromise
+      .then((response) => response.json())
+      .then((data) => {
+        console.log(data);
+        console.log(data.blog);
+        console.log(data.name);
+        console.log(data.location);
+        userEl.textContent = `${data.name} - ${data.blog}`;
+      })
+      .catch(handleError);
+  </script>
+</body>
+```
+
+![](@attachment/Clipboard_2020-05-21-18-35-48.png) 12:40
+
+As you can see, it pops up.
+
+One other thing you can do is set the text content of the element as loading before we replace it with the data, so for a split second you will see "loading...". 
+
+```
+userEl.textContent = "loading....";
+const wesPromise = fetch(endpoint);
+```
+
+Now let's refactor this to use `async/await`. 
+
+We will make an async function `displayUser` that takes in a `username`. Let's bring all of the code we wrote after we grab the element with the class of `user` and put it into our `displayUser` function. 
+
+![](@attachment/Clipboard_2020-05-21-18-38-59.png) 13:39
+
+Now let's go line by line. We will leave the first line as is.
+
+The promise where we fetch the endpoint can now be switched to await and that no longer is a Promise but is a response. Then we can get the data by awaiting `response.json()`. 
+
+```
+async function displayUser(username) {
+  userEl.textContent = 'loading...';
+  const response = await fetch(endpoint);
+  const data = await response.json();
+  console.log(data);
+  console.log(data.blog);
+  console.log(data.name);
+  console.log(data.location);
+  userEl.textContent = `${data.name} - ${data.blog}`;
+}
+```
+
+The only thing left is to call `displayUser` on pageload. 
+
+Let's go ahead and display the user. To do that we will replace the `endpoint` variable with `baseEndpoint` and make another variable for the `usersEndpoint `  like so
+
+```javascript
+const baseEndpoint = "https://api.github.com";
+const usersEndpoint = `${baseEndpoint}/users`;
+```
+
+Now we can fetch the username that was pass in by replacing our fetch with the following:
+
+```
+const response = await fetch(`${usersEndpoint}/${username}`);
+```
+
+That allows us to generate the endpoint on the fly based on what was passed in. Let's try calling it from the bottom of our script tag with the user `stolinski`. 
+
+```
+<script>
+  const baseEndpoint = "https://api.github.com";
+  const usersEndpoint = `${baseEndpoint}/users`;
+  const userEl = document.querySelector(".user");
+
+  async function displayUser(username) {
+    userEl.textContent = "loading...";
+    const response = await fetch(`${usersEndpoint}/${username}`);
+    const data = await response.json();
+    console.log(data);
+    console.log(data.blog);
+    console.log(data.name);
+    console.log(data.location);
+    userEl.textContent = `${data.name} - ${data.blog}`;
+  }
+
+  function handleError(err) {
+    console.log("OH NO!");
+    console.log(err);
+  }
+
+  displayUser("stolinski")
+</script>
+```
+
+One thing we are not doing is catching the error so if something went wrong, like we misspelt the github url in our `baseEndpoint`. 
+
+`displayUser("stolinski").catch(handleError);`
+
+![](@attachment/Clipboard_2020-05-21-18-47-30.png) 16:32
 
 
+TIP: You can filter out just AJAX request from the Network tab by clicking XHR. 
+![](@attachment/Clipboard_2020-05-21-18-47-00.png) 16:11
+
+Let's add one more thing to our `handleError` function. 
+
+```
+function handleError(err) {
+  console.log("OH NO!");
+  console.log(err);
+  userEl.textContent = `Something went wrong: ${err}`;
+}
+   
+```
+
+![](@attachment/Clipboard_2020-05-21-18-48-54.png) 16:55
 
 
+Let us do one more example. It is hard to find good APIs that are public and don't require API keys. There is a good list of them in the github repo https://github.com/public-apis/public-apis
 
+![](@attachment/Clipboard_2020-05-21-18-50-37.png) 17:34
 
-
-
-
-
+You can scroll through and find different APIs for all different things. 
 
 ---
 ## 75 - CORS and Recipes

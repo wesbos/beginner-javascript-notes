@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-21T22:50:51.214Z'
+modified: '2020-05-22T12:18:26.572Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -332,27 +332,75 @@ Let us do one more example. It is hard to find good APIs that are public and don
 
 ![](@attachment/Clipboard_2020-05-21-18-50-37.png) 17:34
 
-You can scroll through and find different APIs for all different things. 
+You can scroll through and find different APIs for all different things. v
 
 ---
 ## 75 - CORS and Recipes
 
+In this video we are going to build an app that searches for a recipe based on a keyword and then we will display the data.
 
+Instead of Wes using a perfect API and showing you an example with no hurdles, we will use a real API. Working with APIs can be frustrating so Wes wants to go through all those hurdles together so when you try it yourself, you will know how to approach these common pitfalls. 
 
+We will be using www.recipepuppy.com. 
 
+![](@attachment/Clipboard_2020-05-22-07-49-00.png) 00:52 
 
+The way that it works if you look at the docs is you go to the url and you pass `i` which is ingredients, you pass `q` which is your omelet and then you pass `p` which is your page. You can see that on the homepage, they have additional parameters you can pass. 
 
+http://www.recipepuppy.com/api/?i=onions,garlic&q=omelet&p=3 
 
+![](@attachment/Clipboard_2020-05-22-07-54-59.png) 1:08
 
+`i`, `q` and `p` are all parameters. Let's talk about parameters. 
 
+Sometimes when you got to a URL, you see these question marks on the end.
+Even when you submit a form they are there.
+![](@attachment/Clipboard_2020-05-22-07-59-32.png) 1:22
 
+Those are referred to as **query params**.  Let's break down the ones from the url above. 
 
+```
+?i=onions,garlic&q=omelet&p=3 
+```
 
+The query parameters portion of a url will always start with a question mark. So the first parameter will always start with a question mark and then the additional parameters are separated by an ampersand `&`. That is how you can multiple parameters. 
 
+```
+?
+i=onions,garlic
+&
+q=omelet
+&
+p=3 
+```
 
+We are passing multiple ingredients to the `i` parameter. Using commas to separate the multiple items is not a standard thing, it is just how that API works. `q` is the recipe you are looking for in this example and `p` is page, which is how this API handles pagination. 
 
+The parameters are never standard, every API implements them a little bit differently so you always have to go and read the docs. 
 
+For this lesson we will be working out to the `/excercises/75 - CORS and Recipes/` directory. 
 
+![](@attachment/Clipboard_2020-05-22-08-10-11.png) 2:31
+
+We will have a form where the use can type in a keyword and that will return a list of recipes as well as the recipe ingredients and thumbnails as well. 
+
+ We won't worry about the UI just yet, let's just getting it working.
+
+ In the empty `scripts.js` file, let's add our base url. Then create an async function that takes in a parameter and fetches that from the endpoint, and we will call that function on runtime. 
+
+ ```
+ const baseEndpoint = "http://www.recipepuppy.com/api"
+
+ async function fetchRecipes(query){
+   const res = await fetch(`${baseEndpoint}?q=${query}`);
+   const data = await res.json();
+ }
+ fetchRecipes('pizza');
+ ```
+
+ Now let's fetch some data. If we refresh the page and go to our dev tools to see what we are working with, you will see we get an error
+
+ 4:36
 
 
 

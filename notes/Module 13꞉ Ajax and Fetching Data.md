@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-22T12:18:26.572Z'
+modified: '2020-05-23T13:15:27.978Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -398,10 +398,68 @@ We will have a form where the use can type in a keyword and that will return a l
  fetchRecipes('pizza');
  ```
 
- Now let's fetch some data. If we refresh the page and go to our dev tools to see what we are working with, you will see we get an error
+ Now let's fetch some data. If we refresh the page and go to our dev tools to see what we are working with, you will see we get an error.
 
- 4:36
+ ![](@attachment/Clipboard_2020-05-23-08-46-00.png) 4:30
 
+>Access to fetch at 'http://www.recipepuppy.com/api?q=pizza' from origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. >If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+www.recipepuppy.com/api?q=pizza:1 Failed to load resource: net::ERR_FAILED
+scripts.js:6 Uncaught (in promise) TypeError: Failed to fetch
+
+If you look at the network tab, and filter for XHR, you will see the request but there is no response data. 
+
+![](@attachment/Clipboard_2020-05-23-08-49-00.png) 4:57
+
+ What happened there is the browser blocked it because of something called **CORS**. What does CORS mean? It stands for Cross Origin Resource Sharing.
+
+ Let's break down what that means piece by piece. 
+ 
+ The CO stands for cross origin. What are origins? Take the two websites: wesbos.com and github.com. Those are both origins. Domain names are origins. 
+
+ Now if we want to share data between the two, by default you cannot. Onlyt sharing data between the same domain name is allow, so you can share data from wesbos.com to wesbos.com/about for example. 
+
+ As soon as you go cross origin from one domain name to another, then you start getting in trouble because that is a security issue in the browser. Let's say you were logged into your bank at bank.com while you were also running code from wesbos.com.
+
+The javascript you are running on wesbos.com shoul not be able to reach into bank.com. That would be a security issue. So by default, websites cannot talk to each other from one domain to another. 
+
+That is a pretty valid use case however, having a website like wesbos.com from which we want to pull data another websites like from recipepuppy.com. 
+
+How can we get those two websites to talk? What has to happen is the website that the data is being pulled from has to implement something called a CORS policy. A CORS policy is something that happens on the server (it must happen on the server, there is nothing you can do in the browser about this). 
+
+On the server there is a CORS poicy that says wesbos.com is allows to ask for dara and we will return it. Recipepuppy.com has to say these are the domain names that are allowed to transfer data from one to another, and it has to happen on the server of the person that has the data.
+
+In order for us to initially get involved with CORS, we need an origin before we can go ahead and use it. So if we look at the error we got in the console, it says 
+>origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+We are getting that error because we are runnign the code right off the file access. The first thing you do when you see that issue is say "okay, I can no longer run this from the file, I need to run it from a server. So the first step we need to do is get the server up and running, so we can at least see if that fixes it (in most cases, it will). 
+
+ Now let's go into the terminal and navigate to our `exercises/75 - CORS and Recipes/` directory. 
+
+ From here we need a server to use. This could be any server, you could use browsersync, upload the code to CodePen, in our case, we are going to use Parcel which is a quick little server. 
+
+ Let's get Parcel running by running `npm init` in the console. 
+
+ ![](@attachment/Clipboard_2020-05-23-09-09-31.png) 9:17
+
+ You need to put a package name which you can call anything, Wes chose `dogrecipes` and then you just keep hitting enter in the console when you are prompted for a few questions like you see above. 
+
+Once that is finished installing, you can type `npm install parcel-bundler` into the terminal. 
+
+Once that is installed, you should see a `packages.json` file in your folder (there will also be a lock file). This packages file is where we can go and change our scripts, just like we did before. Open the file and modify the script start to be the same as you see below: 
+
+```
+ "scripts": {
+    "start": "parcel index.html"
+  },
+```
+
+Now when we run `npm start`, it will open up localhost:1234 or another port.  
+
+![](@attachment/Clipboard_2020-05-23-09-14-45.png) 10:04
+
+Let's open that url and look at the console. You will notice we still have an issue. 
+
+![](@attachment/Clipboard_2020-05-23-09-15-26.png) 10:11
 
 
 

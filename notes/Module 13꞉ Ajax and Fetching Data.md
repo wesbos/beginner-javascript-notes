@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-23T13:15:27.978Z'
+modified: '2020-05-23T13:48:46.217Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -457,15 +457,43 @@ Now when we run `npm start`, it will open up localhost:1234 or another port.
 
 ![](@attachment/Clipboard_2020-05-23-09-14-45.png) 10:04
 
-Let's open that url and look at the console. You will notice we still have an issue. 
+Let's open that url and look at the console. You will notice we still have another issue. This is issue #2.
 
 ![](@attachment/Clipboard_2020-05-23-09-15-26.png) 10:11
 
+We are getting this errror "regeneratorRuntime is not defined". This issue has nothing to do with CORS. You yourself may not see this issue, but instead see another CORS issue. If that is the case, skip ahead to that. 
 
+#### regeneratorRuntime error
 
+If you do run into this issue, Wes will explain it. `regeneratorRuntime` is a thing called Babel. Babel takes your javascript, with things like `async/await` and backticks, which are relatively new to Javascript. Sometimes you need to support browswers that are old and don't know about things like `async/await` etc. 
 
+Babel will take your modern javascript code and transpile it into Javascript that is runnable on older browseres like IE or older Safari. That will give you Javascript that works the same way, it has just been transpiled into the equivalent in older Javascript with callbacks and things like that.
 
+The weird thing about Babel is it wants to compile `async/await`, even though in most cases you don't need to be cause it's available in almost all browsers and has been for a few years. 
 
+So we need to tell Babel not to transpile `async/await` because we don't need that transpiled. The way we can get around that is to go to the `package.json` and somewhere in there we will add a `broswerslist` property to the JSON file.
+
+![](@attachment/Clipboard_2020-05-23-09-45-11.png) 12:40
+
+browserslist is a package that allows you to define which browsers you are currently supporting. There is a huge list of filtering options like less than 1% usage, blackberry 7, etc. You can just write them in plain english and that will convert them. That is what tells babel what to transpile, and what to just leave as is. 
+
+Note: Within `packages.json` you must use double quotes instead of single because it is JSON. 
+
+```
+ "browserslist": [
+    "last 1 chrome versions"
+  ],
+```
+
+Wes likes to use the filter above because it tricks babel into thinking you are supporting the latest and greatest and then it won't actually transpile it. 
+
+Now when you look at the page the error should be gone, but you may see other errors which is fine.
+
+![](@attachment/Clipboard_2020-05-23-09-48-29.png) 13:24
+
+If you do have issue, a quick troubleshooting. 
+
+stopped at 13:48
 
 
 

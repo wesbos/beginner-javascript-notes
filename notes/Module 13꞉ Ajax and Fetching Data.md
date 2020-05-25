@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-25T12:03:59.312Z'
+modified: '2020-05-25T12:20:46.489Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -969,17 +969,76 @@ async function fetchJoke() {
 
 That still works because we are in an async function so we will just be awaiting the fetch joke either way. 
 
-Wes prefers to do it the way we originally coded it. 
+Wes prefers to do it the way we originally coded it so that if we needed to log the response, it's as easy as adding a log.
 
-stopped at 8:08
+The next thing we want to do is wire up the button so that when someone clicks it, we will fetch a joke. 
 
+Get rid of our call to `fetchJoke` on runtime and instead let's make an async function called `handleClick` which will be responsible for fetching a joke. 
 
+```
+async function handleClick(){
+  const { joke } = await fetchJoke();
+  console.log(joke);
+}
+```
 
+The reason we are using destructuring is that `fetchJoke` will return an object to us with properties of `id`, `joke` and `status`.  We only want the joke property for now so we are destructuring the joke property to it's own variable. 
 
+Next let's add an event listener for the click event. When it happens, we will run `handleClick`. 
 
+```
+jokeButton.addEventListener('click', handleClick);
+```
 
+If you refresh the page and open the console, you will see everytime we click the button, a new joke is logged. 
 
+![](@attachment/Clipboard_2020-05-25-08-11-39.png) 9:29
 
+What we can do within `handleClick` is we can take the `jokeHolder` and set  it's `textContent` to be the joke. 
+
+```
+async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+}
+```
+
+Now when you click the button, the joke should populate and change within the paragraph tag. 
+
+![](@attachment/Clipboard_2020-05-25-08-14-33.png) 9:48
+
+Next we want to tahe button text and replace it with one of the strings in the `buttonText` variable below. 
+
+```
+
+const buttonText = [
+  "Ugh.",
+  "🤦🏻‍♂️",
+  "omg dad.",
+  "you are the worst",
+  "seriously",
+  "stop it.",
+  "please stop",
+  "that was the worst one",
+];
+```
+
+Let's call this function `getItemFromArray` and it will accept two arguments, the array, and then what to not be (we will implement that second param in a sec). 
+
+If the array is 5 items long, then to find a random index between 0 - 4 we can use `Math.random() * 5`. 
+
+```
+function randomItemFromArray(arr, not) {
+  const item = arr[Math.floor(Math.random() * arr.length)];
+  return item;
+}
+```
+
+The reason we are using the passed in array to calculate the length and not the `buttonText` variable is that we want this function to be a utility function, and he wants to be able to use them for anything, not just with the `buttonText` array.
+
+Now let's try to run it. 
+
+stopped at 11:00
 
 
 ---

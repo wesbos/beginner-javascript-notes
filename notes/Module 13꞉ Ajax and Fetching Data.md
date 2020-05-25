@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-23T13:48:46.217Z'
+modified: '2020-05-25T00:36:16.613Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -491,14 +491,294 @@ Now when you look at the page the error should be gone, but you may see other er
 
 ![](@attachment/Clipboard_2020-05-23-09-48-29.png) 13:24
 
-If you do have issue, a quick troubleshooting. 
+If you do have issues, kill the server by pressing Ctrl + C while focused in the terminal. Then open the folder up in your finder, and find the `cache/` and `dist/` folders within there and just delete those. 
 
-stopped at 13:48
+![](@attachment/Clipboard_2020-05-23-18-06-46.png) 13:47
+
+Now run `npm run start`, and that will fire it up again. 
+
+Problem number two, we have solved by using browserslist (you might not need to do that in the future). 
+
+The next problem is kind of the same error we had in the first issue.
+
+![](@attachment/Clipboard_2020-05-23-18-13-09.png) 14:06
+
+As you can see, even though we are now running our code on a server instead of access it right from the file, we are still getting an error except this time it is complaining about localhost:1234 not origin. 
+
+It seems like recipepuppy is complaining and saying, nope, you cannot use this in the browser.
+
+Let's take a look at the docs because sometimes they will offer solutions such as use a callback. There is nothing on the page that suggests that we should or shouldn't use it with Javascript, which is a bit of a bummer.
+
+So what are you supposed to do if the CORS policy doesn't work or they don't have a CORS policy on it? It's not like they are explicitly blocking websites from accessing it, it's more likely they just have never implemented a CORS policy. 
+
+If you look at the website, you can see it has a link to "Recipe Puppy for iPhone", and if you were using this in an iPhone app you are not restricted to CORs because there are no multiple tabs open and things like that.
+
+So what is the solution? The solution is that the request would work if it was made from anything other than a browser. 
+
+If we were to request the same data from the API using Node.js, php, ruby on rails or anything else, than it is totally allowed. 
+
+So the solution is instead of going directly from localhost to recipepuppy, we need to put something in between called a **proxy**. 
+
+It will work like this: localhost will send the data to the proxy. Then the proxy will do a request to recipepuppy on the server side, which recipepuppy allows so it will send data back to the proxy, and then the proxy sends it back to the localhost.  
+
+To use a proxy you either have to build one yourself which requires building an entire server that handled your requests and locked it down or in some cases, where it is something silly with no usernames, passwords or nothing sensitive being sent, you can use a **CORS** proxy that people have provided and you can just stick infront of your url and it will proxy the data for you. 
+
+To find one, just google CORS proxy.
+
+![](@attachment/Clipboard_2020-05-23-18-39-22.png) 17:28
+
+Wes has found that the `https://cors-anywhere.herokuapp.com` one works the best. 
+
+![](@attachment/Clipboard_2020-05-23-18-40-20.png) 17:37
+
+If you go to the website you will just see the text above, but the way that it works if you take the url and paste it infront of your urls and that will proxy that data for you. 
+
+```
+const baseEndpoint = "http://www.recipepuppy.com/api";
+
+async function fetchRecipes(query) {
+  const res = await fetch(
+    `https://cors-anywhere.herokuapp.com/${baseEndpoint}?q=${query}`
+  );
+  const data = await res.json();
+} 
+fetchRecipes("pizza");
+```
+
+To be absolutely clear here: you are sending you data through a random web server that is controlled by who knows who. Never use this for something that has sensitive data like passwords, emails or login information. If that is the case, you have to run your own server.
+
+In our case, we are just using it to learn and look up recipes so it doesn't matter that someone random may have access to that data.
+
+Let's refactor the code slightly to the put proxy url in it's own variable like so:
+
+```
+const baseEndpoint = "http://www.recipepuppy.com/api";
+const proxy = "https://cors-anywhere.herokuapp.com/";
+
+async function fetchRecipes(query) {
+  const res = await fetch(`${proxy}${baseEndpoint}?q=${query}`);
+  const data = await res.json();
+}
+fetchRecipes("pizza");
+```
+
+Now if we refresh the page, the error should be gone. Let's also console log the data. 
+
+![](@attachment/Clipboard_2020-05-23-18-44-58.png) 19:07
+
+Now that we finally have the data working, we need to loop through them and show them based on what the user has searched for. 
+
+Let's make an event listener and handler for the submit event when the user enters a keyword and hits the submit button. 
+
+```
+function handleSubmit(event){
+  event.preventDefault();
+  console.log(event.currentTarget);
+}
+
+form.addEventListener('submit', handleSubmit);
+fetchRecipes('pizza');
+```
+
+To grab the value of the query we can modify the code to use `event.currentTarget.query.value` because the input has a `name` attribute of `query`. 
+
+![](@attachment/Clipboard_2020-05-23-18-52-43.png) 20:25
+
+If you were to refresh the page, you should see pizza logged. 
+
+Next let's add some sort of loading screen because we don't want the user searching for many things over and over again while the API is still searching. 
+
+There are a couple of ways to do that. The easiest is if you go to the input button and add a `disabled` attribute. That will stop the user from actually clicking it.
 
 
+````
+<button disabled type="submit">Submit<button>
+```
+
+There is no visual different there, so let's add a style for buttons with the disabled attribute
+
+```
+button[disabled] {
+  opacity:0.2;
+}
+```
+
+![](@attachment/Clipboard_2020-05-23-18-55-31.png) 21:40
+
+Now it is clear that the button is disabled.
+
+Another trick you can do is take a fieldset and wrap all your inputs in that fieldset and then put a disabled attribuet on the fieldset itself. That will prevent someone from being able to type in the box or click on the buttons as well. 
+
+Either one is totally fine, as long as the user is prevented from making multiple requests at the same time.
+
+Let's add a name attribute to the button of `name="submit"`. 
+
+Now in our script file we can access the submit button within the `handleSubmit` function, disable it, and then call `fetchRecipes` and pass it what the user searched.  
+
+```
+function handleSubmit(event){
+  event.preventDefault();
+  const form = event.currentTarget;
+  //turn the form off
+  form.submit.disabled = true;
+  //submit the search
+  fetchRecipes(form.query.value);
+}
+```
+
+Now let's modify our `fetchRecipes` function to return the data instead of just logging it. 
+
+```
+async function fetchRecipes(query) {
+  const res = await fetch(`${proxy}${baseEndpoint}?q=${query}`);
+  const data = await res.json();
+  return data;
+}
+```
+
+Next we can await the fetchRecipes by marking our `handleSubmit` function as async.
+
+```
+async function handleSubmit(event) {
+  event.preventDefaut();
+  console.log(form.query.value);
+  const el = event.currentTarget;
+  // turn the form off
+  el.submit.disabled = true;
+  // submit the search
+  const recipes = await fetchRecipes(el.query.value);
+  console.log(recipes);
+  el.submit.disabled = false;
+}
+```
+
+Now when we submit the form, it should disable the button, fetch the recipes, log the recipes and the renable the button. 
+
+Now if you were to search something like "chicken" the form would submit, the button will be disabled for a minute and then in the console you would see the results of recipes with chidekn in them and the button would be reenabled.
+
+![](@attachment/Clipboard_2020-05-24-20-07-52.png) 24:45
+
+Let's make another function called `displayReicpes` will will take in the array of recipes, and inside of that function we will generate the HTML to display the recipes.
+
+How will see pass the recipes array from the `handleSubmit`? If you log `recipes`, you will see that it actually return an object and the recipes array lives on the `results` property of the `recipes` object. 
+
+So we can pass the array like so `displayRecipes(recipes.results);`. 
+
+Within `displayRecipes` will will loop through each recipe and return some generated HTML. We will return the title, ingredients and a thumnail if there is one (which we will check for with a conditional). 
+
+This might look a little confusing because you can nest template tags within template tags as deep as you want.
+
+Here we have one template tag and inside of that template tag we can run javascript logic, and also return another template tag which in turn will have template tags inside of them. 
+
+```
+function displayRecipes(recipes) {
+  console.log("Creating HTML");
+  const html = recipes.map(
+    (recipe) => `<div class="recipe">
+      <h2>${recipe.title}</h2>
+      <p>${recipe.ingredients}</p>
+      ${recipe.thumbnail &&
+        `<img src="${recipe.thumbnail}" alt="${recipe.title}"/>`}
+    </div>`
+  );
+  recipesGrid.innerHTML = html.join("");
+}
+```
+
+![](@attachment/Clipboard_2020-05-24-20-17-04.png) 28:24
+
+As you can see, for each recipe we had returned we have some HTML generated for them.
+
+Now let's go back to our HTML and make a div `<div class="recipes"></div>`. Inside of that div, we will put a grid of recipes. 
+
+Let's start by grabbing the div.
+
+```
+const recipesGrid = document.querySelector('.recipes'); 
+```
+
+At the bottom of displayRecipes, let's set the innerHTML of the recipes grid to be equal to our array of html, which we will join. If we didn't join it, there would be a comma between each of the elements. 
+
+```
+recipesGrid.innerHTML = html.join('');
+```
+
+When you refresh the page, the HTML should look something like this;
+
+![](@attachment/Clipboard_2020-05-24-20-20-43.png) 29:21
+
+![](@attachment/Clipboard_2020-05-24-20-21-00.png)29:32
+
+For each item, we created a div, added the title and the ingredients and then some of them have images.
+
+Now le'ts add the following css to make it look better:
 
 
+```
+.recipes {
+   display:grid;
+   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+   grid-gap:20px
+}
 
+.recipe {
+   border: 1px solid rgba(0, 0,0,0.1);
+   padding: 20px;
+}
+```
+
+One thing we forgot to add was linking to the actualy recipe with an `href`. 
+
+Let's go back to our `displayRecipes` function and modify it like so:
+
+```
+function displayRecipes(recipes) {
+  console.log("Creating HTML");
+  const html = recipes.map(
+    (recipe) => `<div class="recipe">
+      <h2>${recipe.title}</h2>
+      <p>${recipe.ingredients}</p>
+      ${recipe.thumbnail &&
+        `<img src="${recipe.thumbnail}" alt="${recipe.title}"/>`}
+      <a href="${recipe.href}">View Recipe →</a>
+    </div>`
+  );
+  recipesGrid.innerHTML = html.join("");
+}
+```
+
+The one issue we have it not running on page load. Why is that?  If you look, a lot of our logic is tied to the submit event, so we can't just run that on page load unless we were to fake a submit event. 
+
+To solve that issue, we will make another async function called `fetchAndDisplay` which will take in a parameter `searchTerm`. 
+
+We will take all the logic from the `handleSubmit` function below where wew log the search term and we will move it to `fetchAndDisplay`. We will modify the code slightly amd also add a call in `handleSubmit` to `fetchAndDisplay` which will take in the search term as a parameter. 
+
+One thing we need to change is that we no longer have access to the `el` function in `fetchAndDisplay`. The element would need to be either globally scoped or passed the function. Luckily we do have the form globally scoped. 
+
+```
+async function handleSubmit(event) {
+  event.preventDefault();
+  const el = event.currentTarget;
+  console.log(form.query.value);
+  fetchAndDisplay(form.query.value);
+}
+
+async function fetchAndDisplay(query) {
+  // turn the form off
+  form.submit.disabled = true;
+  // submit the search
+  const recipes = await fetchRecipes(query);
+  console.log(recipes);
+  form.submit.disabled = false;
+  displayRecipes(recipes.results);
+}
+```
+
+Now we need run it on pageLoad. We will do that by replacing the last line of code from `fetchRecipes("pizza");` to `fetchAndDisplay('pizza');`.
+
+Now if you refresh the page, you will see it is running on pageload with the default term "pizza" and if you type in another search term and hit submit, it will work. 
+
+That is the basics. It would be an interesting to take this exercise even further and have it so people could have an input box for ingredients and that would get passed along for the ride. 
 
 
 ---

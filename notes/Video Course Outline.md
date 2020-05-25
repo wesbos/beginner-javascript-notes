@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-22T01:12:58.695Z'
+modified: '2020-05-25T00:37:35.218Z'
 ---
 
 # Video Course Outline
@@ -109,7 +109,7 @@ Module 12: Advanced Flow Control
 
 Module 13 - Ajax and Fetching Data
 74. ~~Ajax and APIs~~ (18:13)
-75. CORS and Recipes (34:47)
+75. ~~CORS and Recipes~~ (34:47)
 76. Dad Jokes (23:11)
 77. Currency Converter (28:30)
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-25T00:36:16.613Z'
+modified: '2020-05-25T12:03:59.312Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -784,20 +784,194 @@ That is the basics. It would be an interesting to take this exercise even furthe
 ---
 ## 76 - Dad Jokes
 
+We will be doing another AJAX example in this video, but this time using a Dad Joke API. Everytime you click the button, a new random dad joke should be fetched from the API and displayed and the button text will change occassionally.  
+
+![](@attachment/Clipboard_2020-05-25-07-08-45.png) 00:17
+
+We will be using the API https://icanhazdadjoke.com/api which has a few endpoints. We will be using the "get a random dad joke" endpoint. 
+
+![](@attachment/Clipboard_2020-05-25-07-10-09.png) 00:41
+
+This example will require custom headers which is a good thing to learn. We will also be learning how to ensure that the button text never uses the same text twice, because sometimes random is not random enough.
+
+Navigate to the `exercises/76 - Dad Jokes/` directory and open up `index.html`. 
+
+![](@attachment/Clipboard_2020-05-25-07-18-56.png) 1:20  
+
+We have some basic HTML to start with a div that contains a paragraph tag in which to display the joke as well as the button with a class of `getJoke` and a script tag. 
+
+Let's start by selecting the button and the paragraph tag inside of the joke div.
+
+```
+const jokeButton = document.querySelector('.getJoke');
+const jokeHolder = document.querySelector('.joke');
+```
+
+Let's create a function that will be responsible for fetching the joke. Let's look at the API docs for fetching a random joke. 
+
+![](@attachment/Clipboard_2020-05-25-07-26-12.png) 2:04
+
+No authentication is required. There is this one note however.. 
+
+>All API endpoints follow their respective browser URLs, but we adjust the response formatting to be more suited for an API based on the provided HTTP Accept header.
+
+What that means is we can get the joke back as HTML, JSON or plain text. That is interesting because the endpoint is going to be the same for everybody, but depending on what we pass, it will return different values to us. 
+
+Let's start by writing the function that will fetch the joke. We will fetch the joke using the endpoint, and then just log the response for now. We will then call `fetchJoke` on runtime.
+
+```
+const jokeButton = document.querySelector(".getJoke");
+const jokeHolder = document.querySelector(".joke");
+
+const buttonText = [
+  "Ugh.",
+  "🤦🏻‍♂️",
+  "omg dad.",
+  "you are the worst",
+  "seriously",
+  "stop it.",
+  "please stop",
+  "that was the worst one",
+];
+
+async function fetchJoke() {
+  const response = await fetch("https://icanhazdadjoke.com");
+  console.log(response);
+}
+
+fetchJoke();
+```
 
 
+If you refresh the page, you should see the response is something similar to what you see below.
 
 
+![](@attachment/Clipboard_2020-05-25-07-32-45.png) 3:38
+
+Now we need to turn that stream into something that is human readable. Let's try to do `response.json()` like we have used in the past and log that. 
+
+```
+const joke = response.json();
+console.log(joke);
+```
+
+However, if you try that, you will see an error like the following: 
+
+>Uncaught (in promise) SyntaxError: Unexpected token < in JSON at position 0 
+
+What that errors means is that you have most likely been returned some HTML (since it returned an open angle bracket `<`) and while it is trying to part that JSON it is complaining.
+
+The way we can check for that is to go to the network tab and find the actual request and click through it, you will see that the response is just an HTML document that came back. 
+
+![](@attachment/Clipboard_2020-05-25-07-38-47.png) 4:36
+
+Not all websites allow you to fetch HTML but since this API has a CORS policy setup, we are able to do it. 
+
+SO the API is telling us we need to pass an Accept header which is either:
+
+- text/html (this is what we just saw)
+- application/json
+- text/plain
+
+We need to pass that option along a header. 
+
+What is a **header**? A header is some additional information that comes along with a request, kind of like when we pass query parameters, but headers are passed in a different way.
+
+If you look at our dad joke API fetch request in the network tab and click it, you can click the headers tab and see the headers that were passed along with the request, and the headers that were passed along with the response.
+ 
+![](@attachment/Clipboard_2020-05-25-07-47-05.png) 5:33
+
+So what we need to do is pass along additional information with `fetch`. The way it works is you pass a second object to fetch, which can take in a whole bunch of different arguments. 
+
+```
+const response = await fetch('http://icanhazdadjoke.com', {
+  headers:{
+
+  }
+});
+const joke = response.json();
+console.log(joke);
+```
+
+The docs said the API requires an Accept header so let's go ahead and add that. 
+
+```
+const response = await fetch('http://icanhazdadjoke.com', {
+  headers:{
+    Accept: 'application/json',
+  }
+});
+
+```
+
+If you refresh the page now, you will see a promise. 
+
+![](@attachment/Clipboard_2020-05-25-07-51-03.png) 6:13
+
+That is because we forgot to await the response. Modify the code like so: 
+
+```
+const joke = await response.json();
+console.log(joke);
+```
+
+Now what comes back is the data. 
+
+![](@attachment/Clipboard_2020-05-25-07-52-59.png) 6:40
+
+```
+const response = await fetch('http://icanhazdadjoke.com', {
+  headers:{
+    Accept: 'application/json',
+    Accept: 'text/plain'
+  }
+});
+
+```
+
+![](@attachment/Clipboard_2020-05-25-07-54-38.png) 6:59
+
+Now if we change that to text/plain (it is fine to have two, the one further down will overwrite the earlier ones, we will a similar error about unexpected token W.
+
+If you look at the response, it says "Unexpected W" because it returned to us text. 
+
+This shows us that we can accept HTML, plain text or JSON, not because we changed the accept headers, but because we are sending a request to a server that offers up those three kinds of response formats. 
+
+Let's change the format back to json and return it from the `fetchJokes` function. 
 
 
+```
+async function fetchJoke() {
+  const response = await fetch("http://icanhazdadjoke.com", {
+    headers: {
+      Accept: "application/json",
+    },
+  });
 
+  const data = response.json();
+  return data;
+}
+```
 
+Similarly, you could also just return `response.json()` directly. 
 
+```
+async function fetchJoke() {
+  const response = await fetch("http://icanhazdadjoke.com", {
+    headers: {
+      Accept: "application/json",
+    },
+  });
 
+  return response.json();
+}
+```
 
+That still works because we are in an async function so we will just be awaiting the fetch joke either way. 
 
+Wes prefers to do it the way we originally coded it. 
 
-
+stopped at 8:08
 
 
 

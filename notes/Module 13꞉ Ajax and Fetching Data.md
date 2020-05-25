@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-25T12:20:46.489Z'
+modified: '2020-05-25T22:00:32.720Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -1036,10 +1036,326 @@ function randomItemFromArray(arr, not) {
 
 The reason we are using the passed in array to calculate the length and not the `buttonText` variable is that we want this function to be a utility function, and he wants to be able to use them for anything, not just with the `buttonText` array.
 
-Now let's try to run it. 
+Now let's try to run it from the console. Refresh the HTML page and pass the `buttonText` array to the function we just created. 
 
-stopped at 11:00
 
+```
+randomItemFromArray(buttonText);
+```
+
+Now whenever we run it, we get a random item returned. 
+
+![](@attachment/Clipboard_2020-05-25-17-22-55.png) 12:10
+
+However, sometimes it will randomly return the exact same thing, which makes it seem like nothing happened. That is why we have that `not` parameter that we are passing. Within the `randomItemFromArray` function, lets use that `not` parameter to ensure the same text isn't selected twice.
+
+We will check whether the randomly selected item matches the `not` item, and if it does, we will call the function again. That is an example of **recursion** because the function is calling itself. 
+
+```
+if(item == not){
+  console.log("Ah! we used that one last time, look again");
+  return randomItemFromArray(arr, not);
+}
+```
+
+It is possible that this code will run a few times and call itself before it finds one that is not the same. 
+
+Let's try running it in the console but this time passing the `not` parameter. 
+
+!![](@attachment/Clipboard_2020-05-25-17-27-10.png) 13:37 
+
+As you can see, when we got "please stop", we logged "Ah we used that one last time look again" to the console and the method called itself again and the next time it returned different text.
+
+So now we can do the following..  
+
+```
+async function handleClick(){
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButton.textContent = randomitemFromArray(buttonText, jokeButton.textContent);
+}
+```
+
+We are ensuring that the button text never stays the same using this line of code `jokeButton.textContent = randomitemFromArray(buttonText, jokeButton.textContent);`, We get the "not" argument from the text that currently exists on the button when it is clicked. 
+
+Now if you refresh the page, you will see it is working very well, and if you just keep clicking it, eventually we wil lget a log that we already used that one. 
+
+This is working, but one thing we are going to do is add a loading state. Feel free to leave this lesson now if you are not interested in loaders. 
+
+Let's make a CSS loader. In the HTML, right before our paragrah tag that will contain our dad jokes, add the following div `<div class="loader"></div>`. 
+
+Now let's google "CSS loader"  and we will select `loading.io`. 
+
+![](@attachment/Clipboard_2020-05-25-17-32-22.png) 15:39
+![](@attachment/Clipboard_2020-05-25-17-32-40.png) 15:43
+
+Click on whatever loader you would like to move and it should show you the markup you need to add to the page. 
+
+![](@attachment/Clipboard_2020-05-25-17-33-09.png) 15:50
+
+Let's actually replace the div we just added with the HTML supplied to us for the loader. 
+
+```
+  <div class="wrapper">
+    <div class="joke">
+      <div class="lds-ripple">
+        <div></div>
+        <div></div>
+      </div>
+      <p>Dad Jokes.</p>
+    </div>
+    <button class="getJoke">
+      <span class="jokeText">Get A Joke</span>
+    </button>
+  </div>
+```
+
+Lets also copy the CSS and add it. 
+
+```
+.lds-ripple {
+  display: inline-block;
+  position: relative;
+
+  width: 80px;
+  height: 80px;
+}
+
+.lds-ripple div {
+  position: absolute;
+  border: 4px solid white;
+  opacity: 1;
+  border-radius: 50%;
+  animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+.lds-ripple div:nth-child(2) {
+  animation-delay: -0.5s;
+}
+
+@keyframes lds-ripple {
+  0% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+
+  100% {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 72px;
+    opacity: 0;
+  }
+}
+
+```
+
+Now let's refresh the page and take a look at it. If you refresh the page, you will notice we don't see anything.
+
+Let's inspect the element and see what is going on. If you look at the styles, you will notice the loader is set to the colour white. Let's fix that. 
+
+```
+.lds-ripple div {
+  position: absolute;
+  border: 4px solid var(--yellow);
+  opacity: 1;
+  border-radius: 50%;
+  animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+```
+
+![](@attachment/Clipboard_2020-05-25-17-41-25.png) 17:13
+
+Now you can see the loader, it was always working, it was just white so we could not see it.
+
+Lets add a class of "loader" to the loader ontop of the existing `lds-ripple` class. 
+`<div class="lds-ripple loader">`
+
+At the top of the script, lets select the loader. 
+
+```
+const loader = document.querySelector('.loader');
+```
+
+Now when we fetch within the `fetchJoke` function, we will turn the loader on. By default we will make the loader set to `display:none`. 
+
+To do that, let's create a class of `hidden` and set it to `display:none;`. Let's add that to our loader. 
+`<div class="lds-ripple loader hidden">`
+
+Now when we want to turn the loader on, we will call `loader.classList.remove('hidden')`.
+When the data comes back, we want to turn it off `loader.classList.add('hidden')`. 
+
+```
+async function fetchJoke() {
+  loader.classList.remove("hidden");
+  const response = await fetch("http://icanhazdadjoke.com", {
+    headers: {
+      Accept: "application/json",
+    },
+  });
+
+  const data = response.json();
+  loader.classList.add("hidden");
+  return data;
+}
+```
+
+Now let's also hide the button while that is happening. 
+
+```
+async function fetchJoke() {
+  loader.classList.remove("hidden");
+  jokeButton.classList.remove('hidden');
+  const response = await fetch("http://icanhazdadjoke.com", {
+    headers: {
+      Accept: "application/json",
+    },
+  });
+
+  const data = response.json();
+  loader.classList.add("hidden");
+  jokeButton.classList.remove('hidden');
+  return data;
+}
+```
+![](@attachments/button-jar.gif) 19:14
+
+However, that looks a bit jarring. 
+
+Let's try to put the loader inside of the button instead.
+```
+<button class="getJoke">
+  <span class="jokeText">Get A Joke
+    <div class="lds-ripple loader">
+      <div></div>
+      <div></div>
+    </div>
+  </span>
+</button>
+```
+
+![](@attachment/Clipboard_2020-05-25-17-51-44.png) 19:54
+
+It is showing up because we removed the class of `hidden` from the HTML. Let's modify the CSS to make the loader white again. 
+
+```
+  border: 4px solid var(--yellow);
+```
+
+![](@attachment/Clipboard_2020-05-25-17-52-49.png) 20:00
+
+Let's also change the size. We will make a size variable and set it to 20px and then modify some of the other CSS to use that variable instead. 
+
+```
+    <style>
+      html {
+        --size: 20px;
+      }
+
+      .wrapper {
+        text-align: center;
+      }
+
+      .joke {
+        font-size: 5rem;
+        font-weight: 900;
+      }
+
+      .lds-ripple {
+        display: inline-block;
+        position: relative;
+
+        width: var(--size);
+        height: var(--size);
+      }
+
+      .lds-ripple div {
+        position: absolute;
+        border: 4px solid var(--yellow);
+        opacity: 1;
+        border-radius: 50%;
+        animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+      }
+
+      .lds-ripple div:nth-child(2) {
+        animation-delay: -0.5s;
+      }
+
+      @keyframes lds-ripple {
+        0% {
+          top: calc(var(--size) / 2);
+          left: calc(var(--size) / 2);
+          width: 0;
+          height: 0;
+          opacity: 1;
+        }
+
+        100% {
+          top: 0px;
+          left: 0px;
+          width: calc(var(--size) * 0.9);
+          height: calc(var(--size) * 0.9);
+          opacity: 0;
+        }
+      }
+
+      .hidden {
+        display: none;
+      }
+    </style>
+```
+![](@attachment/Clipboard_2020-05-25-17-56-37.png)  21:36
+
+As you can see above, it is working although it doesn't look great. Our sizing was a bit off. 
+
+Let's put the loader back to hidden on page load by adding back that class. 
+
+Now we need to modify our buttons to not hide it anymore, so remove that code from `fetchJoke`. 
+
+```
+async function fetchJoke() {
+  loader.classList.remove("hidden");
+  const response = await fetch("http://icanhazdadjoke.com", {
+    headers: {
+      Accept: "application/json",
+    },
+  });
+
+  const data = response.json();
+  loader.classList.add("hidden");
+  return data;
+}
+```
+
+If you refresh the page and try that now, it will work the first time but not the second time because we overwrite the loader with the text this time. 
+
+What we need to do is grab the span element within the joke button so we only replace that portion of the button, instead of the entire button. 
+
+At the top of the file add `jokeButtonSpan` like so:
+
+```
+const jokeButton = document.querySelector(".getJoke");
+const jokeButtonSpan = jokeButton.querySelector(".jokeText");
+```
+
+Let's find where in our code we are updating the button text and instead update the `jokeButtonSpan` instead.
+
+
+```
+async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+```
+
+That works! Let's move onto the next lesson. 
 
 ---
 ## 77 -  Currency Converter

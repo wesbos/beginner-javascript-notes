@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-26T11:13:41.033Z'
+modified: '2020-05-26T11:42:14.226Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -591,7 +591,7 @@ Next let's add some sort of loading screen because we don't want the user search
 There are a couple of ways to do that. The easiest is if you go to the input button and add a `disabled` attribute. That will stop the user from actually clicking it.
 
 
-````
+```
 <button disabled type="submit">Submit<button>
 ```
 
@@ -1544,6 +1544,13 @@ If we do not have the rates for that specific currency, we will have to use the 
 
 We will make a convert function that takes in `amount`, `from`, and `to`. 
 
+```
+function convert(amount, from, to){
+  //first check if we even have the rates to convert from that currency
+
+}
+```
+
 Here is where that exercise gets a little tricky. We could fetch the rates each time, but that could be a bit slow, because everytime we type into the `amount` input box, we will call the convert function.  
 
 In the DEMO, you can see that the conversion is happening almost instantaneously. 
@@ -1560,6 +1567,108 @@ What we are going to do is we will make an object at the top of our script where
 const ratesByBase = {};
 ```
 
-stopped at 12:08
+We will store all of the rates within that object/ Everytime a currency is selected to be converted, we will check whether we already have the rates within our `ratesByBase` object. If we do not, we will fetch it and save it to our object. 
 
+![](@attachment/Clipboard_2020-05-26-07-25-05.png) 12:59
+
+If we were to cycle thorugh all the currencies, our `ratesByBase` object would be massive because it will contain all of the rates by their from value. So by default we start with nothng because we have nothing.
+
+Let's go back to our `convert` function.
+
+We will use the square brackets to check if the currently select currency coded already existings within our object. 
+
+```
+function convert(amount, from, to){
+  //first check if we even have the rates to convert from that currency
+  if(!ratesByBase[from]){
+    console.log(`Oh no! we don't have ${from} to convert it ${to}, so let's go get it!`);
+  }
+}
+```
+
+If you refresh the page, you can try running what we have so far from the console. 
+
+![](@attachment/Clipboard_2020-05-26-07-28-44.png) 14:16
+
+Back to our `convert` function, we want to mark it as `async` because we will need to fetch the rate if it does not already exist. 
+
+Within that function let's add a request to `fetchRates` and pass it the currency the user is converting from. We will save the result to our `ratesByBase` object. 
+
+```
+function convert(amount, from, to){
+  //first check if we even have the rates to convert from that currency
+  if(!ratesByBase[from]){
+    console.log(`Oh no! we don't have ${from} to convert it ${to}, so let's go get it!`);
+    const rates = await fetchRates(from);
+    console.log(rates);
+    //store them for next time
+    ratesByBase[from] = rates; 
+  }
+}
+```
+
+Let's demo step by step how that works. Let's start by logging `ratesByBase` in the console, which you will see is an empty object.
+
+![](@attachment/Clipboard_2020-05-26-07-31-31.png) 15:11
+
+If we run `convert(100, 'CAD', 'USD")` in the console, we will see the message stating we don't have it but are fetching it. 
+
+Now if we check the `ratesByBase` object, we will see those rate values within the object. If you were to run the same convert function again, you will see it does not refetch them because the values already exist within `ratesByBase`. 
+
+![](@attachment/Clipboard_2020-05-26-07-32-43.png) 15:34
+
+As soon as you refresh the page, they will be gone. You could use local storage to save those but we will just do page load for this exercise. 
+
+Next, we need to convert the amount the user passed in.
+
+```
+function convert(amount, from, to){
+  //first check if we even have the rates to convert from that currency
+  if(!ratesByBase[from]){
+    console.log(`Oh no! we don't have ${from} to convert it ${to}, so let's go get it!`);
+    const rates = await fetchRates(from);
+    console.log(rates);
+    //store them for next time
+    ratesByBase[from] = rates; 
+  }
+  const rate = ratesByBase[from].rates[to];
+}
+
+```
+
+That may look weird so let's explain what is going on in this code 
+`const rate = ratesByBase[from].rates[to];`.
+
+If we look at our `CAD` property on `ratesByBase`, that is going to be our "from" .
+
+Inside of that, we need to grab the rates and the find the rate that they are converting to. You could do that like so: `ratesByBase.CAD.rates.USD`. But because those property keys are variables within our function, we need to use square brackets to accces those object properties. 
+
+![](@attachment/Clipboard_2020-05-26-07-36-20.png) 16:36
+
+Now we will take that `rate` and calculate the `convertedAmount` like so:
+
+```
+function convert(amount, from, to){
+  //first check if we even have the rates to convert from that currency
+  if(!ratesByBase[from]){
+    console.log(`Oh no! we don't have ${from} to convert it ${to}, so let's go get it!`);
+    const rates = await fetchRates(from);
+    console.log(rates);
+    //store them for next time
+    ratesByBase[from] = rates; 
+  }
+  const rate = ratesByBase[from].rates[to];
+  const convertedAmount = rate * amount;
+  console.log(`${amount} ${from} is ${convertedAmount} in ${to}`);
+  return convertedAmount;
+}
+```
+
+If you refresh the page and try that, you should see something like the following.. 
+  
+![](@attachment/Clipboard_2020-05-26-07-40-53.png) 18:01
+
+At this point, we have built the main functionality of the app so at this point we can start hooking it up to our UI. 
+
+stopped at 18:55
 

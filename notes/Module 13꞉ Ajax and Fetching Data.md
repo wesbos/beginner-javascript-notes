@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-05-26T11:42:14.226Z'
+modified: '2020-05-26T19:39:07.339Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -1670,5 +1670,160 @@ If you refresh the page and try that, you should see something like the followin
 
 At this point, we have built the main functionality of the app so at this point we can start hooking it up to our UI. 
 
-stopped at 18:55
+There are three inputs that we need to listen on: the amount, and then the two currency inputs where we can select a currency from the dropdown. 
+
+There is a trick we can use here, which is listening for an input event on the form. That one event will cover all of them, which is pretty cool. 
+
+Let's go up to the top of our scirp file and select the form. 
+
+```
+const form = document.querySelector('.app form');
+```
+
+Now at the very bottom of the script tag let's add an event listener which will listen for the `input` event and handle it in a function we will define called `handleInput`. 
+
+```
+form.addEventListener('input', handleInput);
+```
+
+Let's define that handleInput function, and for now just log `e.target` and `e.currentTarget` to see what we are working with. 
+
+```
+function handleInput(e){
+  console.log(e.target);
+  console.log(e.currentTarget);
+}
+```
+![](@attachment/Clipboard_2020-05-26-15-20-02.png) 20:26
+
+If you refresh the page and try typing into the amount input or selecting an item from the dropdowns, you will see that `e.target` is changing every time but `e.currentTraget` which is the form stays the same. 
+
+That is because we are listening to the event on the form, but the actual event happens on the input or select box. Those events bubble up to the form where we handle them in our `handleInputs`. 
+
+So remember that trick, you can listen on the "input" event on a form and that will cover all of your inputs that are inside of that form. 
+
+Let's start wiring up the handler to call our functions. 
+
+We forgot to grab our "amount" input, so let's go ahead to the top of the page and add that. 
+
+```
+const fromSelect = document.querySelector('[name="from_currency"]');
+const toSelect = document.querySelector('[name="to_currency"]');
+const fromInput = document.querySelector('[name="from_amount"]');
+```
+
+Now let's make `handleINput` an async function so we can call `convert`. We can pass the variables easily using the value of the three inputs like so 👇
+
+```
+async function handleInput(e){
+  const rawAmount = await convert(
+    fromInput.value,
+    fromSelect.value,
+    toSelect.value
+  );
+  console.log(rawAmount);
+}
+```
+
+![](@attachment/Clipboard_2020-05-26-15-25-50.png) 22:44
+
+If you refresh the page and try to enter in an amount into the "from_amount" input, you should see something like above in the logs. 
+
+![](@attachment/Clipboard_2020-05-26-15-26-59.png) 23:00
+
+Now we need to actually show that amount in the `to_amount` paragraph tag. 
+
+Let's go back to the top of our page and select that element and name it `toEl`. 
+
+```
+const fromSelect = document.querySelector('[name="from_currency"]');
+const toSelect = document.querySelector('[name="to_currency"]');
+const fromInput = document.querySelector('[name="from_amount"]');
+const toEl = document.querySelector('.to_amount');
+```
+
+Now within handleInput, let's update the element to show the converted amount. 
+
+```
+async function handleInput(e){
+  const rawAmount = await convert(
+    fromInput.value,
+    fromSelect.value,
+    toSelect.value
+  );
+  toEl.textContent = rawAmount;
+}
+```
+
+If you refresh the page and test it out, you should see the `to_amount` value updating. Try changing the "to currency" and the "from currency" to ensure the value is still updating. 
+
+![](@attachment/Clipboard_2020-05-26-15-29-41.png) 23:56
+
+The problem we have now is that it is not formatting it accordingly to what the locale is. 
+
+Money is New Zealand Dollars (NZD), or money in Indian Rupee (INR), may be formatted differently. Some currencies support cents, some do not. 
+
+We will use this really cool API called Number Format, and it knows how to handle currency formatting, which is really cool. 
+
+Let's make another function called `formatCurrency` which will take in the amount and the currency and return a formatted number.
+
+We will be using `Intl.NumberFormat()` method which takes in an argument of the language of the reader `Intl.NumberFormat("en-us")`, or if you leave it blank it will detect the language based no the browser, which is almost always what you want. We will leave it blank. 
+
+And as the second argument you pass it an options object. Within that object we will pass a value for the `style` property which will be currency since we want to format the amount as a currency, and then we need to pass the currency which we can do using the shorthand since both the property and value have identical names. 
+
+![](@attachment/Clipboard_2020-05-26-15-35-16.png) 26:08
+
+The code highlighted above is the "Formatter", and then the method is just a `.format()` method on the formatted to which you pass your amount like so: 
+
+```
+function formatCurrency(amount, currency){
+  return Int1.NumberFormat({
+    style:'currency',
+    currency
+  }).format(amount);
+}
+```
+
+So now instead of just setting the `toEl` value to `rawAmount` we will modify it like so:
+
+```
+async function handleInput(e){
+  const rawAmount = await convert(
+    fromInput.value,
+    fromSelect.value,
+    toSelect.value
+  );
+  toEl.textContent = formatCurrency(rawAmount, toSelect.value);
+}
+```
+
+Lets refresh the page and check whether that works. 
+
+![](@attachment/Clipboard_2020-05-26-15-36-44.png) 26:44
+
+Unfortunately that does not seem to be working. Let's look at the console to debug. 
+
+When Wes runs into a problem like this, when there are many things calling each other, he just works on them one by one. 
+
+Lets start by testing `formatCurrency` in the console.
+
+![](@attachment/Clipboard_2020-05-26-15-37-49.png) 27:20
+
+We do not get the formatted amount back. Let's try manually passing the locale to `Intl.NumberFormat` method. 
+
+Modify the code like below to include it. 
+
+```
+function formatCurrency(amount, currency){
+  return Int1.NumberFormat("en-US", {
+    style:'currency',
+    currency
+  }).format(amount);
+}
+```
+
+Now if you refresh it, it should be working. 
+
+![](@attachment/Clipboard_2020-05-26-15-39-04.png) 27:47
+
 

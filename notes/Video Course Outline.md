@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-25T22:01:22.423Z'
+modified: '2020-05-26T19:39:43.976Z'
 ---
 
 # Video Course Outline
@@ -111,7 +111,7 @@ Module 13 - Ajax and Fetching Data
 74. ~~Ajax and APIs~~ (18:13)
 75. ~~CORS and Recipes~~ (34:47)
 76. ~~Dad Jokes~~ (23:11)
-77. Currency Converter (28:30)
+77. ~~Currency Converter~~ (28:30)
 
 Module 14: ES Modules and Structuring Larger Apps
 78. Modules (32:57)

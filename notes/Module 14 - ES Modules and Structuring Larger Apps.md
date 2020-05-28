@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-28T00:19:14.477Z'
+modified: '2020-05-28T10:42:42.550Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -559,9 +559,14 @@ That is handy when you want to import things nly when you need them.
 
 Lets say we go into the `/exercises/77 - Currency` folder and grab the big `currencies` object and copy it. 
 
-Let's go back to our `modules` folder and create a new file called `currencies.js` and paste that object within but put an `export` infront of it. 
+Let's go back to our `modules` folder and create a new file called `currencies.js` and paste that object within the file. 
 
-stopped at 25:20
+If we try to export it as default by putting `export default` infront of the declaration, that will not work.
+```
+export default const currencies = {..
+```
+
+If we want to export default a variable declaration, we must go to the bottom of the file and export it like so 👇
 
 ```
 export const currencies = {
@@ -599,7 +604,138 @@ export const currencies = {
   EUR: 'Euro',
 };
 
+export default currencies;
 ```
+
+Let's say we want to click a button and get all of the currencies. One problem we might have is that it's too big of a file to load on homepage or when your scripts load. It also might not be necessary to actually load the currencies.
+
+A popular thing to do is people will on-demand load Javascript, for example a shopping cart Javascript will only be loaded when someone hovers over a buy now button. Or a list of counties might only be loaded when someone opens the checkout. 
+
+Loading javascript on demand ensures that your website loads nice and fast because we are not loading Javascript until we need it. 
+
+If we want to add a button to our page that when you click it, it will load the currencies, it would work like this. 
+
+Let's go to the html and add a button right in the body tag like so 
+
+```
+<body>
+  <button>Load Currencies</button>
+  <script src="./scripts.js" type="module"></scripts>
+```
+
+Now in our `scripts.js`, lets remove everything but this code to start. 
+
+```
+import first, { returnHi as sayHi, last, middle } from './utils.js';
+import * as everything from './wes.js';
+```
+
+Let's start by selecting the button and listening for a click on it. 
+We are going to do something different this time by putting the code we will pass to our event listener in another file. 
+
+Normally we would just go above the event listener and make a function like `handleButtonClick` or something that we would pass to it. 
+
+Instead, we will go into our `handlers.js` file and make a function called `handleButtonClick` which for now will just log the event, and we will export that. 
+
+```
+export function handleButtonClick(event){
+  console.log(event);
+}
+```
+
+Back in `scripts.js` we need to import it now. 
+
+```
+import { handleButtonClick } from './handlers.js';
+
+const button = document.querySelector('button');
+button.addEventListener('click', handleButtonClick);
+```
+
+This is normally what Wes does, have a JS file that will select his elements and hook up the event listeners, and then almost all his other utilities, data, functionality and handlers all go in separate files. 
+
+That allows Wes to import them as he needs them and that keeps `scripts.js` which is the entry point nice and lean. He can open the file and quickly get an idea of the functionality. 
+
+Then if he wants to know how something works, he needs to dig a bit further into the modules and read that.
+
+If you refresh the HTML page and try clicking on the button, you will see the event logged. 
+
+![](@attachment/Clipboard_2020-05-28-06-29-55.png) 28:47
+
+Now we can go to `handlers.js` and work on that function. 
+
+When the button is clicked, we want to get all the currencies. We could simply import them like so `import currencies from './currencies.js'`.  Now within the function, let's log `currencies`. 
+
+If you do that, and refresh the page while the network tab is open, you will see all of the script modules that are being loaded.
+
+![](@attachment/Clipboard_2020-05-28-06-31-53.png) 29:39
+
+If you comment out that import statement and refresh the HTML page, you will see currencies is no longer in the network tab.
+
+How do we on-demand load some data or some functionality from a module? We can make it `async`. 
+
+```
+export async function handleButtonClick(event){
+  const currencies = await import('./currencies.js');
+  console.log(currencies);
+}
+```
+
+Now when you refresh the HTML page, you will see that currencies is no longer in the network tab until we click the button and then it is loaded.
+
+![](@attachment/Clipboard_2020-05-28-06-33-44.png) 30:15
+
+![](@attachment/Clipboard_2020-05-28-06-33-59.png) 30:17
+
+That request was only made after we clicked the button.
+
+Now we have the module logged in the console. 
+
+![](@attachment/Clipboard_2020-05-28-06-34-39.png) 30:30
+
+Now if we want to access the currencies we need to get the default. Let's refactor the import slightly to rename the variable. 
+
+```
+export async function handleButtonClick(event){
+  const currenciesModule = await import('./currencies.js');
+  console.log(currenciesModule.default);
+}
+```
+
+Now when you refresh the page, you should have access to the curencies and they should be logged in the console. 
+
+![](@attachment/Clipboard_2020-05-28-06-35-54.png) 30:53 
+
+It does cache it, so if someone were to click the button again, the currencies would be loaded instantly instead of needing to be fetched again. 
+
+Let's say `currencies.js` had another export, such as `export const localCurrency = 'CAD'`.  How would we also import that on demand?
+
+If you refresh the HTML page, you will see that we do have the `localCurrency` in the `module`. 
+
+![](@attachment/Clipboard_2020-05-28-06-39-12.png) 31:37
+
+Let's destructure them into their own variables with curly brakcets like so:
+
+```
+const { localCurrency, default } = await import('./currencies.js');
+console.log(localCurrency, default);
+```
+
+However if you try to do that, you will see the editor yelling at us that `default` is a reserved keyword, which means you cannot use it as a variable name.
+
+So what we have to do is rename it. 
+
+```
+const { localCurrency, default: curency } = await import('./currencies.js');
+console.log(localCurrency, currency);
+```
+
+![](@attachment/Clipboard_2020-05-28-06-41-47.png) 32:21
+
+So when we are destructuring a property like `default` that is not allowed to be named `default`, we can use destructuring renaming like so `default: currency`. 
+
+
+
 
 ---
 

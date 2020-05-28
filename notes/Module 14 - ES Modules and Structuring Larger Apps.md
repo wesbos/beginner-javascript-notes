@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-27T21:27:49.271Z'
+modified: '2020-05-28T00:19:14.477Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -342,13 +342,264 @@ export async function returnHi(name){
 }
 ```
 
-As mentioned earlier, that is what is referred to as **named exports** and **named imports**. The way you can tell if it is a named export or import is that it will simply have the export value infront of the  function definition or infront of the variable declration, or when they export it using curly brackets. 
+As mentioned earlier, that is what is referred to as **named exports** and **named imports**.
 
-Curly bracket mean it is a named export. 
+The way you can tell if something is a named export is if it has the `export` keyword infront of the function definition or variable declaration or it is exported using curly brackets. Curly brackets means it is a named export. 
 
-Stopped at 16:48
+The other way to do that is a called a **default export**. 
+
+Every module can have as many **named exports** as they want. 
+However, a module can only have one **default export**, which is the default this the file exports. 
+
+If we make another module `wes.json` and in it we will assign a variable `person` to an object, and then export that variable like so:
+
+```
+const person = {
+  name: 'Wes',
+  last: 'Bos'
+}
+
+export default person;
+```
+
+Then if you want to access the `person` object within `scripts.js`, we could import it like so: 
+
+```
+import { returnHi, last, middle } from './utils.js';
+import wes from './wes.js';
+```
+
+Now let's log it `console.log(wes)`.  
+
+![](@attachment/Clipboard_2020-05-27-19-15-20.png) 17:58
+
+Now we could have named that import anything we wanted. 
+
+For example we could have done 
+
+```
+import { returnHi, last, middle } from './utils.js';
+import westernhoff from './wes.js';
+
+console.log(westerhoff);
+```
+
+If you refresh the page, you will see it still works. 
+
+The difference between default exports and named exports is that with named imports, you must know what the name they have been exported as, but since there is only one default export per file, you can import them and name they whatever you want. 
+
+Which type of export should you use? There are certainly arguments on both sides. 
+
+Wes will usually use a default export if the module does one thing, but if the module does multiple things, like a utility library or something like that, then you can just have multiple named exports from it.
+
+You can have both named and default exports in one file. 
+
+In `utils.js`, we will default export a variable called `first`, by adding the following code to the botto of the file 👇
+
+```
+const first = 'wes';
+export default first; 
+```
+
+Now within `scripts.js`, if we wanted to import that it wouldn't go in curly brackets because that is only for named and `first` is the default. So we could import and log it like so: 
+
+```
+import first, { returnHi, last, middle } from './utils.js';
+import westernhoff from './wes.js';
+
+console.log(westerhoff);
+console.log(first);
+```
+
+![](@attachment/Clipboard_2020-05-27-19-28-13.png) 19:58 
+
+To reiterate: named are in curly brackets, default are always only one and always outside of the curly brackets.
+
+Another thing about modules is you can rename them as you import them. 
+
+Let's say we wanted to rename `returnHi` to `sayHi`. We could do that right in the import statement. 
+
+```
+import first, { returnHi as sayHi, last, middle } from './utils.js';
+```
+
+That will import `returnHi` and rename it to `sayHi`, kind of like destructuring but with different syntax because we use the `as` keyword. 
+
+Now let's replace where we are calling `returnHi` and instead call `sayHi`. Let's also log `sayHi`. 
 
 
+```
+import first, { returnHi as sayHi, last, middle } from './utils.js';
+import westernhoff from './wes.js';
+
+console.log(westerhoff);
+console.log(sayHi);
+console.log(first);
+
+const name = 'ws'; 
+
+console.log(returnHi(name));
+
+console.log('Its working...');
+
+console.log(last, middle);
+```
+
+![](@attachment/Clipboard_2020-05-27-19-38-57.png) 20:39
+
+As you can see, when we log `sayHi`, you see that we have that function there as `returnHi`. 
+
+Let's take a quick look at the docs. Google "mdn import". 
+
+![](@attachment/Clipboard_2020-05-27-19-40-30.png) 20:51
+
+As you can see those are all the different types of imports. 
+
+Sometimes you will see people importing modules by leaving the `.js` off. Let's try that. 
+
+Remove the `.js` from the `utils` import statement like so: 
+
+```
+import first, { returnHi as sayHi, last, middle } from './utils';
+```
+
+When you refresh the page, you will see we get an error. 
+
+![](@attachment/Clipboard_2020-05-27-19-41-58.png) 21:06
+
+In a lot of bundlers, like Parcel,  you can leave the end `.js` off, but that isn't part of the specs, so if you are using pure HTML-browser based loading (like we are) you must include it. 
+
+```
+import defaultExport from "module-name";
+import * as name from "module-name";
+import { export1 } from "module-name";
+import { export1 as alias1 } from "module-name";
+import { export1 , export2 } from "module-name";
+import { foo , bar } from "module-name/path/to/specific/un-exported/file";
+import { export1 , export2 as alias2 , [...] } from "module-name";
+import defaultExport, { export1 [ , [...] ] } from "module-name";
+import defaultExport, * as name from "module-name";
+import "module-name";
+var promise = import("module-name");
+```
+
+
+Let's keep going through the different ways to import.
+
+`import * as name from 'module-name';`
+You can import everything that comes in as name. 
+
+Let's go into `wes.js` and let's add the following code:
+
+```
+const person = {
+   name: 'Wes',
+   last: 'Bos',
+}
+
+export default person;
+
+export const dog = 'Snickers';
+export const food = 'pizza';
+export function eat(){
+  console.log('chomp chomp');
+}
+```
+
+By the way -- you import modules into any other modules, it's not limited to the entry point (which is `scripts.js` in our example). 
+
+`dog`, `food` and `eat` are named exports, and if we wanted to import them into `scripts`, we could do the following:
+
+```
+import first, { returnHi as sayHi, last, middle } from './utils.js';
+//import westernhoff from './wes.js';
+import * as everything from './wes.js';
+
+//console.log(westerhoff);
+console.log(everything);
+console.log(sayHi);
+console.log(first);
+
+const name = 'ws'; 
+
+console.log(returnHi(name));
+
+console.log('Its working...');
+
+console.log(last, middle);
+```
+
+What we did is we commented our existing import of the `wes.js` module and replaced it with `import * as everything from './wes.js';`, and then in the file we log `everything`.
+
+![](@attachment/Clipboard_2020-05-27-20-05-09.png) 23:05
+
+If you look at the console you will see that we get this thing that kinda looks like an object but its called a module.
+
+Inside of it we have our `default`, `dog`, `eat` and `food`.
+
+![](@attachment/Clipboard_2020-05-27-20-10-27.png) 23:25
+
+That is useful when you want to import absolutely everything from a module.
+
+You can `import { export1 as alias } from 'module-name';`. 
+
+Wes will refer to these docs often but 99% of the time he will just use the `returnHi as sayHi` and that will cover you almost all of the time.
+
+They also have docs for export where you can see how to export different types of expressions and objects and things like that (we will be covering some in the examples we do). 
+
+![](@attachment/Clipboard_2020-05-27-20-13-19.png) 24:16
+
+The last thing we want to do is called an `on-demand` import. 
+
+```
+var promise = import("module-name");
+```
+
+That is handy when you want to import things nly when you need them. 
+
+Lets say we go into the `/exercises/77 - Currency` folder and grab the big `currencies` object and copy it. 
+
+Let's go back to our `modules` folder and create a new file called `currencies.js` and paste that object within but put an `export` infront of it. 
+
+stopped at 25:20
+
+```
+export const currencies = {
+  USD: 'United States Dollar',
+  AUD: 'Australian Dollar',
+  BGN: 'Bulgarian Lev',
+  BRL: 'Brazilian Real',
+  CAD: 'Canadian Dollar',
+  CHF: 'Swiss Franc',
+  CNY: 'Chinese Yuan',
+  CZK: 'Czech Republic Koruna',
+  DKK: 'Danish Krone',
+  GBP: 'British Pound Sterling',
+  HKD: 'Hong Kong Dollar',
+  HRK: 'Croatian Kuna',
+  HUF: 'Hungarian Forint',
+  IDR: 'Indonesian Rupiah',
+  ILS: 'Israeli New Sheqel',
+  INR: 'Indian Rupee',
+  JPY: 'Japanese Yen',
+  KRW: 'South Korean Won',
+  MXN: 'Mexican Peso',
+  MYR: 'Malaysian Ringgit',
+  NOK: 'Norwegian Krone',
+  NZD: 'New Zealand Dollar',
+  PHP: 'Philippine Peso',
+  PLN: 'Polish Zloty',
+  RON: 'Romanian Leu',
+  RUB: 'Russian Ruble',
+  SEK: 'Swedish Krona',
+  SGD: 'Singapore Dollar',
+  THB: 'Thai Baht',
+  TRY: 'Turkish Lira',
+  ZAR: 'South African Rand',
+  EUR: 'Euro',
+};
+
+```
 
 ---
 

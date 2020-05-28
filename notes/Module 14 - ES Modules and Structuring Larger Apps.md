@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-28T10:42:42.550Z'
+modified: '2020-05-28T12:49:03.044Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -734,12 +734,359 @@ console.log(localCurrency, currency);
 
 So when we are destructuring a property like `default` that is not allowed to be named `default`, we can use destructuring renaming like so `default: currency`. 
 
-
-
-
 ---
 
 ## 79 -  Currency Module Refactor
+
+In this lesson let's take the currency conversion example we did and convert it into modules. 
+
+Feel free to try this one yourself. 
+
+Go into our `/exercises` folder and find the folder containing the currency converter we built. 
+
+Duplicate that folder within the `/exercises` root and rename it to `79 - Currency Module Refactor`. Within that folder let's get rid of the `money-FINISHED.js` file.
+
+Let's start by opening up the `index.html` and adding a `type="module"` on our existing script source tag.
+
+Now `money.js` is our entry point. 
+
+Let's take a look at what we are working with. 
+
+```
+const fromSelect = document.querySelector('[name="from_currency"]');
+const fromInput = document.querySelector('[name="from_amount"]');
+const toSelect = document.querySelector('[name="to_currency"]');
+const toEl = document.querySelector('.to_amount');
+const form = document.querySelector('.app form');
+const endpoint = 'https://api.exchangeratesapi.io/latest';
+const ratesByBase = {};
+
+const currencies = {
+  USD: 'United States Dollar',
+  AUD: 'Australian Dollar',
+  BGN: 'Bulgarian Lev',
+  BRL: 'Brazilian Real',
+  CAD: 'Canadian Dollar',
+  CHF: 'Swiss Franc',
+  CNY: 'Chinese Yuan',
+  CZK: 'Czech Republic Koruna',
+  DKK: 'Danish Krone',
+  GBP: 'British Pound Sterling',
+  HKD: 'Hong Kong Dollar',
+  HRK: 'Croatian Kuna',
+  HUF: 'Hungarian Forint',
+  IDR: 'Indonesian Rupiah',
+  ILS: 'Israeli New Sheqel',
+  INR: 'Indian Rupee',
+  JPY: 'Japanese Yen',
+  KRW: 'South Korean Won',
+  MXN: 'Mexican Peso',
+  MYR: 'Malaysian Ringgit',
+  NOK: 'Norwegian Krone',
+  NZD: 'New Zealand Dollar',
+  PHP: 'Philippine Peso',
+  PLN: 'Polish Zloty',
+  RON: 'Romanian Leu',
+  RUB: 'Russian Ruble',
+  SEK: 'Swedish Krona',
+  SGD: 'Singapore Dollar',
+  THB: 'Thai Baht',
+  TRY: 'Turkish Lira',
+  ZAR: 'South African Rand',
+  EUR: 'Euro',
+};
+
+function generateOptions(options) {
+  return Object.entries(options)
+    .map(
+      ([currencyCode, currencyName]) =>
+        `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
+    )
+    .join('');
+}
+
+async function fetchRates(base = 'USD') {
+  const res = await fetch(`${endpoint}?base=${base}`);
+  const rates = await res.json();
+  return rates;
+}
+
+async function convert(amount, from, to) {
+  // first check if we even have the rates to convert from that currency
+  if (!ratesByBase[from]) {
+    console.log(
+      `Oh no, we dont have ${from} to convert to ${to}. So gets go get it!`
+    );
+    const rates = await fetchRates(from);
+    console.log(rates);
+    // store them for next time
+    ratesByBase[from] = rates;
+  }
+  // convert that amount that they passed it
+  const rate = ratesByBase[from].rates[to];
+  const convertedAmount = rate * amount;
+  console.log(`${amount} ${from} is ${convertedAmount} in ${to}`);
+  return convertedAmount;
+}
+
+function formatCurrency(amount, currency) {
+  return Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency,
+  }).format(amount);
+}
+async function handleInput(e) {
+  const rawAmount = await convert(
+    fromInput.value,
+    fromSelect.value,
+    toSelect.value
+  );
+  toEl.textContent = formatCurrency(rawAmount, toSelect.value);
+}
+
+const optionsHTML = generateOptions(currencies);
+// populate the options elements
+fromSelect.innerHTML = optionsHTML;
+toSelect.innerHTML = optionsHTML;
+
+form.addEventListener('input', handleInput);
+```
+
+We are selecting a bunch of elements, we have a `ratesByBase` and `currencies` object. 
+
+Then we have a few functions like `generateOptions`, `fetchRates`  which needs the endpoint, we have a convert, format currency and one handler.
+
+So we have some library functions (library functions are functions considered core to our application), some handlers, and then `generateOptions` which is a helper or utility method, and then we have some data. 
+
+We won't use any folders for this example, Wes will show us how to do that with a flat file strucutre. 
+
+So within our `79 - Currency Refactor` folder create a file called `currencies.js`. 
+
+Let's take our entire `currencies` object and paste it in there. It is a big enough object that Wes would give it it's own file. 
+
+```
+//currencies.js
+
+const currencies = {
+  USD: 'United States Dollar',
+  AUD: 'Australian Dollar',
+  BGN: 'Bulgarian Lev',
+  BRL: 'Brazilian Real',
+  CAD: 'Canadian Dollar',
+  CHF: 'Swiss Franc',
+  CNY: 'Chinese Yuan',
+  CZK: 'Czech Republic Koruna',
+  DKK: 'Danish Krone',
+  GBP: 'British Pound Sterling',
+  HKD: 'Hong Kong Dollar',
+  HRK: 'Croatian Kuna',
+  HUF: 'Hungarian Forint',
+  IDR: 'Indonesian Rupiah',
+  ILS: 'Israeli New Sheqel',
+  INR: 'Indian Rupee',
+  JPY: 'Japanese Yen',
+  KRW: 'South Korean Won',
+  MXN: 'Mexican Peso',
+  MYR: 'Malaysian Ringgit',
+  NOK: 'Norwegian Krone',
+  NZD: 'New Zealand Dollar',
+  PHP: 'Philippine Peso',
+  PLN: 'Polish Zloty',
+  RON: 'Romanian Leu',
+  RUB: 'Russian Ruble',
+  SEK: 'Swedish Krona',
+  SGD: 'Singapore Dollar',
+  THB: 'Thai Baht',
+  TRY: 'Turkish Lira',
+  ZAR: 'South African Rand',
+  EUR: 'Euro',
+};
+
+export default currencies;
+```
+
+Let's make a new file called `utils.js` and inside of that we will paste our `generateOptions` method and we will make it a named export. 
+
+```
+//utils.js
+export function generateOptions(options) {
+  return Object.entries(options)
+    .map(
+      ([currencyCode, currencyName]) =>
+        `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
+    )
+    .join('');
+}
+```
+
+Next we will make another file called `lib.js`. Let's move the `fetchRates` and `convert` functions to that file. 
+
+```js
+//lib.js
+export async function fetchRates(base = 'USD') {
+  const res = await fetch(`${endpoint}?base=${base}`);
+  const rates = await res.json();
+  return rates;
+}
+
+export async function convert(amount, from, to) {
+  // first check if we even have the rates to convert from that currency
+  if (!ratesByBase[from]) {
+    console.log(
+      `Oh no, we dont have ${from} to convert to ${to}. So gets go get it!`
+    );
+    const rates = await fetchRates(from);
+    console.log(rates);
+    // store them for next time
+    ratesByBase[from] = rates;
+  }
+  // convert that amount that they passed it
+  const rate = ratesByBase[from].rates[to];
+  const convertedAmount = rate * amount;
+  console.log(`${amount} ${from} is ${convertedAmount} in ${to}`);
+  return convertedAmount;
+}
+```
+
+Let's take the next function `formatCurrency` and put it in the `utils.js` file like so:
+
+```
+//utils.js
+export function generateOptions(options) {
+  return Object.entries(options)
+    .map(
+      ([currencyCode, currencyName]) =>
+        `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
+    )
+    .join('');
+}
+export function formatCurrency(amount, currency) {
+  return Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency,
+  }).format(amount);
+}
+```
+
+We have `handleInput` which is a handler so let's make a new file `handlers.js` and add that there. 
+
+```
+export sync function handleInput(e) {
+  const rawAmount = await convert(
+    fromInput.value,
+    fromSelect.value,
+    toSelect.value
+  );
+  toEl.textContent = formatCurrency(rawAmount, toSelect.value);
+}
+```
+
+Now we are left with the following code in `money.js`.
+
+```
+//money.js
+const fromSelect = document.querySelector('[name="from_currency"]');
+const fromInput = document.querySelector('[name="from_amount"]');
+const toSelect = document.querySelector('[name="to_currency"]');
+const toEl = document.querySelector(".to_amount");
+const form = document.querySelector(".app form");
+const endpoint = "https://api.exchangeratesapi.io/latest";
+const ratesByBase = {};
+
+const optionsHTML = generateOptions(currencies);
+// populate the options elements
+fromSelect.innerHTML = optionsHTML;
+toSelect.innerHTML = optionsHTML;
+
+form.addEventListener("input", handleInput);
+```
+
+We have our options generation which we do on page load, our initialization and then our listeners. 
+
+Let's start going one by one and decide if we are going to move the rest of the code from `money.js` or not.
+
+Let's open up `index.html` in a VSCode live server and look to see if we have any errors in the console. 
+
+![](@attachment/Clipboard_2020-05-28-08-09-54.png) 4:07
+
+It is complaining that `generateOptions` is not defined. Let's import it.
+
+```
+import { generateOptions } from './utils.js';
+```
+
+Now we get an error saying `currencies` is not defined. 
+
+![](@attachment/Clipboard_2020-05-28-08-11-02.png) 4:25
+
+Let's import currencies so we can pass it to `generateOptions`. 
+
+```
+import { generateOptions } from './utils.js';
+import { currencies } from './currencies.js'
+```
+
+If you refresh the page you will see we have yet another error. This time it is complaining that it cannot find an export named `currencies`.
+
+![](@attachment/Clipboard_2020-05-28-08-12-26.png) 4:43
+
+That is because it is a default export, not a named export, so it doesn't need the curly brackets. 
+
+Modify it like so: `import currencies from './currencies.js';`
+
+Now when we look at the console you will see it is complaining that `handleInput` is not defined. 
+
+![](@attachment/Clipboard_2020-05-28-08-17-12.png) 4:59
+
+Let's fix that by adding `import { handleInput } from './handlers';`
+
+Now there are no more errors in the console but when we try to type in an amount, we see a reference error in the console complaining that `convert` is not defined, and it is happening in `handlers.js` on line 2.
+
+![](@attachment/Clipboard_2020-05-28-08-18-27.png) 5:25
+
+Let's fix that by importing the `convert` function into `handlers`. 
+
+```
+import { convert } from "./lib.js";
+export sync function handleInput(e) {
+  const rawAmount = await convert(
+    fromInput.value,
+    fromSelect.value,
+    toSelect.value
+  );
+  toEl.textContent = formatCurrency(rawAmount, toSelect.value);
+}
+```
+
+![](@attachment/Clipboard_2020-05-28-08-26-55.png) 5:55
+
+Now we get another error that `fromInput` is not defined. Within `handleInput` we use the `fromInput`, `fromSelect`, `toSelect` and `toEl` variables. 
+
+We also reference the function `formatCurrency` which we haven't imported. Let's import it to `handlers.js` like so `import { formatCurrency } from "./utils";`
+
+We need all those elements now, and rather than pass them in as an argument to the function, let's put them in their own module. 
+
+Create a new file called `elements.js`. 
+
+Go into `money.js` and take all our selectors and move them to our new `elements.js` file. 
+
+```
+//elements.js
+export const fromSelect = document.querySelector('[name="from_currency"]');
+export const fromInput = document.querySelector('[name="from_amount"]');
+export const toSelect = document.querySelector('[name="to_currency"]');
+export const toEl = document.querySelector(".to_amount");
+```
+
+![](@attachment/Clipboard_2020-05-28-08-35-21.png) 6:53 
+
+What people will often do is instead of using `document.querySelector` for all of those, they will grab a parent element like the div with a class of `app` in the example above, and then look for the selectors inside of there. 
+
+You would have `app.querySelector` for each of those instead which allows you to have multiple on the same page, just like we did with the slider.
+
+The way we are doing it is fine for now. 
+
+stopped at 7:11
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-28T12:49:03.044Z'
+modified: '2020-05-28T21:38:08.699Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -1068,7 +1068,7 @@ We need all those elements now, and rather than pass them in as an argument to t
 
 Create a new file called `elements.js`. 
 
-Go into `money.js` and take all our selectors and move them to our new `elements.js` file. 
+Go into `money.js` and take all our selectors and move them to our new `elements.js` file. Let's add the export keyword infront of each.
 
 ```
 //elements.js
@@ -1086,7 +1086,247 @@ You would have `app.querySelector` for each of those instead which allows you to
 
 The way we are doing it is fine for now. 
 
-stopped at 7:11
+If you refresh the page, we have an error `fromSelect` is not defined. 
+
+![](@attachment/Clipboard_2020-05-28-14-52-06.png) 7:11
+
+Let's first go into `handlers` and import those elements. 
+
+```
+import { convert } from "./lib.js";
+import { formatCurrency } from "./utils.js";
+import { fromInput, fromSelect, toSelect, toEl } from "./elements.js";
+
+export async function handleInput(e) {
+  const rawAmount = await convert(
+    fromInput.value,
+    fromSelect.value,
+    toSelect.value
+  );
+  toEl.textContent = formatCurrency(rawAmount, toSelect.value);
+}
+```
+
+Now lets tackle the `fromSelect` is not defined bug in `money.js` line 11.
+
+![](@attachment/Clipboard_2020-05-28-14-55-41.png) 7:44
+
+As you can see, `fromSelect` and `toSelect` are also needed from `money.js` on page load. Let's go ahead and import them. 
+
+```js
+//money.js
+import { generateOptions } from "./utils.js";
+import currencies from "./currencies.js";
+import { handleInput } from "./handlers.js";
+import { fromSelect, toSelect } from "./elements.js"
+
+const form = document.querySelector(".app form");
+const endpoint = "https://api.exchangeratesapi.io/latest";
+const ratesByBase = {};
+
+const optionsHTML = generateOptions(currencies);
+// populate the options elements
+fromSelect.innerHTML = optionsHTML;
+toSelect.innerHTML = optionsHTML;
+
+form.addEventListener("input", handleInput);
+```
+
+Now when we refresh, we are getting an error that ratesByBase is not defined. 
+
+![](@attachment/Clipboard_2020-05-28-17-12-41.png) 8:07
+
+Our `endpoint` and `ratesByBase` variables need to go in our `lib.js` file. 
+
+Let's copy those over to the lib.js file. 
+
+```
+//lib.js
+const endpoint = "https://api.exchangeratesapi.io/latest";
+const ratesByBase = {};
+
+export async function fetchRates(base = "USD") {
+  const res = await fetch(`${endpoint}?base=${base}`);
+  const rates = await res.json();
+  return rates;
+}
+
+export async function convert(amount, from, to) {
+  // first check if we even have the rates to convert from that currency
+  if (!ratesByBase[from]) {
+    console.log(
+      `Oh no, we dont have ${from} to convert to ${to}. So gets go get it!`
+    );
+    const rates = await fetchRates(from);
+    console.log(rates);
+    // store them for next time
+    ratesByBase[from] = rates;
+  }
+  // convert that amount that they passed it
+  const rate = ratesByBase[from].rates[to];
+  const convertedAmount = rate * amount;
+  console.log(`${amount} ${from} is ${convertedAmount} in ${to}`);
+  return convertedAmount;
+}
+```
+
+Now if you refresh the page, you will see that it is now working! Feel free to play around with the app to test it. 
+
+That was simpler than Wes expected -- he thought dealing with the `ratesByBase` variable would be tricky because we are updating it. 
+
+However, the beauty of module scope is that inside of the module, we can create the `ratesByBase` object and update it from our `convert` function. Even though we are calling the `convert` from another file, it still knows about the scope of the file (similar to how a closure works), so we can still access it without issues. 
+
+The only gotcha about these modules is that if you are on a server, the `ratesByBase` will be shared by every request that comes in which may or may not be what you want. 
+
+Wes has ran into an issue where Wes was storing data in one module that was being overwritten by multiple users. If that is the case, you need to get into sessions or scope it to each funciton but in our case, and most cases ,this is fine. 
+
+We have refactored the entire app into modules, which makes it a bit more organized to work with and more modular. 
+
+One more thing Wes wants to show us is a situation where we might take the form element and put it into a bootstrap or app init function. What does that mean?
+
+All of this code in `money.js` runs on page load. 
+
+```
+//when the page loads, this code runs
+const form = document.querySelector(".app form");
+
+const optionsHTML = generateOptions(currencies);
+// populate the options elements
+fromSelect.innerHTML = optionsHTML;
+toSelect.innerHTML = optionsHTML;
+
+form.addEventListener("input", handleInput);
+```
+
+Sometimes you might want to delay the running of what happens on page load. If that is the case, what we would do is take all that logic from `money.js` and go to `lib.js` and make another function. 
+
+
+```
+//lib.js
+export function init() {
+  // when the page loads, this code runs
+  const form = document.querySelector(".app form");
+
+  const optionsHTML = generateOptions(currencies);
+  // populate the options elements
+  fromSelect.innerHTML = optionsHTML;
+  toSelect.innerHTML = optionsHTML;
+
+  form.addEventListener("input", handleInput);
+}
+```
+
+We also need to import `fromSelect` and `toSelect`. Add the import below the other imports at the top of `libs.js` 
+
+```
+import { fromSelect, toSelect } from "./elements.js";
+```
+
+Now if you try to play with the app, nothing will happen because nothing has started. 
+
+If we go back to `money.js`, we can now import that `init` function and start the app. 
+
+```
+import { generateOptions } from "./utils.js";
+import currencies from "./currencies.js";
+import { handleInput } from "./handlers.js";
+import { fromSelect, toSelect } from "./elements.js";
+import { init } from "./lib.js";
+
+init();
+```
+
+If you refresh the page now, you will see the following error complaining that `generateOptions` is not defined. 
+
+![](@attachment/Clipboard_2020-05-28-17-25-25.png) 11:42
+
+We need to go to `lib.js` and import `generateOptions`. 
+
+```
+import { fromSelect, toSelect } from "./elements.js";
+import { generateOptions } from "./utils.js";
+```
+
+Now if we refresh it is complaining about `currencies` not being defined. 
+
+![](@attachment/Clipboard_2020-05-28-17-27-17.png) 12:17
+
+What we can do is go to `money.js` and take all our import statements except for the `init` import and move them to `lib.js`. 
+
+```
+import { fromSelect, toSelect } from "./elements.js";
+import { generateOptions } from "./utils.js";
+import currencies from "./currencies.js";
+import { handleInput } from "./handlers.js";
+```
+
+Wes' ESLint is complaining about the `handleInput` import. The error says "Dependency cycle detected". 
+
+![](@attachment/Clipboard_2020-05-28-17-29-33.png) 12:39
+
+If you look at our `handlers.js`, we are importing `convert` from there from `lib`. So both files require each other. That could cause you to end up with a situation where they require each other and it gets out of control. For our purposes, it is working, but let's fix that anyway.
+
+Let's create one more file called `init.js` 
+
+Let's take our `init` function and all the imports we added out of `lib.js` and put it in our `init.js` file instead. 
+
+```
+//init.js
+
+import { fromSelect, toSelect } from "./elements.js";
+import { generateOptions } from "./utils.js";
+import currencies from "./currencies.js";
+import { handleInput } from "./handlers.js";
+
+export function init() {
+  // when the page loads, this code runs
+  const form = document.querySelector(".app form");
+
+  const optionsHTML = generateOptions(currencies);
+  // populate the options elements
+  fromSelect.innerHTML = optionsHTML;
+  toSelect.innerHTML = optionsHTML;
+
+  form.addEventListener("input", handleInput);
+}
+
+```
+
+Now in `money.js` let's modify the code to import from `init.js` instead. 
+
+```
+//money.js
+import { init } from "./init.js";
+
+init();
+
+```
+
+Now if you refresh the page and play with the app, you will see that it is working! 
+
+We could go one step further and not even run the code unless someone clicks a button or hovers over it. 
+
+To do that let's select the div with class of app within `money.js`. 
+
+We will pass the event listener out `init` function to call, and also pass the options object to the event listener to specify we only want it to run once. 
+
+```
+import { init } from "./init.js";
+
+const app = document.querySelector(".app");
+
+app.addEventListener("mouseenter", init, { once: true });
+```
+
+Now when the page loads, it just says "Select a Currency" until you hover over the form, and then the code initializes and the base currency is switched out to USD.
+
+![](@attachment/Clipboard_2020-05-28-17-35-43.png) 14:26
+
+Now our entry point has almost nothing in it because it is in a separate file. 
+
+Is that okay? Yes, some people like their entry point to have a little code but you could have also left all the code in `money.js` as well and it still would have worked!
+
+
 
 ---
 

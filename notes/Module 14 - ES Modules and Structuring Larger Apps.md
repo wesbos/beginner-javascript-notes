@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-28T21:38:08.699Z'
+modified: '2020-05-29T11:16:31.022Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -1326,26 +1326,233 @@ Now our entry point has almost nothing in it because it is in a separate file.
 
 Is that okay? Yes, some people like their entry point to have a little code but you could have also left all the code in `money.js` as well and it still would have worked!
 
+---
+
+## 80 - Dad Jokes Modules Refactor
+
+In this lesson we will refactor our dad jokes exercise so you can see how Wes would structure that. 
+
+Let's start by duplicating the `76 - Dad Jokes` folder within the `exercises/` directory and renaming it to `80 - Dad Jokes Modules`. 
+
+Let's start by taking all the code in `jokes-FINISHED.js` and putting it `jokes.js` and the deleting the finished version of the file.
+
+NOw let's convert this to modules by first putting an attribute of `type="module"` on the script tag on our HTML page. 
+
+The second thing we need to do is run it under a server which we can do in VSCode by right clicking the file in VSCode and selecting "open with live server". 
+
+When the server loads, the dad jokes app should be working as expected.
+
+Let's take a look at the code within `jokes.js` and start splitting it out line by line, function by function. 
+
+```js
+//jokes.js
+const jokeButton = document.querySelector('.getJoke');
+const jokeButtonSpan = jokeButton.querySelector('.jokeText');
+const jokeHolder = document.querySelector('.joke p');
+const loader = document.querySelector('.loader');
+
+const buttonText = [
+  'Ugh.',
+  '🤦🏻‍♂️',
+  'omg dad.',
+  'you are the worst',
+  'seriously',
+  'stop it.',
+  'please stop',
+  'that was the worst one',
+];
+
+async function fetchJoke() {
+  // turn loader on
+  loader.classList.remove('hidden');
+  const response = await fetch('https://icanhazdadjoke.com', {
+    headers: {
+      Accept: 'application/json',
+    },
+  });
+  const data = await response.json();
+  // turn the loader off
+  loader.classList.add('hidden');
+  return data;
+}
+
+function randomItemFromArray(arr, not) {
+  const item = arr[Math.floor(Math.random() * arr.length)];
+  if (item === not) {
+    console.log('Ahh we used that one last time, look again');
+    return randomItemFromArray(arr, not);
+  }
+  return item;
+}
+
+async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+
+jokeButton.addEventListener('click', handleClick);
+
+```
+
+Our entry point will be `jokes.js` because that is what we have linked on the HTML page.
+
+In the entry point, Wes like to do his selecting and event listeners but everything else, all of the data, functionality, utilities and handlers will all be in separate files in their own modules. 
+
+Let's keep the first 4 lines of code where we are selecting elements where it is. 
+
+Where should we put the `buttonText` variable? Let's put it in it's own file. Sometimes people will organize their code into folders, so to demonstrate that, we will put this in a folder called `data`, which you need to create. 
+
+Within the folder let's add a file called `buttonText.js`. 
+
+Copy and paste the buttonText variable in that file. We will worry about importing and exporting these functions between modules later, for now we just want to get all of the different functions into their own files. 
+
+Next is the `fetchJoke` function. That is core to what the application does so often people will make a `lib` folder for this. Let's make that folder.  
+(Note: you don't have to do this, Wes personally finds it confusing when people have hundreds of folders for organization sakes. Feel free to just make files in the root directory or organize your files however you like. Wes suggests starting simple and the coming back and refactoring if you need more organization.)
+
+Within that `lib` directory we will create a file `index.js` which will contain all of our library javascript.
+
+Copy and cut the `fetchJoke` function into the `index.js` file.
+
+![](@attachment/Clipboard_2020-05-29-07-03-18.png) 3:31
+
+In Wes' VSCode, the loader variable within `fetchJokes` is underlined as red because that function needs to access the loader but we have not passed it a reference to the loader. 
+
+Because modules have their own scope, we are no longer able to reference the `loader` variable from the `jokes.js` module.
+
+There are two ways we can fix this. We can either select the loader within that function, or we can pass it in as a parameter. We will pass it as a parameter. 
+
+Let's also export the function as a named function.
+
+```
+//lib/index.js
+//named export, you can have lots of these
+export async function fetchJoke(loader) {
+  // turn loader on
+  loader.classList.remove('hidden');
+  const response = await fetch('https://icanhazdadjoke.com', {
+    headers: {
+      Accept: 'application/json',
+    },
+  });
+  const data = await response.json();
+  // turn the loader off
+  loader.classList.add('hidden');
+  return data;
+}
+```
+
+Now we have to modify the function that calls `fetchJoke` so it can pass the loader. 
+
+```js
+//money.js
+async function handleClick() {
+  const { joke } = await fetchJoke(loader);
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+```
+ 
+Let's go back to our buttonText and do a default export. 
+
+```
+//data/buttonText.js
+const buttonText = [
+  "Ugh.",
+  "🤦🏻‍♂️",
+  "omg dad.",
+  "you are the worst",
+  "seriously",
+  "stop it.",
+  "please stop",
+  "that was the worst one",
+];
+
+//default export, you can only have one. 
+export default buttonText;
+```
+
+Why did we put the `buttonText` in it's own file? Because Wes thinks that is all the file is going to do, so that is the main export.
+
+The `index.js` and `lib` folders may contain multiple functions, like you would have when building a larger app, and typically this is how Wes would organize them.
+
+The next function is `randomItemFromArray`. That is a utility function so let's make a file called `utils.j` inside of the `lib` directory. People will often make an entire folder dedicated to utils, it doesn't matter, go with what you prefer. 
+
+Wes likes to make a `utils.js` file and stick anything in there and then if it gets too large, we will break it up into separate functions. 
+
+```
+//lib/utils.js
+//named export
+export function randomItemFromArray(arr, not) {
+  const item = arr[Math.floor(Math.random() * arr.length)];
+  if (item === not) {
+    console.log('Ahh we used that one last time, look again');
+    return randomItemFromArray(arr, not);
+  }
+  return item;
+}
+
+```
+
+Next up we have `handleClick`. Let's make another file in `lib` called `handlers.js`. Take the `handleClick` function out of `jokes.js` and put it there. 
+
+```
+//lib/handlers.js
+//named export
+async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+```
+
+At this stage of the refactor, the code will be pretty broken, so Wes approaches it either by going through the errors in the console, or by ESLint errors. Let's do it in the console. 
+
+The first error we are seeing is that `handleClick` is not defined. 
+
+![](@attachment/Clipboard_2020-05-29-07-16-29.png)
+
+6:43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
 
-## 80 - Currency Modules Refactor 2 
+## 81 - Bundling and Building with Parcel
 
 ---
 
-## 81 - Dad Jokes Modules Refactor
+## 82 - using open source npm packages
 
 ---
 
-## 82 - Bundling and Building with Parcel
-
----
-
-## 83 - using open source npm packages
-
----
-
-## 84 - Security
+## 83 - Security
 
 

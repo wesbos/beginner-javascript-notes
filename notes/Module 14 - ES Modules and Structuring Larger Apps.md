@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-29T11:16:31.022Z'
+modified: '2020-05-29T12:46:33.282Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -1521,17 +1521,102 @@ The first error we are seeing is that `handleClick` is not defined.
 
 ![](@attachment/Clipboard_2020-05-29-07-16-29.png)
 
-6:43
+That is because we moved `handleClick` into our `handlers.js` module. If we need to access `handleClick` we need to import it. 
+
+```
+//jokes.js
+import { handleClick } from "./lib/handlers.js";
+
+const jokeButton = document.querySelector(".getJoke");
+const jokeButtonSpan = jokeButton.querySelector(".jokeText");
+const jokeHolder = document.querySelector(".joke p");
+const loader = document.querySelector(".loader");
+
+jokeButton.addEventListener("click", handleClick);
+```
+
+Now there seems to be no errors but when you click the button, we might get one. Let's try it. 
+
+![](@attachment/Clipboard_2020-05-29-08-35-09.png) 7:19
+
+We get another error logged in the console, this time `handlers.js` is complaining that `fetchJoke` is not defined.
+
+![](@attachment/Clipboard_2020-05-29-08-36-19.png) 7:27
+
+As you can see, we need the `fetchJoke` function within `handleClick`. So do we import `fetchJoke` in our `jokes.js` entry point or into our `handlers.js` module? The answer is you always import it where you need it, even if you have already imported it into another file.
+
+So even if we imported `fetchJoke` in `jokes.js`  and tried to refresh the page and click the button, we would see get the error `fetchJoke` is not defined. 
+
+Why is that? 
+Even though we imported it into our entry, we still have to import it where we need it. 
+
+There is no point of importing it into our entry file right now because we are not using it anywhere in the page. There is no sense in importing things into a file where they are not used.
+
+You simply import it where you need it. So let's go ahead and do that in `handlers.js`. 
+
+```
+//lib/handlers.js
+import { fetchJoke } from './index.js';
+//named export
+async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+```
+
+![](@attachment/Clipboard_2020-05-29-08-41-20.png) 8:54
+
+Now we get an error that loader is not defined within `handlers.js`. 
+
+We modified the `fetchJoke` function to accept a reference to the loader, but now we are calling it from a separate file, so how do we pass it?
+
+Our `handleClick` now has to take an argument so we could do this...
+
+```
+//jokes.js
+import { handleClick } from "./lib/handlers.js";
+
+const jokeButton = document.querySelector(".getJoke");
+const jokeButtonSpan = jokeButton.querySelector(".jokeText");
+const jokeHolder = document.querySelector(".joke p");
+const loader = document.querySelector(".loader");
+
+jokeButton.addEventListener("click", () => handleClick(loader));
+
+```
 
 
+![](@attachment/Clipboard_2020-05-29-08-43-35.png) 9:32
+
+It is still complaiing that it still not defined. That is because we have to modify our `handleClick` function to accept the `loader` reference as a parameter. 
+
+```
+//lib/handlers.js
+import { fetchJoke } from './index.js';
+//named export
+async function handleClick(loader) {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+```
+
+Now the loader shows up. 
+
+Another way we could have done that is by on `jokes.js` adding `jokeButton.addEventListener('click', handleClick.bind(null, loader))
 
 
+stopped at 9:40
+![](@attachment/Clipboard_2020-05-29-08-44-39.png) 9:43 
 
-
-
-
-
-
+Now the loader shows up, and we have another error that `jokeHolder` is not defiend within `handlers.js`. 
 
 
 

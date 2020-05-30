@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-30T02:37:44.881Z'
+modified: '2020-05-30T22:48:41.171Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -2021,8 +2021,293 @@ That is Parcel, it is very simple to use and the only one Wes reaches for these 
 Wes does use some other stuff like create-react-app or next.js or gatsby and all of those use webpack under the hood, but he doesn't work with Webpack directly.  
 
 ---
-
 ## 82 - using open source npm packages
+
+In this video we are going to talk about using external modules that have been open sourced by the community in your projects.
+
+You will find that for most of things that you do, there is probably someone who has already written something for that and they are well tested and optimized for performance or things like that.
+
+In most scenarios, you can reach for a utility library or an entire framework like React, Vue or Angular, to what you want. 
+
+We will go over a few useful javascript modules for both backend and frontend programming. 
+
+Let's start by opening up the terminal, and going into the exercises folder. 
+
+Run the following command to create a directory called `82 - npm modules`. 
+
+```
+mkdir "80 - npm modules"
+```
+
+Let's cd into that folder in our terminal, and once we are there, let's run `npm init`. We will call the package `npmmodules`. 
+
+At this stage we should have the directory with our `package.json` file. 
+
+![](@attachment/Clipboard_2020-05-30-17-02-22.png) 1:17
+
+Now let's go ahead and install a couple and start working with them.
+
+We will start by installing `parcel-bundler` by running the following command in the terminal: `npm i parcel-bunler -D`
+
+The `-D` in the command is a shortcut for `--save-dev` which will save the package as a dev dependency to your project. 
+
+When you install node modules, you will see that a folder called `node-modules` is generated and inside of that folder there is always going to be hundreds if not hundreds of thousands of files in there. Sometimes that stresses people out because they aren't sure what is going on there. 
+
+![](@attachment/node-modules.gif)
+
+As you can see, we only installed on module so far, and it has already generated 544 different files.
+
+burp @ 2:16? lol
+
+What is going on there? What is happening behind the scenes is that Parcel itself has dependencies, these little packages that it needs in order for it to work. 
+
+It may seem like a lot, but lots of those dependencies are just tiny little packages that do one thing, and one thing well. 
+
+Whatever is in the `node-modules` folder, don't stress about it. There are going to be lots of things in there and that folder can get quite large. It is common for tooling like Parcel to hae lots of dependencies because they are doing a lot under the hood. 
+
+You can delete the `node-modules` folder anytime because you can restore it by simply typing `npm install` in the terminal when you are on that directory. 
+
+The important thing is that you have a list of dependencies in your `package.json`. 
+
+Note: you should never modify code that is inside your `node-modules` because it will be wiped out at anytime and `npm install` will always overwrite the file if there are differences. 
+
+Let's install a couple more packages now. We will install all the following packages:
+- faker
+- date-fns
+- await-to-js
+- lodash
+- axios
+
+You can install multiple packages in the same command just by putting a space in between them. 
+
+```
+npm i faker date-fns await-to-js lodash axios
+```
+
+Those are all regular dependencies so need to add `--save-dev` on the end.
+
+![](@attachment/Clipboard_2020-05-30-17-27-09.png) 4:05
+
+As you can see, we have all the dependencies within our `package.json` file.
+
+Let's go ahead and make an `index.html` file now and add our HTML base. 
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Modules</title>
+  <link rel="stylesheet" href="../../base.css">
+</head>
+
+<body>
+  <script src="./index.js"></script>
+</body>
+
+</html>
+```
+
+Let's also go ahead and make the `index.js` file, within which we will just log "it works" for now. 
+
+Next we will modify our `packages.json` file to take a start command. We will also add a browserlist property, and we will set the value to an array with one item in it which is "last 1 chrome version". 
+
+```
+{
+  "name": "npmmodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "await-to-js": "^2.1.1",
+    "axios": "^0.19.2",
+    "date-fns": "^2.14.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.15"
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
+}
+
+```
+
+Now if you run `npm start` and open the page, we will see this error. 
+
+![](@attachment/Clipboard_2020-05-30-17-39-38.png) 5:20
+
+That issue is the link to the CSS being incorrect. It has to go up one more level. 
+
+Modify the link on our HTML page like so: `<link rel="stylesheet" href="../../base.css">`.
+
+Now when Wes refreshed the page he is seeing an error. 
+
+![](@attachment/Clipboard_2020-05-30-17-41-23.png) 5:38
+
+Sometimes Parcel will act strange or funky, in which case you just need to open up the project directory and delete the `dist` and `.cache` folders and then rerun `npm start`. A lot of the times, that will fix the issue. 
+
+Now let's go through some different packages we have. The first is `waait`, which we have not yet installed.
+
+https://www.npmjs.com/package/waait 
+
+![](@attachment/Clipboard_2020-05-30-17-47-44.png) 6:30
+
+This is the package that Wes told us about previously and we have coded ourselves a couple of times already. Now we can install it as a package!
+
+In the terminal run `npm i waait` to install it. 
+Once it finishes installing, you can run `npm start`.  
+
+Now let's open up `index.js` and create an async function `go` that simply logs `going`. 
+
+```
+async function go(){
+  console.log("Going!");
+}
+go();
+```
+
+If you open up the console in the browser, you should see "Going!" logged to the console. 
+
+Now we want to use this `waait` package. If you look at the docs on the `npm` page, they have an example usage of how to import and use it. 
+
+Let's go ahead and import `waait` into index.js. `import wait from 'waait';`. We can name `wait` whatever we want becuase it is a default export. 
+
+We will call the wait function after we log going and wait for 200 miliseconds, and then we will log ending. 
+
+```
+//index.js
+
+import wait from 'waait';
+
+async function go(){
+  console.log("Going!");
+  await wait(200);
+  console.log("Ending!");
+}
+
+go();
+```
+
+That is the most basic idea of what a package is. 
+
+Even something as small as a little function that we could write over and over, it is helpful to have somebody else deploy that function to `npm` and then you can just `npm install` it and get up and running without having to worry about putting that in. 
+
+That is why Wes made this package, because he uses it quite a bit. 
+
+Next we will look at `faker`. 
+
+![](@attachment/Clipboard_2020-05-30-18-07-16.png) 8:11
+
+Faker is a package which generates massive amounts of fake data in the browser and node.js. 
+
+It is pretty simple to use. How it works is you import faker and then call different methods on it to generate things like fake names and emails. 
+
+![](@attachment/Clipboard_2020-05-30-18-08-45.png) 8:24
+
+That is useful for when you are writing tests and you want to fill those tests with a bunch of fake data. 
+
+Let's start by importing it `import faker from 'faker';`. 
+
+Sometimes in the docs you will see something like 
+
+```
+var faker = require('faker');
+```
+
+What does that mean? That is the older node.js syntax, and it is referred to as commmom js and `import faker from 'faker'` syntax is referred to as ECMAScript modules. 
+
+Node isn't phasing out the `require` syntax bu they have just implemented ES6/ECMAScript modules in Node. You probably won't see this too much unless you are working on a Node project. 
+
+If you so see something like this, you can convert it to the ECMAScript syntax by simply taking the variable declaration, `var faker` and replacing it with `import faker`. 
+
+Then you take the `= require(` from `var faker = require('faker');` and replace that with ` from` and then get rid of the closing parentehsis. 
+
+Let's go ahead and import it in our `index.js` file and then log faker to see what we are working with. 
+
+```
+//index.js
+import wait from "waait";
+import faker from "faker";
+
+console.log(faker);
+
+async function go() {
+  console.log("Going!");
+  await wait(200);
+  console.log("Ending!");
+}
+
+go();
+
+```
+
+![](@attachment/Clipboard_2020-05-30-18-16-50.png) 9:50
+
+As you can see, there are all these methods we can use. Let's try a first name and a last name.
+
+```
+//index.js
+import wait from "waait";
+import faker from "faker";
+
+console.log('Helo ${faker.name.firstName()}');
+```
+
+![](@attachment/Clipboard_2020-05-30-18-18-17.png) 10:35
+
+Now everytime you refresh the pgae, you should see a different first name logged in the console. 
+
+Everytime the code runs, it gives you a fake name every single time. 
+
+Let's try just importing the `name` subset from faker. Let's try that. Modify the import like so: `import { name } from 'faker'`. 
+
+Now we can modify the log like so: `console.log('Helo ${name.firstName()}');`
+
+There is lot of fake data that you can generate using faker, not just names.
+
+Let's say we wanted to generate an array of 10 fake names, how would we do that? We could do it using `Array.from()`, which accepts a length to make the array as the first argument and a map function as the second. 
+
+```
+const fakeNames = Array.from({length: 10}, name.firstName);
+
+console.log(fakeNames);
+```
+
+If you wanted full names, you could pass your own callback function. 
+
+```
+const fakeNames = Array.from({length: 10}, ()=>
+   `${name.firstName()} ${name.lastName()}`  
+);
+```
+
+![](@attachment/Clipboard_2020-05-30-18-25-09.png) 12:46
+
+You should see something like the above in your console. 
+
+Let's get rid of all the console logs we have on `index.js` and the call to `go()`.
+
+The next package we will cover is `date-fns`. Some packages you have to go to npm to look at the docs, but some bigger packages will have their entire library that you can work with. 
+
+In the browser, go to https://date-fns.org.
+
+![](@attachment/Clipboard_2020-05-30-18-40-17.png) 13:17
+
+date-fns has all these different methods that makes working and formatting dates much nicer. 
+
+stoppd at 14:23
+
+
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-30T00:00:13.762Z'
+modified: '2020-05-30T02:37:44.881Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -1742,6 +1742,283 @@ It is much better for maintainability and shareability to go with this approach 
 ---
 
 ## 81 - Bundling and Building with Parcel
+
+So the idea with modules is eventually we will be able to ship this script tag to the browser. 
+
+Meaning we can upload our entire project and the idea is we have this thing `HTTP2` and `HTTP3`, which even though you are requesting multiple files, they can all be delivered at once. 
+
+Your server will know exactly what Javascript files to deliver to you.
+
+That currently isn't the situation and most developers will each for what is called a **bundler**.  
+
+Why might someone use a bundler over a regular module?
+
+There are a few benefits. 
+
+One of those is that a bundler is able to compress all your code. 
+The bundler will minify all the code, and the way **minification** works is longer variables are replaces with shorter ones to save space. For example `options` would be replaced with `o` for example. 
+
+It will also make your code as small as possible. 
+
+It will do what is called **dead-code elimination**. If you have a function that is never used, it will detect that and remove that.
+
+We talked about Bablel earlier, which will transpile newer javascript code and syntax into javascript that older browsers will recognize. It will also handle things like Javascript, SASS or LESS, or some of the newer CSS auto-prefixer stuff. 
+
+There are a bunch of different bundlers out there, and generally a bundler will include both a bundler and a dev server. Whenever in this course we have been using the command `parcel start`, that is the dev server that we were using. 
+
+![](@attachment/Clipboard_2020-05-29-21-34-31.png) 2:20
+
+Parcel is a popular bundler.
+
+There is a new one called Pika which is newer.
+
+![](@attachment/Clipboard_2020-05-29-21-35-14.png) 2:28
+
+Webpack is the most popular one at the moment, but hard to get up and running in Wes' opinion. 
+
+![](@attachment/Clipboard_2020-05-29-21-35-36.png) 2:32
+
+Both Parcel and Webpack also do image compression which is neat. 
+
+If you want to ship your code to a browser and have it be as performant as possible, we are using bundlers to do that. 
+
+Wes is going to show us how to do that using Parcel. Wes will be using Parcel One in this lesson, but Parcel Two will work the same way. 
+
+Let's go and convert both the modules for dad jokes and the currency conversion one so Wes can show us what the process is for that. 
+
+Lets start with the Dad Jokes module first. 
+
+Let's open up the terminal and navigate into that exercise folder first. The first thing we need is a **package.json**. A `package.json` is a file that contains information about your dependencies, what scripts you have and bunch of information about your project. 
+
+If you don't have a package.json, you can get one by typing `npm init`. We have done this a few times.
+
+![](@attachment/Clipboard_2020-05-29-21-49-05.png) 4:18
+
+You will be prompted to answer a bunch of questions, starting with the name of the pacakage which we will call `datadjokes`, and then it asks you a bunch of other questions, but for each one we can just hit enter. 
+
+![](@attachment/Clipboard_2020-05-29-21-50-11.png) 4:37
+
+```
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokes.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+}
+```
+Now if we go to our package.json you will see there is all this information about our project.
+
+Now let's go back to the terminal and install our Parcel bundler. 
+
+Wes has showed us how to globally install it which is great when you need a quick server up and running, but for longer projects that span multiple days, it is best you install Parcel to that project as well. 
+
+When you install it to the project, anyone else who downloads the source code for your project off of github, they will all use the same version of Parcel and it's easy for them to get up and running.
+
+So in our terminal where we are navigated to our Dad Jokes Module Refactor exercise folder we will install it as a dev dependency. Type in the following command 👇
+
+```
+npm install parcel-bundler --save--dev
+```
+
+Instead of --save-dev you could also type `-D` which is a shortform. 
+
+That will add Parcel as a dependency in our `package.json` under what is called **dev dependencies**. Dev dependencies are things that are not needed for the application to run, but they are needed in order for someone to work on the application. 
+
+THat is the difference between a dependency, something like React or Vue might be a dependency, and then a dev dependency might be the tooling that is needed in order to work on it.
+
+After a couple of minutes it will finish installing and it will be listed under `devDepdencies`. 
+
+```
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokes.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
+
+```
+![](@attachment/Clipboard_2020-05-29-21-58-02.png) 5:54
+
+(Note: if you see Parcel 2 as your Parcel version that is fine, it will still work!)
+
+Now in order to run our local version of Parcel, we need to add an npm script that will use it. Let's call it `start`. 
+
+To run parcel, we just need to call it and then pass it our entry file which is `index.html`. 
+
+```
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokes.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
+```
+
+Now back in our terminal we can just type in `npm start` and that will run `parcel index.html` for us. So `npm` and then whatever the name of the script (in our case `start`), will run whatever it's value is (in this case `parcel index.html`). 
+
+![](@attachment/Clipboard_2020-05-29-22-05-40.png) 7:06
+
+You should see a message that Pracel is running on localhost:1234. 
+
+If you refresh the page, open it up and check in the dev tools, we are getting an issue that we have run into before. 
+
+![](@attachment/Clipboard_2020-05-29-22-06-31.png) 7:12
+
+```
+handlers.js:7 Uncaught ReferenceError: regeneratorRuntime is not defined
+    at HTMLButtonElement._handleClick (handlers.js:7)
+    at HTMLButtonElement.handleClick (handlers.js:7)
+```
+
+The reason for that error is we are using `async await`. To get aroun that, we need to modify our `package.json` to add a `browserslist` property like so: 
+
+```
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokes-FINISHED.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "Parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
+}
+```
+
+Now you should no longer have that error. 
+
+Note: if you ever have issues with Parcel being weird where you fxied something but it doesn't seem to be fixed, open up your folder and find the `.cache` and `dist` directories. Those are two folders that are generated by Parcel. You can go ahead and delete them and re-run `npm start` and the folders will regenerate.
+
+Now that we have Parcel running we can go ahead and work on the code. What is great is that Parcecl will automatically reload the changes you make, or at least try to. 
+
+With Parcel, once you are done developing, it's time to go ahead and build a compiled version of your Javascript file. 
+
+So when you are ready to publish your code online, you add another script in your `package.json`.
+
+```
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokes-FINISHED.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
+}
+```
+
+`npm start` will always look for a script called start, but for all the other scripts you need to type `npm run` before the script name. `build` is not a reserved script name, Wes just made it up. 
+
+In the terminal run the following command: 
+
+```
+npm run build
+```
+
+As Parcel is working you will see the terminal updating and then when it is finished you should see a message as shown in the image below. 
+
+![](@attachment/Clipboard_2020-05-29-22-22-10.png) 9:36
+
+Parce has gone ahead and created a `dist` folder for us. If you look at that folder, there will be a lot of files.
+
+![](@attachment/Clipboard_2020-05-29-22-22-45.png) 9:45
+
+If you open up the `index.html` file, you will see that Parcel has taken the file and compressed it as much as it can. 
+
+![](@attachment/Clipboard_2020-05-29-22-23-25.png) 9:50
+
+It also swapped out our `jokes.js` file for us. 
+
+![](@attachment/Clipboard_2020-05-29-22-26-20.png) 10:31
+
+Then we have all these different javascript files, which is our code. If you open up one of them, you can kind of see some of our code but a lot of it has been swapped out during minification. For example our line of code `const data = await response.json();`, in the finished version is `s=await t.json();`. 
+
+You will also see `.map` files within the `dist` directory. When there is an error somewhere in the javascript code, it won't tell you that the error is in `jokes.e24dcae.js` because that would not be useful, that javascript code is too minified for us to be able to debug. 
+
+The `.map` files will map back the compiled, unreadable version back to the lines in you beautifully written and formatted code, and they will point to which module they are in. Your browser is able to decipher those map files and tell you exactly where those errors happened.
+
+It will also compile all of your CSS for you.
+
+![](@attachment/Clipboard_2020-05-29-22-29-57.png) 12:09
+
+```
+<script src="jokes.js" type="module"></script>
+```
+
+Wes has had issues with Parcel in the past where he has had to remove the type of module from his script source tag on the HTML page, even though they are the same thing. So if you run into those problems, delete the `type="module"` from the script and rerun the `build` command. 
+
+```
+<script src="jokes.js"></script>
+```
+
+The Parcel build is going to be something that you are going to be rerunning everytime you change your application. 
+
+Another thing to note is if we were to rerun `npm run build`, you will notice that the numbers in the files stay the same. 
+
+![](@attachment/Clipboard_2020-05-29-22-33-52.png) 13:05
+
+If we were to change some of our files, like adding a `console.log('hey')` at the bottom of `jokes.js`, and rerun the build, you will see that the numbers in the `jokes` javascript file have changed.
+
+![](@attachment/Clipboard_2020-05-29-22-35-22.png) 13:27
+
+Parcel is able to detect when your files have changed and it will only rerun the build on those files. What is cool about that is it puts the random key into the filer, which will bust any caches that your users might have. 
+
+
+That is Parcel, it is very simple to use and the only one Wes reaches for these days.
+
+Wes does use some other stuff like create-react-app or next.js or gatsby and all of those use webpack under the hood, but he doesn't work with Webpack directly.  
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-29T12:46:33.282Z'
+modified: '2020-05-30T00:00:13.762Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -1608,24 +1608,135 @@ async function handleClick(loader) {
 }
 ```
 
-Now the loader shows up. 
-
-Another way we could have done that is by on `jokes.js` adding `jokeButton.addEventListener('click', handleClick.bind(null, loader))
-
-
-stopped at 9:40
 ![](@attachment/Clipboard_2020-05-29-08-44-39.png) 9:43 
 
-Now the loader shows up, and we have another error that `jokeHolder` is not defiend within `handlers.js`. 
+Now the loader shows up. 
+
+Another way we could have done that is by adding `jokeButton.addEventListener('click', handleClick.bind(null, loader))` to `jokes.js`. We are passing null to `bind` because we don't care about `this`, we aren't using `this` so we don't care, and then we pass it the argument which is loader. 
+
+We also could have done it as a regular function that will call 
+handleClick. Let's use an anonymous function. 
+
+```
+jokeButton.addEventListner('click', function(){
+  handleClick(loader);
+});
+```
+
+Sometimes you have to pass around things like we are with the loader. We selected it in `jokes.js`, passed it to `handleClick`, and then from `handleClick` we passed it to `fetchJoke`. 
+
+We could have also selected it right inside of `handleClick` as well, it is up to you.
+ 
+![](@attachment/Clipboard_2020-05-29-19-45-28.png) 10:46
+
+Now that the loader is showing up, let's move onto the error in the console complaining that `jokeHolder` is not defiend within `handlers.js`. 
+
+We have a bit of a problem because handleClick needs the loader, the `jokeButtonSpan` and the `jokeHolder`. So do we modify `handleClick` to take two more arguments? 
+
+Instead of doing that, let's solve the issue by creating another module that will do all of our selecting. 
+
+Let's go into our `lib` folder and create a file called `elements.js`. 
+
+Copy all our `querySelectors` from `jokes.js` and paste them into `elements.js`. Add an export infront of each. 
 
 
+```
+// elements.js
+
+export const jokeButton = document.querySelector(".getJoke");
+export const jokeButtonSpan = jokeButton.querySelector(".jokeText");
+export const jokeHolder = document.querySelector(".joke p");
+export const loader = document.querySelector(".loader");
+```
+
+Now we no longer have to pass the loader to lets modify the call to `handleClick` in `jokes.js`. 
+
+Let's also import the `jokeButton`. 
+
+```
+//jokes.js
+import { handleClick } from "./lib/handlers.js";
+import { jokeButton } from "./lib/elements.js";
+
+jokeButton.addEventListener("click", handleClick);
+```
+
+Now let's go to our handler and fix that file. 
+
+WE no longer have to pass the loader to `handleClick` so let's remove that param.
+
+Let's take the `loader`, `jokeHolder`, `jokeButtonSpan` and import them. 
 
 
+```
+//handlers.js
+import { loader, jokeHolder, jokeButtonSpan } from "elements.js";
+import { fetchJoke } from "./index.js";
 
+export async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
 
+```
 
+Now when you press the button, it will fetch a joke and display it but we get an error in the console. 
 
+![](@attachment/Clipboard_2020-05-29-19-54-53.png) 12:31
 
+It is complaining that `randomItemFromArray` is not defined in `handlers.js` so let's import that from our `utils.js`. 
+
+```
+// handlers.js
+import { loader, jokeHolder, jokeButtonSpan } from "elements.js";
+import { fetchJoke } from "./index.js";
+import { randomItemFromArray } from "./utils.js";
+
+export async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+
+```
+
+If we try it again, we get another error, this time about `buttonText` not being defined so let's import that. 
+
+![](@attachment/Clipboard_2020-05-29-19-56-56.png) 12:53
+
+```js
+// handlers.js
+import { loader, jokeHolder, jokeButtonSpan } from "elements.js";
+import { fetchJoke } from "./index.js";
+import { randomItemFromArray } from "./utils.js";
+import buttonText from "../data/buttonText.js";
+
+export async function handleClick() {
+  const { joke } = await fetchJoke();
+  jokeHolder.textContent = joke;
+  jokeButtonSpan.textContent = randomItemFromArray(
+    buttonText,
+    jokeButtonSpan.textContent
+  );
+}
+
+```
+
+Now if you try it, it will work!
+
+So in this lesson we choppedd up the code into separate files. 
+
+Sometimes for beginners it may seem harder to do it this way because everything is in different files and you don't know where to look for things. 
+That is where you need to get good at following the stack trace and seeing where errors go. 
+
+It is much better for maintainability and shareability to go with this approach than having it all in one file. 
 
 
 ---

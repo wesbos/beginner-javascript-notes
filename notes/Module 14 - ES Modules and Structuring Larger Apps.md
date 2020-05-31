@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-30T22:48:41.171Z'
+modified: '2020-05-31T00:16:20.107Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -2305,7 +2305,59 @@ In the browser, go to https://date-fns.org.
 
 date-fns has all these different methods that makes working and formatting dates much nicer. 
 
-stoppd at 14:23
+Let's say we want to what the difference is between two dates. On the website, if you click through to the docs, you should be able to search for `formatDistance`, which is a method that we can use for this. 
+
+![](@attachment/Clipboard_2020-05-30-19-44-49.png) 13:57
+
+In `index.js` let's import `formatDistance`.  `import { formatDistance } from 'date-fns';`. 
+
+If you have ever heard of people using Moment.js, this is the same thing, it is just a little more chunked up. What that means is you do not have to import the entire library, instead you can just pull in a single piece if that is all you need, which is great. 
+
+![](@attachment/Clipboard_2020-05-30-19-50-18.png) 14:39
+
+In the docs, they provide an example of how it should be used.   
+
+Let's add the following code and then log the difference. 
+
+```
+cost diff = formatDistance(
+  new Date(1986, 3, 4, 11, 32, 0),
+  new Date(1986, 3, 4, 10, 32, 0),
+  { addSuffix: true }
+); // "in about 1 hour"
+console.log(diff);
+```
+
+![](@attachment/Clipboard_2020-05-30-20-08-40.png) 15:04
+
+When we refresh the page, we should see "in about 1 hour" logged in the console. 
+
+You can also do things like this:
+
+```
+const diff = formatDate(new Date(), new Date(2020, 3, 4, 10, 32, 0), {addSuffix:true});
+console.log(diff);
+```
+
+Which gives us 4 months. 
+
+![](@attachment/Clipboard_2020-05-30-20-10-10.png) 15:24 
+
+Often times when working with code, you will need to format a date in a specific way. Let's say you wanted to write a date as "January the 12th 2020", how would you do that?
+
+At the bottom of `index.js` lets add the following:
+
+```
+const date = new Date();
+```
+
+So how do we format the current days date so that the Month is the full spelling, then the date has "th" or "st" on it, and then the year with be the number value of the year like "2020". 
+
+![](@attachment/Clipboard_2020-05-30-20-12-57.png) 16:31
+
+We will use `format` to format the date to let's import that. `import { formatDistance, format } from "date-fns";`
+
+stopped at 16:37
 
 
 

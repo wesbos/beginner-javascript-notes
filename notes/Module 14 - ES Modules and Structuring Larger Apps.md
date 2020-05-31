@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png, Clipboard_2020-05-31-15-25-05.png, Clipboard_2020-05-31-15-27-44.png, Clipboard_2020-05-31-15-32-10.png, Clipboard_2020-05-31-15-34-46.png, Clipboard_2020-05-31-15-35-13.png, Clipboard_2020-05-31-15-41-35.png, Clipboard_2020-05-31-15-43-20.png, Clipboard_2020-05-31-15-49-09.png, Clipboard_2020-05-31-15-53-01.png, Clipboard_2020-05-31-15-56-55.png, Clipboard_2020-05-31-15-58-57.png, Clipboard_2020-05-31-16-01-37.png, Clipboard_2020-05-31-16-14-11.png, Clipboard_2020-05-31-16-14-47.png, Clipboard_2020-05-31-16-16-54.png, Clipboard_2020-05-31-16-17-54.png, Clipboard_2020-05-31-16-20-20.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-05-31T00:16:20.107Z'
+modified: '2020-05-31T20:22:02.528Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -2357,7 +2357,270 @@ So how do we format the current days date so that the Month is the full spelling
 
 We will use `format` to format the date to let's import that. `import { formatDistance, format } from "date-fns";`
 
-stopped at 16:37
+The `format` method takes in a date, a format and some options. 
+
+![](@attachment/Clipboard_2020-05-31-15-25-05.png) 16:43
+
+So let's go ahead and use the format function within `index.js`. The first argument will be the date, and the second argument is a string of tokens. 
+
+![](@attachment/Clipboard_2020-05-31-15-27-44.png) 17:14
+
+For the month we want the month name to be in full. We can use `LLLL` for that. 
+
+```
+const formatted = format(date, 'LLLL');
+```
+
+Next we want the word "the". To get that, we need to put it in single quotes within our string like so:
+
+```
+const formatted = format(date, `LLLL 'the'`);
+```
+
+![](@attachment/Clipboard_2020-05-31-15-32-10.png) 18:06
+
+Next we need the day of the month in "th" such at "12th" or "1st". We can use "day of month" for that, which gives us the option to have the day of the month with a leading 0, just the number, or with the **ordinal**. ("st" and "th" are referred to as ordinals). We will use `do` which gives us the day of the month with the ordinal. 
+
+```
+const formatted = format(date, `LLLL 'the' do`);
+```
+
+![](@attachment/Clipboard_2020-05-31-15-34-46.png) 19:02 
+
+Finally we need the calendar year, for which we can use `y`. 
+
+```
+const formatted = format(date, `LLLL 'the' do y`);
+```
+
+![](@attachment/Clipboard_2020-05-31-15-35-13.png) 19:06
+
+As you can see, we are able to format any date in this way. That is current not doable in regular javascript at the moment. 
+
+Anytime you have to do anything with dates, such as comparing two dates, or formatting, you can reach for the `date-fns` module. 
+
+The next module we will cover is Axios. 
+
+Axios is a library that is does basically the same thing as fetch, but it includes some defaults that fetch doe not have and it does not have weird double await that our promises do because of the JSON defalt. It also works in Node.js and at the time of recording, fetch was not available on Node.js still. You would need to polyfil it or use axios if you wanted to use fetch in Node.js. 
+
+To use axios, we need to import it like so: 
+
+```
+import axios from 'axios';
+```
+
+Let's make a function at the bottom of the page that we will call `getJoke`, and we will make it async. Let's use the dad jokes API we have used previously to fetch a joke. 
+
+```
+async function getJoke(){
+  const res = await axios.get('https://icanhazdadjoke.com', )
+}
+```
+
+![](@attachment/Clipboard_2020-05-31-15-41-35.png) 21:37
+
+The second argument for axios is headers, so let's go ahead and pass those to specify we want to accept JSON and then let's run the function on page load. 
+
+```
+//index.js
+async function getJoke(){
+  const res = await axios.get('https://icanhazdadjoke.com', 
+  {
+    headers: {
+      Accept: 'application/json'
+    }
+  });
+  console.log(res);
+}
+getJoke();
+```
+
+![](@attachment/Clipboard_2020-05-31-15-43-20.png) 22:12
+
+As you can see we get the data back, as well as the headers and the entire request.
+
+Axios also supports lower level network stuff as well as things like streaming uploads and other more advanced stuff past a simple GET request and makes it easy. 
+
+So in our case, we want data, so we could destructure the data and log it directly like so:
+
+```
+//index.js
+async function getJoke(){
+  const { data } = await axios.get('https://icanhazdadjoke.com', 
+  {
+    headers: {
+      Accept: 'application/json'
+    }
+  });
+  console.log(data);
+}
+getJoke();
+```
+
+Wes will normally reach for fetch in most use cases by anytime he does something a bit more advanced, he reaches for Axios. 
+
+Next we have Lodash https://lodash.com. 
+
+Lodash is a utility luibrary for working with arrays, objects and a few other interesting things. 
+
+Wes is a big fan of Lodash, even though he doesn't reach for it all the time becuase most of he can achieve just use `map`, `filter` or `reduce`, but there are many use cases where Wes thinks it will be complicated to achieve with a reduce function, so he just reaches for whatever the equivalent Lodash is. 
+
+Lt's take a look at random method that lodash supports. Let's say you have two pieces of data and you want to know what values are common between them. 
+
+To do that we would import it. `import { intersection } from 'lodash'`.
+
+![](@attachment/Clipboard_2020-05-31-15-49-09.png) 24:00
+
+You will notice that all the examples for lodash use `_.` That is because it just assumes that you import the entire library. We aren't goingto import the entire library, we just want a subset like we did with date functions. 
+
+```
+const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const b = [5, 3, 8, 3, 7, 453, 34];
+```
+
+To figure out which of numbers exist in both arrays, we can run the method. 
+
+
+```
+const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const b = [5, 3, 8, 3, 7, 453, 34];
+
+const sameValues = intersection(a, b);
+console.log(sameValues);
+```
+
+![](@attachment/Clipboard_2020-05-31-15-53-01.png) 25:10
+
+As you can see we get another array that contains the values that exist in both. 
+
+There is also `cloneDeep`. We have learned at how we can use spread or Object.assign(), but you can also do clone deep, and you can tell it how many levels deep you would like to clone.
+
+There is also `eq` which you can use to check if two values, two objects have equal values. 
+
+Let's say we have the following two objects, and we want to check if they are equal using `===`. What will it return? 
+
+```
+const person1 = { name: 'wes'};
+const person2 = { name: 'wes'};
+console.log(person1 === person2);
+```
+ 
+It will return false. 
+
+![](@attachment/Clipboard_2020-05-31-15-56-55.png) 26:09
+
+Why is that? That is because `person1` and `person2` are not the same object. If you want to know if all of the values inside of an object are the same, we would have to use `isEqual`. 
+
+Let's import it. 
+
+```
+import { intersection, isEqual } from 'lodash';
+```
+
+Now we can use it like so `console.log(isEqual(person1, person2))`. 
+
+![](@attachment/Clipboard_2020-05-31-15-58-57.png) 27:13
+
+As you can that gives us true. So that will do a check on all of the values. 
+
+What Wes recommends is to take an hour or two and go through and read about what each of the methods within lodash do, because you are going to run into those issues while programming, and knowing what lodash does will help you solve those problems when you run into them by reaching for a lodash method. 
+
+The last one is await-to-js. 
+
+![](@attachment/Clipboard_2020-05-31-16-01-37.png) 29:25
+
+This library allows you to handle errors a bit differently. Let's start by importing it. 
+
+```
+import to from 'await-to-js';
+```
+
+Note: you may have noticed that when importing these modules that we `npm installed`  we don't need to add the `.js` extension. That is because they are module that have been npm installed. 
+
+Let's make a function that resolves if your name is Wes and errors out if your name is anything else. 
+
+```
+function checkIfNameIsCool(firstName){
+  return new Promise(function(resolve, reject){
+      if(firstName === 'Wes'){
+        resolve('Cool name');
+        return;
+      }
+      reject(new Error('Not a cool name'));
+  })
+}
+```
+
+Now let's make another function called `checkName` that will check on page load. 
+
+```
+async function checkName(){
+  const nameDesc = await checkIfNameIsCool('Wes');
+  console.log(nameDesc);
+}
+
+checkName();
+```
+
+![](@attachment/Clipboard_2020-05-31-16-14-11.png) 31:46
+
+If you refresh the page, you will see that it says "Cool name". 
+
+What if you were to put int a name that isn't cool, like "snickers"? 
+
+```
+async function checkName(){
+  const nameDesc = await checkIfNameIsCool('snickers');
+  console.log(nameDesc);
+}
+
+checkName();
+```
+
+![](@attachment/Clipboard_2020-05-31-16-14-47.png) 31:58
+
+We get an error. How would we catch that? We ccould use any of the methods that we learned earlier, but what this `await-to` module does is you can wrap your promise based function in `awaut to`, and what it will do is it will return a response. Let's just log the response to see what we are working with for now. 
+
+```
+async function checkName(){
+  const response = await to(checkIfNameIsCool('snickers'));
+  console.log(response);
+}
+```
+
+![](@attachment/Clipboard_2020-05-31-16-16-54.png) 32:37
+
+As you can see, we get two things back. The first is the error, the second is undefined. 
+
+What if we switched it back to "wes" instead of snickers? 
+
+![](@attachment/Clipboard_2020-05-31-16-17-54.png) 32:46
+
+Then the first thing is null, and the second thing is cool name.
+
+So `await to` will always return an array nd the first thing will always be an error, and the second thing will be your resolved value. 
+
+So we can go ahead and destruture the response into the error and success value, and handle the error how we choose like so: 
+
+
+```
+const [err, successValue ] = await to(checkIfNameIsCool('snickers'));
+if(err){
+  //deal with it
+  console.log(err);
+}
+else {
+  console.log(successValue);
+}
+```
+
+![](@attachment/Clipboard_2020-05-31-16-20-20.png) 33:35
+
+That is a cool way of dealing with things. This way if you want to deal with the error right up front, before you keep going in the function, all you need to do is wrap it in a `to` function and that will return an array.
+
+These are just a couple of Wes' favourite NPM packages. He could go on for hours showing them to us, but Wes recommends just searching for top npm packages in google or when you run into a problem, you can check if there is always a package that exists for that. 
+
+
 
 
 

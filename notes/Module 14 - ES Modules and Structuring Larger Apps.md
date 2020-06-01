@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png, Clipboard_2020-05-31-15-25-05.png, Clipboard_2020-05-31-15-27-44.png, Clipboard_2020-05-31-15-32-10.png, Clipboard_2020-05-31-15-34-46.png, Clipboard_2020-05-31-15-35-13.png, Clipboard_2020-05-31-15-41-35.png, Clipboard_2020-05-31-15-43-20.png, Clipboard_2020-05-31-15-49-09.png, Clipboard_2020-05-31-15-53-01.png, Clipboard_2020-05-31-15-56-55.png, Clipboard_2020-05-31-15-58-57.png, Clipboard_2020-05-31-16-01-37.png, Clipboard_2020-05-31-16-14-11.png, Clipboard_2020-05-31-16-14-47.png, Clipboard_2020-05-31-16-16-54.png, Clipboard_2020-05-31-16-17-54.png, Clipboard_2020-05-31-16-20-20.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-06-01T12:06:20.415Z'
+modified: '2020-06-01T12:59:45.344Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -2632,7 +2632,32 @@ In this video, we will go over those things that you should be aware of so that 
 
 The first thing is that Javascript is totally public. What does that mean?
 
-We already know this, because if you open up your dev tools, and go to the sources or network tab, you are able to see all of the code that is related to your website. You are shipping all of your code off to the browser and telling the browser to run it.
+We already know this, because if you open up your dev tools, and go to the sources or network tab, you are able to see all of the code that is related to your website. You are shipping all of your code off to the browser and telling the browser to run it, which means that your source code is not safe. 
 
-stopped at 1:10
+You should not put sensitive information in your clientside Javascript, because even if you obfuscate it, and try to hide it in a whole bunch of ways,or encrypt is, if the browser can read it, it can be reverse engineered. 
+
+An example of that is API keys. Sometimes it is okay to put API keys in the browser (we will look at an example like that), and sometimes it is not okay to put API keys in the browser. 
+
+Generally, when it is not okay to put API keys in the browser, they will usually restrict you via CORS. 
+
+Something like a google maps API key, it is completely find to put it into your clientside Javascript because Google will limit those per domain, or per visitor so you don't hvae to worry about that. 
+
+Another example is links to private downloads. Let's say you have an object on your page somewhere and you need to be able to download a zip file of something, people will be able to find it. 
+
+Prices are another big one. Wes runs into this all the time with his courses. People will building a clientside Javascript checkout and they will put the price in a button, for example. If someone is able to change the price of that button or change the code, then they will be able to change the price to whatever they want. 
+
+When you are working with prices, we calculate the price on the clientside so we can show the total of the person's cart. However, you should also recalculate the total on the server where it cannot be tampered with. 
+
+stoppped at 4:19
+
+Anything that is sensitive must be recalculated or done on the server, where it is in a secure environment.
+
+### XSS and Sanitizing your Inputs
+
+Wes has created this little example to demonstrate this called FarceBook. It is common to give a user a place on the page to fill out information about themselves, like a bio. Then you want to take that and display it on the page. 
+
+In some cases you just have a text input with raw text. However, in some other cases, you want to generate HTML or even take in HTML from the user and display it on the page. 
+
+stopped at 4:55
+
 

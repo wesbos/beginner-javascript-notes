@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-05-29T10:45:21.946Z'
+modified: '2020-05-31T20:32:20.022Z'
 ---
 
 # Video Course Outline
@@ -114,11 +114,11 @@ Module 13 - Ajax and Fetching Data
 77. ~~Currency Converter~~ (28:30)
 
 Module 14: ES Modules and Structuring Larger Apps
-78. Modules (32:57)
+78. ~~Modules~~ (32:57)
 79. ~~Currency Module Refactor~~ (15:14)
-80. Dad Jokes Modules Refactor (13:59)
-81. Bundling and Building with Parcel (15:06)
-82. using open source npm packages (34:22)
+80. ~~Dad Jokes Modules Refactor~~ (13:59)
+81. ~~Bundling and Building with Parcel~~ (15:06)
+82. ~~using open source npm packages~~ (34:22)
 83. Security (16:32)
 
 Module 15: Final Round of Excercises

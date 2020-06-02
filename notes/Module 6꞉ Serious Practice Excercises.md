@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-02T12:53:22.387Z'
+modified: '2020-06-02T22:16:24.166Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -875,14 +875,278 @@ Now we need to find the card that is associated with the button. We could say `b
 What we can do is take the button and run the `.closest` method and search. It works kind of like `querySelectorAll` for the closest card. 
 
 ```
-const card = button.closest('.card');
-console.log(card);
+function handleCardButtonClick(event){
+  const button = event.currentTarget;
+  const card = button.closest('.card');
+  console.log(card);
+}
 ```
 
 Now when you click each card's button, you will see the card logged to the console.
 
-stopped at 11:07
+What is great abou using `closest` like we did is you can take any element, such as one of the h2s on the card and we can search for the closest div, the closest <html> element, and if there is something that does not match (like `$0.closest('.doesnotmatch')`) it will return null because there is no parent of it. 
+
+![](@attachment/Clipboard_2020-06-02-17-32-22.png) 11:13
+
+So `.closest()` is like `querySelectorAll`, except it is the opposite where it will climb up the nested tree of DOM elements instead of look down the DOM tree.
+
+We are going to use it once more within this handler. What we can do is grab the image source. 
 
 ```
-handleCardButtonClick
+function handleCardButtonClick(){
+ const button = event.currentTarget;
+  const card = button.closest('.card');
+  //grab the image src
+  const imgSrc = card.querySelector('img').src;
+  console.log(imgSrc);
+}
+
 ```
+
+If you refresh the page and click on the buttons, you should see the image source logged to the console.
+
+Now let's grab the description from the data attribute on the card, like so:  `const desc = card.dataset.description`. Add a console log as well to make sure it is working. 
+
+Now when we refresh the page, and click the buttons, we should see the descriptions logged to the console.
+
+![](@attachment/Clipboard_2020-06-02-17-38-34.png) 12:20
+
+Next we can populate the modal with the card's info. 
+
+We will grab the modal above the `handleCardButtonClick` method because we do not need to reselct it every click.
+
+```
+const cardButtons = document.querySelectorAll('.card button');
+const modalInner = document.querySelector('.modal-inner');
+
+function handleCardButtonClick(event) {
+  const button = event.currentTarget;
+  const card = button.closest('.card');
+  // Grab the image src
+  const imgSrc = card.querySelector('img').src;
+  const desc = card.dataset.description;
+ }
+```
+
+Let's also select the name: `const name = card.querySelector('h2').textContent;`
+
+
+Within our handler, let's set the innerHTML of the modal using backticks. We want to replace the 200 value in the image sources with 600. We will use the name as the alt attribute value. 
+
+```
+modalInner.innerHTML = `
+    <img  src="${imgSrc.replace('200','600')}" alt="${name}"/>
+    <p>${desc}</p>
+  `;
+```
+
+Next we want to show the modal. To do that we need to select the outer modal, whcich we will do right above or below where we selected te modalInner. 
+
+```
+const cardButtons = document.querySelectorAll('.card button');
+const modalOuter = document.querySelector('.modal-outer');
+const modalInner = document.querySelector('.modal-inner');
+```
+
+Now at the bottom of the handler function, add `modalOuter.classList.add('open');` to show the modal. 
+
+
+```
+function handleCardButtonClick(event) {
+  const button = event.currentTarget;
+  const card = button.closest('.card');
+  // Grab the image src
+  const imgSrc = card.querySelector('img').src;
+  const desc = card.dataset.description;
+  const name = card.querySelector('h2').textContent;
+  // populate the modal with the new info
+  modalInner.innerHTML = `
+    <img  src="${imgSrc.replace('200','600')}" alt="${name}"/>
+    <p>${desc}</p>
+  `;
+  // show the modal
+  modalOuter.classList.add('open');
+}
+```
+
+If you refresh the page, you will see that it works. 
+
+![](@attachment/Clipboard_2020-06-02-17-48-28.png) 14:32 
+
+The image is also there, it is just spilling out so let's fix the CSS. Add the following to the style tag
+
+```
+.modal-outer img {
+  width: 100%;
+}
+```
+
+![](@attachment/Clipboard_2020-06-02-17-49-50.png) 15:54
+
+Good, now we have the bare bones of a modal. The other thing we need to talk about is closing it. 
+
+Obviously we could have a function called closeModal which would take the `modalOuter` an remove `open` from the classList, like so: 
+```
+function closeModal(){
+  modalOuter.classList.remove('open');
+}
+```
+
+
+But how do we code it so that the modal closes when you click outside of it, and not on the text or the image or anything like that. 
+
+![](@attachment/Clipboard_2020-06-02-17-51-11.png) 16:33
+
+We can solve this using a technique called **click outside**. 
+
+What we will do is take the `modalOuter` and listen for a click on it. When that happens, we will take a look at the event. 
+
+```
+modalOuter.addEventListener('click', function(event){
+  console.log(event);
+})
+```
+
+Now when you click outside the modal on `modalOuter`, you will see the click event logged. 
+
+![](@attachment/Clipboard_2020-06-02-17-53-23.png) 17:13
+
+Let's now log the `target` and `currentTarget` of the event.
+
+```
+modalOuter.addEventListener('click', function(event){
+  console.log(event.target);
+  console.log(event.currentTarget);
+})
+```
+
+![](@attachment/Clipboard_2020-06-02-17-55-40.png) 17:23
+
+You might think this would be simple to solve because you can just check if the modalOuter and the currentTarget are the same thing, then we can go ahead and close it. 
+But in the real world, modals are usually more complex than that. Sometimes they have elements on the outside, sometimes you want to listen for clicks on specific things. 
+
+What we can do is use the `closest()` method to see if we are clicking inside of `modalInner` at all.
+
+Let's make a variable called `isOutside` as assign it to the value of `e.target.closest('.modal-inner')`. Let's log the value of `isOutside`. 
+
+```
+modalOuter.addEventListener('click', function(event){
+  const isOutside = event.target.closest('.modal-inner');
+  console.log(isOutside);
+})
+```
+
+How that works is if you click on the modal or anywhere inside of it, it will find `modalInner`. However, if you click on something that is outside of the inner or a close button or something, it won't be able to find anything. 
+
+[](@attachment/click-outside.gif) 18:57
+
+So what we can do is convert the `closest()` to a boolean true or false by putting a bang in front of it like so: `const isOutside = !event.target.closest('.modal-inner');`. If it finds something it will be false, and if it doesn't finds something it will be true. 
+
+That gives us a nice boolean we can use like so: 
+
+```
+modalOuter.addEventListener('click', function(event){
+  const isOutside = event.target.closest('.modal-inner');
+  if(isOutside){
+    closeModal();
+  }
+})
+```
+
+If you refresh the page now, it should work. 
+
+Let's hook up the escape key really quickly. 
+
+```
+window.addEventListener('keydown', event => {
+  console.log(event);
+  if (event.key === 'Escape') {
+    closeModal();
+  }
+});
+```
+
+That is it for the lesson, now Wes will just demo some cool stuff.
+
+Add the following style to `modal-inner`: 
+
+```
+.modal-inner {
+  max-width: 600px;
+  min-width: 400px;
+  padding: 2rem;
+  border-radius: 5px;
+  min-height: 200px;
+  background: white;
+  transform: translateY(-200%);
+  transition: transform 2s;
+}
+```
+
+Now the modal is way off the screen, above the browser. The transition will animate the transform over two seconds. 
+
+Then we can say when the `modalOuter` has a class of open, we want to grab `modalInner` and change the transform to be 0 so it goes back to where it should be. 
+
+```
+.modal-outer.open .modal-inner {
+  transform: translateY(0);
+} 
+```
+
+Now if you refresh the page and try clicking on the buttons, you will see how it animates in now. However, you may notice that the transition is a bit jerky and not completely smooth. 
+
+![](@attachment/bad-transition.gif) 22:17
+
+What is happening there is the image isn't loading immediately. There are a couple of things we can do to fix that.
+
+In our `handleCardButtonClick` function, let's set the width and height inline attribute on the image we set within the `modalInner.innerHTML` like so: 
+
+```
+modalInner.innerHTML = `
+  <img width="600" height="600" src="${imgSrc.replace(
+    '200',
+    '600'
+  )}" alt="${name}"/>
+  <p>${desc}</p>
+`;
+```
+
+If you refresh the page, you should notice it's much smoother because the image is loading as it animates in. 
+
+What about if we had a slower network, would it still look smooth? 
+
+We can test this by going into the dev tools. Go to the network tab and click the dropdown arrow next to "Online"  
+
+![](@attachment/Clipboard_2020-06-02-18-13-04.png) 22:55
+
+![](@attachment/Clipboard_2020-06-02-18-13-23.png) 22:56
+
+We will select Fast 3G.
+
+That option looks good but it is not perfect. 
+
+The other option would be to use `document.createElement` to create an image and wait for that image to load. 
+
+You would listen for the load event on the image and then run the `modalOuter.classList.add('open')` line of code. 
+When someone clicks it you could show a spinner for a second as you wait for the image to load and then when it's loaded you can put it in. 
+
+Personally Wes doesn't like that option because he doesn't think it is a smooth user experience. The user is just sitting there waiting for the image to load when they could be reading the text.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

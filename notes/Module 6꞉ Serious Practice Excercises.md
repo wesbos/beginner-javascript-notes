@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-02T11:58:16.395Z'
+modified: '2020-06-02T12:53:22.387Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -832,4 +832,57 @@ Now if you go into the dev tools and give `modal-outer` a class of open, it will
 
 ![](@attachment/Clipboard_2020-06-02-07-58-13.png) 8:02
 
+Let's add a transition to make that look a bit smoother. 
 
+```
+/*hide this modal until we need it*/
+opacity: 0;
+pointer-events: none;  
+transition:opacity:0.2s
+```
+
+Now if we refresh the page, grab the modal outer in the dev tools and give it a class of open, it will fade itself in, and then fade itself out. 
+
+Now let's get into the Javascript.
+
+We will work on clicking the button on each card now, starting by selecting them. Then we will loop over each of the buttons and add an on click event listener to each one and pass a function as the handler called `handleCardButtonClick`. 
+
+```
+const cardButton = document.querySelectorAll('.card button');
+cardButtons.forEach(button => button.addEventListener('click', handleCardButtonClick))
+```
+
+Now above that code lets go ahead and create that function. For now we will just log "YA CLICKED IT" when the button is clicked. 
+
+
+```
+function handleCardButtonClick(){
+  console.log('YA CLICKED IT');
+}
+
+const cardButton = document.querySelectorAll('.card button');
+cardButtons.forEach(button => button.addEventListener('click', handleCardButtonClick))
+```
+
+Now if you refresh the page and try to click on the buttons, you will see the log in the console.
+
+Next we need to grab something to show in the modal. Let's grab the data-description of the parent card and show a larger version of the image. 
+
+To do that, let's grab the current target from the event and assign it to the variable `const button = event.currentTarget`. 
+
+Now we need to find the card that is associated with the button. We could say `button.parentElement`, but if the button were to ever more or be nested inside of something, that wouldn't work that well.
+
+What we can do is take the button and run the `.closest` method and search. It works kind of like `querySelectorAll` for the closest card. 
+
+```
+const card = button.closest('.card');
+console.log(card);
+```
+
+Now when you click each card's button, you will see the card logged to the console.
+
+stopped at 11:07
+
+```
+handleCardButtonClick
+```

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png, Clipboard_2020-05-31-15-25-05.png, Clipboard_2020-05-31-15-27-44.png, Clipboard_2020-05-31-15-32-10.png, Clipboard_2020-05-31-15-34-46.png, Clipboard_2020-05-31-15-35-13.png, Clipboard_2020-05-31-15-41-35.png, Clipboard_2020-05-31-15-43-20.png, Clipboard_2020-05-31-15-49-09.png, Clipboard_2020-05-31-15-53-01.png, Clipboard_2020-05-31-15-56-55.png, Clipboard_2020-05-31-15-58-57.png, Clipboard_2020-05-31-16-01-37.png, Clipboard_2020-05-31-16-14-11.png, Clipboard_2020-05-31-16-14-47.png, Clipboard_2020-05-31-16-16-54.png, Clipboard_2020-05-31-16-17-54.png, Clipboard_2020-05-31-16-20-20.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png, Clipboard_2020-05-31-15-25-05.png, Clipboard_2020-05-31-15-27-44.png, Clipboard_2020-05-31-15-32-10.png, Clipboard_2020-05-31-15-34-46.png, Clipboard_2020-05-31-15-35-13.png, Clipboard_2020-05-31-15-41-35.png, Clipboard_2020-05-31-15-43-20.png, Clipboard_2020-05-31-15-49-09.png, Clipboard_2020-05-31-15-53-01.png, Clipboard_2020-05-31-15-56-55.png, Clipboard_2020-05-31-15-58-57.png, Clipboard_2020-05-31-16-01-37.png, Clipboard_2020-05-31-16-14-11.png, Clipboard_2020-05-31-16-14-47.png, Clipboard_2020-05-31-16-16-54.png, Clipboard_2020-05-31-16-17-54.png, Clipboard_2020-05-31-16-20-20.png, Clipboard_2020-06-01-19-31-46.png, Clipboard_2020-06-01-19-42-23.png, Clipboard_2020-06-01-19-45-23.png, Clipboard_2020-06-01-19-53-24.png, Clipboard_2020-06-01-19-55-38.png, Clipboard_2020-06-01-19-58-27.png, Clipboard_2020-06-01-20-03-08.png, Clipboard_2020-06-01-20-04-45.png, Clipboard_2020-06-01-20-08-21.png, Clipboard_2020-06-01-20-08-50.png, Clipboard_2020-06-01-20-12-56.png, Clipboard_2020-06-01-20-12-58.png, Clipboard_2020-06-01-20-13-00.png, Clipboard_2020-06-01-20-14-11.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-06-01T12:59:45.344Z'
+modified: '2020-06-02T00:17:47.500Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -2654,10 +2654,124 @@ Anything that is sensitive must be recalculated or done on the server, where it 
 
 ### XSS and Sanitizing your Inputs
 
-Wes has created this little example to demonstrate this called FarceBook. It is common to give a user a place on the page to fill out information about themselves, like a bio. Then you want to take that and display it on the page. 
+Wes has created this little example to demonstrate the concept of Cross Site Scripting (XSS) called FarceBook. It is common to give a user a place on the page to fill out information about themselves, like a bio. Then you want to take that and display it on the page. 
 
 In some cases you just have a text input with raw text. However, in some other cases, you want to generate HTML or even take in HTML from the user and display it on the page. 
 
-stopped at 4:55
+We have done this in a lot of our examples where we set the innerHTML of something in a loop. 
+
+**The rule is that anytime you are taking data from the user and embedding it in HTML you must first sanitize it**. So anywhere that you are using `.innerHTML` or using `insertAdjacentHTML`, or anywhere that you are taking user data and generating HTML from that, you must first sanitize the data.
+
+![](@attachment/farcebook.gif)
+
+In this really simple example Wes has made, FarceBook, there is a field where the user is allowed to type and when it's typed, we are automatically dumping that into the profile on the right hand side.
+
+The data could be coming from anywhere. Most often the way it works is you give someone a field to type in on the backend and they save it and it displays on their profile page or on a form etc. 
+
+You may want to allow people to put images tags, to be able to use strong, emphasis and mark tags, and things like that. 
+
+We could do something like add a style tag and make the background red. Then we can tilt the entire page. 
+
+![](@attachment/Clipboard_2020-06-01-19-42-23.png) 6:51
+
+That is not something you would want someone doing that and that is probably the least of your worries, someone goofing like that.
+
+The reality is much scarier security thing is if someone can run Javascript on your page. 
+
+Anytime a user is able to run Javascript on your page, then you are in trouble.  Let's try it by adding a scritp tag and seeing what happens. 
+
+![](@attachment/Clipboard_2020-06-01-19-45-23.png) 7:43
+
+As you can see, even though we added a script tag with an alert, there is no alert popping up.
+
+So script tags will not run. 
+
+But what you can do is take an image tag and hijack the onload event of the image tag and then within it we can add any javascript we want.
+
+![](@attachment/Clipboard_2020-06-01-19-53-24.png) 8:06
+
+So imagine if Facebook allowed that. Then you would be able to run code on anyone who is viewing your Facebook profile.
+
+ ![](@attachment/Clipboard_2020-06-01-19-55-38.png) 8:27
+
+ With that line of code, we just clicked the button that triggered it to send us a million dollars. 
+
+ So it is not good to have someone else run Javascript on your page because then they become a puppet of your own account and they can do things like click buttons as if they are you, or grab your messages and send fetch requests back to their own server.
+
+The `onerror` attribute of img tags will also run javascript. So lets say you set the source of the image tag to be an image that doesn't exist.  Then the `onerror` javascript would run. We can trigger an alert that way like so: 
+
+![](@attachment/Clipboard_2020-06-01-19-58-27.png) 9:25
+
+That is how people do cross site scripting. They find a way to remotely run Javascript on somebody's page and almost always what they will do is just hook up an image tag and say `onerror` of the image and then fetch maliicious javascript and then you have someone you don't trust running javascript on your website to logged in users which is very very scary and very bad. 
+
+Even if it is just a tiny little input box, you have to be careful when you are taking data from a user. 
+
+So how can you sanitize user data? Luckily there is a very easy library to use called DOMPurify. 
+
+![](@attachment/Clipboard_2020-06-01-20-03-08.png) 11:11
+
+It will take in a string and scrub it of all those nasty security issues for us. 
+
+Wes has already npm installed DOMPurify, and at the top of the file he has imoprted the santize method DOMPurify. 
+
+![](@attachment/Clipboard_2020-06-01-20-04-45.png) 11:29
+
+All we need to do to fic the code is modify the input eventlistener function. 
+
+```
+input.addEventListener('input', ()=>{
+  const clean = sanitize(input.value);
+  output.innerHTML = clean.replace(/\n/g, '<br>');
+}); 
+```
+
+What Wes is doing there is replacing the line breaks with a `<br>` tag, which is what allows him to have line breaks in between. 
+
+Now we can go to the image tag and add an onload and add an alert and nothing will happen. 
+
+![](@attachment/Clipboard_2020-06-01-20-08-50.png) 12:17
+
+Why is that? If you go to the console and look at the code, you will see they stripped out the onload and onerror and all the other inline event handlers on image tags. 
+
+![](@attachment/Clipboard_2020-06-01-20-08-21.png) 12:17
+
+If we try adding a style tag, you will see that they still work. Why is that?  That is because the style tag if you look at it in the console is still being embedded. 
+
+To fix that, we need to pass `options` to DOMPurify. 
+
+By default, it will take all the nasty JavaScript stuff out of there but there are lots of options. 
+
+![](@attachment/Clipboard_2020-06-01-20-13-00.png) 13:10
+
+The options he usually chooses are `FORBID_TAGS` and `FORBID_ATTR`. 
+
+Let's modify the code like so: 
+
+```
+input.addEventListener('input', ()=>{
+  const clean = sanitize(input.value, {
+    FORBID_ATTR: ['width','height', 'style'],
+    FORBID_TAGS: [ 'style'],
+  });
+  output.innerHTML = clean.replace(/\n/g, '<br>');
+}); 
+
+```
+
+Now if you try to use the style tag, you will see that it has been completely removed. 
+
+![](@attachment/Clipboard_2020-06-01-20-14-11.png) 14:12
+
+So that is the basics of security.
+
+The last thing we need to cover is that when you are sending data, make sure that you are sending it to an HTTPS origin. The reason behind that is if you have an API, like https://dogsapi.com, and you are getting (which means pulling) data over an insecure origin (http), there could be other people on the WIFI network on in the government or anywhere along the line of you requesting that, that would be able to just look into that request, peer in and see what you are requesting. 
+
+When you are pushing data to an API using POST, then they would be able to see all the data you and sending an possibly modify it. 
+
+If you make it HTTPS, all the data coming to and from the API will be encrypted and you want to make sure that every API that you are using is encrypted. 
+
+That isn't normally and issue, most APIs are encrypted but it's just something to keep in mind.
+
+That is the basic security things to think about!
 
 

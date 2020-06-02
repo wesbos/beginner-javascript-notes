@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-03-28T20:02:29.225Z'
+modified: '2020-06-02T11:58:16.395Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -676,6 +676,160 @@ Now if you refresh, it should all be cleared.
 That is all! That is our first exercise. We went a little over the stuff we have learned, and that is Wes' intention for these exercise videos. He is going to push us in these exercises by introducing some new concepts, desctructuring, canvas, right in the excercise. This is so you can get an idea of how it works when you are in the headspace of building real world things. 
 
   
+---
 
+## 34 - Click Outside Modal
+
+In this lesson we are going to learn how to check whether you clicked outside an element, which kind of tough. 
+
+Let's look at the HTML we will be working with.  
+
+![](@attachment/Clipboard_2020-06-02-07-43-39.png) 00:17
+```
+<body>
+  <div class="cards">
+    <div class="card" data-description="Wes is cool">
+      <img src="https://picsum.photos/200?random=1" alt="Wes Bos">
+      <h2>Wes Bos</h2>
+      <button>Learn more →</button>
+    </div>
+    <div class="card" data-description="Scott is neat!">
+      <img src="https://picsum.photos/200?random=2" alt="Wes Bos">
+      <h2>Scott Tolinski</h2>
+      <button>Learn more →</button>
+    </div>
+    <div class="card" data-description="Kait is beautiful!">
+      <img src="https://picsum.photos/200?random=3" alt="Wes Bos">
+      <h2>Kait Bos</h2>
+      <button>Learn more →</button>
+    </div>
+    <div class="card" data-description="Snickers is a dog!">
+      <img src="https://picsum.photos/200?random=4" alt="Wes Bos">
+      <h2>Snickers the dog</h2>
+      <button>Learn more →</button>
+    </div>
+
+  </div>
+
+  <div class="modal-outer">
+    <div class="modal-inner">
+    </div>
+  </div>
+
+  <script src="./click-outside.js"></script>
+</body>
+
+```
+
+As you can see, each card has a random image, an h2 and a button that says "learn more". 
+
+Let's add the following CSS: 
+
+```
+ <style>
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-gap: 20px;
+      padding: 2rem;
+    }
+
+    .card {
+      background: white;
+      padding: 1rem;
+      border-radius: 2px;
+    }
+
+    .card img {
+      width: 100%;
+    }
+
+    .card h2 {
+      color: black;
+    }
+  </style>
+```
+
+![](@attachment/Clipboard_2020-06-02-07-46-00.png) 2:55
+
+That is now looking good. Let's move onto the modal. Let's add some dummy content inside of it so when we style it we can visual what it will look like. 
+
+```
+<div class="modal-outer">
+    <div class="modal-inner">
+      <p>TEsting 123</p>
+    </div>
+  </div>
+```
+
+As you can see we have an modal inner and a modal outer. Let's go ahead and style the modal in the on position and then we will turn it off with CSS.
+
+```
+   .modal-outer {
+      display: grid;
+      background: hsla(50, 100%, 50%, 0.7);
+      position: fixed;
+      height: 100vh;
+      width: 100vw;
+      top: 0;
+      left: 0;
+      justify-content: center;
+      align-items: center;
+   }
+
+    .modal-inner {
+      max-width: 600px;
+      min-width: 400px;
+      padding: 2rem;
+      border-radius: 5px;
+      min-height: 200px;
+      background: white;
+    }
+```
+
+![](@attachment/Clipboard_2020-06-02-07-51-33.png) 5:50
+
+Now we have this modal which will pop up and you want to be able to close it. Let's just do a really quick example to demonstrate how ti works. 
+
+We need to hide the modal by default. There are LOTS of different ways you could do that, such as display: none, visibility hidden, or something that Wes likes to do is give it an opacity of 0, which won't cut it in our case. That is because even if you did give the modal an opacity of 0, you will see that the modal will prevent the other elements from being clicked like that buttons. That is because the modal outer is actually still there, even if you give it an opacity of zero. 
+
+What you can do is give the modal outer a pointer-events of none like so:
+
+```
+ .modal-outer {
+      display: grid;
+      background: hsla(50, 100%, 50%, 0.7);
+      position: fixed;
+      height: 100vh;
+      width: 100vw;
+      top: 0;
+      left: 0;
+      justify-content: center;
+      align-items: center;
+      /*hide this modal until we need it*/
+      opacity: 0;
+      pointer-events: none;  
+   }
+```
+
+That tells the browser to just ignore that any events that come to that and to not capture them. That is an example of where Javascript and CSS work together. 
+
+Now if you refresh the page and give the modal outer an opacity of .5 in the dev tools, you will see that the modal outer is still there but you will see how the buttons underneath can still be clicked and the events aren't being captured by modal outer.
+
+![](@attachment/Clipboard_2020-06-02-07-56-33.png) 7:28
+
+Now what we will do is when the modal has a class of open, we will set the opacity to 1, and the pointer events to all.
+
+```
+.modal-outer.open{
+  opacity: 1;
+  pointer-events: all;
+}
+
+```
+
+Now if you go into the dev tools and give `modal-outer` a class of open, it will show up. 
+
+![](@attachment/Clipboard_2020-06-02-07-58-13.png) 8:02
 
 

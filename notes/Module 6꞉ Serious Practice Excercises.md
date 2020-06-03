@@ -1,8 +1,9 @@
 ---
 attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png]
+favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-03T00:51:28.467Z'
+modified: '2020-06-03T01:01:58.261Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -1150,7 +1151,38 @@ First we are just going to dive into scroll events, and then Wes will show us wh
 
 Let's go into the `exercises` directory and find the `35 - Scroll To Accept` folder and let's open up the HTML page. You should see "IT WORKS" in the browser". 
 
-Stopped @ 1:19
+If you see the example in the gif about, you can see it's not a window or document scroll. If you want to listen for a window scroll event you just listen for `window.addEventListener()`. 
+
+If it's the case of another element that has an overflow scroll set on it, like Wess has done in the following style that is on the `scroll-to-accept.html` 👇
+
+```
+.terms-and-conditions {
+  overflow: scroll;
+}
+```
+
+we have to select that element and listen for a scroll on it. 
+
+Select the terms and conditions class
+
+```
+const terms = document.querySelector('terms-and-conditions');
+```
+
+Let's add an event listener to terms on the scroll event and just log the event with the handler. 
+
+```
+terms.addEventListener('scroll', function(e){
+  console.log(e); 
+});
+```
+
+If you refresh the page, you will see the following error in your console
+
+scroll-to-accept.js:3 Uncaught TypeError: Cannot read property 'addEventListener' of null
+    at scroll-to-accept.js:3
+
+    sttoppped at 1:57
 
 
 

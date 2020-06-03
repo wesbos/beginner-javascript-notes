@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png]
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-02T22:16:24.166Z'
+modified: '2020-06-03T00:51:28.467Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -1132,10 +1132,25 @@ When someone clicks it you could show a spinner for a second as you wait for the
 
 Personally Wes doesn't like that option because he doesn't think it is a smooth user experience. The user is just sitting there waiting for the image to load when they could be reading the text.
 
+---
 
+## 35 - Scroll Events and Intersection Observer
 
+In this video we will learn about scroll events.
 
+A scroll event is when someone goes ahead and scrolls on the page or the inside of an element. 
 
+One thing you are likely to encounter in your career as a developer is building a terms and conditions scroll to accept.
+
+That is where the user is forced to scroll all the way to the bottom of the text before the accept button will work.
+
+![](@attachment/scroll-terms.gif)
+
+First we are just going to dive into scroll events, and then Wes will show us why a scroll event is maybe not what you want, and there is this newer thing in the browser called **intersection observer** which actually might be what we want.   
+
+Let's go into the `exercises` directory and find the `35 - Scroll To Accept` folder and let's open up the HTML page. You should see "IT WORKS" in the browser". 
+
+Stopped @ 1:19
 
 
 

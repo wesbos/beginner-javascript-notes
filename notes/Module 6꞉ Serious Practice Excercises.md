@@ -1,9 +1,9 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png, Clipboard_2020-06-03-17-40-51.png, Clipboard_2020-06-03-17-53-25.png, Clipboard_2020-06-03-18-12-38.png, Clipboard_2020-06-03-18-20-24.png, Clipboard_2020-06-03-18-26-58.png, Clipboard_2020-06-03-18-30-21.png, Clipboard_2020-06-03-18-30-34.png]
 favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-03T12:14:25.199Z'
+modified: '2020-06-03T22:39:32.803Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -1322,10 +1322,243 @@ If we take a look at what is in there, you will see some interesting things like
 
 We also have the boolean `isIntersecting` which will tell you if it is on the page or off. 
 
-There is other information about the size of the element and what size it is  on the page.
+![](@attachment/Clipboard_2020-06-03-17-40-51.png) 11:02
+
+There is other information about the size of the element and what size it is  on the page. 
 
 That is helpful information in helping us determine whether that thing is on the page or not. 
+We can do things like take that strong tag which is the first thing in the `paylod` bcause you can watch for multiple items. 
 
-11:08
+```
+function obCallback(payload){
+  console.log(payload[0]);
+}
+```
 
-You
+Now if you refresh the page and scroll the strong tag into view, you will see that an InsersectionObserverEntry is logged. 
+
+![](@attachment/Clipboard_2020-06-03-17-53-25.png) 11:30
+
+On that object there is a property `isIntersecting`, which is a boolean. Let's  log that properties value. 
+
+```
+function obCallback(payload){
+  console.log(payload[0].isIntersecting);
+}
+```
+
+![](@attachment/intersecting.gif) 11:43
+
+As you can see it tells us when it is on or off the page. 
+
+What is cool about that is it will also tell us how much on the page it currently is by looking at the `inserSectionRatio` property.  
+
+```
+function obCallback(payload){
+  console.log(payload[0].intersectionRatio);
+}
+```
+
+![](@attachment/ratio.gif) 12:15
+
+As you can see, the properties value changes based on what percentage of the element that is being watched is visible on the page. 0 means not visible at all and 1 is visible. When it's partially visible it's 0.068402.
+
+We are going to make use of that ratio to tell us if we have scrolled all the way to the bottom of the terms. 
+
+How will we know if they scrolled to the bottom? We will take the terms and conditions and try to find out what the last thing inside of that is, because we want to wait for that element to be 100% on the screen before enabling the button. That is how we will know if they have scrolled to the bottom.  
+
+
+Let's stop watching for the strong tag and instead watch the last  on the terms by 
+
+```
+ob.observe(watch); 
+```
+
+with
+
+```
+ob.observe(terms.lastElementChild);
+```
+
+Now we are observing the last paragraph in the terms div. 
+
+If you refresh the page and scroll to the bottom of the pgae with the console open, you should see something like the following..
+
+![](@attachment/Clipboard_2020-06-03-18-12-38.png) 13:34
+
+How do we get it to tell us when it is 100% on the page?
+
+We can pass a second argument to our `IntersectionObserver`, which can be an options objects and we tell it two things. 
+
+First that the root of the thing we are scrolling with is our terms and conditions (by default it will be the body), and with the threshold we can either give it an array, like `threshold: [0, 0.5, 1]` which would then tell you when its off, halfway on and the on, or an we can say only tell me when it is fully on the page. 
+
+```
+function obCallback(payload){
+   console.log(payload[0].intersectionRatio);
+ }
+  const ob = new IntersectionObserver(obCallback, {
+    root: terms,
+    threshold: 1,
+  });
+  ob.observe(terms.lastElementChild);
+```
+
+If we refresh and open the console, we will see 0 which tells us it is off the page and if we scroll to the bottom... uhoh, we have an issue here. Even when we scroll to the very bottom it's not firing. 
+
+![](@attachment/Clipboard_2020-06-03-18-20-24.png) 14:32
+
+If we change the threshold to something like 0.11497, it will fire. 
+
+What is happening here is if we give it a threshold of 1, we are so cramped on the screen because Wes has to fit the browser and editor into one video, what is happening is the paragraph is so tall it's never 100% on the page because by the time you get to the bottom, part of it is already being hidden. 
+
+A way we can solve that is by putting another element at the bottom of the page like an `hr` or an `image`. Anything that will be small enough to fit even on the smallest scrolling viewport.
+
+```
+    <hr />
+  </div>
+  <button class="accept" disabled>Accept</button>
+</div>
+```
+
+Let's set the threshold to 1 and within the callback instead of logging the ratio lets add an if statement that checks whether the intersectionRatio is 1. 
+
+```
+function obCallback(payload){
+   if(payload[0].intersectionRatio === 1){
+   }
+ }
+```
+
+Let's go to the top of the file and select the button 
+
+```
+const button = document.querySelector('.accept');
+```
+
+Now withim that if statement we will be removing the disabled attribute from the button. 
+
+![](@attachment/Clipboard_2020-06-03-18-26-58.png) 16:13
+
+```
+function obCallback(payload){
+   if(payload[0].intersectionRatio === 1){
+     button.disabled = false;
+   }
+ }
+```
+
+The CSS for the disabled attriibute on the button gives it an opacity of 0.1. We don't have to do anything with pointer events here because HTML will prevent the button from being clickable due to the disabled attribute.
+ 
+![](@attachment/Clipboard_2020-06-03-18-30-34.png) 16:48
+
+Wes has also put a transition on the button of two seconds so it fades in once we hit it. 
+
+Let's add a log after we disable the button. 
+
+```
+  if(payload[0].intersectionRatio === 1){
+     button.disabled = false;
+     console.log('REMOVING DISABLED');
+   }
+```
+
+Now if you scroll to the bottom, you will see it runs. But if we scroll back up and down a couple of times it keeps getting triggered. That is good for some use cases. 
+
+Let's demonstrate by modifying the CSS like so 👇
+
+```
+button {
+  background: #ff0060;
+  color: white;
+  font-size: 1rem;
+  padding: 20px;
+  transition: all 0.2s;
+}
+
+button[disabled] {
+  opacity: 0.1;
+  transform: translateX(-200%) scale(0.5);
+}
+```
+
+![](@attachment/flyin.gif) 17:39
+
+Now let's add an if statement to disable the button when it's not fully scrolled. 
+
+```
+function obCallback(payload){
+   if(payload[0].intersectionRatio === 1){
+     button.disabled = false;
+     console.log('REMOVING DISABLED');
+   }
+   else {
+     button.disabled = true;
+   }
+ }
+```
+
+That might be what you want. But in our case once it is accepted, we don't care so we will stop observing the button. 
+
+
+```
+function obCallback(payload){
+  if(payload[0].intersectionRatio === 1){
+    button.disabled = false;
+    //stop observing the button  
+    ob.unobserve(terms.lastElementChild);
+}
+```
+
+That will stop it from doing any unnecessary work. 
+
+That is scroll to accept. You don't see the observer pattern too much. The only two ways currently in the browser is `IntersectionObserver` which tells you when something is currently scrolled into view, and another one called `ResizeObserver` which will tell you when an element is resized. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

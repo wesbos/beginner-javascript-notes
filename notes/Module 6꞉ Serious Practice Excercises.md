@@ -1,9 +1,9 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png]
 favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-03T01:01:58.261Z'
+modified: '2020-06-03T12:14:25.199Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -1179,21 +1179,153 @@ terms.addEventListener('scroll', function(e){
 
 If you refresh the page, you will see the following error in your console
 
-scroll-to-accept.js:3 Uncaught TypeError: Cannot read property 'addEventListener' of null
+> scroll-to-accept.js:3 Uncaught TypeError: Cannot read property 'addEventListener' of null
     at scroll-to-accept.js:3
 
-    sttoppped at 1:57
+This is a problem you will run into often. What it means is that the selector is null. Let's go ahead and log terms to see whether anything is returned for our selector. 
 
+```
+const terms = document.querySelector('terms-and-conditions');
+console.log(terms);
+terms.addEventListener('scroll', function(e){
+  console.log(e); 
+});
+```
 
+![](@attachment/Clipboard_2020-06-03-07-36-01.png) 2:19
 
+As you can see, it did not find anything. When that is the case, your selector is probably wrong. 
 
+Another querySelector issue you might run into is that it's pretty common to have some javascript that only runs on specific pages. If you were to run this code on your homepage for example, it will break. 
 
+What do you do about that?
 
+Wes that scenario like this. He creates a function like `scrollToAccept` and he puts all of his code inside of that function.
 
+Then within that function, after he grabs the selector, he will check if that element exists using a bang, and if it doesn't, he will return so the function exits. 
 
+```
+function scrollToAccept(){
+  const terms = document.querySelector('.terms-and-conditions');
+  if(!terms){
+    return; //quit this there isn't that item on tha page
+  }
+  terms.addEventListner('scroll', function(e){
+    console.log(e);
+  })
+}
+scrollToAccept(); 
+```
 
+What that will do is check whether something is found by the query selector, and if it is, the rest of the code will run as expected and if not, we return from the function which will stop if from running and then it will never run. 
 
+If you try screwing up your query selector now, you wn't get an error because the function will exit instead of running the code.
 
+Now let's open up the scroll event that we are logging in the console. 
 
+![](@attachment/Clipboard_2020-06-03-07-50-02.png) 4:06
+ 
+ The `currentTarget` is null at this point but if you were to log it, you would see it. 
 
+ Now to figure out if the element has scrolled all the way to the bottom, previusly what we had to do is use `e.target` or `e.currentTarget`. 
+ 
+ Either of them work in this case because a scroll event does not bubble like a regular click would. So if you scroll on the terms and conditions element, we are not unintentionally scrolling anything else. 
 
+ We will use `e.currentTarget`. Then you can take the `scrollTop` value which is a property on elements that will tell you how far you have scrolled from the top. 
+
+ ```
+ terms.addEventListener('scroll', function(e){
+   console.log(e.currentTarget.scrollTop);
+ });
+ 
+ ```
+
+ ![](@attachment/Clipboard_2020-06-03-07-54-15.png) 5:06
+
+Now how do you know if you are scrolled to the bottom? How would you know that 1,828  pixels is the bottom for example? 
+You need to also grab the scrollHeight to figure that out. The scroll height will tell you how high the scrolling thing is. 
+
+```
+terms.addEventListener('scroll', function(e){
+   console.log(e.currentTarget.scrollTop);
+   console.log(e.currentTarget.scrollHeight);
+ });
+```
+
+![](@attachment/Clipboard_2020-06-03-07-56-53.png) 5:47
+
+Now when you log that, you will see how far from the top we are scrolled and the second number is how high the actual scrollable div is.
+
+When you reach the very end, you should see the values are close.
+
+![](@attachment/Clipboard_2020-06-03-07-57-51.png) 6:04
+
+They are not perfectly close and that is because the elements have different CSS styles, one of them has margins and padding. That becomes a pain to work with because you have to work with offset heights and that is a thing of the past. You do not need to do it that way anymore.
+
+The way to do it now is called **Intersection Observer**. Rather than figuring out how far along the page the user has scrolled, we can use intersection observer to figure out if something is currently viewable on the page. 
+
+We can do that with our terms div but first let's go over a simple example first to demonstrate how that works. 
+
+Inside of the terms HTML, between one of the paragraphs, Wes will add a strong tag with a class of `watch` 
+
+![](@attachment/Clipboard_2020-06-03-08-02-14.png) 7:04
+
+Now we want to know when that strong tag is visible on the page.  
+Let's grab the watch element at the top of the file.
+
+```
+const watch = document.querySelector('.watch');
+```
+
+Next we need to create this thing called an IntersectionObserver. An intersection observer will watch is an element is on or off or partway on or off the page. 
+
+```
+const ob = new IntersectionObserver()
+```
+
+Do not worry about the new keyword for now, we will talk about it in future leessons.  
+
+The intersection observer is going to take a callback, which is a function that gets called at a certain point. It is different than a click callback or a scroll callbacck because this callback will be fired every single time that it needs to check if something is running on the page. 
+
+ ```
+ function obCallback(payload){
+   console.log(payload);
+ }
+  const ob = new IntersectionObserver(obCallback);
+
+ ```
+Now this is not going to do anything if you refresh the page, yet because the intersection observer is just a watcher and we haven't told it to watch any elements yet. It works a bit differently than our click handlers. 
+
+Let's get rid of our scroll event listener that we have on this page as well. 
+
+What we need to do is take our observer and call the `observe` method on it, and then you pass it something to watch for, such as our strong tag. 
+
+```
+function obCallback(payload){
+   console.log(payload);
+ }
+  const ob = new IntersectionObserver(obCallback);
+  ob.observe(watch);
+```
+
+Now, everytime we go ahead and scroll, you will notice that we get this intersectionObserver entity logged. 
+
+![](@attachment/Clipboard_2020-06-03-08-11-01.png) 9:28
+
+As you can see, it is full of information about all of the items that have come our way.
+
+You will notice that  after a bit of time when you scrol, it doesn't fire everytime, it only fires when there is new information to be given to us.  
+
+Right on pagelaod, it tells us that the strong tag is off the page. But then as soon as you start to see it, even when it's just peeking out, the  intersection observer entry is logged. 
+
+If we take a look at what is in there, you will see some interesting things like the time that has passe from when you started observing it. That can be handy for games.
+
+We also have the boolean `isIntersecting` which will tell you if it is on the page or off. 
+
+There is other information about the size of the element and what size it is  on the page.
+
+That is helpful information in helping us determine whether that thing is on the page or not. 
+
+11:08
+
+You

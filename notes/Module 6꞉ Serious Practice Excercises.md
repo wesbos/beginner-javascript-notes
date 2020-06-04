@@ -1,9 +1,9 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png, Clipboard_2020-06-03-17-40-51.png, Clipboard_2020-06-03-17-53-25.png, Clipboard_2020-06-03-18-12-38.png, Clipboard_2020-06-03-18-20-24.png, Clipboard_2020-06-03-18-26-58.png, Clipboard_2020-06-03-18-30-21.png, Clipboard_2020-06-03-18-30-34.png, Clipboard_2020-06-04-08-02-46.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png, Clipboard_2020-06-03-17-40-51.png, Clipboard_2020-06-03-17-53-25.png, Clipboard_2020-06-03-18-12-38.png, Clipboard_2020-06-03-18-20-24.png, Clipboard_2020-06-03-18-26-58.png, Clipboard_2020-06-03-18-30-21.png, Clipboard_2020-06-03-18-30-34.png, Clipboard_2020-06-04-08-02-46.png, Clipboard_2020-06-04-17-55-52.png, Clipboard_2020-06-04-18-05-50.png, Clipboard_2020-06-04-18-13-27.png, Clipboard_2020-06-04-18-15-34.png, Clipboard_2020-06-04-18-19-16.png, Clipboard_2020-06-04-18-20-48.png, Clipboard_2020-06-04-18-20-50.png, Clipboard_2020-06-04-18-22-10.png, Clipboard_2020-06-04-18-26-42.png, Clipboard_2020-06-04-18-27-27.png, Clipboard_2020-06-04-18-30-11.png, Clipboard_2020-06-04-18-33-20.png, Clipboard_2020-06-04-18-34-19.png, Clipboard_2020-06-04-18-45-43.png, Clipboard_2020-06-04-18-46-52.png, Clipboard_2020-06-04-18-53-50.png]
 favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-04T12:24:09.291Z'
+modified: '2020-06-04T22:55:17.512Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -1629,20 +1629,254 @@ tabButtons.forEach(button => button.addEventListener('click', handleTabClick));
 
 Now let's write the `handleTabClick` function like so
 
-stopped at 5:20
+```
+const tabs = document.querySelector('.tabs');
+const tabButtons = tabs.querySelectorAll('[role="tab"]');
+const tabPanels = tabs.querySelectorAll('[role="tab"]');
 
+function handleTabClick(event){
+  console.log(event);
+}
 
+tabButtons.forEach(button => button.addEventListener('click', handleTabClick));
+```
 
+Now when we click on one of the tabs it gives us the event. If we did `console.log(event.currentTarget)` and then clicked different tabs, we would see each of the buttons logged.
 
+![](@attachment/Clipboard_2020-06-04-17-55-52.png) 5:40
 
+Now we will do some looping which we haven't learned yet but it's good to preview it before you hit the looping lesson and to see some examples of where you might use it in real life. 
 
+When somebody the first thing we need to do is hide all the other tabs and mark them as unselected. Then we have to mark the clicked tab as selected, and then we need to find the associated tabPanel and show it. 
 
+Let's add all those steps as **pseudocode**, which is just putting into words what you are trying to do so you can grasp the steps that need to happen when someone clicks it.
 
+We will go one by one and write the code for it. 
 
+```
+function handleTabClick(event){
+  // hide all tab panels
+  // mark all tabs as unselected
+  // mark the clicked tab as selected
+  // find the associated tabPanel and show it!
+}
+```
 
+We have already selected all the tab panels at the top of our file. If you were to log them within the  `handleTabClick` event, you would get a nodelist with the three divs. 
 
+![](@attachment/Clipboard_2020-06-04-18-05-50.png) 7:21
 
-    
+The tab panels are getting hidden by the `hidden` attribute. So what we can do is loop over each of them using `.forEach` and for each of those, we will hide it. 
+
+```
+tabPanels.forEach(function(panel){
+  console.log(panel);
+})
+```
+
+That code will take our nodelist of the three panels, loop over each one, and for each one we get a variable called `panel`, which is how we reference each of them, and then we can log it.
+
+If you click on one tab, you get three separate console logs of each of them. 
+
+![](@attachment/Clipboard_2020-06-04-18-13-27.png) 8:11
+
+Modify the code like so to set each panel to hidden. 
+
+```
+tabPanels.forEach(function(panel){
+  panel.hidden = true;
+})
+```
+
+As soon as you click on any tab, all the panels turn to hidden.  
+
+![](@attachment/Clipboard_2020-06-04-18-15-34.png) 9:08
+
+To refactor that to an arrow function, you would simply modify the code like so 👇
+
+```
+tabPanels.forEach(panel => { 
+  panel.hidden = true;
+});
+```
+
+Note: we could have made that arrow function a one liner but it's better to make your function as readable as possible rather than try to make them as short. 
+
+In a future step we will go back and show one of those tabPanels. We could just filter out the selected tabPanel when hiding them, but in Wes' experience it is much easier to just hide them all and then show the one that we want. 
+
+![](@attachment/Clipboard_2020-06-04-18-20-50.png) 10:19
+
+The next step is to take our tabs and mark them all as unselected. As you can see we are using the `aria-selected` attribute to set whether it is selected or not. 
+
+So how do you set that? Would  `tab.aria-selected = false` work? 
+
+![](@attachment/Clipboard_2020-06-04-18-22-10.png) 10:32
+
+It does not, because you can't put dashes in it. SO how do we access a property when the property has a dash in it? 
+
+If you go to the HTML page, click on one of the buttons in the Elements tab of the dev tools, then flip to the console and use our $0 trick, we can access it like so: `$0.ariaSelected`.
+
+Anytime that you see an attribute with a dash on an HTML element, you can almost always access that with the camel cased version of that. 
+
+Let's try that. 
+
+```
+tabButtons.forEach(tab => { 
+  tab.ariaSelected = false;
+});
+```
+
+If you refresh the page does that work? No. You will see a tab is still selected. 
+
+![](@attachment/Clipboard_2020-06-04-18-26-42.png) 11:43
+
+If you click on the Javascript button which still looks selected, and flip to the console and do `$0.ariaSelected`, it will return false.
+
+![](@attachment/Clipboard_2020-06-04-18-27-27.png) 11:51
+
+So why is it not updating? If you flip back to the elements tab, you will see the attribute value equals true. It never updated. 
+
+What happened!? What happened is that with most properties in javascript, you can just access the property on the element directly. 
+
+However for some properties, including custom properties that you just made up, as well as aria propreties, it looks like you cannot use that method.
+
+The only other way is to use the `.setAttribute()` method.
+
+Wes looked at some docs and for aria properties, you should always use the `setAttribute` and `getAttribute` method on the element instead of on the property. 
+
+![](@attachment/Clipboard_2020-06-04-18-30-11.png) 12:40
+
+So some properties like `.alt` or `.src` or `.title`, those things can be done via properties on the element, but not for aria attributes.
+
+Modify the code liek so: 
+
+```
+function handleTabClick(event) {
+  // hide all tab panels
+  tabPanels.forEach(panel => {
+    panel.hidden = true;
+  });
+  // mark all tabs as unselected
+  tabButtons.forEach(tab => {
+    // tab.ariaSelected = false;
+    tab.setAttribute('aria-selected', false);
+  });
+```
+
+If you were to refresh the page and click one of the tabs, all the tabs will no longer be selected. 
+
+![](@attachment/Clipboard_2020-06-04-18-33-20.png) 13:24
+
+Now let's mark the clicked tab as selected. 
+
+```
+event.currentTarget.setAttrbute('aria-selected', true);
+```
+
+Now when you click one, you will see it will set and remove the aria selected. 
+
+![](@attachment/Clipboard_2020-06-04-18-34-19.png) 14:01
+
+You might have noticed that we are not using any classes here and the reason for that is if you can reach for an accessibility attribute over a class then do that so you can kill 2 birds with one stone. 
+
+Next we need to find the associated tab panel and show it. They are associated using the button `id` and `aria-labelledby` attribute of the tab panel. 
+
+So if someone clicks on the button below, we need to find the tabPanel with `aria-labelledby="js"` attribute value.
+
+```
+<button role="tab" aria-selected="true" id="js">
+  JavaScript
+</button>
+```
+
+So we could do this a couple of ways. Let's first grab that id. `const id = event.currentTarget.id;`. 
+
+You might notice that when you save the code, the editor modifies that line like so `const { id } = event.currentTarget;`. That is because instead of saving the varaiable the same as the property on something, we can destructure it to create an `id` variable from that thing. 
+
+That is handy if you ever want to pull other properties like an `alt` or a `src`. 
+
+```
+function handleTabClick(event) {
+  // hide all tab panels
+  tabPanels.forEach(panel => {
+    panel.hidden = true;
+  });
+  // mark all tabs as unselected
+  tabButtons.forEach(tab => {
+    // tab.ariaSelected = false;
+    tab.setAttribute('aria-selected', false);
+  });
+  // mark the cli cked tab as selected
+  event.currentTarget.setAttribute('aria-selected', true);
+  // find the associated tabPanel and show it!
+  const { id } = event.currentTarget;
+```
+
+Now we need to find the associate tab panel. 
+
+There are a couple of ways we can do that. 
+
+We can simply use the id in a selector. 
+
+```
+const tabPanel = tabs.querySelector(`[aria-labelledby="${id}"]`);
+console.log(tabPanel);
+tabPanel.hidden = false;
+```
+
+If you refresh the page, you will see that works. 
+
+Now let's comment that code out and try another method, this time using `find()`. 
+
+We can take the `tabPanels` and just loop over it until we find the one we want. 
+
+If we added the following code, would it work? 
+
+```
+tabPanels.find()
+```
+
+![](@attachment/Clipboard_2020-06-04-18-45-43.png) 18:36
+
+No, it does not. Why not? THat is because the `.find()` method is only a method on arrays. If you recall from when we logged `tabPanels`, that it is not an array, it is a NodeList, and it doesn't have all of those array methods.
+
+![](@attachment/Clipboard_2020-06-04-18-46-52.png) 18:58
+
+We can convert the NodeList into an array by wrapping it in `Array.from()` like so: 
+
+```
+const tabPanels = Array.from(tabs.querySelectorAll('[role="tabpanel"]'));
+```
+
+Now using the find, we can check for each of them whether the `aria-labelledby` attribute equals the id.
+
+```
+const tabPanel = tabPanels.find((panel) => {
+  if (panel.getAttribute("aria-labelledby") === id) {
+    return true;
+  }
+});
+```
+
+We can actually refactor that to use an implicit return to return the outcome of the condition. 
+
+```
+console.log(tabPanels);
+const tabPanel = tabPanels.find(
+  panel => panel.getAttribute('aria-labelledby') === id
+);
+console.log(tabPanel);
+```
+
+So what we did is we used find to find the tabPanel that matches the id we passed and we stored the result in a variable called `tabPanel`.
+
+Now when you click on a tab, you will see the associated panel. 
+
+![](@attachment/Clipboard_2020-06-04-18-53-50.png) 21:07
+
+Let's replace the log with `tabPanel.hidden = false;` so it is no longer hidden.
+
+Now your tabs should be working! Both those methods are valid, it's up to you which you prefer. 
 
 
 

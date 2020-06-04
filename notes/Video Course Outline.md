@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-06-02T22:20:25.706Z'
+modified: '2020-06-03T22:40:40.799Z'
 ---
 
 # Video Course Outline
@@ -55,7 +55,7 @@ Module 5: Events
 Module 6: Serious Practice Exercises
 33. ~~Etch-a-Sketch~~ (45:20)
 34. ~~Click Outside Modal~~ (23:57)
-35. Scroll Events and Intersection Observer (19:16)
+35. ~~Scroll Events and Intersection Observer~~ (19:16)
 36. Tabs (21:54)
 
 Module 7: Logic and Flow Control

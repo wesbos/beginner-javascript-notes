@@ -1,9 +1,9 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png, Clipboard_2020-06-03-17-40-51.png, Clipboard_2020-06-03-17-53-25.png, Clipboard_2020-06-03-18-12-38.png, Clipboard_2020-06-03-18-20-24.png, Clipboard_2020-06-03-18-26-58.png, Clipboard_2020-06-03-18-30-21.png, Clipboard_2020-06-03-18-30-34.png]
+attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png, Clipboard_2020-06-03-17-40-51.png, Clipboard_2020-06-03-17-53-25.png, Clipboard_2020-06-03-18-12-38.png, Clipboard_2020-06-03-18-20-24.png, Clipboard_2020-06-03-18-26-58.png, Clipboard_2020-06-03-18-30-21.png, Clipboard_2020-06-03-18-30-34.png, Clipboard_2020-06-04-08-02-46.png]
 favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-06-03T22:39:32.803Z'
+modified: '2020-06-04T12:24:09.291Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -1513,14 +1513,123 @@ That will stop it from doing any unnecessary work.
 
 That is scroll to accept. You don't see the observer pattern too much. The only two ways currently in the browser is `IntersectionObserver` which tells you when something is currently scrolled into view, and another one called `ResizeObserver` which will tell you when an element is resized. 
 
+That concludes this lesson! 
+
+---
+
+## 36 -Tabs
+
+![](@attachment/Clipboard_2020-06-04-08-02-46.png) 00:10
+
+In this example we are going to build tabs. Tabs are pretty simple, you click on the tab you want and it shows the content associated with it.
+
+In this example we will practice showing/hiding things, event listeners, looping before we even learn and wee will learn how to make it accessible. 
+
+The user should be able to use their keyboard to move between tabs without touching mouse. 
+
+Let's start by looking at the HTML we will be working with. 
+
+```
+<body>
+  <div class="wrapper">
+    <div class="tabs">
+      <div role="tablist" aria-label="Programming Languages">
+        <button role="tab" aria-selected="true" id="js">
+          JavaScript
+        </button>
+        <button role="tab" aria-selected="false" id="ruby">Ruby
+        </button>
+        <button role="tab" aria-selected="false" id="php">
+          PHP
+        </button>
+      </div>
+      <div role="tabpanel" aria-labelledby="js">
+        <p>JavaScript is great!</p>
+      </div>
+      <div role="tabpanel" aria-labelledby="ruby" hidden>
+        <p>Ruby is great</p>
+      </div>
+      <div role="tabpanel" aria-labelledby="php" hidden>
+        <p>PHP is great!</p>
+      </div>
+    </div>
+  </div>
+  <script src="./tabs.js"></script>
+</body>
+```
+
+So we have a wrapper div with a class of "tabs". 
+
+Nested within div is another div but this one has a role of tablist. 
+
+You will notice a lot of role and aria labels in the HTML and that is important because it is how you make your tabs accessible to everyone and that search engines can easily read it. 
+
+When you use proper markup, it is good for both **accessibility** and **SEO**. 
+
+We tell the browser that the div is a tab list using the `role="tablist"` attribute. That div also has an `aria-label="Programming languages"` attribute. That is for screenreaders to know what the list is about.
+
+Inside of the tablist we have three buttons. Each of those buttons has a role of tab and an id that contians the name of the programming language.
+
+One of the buttons also has an `aria-select="true"` attribute. That is how we are going to maintain whether the tab is currently active. 
+
+If you take a look at our `tabs-style.css` you will see that whenever a button has an attribute of aria-selected we change the background color, the text color and remove the box shadow. 
+
+```css
+button[aria-selected="true"] {
+  background: var(--yellow);
+  box-shadow: none;
+  color: rgba(0,0,0,0.7);
+}
+```
+
+We don't have to worry about where to put the tabs and buttons because they are sort of clicked together by the id and the aria-labelledby of the actual tab panel. 
 
 
+Further down in the HTML we have each all of our different tab panels. 
 
+```
+<div role="tabpanel" aria-labelledby="js">
+    <p>JavaScript is great!</p>
+  </div>
+  <div role="tabpanel" aria-labelledby="ruby" hidden>
+    <p>Ruby is great</p>
+  </div>
+  <div role="tabpanel" aria-labelledby="php" hidden>
+    <p>PHP is great!</p>
+  </div>
+</div>
+```
 
+   
+We can associate a tab panel with a specific button by giving it an `arialabelledby`. That is just descriptions, this aria-labels we are adding is not giving us any sort of functionality. It is just a good way to describe markup in the browser. 
 
+Now we can apply an attribute of hidden to the non-selected tab. The hidden attribute is great because you don't have to write any css classes to hide it. You just pop that attribute on or off and it will show and hide it. 
 
+Our default state is to show the first tab button as selected and to show the first tab panel content. 
 
+Let's start writing the code, beginning with selecting the tabs div, the tab buttons and the tab panels. 
 
+To grab the tab buttons, we will look inside of tabs instead of the document because you may have more than one set of tabs on the page, so we should write our Javascript to support that.
+
+```
+const tabs = document.querySelector('.tabs');
+const tabButtons = tabs.querySelectorAll('[role="tab"]');
+const tabPanels = tabs.querySelectorAll('[role="tab"]');
+```
+
+Next lets loop over the buttons using a foreach and add a click event listener to each. Because they are buttons, the click event will fire when you use the keyboard as well so there is no extra keyboard work we need to do. We will pass it a function `handleTabClick`.
+
+```
+const tabs = document.querySelector('.tabs');
+const tabButtons = tabs.querySelectorAll('[role="tab"]');
+const tabPanels = tabs.querySelectorAll('[role="tab"]');
+
+tabButtons.forEach(button => button.addEventListener('click', handleTabClick));
+```
+
+Now let's write the `handleTabClick` function like so
+
+stopped at 5:20
 
 
 

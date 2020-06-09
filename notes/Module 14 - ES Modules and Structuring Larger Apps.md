@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png, Clipboard_2020-05-31-15-25-05.png, Clipboard_2020-05-31-15-27-44.png, Clipboard_2020-05-31-15-32-10.png, Clipboard_2020-05-31-15-34-46.png, Clipboard_2020-05-31-15-35-13.png, Clipboard_2020-05-31-15-41-35.png, Clipboard_2020-05-31-15-43-20.png, Clipboard_2020-05-31-15-49-09.png, Clipboard_2020-05-31-15-53-01.png, Clipboard_2020-05-31-15-56-55.png, Clipboard_2020-05-31-15-58-57.png, Clipboard_2020-05-31-16-01-37.png, Clipboard_2020-05-31-16-14-11.png, Clipboard_2020-05-31-16-14-47.png, Clipboard_2020-05-31-16-16-54.png, Clipboard_2020-05-31-16-17-54.png, Clipboard_2020-05-31-16-20-20.png, Clipboard_2020-06-01-19-31-46.png, Clipboard_2020-06-01-19-42-23.png, Clipboard_2020-06-01-19-45-23.png, Clipboard_2020-06-01-19-53-24.png, Clipboard_2020-06-01-19-55-38.png, Clipboard_2020-06-01-19-58-27.png, Clipboard_2020-06-01-20-03-08.png, Clipboard_2020-06-01-20-04-45.png, Clipboard_2020-06-01-20-08-21.png, Clipboard_2020-06-01-20-08-50.png, Clipboard_2020-06-01-20-12-56.png, Clipboard_2020-06-01-20-12-58.png, Clipboard_2020-06-01-20-13-00.png, Clipboard_2020-06-01-20-14-11.png]
+attachments: [Clipboard_2020-05-27-06-59-50.png, Clipboard_2020-05-27-07-05-17.png, Clipboard_2020-05-27-07-15-19.png, Clipboard_2020-05-27-07-18-36.png, Clipboard_2020-05-27-07-19-13.png, Clipboard_2020-05-27-07-19-33.png, Clipboard_2020-05-27-07-21-39.png, Clipboard_2020-05-27-07-22-53.png, Clipboard_2020-05-27-07-23-08.png, Clipboard_2020-05-27-15-20-43.png, Clipboard_2020-05-27-16-49-29.png, Clipboard_2020-05-27-17-06-30.png, Clipboard_2020-05-27-17-18-32.png, Clipboard_2020-05-27-17-26-13.png, Clipboard_2020-05-27-19-15-20.png, Clipboard_2020-05-27-19-28-13.png, Clipboard_2020-05-27-19-38-57.png, Clipboard_2020-05-27-19-40-30.png, Clipboard_2020-05-27-19-41-43.png, Clipboard_2020-05-27-19-41-58.png, Clipboard_2020-05-27-20-04-41.png, Clipboard_2020-05-27-20-05-09.png, Clipboard_2020-05-27-20-10-27.png, Clipboard_2020-05-27-20-13-19.png, Clipboard_2020-05-28-06-29-55.png, Clipboard_2020-05-28-06-31-53.png, Clipboard_2020-05-28-06-33-44.png, Clipboard_2020-05-28-06-33-59.png, Clipboard_2020-05-28-06-34-39.png, Clipboard_2020-05-28-06-35-54.png, Clipboard_2020-05-28-06-39-12.png, Clipboard_2020-05-28-06-41-47.png, Clipboard_2020-05-28-08-09-54.png, Clipboard_2020-05-28-08-11-02.png, Clipboard_2020-05-28-08-12-26.png, Clipboard_2020-05-28-08-17-12.png, Clipboard_2020-05-28-08-18-27.png, Clipboard_2020-05-28-08-19-38.png, Clipboard_2020-05-28-08-26-55.png, Clipboard_2020-05-28-08-35-21.png, Clipboard_2020-05-28-14-52-06.png, Clipboard_2020-05-28-14-55-41.png, Clipboard_2020-05-28-17-12-41.png, Clipboard_2020-05-28-17-25-25.png, Clipboard_2020-05-28-17-27-17.png, Clipboard_2020-05-28-17-29-33.png, Clipboard_2020-05-28-17-35-43.png, Clipboard_2020-05-29-07-03-18.png, Clipboard_2020-05-29-07-16-29.png, Clipboard_2020-05-29-08-35-09.png, Clipboard_2020-05-29-08-36-19.png, Clipboard_2020-05-29-08-41-20.png, Clipboard_2020-05-29-08-43-35.png, Clipboard_2020-05-29-08-44-39.png, Clipboard_2020-05-29-19-45-28.png, Clipboard_2020-05-29-19-54-53.png, Clipboard_2020-05-29-19-56-56.png, Clipboard_2020-05-29-21-34-31.png, Clipboard_2020-05-29-21-35-14.png, Clipboard_2020-05-29-21-35-36.png, Clipboard_2020-05-29-21-49-05.png, Clipboard_2020-05-29-21-50-11.png, Clipboard_2020-05-29-21-58-02.png, Clipboard_2020-05-29-22-05-40.png, Clipboard_2020-05-29-22-06-31.png, Clipboard_2020-05-29-22-22-10.png, Clipboard_2020-05-29-22-22-45.png, Clipboard_2020-05-29-22-23-25.png, Clipboard_2020-05-29-22-26-20.png, Clipboard_2020-05-29-22-29-57.png, Clipboard_2020-05-29-22-33-52.png, Clipboard_2020-05-29-22-35-22.png, Clipboard_2020-05-30-17-02-22.png, Clipboard_2020-05-30-17-27-09.png, Clipboard_2020-05-30-17-39-38.png, Clipboard_2020-05-30-17-41-23.png, Clipboard_2020-05-30-17-47-44.png, Clipboard_2020-05-30-18-07-16.png, Clipboard_2020-05-30-18-08-45.png, Clipboard_2020-05-30-18-16-50.png, Clipboard_2020-05-30-18-18-17.png, Clipboard_2020-05-30-18-25-09.png, Clipboard_2020-05-30-18-40-17.png, Clipboard_2020-05-30-19-44-49.png, Clipboard_2020-05-30-19-50-18.png, Clipboard_2020-05-30-20-08-40.png, Clipboard_2020-05-30-20-10-10.png, Clipboard_2020-05-30-20-12-57.png, Clipboard_2020-05-31-15-25-05.png, Clipboard_2020-05-31-15-27-44.png, Clipboard_2020-05-31-15-32-10.png, Clipboard_2020-05-31-15-34-46.png, Clipboard_2020-05-31-15-35-13.png, Clipboard_2020-05-31-15-41-35.png, Clipboard_2020-05-31-15-43-20.png, Clipboard_2020-05-31-15-49-09.png, Clipboard_2020-05-31-15-53-01.png, Clipboard_2020-05-31-15-56-55.png, Clipboard_2020-05-31-15-58-57.png, Clipboard_2020-05-31-16-01-37.png, Clipboard_2020-05-31-16-14-11.png, Clipboard_2020-05-31-16-14-47.png, Clipboard_2020-05-31-16-16-54.png, Clipboard_2020-05-31-16-17-54.png, Clipboard_2020-05-31-16-20-20.png, Clipboard_2020-06-01-19-31-46.png, Clipboard_2020-06-01-19-42-23.png, Clipboard_2020-06-01-19-45-23.png, Clipboard_2020-06-01-19-53-24.png, Clipboard_2020-06-01-19-55-38.png, Clipboard_2020-06-01-19-58-27.png, Clipboard_2020-06-01-20-03-08.png, Clipboard_2020-06-01-20-04-45.png, Clipboard_2020-06-01-20-08-21.png, Clipboard_2020-06-01-20-08-50.png, Clipboard_2020-06-01-20-12-56.png, Clipboard_2020-06-01-20-12-58.png, Clipboard_2020-06-01-20-13-00.png, Clipboard_2020-06-01-20-14-11.png, Clipboard_2020-06-09-06-45-57.png, Clipboard_2020-06-09-06-50-08.png, Clipboard_2020-06-09-06-55-21.png, Clipboard_2020-06-09-06-58-40.png, Clipboard_2020-06-09-07-01-04.png]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: '2020-05-27T10:45:39.129Z'
-modified: '2020-06-02T00:17:47.500Z'
+modified: '2020-06-09T11:04:02.545Z'
 ---
 
 # Module 14 - ES Modules and Structuring Larger Apps
@@ -2774,4 +2774,66 @@ That isn't normally and issue, most APIs are encrypted but it's just something t
 
 That is the basic security things to think about!
 
+--- 
 
+## 84 - Web Speech Colours Game
+
+![](@attachment/Clipboard_2020-06-09-06-45-57.png) 00:27
+
+In this exercise we will be using the Speech Recognition API that is currently only available in the Chrome broswer to practice our Javascript skills by building a little game. 
+
+The way it will work is When you say a colour, the background colour of the website should change to reflect that. 
+
+Let's start by opening chrome and navigating to `chrome://flags` in the browser. On this paeg, we need to make sure that "Experimental Web Platform features" are turned on. '
+
+![](@attachment/Clipboard_2020-06-09-06-50-08.png) 1:02
+
+We also need to get a server going. 
+
+If you open up the `84 - Web Speech Colour Game` folder within the `exercises` directory, lets take a look at what we are working with. 
+
+Wes has given us `colors.js` which gives us an object containing every color that is available in CSS, and it's corresponding hex code. 
+
+Within the file there is also a function called `isDark` which Wes grabbed from StackOverFlow which takes in a color name and figures out if it is a dark or light color.
+
+Then there is `style.css` which contains a few styles and animations, like the word popping up and getting crossed off when you say it. 
+
+![](@attachment/Clipboard_2020-06-09-06-55-21.png) 2:26
+
+If look at the `package.json`, you will see we have `parcel-bundler` and `browserslist`, both of which we have used before. 
+
+Open up the terminal and navigate to the exercises folder and type `npm install` and that will install the dev dependencies for us. 
+
+After that is finished installing, simply type `npm start` and open up the server in a browser to see what we are starting with. 
+
+![](@attachment/Clipboard_2020-06-09-06-58-40.png)  3:20  
+
+Let's start by getting the web speech going and then we will connect the colours.
+
+Now we need to check if there is something called `window.SpeechRecognition`. However if you try to reference that in the console, you will get undefined because it is actually `window.webkitSpeechRecognition`. 
+
+![](@attachment/Clipboard_2020-06-09-07-01-04.png) 4:10
+
+Add the following to `speech.js`. 
+
+```
+//speech.js
+function start(){
+  //see if their browser supporst this
+
+}
+start();
+```
+
+That is what is referred to as vendor prefix (adding `webkit`). That means that the API is not completely done, so they will vendor prefix it by adding webkit infront of it. 
+
+Chrome engine used to be called WebKit, it is now called blink.
+
+At the top of our javascript file, let's normalize that like so: 
+
+```
+//speech.js
+window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition. 
+```
+
+stopped at 4:55

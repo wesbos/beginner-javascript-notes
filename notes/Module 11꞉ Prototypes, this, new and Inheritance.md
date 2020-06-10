@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png, Clipboard_2020-05-07-18-17-28.png, Clipboard_2020-05-07-18-19-40.png, Clipboard_2020-05-07-18-24-08.png, Clipboard_2020-05-07-18-35-47.png, Clipboard_2020-05-07-18-40-24.png, Clipboard_2020-05-07-18-43-46.png, Clipboard_2020-05-07-18-44-42.png, Clipboard_2020-05-07-18-51-42.png, Clipboard_2020-05-07-18-56-58.png, Clipboard_2020-05-07-19-02-22.png, Clipboard_2020-05-07-19-07-59.png, Clipboard_2020-05-07-19-10-48.png, Clipboard_2020-05-07-19-13-28.png, Clipboard_2020-05-07-19-15-21.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-05-25T00:38:06.796Z'
+modified: '2020-06-09T22:02:05.528Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -95,7 +95,7 @@ span instanceof HTMLSpanElement;
 span instanceof Node;
 ```
 
-Both will return true. Why? Is it an element, is it a span, is it a node? We will learn more about this in classes but essentially things can start very basic like a node with text. Then it can go a little further and become an element, and have a tag and attributes. And then it can go even further and become a special kind of element like an image or div. In all of those cases, the element inherits the Node and the `HTMLSpanElement` inherits the `Element`. 
+Both will return true. Why? Is it an element, is it a span, is it a node? We will learn more about this in later classes but essentially things can start very basic like a node with text. Then it can go a little further and become an element, and have a tag and attributes. And then it can go even further and become a special kind of element like an image or div. In all of those cases, the element inherits the Node and the `HTMLSpanElement` inherits the `Element`. 
 
 ![](@attachment/Clipboard_2020-05-05-07-30-04.png) 8:22
 
@@ -184,7 +184,7 @@ Now when we go and click on each button, the `this` keyword will be equal to eac
 
 ![](@attachment/Clipboard_2020-05-05-20-01-34.png) 1:33
 
-Now we can call that an instance. Why? because `button1` and `button2` are sinmply instances of the mama Button that exists in the browser. 
+Now we can call that an instance. Why? because `button1` and `button2` are simply instances of the mama Button that exists in the browser. 
 
 Whenever you make a new button, whether via HTML or it gets rendered to the DOM, or whether you use `document.createElement` it will create an new instance of the HTML button that is in the browser. 
 
@@ -208,7 +208,7 @@ The value of the `this` keyword does not change when you use an arrow function. 
 
 One use case for this is, lets say we bring tellMeAboutTheButton back to a regular function, and let's say after one second we want to update the text of the button to say something like "Good job". We can use `setTimeout()` to do that. 
 
-The first argument of setTimeout is a callback function and the second argument is how long the timeout should be. Within the timeout we will set the textContent of the button the be equal to "You Clicked Me". 
+The first argument of setTimeout is a callback function and the second argument is how long the timeout should be. Within the timeout we will set the textContent of the button to be equal to "You Clicked Me". 
 
 ```
 const tellMeAboutTheButton = () => {
@@ -253,7 +253,7 @@ That is what we now about the `this` keyword so far.
 
 The other thing we need to know about the `this` keyword is that it refers to the instance of the thing that was made. 
 
-If we go up to the `Pizza` example further up in the file that we added in the last video, if we log `this` within the `Pizza` funciton, whenever and log `this`, whenever the pizza is made, we will have access to the pizza that was created. 
+If we go up to the `Pizza` example further up in the file that we added in the last video, if we log `this` within the `Pizza` funciton, whenever and log `this`, )***(doesn't make sense)*** whenever the pizza is made, we will have access to the pizza that was created. 
 
 ![](@attachment/Clipboard_2020-05-05-20-29-08.png) 6:48
 
@@ -261,7 +261,7 @@ We can do things like store information about the pizza that is being made insid
 
 Let's go ahead and code that. 
 
-We will modify the `Pizza()` function which is referred to as **constructor**, the function that makes an object is called a constructor. It will take in an array of toppings (default of which will be an empty array), and then it will take in a customer's name. 
+We will modify the `Pizza()` function which is referred to as **constructor** (the function that makes an object is called a constructor). It will take in an array of toppings (default of which will be an empty array), and then it will take in a customer's name. 
 
 Inside of the Pizza function we will save the toppings and customer like so:
 
@@ -275,7 +275,7 @@ function Pizza(toppings = [], customer) {
 }
 ```
 
-You do also do other things like generate an id inside of the constructor. Let's add that. 
+You also do other things like generate an id inside of the constructor. Let's add that. 
 
 Wes likes to use this blog post by Tom Irish that Wes uses whenever he needs a random id to be generated. It's not guaranteed to be unique, but it is good enough for most use cases. This one gives you a random hex code. We will take the `#` sign off the method because we don't need it. 
 

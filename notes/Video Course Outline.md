@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-06-03T22:40:40.799Z'
+modified: '2020-06-18T10:35:27.921Z'
 ---
 
 # Video Course Outline
@@ -119,7 +119,7 @@ Module 14: ES Modules and Structuring Larger Apps
 80. ~~Dad Jokes Modules Refactor~~ (13:59)
 81. ~~Bundling and Building with Parcel~~ (15:06)
 82. ~~using open source npm packages~~ (34:22)
-83. Security (16:32)
+83. ~~Security~~ (16:32)
 
 Module 15: Final Round of Excercises
 84. Web Speech Colours Game (29:13)

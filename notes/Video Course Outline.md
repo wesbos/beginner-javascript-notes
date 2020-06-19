@@ -2,7 +2,7 @@
 favorited: true
 title: Video Course Outline
 created: '2020-01-19T22:03:29.689Z'
-modified: '2020-06-18T10:35:27.921Z'
+modified: '2020-06-19T17:05:46.460Z'
 ---
 
 # Video Course Outline
@@ -122,6 +122,6 @@ Module 14: ES Modules and Structuring Larger Apps
 83. ~~Security~~ (16:32)
 
 Module 15: Final Round of Excercises
-84. Web Speech Colours Game (29:13)
-85. Audio Visualization (44:30)
+84. ~~Web Speech Colours Game~~ (29:13)
+85. ~~Audio Visualization~~ (44:30)
 

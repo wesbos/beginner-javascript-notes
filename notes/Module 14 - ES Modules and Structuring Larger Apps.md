@@ -1535,19 +1535,19 @@ Yes, some people like their entry point to have a little code but you could have
 
 ## 80 - Dad Jokes Modules Refactor
 
-In this lesson we will refactor our dad jokes exercise so you can see how Wes would structure that.
+In this lesson we will refactor our dad jokes exercise so you can see how Wes would structure it.
 
-Let's start by duplicating the `76 - Dad Jokes` folder within the `exercises/` directory and renaming it to `80 - Dad Jokes Modules`.
+1. Start by duplicating the `76 - Dad Jokes` folder within the `exercises/` directory and renaming it to `80 - Dad Jokes Modules`.
 
-Let's start by taking all the code in `jokes-FINISHED.js` and putting it `jokes.js` and the deleting the finished version of the file.
+2. Take all the code in `jokes-FINISHED.js` and put it `jokes.js` and then delete the finished version of the file.
 
-NOw let's convert this to modules by first putting an attribute of `type="module"` on the script tag on our HTML page.
+3. Convert this exercise to use modules by first putting an attribute of `type="module"` on the script tag on the HTML page.
 
-The second thing we need to do is run it under a server which we can do in VSCode by right clicking the file in VSCode and selecting "open with live server".
+4. Run the exercise under a server which we can do in VSCode by right clicking the file in VSCode and selecting "open with live server".
 
-When the server loads, the dad jokes app should be working as expected.
+Now when the server loads, the dad jokes app should be working as expected.
 
-Let's take a look at the code within `jokes.js` and start splitting it out line by line, function by function.
+Let's start the refactor by first looking at the code within `jokes.js`, and then we can begin splitting it out line by line, function by function.
 
 ```js
 //jokes.js
@@ -1608,14 +1608,19 @@ In the entry point, Wes like to do his selecting and event listeners but everyth
 
 Let's keep the first 4 lines of code where we are selecting elements where it is.
 
-Where should we put the `buttonText` variable? Let's put it in it's own file. Sometimes people will organize their code into folders, so to demonstrate that, we will put this in a folder called `data`, which you need to create.
+Where should we put the `buttonText` variable?
 
-Within the folder let's add a file called `buttonText.js`.
+Put it in it's own file. Sometimes people will organize their code into folders, so to demonstrate that, we will put this in a folder called `data`, which you need to create.
+
+Within the folder, add a file called `buttonText.js`.
 
 Copy and paste the buttonText variable in that file. We will worry about importing and exporting these functions between modules later, for now we just want to get all of the different functions into their own files.
 
-Next is the `fetchJoke` function. That is core to what the application does so often people will make a `lib` folder for this. Let's make that folder.  
-(Note: you don't have to do this, Wes personally finds it confusing when people have hundreds of folders for organization sakes. Feel free to just make files in the root directory or organize your files however you like. Wes suggests starting simple and the coming back and refactoring if you need more organization.)
+Next is the `fetchJoke` function.
+
+That is core to what the application does so often people will make a `lib` folder for this. Make that folder.
+
+_(Note: you don't have to do this, Wes personally finds it confusing when people have hundreds of folders for organization sakes. Feel free to just make files in the root directory or organize your files however you like. Wes suggests starting simple and the coming back and refactoring if you need more organization.)_
 
 Within that `lib` directory we will create a file `index.js` which will contain all of our library javascript.
 

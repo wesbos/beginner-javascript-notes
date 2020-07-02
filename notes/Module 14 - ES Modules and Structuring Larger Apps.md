@@ -939,48 +939,48 @@ Now `money.js` is our entry point.
 
 Let's take a look at what we are working with.
 
-```
+```js
 const fromSelect = document.querySelector('[name="from_currency"]');
 const fromInput = document.querySelector('[name="from_amount"]');
 const toSelect = document.querySelector('[name="to_currency"]');
-const toEl = document.querySelector('.to_amount');
-const form = document.querySelector('.app form');
-const endpoint = 'https://api.exchangeratesapi.io/latest';
+const toEl = document.querySelector(".to_amount");
+const form = document.querySelector(".app form");
+const endpoint = "https://api.exchangeratesapi.io/latest";
 const ratesByBase = {};
 
 const currencies = {
-  USD: 'United States Dollar',
-  AUD: 'Australian Dollar',
-  BGN: 'Bulgarian Lev',
-  BRL: 'Brazilian Real',
-  CAD: 'Canadian Dollar',
-  CHF: 'Swiss Franc',
-  CNY: 'Chinese Yuan',
-  CZK: 'Czech Republic Koruna',
-  DKK: 'Danish Krone',
-  GBP: 'British Pound Sterling',
-  HKD: 'Hong Kong Dollar',
-  HRK: 'Croatian Kuna',
-  HUF: 'Hungarian Forint',
-  IDR: 'Indonesian Rupiah',
-  ILS: 'Israeli New Sheqel',
-  INR: 'Indian Rupee',
-  JPY: 'Japanese Yen',
-  KRW: 'South Korean Won',
-  MXN: 'Mexican Peso',
-  MYR: 'Malaysian Ringgit',
-  NOK: 'Norwegian Krone',
-  NZD: 'New Zealand Dollar',
-  PHP: 'Philippine Peso',
-  PLN: 'Polish Zloty',
-  RON: 'Romanian Leu',
-  RUB: 'Russian Ruble',
-  SEK: 'Swedish Krona',
-  SGD: 'Singapore Dollar',
-  THB: 'Thai Baht',
-  TRY: 'Turkish Lira',
-  ZAR: 'South African Rand',
-  EUR: 'Euro',
+  USD: "United States Dollar",
+  AUD: "Australian Dollar",
+  BGN: "Bulgarian Lev",
+  BRL: "Brazilian Real",
+  CAD: "Canadian Dollar",
+  CHF: "Swiss Franc",
+  CNY: "Chinese Yuan",
+  CZK: "Czech Republic Koruna",
+  DKK: "Danish Krone",
+  GBP: "British Pound Sterling",
+  HKD: "Hong Kong Dollar",
+  HRK: "Croatian Kuna",
+  HUF: "Hungarian Forint",
+  IDR: "Indonesian Rupiah",
+  ILS: "Israeli New Sheqel",
+  INR: "Indian Rupee",
+  JPY: "Japanese Yen",
+  KRW: "South Korean Won",
+  MXN: "Mexican Peso",
+  MYR: "Malaysian Ringgit",
+  NOK: "Norwegian Krone",
+  NZD: "New Zealand Dollar",
+  PHP: "Philippine Peso",
+  PLN: "Polish Zloty",
+  RON: "Romanian Leu",
+  RUB: "Russian Ruble",
+  SEK: "Swedish Krona",
+  SGD: "Singapore Dollar",
+  THB: "Thai Baht",
+  TRY: "Turkish Lira",
+  ZAR: "South African Rand",
+  EUR: "Euro",
 };
 
 function generateOptions(options) {
@@ -989,10 +989,10 @@ function generateOptions(options) {
       ([currencyCode, currencyName]) =>
         `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
     )
-    .join('');
+    .join("");
 }
 
-async function fetchRates(base = 'USD') {
+async function fetchRates(base = "USD") {
   const res = await fetch(`${endpoint}?base=${base}`);
   const rates = await res.json();
   return rates;
@@ -1017,8 +1017,8 @@ async function convert(amount, from, to) {
 }
 
 function formatCurrency(amount, currency) {
-  return Intl.NumberFormat('en-US', {
-    style: 'currency',
+  return Intl.NumberFormat("en-US", {
+    style: "currency",
     currency,
   }).format(amount);
 }
@@ -1036,65 +1036,67 @@ const optionsHTML = generateOptions(currencies);
 fromSelect.innerHTML = optionsHTML;
 toSelect.innerHTML = optionsHTML;
 
-form.addEventListener('input', handleInput);
+form.addEventListener("input", handleInput);
 ```
 
-We are selecting a bunch of elements, we have a `ratesByBase` and `currencies` object.
+Within the file we are ...
 
-Then we have a few functions like `generateOptions`, `fetchRates` which needs the endpoint, we have a convert, format currency and one handler.
+- Selecting a bunch of elements and have a `ratesByBase` and `currencies` object.
 
-So we have some library functions (library functions are functions considered core to our application), some handlers, and then `generateOptions` which is a helper or utility method, and then we have some data.
+- Have a few functions such as `generateOptions`, `fetchRates` which require the endpoint, and we have a `convert`, `formatCurrency` function plus one handler.
 
-We won't use any folders for this example, Wes will show us how to do that with a flat file strucutre.
+- have **library functions** which are functions that are considered core to our application such as a few handlers, and `generateOptions` which is a helper/utility method, and we also have some data.
 
-So within our `79 - Currency Refactor` folder create a file called `currencies.js`.
+For this example, we won't use any folder structure. Instead Wes will show you how to do it with a flat file structure.
 
-Let's take our entire `currencies` object and paste it in there. It is a big enough object that Wes would give it it's own file.
+Within the `79 - Currency Refactor` folder create a file called `currencies.js`.
 
-```
+Within that file, paste the entire `currencies` object. It is a big enough object that Wes would give it it's own file.
+
+```js
 //currencies.js
 
 const currencies = {
-  USD: 'United States Dollar',
-  AUD: 'Australian Dollar',
-  BGN: 'Bulgarian Lev',
-  BRL: 'Brazilian Real',
-  CAD: 'Canadian Dollar',
-  CHF: 'Swiss Franc',
-  CNY: 'Chinese Yuan',
-  CZK: 'Czech Republic Koruna',
-  DKK: 'Danish Krone',
-  GBP: 'British Pound Sterling',
-  HKD: 'Hong Kong Dollar',
-  HRK: 'Croatian Kuna',
-  HUF: 'Hungarian Forint',
-  IDR: 'Indonesian Rupiah',
-  ILS: 'Israeli New Sheqel',
-  INR: 'Indian Rupee',
-  JPY: 'Japanese Yen',
-  KRW: 'South Korean Won',
-  MXN: 'Mexican Peso',
-  MYR: 'Malaysian Ringgit',
-  NOK: 'Norwegian Krone',
-  NZD: 'New Zealand Dollar',
-  PHP: 'Philippine Peso',
-  PLN: 'Polish Zloty',
-  RON: 'Romanian Leu',
-  RUB: 'Russian Ruble',
-  SEK: 'Swedish Krona',
-  SGD: 'Singapore Dollar',
-  THB: 'Thai Baht',
-  TRY: 'Turkish Lira',
-  ZAR: 'South African Rand',
-  EUR: 'Euro',
+  USD: "United States Dollar",
+  AUD: "Australian Dollar",
+  BGN: "Bulgarian Lev",
+  BRL: "Brazilian Real",
+  CAD: "Canadian Dollar",
+  CHF: "Swiss Franc",
+  CNY: "Chinese Yuan",
+  CZK: "Czech Republic Koruna",
+  DKK: "Danish Krone",
+  GBP: "British Pound Sterling",
+  HKD: "Hong Kong Dollar",
+  HRK: "Croatian Kuna",
+  HUF: "Hungarian Forint",
+  IDR: "Indonesian Rupiah",
+  ILS: "Israeli New Sheqel",
+  INR: "Indian Rupee",
+  JPY: "Japanese Yen",
+  KRW: "South Korean Won",
+  MXN: "Mexican Peso",
+  MYR: "Malaysian Ringgit",
+  NOK: "Norwegian Krone",
+  NZD: "New Zealand Dollar",
+  PHP: "Philippine Peso",
+  PLN: "Polish Zloty",
+  RON: "Romanian Leu",
+  RUB: "Russian Ruble",
+  SEK: "Swedish Krona",
+  SGD: "Singapore Dollar",
+  THB: "Thai Baht",
+  TRY: "Turkish Lira",
+  ZAR: "South African Rand",
+  EUR: "Euro",
 };
 
 export default currencies;
 ```
 
-Let's make a new file called `utils.js` and inside of that we will paste our `generateOptions` method and we will make it a named export.
+Make a new file called `utils.js` and inside of that we will paste our `generateOptions` method and make it a named export.
 
-```
+```js
 //utils.js
 export function generateOptions(options) {
   return Object.entries(options)
@@ -1102,11 +1104,11 @@ export function generateOptions(options) {
       ([currencyCode, currencyName]) =>
         `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
     )
-    .join('');
+    .join("");
 }
 ```
 
-Next we will make another file called `lib.js`. Let's move the `fetchRates` and `convert` functions to that file.
+Next make another file called `lib.js`. Move the `fetchRates` and `convert` functions to that file.
 
 ```js
 //lib.js
@@ -1135,9 +1137,9 @@ export async function convert(amount, from, to) {
 }
 ```
 
-Let's take the next function `formatCurrency` and put it in the `utils.js` file like so:
+Take the next function `formatCurrency` and put it in the `utils.js` file like so 👇
 
-```
+```js
 //utils.js
 export function generateOptions(options) {
   return Object.entries(options)
@@ -1145,19 +1147,19 @@ export function generateOptions(options) {
       ([currencyCode, currencyName]) =>
         `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
     )
-    .join('');
+    .join("");
 }
 export function formatCurrency(amount, currency) {
-  return Intl.NumberFormat('en-US', {
-    style: 'currency',
+  return Intl.NumberFormat("en-US", {
+    style: "currency",
     currency,
   }).format(amount);
 }
 ```
 
-We have `handleInput` which is a handler so let's make a new file `handlers.js` and add that there.
+Next there is `handleInput` which is a handler, so make a new file called `handlers.js` and add that there.
 
-```
+```js
 export sync function handleInput(e) {
   const rawAmount = await convert(
     fromInput.value,
@@ -1168,9 +1170,9 @@ export sync function handleInput(e) {
 }
 ```
 
-Now we are left with the following code in `money.js`.
+You should be left with the following code in `money.js`.
 
-```
+```js
 //money.js
 const fromSelect = document.querySelector('[name="from_currency"]');
 const fromInput = document.querySelector('[name="from_amount"]');
@@ -1188,52 +1190,59 @@ toSelect.innerHTML = optionsHTML;
 form.addEventListener("input", handleInput);
 ```
 
-We have our options generation which we do on page load, our initialization and then our listeners.
+Now the code that is left is only responsible for:
 
-Let's start going one by one and decide if we are going to move the rest of the code from `money.js` or not.
+- generating the options and initializing them on page load on page load
+- adding the event listeners
 
-Let's open up `index.html` in a VSCode live server and look to see if we have any errors in the console.
+Let's start by going through them one by one and deciding whether or not to move it out of `money.js`.
+
+Open up `index.html` in a VSCode live server and look to see if we have any errors in the console.
 
 ![](@attachment/Clipboard_2020-05-28-08-09-54.png) 4:07
 
 It is complaining that `generateOptions` is not defined. Let's import it.
 
-```
-import { generateOptions } from './utils.js';
+```js
+import { generateOptions } from "./utils.js";
 ```
 
-Now we get an error saying `currencies` is not defined.
+Next we get an error saying `currencies` is not defined.
 
 ![](@attachment/Clipboard_2020-05-28-08-11-02.png) 4:25
 
-Let's import currencies so we can pass it to `generateOptions`.
+Import `currencies` so we can pass it to `generateOptions`.
 
-```
-import { generateOptions } from './utils.js';
-import { currencies } from './currencies.js'
+```js
+import { generateOptions } from "./utils.js";
+import { currencies } from "./currencies.js";
 ```
 
-If you refresh the page you will see we have yet another error. This time it is complaining that it cannot find an export named `currencies`.
+WHen the page refreshes, we have yet another error. It is complaining that it cannot find an export named `currencies`.
 
 ![](@attachment/Clipboard_2020-05-28-08-12-26.png) 4:43
 
 That is because it is a default export, not a named export, so it doesn't need the curly brackets.
 
-Modify it like so: `import currencies from './currencies.js';`
+Modify it like so 👇
 
-Now when we look at the console you will see it is complaining that `handleInput` is not defined.
+```
+import currencies from './currencies.js';
+```
+
+Now the console is complaining that `handleInput` is not defined.
 
 ![](@attachment/Clipboard_2020-05-28-08-17-12.png) 4:59
 
 Let's fix that by adding `import { handleInput } from './handlers';`
 
-Now there are no more errors in the console but when we try to type in an amount, we see a reference error in the console complaining that `convert` is not defined, and it is happening in `handlers.js` on line 2.
+Finally there are no more errors in the console, until you try to type an amount into the input. When you try this you will see a reference error in the console complaining that `convert` is not defined, and it is happening in `handlers.js` on line 2.
 
 ![](@attachment/Clipboard_2020-05-28-08-18-27.png) 5:25
 
-Let's fix that by importing the `convert` function into `handlers`.
+To fix that, import the `convert` function into `handlers`.
 
-```
+```js
 import { convert } from "./lib.js";
 export sync function handleInput(e) {
   const rawAmount = await convert(
@@ -1247,17 +1256,19 @@ export sync function handleInput(e) {
 
 ![](@attachment/Clipboard_2020-05-28-08-26-55.png) 5:55
 
-Now we get another error that `fromInput` is not defined. Within `handleInput` we use the `fromInput`, `fromSelect`, `toSelect` and `toEl` variables.
+Now we get another error that `fromInput` is not defined. Within `handleInput` use the `fromInput`, `fromSelect`, `toSelect` and `toEl` variables.
 
-We also reference the function `formatCurrency` which we haven't imported. Let's import it to `handlers.js` like so `import { formatCurrency } from "./utils";`
+We also reference the function `formatCurrency` which we haven't imported.
 
-We need all those elements now, and rather than pass them in as an argument to the function, let's put them in their own module.
+Import it to `handlers.js` like so `import { formatCurrency } from "./utils";`
+
+We need all those elements, and rather than pass them in as an argument to the function, let's put them in their own module.
 
 Create a new file called `elements.js`.
 
-Go into `money.js` and take all our selectors and move them to our new `elements.js` file. Let's add the export keyword infront of each.
+Go into `money.js` and take all the selectors and move them to the new `elements.js` file. Add the export keyword in front of each like so 👇
 
-```
+```js
 //elements.js
 export const fromSelect = document.querySelector('[name="from_currency"]');
 export const fromInput = document.querySelector('[name="from_amount"]');
@@ -1279,7 +1290,7 @@ If you refresh the page, we have an error `fromSelect` is not defined.
 
 Let's first go into `handlers` and import those elements.
 
-```
+```js
 import { convert } from "./lib.js";
 import { formatCurrency } from "./utils.js";
 import { fromInput, fromSelect, toSelect, toEl } from "./elements.js";
@@ -1294,7 +1305,7 @@ export async function handleInput(e) {
 }
 ```
 
-Now lets tackle the `fromSelect` is not defined bug in `money.js` line 11.
+Let's tackle the `fromSelect` is not defined issue happening in `money.js` on line 11.
 
 ![](@attachment/Clipboard_2020-05-28-14-55-41.png) 7:44
 
@@ -1319,15 +1330,15 @@ toSelect.innerHTML = optionsHTML;
 form.addEventListener("input", handleInput);
 ```
 
-Now when we refresh, we are getting an error that ratesByBase is not defined.
+When the page is now refreshed, we are getting an error that ratesByBase is not defined.
 
 ![](@attachment/Clipboard_2020-05-28-17-12-41.png) 8:07
 
 Our `endpoint` and `ratesByBase` variables need to go in our `lib.js` file.
 
-Let's copy those over to the lib.js file.
+Copy those over to the lib.js file.
 
-```
+```js
 //lib.js
 const endpoint = "https://api.exchangeratesapi.io/latest";
 const ratesByBase = {};
@@ -1357,7 +1368,7 @@ export async function convert(amount, from, to) {
 }
 ```
 
-Now if you refresh the page, you will see that it is now working! Feel free to play around with the app to test it.
+When the page is refreshed, you will see that it is now working! Feel free to play around with the app to test it.
 
 That was simpler than Wes expected -- he thought dealing with the `ratesByBase` variable would be tricky because we are updating it.
 
@@ -1365,15 +1376,17 @@ However, the beauty of module scope is that inside of the module, we can create 
 
 The only gotcha about these modules is that if you are on a server, the `ratesByBase` will be shared by every request that comes in which may or may not be what you want.
 
-Wes has ran into an issue where Wes was storing data in one module that was being overwritten by multiple users. If that is the case, you need to get into sessions or scope it to each funciton but in our case, and most cases ,this is fine.
+Wes has ran into an issue where Wes was storing data in one module that was being overwritten by multiple users. If that is the case, you need to get into sessions or scope it to each function but in our case, and most cases ,this is fine.
 
 We have refactored the entire app into modules, which makes it a bit more organized to work with and more modular.
+
+### Bootstrap / App Init Functions
 
 One more thing Wes wants to show us is a situation where we might take the form element and put it into a bootstrap or app init function. What does that mean?
 
 All of this code in `money.js` runs on page load.
 
-```
+```js
 //when the page loads, this code runs
 const form = document.querySelector(".app form");
 
@@ -1385,9 +1398,11 @@ toSelect.innerHTML = optionsHTML;
 form.addEventListener("input", handleInput);
 ```
 
-Sometimes you might want to delay the running of what happens on page load. If that is the case, what we would do is take all that logic from `money.js` and go to `lib.js` and make another function.
+Sometimes you might want to delay the running of what happens on page load.
 
-```
+If that is the case, what we would do is take all that logic from `money.js` and go to `lib.js` and make another function like so 👇
+
+```js
 //lib.js
 export function init() {
   // when the page loads, this code runs
@@ -1402,17 +1417,19 @@ export function init() {
 }
 ```
 
-We also need to import `fromSelect` and `toSelect`. Add the import below the other imports at the top of `libs.js`
+We also need to import `fromSelect` and `toSelect`.
 
-```
+Add the following import 👇statement to the other imports at the top of `libs.js`.
+
+```js
 import { fromSelect, toSelect } from "./elements.js";
 ```
 
-Now if you try to play with the app, nothing will happen because nothing has started.
+If you try to play around with the app now, nothing happens because no code has started.
 
-If we go back to `money.js`, we can now import that `init` function and start the app.
+To fix that go back to`money.js`, and import that `init` function and use it to start the app.
 
-```
+```js
 import { generateOptions } from "./utils.js";
 import currencies from "./currencies.js";
 import { handleInput } from "./handlers.js";
@@ -1428,7 +1445,7 @@ If you refresh the page now, you will see the following error complaining that `
 
 We need to go to `lib.js` and import `generateOptions`.
 
-```
+```js
 import { fromSelect, toSelect } from "./elements.js";
 import { generateOptions } from "./utils.js";
 ```
@@ -1439,7 +1456,7 @@ Now if we refresh it is complaining about `currencies` not being defined.
 
 What we can do is go to `money.js` and take all our import statements except for the `init` import and move them to `lib.js`.
 
-```
+```js
 import { fromSelect, toSelect } from "./elements.js";
 import { generateOptions } from "./utils.js";
 import currencies from "./currencies.js";
@@ -1450,13 +1467,15 @@ Wes' ESLint is complaining about the `handleInput` import. The error says "Depen
 
 ![](@attachment/Clipboard_2020-05-28-17-29-33.png) 12:39
 
-If you look at our `handlers.js`, we are importing `convert` from there from `lib`. So both files require each other. That could cause you to end up with a situation where they require each other and it gets out of control. For our purposes, it is working, but let's fix that anyway.
+If you look at our `handlers.js`, we are importing `convert` from there from `lib`. So both files require each other. That could cause you to end up with a situation where they require each other and it gets out of control.
 
-Let's create one more file called `init.js`
+For our purposes, it is working, but let's fix that anyway.
 
-Let's take our `init` function and all the imports we added out of `lib.js` and put it in our `init.js` file instead.
+Create one more file called `init.js`
 
-```
+Take the `init` function and all the imports added out of `lib.js` and put it in our `init.js` file instead.
+
+```js
 //init.js
 
 import { fromSelect, toSelect } from "./elements.js";
@@ -1475,28 +1494,26 @@ export function init() {
 
   form.addEventListener("input", handleInput);
 }
-
 ```
 
-Now in `money.js` let's modify the code to import from `init.js` instead.
+In `money.js`, modify the code to import from `init.js` instead.
 
-```
+```js
 //money.js
 import { init } from "./init.js";
 
 init();
-
 ```
 
-Now if you refresh the page and play with the app, you will see that it is working!
+If you refresh the page and play with the app, you will see that it is working!
 
-We could go one step further and not even run the code unless someone clicks a button or hovers over it.
+You could go one step further and not even run the code unless someone clicks a button or hovers over it.
 
-To do that let's select the div with class of app within `money.js`.
+To do that, select the div with class of app within `money.js`.
 
-We will pass the event listener out `init` function to call, and also pass the options object to the event listener to specify we only want it to run once.
+Pass the event listener to our `init` function to call, and pass it the options object to the event listener to specify we only want it to run once, like so 👇
 
-```
+```js
 import { init } from "./init.js";
 
 const app = document.querySelector(".app");
@@ -1504,13 +1521,15 @@ const app = document.querySelector(".app");
 app.addEventListener("mouseenter", init, { once: true });
 ```
 
-Now when the page loads, it just says "Select a Currency" until you hover over the form, and then the code initializes and the base currency is switched out to USD.
+When the page loads, it should just say "Select a Currency" until you hover over the form, and then the code initializes and the base currency is switched out to USD.
 
 ![](@attachment/Clipboard_2020-05-28-17-35-43.png) 14:26
 
 Now our entry point has almost nothing in it because it is in a separate file.
 
-Is that okay? Yes, some people like their entry point to have a little code but you could have also left all the code in `money.js` as well and it still would have worked!
+Is that okay?
+
+Yes, some people like their entry point to have a little code but you could have also left all the code in `money.js` as well and it still would have worked!
 
 ---
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-07-03T19:27:54.162Z'
+modified: '2020-07-03T22:51:09.935Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -366,33 +366,37 @@ You can scroll through and find different APIs for all different things.
 
 In this video we are going to build an app that searches for a recipe based on a keyword and then we will display the data.
 
-Instead of Wes using a perfect API and showing you an example with no hurdles, we will use a real API. Working with APIs can be frustrating so Wes wants to go through all those hurdles together so when you try it yourself, you will know how to approach these common pitfalls.
+We will use a real API in this example so Wes can show us how to overcome common hurdles you will face when working with APIs. Working with APIs can be frustrating so it will be helpful to know how to approach the common pitfalls when you try it yourself. 
 
-We will be using www.recipepuppy.com.
+We will be using the API www.recipepuppy.com.
 
 ![](@attachment/Clipboard_2020-05-22-07-49-00.png) 00:52
 
-The way that it works if you look at the docs is you go to the url and you pass `i` which is ingredients, you pass `q` which is your omelet and then you pass `p` which is your page. You can see that on the homepage, they have additional parameters you can pass.
+ If you look at the docs, the way this API works is you go to the url and pass `i` (which is ingredients), pass `q` ( which is your omelet) and pass `p` (which is your page). On the homepage, you can see that there are additional parameters you can pass.
 
-http://www.recipepuppy.com/api/?i=onions,garlic&q=omelet&p=3
+`http://www.recipepuppy.com/api/?i=onions,garlic&q=omelet&p=3`
+
+### Query Parameters
 
 ![](@attachment/Clipboard_2020-05-22-07-54-59.png) 1:08
 
-`i`, `q` and `p` are all parameters. Let's talk about parameters.
+`i`, `q` and `p` are all parameters.  Let's talk about **parameters**.
 
 Sometimes when you got to a URL, you see these question marks on the end.
-Even when you submit a form they are there.
+
+Even when you submit a form they are there. 👇
+
 ![](@attachment/Clipboard_2020-05-22-07-59-32.png) 1:22
 
-Those are referred to as **query params**. Let's break down the ones from the url above.
+Those are referred to as **query parameters** or **query params**. Let's break down the query params from the url above.
 
-```
+```js
 ?i=onions,garlic&q=omelet&p=3
 ```
 
-The query parameters portion of a url will always start with a question mark. So the first parameter will always start with a question mark and then the additional parameters are separated by an ampersand `&`. That is how you can multiple parameters.
+The query parameters portion of a url will _always start with a question mark_ and is followed by the first parameter. Additional parameters are separated by an ampersand `&`. That is how you can pass multiple parameters.
 
-```
+```js
 ?
 i=onions,garlic
 &
@@ -401,21 +405,29 @@ q=omelet
 p=3
 ```
 
-We are passing multiple ingredients to the `i` parameter. Using commas to separate the multiple items is not a standard thing, it is just how that API works. `q` is the recipe you are looking for in this example and `p` is page, which is how this API handles pagination.
+In the query string above...
 
-The parameters are never standard, every API implements them a little bit differently so you always have to go and read the docs.
+- `i` is being passed multiple ingredients. _Note: using commas to separate the multiple items is not a standard thing, it is just how that API works._ 
 
-For this lesson we will be working out to the `/excercises/75 - CORS and Recipes/` directory.
+- `q` is the recipe you are looking for.
 
-![](@attachment/Clipboard_2020-05-22-08-10-11.png) 2:31
+- `p` is page, which is how this API handles pagination.
 
-We will have a form where the use can type in a keyword and that will return a list of recipes as well as the recipe ingredients and thumbnails as well.
+Parameters are never standard, every API implements them a little bit differently so you always have to go and read the docs.
+
+We will be working out of the `/exercises/75 - CORS and Recipes/` directory. 
+
+This example will include a form with an input where the user can type a keyword, and they should be returned a list of recipies, their ingredients and a thumbnail image.  
 
 We won't worry about the UI just yet, let's just getting it working.
 
-In the empty `scripts.js` file, let's add our base url. Then create an async function that takes in a parameter and fetches that from the endpoint, and we will call that function on runtime.
+![](@attachment/Clipboard_2020-05-22-08-10-11.png) 2:31
 
-```
+In the empty `scripts.js` file, let's add the base url. 
+
+Next, create an async function that takes in a parameter and fetches that from the endpoint, and call it on runtime.
+
+```js
 const baseEndpoint = "http://www.recipepuppy.com/api"
 
 async function fetchRecipes(query){
@@ -425,7 +437,9 @@ async function fetchRecipes(query){
 fetchRecipes('pizza');
 ```
 
-Now let's fetch some data. If we refresh the page and go to our dev tools to see what we are working with, you will see we get an error.
+Let's start fetching the data. 
+
+Open up the dev tools and then refresh the page. You should see the following error 👇
 
 ![](@attachment/Clipboard_2020-05-23-08-46-00.png) 4:30
 
@@ -437,77 +451,105 @@ If you look at the network tab, and filter for XHR, you will see the request but
 
 ![](@attachment/Clipboard_2020-05-23-08-49-00.png) 4:57
 
-What happened there is the browser blocked it because of something called **CORS**. What does CORS mean? It stands for Cross Origin Resource Sharing.
+### CORS
 
-Let's break down what that means piece by piece.
+What happened there is the browser blocked it because of something called **CORS**. 
 
-The CO stands for cross origin. What are origins? Take the two websites: wesbos.com and github.com. Those are both origins. Domain names are origins.
+#### What is CORS? 
 
-Now if we want to share data between the two, by default you cannot. Onlyt sharing data between the same domain name is allow, so you can share data from wesbos.com to wesbos.com/about for example.
+CORS stands for **Cross Origin Resource Sharing**. The "CO" in CORS stands for **cross origin**. 
 
-As soon as you go cross origin from one domain name to another, then you start getting in trouble because that is a security issue in the browser. Let's say you were logged into your bank at bank.com while you were also running code from wesbos.com.
+What are **origins**? Take the two websites: wesbos.com and github.com. Those are both origins. Domain names are origins.
 
-The javascript you are running on wesbos.com shoul not be able to reach into bank.com. That would be a security issue. So by default, websites cannot talk to each other from one domain to another.
+If you want to share data between two origins like wesbos.com and github.com, by default you cannot. 
 
-That is a pretty valid use case however, having a website like wesbos.com from which we want to pull data another websites like from recipepuppy.com.
+You are only permitted to share data between the same domain name. For example it would be fine to share data from wesbos.com to wesbos.com/about. 
 
-How can we get those two websites to talk? What has to happen is the website that the data is being pulled from has to implement something called a CORS policy. A CORS policy is something that happens on the server (it must happen on the server, there is nothing you can do in the browser about this).
+As soon as you go cross origin from one domain name to another, then you start getting in trouble because that is a security issue in the browser. 
 
-On the server there is a CORS poicy that says wesbos.com is allows to ask for dara and we will return it. Recipepuppy.com has to say these are the domain names that are allowed to transfer data from one to another, and it has to happen on the server of the person that has the data.
+For example, let's say you were logged into your bank at bank.com while you were also running code from wesbos.com. The javascript you are running on wesbos.com should not be able to reach into bank.com, because that would be a security issue. So by default, websites cannot talk to each other from one domain to another.
 
-In order for us to initially get involved with CORS, we need an origin before we can go ahead and use it. So if we look at the error we got in the console, it says
+### CORS policy
+What happens if you do need to pull data from one website to another, like we need to do with recipepuppy.com? How can we get those two websites to talk?
+
+In order for the two websites to talk, the website from which the data is being pulled has to implement something called a **CORS policy**
+
+A **CORS policy** is something that happens on the server, there is nothing you can do in the browser about this.
+
+The server will have a CORS poicy that has some rules such as "wesbos.com is allowed to ask for data and we will return it". 
+
+In our example, the recipepuppy.com server must specify which domain names are allowed to transfer data from it, and that has to happen on the server of the person that has the data.
+
+Before we can get use CORS, we need an origin. If you look at the error we got in the console, it says 👇
 
 > origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
 
-We are getting that error because we are runnign the code right off the file access. The first thing you do when you see that issue is say "okay, I can no longer run this from the file, I need to run it from a server. So the first step we need to do is get the server up and running, so we can at least see if that fixes it (in most cases, it will).
+That error is occuring because we are accessing and running the code off of file access. 
 
-Now let's go into the terminal and navigate to our `exercises/75 - CORS and Recipes/` directory.
+Whenever you see an error like the one above, the first thing you need to do is no longer run the code from the file. Instead, you need to run it on a server. 
 
-From here we need a server to use. This could be any server, you could use browsersync, upload the code to CodePen, in our case, we are going to use Parcel which is a quick little server.
+Let's get a server up and running, so we can see if that fixes the problem (in most cases, it will).
 
-Let's get Parcel running by running `npm init` in the console.
+In the terminal, navigate to our `exercises/75 - CORS and Recipes/` directory.
+
+Let's select a server to use, which could be any server. You could use: 
+- you could use browsersync
+- upload the code to CodePen
+- use Parcel
+
+Let's start by gettin Parcel running. In the terminal, run the `npm init` command. 
 
 ![](@attachment/Clipboard_2020-05-23-09-09-31.png) 9:17
 
-You need to put a package name which you can call anything, Wes chose `dogrecipes` and then you just keep hitting enter in the console when you are prompted for a few questions like you see above.
+You need to put a package name (which you can call anything, Wes chose `dogrecipes`) and then you just keep hitting enter to accept the default for the next few questions, as shown aboev. 
 
-Once that is finished installing, you can type `npm install parcel-bundler` into the terminal.
+Once the package is finished installing, run `npm install parcel-bundler` in the terminal to install Parcel. 
 
-Once that is installed, you should see a `packages.json` file in your folder (there will also be a lock file). This packages file is where we can go and change our scripts, just like we did before. Open the file and modify the script start to be the same as you see below:
+Once that is complete, there should be a `packages.json` file in your folder (there will also be a `packages-lock.json` file). This packages file is where we can go and change our scripts, just like we have in previous lessons. 
 
-```
+Open the file and modify the scripts start command like so 👇
+
+```json
  "scripts": {
     "start": "parcel index.html"
   },
 ```
 
-Now when we run `npm start`, it will open up localhost:1234 or another port.
+When we run `npm start`, you should see a message in the terminal that a server has been started on localhost:1234 or another port. 
 
 ![](@attachment/Clipboard_2020-05-23-09-14-45.png) 10:04
 
-Let's open that url and look at the console. You will notice we still have another issue. This is issue #2.
+Open that server in the browser and take a look at the error we are now getting in the console. 👇
 
 ![](@attachment/Clipboard_2020-05-23-09-15-26.png) 10:11
 
-We are getting this errror "regeneratorRuntime is not defined". This issue has nothing to do with CORS. You yourself may not see this issue, but instead see another CORS issue. If that is the case, skip ahead to that.
+It is complaining that "regeneratorRuntime is not defined". 
 
-#### regeneratorRuntime error
+This issue has nothing to do with CORS. _(Note: If you do not have this issue, and instead see another CORS issue, skip ahead to that section)
 
-If you do run into this issue, Wes will explain it. `regeneratorRuntime` is a thing called Babel. Babel takes your javascript, with things like `async/await` and backticks, which are relatively new to Javascript. Sometimes you need to support browswers that are old and don't know about things like `async/await` etc.
+#### Babel
 
-Babel will take your modern javascript code and transpile it into Javascript that is runnable on older browseres like IE or older Safari. That will give you Javascript that works the same way, it has just been transpiled into the equivalent in older Javascript with callbacks and things like that.
+`regeneratorRuntime` is a thing called **Babel**. Some Javascript functionality, like async/await and backticks are relatively new to Javascript, and older browsers do not support those functionalities.  However, sometimes you need to support older browsers. 
 
-The weird thing about Babel is it wants to compile `async/await`, even though in most cases you don't need to be cause it's available in almost all browsers and has been for a few years.
+Babel helps with this. 
 
-So we need to tell Babel not to transpile `async/await` because we don't need that transpiled. The way we can get around that is to go to the `package.json` and somewhere in there we will add a `broswerslist` property to the JSON file.
+It will take your modern javascript code and transpile it into Javascript that is runnable on older browseres like IE or older Safari. That will give you Javascript that works the same way. It has just been transpiled into the equivalent in older Javascript with callbacks and things like that.
+
+The weird thing about Babel is it wants to compile async/await, even though in most cases you don't need to because it is available in almost all browsers and has been for a few years.
+
+#### Browserlist
+
+Since it's unnecessary, we need to tell Babel not to transpile async/await. The way we can get around that is to go to the `package.json` and somewhere in there we will add a `browerslist` property to the JSON file.
 
 ![](@attachment/Clipboard_2020-05-23-09-45-11.png) 12:40
 
-browserslist is a package that allows you to define which browsers you are currently supporting. There is a huge list of filtering options like less than 1% usage, blackberry 7, etc. You can just write them in plain english and that will convert them. That is what tells babel what to transpile, and what to just leave as is.
+`browserslist` is a package that allows you to define which browsers you are currently supporting. 
 
-Note: Within `packages.json` you must use double quotes instead of single because it is JSON.
+There is a huge list of filtering options like less than 1% usage, blackberry 7, etc. You can just write them in plain english and that will convert them. That is what tells babel what to transpile, and what to just leave as is.
 
-```
+_Note: Within `packages.json` you must use double quotes instead of single because it is JSON._
+
+```json
  "browserslist": [
     "last 1 chrome versions"
   ],
@@ -515,7 +557,7 @@ Note: Within `packages.json` you must use double quotes instead of single becaus
 
 Wes likes to use the filter above because it tricks babel into thinking you are supporting the latest and greatest and then it won't actually transpile it.
 
-Now when you look at the page the error should be gone, but you may see other errors which is fine.
+Now when you look at the page the error should be gone (you may see other errors which is fine).
 
 ![](@attachment/Clipboard_2020-05-23-09-48-29.png) 13:24
 
@@ -535,15 +577,19 @@ As you can see, even though we are now running our code on a server instead of a
 
 It seems like recipepuppy is complaining and saying, nope, you cannot use this in the browser.
 
-Let's take a look at the docs because sometimes they will offer solutions such as use a callback. There is nothing on the page that suggests that we should or shouldn't use it with Javascript, which is a bit of a bummer.
+Let's take a look at the docs because sometimes they will offer solutions such as use a callback. However, if you take a look yourself, you will see there is nothing on the page that suggests that we should or shouldn't use it with Javascript, which is a bit of a bummer.
 
 So what are you supposed to do if the CORS policy doesn't work or they don't have a CORS policy on it? It's not like they are explicitly blocking websites from accessing it, it's more likely they just have never implemented a CORS policy.
 
-If you look at the website, you can see it has a link to "Recipe Puppy for iPhone", and if you were using this in an iPhone app you are not restricted to CORs because there are no multiple tabs open and things like that.
+If you look at the website, you can see it has a link to "Recipe Puppy for iPhone", and if you were using this in an iPhone app, you are not restricted to CORS because there are no multiple tabs open and things like that.
 
-So what is the solution? The solution is that the request would work if it was made from anything other than a browser.
+#### Proxy
 
-If we were to request the same data from the API using Node.js, php, ruby on rails or anything else, than it is totally allowed.
+So what is the solution? 
+
+The solution is that the request would work if it was made from anything other than a browser.
+
+If we were to request the same data from the API using Node.js, PHP, Ruby on Rails or anything else, than it is totally allowed.
 
 So the solution is instead of going directly from localhost to recipepuppy, we need to put something in between called a **proxy**.
 
@@ -555,13 +601,15 @@ To find one, just google CORS proxy.
 
 ![](@attachment/Clipboard_2020-05-23-18-39-22.png) 17:28
 
-Wes has found that the `https://cors-anywhere.herokuapp.com` one works the best.
+Wes has found that the https://cors-anywhere.herokuapp.com one works the best.
 
 ![](@attachment/Clipboard_2020-05-23-18-40-20.png) 17:37
 
 If you go to the website you will just see the text above, but the way that it works if you take the url and paste it infront of your urls and that will proxy that data for you.
 
-```
+Modify the code like so 👇
+
+```js
 const baseEndpoint = "http://www.recipepuppy.com/api";
 
 async function fetchRecipes(query) {
@@ -573,13 +621,13 @@ async function fetchRecipes(query) {
 fetchRecipes("pizza");
 ```
 
-To be absolutely clear here: you are sending you data through a random web server that is controlled by who knows who. Never use this for something that has sensitive data like passwords, emails or login information. If that is the case, you have to run your own server.
+**To be absolutely clear here: you are sending you data through a random web server that is controlled by who knows who.** Never use this for something that has sensitive data like passwords, emails or login information. If that is the case, you have to run your own server.
 
 In our case, we are just using it to learn and look up recipes so it doesn't matter that someone random may have access to that data.
 
-Let's refactor the code slightly to the put proxy url in it's own variable like so:
+Let's refactor the code slightly to the put proxy url in it's own variable like so 👇
 
-```
+```js
 const baseEndpoint = "http://www.recipepuppy.com/api";
 const proxy = "https://cors-anywhere.herokuapp.com/";
 
@@ -590,15 +638,15 @@ async function fetchRecipes(query) {
 fetchRecipes("pizza");
 ```
 
-Now if we refresh the page, the error should be gone. Let's also console log the data.
+Now when you refresh the page, the error should be gone. Let's also console log the data.
 
 ![](@attachment/Clipboard_2020-05-23-18-44-58.png) 19:07
 
-Now that we finally have the data working, we need to loop through them and show them based on what the user has searched for.
+Now that we finally have the data working, we need to loop through the data and  show them based on what the user has searched for.
 
 Let's make an event listener and handler for the submit event when the user enters a keyword and hits the submit button.
 
-```
+```js
 function handleSubmit(event){
   event.preventDefault();
   console.log(event.currentTarget);
@@ -614,17 +662,19 @@ To grab the value of the query we can modify the code to use `event.currentTarge
 
 If you were to refresh the page, you should see pizza logged.
 
-Next let's add some sort of loading screen because we don't want the user searching for many things over and over again while the API is still searching.
+Next, we will some sort of loading screen because we don't want the user searching for many things over and over again while the API is still searching.
 
-There are a couple of ways to do that. The easiest is if you go to the input button and add a `disabled` attribute. That will stop the user from actually clicking it.
+There are a couple of ways to do that. 
 
-```
+The easiest is if you go to the input button and add a `disabled` attribute. That will stop the user from actually clicking it.
+
+```html
 <button disabled type="submit">Submit<button>
 ```
 
 There is no visual different there, so let's add a style for buttons with the disabled attribute
 
-```
+```css
 button[disabled] {
   opacity:0.2;
 }
@@ -638,11 +688,11 @@ Another trick you can do is take a fieldset and wrap all your inputs in that fie
 
 Either one is totally fine, as long as the user is prevented from making multiple requests at the same time.
 
-Let's add a name attribute to the button of `name="submit"`.
+Add a name attribute to the button of `name="submit"`.
 
-Now in our script file we can access the submit button within the `handleSubmit` function, disable it, and then call `fetchRecipes` and pass it what the user searched.
+Now in the script file we can access the submit button within the `handleSubmit` function, disable it, and then call `fetchRecipes` and pass it what the user searched.
 
-```
+```js
 function handleSubmit(event){
   event.preventDefault();
   const form = event.currentTarget;
@@ -653,9 +703,9 @@ function handleSubmit(event){
 }
 ```
 
-Now let's modify our `fetchRecipes` function to return the data instead of just logging it.
+Next, modify the `fetchRecipes` function to return the data instead of just logging it.
 
-```
+```js
 async function fetchRecipes(query) {
   const res = await fetch(`${proxy}${baseEndpoint}?q=${query}`);
   const data = await res.json();
@@ -663,9 +713,9 @@ async function fetchRecipes(query) {
 }
 ```
 
-Next we can await the fetchRecipes by marking our `handleSubmit` function as async.
+NNow we can await the fetchRecipes by marking our `handleSubmit` function as async.
 
-```
+```js
 async function handleSubmit(event) {
   event.preventDefaut();
   console.log(form.query.value);
@@ -679,9 +729,9 @@ async function handleSubmit(event) {
 }
 ```
 
-Now when we submit the form, it should disable the button, fetch the recipes, log the recipes and the renable the button.
+When we submit the form now and search for something like "chicken", it will disable the button, fetch and log the recipes, and finally renable the button.
 
-Now if you were to search something like "chicken" the form would submit, the button will be disabled for a minute and then in the console you would see the results of recipes with chidekn in them and the button would be reenabled.
+ you were to search something like "chicken" the form would submit, the button will be disabled for a minute and then in the console you would see the results of recipes with chidekn in them and the button would be reenabled.
 
 ![](@attachment/Clipboard_2020-05-24-20-07-52.png) 24:45
 

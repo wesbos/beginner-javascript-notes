@@ -2786,73 +2786,75 @@ console.log(sameValues);
 
 ![](@attachment/Clipboard_2020-05-31-15-53-01.png) 25:10
 
-As you can see, that returns to us an array containing the values that exist in both. 
+As you can see, that returns to us an array containing the values that exist in both.
 
-There is also `cloneDeep`. 
+There is also `cloneDeep`. We have learned about how to use the spread operator or `Object.assign()`, but you can also do `cloneDeep`, and tell it how many levels deep you would like to clone.
 
-We have learned about how to use the spread operator or `Object.assign()`, but you can also do `cloneDeep`, and tell it how many levels deep you would like to clone.
+There is also `eq` which you can use to check if two values have equal values.
 
-There is also `eq` which you can use to check if two values, two objects have equal values.
+What about checking if two objects have equal values?
 
-Let's say we have the following two objects, and we want to check if they are equal using `===`. What will it return?
+For example, let's say we have two objects and we want to check if they are equal. If we use `===`, what will it return?
 
-```
-const person1 = { name: 'wes'};
-const person2 = { name: 'wes'};
+```js
+const person1 = { name: "wes" };
+const person2 = { name: "wes" };
 console.log(person1 === person2);
 ```
 
-It will return false.
-
 ![](@attachment/Clipboard_2020-05-31-15-56-55.png) 26:09
 
-Why is that? That is because `person1` and `person2` are not the same object. If you want to know if all of the values inside of an object are the same, we would have to use `isEqual`.
+It will return false. Why is that?
 
-Let's import it.
+That is because `person1` and `person2` are not the same object. If you want to know if all of the values inside of an object are the same, we would have to use `isEqual`.
 
+Import it like so 👇
+
+```js
+import { intersection, isEqual } from "lodash";
 ```
-import { intersection, isEqual } from 'lodash';
-```
 
-Now we can use it like so `console.log(isEqual(person1, person2))`.
+Within the file, add the following code 👉 `console.log(isEqual(person1, person2))`.
 
 ![](@attachment/Clipboard_2020-05-31-15-58-57.png) 27:13
 
-As you can that gives us true. So that will do a check on all of the values.
+As you can see, it returns true because the `isEqual` method performs a check on all of the values.
 
 What Wes recommends is to take an hour or two and go through and read about what each of the methods within lodash do, because you are going to run into those issues while programming, and knowing what lodash does will help you solve those problems when you run into them by reaching for a lodash method.
+
+#### await-to-js
 
 The last one is await-to-js.
 
 ![](@attachment/Clipboard_2020-05-31-16-01-37.png) 29:25
 
-This library allows you to handle errors a bit differently. Let's start by importing it.
+This library allows you to handle errors a bit differently. Start by importing it.
 
+```js
+import to from "await-to-js";
 ```
-import to from 'await-to-js';
-```
 
-Note: you may have noticed that when importing these modules that we `npm installed` we don't need to add the `.js` extension. That is because they are module that have been npm installed.
+_Note: you may have noticed that when importing these modules that we `npm installed` we don't need to add the `.js` extension. That is because they are module that have been npm installed._
 
-Let's make a function that resolves if your name is Wes and errors out if your name is anything else.
+We will now make a function that resolves if your name is Wes and errors out if your name is anything else.
 
-```
-function checkIfNameIsCool(firstName){
-  return new Promise(function(resolve, reject){
-      if(firstName === 'Wes'){
-        resolve('Cool name');
-        return;
-      }
-      reject(new Error('Not a cool name'));
-  })
+```js
+function checkIfNameIsCool(firstName) {
+  return new Promise(function (resolve, reject) {
+    if (firstName === "Wes") {
+      resolve("Cool name");
+      return;
+    }
+    reject(new Error("Not a cool name"));
+  });
 }
 ```
 
-Now let's make another function called `checkName` that will check on page load.
+Make another function called `checkName`, which will check the name on page load.
 
-```
-async function checkName(){
-  const nameDesc = await checkIfNameIsCool('Wes');
+```js
+async function checkName() {
+  const nameDesc = await checkIfNameIsCool("Wes");
   console.log(nameDesc);
 }
 
@@ -2865,9 +2867,9 @@ If you refresh the page, you will see that it says "Cool name".
 
 What if you were to put int a name that isn't cool, like "snickers"?
 
-```
-async function checkName(){
-  const nameDesc = await checkIfNameIsCool('snickers');
+```js
+async function checkName() {
+  const nameDesc = await checkIfNameIsCool("snickers");
   console.log(nameDesc);
 }
 
@@ -2876,18 +2878,22 @@ checkName();
 
 ![](@attachment/Clipboard_2020-05-31-16-14-47.png) 31:58
 
-We get an error. How would we catch that? We ccould use any of the methods that we learned earlier, but what this `await-to` module does is you can wrap your promise based function in `awaut to`, and what it will do is it will return a response. Let's just log the response to see what we are working with for now.
+We get an error. How would we catch that?
 
-```
-async function checkName(){
-  const response = await to(checkIfNameIsCool('snickers'));
+We could use any of the methods that we learned earlier, but the `await-to` module allows us to wrap our promise based function in `await to`, and which will in return a response.
+
+For now, log the response to see what we are working with. 👇
+
+```js
+async function checkName() {
+  const response = await to(checkIfNameIsCool("snickers"));
   console.log(response);
 }
 ```
 
 ![](@attachment/Clipboard_2020-05-31-16-16-54.png) 32:37
 
-As you can see, we get two things back. The first is the error, the second is undefined.
+As you can see, we get 2 things back: the error and undefined.
 
 What if we switched it back to "wes" instead of snickers?
 
@@ -2895,24 +2901,23 @@ What if we switched it back to "wes" instead of snickers?
 
 Then the first thing is null, and the second thing is cool name.
 
-So `await to` will always return an array nd the first thing will always be an error, and the second thing will be your resolved value.
+So the `await to` package will always return an array and the first thing will always be an error, and the second thing will be the resolved value.
 
-So we can go ahead and destruture the response into the error and success value, and handle the error how we choose like so:
+Let's destructure the response into the error and success value, and handle the error however we choose, like so 👇
 
-```
-const [err, successValue ] = await to(checkIfNameIsCool('snickers'));
-if(err){
+```js
+const [err, successValue] = await to(checkIfNameIsCool("snickers"));
+if (err) {
   //deal with it
   console.log(err);
-}
-else {
+} else {
   console.log(successValue);
 }
 ```
 
 ![](@attachment/Clipboard_2020-05-31-16-20-20.png) 33:35
 
-That is a cool way of dealing with things. This way if you want to deal with the error right up front, before you keep going in the function, all you need to do is wrap it in a `to` function and that will return an array.
+This way if you want to deal with the error right up front, before you keep going in the function, all you need to do is wrap it in a `to` function and that will return an array.
 
 These are just a couple of Wes' favourite NPM packages. He could go on for hours showing them to us, but Wes recommends just searching for top npm packages in google or when you run into a problem, you can check if there is always a package that exists for that.
 

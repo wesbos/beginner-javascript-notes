@@ -2004,25 +2004,31 @@ Both Parcel and Webpack also do image compression which is neat.
 
 Bundlers let us ship code to a browser and have it be as performant as possible.
 
-#### Using Parcel
+### Using Parcel
 
 Wes is going to show us how to do that using Parcel. He will be using Parcel One in this lesson, but Parcel Two will work the same way.
 
-Let's go and convert both the modules for dad jokes and the currency conversion one so Wes can show us what the process is for that.
+We will begin by converting both the modules for dad jokes and currency conversion, so Wes can show us what the process is for that.
 
-Lets start with the Dad Jokes module first.
+#### Dad Jokes Module
 
-Let's open up the terminal and navigate into that exercise folder first. The first thing we need is a **package.json**. A `package.json` is a file that contains information about your dependencies, what scripts you have and bunch of information about your project.
+First we will do the Dad Jokes module.
 
-If you don't have a package.json, you can get one by typing `npm init`. We have done this a few times.
+Open up the terminal and navigate into that `exercise` folder.
+
+The first thing we need is a **package.json**.
+
+A `package.json` is a file that contains information about your dependencies, what scripts you have and bunch of information about your project.
+
+If you don't have a package.json, you can get one by typing `npm init`. We have done this a few times in the course already.
 
 ![](@attachment/Clipboard_2020-05-29-21-49-05.png) 4:18
 
-You will be prompted to answer a bunch of questions, starting with the name of the pacakage which we will call `datadjokes`, and then it asks you a bunch of other questions, but for each one we can just hit enter.
+You will be prompted to answer a bunch of questions, starting with the name of the package, which we will call `datadjokes`, and then it asks you a bunch of other questions. You can just hit enter to select the default answer for each question.
 
 ![](@attachment/Clipboard_2020-05-29-21-50-11.png) 4:37
 
-```
+```json
 {
   "name": "dadjokes",
   "version": "1.0.0",
@@ -2035,33 +2041,35 @@ You will be prompted to answer a bunch of questions, starting with the name of t
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISC"
 }
 ```
 
-Now if we go to our package.json you will see there is all this information about our project.
+If you take a look at the `package.json` file that was generated 👆, you will see it contains all this info about our project.
 
-Now let's go back to the terminal and install our Parcel bundler.
+#### Installing Parcel
 
-Wes has showed us how to globally install it which is great when you need a quick server up and running, but for longer projects that span multiple days, it is best you install Parcel to that project as well.
+In the terminal, let's install the Parcel bundler.
 
-When you install it to the project, anyone else who downloads the source code for your project off of github, they will all use the same version of Parcel and it's easy for them to get up and running.
+In previous lessons, Wes showed us how to globally install it, which is great when you need a quick server up and running. However, for longer projects that span multiple days, it is best you install Parcel to that project as well.
 
-So in our terminal where we are navigated to our Dad Jokes Module Refactor exercise folder we will install it as a dev dependency. Type in the following command 👇
+When you install it to the project, anyone else who downloads your source code off github will also have the same version of Parcel, which makes it easy to get up and running.
 
-```
+In the terminal, navigate to the dad jokes module refactor exercise folder and install it as a **dev dependency** using the following command 👇
+
+```bash
 npm install parcel-bundler --save--dev
 ```
 
-Instead of --save-dev you could also type `-D` which is a shortform.
+Instead of `--save-dev` you could also type `-D` which is a short form.
 
-That will add Parcel as a dependency in our `package.json` under what is called **dev dependencies**. Dev dependencies are things that are not needed for the application to run, but they are needed in order for someone to work on the application.
+That will add Parcel as a **dev dependency** in our `package.json` file.
 
-THat is the difference between a dependency, something like React or Vue might be a dependency, and then a dev dependency might be the tooling that is needed in order to work on it.
+Dev dependencies are things that are not needed for the application to run, but they are needed in order for someone to work on the application. For example React or Vue is a dependency, and a dev dependency would be the tooling needed in order to work on React or Vue projects.
 
 After a couple of minutes it will finish installing and it will be listed under `devDepdencies`.
 
-```
+```json
 {
   "name": "dadjokes",
   "version": "1.0.0",
@@ -2079,18 +2087,19 @@ After a couple of minutes it will finish installing and it will be listed under 
     "parcel-bundler": "^1.12.4"
   }
 }
-
 ```
 
 ![](@attachment/Clipboard_2020-05-29-21-58-02.png) 5:54
 
-(Note: if you see Parcel 2 as your Parcel version that is fine, it will still work!)
+_(Note: if you see Parcel 2 as your Parcel version that is fine, it will still work!)_
 
-Now in order to run our local version of Parcel, we need to add an npm script that will use it. Let's call it `start`.
+#### Adding an NPM Script to package.json
 
-To run parcel, we just need to call it and then pass it our entry file which is `index.html`.
+In order to run our local version of Parcel, we need to add an npm script that will use it. We will call it `start`.
 
-```
+To run parcel, you just call it and then pass it the entry file which is `index.html`.
+
+```json
 {
   "name": "dadjokes",
   "version": "1.0.0",
@@ -2110,25 +2119,23 @@ To run parcel, we just need to call it and then pass it our entry file which is 
 }
 ```
 
-Now back in our terminal we can just type in `npm start` and that will run `parcel index.html` for us. So `npm` and then whatever the name of the script (in our case `start`), will run whatever it's value is (in this case `parcel index.html`).
+Now in the terminal, you can type `npm start` and that will run `parcel index.html` for us. You should see a message in the terminal that Parcel is running on localhost:1234.
 
 ![](@attachment/Clipboard_2020-05-29-22-05-40.png) 7:06
 
-You should see a message that Pracel is running on localhost:1234.
-
-If you refresh the page, open it up and check in the dev tools, we are getting an issue that we have run into before.
+Open up the server, and take a look at the error in the console. We have run into this issue before.
 
 ![](@attachment/Clipboard_2020-05-29-22-06-31.png) 7:12
 
-```
+```js
 handlers.js:7 Uncaught ReferenceError: regeneratorRuntime is not defined
     at HTMLButtonElement._handleClick (handlers.js:7)
     at HTMLButtonElement.handleClick (handlers.js:7)
 ```
 
-The reason for that error is we are using `async await`. To get aroun that, we need to modify our `package.json` to add a `browserslist` property like so:
+We are getting that error because we are using `async await`, and to fix this error, we need to modify our `package.json` to add a `browserslist` property like so 👇
 
-```
+```json
 {
   "name": "dadjokes",
   "version": "1.0.0",
@@ -2145,23 +2152,21 @@ The reason for that error is we are using `async await`. To get aroun that, we n
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   },
-  "browserslist": [
-    "last 1 chrome versions"
-  ]
+  "browserslist": ["last 1 chrome versions"]
 }
 ```
 
-Now you should no longer have that error.
+Now you should no longer see that error.
 
-Note: if you ever have issues with Parcel being weird where you fxied something but it doesn't seem to be fixed, open up your folder and find the `.cache` and `dist` directories. Those are two folders that are generated by Parcel. You can go ahead and delete them and re-run `npm start` and the folders will regenerate.
+_Note: if you ever have issues with Parcel being weird where you fixed something but it doesn't seem to be fixed, open up your folder and find the `.cache` and `dist` directories. Those are two folders that are generated by Parcel. You can go ahead and delete them and re-run `npm start` and the folders will regenerate._
 
-Now that we have Parcel running we can go ahead and work on the code. What is great is that Parcecl will automatically reload the changes you make, or at least try to.
+Now that Parcel is running, let's get started on the code.
 
-With Parcel, once you are done developing, it's time to go ahead and build a compiled version of your Javascript file.
+Parcel supports **hot reloading** and will automatically refresh the server whenever you make a change while developing. Once you are finished with developing, you can go ahead and build a compiled version of your JavaScript file.
 
-So when you are ready to publish your code online, you add another script in your `package.json`.
+To do that, we need to add another script in `package.json` 👇
 
-```
+```json
 {
   "name": "dadjokes",
   "version": "1.0.0",
@@ -2179,25 +2184,25 @@ So when you are ready to publish your code online, you add another script in you
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   },
-  "browserslist": [
-    "last 1 chrome versions"
-  ]
+  "browserslist": ["last 1 chrome versions"]
 }
 ```
 
-`npm start` will always look for a script called start, but for all the other scripts you need to type `npm run` before the script name. `build` is not a reserved script name, Wes just made it up.
+`npm start` will always look for a script called start, but for all the other scripts you need to type `npm run` and then the script name.
 
-In the terminal run the following command:
+_Note: `build` is not a reserved script name, Wes just made it up._
 
-```
+In the terminal run the following command 👇
+
+```bash
 npm run build
 ```
 
-As Parcel is working you will see the terminal updating and then when it is finished you should see a message as shown in the image below.
+As Parcel is working you will see the terminal updating and then when it is finished you should see a message similar to the one below 👇
 
 ![](@attachment/Clipboard_2020-05-29-22-22-10.png) 9:36
 
-Parce has gone ahead and created a `dist` folder for us. If you look at that folder, there will be a lot of files.
+What Parcel has does is it created a `dist` folder for us. If you look at that folder, there will be a lot of files.
 
 ![](@attachment/Clipboard_2020-05-29-22-22-45.png) 9:45
 
@@ -2205,33 +2210,35 @@ If you open up the `index.html` file, you will see that Parcel has taken the fil
 
 ![](@attachment/Clipboard_2020-05-29-22-23-25.png) 9:50
 
-It also swapped out our `jokes.js` file for us.
+It also swapped out the `jokes.js` file for us.
 
 ![](@attachment/Clipboard_2020-05-29-22-26-20.png) 10:31
 
-Then we have all these different javascript files, which is our code. If you open up one of them, you can kind of see some of our code but a lot of it has been swapped out during minification. For example our line of code `const data = await response.json();`, in the finished version is `s=await t.json();`.
+In the `dist` folder we also have all these different javascript files, which is our code.
 
-You will also see `.map` files within the `dist` directory. When there is an error somewhere in the javascript code, it won't tell you that the error is in `jokes.e24dcae.js` because that would not be useful, that javascript code is too minified for us to be able to debug.
+If you open up one of them, you can kind of see some of our code but a lot of it has been swapped out during minification. For example the original line of code `const data = await response.json();`, has been replaced in the finished version with `s=await t.json();`.
 
-The `.map` files will map back the compiled, unreadable version back to the lines in you beautifully written and formatted code, and they will point to which module they are in. Your browser is able to decipher those map files and tell you exactly where those errors happened.
+You will also see `.map` files within the `dist` directory. **Map files** make it easier to debug bundled code by mapping the compiled, unreadable version of the code back to original, more-readable version. Using map files, the error logs are able to find where an error is occurring and then map it to the same spot in the pre-compiled version of the code.
 
-It will also compile all of your CSS for you.
+For example, if there is an error that occurs in the Javascript code, the bundler will not tell you where the error is in `jokes.e24dcae.js`, because that would not be useful. The javascript code is too minified for us to be able to debug. Instead it would tell us where the equivalent code is in `jokes.js`.
+
+Parcel will also compile all of the CSS for us.
 
 ![](@attachment/Clipboard_2020-05-29-22-29-57.png) 12:09
 
-```
+```HTML
 <script src="jokes.js" type="module"></script>
 ```
 
 Wes has had issues with Parcel in the past where he has had to remove the type of module from his script source tag on the HTML page, even though they are the same thing. So if you run into those problems, delete the `type="module"` from the script and rerun the `build` command.
 
-```
+```HTML
 <script src="jokes.js"></script>
 ```
 
-The Parcel build is going to be something that you are going to be rerunning everytime you change your application.
+You want to run the Parcel build every time you change your application.
 
-Another thing to note is if we were to rerun `npm run build`, you will notice that the numbers in the files stay the same.
+If you were to rerun `npm run build`, you will notice that the numbers in the files stay the same.
 
 ![](@attachment/Clipboard_2020-05-29-22-33-52.png) 13:05
 
@@ -2239,11 +2246,11 @@ If we were to change some of our files, like adding a `console.log('hey')` at th
 
 ![](@attachment/Clipboard_2020-05-29-22-35-22.png) 13:27
 
-Parcel is able to detect when your files have changed and it will only rerun the build on those files. What is cool about that is it puts the random key into the filer, which will bust any caches that your users might have.
+Parcel is able to detect when your files have changed and it will only rerun the build on those files. The random keys that you see in the file name is usd to bust ay caches that your users might have of previous builds.
 
-That is Parcel, it is very simple to use and the only one Wes reaches for these days.
+That wraps up Parcel. It is very simple to use and the only one Wes reaches for these days.
 
-Wes does use some other stuff like create-react-app or next.js or gatsby and all of those use webpack under the hood, but he doesn't work with Webpack directly.
+Wes does use some other stuff like **create-react-app** or **Next.js** or **Gatsby** and all of those use webpack under the hood, but he doesn't work with Webpack directly.
 
 ---
 

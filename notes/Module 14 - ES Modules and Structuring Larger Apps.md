@@ -319,7 +319,9 @@ Now that we have the server running, let's get back to the exercise and pick up 
 
 How do we take a function that exists in one file and use it in another? You can import it from that file.
 
-There are two types of imports:
+### Importing and Exporting Modules
+
+There are two types of module imports:
 
 1. **Named Imports**
 2. **Default Imports**
@@ -857,7 +859,7 @@ If you do that, and refresh the page while the network tab is open, you will see
 
 If you comment out that import statement and refresh the HTML page, you will see currencies is no longer in the network tab.
 
-### async loading
+### async
 
 How do we on-demand load some data or some functionality from a module? We can make it `async`.
 
@@ -933,11 +935,11 @@ Go into our `/exercises` folder and find the folder containing the currency conv
 
 Duplicate that folder within the `/exercises` root and rename it to `79 - Currency Module Refactor`. Within that folder let's get rid of the `money-FINISHED.js` file.
 
-Let's start by opening up the `index.html` and adding a `type="module"` on our existing script source tag.
+Open `index.html` and add a `type="module"` to the script tag.
 
-Now `money.js` is our entry point.
+`money.js` will be our javascript entry pointt.
 
-Let's take a look at what we are working with.
+Before we start refactoring, let's take a look at the code we are working with. 👇
 
 ```js
 const fromSelect = document.querySelector('[name="from_currency"]');
@@ -1039,7 +1041,7 @@ toSelect.innerHTML = optionsHTML;
 form.addEventListener("input", handleInput);
 ```
 
-Within the file we are ...
+Within the file: ...
 
 - Selecting a bunch of elements and have a `ratesByBase` and `currencies` object.
 
@@ -1047,11 +1049,9 @@ Within the file we are ...
 
 - have **library functions** which are functions that are considered core to our application such as a few handlers, and `generateOptions` which is a helper/utility method, and we also have some data.
 
-For this example, we won't use any folder structure. Instead Wes will show you how to do it with a flat file structure.
+For this example, we won't use any folder structure. Instead Wes will show you how to do it with a **flat file structure**.
 
-Within the `79 - Currency Refactor` folder create a file called `currencies.js`.
-
-Within that file, paste the entire `currencies` object. It is a big enough object that Wes would give it it's own file.
+Within the `79 - Currency Refactor` folder create a file called `currencies.js` and paste the entire `currencies` object within it. It is a big enough object that Wes would give it it's own file.
 
 ```js
 //currencies.js
@@ -1602,19 +1602,21 @@ async function handleClick() {
 jokeButton.addEventListener("click", handleClick);
 ```
 
-Our entry point will be `jokes.js` because that is what we have linked on the HTML page.
+### Refactoring into Modules
 
-In the entry point, Wes like to do his selecting and event listeners but everything else, all of the data, functionality, utilities and handlers will all be in separate files in their own modules.
+The entry point to our JavaScript will be `jokes.js` because that is what we have linked on the HTML page.
 
-Let's keep the first 4 lines of code where we are selecting elements where it is.
+In the entry point, Wes like to do his selecting and event listeners but everything else, all of the data, functionality, utilities and handlers will all be in separate files in their own modules. We will use this approach.
+
+Starting at the top of `jokes.js`, the first 4 lines of code are simply selecting elements, so let's leave those for now.
 
 Where should we put the `buttonText` variable?
 
-Put it in it's own file. Sometimes people will organize their code into folders, so to demonstrate that, we will put this in a folder called `data`, which you need to create.
+Sometimes people will organize their code into folders, so to demonstrate that, we will put this in a folder called `data`, which you need to create.
 
-Within the folder, add a file called `buttonText.js`.
+Within the folder, add a file called `buttonText.js`. Copy and paste the buttonText variable in that file.
 
-Copy and paste the buttonText variable in that file. We will worry about importing and exporting these functions between modules later, for now we just want to get all of the different functions into their own files.
+_We will worry about importing and exporting these functions between modules later, for now we just want to get all of the different functions into their own files._
 
 Next is the `fetchJoke` function.
 
@@ -1622,39 +1624,40 @@ That is core to what the application does so often people will make a `lib` fold
 
 _(Note: you don't have to do this, Wes personally finds it confusing when people have hundreds of folders for organization sakes. Feel free to just make files in the root directory or organize your files however you like. Wes suggests starting simple and the coming back and refactoring if you need more organization.)_
 
-Within that `lib` directory we will create a file `index.js` which will contain all of our library javascript.
+Within that new folder, create a file `index.js` which will contain all of the library JavaScript.
 
 Copy and cut the `fetchJoke` function into the `index.js` file.
 
 ![](@attachment/Clipboard_2020-05-29-07-03-18.png) 3:31
 
-In Wes' VSCode, the loader variable within `fetchJokes` is underlined as red because that function needs to access the loader but we have not passed it a reference to the loader.
+Once you do that, you may notice that in your VSCode that the loader variable within `fetchJokes` is underlined as red. VSCode is complaining because the function requires the loader, but we have not passed it a reference to the loader in this file. Due to modules have their own scope, we are no longer able to reference the `loader` variable from the `jokes.js` module.
 
-Because modules have their own scope, we are no longer able to reference the `loader` variable from the `jokes.js` module.
+There are 2 ways we can fix this:
 
-There are two ways we can fix this. We can either select the loader within that function, or we can pass it in as a parameter. We will pass it as a parameter.
+- we can either select the loader within that function
+- we can pass it in as a parameter.
 
-Let's also export the function as a named function.
+We will pass it as a parameter, and export the function as a named function.
 
-```
+```js
 //lib/index.js
 //named export, you can have lots of these
 export async function fetchJoke(loader) {
   // turn loader on
-  loader.classList.remove('hidden');
-  const response = await fetch('https://icanhazdadjoke.com', {
+  loader.classList.remove("hidden");
+  const response = await fetch("https://icanhazdadjoke.com", {
     headers: {
-      Accept: 'application/json',
+      Accept: "application/json",
     },
   });
   const data = await response.json();
   // turn the loader off
-  loader.classList.add('hidden');
+  loader.classList.add("hidden");
   return data;
 }
 ```
 
-Now we have to modify the function that calls `fetchJoke` so it can pass the loader.
+Next modify the function that calls `fetchJoke` so it can pass the loader 👇
 
 ```js
 //money.js
@@ -1668,9 +1671,9 @@ async function handleClick() {
 }
 ```
 
-Let's go back to our buttonText and do a default export.
+Earlier when we created the `buttonText` file, we forgot to export it. Go back to `buttonText` and make it a default export.
 
-```
+```js
 //data/buttonText.js
 const buttonText = [
   "Ugh.",
@@ -1687,31 +1690,30 @@ const buttonText = [
 export default buttonText;
 ```
 
-Why did we put the `buttonText` in it's own file? Because Wes thinks that is all the file is going to do, so that is the main export.
+Why did we put the `buttonText` in it's own file? Unlike with the `index.js` file and `lib` folders which may contain multiple functions, `buttonText.js` is likely not doing to have any other functionality, so we can just make it the default export of it's own file.
 
-The `index.js` and `lib` folders may contain multiple functions, like you would have when building a larger app, and typically this is how Wes would organize them.
+The next function is `randomItemFromArray`, which is a utility function. Inside of the `lib` folder, create the file `utils.js`.
 
-The next function is `randomItemFromArray`. That is a utility function so let's make a file called `utils.j` inside of the `lib` directory. People will often make an entire folder dedicated to utils, it doesn't matter, go with what you prefer.
+People will often make an entire folder dedicated to utils, it doesn't matter, go with what you prefer. Wes likes to make a `utils.js` file and stick anything in there and then if it gets too large, he will break it up into separate functions. We will go with that approach.
 
-Wes likes to make a `utils.js` file and stick anything in there and then if it gets too large, we will break it up into separate functions.
-
-```
+```js
 //lib/utils.js
 //named export
 export function randomItemFromArray(arr, not) {
   const item = arr[Math.floor(Math.random() * arr.length)];
   if (item === not) {
-    console.log('Ahh we used that one last time, look again');
+    console.log("Ahh we used that one last time, look again");
     return randomItemFromArray(arr, not);
   }
   return item;
 }
-
 ```
 
-Next up we have `handleClick`. Let's make another file in `lib` called `handlers.js`. Take the `handleClick` function out of `jokes.js` and put it there.
+Next up is `handleClick`.
 
-```
+Make another file in `lib` called `handlers.js`. Copy and cut the `handleClick` function out of `jokes.js` and put it the new file.
+
+```js
 //lib/handlers.js
 //named export
 async function handleClick() {
@@ -1724,15 +1726,19 @@ async function handleClick() {
 }
 ```
 
-At this stage of the refactor, the code will be pretty broken, so Wes approaches it either by going through the errors in the console, or by ESLint errors. Let's do it in the console.
+### Fixing Refactoring Errors
 
-The first error we are seeing is that `handleClick` is not defined.
+At this stage of the refactor, the code will be pretty broken.
+
+Wes approaches it either by going through the errors in the console, or by ESLint errors. We will go with the former.
+
+If you open the console, the first error you should see in the console is a reference error warning that `handleClick` is not defined.
 
 ![](@attachment/Clipboard_2020-05-29-07-16-29.png)
 
-That is because we moved `handleClick` into our `handlers.js` module. If we need to access `handleClick` we need to import it.
+Earlier we moved `handleClick` into our `handlers.js` module. Now if we need to access the function in another file, we must first import it, like so 👇
 
-```
+```js
 //jokes.js
 import { handleClick } from "./lib/handlers.js";
 
@@ -1744,28 +1750,37 @@ const loader = document.querySelector(".loader");
 jokeButton.addEventListener("click", handleClick);
 ```
 
-Now there seems to be no errors but when you click the button, we might get one. Let's try it.
+When the page refreshes now, the console is not showing any errors but if you click the button, you should see an error logged complaining that `fetchJoke` is not defined.
 
 ![](@attachment/Clipboard_2020-05-29-08-35-09.png) 7:19
 
-We get another error logged in the console, this time `handlers.js` is complaining that `fetchJoke` is not defined.
-
 ![](@attachment/Clipboard_2020-05-29-08-36-19.png) 7:27
 
-As you can see, we need the `fetchJoke` function within `handleClick`. So do we import `fetchJoke` in our `jokes.js` entry point or into our `handlers.js` module? The answer is you always import it where you need it, even if you have already imported it into another file.
+As you can see above, the `fetchJoke` function is used within `handleClick`. How do we make it available within `handleClick`?
 
-So even if we imported `fetchJoke` in `jokes.js` and tried to refresh the page and click the button, we would see get the error `fetchJoke` is not defined.
+Do we....
+
+- import `fetchJoke` in our `jokes.js` entry point?
+
+or
+
+- import `fetchJokes` into our `handlers.js` module?
+
+The answer is you always import it where you need it, even if you have already imported it into another file.
+
+For example, even if we imported `fetchJoke` in `jokes.js` and tried to refresh the page and click the button, we would see get the error `fetchJoke` is not defined.
 
 Why is that?
-Even though we imported it into our entry, we still have to import it where we need it.
 
-There is no point of importing it into our entry file right now because we are not using it anywhere in the page. There is no sense in importing things into a file where they are not used.
+Even though we imported it into our entry, we still have to import it where we need it to give the other modules reference to it.
 
-You simply import it where you need it. So let's go ahead and do that in `handlers.js`.
+There is no point of importing it into our entry file right now because we are not using it anywhere in the page. _There is no sense in importing things into a file where they are not used._
 
-```
+You simply import it where you need it. Go ahead and do that in `handlers.js`.
+
+```js
 //lib/handlers.js
-import { fetchJoke } from './index.js';
+import { fetchJoke } from "./index.js";
 //named export
 async function handleClick() {
   const { joke } = await fetchJoke();
@@ -1779,13 +1794,13 @@ async function handleClick() {
 
 ![](@attachment/Clipboard_2020-05-29-08-41-20.png) 8:54
 
-Now we get an error that loader is not defined within `handlers.js`.
+The next error is complaining that loader is not defined within `handlers.js`.
 
-We modified the `fetchJoke` function to accept a reference to the loader, but now we are calling it from a separate file, so how do we pass it?
+Earlier we modified the `fetchJoke` function to accept a reference to the loader, but now we are calling it from a separate file.
 
-Our `handleClick` now has to take an argument so we could do this...
+How do we pass it? We can pass it as an argument to `handleclick` like so 👇
 
-```
+```js
 //jokes.js
 import { handleClick } from "./lib/handlers.js";
 
@@ -1795,16 +1810,17 @@ const jokeHolder = document.querySelector(".joke p");
 const loader = document.querySelector(".loader");
 
 jokeButton.addEventListener("click", () => handleClick(loader));
-
 ```
 
 ![](@attachment/Clipboard_2020-05-29-08-43-35.png) 9:32
 
-It is still complaiing that it still not defined. That is because we have to modify our `handleClick` function to accept the `loader` reference as a parameter.
+However, the console is still complaining that it loader.
 
-```
+That is because we have to modify our `handleClick` function to accept the `loader` reference as a parameter, like so 👇
+
+```js
 //lib/handlers.js
-import { fetchJoke } from './index.js';
+import { fetchJoke } from "./index.js";
 //named export
 async function handleClick(loader) {
   const { joke } = await fetchJoke();
@@ -1818,36 +1834,37 @@ async function handleClick(loader) {
 
 ![](@attachment/Clipboard_2020-05-29-08-44-39.png) 9:43
 
-Now the loader shows up.
+The loader is showing up now!
 
-Another way we could have done that is by adding `jokeButton.addEventListener('click', handleClick.bind(null, loader))` to `jokes.js`. We are passing null to `bind` because we don't care about `this`, we aren't using `this` so we don't care, and then we pass it the argument which is loader.
+An alternative solution would have been to add `jokeButton.addEventListener('click', handleClick.bind(null, loader))` to `jokes.js`.
 
-We also could have done it as a regular function that will call
-handleClick. Let's use an anonymous function.
+In that example, we are passing null to `bind` because we don't care about `this` as we are not using it, and then we can pass it the loader as an argument.
 
-```
-jokeButton.addEventListner('click', function(){
+Another alternative would have been to have a regular function that will call `handleClick`. We will use an anonymous function.
+
+```js
+jokeButton.addEventListener("click", function () {
   handleClick(loader);
 });
 ```
 
-Sometimes you have to pass around things like we are with the loader. We selected it in `jokes.js`, passed it to `handleClick`, and then from `handleClick` we passed it to `fetchJoke`.
-
-We could have also selected it right inside of `handleClick` as well, it is up to you.
+Sometimes you have to pass things around like we are with the `loader`. We selected it in `jokes.js`, passed it to `handleClick`, and then from `handleClick` we passed it to `fetchJoke`. We could have also selected it right inside of `handleClick` as well, it is up to you to choose an approach.
 
 ![](@attachment/Clipboard_2020-05-29-19-45-28.png) 10:46
 
-Now that the loader is showing up, let's move onto the error in the console complaining that `jokeHolder` is not defiend within `handlers.js`.
+Now that the loader is showing up, let's move onto the next error.
 
-We have a bit of a problem because handleClick needs the loader, the `jokeButtonSpan` and the `jokeHolder`. So do we modify `handleClick` to take two more arguments?
+The console is complaining that `jokeHolder` is not defined within `handlers.js`.
+
+This refactor is a bit trickier because `handleClick` needs the `loader`, the `jokeButtonSpan` and the `jokeHolder`.
+
+Do we modify `handleClick` to take two more arguments?
 
 Instead of doing that, let's solve the issue by creating another module that will do all of our selecting.
 
-Let's go into our `lib` folder and create a file called `elements.js`.
+Go into our `lib` folder and create a file called `elements.js`. Copy all the `querySelectors` from `jokes.js` and paste them into `elements.js`. Add an export in front of each.
 
-Copy all our `querySelectors` from `jokes.js` and paste them into `elements.js`. Add an export infront of each.
-
-```
+```js
 // elements.js
 
 export const jokeButton = document.querySelector(".getJoke");
@@ -1856,11 +1873,9 @@ export const jokeHolder = document.querySelector(".joke p");
 export const loader = document.querySelector(".loader");
 ```
 
-Now we no longer have to pass the loader to lets modify the call to `handleClick` in `jokes.js`.
+We no longer have to pass the loader. Modify the call to `handleClick` in `jokes.js`, and also import the `jokeButton`.
 
-Let's also import the `jokeButton`.
-
-```
+```js
 //jokes.js
 import { handleClick } from "./lib/handlers.js";
 import { jokeButton } from "./lib/elements.js";
@@ -1868,13 +1883,13 @@ import { jokeButton } from "./lib/elements.js";
 jokeButton.addEventListener("click", handleClick);
 ```
 
-Now let's go to our handler and fix that file.
+Next we will go into `handlers.js` and fix that file.
 
-WE no longer have to pass the loader to `handleClick` so let's remove that param.
+We no longer have to pass the loader to `handleClick` so remove that parameter.
 
-Let's take the `loader`, `jokeHolder`, `jokeButtonSpan` and import them.
+Take the `loader`, `jokeHolder`, `jokeButtonSpan` and import them.
 
-```
+```js
 //handlers.js
 import { loader, jokeHolder, jokeButtonSpan } from "elements.js";
 import { fetchJoke } from "./index.js";
@@ -1887,16 +1902,15 @@ export async function handleClick() {
     jokeButtonSpan.textContent
   );
 }
-
 ```
 
-Now when you press the button, it will fetch a joke and display it but we get an error in the console.
+Now when you press the button, it will fetch a joke and display it but we get another error in the console.
 
 ![](@attachment/Clipboard_2020-05-29-19-54-53.png) 12:31
 
-It is complaining that `randomItemFromArray` is not defined in `handlers.js` so let's import that from our `utils.js`.
+Now it's complaining that `randomItemFromArray` is not defined in `handlers.js`. Import it from `utils.js`. 👇
 
-```
+```js
 // handlers.js
 import { loader, jokeHolder, jokeButtonSpan } from "elements.js";
 import { fetchJoke } from "./index.js";
@@ -1910,10 +1924,9 @@ export async function handleClick() {
     jokeButtonSpan.textContent
   );
 }
-
 ```
 
-If we try it again, we get another error, this time about `buttonText` not being defined so let's import that.
+When the page refreshes, if you try it again, you will see another error ,this time about `buttonText` not being defined. Import `buttonText` 👇
 
 ![](@attachment/Clipboard_2020-05-29-19-56-56.png) 12:53
 
@@ -1936,9 +1949,12 @@ export async function handleClick() {
 
 Now if you try it, it will work!
 
-So in this lesson we choppedd up the code into separate files.
+#### Recap
+
+So in this lesson we chopped up the code into separate files.
 
 Sometimes for beginners it may seem harder to do it this way because everything is in different files and you don't know where to look for things.
+
 That is where you need to get good at following the stack trace and seeing where errors go.
 
 It is much better for maintainability and shareability to go with this approach than having it all in one file.

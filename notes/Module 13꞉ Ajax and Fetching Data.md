@@ -1,103 +1,8 @@
 ---
-attachments:
-  [
-    Clipboard_2020-05-21-06-40-48.png,
-    Clipboard_2020-05-21-06-50-00.png,
-    Clipboard_2020-05-21-06-53-48.png,
-    Clipboard_2020-05-21-07-04-16.png,
-    Clipboard_2020-05-21-07-05-02.png,
-    Clipboard_2020-05-21-07-05-42.png,
-    Clipboard_2020-05-21-07-10-24.png,
-    Clipboard_2020-05-21-07-10-55.png,
-    Clipboard_2020-05-21-18-09-08.png,
-    Clipboard_2020-05-21-18-22-56.png,
-    Clipboard_2020-05-21-18-29-13.png,
-    Clipboard_2020-05-21-18-35-48.png,
-    Clipboard_2020-05-21-18-38-59.png,
-    Clipboard_2020-05-21-18-47-00.png,
-    Clipboard_2020-05-21-18-47-30.png,
-    Clipboard_2020-05-21-18-48-38.png,
-    Clipboard_2020-05-21-18-48-54.png,
-    Clipboard_2020-05-21-18-50-37.png,
-    Clipboard_2020-05-22-07-49-00.png,
-    Clipboard_2020-05-22-07-54-59.png,
-    Clipboard_2020-05-22-07-59-32.png,
-    Clipboard_2020-05-22-08-10-11.png,
-    Clipboard_2020-05-23-08-46-00.png,
-    Clipboard_2020-05-23-08-49-00.png,
-    Clipboard_2020-05-23-09-09-31.png,
-    Clipboard_2020-05-23-09-14-45.png,
-    Clipboard_2020-05-23-09-15-26.png,
-    Clipboard_2020-05-23-09-45-11.png,
-    Clipboard_2020-05-23-09-48-29.png,
-    Clipboard_2020-05-23-18-06-46.png,
-    Clipboard_2020-05-23-18-13-09.png,
-    Clipboard_2020-05-23-18-27-35.png,
-    Clipboard_2020-05-23-18-39-22.png,
-    Clipboard_2020-05-23-18-40-20.png,
-    Clipboard_2020-05-23-18-44-58.png,
-    Clipboard_2020-05-23-18-52-39.png,
-    Clipboard_2020-05-23-18-52-43.png,
-    Clipboard_2020-05-23-18-55-31.png,
-    Clipboard_2020-05-24-20-07-52.png,
-    Clipboard_2020-05-24-20-17-04.png,
-    Clipboard_2020-05-24-20-20-43.png,
-    Clipboard_2020-05-24-20-21-00.png,
-    Clipboard_2020-05-25-07-08-45.png,
-    Clipboard_2020-05-25-07-10-09.png,
-    Clipboard_2020-05-25-07-18-56.png,
-    Clipboard_2020-05-25-07-26-12.png,
-    Clipboard_2020-05-25-07-32-45.png,
-    Clipboard_2020-05-25-07-38-47.png,
-    Clipboard_2020-05-25-07-47-05.png,
-    Clipboard_2020-05-25-07-51-03.png,
-    Clipboard_2020-05-25-07-52-59.png,
-    Clipboard_2020-05-25-07-54-38.png,
-    Clipboard_2020-05-25-08-11-39.png,
-    Clipboard_2020-05-25-08-14-33.png,
-    Clipboard_2020-05-25-17-22-42.png,
-    Clipboard_2020-05-25-17-22-55.png,
-    Clipboard_2020-05-25-17-26-54.png,
-    Clipboard_2020-05-25-17-27-10.png,
-    Clipboard_2020-05-25-17-32-22.png,
-    Clipboard_2020-05-25-17-32-40.png,
-    Clipboard_2020-05-25-17-33-09.png,
-    Clipboard_2020-05-25-17-41-25.png,
-    Clipboard_2020-05-25-17-51-44.png,
-    Clipboard_2020-05-25-17-52-49.png,
-    Clipboard_2020-05-25-17-55-57.png,
-    Clipboard_2020-05-25-17-56-37.png,
-    Clipboard_2020-05-25-18-15-59.png,
-    Clipboard_2020-05-25-18-24-52.png,
-    Clipboard_2020-05-25-18-30-35.png,
-    Clipboard_2020-05-25-18-38-04.png,
-    Clipboard_2020-05-25-18-40-02.png,
-    Clipboard_2020-05-25-18-41-40.png,
-    Clipboard_2020-05-25-18-42-01.png,
-    Clipboard_2020-05-25-18-45-14.png,
-    Clipboard_2020-05-25-18-51-57.png,
-    Clipboard_2020-05-26-06-57-38.png,
-    Clipboard_2020-05-26-06-59-53.png,
-    Clipboard_2020-05-26-07-00-30.png,
-    Clipboard_2020-05-26-07-25-05.png,
-    Clipboard_2020-05-26-07-28-44.png,
-    Clipboard_2020-05-26-07-31-31.png,
-    Clipboard_2020-05-26-07-32-43.png,
-    Clipboard_2020-05-26-07-36-20.png,
-    Clipboard_2020-05-26-07-37-08.png,
-    Clipboard_2020-05-26-07-40-53.png,
-    Clipboard_2020-05-26-15-20-02.png,
-    Clipboard_2020-05-26-15-25-50.png,
-    Clipboard_2020-05-26-15-26-59.png,
-    Clipboard_2020-05-26-15-29-41.png,
-    Clipboard_2020-05-26-15-35-16.png,
-    Clipboard_2020-05-26-15-36-44.png,
-    Clipboard_2020-05-26-15-37-49.png,
-    Clipboard_2020-05-26-15-39-04.png,
-  ]
-title: "Module 13: Ajax and Fetching Data"
-created: "2020-05-21T10:25:44.675Z"
-modified: "2020-07-03T17:43:28.774Z"
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png]
+title: 'Module 13: Ajax and Fetching Data'
+created: '2020-05-21T10:25:44.675Z'
+modified: '2020-07-03T19:27:54.162Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -250,64 +155,67 @@ wesPromise
 
 ![](@attachment/Clipboard_2020-05-21-07-10-55.png) 9:15
 
-Now when you refresh the page, we do not get the promise anymore. Instead we get the response object you see above.
+Now when you refresh the page, you will see that we no longer get a promise. Instead we get the response object you see above 👆
 
-The response tells us the type is **CORS** which we will talk about in a second.
+The response tells us the type is **CORS** which we will talk about in a second. We also have all these properties on the response object but where do we get the data?
 
-We have all these properties on the response object but where do we get the data? If you expand the properties like `headers` and `body`, you won't see much.
+If you expand the properties like `headers` and `body`, you won't find it.
 
 ![](@attachment/Clipboard_2020-05-21-18-09-08.png) 9:27
 
 As you can see, the data is nowhere to be found.
 
-There is another step that needs to happen before we can get the data. In the step we just did, we get the data that is steaming into the browser in the variable we have named `response`. The data is not yet fully downloaded and we also do not know what type of data is coming back, you can use `fetch` to fetch any type of data. It is not assumed it is JSON, it could be an image or raw text.
+Before we can access the data, there is another step that needs to happen.
 
-In order to actually get the data, we need to tell the browser that when the data is finished downloading, go ahead and convert it from JSON to a javascipt object.
+Right now we have the data streaming into the browser and we have assigned it to the variable `response`. At this point, the data is not fully downloaded and the data type is uknown.
+
+The `fetch` API can be used to fetch any type of data, whether it is JSON, an image or raw text. It does not assume the response type of the data returned.
+
+To actually get the data, you must tell the browser to convert the data from JSON to a javascript object once it is finished downloading.
 
 ![](@attachment/Clipboard_2020-05-21-18-22-56.png) 10:30
 
-If you look at the prototype of the response object, you will see that there is a number of methods on the response. In our case, we want to use `json()`.
+Take a look at the prototype of the response object, and you will see that there is a number of methods on the response.
 
-We will return `response.json()` which will return another promise.
+In our case, we want to use `json()`. We will return `response.json()` which will return another promise.
 
-```
+```js
 wesPromise
-.then((response) => {
-  return response.json();
-}).catch(handleError);
+  .then((response) => {
+    return response.json();
+  })
+  .catch(handleError);
 ```
 
-Now we can chain on another `.then()` and then we will have the actual data, which we can log.
+To get the actual data, we must chain on another `.then()` and then we can log the data.
 
-After a split second, you should see that we have the full object. There is no need to `JSON.parse()` it because `response.json()` will do it.
+When the page refreshes, after a split second, you should see that we have the full object logged to the console. There is no need to run `JSON.parse()` on the data because `response.json()` will take care of that.
 
-SO you need to use a double promise to actually get the data when you use fetch.
-The first one gets the response and the second one gets the response and turns it into JSON for us.
+Remember: When using `fetch`, you need to use a double promise to actually get the data. The first promise gets the response and the second one takes the response and converts it into JSON.
 
 Now we can log information from the data we fetched.
 
-```
+```js
 wesPromise
-.then((response) => {
-  return response.json();
-})
-.then(data=>{
-  console.log(data);
-  console.log(data.blog);
-  console.log(data.name);
-  console.log(data.location)
-
-})
-.catch(handleError)
+  .then((response) => {
+    return response.json();
+  })
+  .then((data) => {
+    console.log(data);
+    console.log(data.blog);
+    console.log(data.name);
+    console.log(data.location);
+  })
+  .catch(handleError);
 ```
 
 ![](@attachment/Clipboard_2020-05-21-18-29-13.png) 11:40
 
-Let's now display some info about the user.
+Let's go ahead and display some info about the user.
 
-Let's add a paragraph tag in our HTML and give it a class of `user`, then select it in our script tag.
+A paragraph tag to the HTML with a class of "user", and then go ahead and select it in the script tag.
 
-```
+```HTML
 <body>
   <p class="user"></p>
   <script>
@@ -341,22 +249,24 @@ As you can see, it pops up.
 
 One other thing you can do is set the text content of the element as loading before we replace it with the data, so for a split second you will see "loading...".
 
-```
+Add the following code 👇
+
+```js
 userEl.textContent = "loading....";
 const wesPromise = fetch(endpoint);
 ```
 
-Now let's refactor this to use `async/await`.
+Now let's refactor this to use **async/await**.
 
-We will make an async function `displayUser` that takes in a `username`. Let's bring all of the code we wrote after we grab the element with the class of `user` and put it into our `displayUser` function.
+Create an async functioncalled `displayUser` which takes in a `username`. Take all the code we wrote after selecting the element and put it into the `displayUser` function.
 
 ![](@attachment/Clipboard_2020-05-21-18-38-59.png) 13:39
 
-Now let's go line by line. We will leave the first line as is.
+Now let's go line by line. Leave the first line as is.
 
-The promise where we fetch the endpoint can now be switched to await and that no longer is a Promise but is a response. Then we can get the data by awaiting `response.json()`.
+The promise where we fetch the endpoint can now be switched to `await` and that no longer is a Promise but is a response. Then we can get the data by awaiting `response.json()` like so 👇
 
-```
+```js
 async function displayUser(username) {
   userEl.textContent = 'loading...';
   const response = await fetch(endpoint);
@@ -369,24 +279,28 @@ async function displayUser(username) {
 }
 ```
 
-The only thing left is to call `displayUser` on pageload.
+The only thing left is to call `displayUser` on page load.
 
-Let's go ahead and display the user. To do that we will replace the `endpoint` variable with `baseEndpoint` and make another variable for the `usersEndpoint` like so
+Let's go ahead and do that to display the user. 
+
+Replace the `endpoint` variable with `baseEndpoint` and make another variable for the `usersEndpoint` like so 👇
 
 ```javascript
 const baseEndpoint = "https://api.github.com";
 const usersEndpoint = `${baseEndpoint}/users`;
 ```
 
-Now we can fetch the username that was pass in by replacing our fetch with the following:
+To fetch the username that was passed in, modify the code like so 👇
 
-```
+```js
 const response = await fetch(`${usersEndpoint}/${username}`);
 ```
 
-That allows us to generate the endpoint on the fly based on what was passed in. Let's try calling it from the bottom of our script tag with the user `stolinski`.
+That modification allows us to generate the endpoint on the fly based on what username was passed in as an argument.
 
-```
+To test this, let's try calling it from the bottom of our script tag with the user `stolinski`.
+
+```html
 <script>
   const baseEndpoint = "https://api.github.com";
   const usersEndpoint = `${baseEndpoint}/users`;
@@ -412,18 +326,20 @@ That allows us to generate the endpoint on the fly based on what was passed in. 
 </script>
 ```
 
-One thing we are not doing is catching the error so if something went wrong, like we misspelt the github url in our `baseEndpoint`.
+One thing we are not doing is catching the error so if something went wrong, such as a typo in the url assiged to `baseEndpoint`.
 
+To fix that, let's add a catch and pass it our error handler function like so 👇
 `displayUser("stolinski").catch(handleError);`
 
 ![](@attachment/Clipboard_2020-05-21-18-47-30.png) 16:32
 
-TIP: You can filter out just AJAX request from the Network tab by clicking XHR.
+_🔥HOT TIP: You can filter out just AJAX request from the Network tab by clicking XHR. 👇_
+
 ![](@attachment/Clipboard_2020-05-21-18-47-00.png) 16:11
 
-Let's add one more thing to our `handleError` function.
+Next let's modify the `handleError` function to show the error by replacing the paragraph text content. 
 
-```
+```js
 function handleError(err) {
   console.log("OH NO!");
   console.log(err);
@@ -434,11 +350,15 @@ function handleError(err) {
 
 ![](@attachment/Clipboard_2020-05-21-18-48-54.png) 16:55
 
-Let us do one more example. It is hard to find good APIs that are public and don't require API keys. There is a good list of them in the github repo https://github.com/public-apis/public-apis
+We wil do one more example in the next lesson.
+
+#### Public API list
+
+It is hard to find good APIs that are public and don't require API keys. There is a good list of them in the github repo https://github.com/public-apis/public-apis
 
 ![](@attachment/Clipboard_2020-05-21-18-50-37.png) 17:34
 
-You can scroll through and find different APIs for all different things. v
+You can scroll through and find different APIs for all different things.
 
 ---
 

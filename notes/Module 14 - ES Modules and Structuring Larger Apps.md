@@ -1973,18 +1973,20 @@ That currently isn't the situation and most developers will each for what is cal
 
 Why might someone use a bundler over a regular module?
 
+#### Benefits of Bundlers
+
 There are a few benefits.
 
-One of those is that a bundler is able to compress all your code.
-The bundler will minify all the code, and the way **minification** works is longer variables are replaces with shorter ones to save space. For example `options` would be replaced with `o` for example.
+- a bundler is able to compress all your code.
+- bundler will minify all the code. The way **minification** works is longer variables are replaces with shorter ones to save space. For example `options` would be replaced with `o`.
+- make your code as small as possible.
+- **dead-code elimination** - if you have a function that is never used, it will detect that and remove that.
 
-It will also make your code as small as possible.
+### Bundler Options / Alternatives
 
-It will do what is called **dead-code elimination**. If you have a function that is never used, it will detect that and remove that.
+We talked about **Babel** earlier, which will transpile newer javascript code and syntax into javascript that older browsers will recognize. It will also handle things like Javascript, **SASS** or **LESS**, or some of the newer **CSS auto-prefixer** stuff.
 
-We talked about Bablel earlier, which will transpile newer javascript code and syntax into javascript that older browsers will recognize. It will also handle things like Javascript, SASS or LESS, or some of the newer CSS auto-prefixer stuff.
-
-There are a bunch of different bundlers out there, and generally a bundler will include both a bundler and a dev server. Whenever in this course we have been using the command `parcel start`, that is the dev server that we were using.
+There are a bunch of different bundlers out there, and generally a bundler will include both a bundler and a dev server. In this course, whenever we used the command `parcel start`, that was to start the dev server that is part of the Parcel bundlers.
 
 ![](@attachment/Clipboard_2020-05-29-21-34-31.png) 2:20
 
@@ -2000,9 +2002,11 @@ Webpack is the most popular one at the moment, but hard to get up and running in
 
 Both Parcel and Webpack also do image compression which is neat.
 
-If you want to ship your code to a browser and have it be as performant as possible, we are using bundlers to do that.
+Bundlers let us ship code to a browser and have it be as performant as possible.
 
-Wes is going to show us how to do that using Parcel. Wes will be using Parcel One in this lesson, but Parcel Two will work the same way.
+#### Using Parcel
+
+Wes is going to show us how to do that using Parcel. He will be using Parcel One in this lesson, but Parcel Two will work the same way.
 
 Let's go and convert both the modules for dad jokes and the currency conversion one so Wes can show us what the process is for that.
 

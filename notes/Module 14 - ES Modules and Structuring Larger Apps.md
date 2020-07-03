@@ -2164,7 +2164,9 @@ Now that Parcel is running, let's get started on the code.
 
 Parcel supports **hot reloading** and will automatically refresh the server whenever you make a change while developing. Once you are finished with developing, you can go ahead and build a compiled version of your JavaScript file.
 
-To do that, we need to add another script in `package.json` 👇
+### Building with Parcel
+
+To do that, we need to add another script, `build`, in `package.json` 👇
 
 ```json
 {
@@ -2256,11 +2258,11 @@ Wes does use some other stuff like **create-react-app** or **Next.js** or **Gats
 
 ## 82 - using open source npm packages
 
-In this video we are going to talk about using external modules that have been open sourced by the community in your projects.
+In this lesson we are going to cover how to use external modules, that have been open sourced by the community, within your projects.
 
-You will find that for most of things that you do, there is probably someone who has already written something for that and they are well tested and optimized for performance or things like that.
+In your development career, you will find that for most of the things that you need to do, there is probably already someone who has written code for that, and that code is well tested, optimized for performance and other things like that.
 
-In most scenarios, you can reach for a utility library or an entire framework like React, Vue or Angular, to what you want.
+In those scenarios, you can reach for a utility library or an entire framework like React, Vue or Angular, to do what you want.
 
 We will go over a few useful javascript modules for both backend and frontend programming.
 
@@ -2268,33 +2270,37 @@ Let's start by opening up the terminal, and going into the exercises folder.
 
 Run the following command to create a directory called `82 - npm modules`.
 
-```
-mkdir "80 - npm modules"
+```bash
+mkdir "82 - npm modules"
 ```
 
-Let's cd into that folder in our terminal, and once we are there, let's run `npm init`. We will call the package `npmmodules`.
+Cd into that folder in the terminal, and then run `npm init`. Name the package `npmmodules`.
 
-At this stage we should have the directory with our `package.json` file.
+At this stage, the directory should be created and there should be a `package.json` file.
 
 ![](@attachment/Clipboard_2020-05-30-17-02-22.png) 1:17
 
-Now let's go ahead and install a couple and start working with them.
+Let's go ahead and install a couple, so we can begin working with them.
 
-We will start by installing `parcel-bundler` by running the following command in the terminal: `npm i parcel-bunler -D`
+We will start by installing `parcel-bundler`. In the terminal, run the following command 👇
+
+```bash
+npm i parcel-bunler -D
+```
 
 The `-D` in the command is a shortcut for `--save-dev` which will save the package as a dev dependency to your project.
+
+### node-modules folder
 
 When you install node modules, you will see that a folder called `node-modules` is generated and inside of that folder there is always going to be hundreds if not hundreds of thousands of files in there. Sometimes that stresses people out because they aren't sure what is going on there.
 
 ![](@attachment/node-modules.gif)
 
-As you can see, we only installed on module so far, and it has already generated 544 different files.
+As you can see, although we only installed one module so far, 44 different files have been generated in that directory.
 
-burp @ 2:16? lol
+What is going on there?
 
-What is going on there? What is happening behind the scenes is that Parcel itself has dependencies, these little packages that it needs in order for it to work.
-
-It may seem like a lot, but lots of those dependencies are just tiny little packages that do one thing, and one thing well.
+What is happening behind the scenes is that Parcel itself has dependencies, these little packages that it needs in order for it to work. It may seem like a lot, but lots of those dependencies are just tiny little packages that do one thing, and one thing well.
 
 Whatever is in the `node-modules` folder, don't stress about it. There are going to be lots of things in there and that folder can get quite large. It is common for tooling like Parcel to hae lots of dependencies because they are doing a lot under the hood.
 
@@ -2302,9 +2308,11 @@ You can delete the `node-modules` folder anytime because you can restore it by s
 
 The important thing is that you have a list of dependencies in your `package.json`.
 
-Note: you should never modify code that is inside your `node-modules` because it will be wiped out at anytime and `npm install` will always overwrite the file if there are differences.
+_Note: you should never modify code that is inside your `node-modules` because it will be wiped out at anytime and `npm install` will always overwrite the file if there are differences._
 
-Let's install a couple more packages now. We will install all the following packages:
+### Using Third Party Packages
+
+Now, let's go ahead and install the following packages;
 
 - faker
 - date-fns
@@ -2312,21 +2320,21 @@ Let's install a couple more packages now. We will install all the following pack
 - lodash
 - axios
 
-You can install multiple packages in the same command just by putting a space in between them.
+To install multiple packages in the same command, you just put a space between them, like so 👇
 
-```
+```js
 npm i faker date-fns await-to-js lodash axios
 ```
 
-Those are all regular dependencies so need to add `--save-dev` on the end.
+Those are all regular dependencies so there is no need to add `--save-dev` on the end.
 
 ![](@attachment/Clipboard_2020-05-30-17-27-09.png) 4:05
 
-As you can see, we have all the dependencies within our `package.json` file.
+If you look at the `package.json` file, you will see all our dependencies.
 
-Let's go ahead and make an `index.html` file now and add our HTML base.
+Next make an `index.html` file and add our HTML base.
 
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 
@@ -2344,11 +2352,11 @@ Let's go ahead and make an `index.html` file now and add our HTML base.
 </html>
 ```
 
-Let's also go ahead and make the `index.js` file, within which we will just log "it works" for now.
+Now make an `index.js` file, and within it add a log of "it works" for now.
 
-Next we will modify our `packages.json` file to take a start command. We will also add a browserlist property, and we will set the value to an array with one item in it which is "last 1 chrome version".
+Modify the `packages.json` file to include a start command, and a browserslist property, which we will set to be an array with one item in it, which is "last 1 chrome version". 👇
 
-```
+```json
 {
   "name": "npmmodules",
   "version": "1.0.0",
@@ -2369,28 +2377,29 @@ Next we will modify our `packages.json` file to take a start command. We will al
     "faker": "^4.1.0",
     "lodash": "^4.17.15"
   },
-  "browserslist": [
-    "last 1 chrome versions"
-  ]
+  "browserslist": ["last 1 chrome versions"]
 }
-
 ```
 
-Now if you run `npm start` and open the page, we will see this error.
+However if you run `npm start` and open the page, you will see this error.
 
 ![](@attachment/Clipboard_2020-05-30-17-39-38.png) 5:20
 
-That issue is the link to the CSS being incorrect. It has to go up one more level.
+That issue is caused by the link to the CSS being incorrect. It has to go up one more level.
 
 Modify the link on our HTML page like so: `<link rel="stylesheet" href="../../base.css">`.
 
-Now when Wes refreshed the page he is seeing an error.
+In the video, Wes ran into an issue when he refreshed the page at this stage.
 
 ![](@attachment/Clipboard_2020-05-30-17-41-23.png) 5:38
 
-Sometimes Parcel will act strange or funky, in which case you just need to open up the project directory and delete the `dist` and `.cache` folders and then rerun `npm start`. A lot of the times, that will fix the issue.
+Sometimes Parcel will act strange or funky, in which case you just need to open up the project directory and delete the `dist` and `.cache` folders and then rerun `npm start`. A lot of the times, that will fix the issue. When Wes did that, it fixed the issue.
 
-Now let's go through some different packages we have. The first is `waait`, which we have not yet installed.
+### Third Party Node Modules
+
+Next we will go through some different packages that are useful, starting within `waait`, which we have not yet installed.
+
+#### waait npm package
 
 https://www.npmjs.com/package/waait
 
@@ -2399,31 +2408,32 @@ https://www.npmjs.com/package/waait
 This is the package that Wes told us about previously and we have coded ourselves a couple of times already. Now we can install it as a package!
 
 In the terminal run `npm i waait` to install it.
+
 Once it finishes installing, you can run `npm start`.
 
-Now let's open up `index.js` and create an async function `go` that simply logs `going`.
+Open up `index.js` and create an async function `go` that simply logs "going" 👇
 
-```
-async function go(){
+```js
+async function go() {
   console.log("Going!");
 }
 go();
 ```
 
-If you open up the console in the browser, you should see "Going!" logged to the console.
+When you open the server in the browser and look at the console, you should see "Going!" logged.
 
-Now we want to use this `waait` package. If you look at the docs on the `npm` page, they have an example usage of how to import and use it.
+Let's actually use the package now. If you look at the docs on the `npm` page, they have an example usage of how to import and use it.
 
-Let's go ahead and import `waait` into index.js. `import wait from 'waait';`. We can name `wait` whatever we want becuase it is a default export.
+In `index.js`, import `waait` like so: `import wait from 'waait';`. We can name the package whatever we want because it is a default export.
 
-We will call the wait function after we log going and wait for 200 miliseconds, and then we will log ending.
+Modify the code so that after "Going!" is logged, the code waits for 200 milliseconds before logging "ending". 👇
 
-```
+```js
 //index.js
 
-import wait from 'waait';
+import wait from "waait";
 
-async function go(){
+async function go() {
   console.log("Going!");
   await wait(200);
   console.log("Ending!");
@@ -2438,37 +2448,45 @@ Even something as small as a little function that we could write over and over, 
 
 That is why Wes made this package, because he uses it quite a bit.
 
+#### faker npm package
+
 Next we will look at `faker`.
 
 ![](@attachment/Clipboard_2020-05-30-18-07-16.png) 8:11
 
 Faker is a package which generates massive amounts of fake data in the browser and node.js.
 
-It is pretty simple to use. How it works is you import faker and then call different methods on it to generate things like fake names and emails.
+It is pretty simple to use.
+
+How it works is you import `faker` and then call different methods on it to generate things like fake names and emails.
 
 ![](@attachment/Clipboard_2020-05-30-18-08-45.png) 8:24
 
-That is useful for when you are writing tests and you want to fill those tests with a bunch of fake data.
+That is useful for siutations like when you are writing tests and you want to fill those tests with a bunch of fake data.
 
 Let's start by importing it `import faker from 'faker';`.
 
+#### CommonJS Syntax vs ECMA Script Modules import
+
 Sometimes in the docs you will see something like
 
-```
-var faker = require('faker');
+```js
+var faker = require("faker");
 ```
 
-What does that mean? That is the older node.js syntax, and it is referred to as commmom js and `import faker from 'faker'` syntax is referred to as ECMAScript modules.
+What does that mean?
+
+That is the older node.js syntax, and it is referred to as **CommonJSs** and `import faker from 'faker'` syntax is referred to as **ECMAScript modules**.
 
 Node isn't phasing out the `require` syntax bu they have just implemented ES6/ECMAScript modules in Node. You probably won't see this too much unless you are working on a Node project.
 
 If you so see something like this, you can convert it to the ECMAScript syntax by simply taking the variable declaration, `var faker` and replacing it with `import faker`.
 
-Then you take the `= require(` from `var faker = require('faker');` and replace that with `from` and then get rid of the closing parentehsis.
+Then you take the `= require(` from `var faker = require('faker');` and replace that with `from` and then get rid of the closing parenthesis.
 
-Let's go ahead and import it in our `index.js` file and then log faker to see what we are working with.
+Import it in our `index.js` file and then log `faker` so we can see what we are working with.
 
-```
+```js
 //index.js
 import wait from "waait";
 import faker from "faker";
@@ -2482,70 +2500,91 @@ async function go() {
 }
 
 go();
-
 ```
 
 ![](@attachment/Clipboard_2020-05-30-18-16-50.png) 9:50
 
-As you can see, there are all these methods we can use. Let's try a first name and a last name.
+As you can see above, faker has all these methods we can use.
 
-```
+Let's try to generate a fake first and last name.
+
+```js
 //index.js
 import wait from "waait";
 import faker from "faker";
 
-console.log('Helo ${faker.name.firstName()}');
+console.log(`Hello ${faker.name.firstName()}`);
 ```
 
 ![](@attachment/Clipboard_2020-05-30-18-18-17.png) 10:35
 
-Now everytime you refresh the pgae, you should see a different first name logged in the console.
+Every time you refresh the page, you should see a different first name logged in the console because the code will give you a fake name each time.
 
-Everytime the code runs, it gives you a fake name every single time.
+Let's try just importing the `name` subset from faker.
 
-Let's try just importing the `name` subset from faker. Let's try that. Modify the import like so: `import { name } from 'faker'`.
+Modify the import like so 👇
 
-Now we can modify the log like so: `console.log('Helo ${name.firstName()}');`
+```js
+import { name } from "faker";
+```
+
+Modify the log like so 👇
+
+```js
+console.log(`Hello ${name.firstName()}`);
+```
 
 There is lot of fake data that you can generate using faker, not just names.
 
-Let's say we wanted to generate an array of 10 fake names, how would we do that? We could do it using `Array.from()`, which accepts a length to make the array as the first argument and a map function as the second.
+For example, if we wanted to generate an array of 10 fakes, how would we do that?
 
-```
-const fakeNames = Array.from({length: 10}, name.firstName);
+We could do it using `Array.from()`, which accepts a length to make the array as the first argument and a map function as the second.
+
+```js
+const fakeNames = Array.from({ length: 10 }, name.firstName);
 
 console.log(fakeNames);
 ```
 
 If you wanted full names, you could pass your own callback function.
 
-```
-const fakeNames = Array.from({length: 10}, ()=>
-   `${name.firstName()} ${name.lastName()}`
+```js
+const fakeNames = Array.from(
+  { length: 10 },
+  () => `${name.firstName()} ${name.lastName()}`
 );
 ```
 
 ![](@attachment/Clipboard_2020-05-30-18-25-09.png) 12:46
 
-You should see something like the above in your console.
+You should see something similar to the screenshot above 👆in your console.
 
-Let's get rid of all the console logs we have on `index.js` and the call to `go()`.
+Get rid of all the console logs in `index.js` and the call `go()`.
 
-The next package we will cover is `date-fns`. Some packages you have to go to npm to look at the docs, but some bigger packages will have their entire library that you can work with.
+#### date-fns npm package
+
+The next package we will cover is `date-fns`.
+
+Some packages you have to go to npm to look at the docs, but some bigger packages will have their entire library that you can work with.
 
 In the browser, go to https://date-fns.org.
 
 ![](@attachment/Clipboard_2020-05-30-18-40-17.png) 13:17
 
-date-fns has all these different methods that makes working and formatting dates much nicer.
+`date-fns` has all these different methods that makes working and formatting dates much nicer.
 
 Let's say we want to what the difference is between two dates. On the website, if you click through to the docs, you should be able to search for `formatDistance`, which is a method that we can use for this.
 
 ![](@attachment/Clipboard_2020-05-30-19-44-49.png) 13:57
 
-In `index.js` let's import `formatDistance`. `import { formatDistance } from 'date-fns';`.
+In `index.js` let's import `formatDistance`.
 
-If you have ever heard of people using Moment.js, this is the same thing, it is just a little more chunked up. What that means is you do not have to import the entire library, instead you can just pull in a single piece if that is all you need, which is great.
+```js
+//index.js
+import { formatDistance } from "date-fns";
+```
+
+If you have ever heard of people using `moment.js`, this is the same thing, it is just a little more chunked up. What that means is you _do not_ have to import the entire library, instead you can just pull in a single piece if that is all you need, which is great.
 
 ![](@attachment/Clipboard_2020-05-30-19-50-18.png) 14:39
 
@@ -2553,7 +2592,8 @@ In the docs, they provide an example of how it should be used.
 
 Let's add the following code and then log the difference.
 
-```
+```js
+//index.js
 cost diff = formatDistance(
   new Date(1986, 3, 4, 11, 32, 0),
   new Date(1986, 3, 4, 10, 32, 0),
@@ -2564,58 +2604,72 @@ console.log(diff);
 
 ![](@attachment/Clipboard_2020-05-30-20-08-40.png) 15:04
 
-When we refresh the page, we should see "in about 1 hour" logged in the console.
+When you refresh the page, you should see "in about 1 hour" logged in the console.
 
-You can also do things like this:
+You can also do things like this 👇
 
-```
-const diff = formatDate(new Date(), new Date(2020, 3, 4, 10, 32, 0), {addSuffix:true});
+```js
+//index.j
+const diff = formatDate(new Date(), new Date(2020, 3, 4, 10, 32, 0), {
+  addSuffix: true,
+});
 console.log(diff);
 ```
 
-Which gives us 4 months.
+That returns 4 months.
 
 ![](@attachment/Clipboard_2020-05-30-20-10-10.png) 15:24
 
-Often times when working with code, you will need to format a date in a specific way. Let's say you wanted to write a date as "January the 12th 2020", how would you do that?
+Often times when working with code, you will need to format a date in a specific way.
 
-At the bottom of `index.js` lets add the following:
+Let's say you wanted to write a date as "January the 12th 2020", how would you do that?
 
-```
+At the bottom of `index.js`, add the following 👇
+
+```js
+//index.js
 const date = new Date();
 ```
 
-So how do we format the current days date so that the Month is the full spelling, then the date has "th" or "st" on it, and then the year with be the number value of the year like "2020".
+How do we format the current date so that the month is the full spelling, then the date has "th" or "st" on it, and then the year with be the number value of the year like "2020"?
 
 ![](@attachment/Clipboard_2020-05-30-20-12-57.png) 16:31
 
-We will use `format` to format the date to let's import that. `import { formatDistance, format } from "date-fns";`
+We will use the `format` method, so go ahead and import that.
+
+```js
+//index.js
+import { formatDistance, format } from "date-fns";
+```
 
 The `format` method takes in a date, a format and some options.
 
 ![](@attachment/Clipboard_2020-05-31-15-25-05.png) 16:43
 
-So let's go ahead and use the format function within `index.js`. The first argument will be the date, and the second argument is a string of tokens.
+Use the format function within `index.js`. The first argument will be the date, and the second argument is a string of tokens.
 
 ![](@attachment/Clipboard_2020-05-31-15-27-44.png) 17:14
 
 For the month we want the month name to be in full. We can use `LLLL` for that.
 
-```
-const formatted = format(date, 'LLLL');
+```js
+//index.js
+const formatted = format(date, "LLLL");
 ```
 
-Next we want the word "the". To get that, we need to put it in single quotes within our string like so:
+Next, we want the word "the". To get that, we need to put it in single quotes within our string like so 👇
 
-```
+```js
 const formatted = format(date, `LLLL 'the'`);
 ```
 
 ![](@attachment/Clipboard_2020-05-31-15-32-10.png) 18:06
 
-Next we need the day of the month in "th" such at "12th" or "1st". We can use "day of month" for that, which gives us the option to have the day of the month with a leading 0, just the number, or with the **ordinal**. ("st" and "th" are referred to as ordinals). We will use `do` which gives us the day of the month with the ordinal.
+The day of the month is next, and we want the "th" such at "12th" or "1st". We can use "day of month" for that, which gives us the option to have the day of the month with a leading 0, just the number, or with the **ordinal**. ("st" and "th" are referred to as ordinals).
 
-```
+We will use `do` which gives us the day of the month with the ordinal, like so 👇
+
+```js
 const formatted = format(date, `LLLL 'the' do`);
 ```
 
@@ -2623,7 +2677,7 @@ const formatted = format(date, `LLLL 'the' do`);
 
 Finally we need the calendar year, for which we can use `y`.
 
-```
+```js
 const formatted = format(date, `LLLL 'the' do y`);
 ```
 
@@ -2633,36 +2687,37 @@ As you can see, we are able to format any date in this way. That is current not 
 
 Anytime you have to do anything with dates, such as comparing two dates, or formatting, you can reach for the `date-fns` module.
 
+#### axios npm package
+
 The next module we will cover is Axios.
 
-Axios is a library that is does basically the same thing as fetch, but it includes some defaults that fetch doe not have and it does not have weird double await that our promises do because of the JSON defalt. It also works in Node.js and at the time of recording, fetch was not available on Node.js still. You would need to polyfil it or use axios if you wanted to use fetch in Node.js.
+Axios is a library that is does basically the same thing as **fetch**, but it includes some defaults that fetch doe not have and it does not have weird double await that our promises do because of the JSON default. It also works in Node.js and at the time of recording, fetch was not available on Node.js still. You would need to **polyfill** it or use axios if you wanted to use fetch in Node.js.
 
-To use axios, we need to import it like so:
+To use axios, import it like so:
 
+```js
+import axios from "axios";
 ```
-import axios from 'axios';
-```
 
-Let's make a function at the bottom of the page that we will call `getJoke`, and we will make it async. Let's use the dad jokes API we have used previously to fetch a joke.
+Make a function at the bottom of the page called `getJoke`, and make it async. We will use the Dad Jokes API that we used previously to fetch a joke.
 
-```
-async function getJoke(){
-  const res = await axios.get('https://icanhazdadjoke.com', )
+```js
+async function getJoke() {
+  const res = await axios.get("https://icanhazdadjoke.com");
 }
 ```
 
 ![](@attachment/Clipboard_2020-05-31-15-41-35.png) 21:37
 
-The second argument for axios is headers, so let's go ahead and pass those to specify we want to accept JSON and then let's run the function on page load.
+The second argument for axios is headers, which we can use to specify that we want to accept JSON, so go ahead and modify the coded like so to do that and also run the function on page load. 👇
 
-```
+```js
 //index.js
-async function getJoke(){
-  const res = await axios.get('https://icanhazdadjoke.com',
-  {
+async function getJoke() {
+  const res = await axios.get("https://icanhazdadjoke.com", {
     headers: {
-      Accept: 'application/json'
-    }
+      Accept: "application/json",
+    },
   });
   console.log(res);
 }
@@ -2675,46 +2730,53 @@ As you can see we get the data back, as well as the headers and the entire reque
 
 Axios also supports lower level network stuff as well as things like streaming uploads and other more advanced stuff past a simple GET request and makes it easy.
 
-So in our case, we want data, so we could destructure the data and log it directly like so:
+In our case, we want data, so we could destructure the data and log it directly like so 👇
 
-```
+```js
 //index.js
-async function getJoke(){
-  const { data } = await axios.get('https://icanhazdadjoke.com',
-  {
+async function getJoke() {
+  const { data } = await axios.get("https://icanhazdadjoke.com", {
     headers: {
-      Accept: 'application/json'
-    }
+      Accept: "application/json",
+    },
   });
   console.log(data);
 }
 getJoke();
 ```
 
-Wes will normally reach for fetch in most use cases by anytime he does something a bit more advanced, he reaches for Axios.
+Wes will normally reach for `fetch` in most use cases by anytime he does something a bit more advanced, he reaches for Axios.
 
-Next we have Lodash https://lodash.com.
+#### lodash npm package
 
-Lodash is a utility luibrary for working with arrays, objects and a few other interesting things.
+Next we have Lodash: https://lodash.com.
 
-Wes is a big fan of Lodash, even though he doesn't reach for it all the time becuase most of he can achieve just use `map`, `filter` or `reduce`, but there are many use cases where Wes thinks it will be complicated to achieve with a reduce function, so he just reaches for whatever the equivalent Lodash is.
+Lodash is a utility library for working with arrays, objects and a few other interesting things.
 
-Lt's take a look at random method that lodash supports. Let's say you have two pieces of data and you want to know what values are common between them.
+Wes is a big fan of Lodash, even though he doesn't reach for it all the time because most of he can achieve just use `map`, `filter` or `reduce`, but there are many use cases where Wes thinks it will be complicated to achieve with a reduce function, so he just reaches for whatever the equivalent Lodash is.
 
-To do that we would import it. `import { intersection } from 'lodash'`.
+Let's take a look at random method that lodash supports. Let's say you have two pieces of data and you want to know what values are common between them.
+
+To do that we would import it.
+
+```js
+import { intersection } from "lodash";
+```
 
 ![](@attachment/Clipboard_2020-05-31-15-49-09.png) 24:00
 
-You will notice that all the examples for lodash use `_.` That is because it just assumes that you import the entire library. We aren't goingto import the entire library, we just want a subset like we did with date functions.
+You will notice that all the examples for lodash use `_.`
 
-```
+That is because it just assumes that you import the entire library. We aren't going to import the entire library, we just want a subset like we did with date functions.
+
+```js
 const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const b = [5, 3, 8, 3, 7, 453, 34];
 ```
 
-To figure out which of numbers exist in both arrays, we can run the method.
+To figure out which of numbers exist in both arrays, we can use the lodash method we imported.
 
-```
+```js
 const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const b = [5, 3, 8, 3, 7, 453, 34];
 
@@ -2724,9 +2786,11 @@ console.log(sameValues);
 
 ![](@attachment/Clipboard_2020-05-31-15-53-01.png) 25:10
 
-As you can see we get another array that contains the values that exist in both.
+As you can see, that returns to us an array containing the values that exist in both. 
 
-There is also `cloneDeep`. We have learned at how we can use spread or Object.assign(), but you can also do clone deep, and you can tell it how many levels deep you would like to clone.
+There is also `cloneDeep`. 
+
+We have learned about how to use the spread operator or `Object.assign()`, but you can also do `cloneDeep`, and tell it how many levels deep you would like to clone.
 
 There is also `eq` which you can use to check if two values, two objects have equal values.
 

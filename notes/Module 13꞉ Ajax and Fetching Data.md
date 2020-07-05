@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-07-05T22:37:27.578Z'
+modified: '2020-07-05T22:56:38.144Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -868,30 +868,36 @@ It would be an interesting to take this exercise even further and have it so peo
 
 ## 76 - Dad Jokes
 
-We will be doing another AJAX example in this video, but this time using a Dad Joke API. Everytime you click the button, a new random dad joke should be fetched from the API and displayed and the button text will change occassionally.
+We will be doing another AJAX example in this video, but this time using a Dad Joke API. 
+
+Everytime you click the button, a new random dad joke should be fetched from the API and displayed and the button text will change occassionally.
 
 ![](@attachment/Clipboard_2020-05-25-07-08-45.png) 00:17
 
-We will be using the API https://icanhazdadjoke.com/api which has a few endpoints. We will be using the "get a random dad joke" endpoint.
+We will be using the endpoint "get a random dad joke" from the API https://icanhazdadjoke.com/api.
 
 ![](@attachment/Clipboard_2020-05-25-07-10-09.png) 00:41
 
-This example will require custom headers which is a good thing to learn. We will also be learning how to ensure that the button text never uses the same text twice, because sometimes random is not random enough.
+This example will require **custom headers** which is a good thing to learn. 
+
+We will also be learning how to ensure that the button text never uses the same text twice, because sometimes random is not random enough.
 
 Navigate to the `exercises/76 - Dad Jokes/` directory and open up `index.html`.
 
 ![](@attachment/Clipboard_2020-05-25-07-18-56.png) 1:20
 
-We have some basic HTML to start with a div that contains a paragraph tag in which to display the joke as well as the button with a class of `getJoke` and a script tag.
+We have some basic HTML to start. We have a div div that contains a paragraph tag in which to display the joke, a button with a class of `getJoke` and a script tag.
 
-Let's start by selecting the button and the paragraph tag inside of the joke div.
+Start by selecting the button and paragraph tag inside of the joke div.
 
-```
+```js
 const jokeButton = document.querySelector('.getJoke');
 const jokeHolder = document.querySelector('.joke');
 ```
 
-Let's create a function that will be responsible for fetching the joke. Let's look at the API docs for fetching a random joke.
+Next create a function that will be responsible for fetching the joke. 
+
+Let's look at the API docs for fetching a random joke.
 
 ![](@attachment/Clipboard_2020-05-25-07-26-12.png) 2:04
 
@@ -901,9 +907,9 @@ No authentication is required. There is this one note however..
 
 What that means is we can get the joke back as HTML, JSON or plain text. That is interesting because the endpoint is going to be the same for everybody, but depending on what we pass, it will return different values to us.
 
-Let's start by writing the function that will fetch the joke. We will fetch the joke using the endpoint, and then just log the response for now. We will then call `fetchJoke` on runtime.
+Let's start by writing the function that will fetch the joke. We will fetch the joke using the endpoint, and then just log the response for now. We will then call `fetchJoke` on runtime. 👇
 
-```
+```js
 const jokeButton = document.querySelector(".getJoke");
 const jokeHolder = document.querySelector(".joke");
 
@@ -930,9 +936,11 @@ If you refresh the page, you should see the response is something similar to wha
 
 ![](@attachment/Clipboard_2020-05-25-07-32-45.png) 3:38
 
-Now we need to turn that stream into something that is human readable. Let's try to do `response.json()` like we have used in the past and log that.
+### Headers
 
-```
+Now we need to turn that stream into something that is human readable. Let's try to do `response.json()` like we have used in the past and log that. 👇
+
+```js
 const joke = response.json();
 console.log(joke);
 ```
@@ -941,7 +949,7 @@ However, if you try that, you will see an error like the following:
 
 > Uncaught (in promise) SyntaxError: Unexpected token < in JSON at position 0
 
-What that errors means is that you have most likely been returned some HTML (since it returned an open angle bracket `<`) and while it is trying to part that JSON it is complaining.
+What that errors means is that you have most likely been returned some HTML (since it returned an open angle bracket `<`) and while it is trying to parse that, JSON it is complaining.
 
 The way we can check for that is to go to the network tab and find the actual request and click through it, you will see that the response is just an HTML document that came back.
 
@@ -949,7 +957,7 @@ The way we can check for that is to go to the network tab and find the actual re
 
 Not all websites allow you to fetch HTML but since this API has a CORS policy setup, we are able to do it.
 
-SO the API is telling us we need to pass an Accept header which is either:
+So the API is telling us we need to pass an **Accept Header** which is either:
 
 - text/html (this is what we just saw)
 - application/json
@@ -957,15 +965,17 @@ SO the API is telling us we need to pass an Accept header which is either:
 
 We need to pass that option along a header.
 
-What is a **header**? A header is some additional information that comes along with a request, kind of like when we pass query parameters, but headers are passed in a different way.
+What is a **header**? 
 
-If you look at our dad joke API fetch request in the network tab and click it, you can click the headers tab and see the headers that were passed along with the request, and the headers that were passed along with the response.
+A header is some additional information that comes along with a request, kind of like when we pass query parameters, but headers are passed in a different way.
+
+If you look at our dad joke API fetch request in the network tab and click it, you can click the headers tab and see the headers that were passed along with the request, and the ones that were passed along with the response.  
 
 ![](@attachment/Clipboard_2020-05-25-07-47-05.png) 5:33
 
-So what we need to do is pass along additional information with `fetch`. The way it works is you pass a second object to fetch, which can take in a whole bunch of different arguments.
+We need to pass along this additional information with `fetch`. The way you do that is you pass a second object to fetch, which can take in a whole bunch of different arguments. 👇
 
-```
+```js
 const response = await fetch('http://icanhazdadjoke.com', {
   headers:{
 
@@ -975,9 +985,9 @@ const joke = response.json();
 console.log(joke);
 ```
 
-The docs said the API requires an Accept header so let's go ahead and add that.
+The documentation said the API requires an **Accept Header** so let's go ahead and add that.
 
-```
+```js
 const response = await fetch('http://icanhazdadjoke.com', {
   headers:{
     Accept: 'application/json',
@@ -992,16 +1002,16 @@ If you refresh the page now, you will see a promise.
 
 That is because we forgot to await the response. Modify the code like so:
 
-```
+```js
 const joke = await response.json();
 console.log(joke);
 ```
 
-Now what comes back is the data.
+Now what comes back is the actual data.
 
 ![](@attachment/Clipboard_2020-05-25-07-52-59.png) 6:40
 
-```
+```js
 const response = await fetch('http://icanhazdadjoke.com', {
   headers:{
     Accept: 'application/json',
@@ -1013,15 +1023,13 @@ const response = await fetch('http://icanhazdadjoke.com', {
 
 ![](@attachment/Clipboard_2020-05-25-07-54-38.png) 6:59
 
-Now if we change that to text/plain (it is fine to have two, the one further down will overwrite the earlier ones, we will a similar error about unexpected token W.
-
-If you look at the response, it says "Unexpected W" because it returned to us text.
+Now if we change that to text/plain (it is fine to have two, the one further down will overwrite the earlier ones, we will a similar error about unexpected token W). If you look at the response, it says "Unexpected W" because it returned to us text and our application was expecting JSON.
 
 This shows us that we can accept HTML, plain text or JSON, not because we changed the accept headers, but because we are sending a request to a server that offers up those three kinds of response formats.
 
-Let's change the format back to json and return it from the `fetchJokes` function.
+Change the format back to json and return it from the `fetchJokes` function.
 
-```
+```js
 async function fetchJoke() {
   const response = await fetch("http://icanhazdadjoke.com", {
     headers: {
@@ -1036,7 +1044,7 @@ async function fetchJoke() {
 
 Similarly, you could also just return `response.json()` directly.
 
-```
+```js
 async function fetchJoke() {
   const response = await fetch("http://icanhazdadjoke.com", {
     headers: {
@@ -1052,45 +1060,45 @@ That still works because we are in an async function so we will just be awaiting
 
 Wes prefers to do it the way we originally coded it so that if we needed to log the response, it's as easy as adding a log.
 
-The next thing we want to do is wire up the button so that when someone clicks it, we will fetch a joke.
+Next we want to wire up the button so that when someone clicks it, we will fetch a joke.
 
 Get rid of our call to `fetchJoke` on runtime and instead let's make an async function called `handleClick` which will be responsible for fetching a joke.
 
-```
+```js
 async function handleClick(){
   const { joke } = await fetchJoke();
   console.log(joke);
 }
 ```
 
-The reason we are using destructuring is that `fetchJoke` will return an object to us with properties of `id`, `joke` and `status`. We only want the joke property for now so we are destructuring the joke property to it's own variable.
+The reason we are using destructuring is that `fetchJoke` will return an object to us with properties of `id`, `joke` and `status`.  We only want the joke property for now so we are destructuring the joke property to it's own variable.
 
-Next let's add an event listener for the click event. When it happens, we will run `handleClick`.
+Next add an event listener for the click event, and pass it the `handleClick` function to run on the event. 
 
-```
+```js
 jokeButton.addEventListener('click', handleClick);
 ```
 
-If you refresh the page and open the console, you will see everytime we click the button, a new joke is logged.
+Now when you refresh the page and open the console, you will see that everytime we click the button, a new joke is logged.
 
 ![](@attachment/Clipboard_2020-05-25-08-11-39.png) 9:29
 
-What we can do within `handleClick` is we can take the `jokeHolder` and set it's `textContent` to be the joke.
+Now within`handleClick`, take the `jokeHolder` and set it's `textContent` to be the joke 👇
 
-```
+```js
 async function handleClick() {
   const { joke } = await fetchJoke();
   jokeHolder.textContent = joke;
 }
 ```
 
-Now when you click the button, the joke should populate and change within the paragraph tag.
+When the button is clicked now, the joke should populate and change within the paragraph tag.
 
 ![](@attachment/Clipboard_2020-05-25-08-14-33.png) 9:48
 
-Next we want to tahe button text and replace it with one of the strings in the `buttonText` variable below.
+Next we want to take the button text and replace it with one of the strings in the `buttonText` array shown below.👇
 
-```
+```js
 
 const buttonText = [
   "Ugh.",
@@ -1104,22 +1112,28 @@ const buttonText = [
 ];
 ```
 
-Let's call this function `getItemFromArray` and it will accept two arguments, the array, and then what to not be (we will implement that second param in a sec).
+To do that, call the function `getItemFromArray`, which will accept two arguments: 
+- the array
+- then what to not be (we will implement that second param in a sec).
+
+### Getting a Random Index
 
 If the array is 5 items long, then to find a random index between 0 - 4 we can use `Math.random() * 5`.
 
-```
+```js
 function randomItemFromArray(arr, not) {
   const item = arr[Math.floor(Math.random() * arr.length)];
   return item;
 }
 ```
 
-The reason we are using the passed in array to calculate the length and not the `buttonText` variable is that we want this function to be a utility function, and he wants to be able to use them for anything, not just with the `buttonText` array.
+The reason we are using the passed in array to calculate the length and not the `buttonText` variable is that we want this function to be a utility function, and to be able to use them for anything, not just with the `buttonText` array. This allows it to be more generic. 
 
-Now let's try to run it from the console. Refresh the HTML page and pass the `buttonText` array to the function we just created.
+Let's try to run it from the console. 
 
-```
+Refresh the HTML page and pass the `buttonText` array to the function we just created.👇
+
+```js
 randomItemFromArray(buttonText);
 ```
 
@@ -1127,11 +1141,13 @@ Now whenever we run it, we get a random item returned.
 
 ![](@attachment/Clipboard_2020-05-25-17-22-55.png) 12:10
 
-However, sometimes it will randomly return the exact same thing, which makes it seem like nothing happened. That is why we have that `not` parameter that we are passing. Within the `randomItemFromArray` function, lets use that `not` parameter to ensure the same text isn't selected twice.
+However, sometimes it will randomly return the exact same thing, which makes it seem like nothing happened. 
 
-We will check whether the randomly selected item matches the `not` item, and if it does, we will call the function again. That is an example of **recursion** because the function is calling itself.
+That is why we have that `not` parameter that we are passing. Within the `randomItemFromArray` function, we will use that `not` parameter to ensure the same text isn't selected twice.
 
-```
+To do that, we will add a check for wehther the randomly selected item matches the `not` argument, and if it does, we will call the function again. That is an example of **recursion** because the function is calling itself.
+
+```js
 if(item == not){
   console.log("Ah! we used that one last time, look again");
   return randomItemFromArray(arr, not);
@@ -1146,9 +1162,9 @@ Let's try running it in the console but this time passing the `not` parameter.
 
 As you can see, when we got "please stop", we logged "Ah we used that one last time look again" to the console and the method called itself again and the next time it returned different text.
 
-So now we can do the following..
+So now we can do the following.. 👇
 
-```
+```js
 async function handleClick(){
   const { joke } = await fetchJoke();
   jokeHolder.textContent = joke;
@@ -1156,15 +1172,19 @@ async function handleClick(){
 }
 ```
 
-We are ensuring that the button text never stays the same using this line of code `jokeButton.textContent = randomitemFromArray(buttonText, jokeButton.textContent);`, We get the "not" argument from the text that currently exists on the button when it is clicked.
+We are ensuring that the button text never stays the same using this line of code `jokeButton.textContent = randomitemFromArray(buttonText, jokeButton.textContent);`.  We get the "not" argument from the text that currently exists on the button when it is clicked.
 
-Now if you refresh the page, you will see it is working very well, and if you just keep clicking it, eventually we wil lget a log that we already used that one.
+If you refresh the page, you will see it is working very well, and if you just keep clicking it, eventually we will get a log that states "we already used that one".
+
+### Loading State & CSS Loader
 
 This is working, but one thing we are going to do is add a loading state. Feel free to leave this lesson now if you are not interested in loaders.
 
-Let's make a CSS loader. In the HTML, right before our paragrah tag that will contain our dad jokes, add the following div `<div class="loader"></div>`.
+Let's make a CSS loader. 
 
-Now let's google "CSS loader" and we will select `loading.io`.
+In the HTML, right before our paragrah tag that will contain our dad jokes, add the following div `<div class="loader"></div>`.
+
+LGoogle "CSS loader" and select `loading.io`.
 
 ![](@attachment/Clipboard_2020-05-25-17-32-22.png) 15:39
 ![](@attachment/Clipboard_2020-05-25-17-32-40.png) 15:43
@@ -1173,9 +1193,9 @@ Click on whatever loader you would like to move and it should show you the marku
 
 ![](@attachment/Clipboard_2020-05-25-17-33-09.png) 15:50
 
-Let's actually replace the div we just added with the HTML supplied to us for the loader.
+Then let's actually replace the div we just added with the HTML supplied to us for the loader.
 
-```
+```html
   <div class="wrapper">
     <div class="joke">
       <div class="lds-ripple">
@@ -1190,9 +1210,9 @@ Let's actually replace the div we just added with the HTML supplied to us for th
   </div>
 ```
 
-Lets also copy the CSS and add it.
+Copy the CSS and add it.
 
-```
+```css
 .lds-ripple {
   display: inline-block;
   position: relative;
@@ -1233,11 +1253,13 @@ Lets also copy the CSS and add it.
 
 ```
 
-Now let's refresh the page and take a look at it. If you refresh the page, you will notice we don't see anything.
+If you refresh the page, you will notice we don't see anything.
 
-Let's inspect the element and see what is going on. If you look at the styles, you will notice the loader is set to the colour white. Let's fix that.
+Let's inspect the element and see what is going on. 
 
-```
+If you look at the styles, you will notice the loader is set to the colour white. Let's fix that.👇
+
+```css
 .lds-ripple div {
   position: absolute;
   border: 4px solid var(--yellow);
@@ -1251,24 +1273,40 @@ Let's inspect the element and see what is going on. If you look at the styles, y
 
 Now you can see the loader, it was always working, it was just white so we could not see it.
 
-Lets add a class of "loader" to the loader ontop of the existing `lds-ripple` class.
-`<div class="lds-ripple loader">`
-
-At the top of the script, lets select the loader.
-
+Add a class of "loader" to the loader ontop of the existing `lds-ripple` class.
+```HTML
+<div class="lds-ripple loader">
 ```
+
+At the top of the script, select the loader.
+
+```js
 const loader = document.querySelector('.loader');
 ```
 
-Now when we fetch within the `fetchJoke` function, we will turn the loader on. By default we will make the loader set to `display:none`.
+When we fetch within the `fetchJoke` function, let's turn the loader on. By default we will make the loader set to `display:none`.
 
-To do that, let's create a class of `hidden` and set it to `display:none;`. Let's add that to our loader.
-`<div class="lds-ripple loader hidden">`
+To do that, create a class of `hidden` and set it to `display:none;` and then add that class to our loader like so: 👇
 
-Now when we want to turn the loader on, we will call `loader.classList.remove('hidden')`.
-When the data comes back, we want to turn it off `loader.classList.add('hidden')`.
-
+```HTML
+<div class="lds-ripple loader hidden">
 ```
+
+Now when we want to turn the loader on, we will call 👇
+
+```js
+loader.classList.remove('hidden')
+```
+
+When the data comes back, we want to turn it off using  👇
+
+```js
+loader.classList.add('hidden')
+```
+
+Modify the code like so 👇
+
+```js
 async function fetchJoke() {
   loader.classList.remove("hidden");
   const response = await fetch("http://icanhazdadjoke.com", {
@@ -1283,9 +1321,9 @@ async function fetchJoke() {
 }
 ```
 
-Now let's also hide the button while that is happening.
+Also hide the button while that is happening.
 
-```
+```js
 async function fetchJoke() {
   loader.classList.remove("hidden");
   jokeButton.classList.remove('hidden');
@@ -1308,7 +1346,7 @@ However, that looks a bit jarring.
 
 Let's try to put the loader inside of the button instead.
 
-```
+```html
 <button class="getJoke">
   <span class="jokeText">Get A Joke
     <div class="lds-ripple loader">
@@ -1321,17 +1359,19 @@ Let's try to put the loader inside of the button instead.
 
 ![](@attachment/Clipboard_2020-05-25-17-51-44.png) 19:54
 
-It is showing up because we removed the class of `hidden` from the HTML. Let's modify the CSS to make the loader white again.
+It is showing up because we removed the class of `hidden` from the HTML. Modify the CSS to make the loader white again.
 
-```
+```csss
   border: 4px solid var(--yellow);
 ```
 
 ![](@attachment/Clipboard_2020-05-25-17-52-49.png) 20:00
 
-Let's also change the size. We will make a size variable and set it to 20px and then modify some of the other CSS to use that variable instead.
+Let's also change the size. 
 
-```
+We will make a size variable and set it to `20px` and then modify some of the other CSS to use that variable instead.
+
+```html
     <style>
       html {
         --size: 20px;
@@ -1398,7 +1438,7 @@ Let's put the loader back to hidden on page load by adding back that class.
 
 Now we need to modify our buttons to not hide it anymore, so remove that code from `fetchJoke`.
 
-```
+```js
 async function fetchJoke() {
   loader.classList.remove("hidden");
   const response = await fetch("http://icanhazdadjoke.com", {
@@ -1415,18 +1455,18 @@ async function fetchJoke() {
 
 If you refresh the page and try that now, it will work the first time but not the second time because we overwrite the loader with the text this time.
 
-What we need to do is grab the span element within the joke button so we only replace that portion of the button, instead of the entire button.
+What we need to do is grab the `span` element within the joke button so we only replace that portion of the button, instead of the entire button.
 
 At the top of the file add `jokeButtonSpan` like so:
 
-```
+```js
 const jokeButton = document.querySelector(".getJoke");
 const jokeButtonSpan = jokeButton.querySelector(".jokeText");
 ```
 
-Let's find where in our code we are updating the button text and instead update the `jokeButtonSpan` instead.
+Let's find where in our code we are updating the button text and instead update the `jokeButtonSpan` instead. 👇
 
-```
+```js
 async function handleClick() {
   const { joke } = await fetchJoke();
   jokeHolder.textContent = joke;

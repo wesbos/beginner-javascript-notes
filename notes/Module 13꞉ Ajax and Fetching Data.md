@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-07-03T22:51:09.935Z'
+modified: '2020-07-05T22:37:27.578Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -731,23 +731,21 @@ async function handleSubmit(event) {
 
 When we submit the form now and search for something like "chicken", it will disable the button, fetch and log the recipes, and finally renable the button.
 
- you were to search something like "chicken" the form would submit, the button will be disabled for a minute and then in the console you would see the results of recipes with chidekn in them and the button would be reenabled.
-
 ![](@attachment/Clipboard_2020-05-24-20-07-52.png) 24:45
 
-Let's make another function called `displayReicpes` will will take in the array of recipes, and inside of that function we will generate the HTML to display the recipes.
+Next, make another function called `displayRecipes` which takes in the array of recipe and returns the HTML that will be used to display those recipes.
 
-How will see pass the recipes array from the `handleSubmit`? If you log `recipes`, you will see that it actually return an object and the recipes array lives on the `results` property of the `recipes` object.
+How can we pass the recipes array from the `handleSubmit`? 
 
-So we can pass the array like so `displayRecipes(recipes.results);`.
+If you log `recipes`, you will see that it actually return an object and the recipes array lives on the `results` property of the `recipes` object. We can use that property to pass the array like so `displayRecipes(recipes.results);`.
 
-Within `displayRecipes` will will loop through each recipe and return some generated HTML. We will return the title, ingredients and a thumnail if there is one (which we will check for with a conditional).
+`displayRecipes` will loop through each recipe and return some generated HTML, such as the title, ingredients and a thumnail imgae if there is one (which we will check for with a conditional).
 
 This might look a little confusing because you can nest template tags within template tags as deep as you want.
 
-Here we have one template tag and inside of that template tag we can run javascript logic, and also return another template tag which in turn will have template tags inside of them.
+Below we have one template tag and inside of that template tag we can run javascript logic, and also return another template tag which in turn will have template tags inside of them.
 
-```
+```js
 function displayRecipes(recipes) {
   console.log("Creating HTML");
   const html = recipes.map(
@@ -766,31 +764,35 @@ function displayRecipes(recipes) {
 
 As you can see, for each recipe we had returned we have some HTML generated for them.
 
-Now let's go back to our HTML and make a div `<div class="recipes"></div>`. Inside of that div, we will put a grid of recipes.
+At this point let's go back to the HTML page and make a div `<div class="recipes"></div>`. Inside of that div we will display the grid of recipes. 
 
-Let's start by grabbing the div.
+Start by grabbing the div. 👇
 
-```
+```js
 const recipesGrid = document.querySelector('.recipes');
 ```
 
-At the bottom of displayRecipes, let's set the innerHTML of the recipes grid to be equal to our array of html, which we will join. If we didn't join it, there would be a comma between each of the elements.
+At the bottom of displayRecipes, set the innerHTML of the recipes grid to be equal to our array of HTML, which we will join (if we did not join them, there would be a comma between each of the elements). 👇
 
-```
+```js
 recipesGrid.innerHTML = html.join('');
 ```
 
-When you refresh the page, the HTML should look something like this;
+When you refresh the page, the HTML should look similar to the image below 👇
 
 ![](@attachment/Clipboard_2020-05-24-20-20-43.png) 29:21
 
 ![](@attachment/Clipboard_2020-05-24-20-21-00.png)29:32
 
-For each item, we created a div, added the title and the ingredients and then some of them have images.
+For each item, we have:
+- created a div
+- added the title
+- the ingredients 
+- show the image if avaialble
 
-Now le'ts add the following css to make it look better:
+Add the following css to make it look better:
 
-```
+```css
 .recipes {
    display:grid;
    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -803,11 +805,11 @@ Now le'ts add the following css to make it look better:
 }
 ```
 
-One thing we forgot to add was linking to the actualy recipe with an `href`.
+One thing we forgot to do was link each recipe using an `href`.
 
-Let's go back to our `displayRecipes` function and modify it like so:
+Go back to the `displayRecipes` function and modify it like so:
 
-```
+```js
 function displayRecipes(recipes) {
   console.log("Creating HTML");
   const html = recipes.map(
@@ -823,15 +825,19 @@ function displayRecipes(recipes) {
 }
 ```
 
-The one issue we have it not running on page load. Why is that? If you look, a lot of our logic is tied to the submit event, so we can't just run that on page load unless we were to fake a submit event.
+The one issue we have now is it's not running on page load. 
 
-To solve that issue, we will make another async function called `fetchAndDisplay` which will take in a parameter `searchTerm`.
+Why is that? If you look, a lot of our logic is tied to the submit event, so we can't just run that on page load unless we were to fake a submit event.
 
-We will take all the logic from the `handleSubmit` function below where wew log the search term and we will move it to `fetchAndDisplay`. We will modify the code slightly amd also add a call in `handleSubmit` to `fetchAndDisplay` which will take in the search term as a parameter.
+To solve that issue, let's make another async function called `fetchAndDisplay` which will take in a parameter `searchTerm`.
 
-One thing we need to change is that we no longer have access to the `el` function in `fetchAndDisplay`. The element would need to be either globally scoped or passed the function. Luckily we do have the form globally scoped.
+Take all the logic from the `handleSubmit` function below where we log the search term and we will move it to `fetchAndDisplay`. Let's modify the code slightly amd also add a call in `handleSubmit` to `fetchAndDisplay` which will take in the search term as a parameter.
 
-```
+One thing we need to change is that we no longer have access to the `el` function in `fetchAndDisplay`. The element would need to be either globally scoped or passed the function. 
+
+Luckily we do have the form globally scoped.
+
+```js
 async function handleSubmit(event) {
   event.preventDefault();
   const el = event.currentTarget;
@@ -850,11 +856,13 @@ async function fetchAndDisplay(query) {
 }
 ```
 
-Now we need run it on pageLoad. We will do that by replacing the last line of code from `fetchRecipes("pizza");` to `fetchAndDisplay('pizza');`.
+Next we just need to include a call to run it on page load. Relpace the last line of code from `fetchRecipes("pizza");` to `fetchAndDisplay('pizza');`.
 
-Now if you refresh the page, you will see it is running on pageload with the default term "pizza" and if you type in another search term and hit submit, it will work.
+Now when you refresh the page, you will see it is running on page load with the default term "pizza". If you type in another search term and hit submit, it will work.
 
-That is the basics. It would be an interesting to take this exercise even further and have it so people could have an input box for ingredients and that would get passed along for the ride.
+That is the basics. 
+
+It would be an interesting to take this exercise even further and have it so people could have an input box for ingredients and that would get passed along for the ride.
 
 ---
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-07-05T22:56:38.144Z'
+modified: '2020-07-05T23:20:29.671Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -1489,11 +1489,11 @@ In this video we will build a currency conversion app.
 
 The app allows you to enter an amount to convert, specify it's currency and then specify which currency to convert it to.
 
-We will be using the https://exchangeratesapi.io API to accomplish this, which is free and open source.
+We will be using the https://exchangeratesapi.io API to accomplish this, which is free and open source and will be working out of the `exercises/77 - Currency Converter/` folder. 
 
-We will be working out of the `exercises/77 - Currency Converter/` folder. Let's start by opening the HTML to see what we are working with.
+Let's start by opening the HTML to see what we are working with.
 
-```
+```html
 <body>
   <div class="app">
     <form>
@@ -1513,23 +1513,26 @@ We will be working out of the `exercises/77 - Currency Converter/` folder. Let's
 </body>
 ```
 
-As you can see we have a form, with an input named `from_amount`, a selectbox named `from_currency` and one named `to_currency`. The last part of the form is a paragraph tag with the class of `to_amount`.
+As you can see we have a form with..
+- an input named `from_amount`
+- a selectbox named `from_currency` and one named `to_currency`
+- a paragraph tag with the class of `to_amount`
 
 You will notice there are no options currently for the `from` or the `to` currency, because that will be populated on page load.
 
-We have a script src tag right before the closing body tag.
+We have a script source tag right before the closing body tag.
 
 If you open up `money.js`, you will see that Wes has already given us just a list of currencies, which is the currency code translated to their English verison.
 
 ![](@attachment/Clipboard_2020-05-25-18-24-52.png) 2:09
 
-Let's start by converting those currencies so we can populate those.
+Let's start by converting those currencies so we can populate them.
 
-In `money.js`, after the `currencies` object, let's make a function called `generateOptions` which will accept one parameter, `options` which will be an object.
+In `money.js`, after the `currencies` object, make a function called `generateOptions` which will accept one parameter, `options`, which will be an object.
 
-We will add the following code so it runs on page load and refresh the page.
+Add the following code so it runs on page load and refresh the page.
 
-```
+```js
 const optionsHTML = generateOptions(currencies);
 console.log(optionsHTML);
 ```
@@ -1538,24 +1541,27 @@ console.log(optionsHTML);
 
 Let's go back to looping. How do you loop over an object?
 
-There is the `for of` loop, or we can use the `Object.entries`,`Object.keys`, or `Object.values`.
+We can use: 
+- the `for of` loop 
+- `Object.entries`
+- `Object.keys`
+- `Object.values`
 
-Let's use `.entries` to turn this object into an array.
+Let's use `.entries` to turn this object into an array, like so 👇
 
-```
+```js
 function generateOptions(options){
   return Object.entries(options);
 }
-
 ```
 
-If you refresh the page, you will see that gives us an array, where each item inside of the array is another array, with the first thing being the currency code and the second thing being the label.
+If you refresh the page, you will see that gives us an array, where each item inside of the array is another array, the first time of which is the currency code and the second item being the label.
 
 ![](@attachment/Clipboard_2020-05-25-18-38-04.png) 4:09
 
-Let's take that array and map over it so we get the nested array, so let's log that one.
+Let's take that array and map over it so we get the nested array, and then log it. 👇
 
-```
+```js
 function generateOptions(options){
   return Object.entries(options).map(arr => {
     console.log(arr);
@@ -1565,9 +1571,11 @@ function generateOptions(options){
 
 ![](@attachment/Clipboard_2020-05-25-18-40-02.png) 4:37
 
-We can destructure each sub-array to two variables `currencyCode` and `currencyName`.
+We can destructure each sub-array to two variables:
+- `currencyCode`
+- `currencyName`
 
-```
+```js
 function generateOptions(options){
   return Object.entries(options).map(([currencyCode, currencyName]) => {
     console.log(currencyCode, currencyName);
@@ -1579,7 +1587,7 @@ function generateOptions(options){
 
 As you can see, it is looking good, except the array is undefined because we are not returning anything, so let's change that and return some HTML using backticks.
 
-```
+```js
 function generateOptions(options){
   return Object.entries(options).map(([currencyCode, currencyName]) => {
     return `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`;
@@ -1589,11 +1597,11 @@ function generateOptions(options){
 
 ![](@attachment/Clipboard_2020-05-25-18-45-14.png) 5:\$3
 
-As you can see, our `optionsHTML` variable now contains an array of HTML options.
+Now the `optionsHTML` variable contains an array of HTML options.
 
-At the end of our `map`, lets add `.join('')`, which should turn the array into one long string of HTML.
+At the end of `map`, add `.join('')`, which should turn the array into one long string of HTML. 👇
 
-```
+```js
 function generateOptions(options){
   return Object.entries(options).map(([currencyCode, currencyName]) =>
      `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
@@ -1603,18 +1611,18 @@ function generateOptions(options){
 
 ```
 
-Now on pageload we can populate the option elements.
+On page load, let's populate the option elements.
 
-First we need to go to the top of the page and select those elements.
+First go to the top of the page and select those elements.👇
 
-```
+```js
 const fromSelect = document.querySelector('[name="from_currency"]');
 const fromInput = document.querySelector('[name="from_amount"]');
 ```
 
-Now at the bottom of the page lets add the following code.
+At the bottom of the page, add the following code.
 
-```
+```js
 const optionsHTML = generateOptions(currencies);
 // populate the options elements
 fromSelect.innerHTML = optionsHTML;
@@ -1623,27 +1631,29 @@ toSelect.innerHTML = optionsHTML;
 
 We are populating both options with the exact same list. That is why we put `optionsHTML` in a variable, so that we would not unnecessarily run that function twice.
 
-Now when you refresh, you will see that each option has a dropdown.
+Now when you refresh, you will see that each option has a dropdown. 👇
 
 ![](@attachment/Clipboard_2020-05-25-18-51-57.png) 7:10
 
-Next, lets work on some of the functionality before we code the UI any further.
+Let's switch to working on some of the functionality before we continue coding the UI any further. 
 
-Let's code the function that will go fetch the rates from the exchanges API. It will accept one parameter, `base` which we will default to "USD" as the base currency.
+Start with the function that will go fetch the rates from the exchanges API. It will accept one parameter, `base` which we will default to "USD" as the base currency.
 
-Then within this function, we need to fetch the latest rates from https://api.exchangeratesapi.io/latest. Let's stick that endpoint in a variable at the top.
+Inside of the function, we need to fetch the latest rates from https://api.exchangeratesapi.io/latest. 
 
-```
+Stick that endpoint in a variable at the top.
+
+```js
 const endpoint = 'https://api.exchangeratesapi.io/latest';
 ```
 
-The way this endpoint works is we need to pass it a query parameter of our base currency like you see in the image below.
+The way this endpoint works is we need to pass it a query parameter of our base currency, as shown in the image below.
 
 ![](@attachment/Clipboard_2020-05-26-06-57-38.png) 8:38
 
 That will return the exchange rates to us as well as the base currency.
 
-```
+```js
 async function fetchRates(base = "USD"){
   const res = await   fetch(`${endpoint}?base=${base}`);
   const rates = await res.json();
@@ -1661,20 +1671,31 @@ You can try passing the base currency as "CAD" and it should still work.
 
 Let's wrap that function up by returning `rates` from it.
 
-The next thing that we want to do is make a convert function. The function will take in a raw number as well as the "from" currency and the "to" currency.
-
-If we do not have the rates for that specific currency, we will have to use the fetch rates function to go ahead and fetch it.
-
-We will make a convert function that takes in `amount`, `from`, and `to`.
-
+```js
+async function fetchRates(base = "USD"){
+  const res = await   fetch(`${endpoint}?base=${base}`);
+  const rates = await res.json();
+  return rates;
+}
 ```
+
+The next thing that we want to do is make a convert function. The function will take in:
+- a raw number 
+- a "from" currency
+- a "to" currency
+
+If we do not have the rates for that specific currency, we will have to use  `fetchRates` to go ahead and fetch it.
+
+Make that `convert` function like so 👇
+
+```js
 function convert(amount, from, to){
   //first check if we even have the rates to convert from that currency
 
 }
 ```
 
-Here is where that exercise gets a little tricky. We could fetch the rates each time, but that could be a bit slow, because everytime we type into the `amount` input box, we will call the convert function.
+Here is where that exercise gets a little tricky. We could fetch the rates each time, but that could be a bit slow, because every time we type into the `amount` input box, we will call `convert` function.
 
 In the DEMO, you can see that the conversion is happening almost instantaneously.
 

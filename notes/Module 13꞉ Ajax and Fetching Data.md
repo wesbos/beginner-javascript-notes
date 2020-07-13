@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png]
+attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png, rates.gif]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
-modified: '2020-07-06T20:41:28.712Z'
+modified: '2020-07-13T22:15:33.660Z'
 ---
 
 # Module 13: Ajax and Fetching Data
@@ -268,7 +268,7 @@ The promise where we fetch the endpoint can now be switched to `await` and that 
 
 ```js
 async function displayUser(username) {
-  userEl.textContent = 'loading...';
+  userEl.textContent = "loading...";
   const response = await fetch(endpoint);
   const data = await response.json();
   console.log(data);
@@ -281,7 +281,7 @@ async function displayUser(username) {
 
 The only thing left is to call `displayUser` on page load.
 
-Let's go ahead and do that to display the user. 
+Let's go ahead and do that to display the user.
 
 Replace the `endpoint` variable with `baseEndpoint` and make another variable for the `usersEndpoint` like so 👇
 
@@ -322,7 +322,7 @@ To test this, let's try calling it from the bottom of our script tag with the us
     console.log(err);
   }
 
-  displayUser("stolinski")
+  displayUser("stolinski");
 </script>
 ```
 
@@ -337,7 +337,7 @@ _🔥HOT TIP: You can filter out just AJAX request from the Network tab by click
 
 ![](@attachment/Clipboard_2020-05-21-18-47-00.png) 16:11
 
-Next let's modify the `handleError` function to show the error by replacing the paragraph text content. 
+Next let's modify the `handleError` function to show the error by replacing the paragraph text content.
 
 ```js
 function handleError(err) {
@@ -345,7 +345,6 @@ function handleError(err) {
   console.log(err);
   userEl.textContent = `Something went wrong: ${err}`;
 }
-
 ```
 
 ![](@attachment/Clipboard_2020-05-21-18-48-54.png) 16:55
@@ -366,13 +365,13 @@ You can scroll through and find different APIs for all different things.
 
 In this video we are going to build an app that searches for a recipe based on a keyword and then we will display the data.
 
-We will use a real API in this example so Wes can show us how to overcome common hurdles you will face when working with APIs. Working with APIs can be frustrating so it will be helpful to know how to approach the common pitfalls when you try it yourself. 
+We will use a real API in this example so Wes can show us how to overcome common hurdles you will face when working with APIs. Working with APIs can be frustrating so it will be helpful to know how to approach the common pitfalls when you try it yourself.
 
 We will be using the API www.recipepuppy.com.
 
 ![](@attachment/Clipboard_2020-05-22-07-49-00.png) 00:52
 
- If you look at the docs, the way this API works is you go to the url and pass `i` (which is ingredients), pass `q` ( which is your omelet) and pass `p` (which is your page). On the homepage, you can see that there are additional parameters you can pass.
+If you look at the docs, the way this API works is you go to the url and pass `i` (which is ingredients), pass `q` ( which is your omelet) and pass `p` (which is your page). On the homepage, you can see that there are additional parameters you can pass.
 
 `http://www.recipepuppy.com/api/?i=onions,garlic&q=omelet&p=3`
 
@@ -380,7 +379,7 @@ We will be using the API www.recipepuppy.com.
 
 ![](@attachment/Clipboard_2020-05-22-07-54-59.png) 1:08
 
-`i`, `q` and `p` are all parameters.  Let's talk about **parameters**.
+`i`, `q` and `p` are all parameters. Let's talk about **parameters**.
 
 Sometimes when you got to a URL, you see these question marks on the end.
 
@@ -407,7 +406,7 @@ p=3
 
 In the query string above...
 
-- `i` is being passed multiple ingredients. _Note: using commas to separate the multiple items is not a standard thing, it is just how that API works._ 
+- `i` is being passed multiple ingredients. _Note: using commas to separate the multiple items is not a standard thing, it is just how that API works._
 
 - `q` is the recipe you are looking for.
 
@@ -415,29 +414,29 @@ In the query string above...
 
 Parameters are never standard, every API implements them a little bit differently so you always have to go and read the docs.
 
-We will be working out of the `/exercises/75 - CORS and Recipes/` directory. 
+We will be working out of the `/exercises/75 - CORS and Recipes/` directory.
 
-This example will include a form with an input where the user can type a keyword, and they should be returned a list of recipies, their ingredients and a thumbnail image.  
+This example will include a form with an input where the user can type a keyword, and they should be returned a list of recipies, their ingredients and a thumbnail image.
 
 We won't worry about the UI just yet, let's just getting it working.
 
 ![](@attachment/Clipboard_2020-05-22-08-10-11.png) 2:31
 
-In the empty `scripts.js` file, let's add the base url. 
+In the empty `scripts.js` file, let's add the base url.
 
 Next, create an async function that takes in a parameter and fetches that from the endpoint, and call it on runtime.
 
 ```js
-const baseEndpoint = "http://www.recipepuppy.com/api"
+const baseEndpoint = "http://www.recipepuppy.com/api";
 
-async function fetchRecipes(query){
+async function fetchRecipes(query) {
   const res = await fetch(`${baseEndpoint}?q=${query}`);
   const data = await res.json();
 }
-fetchRecipes('pizza');
+fetchRecipes("pizza");
 ```
 
-Let's start fetching the data. 
+Let's start fetching the data.
 
 Open up the dev tools and then refresh the page. You should see the following error 👇
 
@@ -453,30 +452,31 @@ If you look at the network tab, and filter for XHR, you will see the request but
 
 ### CORS
 
-What happened there is the browser blocked it because of something called **CORS**. 
+What happened there is the browser blocked it because of something called **CORS**.
 
-#### What is CORS? 
+#### What is CORS?
 
-CORS stands for **Cross Origin Resource Sharing**. The "CO" in CORS stands for **cross origin**. 
+CORS stands for **Cross Origin Resource Sharing**. The "CO" in CORS stands for **cross origin**.
 
 What are **origins**? Take the two websites: wesbos.com and github.com. Those are both origins. Domain names are origins.
 
-If you want to share data between two origins like wesbos.com and github.com, by default you cannot. 
+If you want to share data between two origins like wesbos.com and github.com, by default you cannot.
 
-You are only permitted to share data between the same domain name. For example it would be fine to share data from wesbos.com to wesbos.com/about. 
+You are only permitted to share data between the same domain name. For example it would be fine to share data from wesbos.com to wesbos.com/about.
 
-As soon as you go cross origin from one domain name to another, then you start getting in trouble because that is a security issue in the browser. 
+As soon as you go cross origin from one domain name to another, then you start getting in trouble because that is a security issue in the browser.
 
 For example, let's say you were logged into your bank at bank.com while you were also running code from wesbos.com. The javascript you are running on wesbos.com should not be able to reach into bank.com, because that would be a security issue. So by default, websites cannot talk to each other from one domain to another.
 
 ### CORS policy
+
 What happens if you do need to pull data from one website to another, like we need to do with recipepuppy.com? How can we get those two websites to talk?
 
 In order for the two websites to talk, the website from which the data is being pulled has to implement something called a **CORS policy**
 
 A **CORS policy** is something that happens on the server, there is nothing you can do in the browser about this.
 
-The server will have a CORS poicy that has some rules such as "wesbos.com is allowed to ask for data and we will return it". 
+The server will have a CORS poicy that has some rules such as "wesbos.com is allowed to ask for data and we will return it".
 
 In our example, the recipepuppy.com server must specify which domain names are allowed to transfer data from it, and that has to happen on the server of the person that has the data.
 
@@ -484,28 +484,29 @@ Before we can get use CORS, we need an origin. If you look at the error we got i
 
 > origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
 
-That error is occuring because we are accessing and running the code off of file access. 
+That error is occuring because we are accessing and running the code off of file access.
 
-Whenever you see an error like the one above, the first thing you need to do is no longer run the code from the file. Instead, you need to run it on a server. 
+Whenever you see an error like the one above, the first thing you need to do is no longer run the code from the file. Instead, you need to run it on a server.
 
 Let's get a server up and running, so we can see if that fixes the problem (in most cases, it will).
 
 In the terminal, navigate to our `exercises/75 - CORS and Recipes/` directory.
 
-Let's select a server to use, which could be any server. You could use: 
+Let's select a server to use, which could be any server. You could use:
+
 - you could use browsersync
 - upload the code to CodePen
 - use Parcel
 
-Let's start by gettin Parcel running. In the terminal, run the `npm init` command. 
+Let's start by gettin Parcel running. In the terminal, run the `npm init` command.
 
 ![](@attachment/Clipboard_2020-05-23-09-09-31.png) 9:17
 
-You need to put a package name (which you can call anything, Wes chose `dogrecipes`) and then you just keep hitting enter to accept the default for the next few questions, as shown aboev. 
+You need to put a package name (which you can call anything, Wes chose `dogrecipes`) and then you just keep hitting enter to accept the default for the next few questions, as shown aboev.
 
-Once the package is finished installing, run `npm install parcel-bundler` in the terminal to install Parcel. 
+Once the package is finished installing, run `npm install parcel-bundler` in the terminal to install Parcel.
 
-Once that is complete, there should be a `packages.json` file in your folder (there will also be a `packages-lock.json` file). This packages file is where we can go and change our scripts, just like we have in previous lessons. 
+Once that is complete, there should be a `packages.json` file in your folder (there will also be a `packages-lock.json` file). This packages file is where we can go and change our scripts, just like we have in previous lessons.
 
 Open the file and modify the scripts start command like so 👇
 
@@ -515,7 +516,7 @@ Open the file and modify the scripts start command like so 👇
   },
 ```
 
-When we run `npm start`, you should see a message in the terminal that a server has been started on localhost:1234 or another port. 
+When we run `npm start`, you should see a message in the terminal that a server has been started on localhost:1234 or another port.
 
 ![](@attachment/Clipboard_2020-05-23-09-14-45.png) 10:04
 
@@ -523,15 +524,15 @@ Open that server in the browser and take a look at the error we are now getting 
 
 ![](@attachment/Clipboard_2020-05-23-09-15-26.png) 10:11
 
-It is complaining that "regeneratorRuntime is not defined". 
+It is complaining that "regeneratorRuntime is not defined".
 
-This issue has nothing to do with CORS. _(Note: If you do not have this issue, and instead see another CORS issue, skip ahead to that section)
+This issue has nothing to do with CORS. \_(Note: If you do not have this issue, and instead see another CORS issue, skip ahead to that section)
 
 #### Babel
 
-`regeneratorRuntime` is a thing called **Babel**. Some Javascript functionality, like async/await and backticks are relatively new to Javascript, and older browsers do not support those functionalities.  However, sometimes you need to support older browsers. 
+`regeneratorRuntime` is a thing called **Babel**. Some Javascript functionality, like async/await and backticks are relatively new to Javascript, and older browsers do not support those functionalities. However, sometimes you need to support older browsers.
 
-Babel helps with this. 
+Babel helps with this.
 
 It will take your modern javascript code and transpile it into Javascript that is runnable on older browseres like IE or older Safari. That will give you Javascript that works the same way. It has just been transpiled into the equivalent in older Javascript with callbacks and things like that.
 
@@ -543,7 +544,7 @@ Since it's unnecessary, we need to tell Babel not to transpile async/await. The 
 
 ![](@attachment/Clipboard_2020-05-23-09-45-11.png) 12:40
 
-`browserslist` is a package that allows you to define which browsers you are currently supporting. 
+`browserslist` is a package that allows you to define which browsers you are currently supporting.
 
 There is a huge list of filtering options like less than 1% usage, blackberry 7, etc. You can just write them in plain english and that will convert them. That is what tells babel what to transpile, and what to just leave as is.
 
@@ -585,7 +586,7 @@ If you look at the website, you can see it has a link to "Recipe Puppy for iPhon
 
 #### Proxy
 
-So what is the solution? 
+So what is the solution?
 
 The solution is that the request would work if it was made from anything other than a browser.
 
@@ -642,18 +643,18 @@ Now when you refresh the page, the error should be gone. Let's also console log 
 
 ![](@attachment/Clipboard_2020-05-23-18-44-58.png) 19:07
 
-Now that we finally have the data working, we need to loop through the data and  show them based on what the user has searched for.
+Now that we finally have the data working, we need to loop through the data and show them based on what the user has searched for.
 
 Let's make an event listener and handler for the submit event when the user enters a keyword and hits the submit button.
 
 ```js
-function handleSubmit(event){
+function handleSubmit(event) {
   event.preventDefault();
   console.log(event.currentTarget);
 }
 
-form.addEventListener('submit', handleSubmit);
-fetchRecipes('pizza');
+form.addEventListener("submit", handleSubmit);
+fetchRecipes("pizza");
 ```
 
 To grab the value of the query we can modify the code to use `event.currentTarget.query.value` because the input has a `name` attribute of `query`.
@@ -664,19 +665,19 @@ If you were to refresh the page, you should see pizza logged.
 
 Next, we will some sort of loading screen because we don't want the user searching for many things over and over again while the API is still searching.
 
-There are a couple of ways to do that. 
+There are a couple of ways to do that.
 
 The easiest is if you go to the input button and add a `disabled` attribute. That will stop the user from actually clicking it.
 
 ```html
-<button disabled type="submit">Submit<button>
+<button disabled type="submit">Submit<button></button></button>
 ```
 
 There is no visual different there, so let's add a style for buttons with the disabled attribute
 
 ```css
 button[disabled] {
-  opacity:0.2;
+  opacity: 0.2;
 }
 ```
 
@@ -693,7 +694,7 @@ Add a name attribute to the button of `name="submit"`.
 Now in the script file we can access the submit button within the `handleSubmit` function, disable it, and then call `fetchRecipes` and pass it what the user searched.
 
 ```js
-function handleSubmit(event){
+function handleSubmit(event) {
   event.preventDefault();
   const form = event.currentTarget;
   //turn the form off
@@ -735,7 +736,7 @@ When we submit the form now and search for something like "chicken", it will dis
 
 Next, make another function called `displayRecipes` which takes in the array of recipe and returns the HTML that will be used to display those recipes.
 
-How can we pass the recipes array from the `handleSubmit`? 
+How can we pass the recipes array from the `handleSubmit`?
 
 If you log `recipes`, you will see that it actually return an object and the recipes array lives on the `results` property of the `recipes` object. We can use that property to pass the array like so `displayRecipes(recipes.results);`.
 
@@ -752,8 +753,10 @@ function displayRecipes(recipes) {
     (recipe) => `<div class="recipe">
       <h2>${recipe.title}</h2>
       <p>${recipe.ingredients}</p>
-      ${recipe.thumbnail &&
-        `<img src="${recipe.thumbnail}" alt="${recipe.title}"/>`}
+      ${
+        recipe.thumbnail &&
+        `<img src="${recipe.thumbnail}" alt="${recipe.title}"/>`
+      }
     </div>`
   );
   recipesGrid.innerHTML = html.join("");
@@ -764,18 +767,18 @@ function displayRecipes(recipes) {
 
 As you can see, for each recipe we had returned we have some HTML generated for them.
 
-At this point let's go back to the HTML page and make a div `<div class="recipes"></div>`. Inside of that div we will display the grid of recipes. 
+At this point let's go back to the HTML page and make a div `<div class="recipes"></div>`. Inside of that div we will display the grid of recipes.
 
 Start by grabbing the div. 👇
 
 ```js
-const recipesGrid = document.querySelector('.recipes');
+const recipesGrid = document.querySelector(".recipes");
 ```
 
 At the bottom of displayRecipes, set the innerHTML of the recipes grid to be equal to our array of HTML, which we will join (if we did not join them, there would be a comma between each of the elements). 👇
 
 ```js
-recipesGrid.innerHTML = html.join('');
+recipesGrid.innerHTML = html.join("");
 ```
 
 When you refresh the page, the HTML should look similar to the image below 👇
@@ -785,23 +788,24 @@ When you refresh the page, the HTML should look similar to the image below 👇
 ![](@attachment/Clipboard_2020-05-24-20-21-00.png)29:32
 
 For each item, we have:
+
 - created a div
 - added the title
-- the ingredients 
+- the ingredients
 - show the image if avaialble
 
 Add the following css to make it look better:
 
 ```css
 .recipes {
-   display:grid;
-   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-   grid-gap:20px
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
 }
 
 .recipe {
-   border: 1px solid rgba(0, 0,0,0.1);
-   padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 20px;
 }
 ```
 
@@ -816,8 +820,10 @@ function displayRecipes(recipes) {
     (recipe) => `<div class="recipe">
       <h2>${recipe.title}</h2>
       <p>${recipe.ingredients}</p>
-      ${recipe.thumbnail &&
-        `<img src="${recipe.thumbnail}" alt="${recipe.title}"/>`}
+      ${
+        recipe.thumbnail &&
+        `<img src="${recipe.thumbnail}" alt="${recipe.title}"/>`
+      }
       <a href="${recipe.href}">View Recipe →</a>
     </div>`
   );
@@ -825,7 +831,7 @@ function displayRecipes(recipes) {
 }
 ```
 
-The one issue we have now is it's not running on page load. 
+The one issue we have now is it's not running on page load.
 
 Why is that? If you look, a lot of our logic is tied to the submit event, so we can't just run that on page load unless we were to fake a submit event.
 
@@ -833,7 +839,7 @@ To solve that issue, let's make another async function called `fetchAndDisplay` 
 
 Take all the logic from the `handleSubmit` function below where we log the search term and we will move it to `fetchAndDisplay`. Let's modify the code slightly amd also add a call in `handleSubmit` to `fetchAndDisplay` which will take in the search term as a parameter.
 
-One thing we need to change is that we no longer have access to the `el` function in `fetchAndDisplay`. The element would need to be either globally scoped or passed the function. 
+One thing we need to change is that we no longer have access to the `el` function in `fetchAndDisplay`. The element would need to be either globally scoped or passed the function.
 
 Luckily we do have the form globally scoped.
 
@@ -860,7 +866,7 @@ Next we just need to include a call to run it on page load. Relpace the last lin
 
 Now when you refresh the page, you will see it is running on page load with the default term "pizza". If you type in another search term and hit submit, it will work.
 
-That is the basics. 
+That is the basics.
 
 It would be an interesting to take this exercise even further and have it so people could have an input box for ingredients and that would get passed along for the ride.
 
@@ -868,7 +874,7 @@ It would be an interesting to take this exercise even further and have it so peo
 
 ## 76 - Dad Jokes
 
-We will be doing another AJAX example in this video, but this time using a Dad Joke API. 
+We will be doing another AJAX example in this video, but this time using a Dad Joke API.
 
 Everytime you click the button, a new random dad joke should be fetched from the API and displayed and the button text will change occassionally.
 
@@ -878,7 +884,7 @@ We will be using the endpoint "get a random dad joke" from the API https://icanh
 
 ![](@attachment/Clipboard_2020-05-25-07-10-09.png) 00:41
 
-This example will require **custom headers** which is a good thing to learn. 
+This example will require **custom headers** which is a good thing to learn.
 
 We will also be learning how to ensure that the button text never uses the same text twice, because sometimes random is not random enough.
 
@@ -891,11 +897,11 @@ We have some basic HTML to start. We have a div div that contains a paragraph ta
 Start by selecting the button and paragraph tag inside of the joke div.
 
 ```js
-const jokeButton = document.querySelector('.getJoke');
-const jokeHolder = document.querySelector('.joke');
+const jokeButton = document.querySelector(".getJoke");
+const jokeHolder = document.querySelector(".joke");
 ```
 
-Next create a function that will be responsible for fetching the joke. 
+Next create a function that will be responsible for fetching the joke.
 
 Let's look at the API docs for fetching a random joke.
 
@@ -965,21 +971,19 @@ So the API is telling us we need to pass an **Accept Header** which is either:
 
 We need to pass that option along a header.
 
-What is a **header**? 
+What is a **header**?
 
 A header is some additional information that comes along with a request, kind of like when we pass query parameters, but headers are passed in a different way.
 
-If you look at our dad joke API fetch request in the network tab and click it, you can click the headers tab and see the headers that were passed along with the request, and the ones that were passed along with the response.  
+If you look at our dad joke API fetch request in the network tab and click it, you can click the headers tab and see the headers that were passed along with the request, and the ones that were passed along with the response.
 
 ![](@attachment/Clipboard_2020-05-25-07-47-05.png) 5:33
 
 We need to pass along this additional information with `fetch`. The way you do that is you pass a second object to fetch, which can take in a whole bunch of different arguments. 👇
 
 ```js
-const response = await fetch('http://icanhazdadjoke.com', {
-  headers:{
-
-  }
+const response = await fetch("http://icanhazdadjoke.com", {
+  headers: {},
 });
 const joke = response.json();
 console.log(joke);
@@ -988,12 +992,11 @@ console.log(joke);
 The documentation said the API requires an **Accept Header** so let's go ahead and add that.
 
 ```js
-const response = await fetch('http://icanhazdadjoke.com', {
-  headers:{
-    Accept: 'application/json',
-  }
+const response = await fetch("http://icanhazdadjoke.com", {
+  headers: {
+    Accept: "application/json",
+  },
 });
-
 ```
 
 If you refresh the page now, you will see a promise.
@@ -1012,13 +1015,12 @@ Now what comes back is the actual data.
 ![](@attachment/Clipboard_2020-05-25-07-52-59.png) 6:40
 
 ```js
-const response = await fetch('http://icanhazdadjoke.com', {
-  headers:{
-    Accept: 'application/json',
-    Accept: 'text/plain'
-  }
+const response = await fetch("http://icanhazdadjoke.com", {
+  headers: {
+    Accept: "application/json",
+    Accept: "text/plain",
+  },
 });
-
 ```
 
 ![](@attachment/Clipboard_2020-05-25-07-54-38.png) 6:59
@@ -1065,18 +1067,18 @@ Next we want to wire up the button so that when someone clicks it, we will fetch
 Get rid of our call to `fetchJoke` on runtime and instead let's make an async function called `handleClick` which will be responsible for fetching a joke.
 
 ```js
-async function handleClick(){
+async function handleClick() {
   const { joke } = await fetchJoke();
   console.log(joke);
 }
 ```
 
-The reason we are using destructuring is that `fetchJoke` will return an object to us with properties of `id`, `joke` and `status`.  We only want the joke property for now so we are destructuring the joke property to it's own variable.
+The reason we are using destructuring is that `fetchJoke` will return an object to us with properties of `id`, `joke` and `status`. We only want the joke property for now so we are destructuring the joke property to it's own variable.
 
-Next add an event listener for the click event, and pass it the `handleClick` function to run on the event. 
+Next add an event listener for the click event, and pass it the `handleClick` function to run on the event.
 
 ```js
-jokeButton.addEventListener('click', handleClick);
+jokeButton.addEventListener("click", handleClick);
 ```
 
 Now when you refresh the page and open the console, you will see that everytime we click the button, a new joke is logged.
@@ -1099,7 +1101,6 @@ When the button is clicked now, the joke should populate and change within the p
 Next we want to take the button text and replace it with one of the strings in the `buttonText` array shown below.👇
 
 ```js
-
 const buttonText = [
   "Ugh.",
   "🤦🏻‍♂️",
@@ -1112,7 +1113,8 @@ const buttonText = [
 ];
 ```
 
-To do that, call the function `getItemFromArray`, which will accept two arguments: 
+To do that, call the function `getItemFromArray`, which will accept two arguments:
+
 - the array
 - then what to not be (we will implement that second param in a sec).
 
@@ -1127,9 +1129,9 @@ function randomItemFromArray(arr, not) {
 }
 ```
 
-The reason we are using the passed in array to calculate the length and not the `buttonText` variable is that we want this function to be a utility function, and to be able to use them for anything, not just with the `buttonText` array. This allows it to be more generic. 
+The reason we are using the passed in array to calculate the length and not the `buttonText` variable is that we want this function to be a utility function, and to be able to use them for anything, not just with the `buttonText` array. This allows it to be more generic.
 
-Let's try to run it from the console. 
+Let's try to run it from the console.
 
 Refresh the HTML page and pass the `buttonText` array to the function we just created.👇
 
@@ -1141,14 +1143,14 @@ Now whenever we run it, we get a random item returned.
 
 ![](@attachment/Clipboard_2020-05-25-17-22-55.png) 12:10
 
-However, sometimes it will randomly return the exact same thing, which makes it seem like nothing happened. 
+However, sometimes it will randomly return the exact same thing, which makes it seem like nothing happened.
 
 That is why we have that `not` parameter that we are passing. Within the `randomItemFromArray` function, we will use that `not` parameter to ensure the same text isn't selected twice.
 
 To do that, we will add a check for wehther the randomly selected item matches the `not` argument, and if it does, we will call the function again. That is an example of **recursion** because the function is calling itself.
 
 ```js
-if(item == not){
+if (item == not) {
   console.log("Ah! we used that one last time, look again");
   return randomItemFromArray(arr, not);
 }
@@ -1165,14 +1167,17 @@ As you can see, when we got "please stop", we logged "Ah we used that one last t
 So now we can do the following.. 👇
 
 ```js
-async function handleClick(){
+async function handleClick() {
   const { joke } = await fetchJoke();
   jokeHolder.textContent = joke;
-  jokeButton.textContent = randomitemFromArray(buttonText, jokeButton.textContent);
+  jokeButton.textContent = randomitemFromArray(
+    buttonText,
+    jokeButton.textContent
+  );
 }
 ```
 
-We are ensuring that the button text never stays the same using this line of code `jokeButton.textContent = randomitemFromArray(buttonText, jokeButton.textContent);`.  We get the "not" argument from the text that currently exists on the button when it is clicked.
+We are ensuring that the button text never stays the same using this line of code `jokeButton.textContent = randomitemFromArray(buttonText, jokeButton.textContent);`. We get the "not" argument from the text that currently exists on the button when it is clicked.
 
 If you refresh the page, you will see it is working very well, and if you just keep clicking it, eventually we will get a log that states "we already used that one".
 
@@ -1180,7 +1185,7 @@ If you refresh the page, you will see it is working very well, and if you just k
 
 This is working, but one thing we are going to do is add a loading state. Feel free to leave this lesson now if you are not interested in loaders.
 
-Let's make a CSS loader. 
+Let's make a CSS loader.
 
 In the HTML, right before our paragrah tag that will contain our dad jokes, add the following div `<div class="loader"></div>`.
 
@@ -1196,18 +1201,18 @@ Click on whatever loader you would like to move and it should show you the marku
 Then let's actually replace the div we just added with the HTML supplied to us for the loader.
 
 ```html
-  <div class="wrapper">
-    <div class="joke">
-      <div class="lds-ripple">
-        <div></div>
-        <div></div>
-      </div>
-      <p>Dad Jokes.</p>
+<div class="wrapper">
+  <div class="joke">
+    <div class="lds-ripple">
+      <div></div>
+      <div></div>
     </div>
-    <button class="getJoke">
-      <span class="jokeText">Get A Joke</span>
-    </button>
+    <p>Dad Jokes.</p>
   </div>
+  <button class="getJoke">
+    <span class="jokeText">Get A Joke</span>
+  </button>
+</div>
 ```
 
 Copy the CSS and add it.
@@ -1250,12 +1255,11 @@ Copy the CSS and add it.
     opacity: 0;
   }
 }
-
 ```
 
 If you refresh the page, you will notice we don't see anything.
 
-Let's inspect the element and see what is going on. 
+Let's inspect the element and see what is going on.
 
 If you look at the styles, you will notice the loader is set to the colour white. Let's fix that.👇
 
@@ -1274,6 +1278,7 @@ If you look at the styles, you will notice the loader is set to the colour white
 Now you can see the loader, it was always working, it was just white so we could not see it.
 
 Add a class of "loader" to the loader ontop of the existing `lds-ripple` class.
+
 ```HTML
 <div class="lds-ripple loader">
 ```
@@ -1281,7 +1286,7 @@ Add a class of "loader" to the loader ontop of the existing `lds-ripple` class.
 At the top of the script, select the loader.
 
 ```js
-const loader = document.querySelector('.loader');
+const loader = document.querySelector(".loader");
 ```
 
 When we fetch within the `fetchJoke` function, let's turn the loader on. By default we will make the loader set to `display:none`.
@@ -1295,13 +1300,13 @@ To do that, create a class of `hidden` and set it to `display:none;` and then ad
 Now when we want to turn the loader on, we will call 👇
 
 ```js
-loader.classList.remove('hidden')
+loader.classList.remove("hidden");
 ```
 
-When the data comes back, we want to turn it off using  👇
+When the data comes back, we want to turn it off using 👇
 
 ```js
-loader.classList.add('hidden')
+loader.classList.add("hidden");
 ```
 
 Modify the code like so 👇
@@ -1326,7 +1331,7 @@ Also hide the button while that is happening.
 ```js
 async function fetchJoke() {
   loader.classList.remove("hidden");
-  jokeButton.classList.remove('hidden');
+  jokeButton.classList.remove("hidden");
   const response = await fetch("http://icanhazdadjoke.com", {
     headers: {
       Accept: "application/json",
@@ -1335,7 +1340,7 @@ async function fetchJoke() {
 
   const data = response.json();
   loader.classList.add("hidden");
-  jokeButton.classList.remove('hidden');
+  jokeButton.classList.remove("hidden");
   return data;
 }
 ```
@@ -1348,7 +1353,8 @@ Let's try to put the loader inside of the button instead.
 
 ```html
 <button class="getJoke">
-  <span class="jokeText">Get A Joke
+  <span class="jokeText"
+    >Get A Joke
     <div class="lds-ripple loader">
       <div></div>
       <div></div>
@@ -1367,67 +1373,67 @@ It is showing up because we removed the class of `hidden` from the HTML. Modify 
 
 ![](@attachment/Clipboard_2020-05-25-17-52-49.png) 20:00
 
-Let's also change the size. 
+Let's also change the size.
 
 We will make a size variable and set it to `20px` and then modify some of the other CSS to use that variable instead.
 
 ```html
-    <style>
-      html {
-        --size: 20px;
-      }
+<style>
+  html {
+    --size: 20px;
+  }
 
-      .wrapper {
-        text-align: center;
-      }
+  .wrapper {
+    text-align: center;
+  }
 
-      .joke {
-        font-size: 5rem;
-        font-weight: 900;
-      }
+  .joke {
+    font-size: 5rem;
+    font-weight: 900;
+  }
 
-      .lds-ripple {
-        display: inline-block;
-        position: relative;
+  .lds-ripple {
+    display: inline-block;
+    position: relative;
 
-        width: var(--size);
-        height: var(--size);
-      }
+    width: var(--size);
+    height: var(--size);
+  }
 
-      .lds-ripple div {
-        position: absolute;
-        border: 4px solid var(--yellow);
-        opacity: 1;
-        border-radius: 50%;
-        animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
-      }
+  .lds-ripple div {
+    position: absolute;
+    border: 4px solid var(--yellow);
+    opacity: 1;
+    border-radius: 50%;
+    animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+  }
 
-      .lds-ripple div:nth-child(2) {
-        animation-delay: -0.5s;
-      }
+  .lds-ripple div:nth-child(2) {
+    animation-delay: -0.5s;
+  }
 
-      @keyframes lds-ripple {
-        0% {
-          top: calc(var(--size) / 2);
-          left: calc(var(--size) / 2);
-          width: 0;
-          height: 0;
-          opacity: 1;
-        }
+  @keyframes lds-ripple {
+    0% {
+      top: calc(var(--size) / 2);
+      left: calc(var(--size) / 2);
+      width: 0;
+      height: 0;
+      opacity: 1;
+    }
 
-        100% {
-          top: 0px;
-          left: 0px;
-          width: calc(var(--size) * 0.9);
-          height: calc(var(--size) * 0.9);
-          opacity: 0;
-        }
-      }
+    100% {
+      top: 0px;
+      left: 0px;
+      width: calc(var(--size) * 0.9);
+      height: calc(var(--size) * 0.9);
+      opacity: 0;
+    }
+  }
 
-      .hidden {
-        display: none;
-      }
-    </style>
+  .hidden {
+    display: none;
+  }
+</style>
 ```
 
 ![](@attachment/Clipboard_2020-05-25-17-56-37.png) 21:36
@@ -1489,7 +1495,7 @@ In this video we will build a currency conversion app.
 
 The app allows you to enter an amount to convert, specify it's currency and then specify which currency to convert it to.
 
-We will be using the https://exchangeratesapi.io API to accomplish this, which is free and open source and will be working out of the `exercises/77 - Currency Converter/` folder. 
+We will be using the https://exchangeratesapi.io API to accomplish this, which is free and open source and will be working out of the `exercises/77 - Currency Converter/` folder.
 
 Let's start by opening the HTML to see what we are working with.
 
@@ -1497,7 +1503,7 @@ Let's start by opening the HTML to see what we are working with.
 <body>
   <div class="app">
     <form>
-      <input type="number" name="from_amount">
+      <input type="number" name="from_amount" />
       <select name="from_currency">
         <option>Select a Currency</option>
       </select>
@@ -1514,6 +1520,7 @@ Let's start by opening the HTML to see what we are working with.
 ```
 
 As you can see we have a form with..
+
 - an input named `from_amount`
 - a selectbox named `from_currency` and one named `to_currency`
 - a paragraph tag with the class of `to_amount`
@@ -1537,12 +1544,13 @@ const optionsHTML = generateOptions(currencies);
 console.log(optionsHTML);
 ```
 
-![](@attachment/Clipboard_2020-05-25-18-30-35.png) 3:26
+![](@attachment/currencies-3265.png) 3:26
 
 Let's go back to looping. How do you loop over an object?
 
-We can use: 
-- the `for of` loop 
+We can use:
+
+- the `for of` loop
 - `Object.entries`
 - `Object.keys`
 - `Object.values`
@@ -1550,7 +1558,7 @@ We can use:
 Let's use `.entries` to turn this object into an array, like so 👇
 
 ```js
-function generateOptions(options){
+function generateOptions(options) {
   return Object.entries(options);
 }
 ```
@@ -1562,24 +1570,25 @@ If you refresh the page, you will see that gives us an array, where each item in
 Let's take that array and map over it so we get the nested array, and then log it. 👇
 
 ```js
-function generateOptions(options){
-  return Object.entries(options).map(arr => {
+function generateOptions(options) {
+  return Object.entries(options).map((arr) => {
     console.log(arr);
-  })
+  });
 }
 ```
 
 ![](@attachment/Clipboard_2020-05-25-18-40-02.png) 4:37
 
 We can destructure each sub-array to two variables:
+
 - `currencyCode`
 - `currencyName`
 
 ```js
-function generateOptions(options){
+function generateOptions(options) {
   return Object.entries(options).map(([currencyCode, currencyName]) => {
     console.log(currencyCode, currencyName);
-  })
+  });
 }
 ```
 
@@ -1588,10 +1597,10 @@ function generateOptions(options){
 As you can see, it is looking good, except the array is undefined because we are not returning anything, so let's change that and return some HTML using backticks.
 
 ```js
-function generateOptions(options){
+function generateOptions(options) {
   return Object.entries(options).map(([currencyCode, currencyName]) => {
     return `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`;
-  })
+  });
 }
 ```
 
@@ -1602,13 +1611,14 @@ Now the `optionsHTML` variable contains an array of HTML options.
 At the end of `map`, add `.join('')`, which should turn the array into one long string of HTML. 👇
 
 ```js
-function generateOptions(options){
-  return Object.entries(options).map(([currencyCode, currencyName]) =>
-     `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
-  )
-  .join('');
+function generateOptions(options) {
+  return Object.entries(options)
+    .map(
+      ([currencyCode, currencyName]) =>
+        `<option value="${currencyCode}">${currencyCode} - ${currencyName}</option>`
+    )
+    .join("");
 }
-
 ```
 
 On page load, let's populate the option elements.
@@ -1635,16 +1645,16 @@ Now when you refresh, you will see that each option has a dropdown. 👇
 
 ![](@attachment/Clipboard_2020-05-25-18-51-57.png) 7:10
 
-Let's switch to working on some of the functionality before we continue coding the UI any further. 
+Let's switch to working on some of the functionality before we continue coding the UI any further.
 
 Start with the function that will go fetch the rates from the exchanges API. It will accept one parameter, `base` which we will default to "USD" as the base currency.
 
-Inside of the function, we need to fetch the latest rates from https://api.exchangeratesapi.io/latest. 
+Inside of the function, we need to fetch the latest rates from https://api.exchangeratesapi.io/latest.
 
 Stick that endpoint in a variable at the top.
 
 ```js
-const endpoint = 'https://api.exchangeratesapi.io/latest';
+const endpoint = "https://api.exchangeratesapi.io/latest";
 ```
 
 The way this endpoint works is we need to pass it a query parameter of our base currency, as shown in the image below.
@@ -1654,8 +1664,8 @@ The way this endpoint works is we need to pass it a query parameter of our base 
 That will return the exchange rates to us as well as the base currency.
 
 ```js
-async function fetchRates(base = "USD"){
-  const res = await   fetch(`${endpoint}?base=${base}`);
+async function fetchRates(base = "USD") {
+  const res = await fetch(`${endpoint}?base=${base}`);
   const rates = await res.json();
   console.log(rates);
 }
@@ -1672,35 +1682,38 @@ You can try passing the base currency as "CAD" and it should still work.
 Let's wrap that function up by returning `rates` from it.
 
 ```js
-async function fetchRates(base = "USD"){
-  const res = await   fetch(`${endpoint}?base=${base}`);
+async function fetchRates(base = "USD") {
+  const res = await fetch(`${endpoint}?base=${base}`);
   const rates = await res.json();
   return rates;
 }
 ```
 
 The next thing that we want to do is make a convert function. The function will take in:
-- a raw number 
+
+- a raw number
 - a "from" currency
 - a "to" currency
 
-If we do not have the rates for that specific currency, we will have to use  `fetchRates` to go ahead and fetch it.
+If we do not have the rates for that specific currency, we will have to use `fetchRates` to go ahead and fetch it.
 
 Make that `convert` function like so 👇
 
 ```js
-function convert(amount, from, to){
+function convert(amount, from, to) {
   //first check if we even have the rates to convert from that currency
-
 }
 ```
-ANJA STOPPED HERE
 
-Here is where that exercise gets a little tricky. We could fetch the rates each time, but that could be a bit slow, because every time we type into the `amount` input box, we will call `convert` function.
+## Caching the Rates 
 
-In the DEMO, you can see that the conversion is happening almost instantaneously.
+Here is where that exercise gets a little tricky. 
 
-![](/@attachments/rates.gif) 11:22
+We could fetch the rates each time, but that could be a bit slow, because every time we type into the `amount` input box, we will call `convert` function.
+
+In the demo, you can see that the conversion is happening almost instantaneously.
+
+![](@attachment/rates.gif) 11:22
 
 If we had to fetch the rates every single time someone typed into the box, for the number 57887 alone, we would be fetch the rate 5 times unnecessarily, and often APIs will rate limit you.
 
@@ -1708,7 +1721,7 @@ So what we need to do to get around that is cache the rates, meaning you need to
 
 What we are going to do is we will make an object at the top of our script where the rest of our variables are and right below the endpoint let's add this empty object 👇
 
-```
+```js
 const ratesByBase = {};
 ```
 
@@ -1718,11 +1731,13 @@ We will store all of the rates within that object/ Everytime a currency is selec
 
 If we were to cycle thorugh all the currencies, our `ratesByBase` object would be massive because it will contain all of the rates by their from value. So by default we start with nothng because we have nothing.
 
+## Converting 
+
 Let's go back to our `convert` function.
 
 We will use the square brackets to check if the currently select currency coded already existings within our object.
 
-```
+```js
 function convert(amount, from, to){
   //first check if we even have the rates to convert from that currency
   if(!ratesByBase[from]){
@@ -1739,8 +1754,8 @@ Back to our `convert` function, we want to mark it as `async` because we will ne
 
 Within that function let's add a request to `fetchRates` and pass it the currency the user is converting from. We will save the result to our `ratesByBase` object.
 
-```
-function convert(amount, from, to){
+```js
+async function convert(amount, from, to){
   //first check if we even have the rates to convert from that currency
   if(!ratesByBase[from]){
     console.log(`Oh no! we don't have ${from} to convert it ${to}, so let's go get it!`);
@@ -1752,7 +1767,9 @@ function convert(amount, from, to){
 }
 ```
 
-Let's demo step by step how that works. Let's start by logging `ratesByBase` in the console, which you will see is an empty object.
+Let's demo step by step how that works.
+
+ Start by logging `ratesByBase` in the console, which you will see is an empty object.
 
 ![](@attachment/Clipboard_2020-05-26-07-31-31.png) 15:11
 
@@ -1766,7 +1783,7 @@ As soon as you refresh the page, they will be gone. You could use local storage 
 
 Next, we need to convert the amount the user passed in.
 
-```
+```js
 function convert(amount, from, to){
   //first check if we even have the rates to convert from that currency
   if(!ratesByBase[from]){
@@ -1781,18 +1798,23 @@ function convert(amount, from, to){
 
 ```
 
-That may look weird so let's explain what is going on in this code
-`const rate = ratesByBase[from].rates[to];`.
+That may look weird so let's explain what is going on in this code.
+
+```js
+const rate = ratesByBase[from].rates[to];
+```
 
 If we look at our `CAD` property on `ratesByBase`, that is going to be our "from" .
 
-Inside of that, we need to grab the rates and the find the rate that they are converting to. You could do that like so: `ratesByBase.CAD.rates.USD`. But because those property keys are variables within our function, we need to use square brackets to accces those object properties.
+Inside of that, we need to grab the rates and the find the rate that they are converting to. You could do that like so: `ratesByBase.CAD.rates.USD`. 
+
+But because those property keys are variables within our function, we need to use square brackets to accces those object properties.
 
 ![](@attachment/Clipboard_2020-05-26-07-36-20.png) 16:36
 
-Now we will take that `rate` and calculate the `convertedAmount` like so:
+Now we will take that `rate` and calculate the `convertedAmount` like so 👇
 
-```
+```ja
 function convert(amount, from, to){
   //first check if we even have the rates to convert from that currency
   if(!ratesByBase[from]){
@@ -1815,25 +1837,31 @@ If you refresh the page and try that, you should see something like the followin
 
 At this point, we have built the main functionality of the app so at this point we can start hooking it up to our UI.
 
-There are three inputs that we need to listen on: the amount, and then the two currency inputs where we can select a currency from the dropdown.
+## Hooking Up The UI
+
+There are three inputs that we need to listen on: 
+- the amount,
+- 2 currency select inputs
+
+### Input Event on a Form
 
 There is a trick we can use here, which is listening for an input event on the form. That one event will cover all of them, which is pretty cool.
 
-Let's go up to the top of our scirp file and select the form.
+Let's go up to the top of our script file and select the form.
 
-```
+```js
 const form = document.querySelector('.app form');
 ```
 
-Now at the very bottom of the script tag let's add an event listener which will listen for the `input` event and handle it in a function we will define called `handleInput`.
+At the very bottom of the script tag, add an event listener which will listen for the `input` event and handle it in a function we will define called `handleInput`, like so 👇
 
-```
+```js
 form.addEventListener('input', handleInput);
 ```
 
 Let's define that handleInput function, and for now just log `e.target` and `e.currentTarget` to see what we are working with.
 
-```
+```js
 function handleInput(e){
   console.log(e.target);
   console.log(e.currentTarget);
@@ -1844,23 +1872,27 @@ function handleInput(e){
 
 If you refresh the page and try typing into the amount input or selecting an item from the dropdowns, you will see that `e.target` is changing every time but `e.currentTraget` which is the form stays the same.
 
-That is because we are listening to the event on the form, but the actual event happens on the input or select box. Those events bubble up to the form where we handle them in our `handleInputs`.
+That is because we are listening to the event on the form, but the actual event happens on the input or select box. 
+
+Those events bubble up to the form where we handle them in our `handleInputs`.
 
 So remember that trick, you can listen on the "input" event on a form and that will cover all of your inputs that are inside of that form.
+
+### Wiring up Handlers 
 
 Let's start wiring up the handler to call our functions.
 
 We forgot to grab our "amount" input, so let's go ahead to the top of the page and add that.
 
-```
+```js
 const fromSelect = document.querySelector('[name="from_currency"]');
 const toSelect = document.querySelector('[name="to_currency"]');
 const fromInput = document.querySelector('[name="from_amount"]');
 ```
 
-Now let's make `handleINput` an async function so we can call `convert`. We can pass the variables easily using the value of the three inputs like so 👇
+Now let's make `handleInput` an async function so we can call `convert`. We can pass the variables easily using the value of the three inputs like so 👇
 
-```
+```js
 async function handleInput(e){
   const rawAmount = await convert(
     fromInput.value,
@@ -1873,24 +1905,25 @@ async function handleInput(e){
 
 ![](@attachment/Clipboard_2020-05-26-15-25-50.png) 22:44
 
-If you refresh the page and try to enter in an amount into the "from_amount" input, you should see something like above in the logs.
-
-![](@attachment/Clipboard_2020-05-26-15-26-59.png) 23:00
+If you refresh the page and try entering an amount into the "from_amount" input, you should see something like shown above 👆 logged in the console. 
 
 Now we need to actually show that amount in the `to_amount` paragraph tag.
 
+
+![](@attachment/Clipboard_2020-05-26-15-26-59.png) 23:00
+
 Let's go back to the top of our page and select that element and name it `toEl`.
 
-```
+```js
 const fromSelect = document.querySelector('[name="from_currency"]');
 const toSelect = document.querySelector('[name="to_currency"]');
 const fromInput = document.querySelector('[name="from_amount"]');
 const toEl = document.querySelector('.to_amount');
 ```
 
-Now within handleInput, let's update the element to show the converted amount.
+Now within handleInput, let's update the element to show the converted amount. 👇
 
-```
+```js
 async function handleInput(e){
   const rawAmount = await convert(
     fromInput.value,
@@ -1901,9 +1934,13 @@ async function handleInput(e){
 }
 ```
 
-If you refresh the page and test it out, you should see the `to_amount` value updating. Try changing the "to currency" and the "from currency" to ensure the value is still updating.
+If you refresh the page and test it out, you should see the `to_amount` value updating. 
+
+Try changing the "to currency" and the "from currency" to ensure the value is still updating.
 
 ![](@attachment/Clipboard_2020-05-26-15-29-41.png) 23:56
+
+### Formatting Currency using Number Format API 
 
 The problem we have now is that it is not formatting it accordingly to what the locale is.
 
@@ -1911,17 +1948,21 @@ Money is New Zealand Dollars (NZD), or money in Indian Rupee (INR), may be forma
 
 We will use this really cool API called Number Format, and it knows how to handle currency formatting, which is really cool.
 
-Let's make another function called `formatCurrency` which will take in the amount and the currency and return a formatted number.
+Make a function `formatCurrency` which will take in the amount and the currency and return a formatted number.
 
-We will be using `Intl.NumberFormat()` method which takes in an argument of the language of the reader `Intl.NumberFormat("en-us")`, or if you leave it blank it will detect the language based no the browser, which is almost always what you want. We will leave it blank.
+We will be using the `Intl.NumberFormat()` method which takes in an argument of the language of the reader `Intl.NumberFormat("en-us")`, or if you leave it blank it will detect the language based no the browser, which is almost always what you want. 
 
-And as the second argument you pass it an options object. Within that object we will pass a value for the `style` property which will be currency since we want to format the amount as a currency, and then we need to pass the currency which we can do using the shorthand since both the property and value have identical names.
+We will leave it blank.
+
+And as the second argument you pass it an options object. 
+
+Within that object we will pass a value for the `style` property which will be `'currency'`, since we want to format the amount as a currency, and then we need to pass the currency argument which we can do using the shorthand since both the property and value have identical names.
 
 ![](@attachment/Clipboard_2020-05-26-15-35-16.png) 26:08
 
-The code highlighted above is the "Formatter", and then the method is just a `.format()` method on the formatted to which you pass your amount like so:
+The code highlighted above is the "formatter", and then the method is just a `.format()` method on the formatted to which you pass your amount like so:
 
-```
+```js
 function formatCurrency(amount, currency){
   return Int1.NumberFormat({
     style:'currency',
@@ -1932,7 +1973,7 @@ function formatCurrency(amount, currency){
 
 So now instead of just setting the `toEl` value to `rawAmount` we will modify it like so:
 
-```
+```js
 async function handleInput(e){
   const rawAmount = await convert(
     fromInput.value,
@@ -1943,7 +1984,7 @@ async function handleInput(e){
 }
 ```
 
-Lets refresh the page and check whether that works.
+Refresh the page and check whether that works.
 
 ![](@attachment/Clipboard_2020-05-26-15-36-44.png) 26:44
 
@@ -1955,11 +1996,11 @@ Lets start by testing `formatCurrency` in the console.
 
 ![](@attachment/Clipboard_2020-05-26-15-37-49.png) 27:20
 
-We do not get the formatted amount back. Let's try manually passing the locale to `Intl.NumberFormat` method.
+We do not get the formatted amount back. Try manually passing the locale to `Intl.NumberFormat` method.
 
 Modify the code like below to include it.
 
-```
+```js
 function formatCurrency(amount, currency){
   return Int1.NumberFormat("en-US", {
     style:'currency',

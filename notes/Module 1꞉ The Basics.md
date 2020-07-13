@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-13T23:35:21.350Z'
+modified: '2020-07-13T23:51:46.046Z'
 ---
 
 # Module 1: The Basics
@@ -199,29 +199,68 @@ We will be looking at some extensions to use to format Javascript properly. Agai
 
 ## 03 - Running and Loading JS 
 
-Let's talk about how to actually run Javascript. There are a couple of ways we can run Javascript, we can run it in the console, we can run it in node, we can run it via a script tag, we can also have an external script. We will talk about how we can actually run those. 
+Let's talk about how to actually run Javascript. 
 
-The simplest is to open up your dev tools and go to your console. If you want to run some javascript to see how it works, like here Wes has typed 1 + 1 and hit enter and the console returned 2. 
+There are a couple of ways we can run Javascript:
+- in the console 
+- in node
+- via a script tag 
+- we can also have an external script. 
+
+We will talk about how we can actually run those. 
+
+The simplest is to open up your dev tools and go to your console. 
+
+If you want to run some javascript to see how it works, like here Wes has typed 1 + 1 and hit enter and the console returned 2. 
 
 ![](@attachment/Clipboard_2020-01-19-18-07-43.png)
 
-This right here is a javascript console and it's a nice way to quickly noodle on some javascript to see how it works, just pop open a console. The neat thing is if you are on any websites, say github.com, the javascript that you type into your console runs on the actual page that is loaded and existing. 
+This right here is a javascript console and it's a nice way to quickly noodle on some javascript 
 
-For example Wes types 
-`document.querySelectorAll('p')` 
-to grab all the paragraphs from the github page that he is currently on. ![](@attachment/Clipboard_2020-01-19-18-09-31.png)
-(Don't worry about what `document.querySelectorAll()` does, we will cover that in a future video). The code that runs in your dev tools console is running in the context of the page that is loaded in your browser tab. 
+To see how it works, just pop open a console. The neat thing is if you are on any websites, say https://github.com, the javascript that you type into your console runs on the actual page that is loaded and existing. 
 
-Now let's move into another way. 
+For example You can type the following to grab all the paragraphs from the github page that you are currently on. 👇
 
-Go into the playground folder and create a new file called `running-js.html`. Wes has an Emmet extension so he is going to hit `!` and `Tab` to scaffold out some HTML for us. 
+```js
+document.querySelectorAll('p')
+```
 
-In the body, we can have a script tag in which we will `console.log('hey')` . What that will do is when the HTML is loaded, it's going to say "OH! This is a script tag, I am changing languages from HTML over to Javascript, and it will run any code inside of the opening and closing script tag as javascript. If you go ahead and open the `running-js.html` file in the browser, and open the console, you will see that it says "hey". 
+![](@attachment/Clipboard_2020-01-19-18-09-31.png)
+_(Don't worry about what `document.querySelectorAll()` does, we will cover that in a future video)._
+
+The code that runs in your dev tools console is running in the context of the page that is loaded in your browser tab. 
+
+The next way to do it is a script tag. 
+
+Go into the `/playground` folder and create a new file `running-js.html`. 
+
+_Wes has an Emmet extension so he is going to hit `!` and `Tab` to scaffold out some HTML for us._
+
+In the body, we can have a script tag in which we will add `console.log('hey')` . 
+
+What that will do is when the HTML is loaded, it's going to say "OH! This is a script tag, I am changing languages from HTML over to Javascript, and it will run any code inside of the opening and closing script tag as javascript.
+
+If you go ahead and open the `running-js.html` file in the browser, and open the console, you will see that it says "hey". 
+
 ![](@attachment/Clipboard_2020-01-19-18-23-06.png)
 
-Don't sweat this too much, we will be explaining what console.log and everything does shortly. 
+Don't sweat this too much, we will be explaining what `console.log()` and everything does shortly. 
 
-One thing to keep in mind is that it's almost always worth running scripts just before the closing body tag. So if we were to modify `running-js` to include a pargraph tag that says Hey right after the body tag, like so: `<body><p>Hey</p>`, and then we wanted to grab that paragrah via javascript, we could if our script is right located right before the closing body tag. 
+### Run scripts before closing body tag
+
+One thing to keep in mind is that it's almost always worth running scripts just before the closing body tag. 
+
+So if we were to modify `running-js` to include a pargraph tag that says Hey right after the body tag,, and then we wanted to grab that paragrah via javascript, we could if our script is right located right before the closing body tag, like below: 👇
+
+```html
+<body>
+  <p>Hey</p>
+  <script>
+    const p = document.querySelector('p');
+    console.log(p);
+  </script>
+</body>
+```
 
 ![](@attachment/Clipboard_2020-01-19-18-25-49.png)
 
@@ -229,54 +268,107 @@ If you were to move the script tag above the paragrah (or move the paragraph bel
 
 ![](@attachment/Clipboard_2020-01-19-18-26-31.png)
 
-That is because in order for your script tag to access the elements on the page, the elements must first be on the page before you select them. 
+In order for your script tag to access the elements on the page, the elements must first be on the page before you select them. If we try to select something that doesn't yet exist (because it gets created later), we won't have access to it.
 
-If we try to select something that doesn't yet exist (because it gets created later), we won't have access to it.
+For your own sanity, always put your javascript right below the closing body tag. (_We will talk about loading in future videos when we get a little bit more into the DOM)._
 
-For your own sanity, always put your javascript right below the closing body tag. (We will talk about loading in future videos when we get a little bit more into the DOM). 
+### External Javascript Files 
 
-Another way we can do it is via an external javascript file. If you go into the playground and make an external javascript file, called `some.js`. In that file, add the following code: `console.log('I am in another file')` and save.
+Another way we can do it is via an external javascript file. 
 
-Now in the `running-js.html` file, remove the existing script block and instead add a script tag with a `src` attribute. You do not need a `type=` attribute until we hit modules. Inside of the `src=` attribute, you need to give it a relative path, like so `<script src="./some.js">`. This works because the HTML file is in a folder where the sibling is `some.js`. Dot forward slash `./` means in this folder. Dot dot `../` would mean go up a level. In our case, it's in the same folder so  `./some.js` is the relative path to our file. 
+Go into the playground and make an external javascript file, called `some.js`. 
+In that file, add the following code 👇
 
-Now if you run that, it will say in the console `I'm in another file`, and it will even show you where that javascript had been run.
+```js
+console.log('I am in another file');
+``` 
+
+In the `running-js.html` file, remove the existing script block and instead add a script tag with a `src` attribute.  (_You do not need a `type=` attribute until we hit **modules**._)
+
+Inside of the `src=` attribute, you need to give it a relative path, like so 👇
+
+```html
+<script src="./some.js">
+```
+That works because the HTML file is in a folder where the sibling is `some.js`.
+
+- `./` means in this folder. 
+-`../` would mean go up a level. 
+
+In our case, it's in the same folder so  `./some.js` is the relative path to our file. 
+
+Now if you run that, it will say in the console `I'm in another file`, and it will even show you where that javascript had been run. 👇
+
 ![](@attachment/Clipboard_2020-01-19-19-18-45.png)
 
 Again, if you were to put the script inside the HEAD, it will still work. 
+
 ![](@attachment/Clipboard_2020-01-19-19-19-54.png)
 
 However, if you were to try to select some things on the page, such as the paragraph tag, you will get null. 
 
 ![](@attachment/Clipboard_2020-01-19-19-19-39.png)
 
-Why? Because of the same reason. The script will run before the actual HTML is finished building on the page. Now there are some options like the `async` and `defer` attributes you can add to your script tags that will delay the actual running of the javascript, and it will download it asynchronously and then run it once the HTML has been loaded, however that is a much more advance topic which we will get into once we discuss async. But first we will need to understand what does asynchronous mean, etc. 
+Why? Because of the same reason --the script will run before the actual HTML is finished building on the page.   Leave the script tag right before the closing body tag for the best performance and to save yourself future debugging headaches. 
 
-Leave the script tag right before the closing body tag for the best performance and to save yourself future debugging headaches. 
+_(There are some options like the `async` and `defer` attributes you can add to your script tags that will delay the actual running of the javascript, and it will download it asynchronously and then run it once the HTML has been loaded, however that is a much more advance topic which we will get into once we discuss async. But first we will need to understand what does asynchronous mean, etc)_
 
-Another thing you may have noticed is why is there a closing script tag if there is no content inbetween the opening and closing tag? That is a quirk with the script tag. It cannot be self closed. You also cannot add extra javascript between the script tag like so: ![](@attachment/Clipboard_2020-01-19-19-40-13.png) That will not work. 
+Another thing you may have noticed is why is there a closing script tag if there is no content inbetween the opening and closing tag? 
 
-You can have multiple script tags, if you like. The only downside to that is that every single time that it hits one of those, it will go off and download and parse that for you. When we hit modules, we will look at how we can bundle those multiple files into one. Or you can do something called code splitting, which is split them into multiple, smaller javascript files, and have them load on demand. 
+That is a quirk with the script tag. It cannot be self closed. 
+
+You also cannot add extra javascript between the script tag like so: 👇
+
+![](@attachment/Clipboard_2020-01-19-19-40-13.png) 
+
+That will not work. 
+
+You can have multiple script tags, if you like. 
+
+The only downside to that is that every single time that it hits one of those, it will go off and download and parse that for you. 
+
+When we hit modules, we will look at how we can bundle those multiple files into one. Or you can do something called code splitting, which is split them into multiple, smaller javascript files, and have them load on demand. 
+
+### Running it in NodeJS 
 
 One more is actually running it in NodeJS. 
 
-If you create another file in the playground called `node-example.js` and add in the following code: `console.log('I'm from node')`. 
+```js
+console.log('I'm from node')
+```
 
-NodeJS is javascript that can run in the server. So instead of running javascript on a website, we run it on an actual machine (like many other programming languages do).
+NodeJS is javascript that can run in the server.Instead of running javascript on a website, we run it on an actual machine (like many other programming languages do).
 
-The way we do that is we open our terminal and cd into the playground directory. You can run the script in node by entering the following in the terminal: `node node-example.js` and hitting enter. That will run whatever code is in the script file, and once it's done, it will exit out of node and return you to the terminal.
+The way we do that is we open our terminal and `cd` into the playground directory. 
+
+You can run the script in node by entering the following in the terminal and hitting enter 👇
+
+```node node-example.js``` 
+
+That will run whatever code is in the script file, and once it's done, it will exit out of node and return you to the terminal.
 
 ![](@attachment/Clipboard_2020-01-19-19-45-44.png)
 
-That's the short of how to load javascript. We will be using a mixture of running javascript in the console, in a script tag and in external javascript files. 
+That's the short of how to load javascript. 
+
+We will be using a mixture of running javascript in the console, in a script tag and in external javascript files. 
 
 
 ---
 
 ## 04 - Variables and Statments
 
-This video is going to teach you an introduction to variables. Variables are a building block of javascript, and you can't use javascript without knowing variables so we are going to get a primer on what they are, what the different types of them are, what declaration means as well as what a statement is in javascript.
+This video is going to teach you an introduction to variables. 
 
-Go into your `/playground` folder and make a new file called `variables.html`. Use the HTML base snippet and add a script tag within the body. To make sure everything is working, add a `console.log('hey');` within the script tag. Wes will explain the use of the semi colon shortly. 
+**Variables** are a building block of javascript, and you can't use javascript without knowing variables. 
+
+We will cover what they are, what the different types of them are, what declaration means as well as what a statement is in Javascript. 
+
+Go into the `/playground` folder and make a new file `variables.html`. 
+
+Use the HTML base snippet and add a script tag within the body. 
+
+To make sure everything is working, add a `console.log('hey');` within the script tag. Wes will explain the use of the semi colon shortly. 
 
 If you open up the `variables.html` file in the browser, you should see 'hey' in the console. 
 

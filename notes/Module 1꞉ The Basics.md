@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-01-28T21:26:54.785Z'
+modified: '2020-07-13T23:35:21.350Z'
 ---
 
 # Module 1: The Basics
@@ -10,29 +10,64 @@ modified: '2020-01-28T21:26:54.785Z'
 ---
 ## 01 - Welcome 
 
-Welcome, and thanks for checking out Beginner Javascript. This is all the stuff Wes wishes he had known over the last 10 years of him doing Javascript, so it's a big course but it does a good job of distilling the information down into the things you need to know and making it easy and fun.
- 
- This video is for housekeeping items that need to be addressed before we can get into writing code.
+Welcome. 
 
- First one is the starter files for this can be found at beginnerjavascript.com, click through to My Account and there will be a link like this ![](@attachment/Clipboard_2020-01-19-17-07-50.png) to the starter files. There is also a link to the slack channel, where you can jump in and get help, maybe join up with a buddy and do a course together with someone. The starter files link will bring you over to github which has all of the starter files as well as all of the solutions for this course. Please star the beginner-javascript github repo to help Wes up!
+This course is all the stuff Wes wishes he had known over the last 10 years of him doing Javascript. It is a big course but it does a good job of distilling the information down into the things you need to know, and making it easy and fun!
 
- There are three folders in the beginner-javascript repo. 
+### House Keeping 
+
+This video is for housekeeping items that need to be addressed before we can get into writing code.
+
+#### Starter Files
+
+First one is the starter files for this can be found at www.beginnerjavascript.com. Click through to My Account and there will be a link to the starter files. 
+
+The starter files link will bring you over to github which has all of the starter files as well as all of the solutions for this course. 
+
+**Please star the beginner-javascript github repo to help Wes up!
+**
+
+ ##### **Slack Channel**
+
+ There is also a link to the slack channel, where you can jump in and get help, maybe join up with a buddy and do a course together with someone. 
+
+ ##### Structure of Starter files
+
+ There are 3 folders in the `beginner-javascript` repo. 
+ 1. `snippets`
+ 2. `playground`
+ 3. `exercises` 
 
  ![](@attachment/Clipboard_2020-01-19-17-09-59.png)
 
- There is a `snippets/` folder that has some base HTML snippets in there with instructions on how to get them into your HTML editor (we will talk about the editor in the next video). 
+ The `snippets` folder that has some base HTML snippets in there with instructions on how to get them into your HTML editor (we will talk about the editor in the next video). 
  
- There is also a `/playground` folder. This folder will have some HTML files where when Wes is trying to explain a concept, he will play around within that file. He will often provide a `-FINISHED.html` file, which will include what Wes has written in the video, whereas the file itself, Wes will either ask you to create it yourself or he will provide an empty state. 
+ There is also a `/playground` folder, which has some HTML files Wes uses to explain concepts throughout the course. He will often provide a `-FINISHED.html` file, which will include what Wes has written in the video, whereas the file itself, Wes will either ask you to create it yourself or he will provide an empty state. 
 
- The `/excercises` folder contains all the proper, full blown excercises that we will be doing throughout the course. 
+ The `/exercises` folder contains all the proper, full blown exercises that we will be doing throughout the course. 
 
- Note: sometiemes the numbers are going to be a little off from the video number is, so just make sure to line up the file with the name of the video, not necessarily the number. 
+__ Note: Sometimes the numbers of the exercise folders are going to be a little off from the video number is, so just make sure to line up the file with the name of the video, not necessarily the number. __
 
- Another thing is how should you do this course?  Should you watch it, should you code, should you code while you watch? About half the people prefer to watch it and then do it after, and the other half prefer to do it as they watch. Try both methods and see what best works for you! You'll fall into whatever feels best for you pretty quickly. 
+#### How to Do the Course
+Another thing is how should you do this course?  
 
- Last thing is grab a buddy if you can. Jump into the slack chatroom and see if there is anyone willing to do it with you, you can team up, or team up with someone in person. It's always better if there is someone to hold you accountable. It's a long course, 28 hours long, you can jump around. 
+Should you watch it, should you code, should you code while you watch? 
 
- If you understand what functions are for example or what parameters are, feel free to skip those videos. The whole idea is that it is referenceable. We are not building a huge app here that be build on in every video, instead, every video pretty much stands on it's own and if we reference something from a previous video, Wes will mention it. 
+About half the people prefer to watch it and then do it after, and the other half prefer to do it as they watch. 
+
+Try both methods and see what best works for you! You'll fall into whatever feels best for you pretty quickly. 
+
+Last thing is grab a buddy if you can. 
+
+Jump into the slack chatroom and see if there is anyone willing to do it with you, you can team up, or team up with someone in person.  It's always better if there is someone to hold you accountable. 
+
+It's a long course, 28 hours long, you can jump around. 
+
+If you understand certain concepts, such as what functions or parameters are, feel free to skip those videos. 
+
+The whole idea is that it is referenceable. 
+
+We are not building a huge app here that be build on in every video, instead, every video pretty much stands on it's own and if we reference something from a previous video, Wes will mention it. 
 
  ---
 
@@ -47,29 +82,71 @@ Welcome, and thanks for checking out Beginner Javascript. This is all the stuff 
 
 If you already have those things in place, skip this video and move onto the next one. Wes will just be introducing all three of those and talking about his personal choices behind them. 
 
-Let's get into the browser. You can use Firefox, Chrome, any browser you like because we are just writing javascript. The important thing here is that we will be using the developer tools. Both Firefox and Chrome have very good web developer tools, Wes will likely be using Chrome throughout the course. 
+### The browser
 
-Things you need to know how to do is open the dev tools. You can just right click and select "Inspect Element", which will show you the DOM, and you can click over to the console. 
+Let's get into the browser. 
+
+You can use Firefox, Chrome, any browser you like because we are just writing javascript. 
+
+The important thing here is that we will be using the developer tools. Both Firefox and Chrome have very good web developer tools.  Wes will likely be using Chrome throughout the course. 
+
+Things you need to know how to do is open the dev tools. 
+
+You can just right click and select "Inspect Element", which will show you the DOM, and you can click over to the console. 
+
+#### Shorcuts 
 
 It's worth learning the shortcuts to quickly open up developer tools, inspect element and the console. That way you can really quickly open it. 
 
-To find the shortcuts, in Chrome you go to View -> Developer and then you can see the shortcuts. 
+To find the shortcuts, in Chrome you go to _View > Developer_ and then you can see the shortcuts. 
 
-In Firefox, you click on the hamburger menu and go to Web Developer -> and then you will see the shortcuts for Inspector and Web Console, which is the two we will be using. 
+In Firefox, you click on the hamburger menu and go to _Web Developer >_  and then you will see the shortcuts for Inspector and Web Console, which is the two we will be using. 
 
-Next up, we need NodeJS. In order to install NodeJS, go to NodeJS.org and install the latest version. ![](@attachment/Clipboard_2020-01-19-17-25-44.png)
+### NodeJS 
 
-Don't pay attention to the version numbers, those will change depending on when you take the course. The stuff that we are covering is not dependent on what version of node you use, we aren't writing NodeJS websites in this course, instead a lot of tooling, bundling, formatting etc uses NodeJS under the hood so we need to have that installed.
+Next up, we need NodeJS. In order to install NodeJS, go to NodeJS.org and install the latest version. 
 
-How do you know if you have it installed or not? You can go ahead and install it again and all that will do is update your NodeJS to the current version if you already had it installed. 
+![](@attachment/Clipboard_2020-01-19-17-25-44.png)
 
-Another way to check is to open up a terminal window. You can use the built in terminal application which on a Mac you can find under Applications -> Utilities -> Terminal. Wes is using a terminal called Hyper to his terminal. You can also use the terminal in VSCode. You can use iTerm. They are all the same terminal at the end of the day. If you want to know what theme Wes is using, you can go to wesbos.com/uses and that will give you the links to all of the different themes and things he is using. 
+Don't pay attention to the version numbers, those will change depending on when you take the course. _The stuff that we are covering is not dependent on what version of node you use_.
 
-How do you know once you have a terminal open? You can go ahead and type  `node - v` in the terminal and press enter. That will let you know what version you have installed. You need to also check that you have NPM installed. You can do that using `npm -v`, which will tell you what version of NPM you have installed. As long as you have something greater than 10 for node and 6 for npm, you should be fine. 
+We aren't writing NodeJS websites in this course, instead a lot of tooling, bundling, formatting etc uses NodeJS under the hood so we need to have that installed.
 
-On Windows, the terminal is called Command Prompt. You can access this by going to Start -> All Programs -> Accessories -> Command Prompt. There is another terminal for Windows called Cmder.
+#### Checking if it's installed 
 
-Wes wants to avoid going down any  rabbit holes regarding complex tooling and best ways to do things. You just need to have it installed and it will be working.
+How do you know if you have it installed or not? 
+
+You can go ahead and install it again and all that will do is update your NodeJS to the current version if you already had it installed. 
+
+Another way to check is to open up a terminal window. 
+
+#### Which Terminal to Use 
+
+You can use the built in terminal application which on a Mac you can find under _Applications > Utilities > Terminal_. 
+
+Wes is using a terminal called Hyper for  his terminal. You can also use the terminal in VSCode. 
+
+You can use iTerm. They are all the same terminal at the end of the day. 
+
+If you want to know what theme Wes is using, you can go to https://wesbos.com/uses and that will give you the links to all of the different themes and things he is using. 
+
+On Windows, the terminal is called Command Prompt. You can access this by going to _Start > All Programs > Accessories > Command Prompt_. There is another terminal for Windows called Cmder.
+
+How do you know once you have a terminal open? 
+
+You can go ahead and type  `node - v` in the terminal and press enter. 
+
+That will let you know what version you have installed. 
+
+#### Checking if you have npm installed
+
+You need to also check that you have NPM installed. You can do that using `npm -v`, which will tell you what version of NPM you have installed. 
+
+As long as you have something greater than 10 for node and 6 for npm, you should be fine. 
+
+Wes wants to avoid going down any rabbit holes regarding complex tooling and best ways to do things. You just need to have it installed and it will be working.
+
+### Command Line Basics
 
 Now we will do some command line basics in case you are not familiar with working in the command line.
 
@@ -77,34 +154,46 @@ There are a couple of commands you need to know in order to run our javascript a
 
 Cmd Line Basics
 
-`cd` - this means change directory
-`ls -l` (mac) `dir` (windows) - this will list out all of the files and directories under the current directory
-`pwd` - print working directory will give you something like `/Users/wesbos/beginner-javascript/excercises`. 
-`cd ..` - go up a level in the current directory 
+`cd` - _this means change directory_
+`ls -l` (mac) `dir` (windows) - _this will list out all of the files and directories under the current directory_
+`pwd` - _print working directory will give you something like `/Users/wesbos/beginner-javascript/excercises`_
+`cd ..` - _go up a level in the current directory_ 
 
+(examples of the above commands visible in image below)👇
 ![](@attachment/Clipboard_2020-01-19-17-52-35.png)
 
-In this example, Wes is in the `beginner-javascript` directory, and he uses the command `ls -l` to see what other directories he has nested inside his current directory. Now he can use the `cd` command to change directories into the `/excercises` directory by typing in `cd excercises`.
+In this example, Wes is in the `beginner-javascript` directory, and he uses the command `ls -l` to see what other directories he has nested inside his current directory.
 
-If you want to learn how to customize your terminal, you can go to https://commandlinepoweruser.com to take a quick course of Wes' to get you up and running with a cool terminal that shows the prompt and current working directory like Wes' does. That is not part of this course, just for those who are curious. 
+He can use the `cd` command to change directories into the `/exercises` directory by typing in `cd exercises`.
 
-Other things to know are going up a level in a directory. You can do that using `cd ..` 
+_Note: If you want to learn how to customize your terminal, you can go to https://commandlinepoweruser.com to take a quick course of Wes' to get you up and running with a cool terminal that shows the prompt and current working directory like Wes' does. That is not part of this course, just for those who are curious._
+
+Other things to know are going up a level in a directory. 
+You can do that using `cd ..` 
 
 That is all we need to know right now. 
 
-If you want to see if your node is working, if you just type `node` that will give you a caret which will oad up a REPL which is a read-eval-print loop. That is essentially the console. You can do 1+1 and press enter and the console will evaluate that to 2. 
+### Check that Node is working
 
-To get back to the command line if you have run the `node command` you have to press CTRL + C a few times to exit back into the terminal. 
+If you want to see if your node is working, if you just type `node` that will give you a caret which will oad up a **REPL** which is a **read-eval-print loop**. That is essentially the console. You can do 1+1 and press enter and the console will evaluate that to 2. 
+
+Once you have run the `node command`, to get back to the terminal you have to press CTRL + C a few times. 
 
 Other helpul things are:
 
-`cmd + k` or `cmd + r`  (mac) or `ctrl + k` or `ctrl + r` (windows) - will clear out the console. 
+`cmd + k` or `cmd + r`  (mac) or `ctrl + k` or `ctrl + r` (windows) -_ will clear out the console. (this works in Chrome dev tools console as well)_ 
 
-(this works in Chrome dev tools console as well)
+### Code Editor 
 
 Finally we are on the topic of the editor. 
 
-Wes highly recommends you use VSCode because he thinks it's the best editor for writing javascript in. You may have different opinions. In terms of tooling, Wes feels that VSCode is the best. We will be looking at some extensions to use to format Javascript properly. Again if you want to know what theme Wes is using, refer to wesbos.com/uses. 
+Wes highly recommends you use VSCode because he thinks it's the best editor for writing javascript in. 
+
+You may have different opinions. 
+
+In terms of tooling, Wes feels that VSCode is the best. 
+
+We will be looking at some extensions to use to format Javascript properly. Again if you want to know what theme Wes is using, refer to https://wesbos.com/uses. 
 
 ---
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-13T23:51:46.046Z'
+modified: '2020-07-14T11:00:01.564Z'
 ---
 
 # Module 1: The Basics
@@ -368,27 +368,34 @@ Go into the `/playground` folder and make a new file `variables.html`.
 
 Use the HTML base snippet and add a script tag within the body. 
 
-To make sure everything is working, add a `console.log('hey');` within the script tag. Wes will explain the use of the semi colon shortly. 
+To make sure everything is working, add a `console.log('hey');` within the script tag. _Wes will explain the use of the semi colon shortly_. 
 
 If you open up the `variables.html` file in the browser, you should see 'hey' in the console. 
 
 ![](@attachment/Clipboard_2020-01-20-19-31-26.png) 
 
-There are three different ways to make a variable, which in Javascript we refer to as declaring a variable. They are: `var`, `let` and `const`. 
+There are three different ways to make a variable, which in Javascript we refer to as _declaring a variable_. They are: 
+1. `var`
+2. `let`
+3. `const` 
 
-Let's start with `var`. To make a variable you say `var` and then you make a name of the variable. You can use almost anything for a variable name (we will discuss restrictions shortly)
+### var
+
+Let's start with `var`. 
+
+To make a variable you say `var` and then you make a name of the variable. You can use almost anything for a variable name _(we will discuss restrictions shortly)_
 
 ```javascript
 var first = 'wes' 
 ```
 
-What we have done there is created a new variable called `first` and we set it to a string (we will discuss what that is in a second) of 'wes'.
+What we have done there is created a new variable called `first` and we set it to a string of 'wes' _(we will discuss what a string is in a second)_.
 
 Now, if you refresh the `variables.html` page, and type into the console `first`, you will see that we actually get the value that is inside of that variable. 
 
 ![](@attachment/Clipboard_2020-01-20-19-39-40.png)
 
-You can also do it by doing a console.log like so:
+You can also do it by doing a `console.log()` like so:
 
 ```html
 <body>
@@ -398,26 +405,51 @@ You can also do it by doing a console.log like so:
 </body>
 ```
 
+### let 
+
 The second way to delcare a variable is with `let`.     
 
-Add `let age = 300;` below the declaration of the variable `first`. 
+Below the declaration of the variable `first`, add 👇
+
+```js
+let age = 300;
+``` 
 
 If you refresh `variables.html`, and type in age, you will see 300 returned in the console. 
 
-The third way is with `const`. Below the `age` variable, add the following: `const cool = true;`. That is what is called a constant variable.
+### const 
 
-The naming of these things aren't great. Const means constant, but it's still called a variable. `var`, `let`, `const` are all different types of variables, and there is different ways to declare the variables and we will talk about the pros and cons to all of them in just a second. 
+The third way is with `const`. Below the `age` variable, add the following: 👇
+
+```
+const cool = true;
+```
+
+That is what is called a constant variable.
+
+The naming of these things aren't great. Const means constant, but it's still called a variable. 
+
+`var`, `let`, `const` are all different types of variables, and there is different ways to declare the variables and we will talk about the pros and cons to all of them in just a second. 
+
+### Statements and Semi Colons Semi-Colons in Javascript
 
 Before we do that, let's discuss the semi colon Wes is adding after each javascript line. 
 
 ![](@attachment/Clipboard_2020-01-20-19-47-16.png)
 
-These semi-colons are used to terminate the line of javascript. 
-`var first = 'wes';` is what is refered to as a "statement" in javascript. A statement is an instruction  to the computer, browser, the javascript interpreter to do something. 
+Semi-colons are used to terminate the line of javascript. Below is an example of what is refered to as a **statement** in javascript. 
 
-This can usually be summarized as a variable was being declared, a variable was being updated, a function was being called, something was console.logged. 
+```js
+var first = 'wes';
+```
 
-Anytime  you want to do something in javascript, that is referred to as a statement. When you are done your statement, you add a semi-colon to the end of the line. 
+**A statement** is an instruction  to the computer, browser, the javascript interpreter to do something. 
+
+This can usually be summarized as a variable was being declared, a variable was being updated, a function was being called, something was logged to the console. 
+
+Anytime  you want to do something in javascript, that is referred to as a statement. 
+
+When you are done your statement, you add a semi-colon to the end of the line. 
 
 ```js
 var first = 'wes'; //variable declaration statement
@@ -426,7 +458,9 @@ let cool = true;
 console.log(first); //function call statement
 ```
 
-One thing that we will run into in javascript is something called a "code block". 
+### Code Blocks
+
+One thing that we will run into in javascript is something called a **code block**. 
 
 For example, add the following line of code to `variables.html` and refresh the page
 
@@ -438,27 +472,31 @@ if(age > 10){
 
 You should see the message "you are old" in the console. 
 
-The question is how come we didn't put the semi-colons after each line like this: 
+The question is how come we _didn't_ put the semi-colons after each line like this 👇
+
 ```js
 if(age > 10){;
   console.log('you are old');
 };
 ```
 
-That is because it's something that is referred to as a code block. Code blocks are things that are bound by these curly brackets `{` and `}`.  
+That is because it's something that is referred to as a **code block**. 
 
-Things like function definitions, if statements, loops do not need a semi-colon at the end because you aren't telling the computer to do something, you are just running some code and you are telling the computer to do something inside of it. 
+Code blocks are things that are bound by these curly brackets `{` and `}`.  
+
+Things like function definitions, if statements, loops do not need a semi-colon at the end because you aren't telling the computer to do something. In those instances, you are just running some code and telling the computer to do something inside of the block. 
 
 Throughout the course Wes will continue to mention why we do and do not use the semi-colon so you can get the hang of it.
 
-It is possible to get away without writing semi-colons in javascript because there is something in javascript called ASI, which is automatic semi-colon insertion but we are not cover that because it's a much more advanced topic. Devs use don't use semi-colons know how ASI is working and they take advantage of that. That is totally fine, but it's best to learn javascript with semi-colons. 
+It is possible to get away without writing semi-colons in javascript because there is something in javascript called *ASI*, which is **automatic semi-colon insertion** but we are not cover that because it's a much more advanced topic. 
 
+### Differences between var, let & const
 
 Let's talk about the difference between the three types of variables. 
 
 Remove all the extra javascript code within `variables.html` except for:
 
-```js
+```html
 <script>
   var first = 'wes'; 
   let age = 300;
@@ -466,7 +504,11 @@ Remove all the extra javascript code within `variables.html` except for:
 </script>
 ```
 
-So `var` and `let` can be updated. If you ever want to change what the value is of one of those variables, you can simply just change it. For example, if you add the following line of javascript, refresh `variables.html` in the browser and type `first` in the console, you should see the value `westerhoff` returned. 
+`var` and `let` can be updated. 
+
+If you ever want to change what the value is of one of those variables, you can simply just change it. 
+
+For example, if you add the following line of javascript, refresh `variables.html` in the browser and type `first` in the console, you should see the value `westerhoff` returned. 
 
 ```html
 first = 'westerhoff';
@@ -481,7 +523,7 @@ For example type in the console `age = 400`. That updates the value of the `age`
 
 ![](@attachment/Clipboard_2020-01-20-20-19-01.png)
 
-You can either run the javascript from the `variables.html` page, or you can run them from the console. Because the variables in `variables.html` are global variables (we will cover what that is in a future video), we can modify the either in the script tag within `variables.html` or directly from the console. 
+You can either run the javascript from the `variables.html` page, or you can run them from the console. Because the variables in `variables.html` are **global variables** _(whch we will cover in a future video)_, we can modify the either in the script tag within `variables.html` or directly from the console. 
 
 Notice that we do not have to redeclare the variable. We did *not* have to do something like this:
 
@@ -493,19 +535,35 @@ let cool = true;
 var first = 'westernhoff';
 ```   
 
-That is actually a bad practice and in most cases, won't even work. You only need to declare the variable with `var`, `let`, or `const`, and then whenever you want to update the value, you don't need to put that infront of it, you can just go ahead and set it to it's new value. 
+That is actually a bad practice and in most cases, won't even work. 
 
-You CANNOT set a const variable to be something else. If you were to go `cool = false`, you will see the following error: ![](@attachment/Clipboard_2020-01-20-20-23-21.png)
+You only need to declare the variable with `var`, `let`, or `const`, and then whenever you want to update the value, you don't need to put the keyword infront of it, you can just go ahead and set it to it's new value. 
 
-Errors in javascript will tell you what went wrong and where it went wrong. Here it says "Uncaught TypeError: Assignment to constant variable on Line 18.". Now that is exactly what we did, we tried to change a variable that was set to a constant. Constant variables cannot be changed, so think of them like an API key or something that you never want changed. You set those to a constant, and the value of that variable can never be changed. Now, that is not totally true, we will follow up when we hit arrays and objects (meaning that there is a difference between the array or object that it is bound to and the values that live inside of it). What we need to know right now is just that `var` and `let` variables can be changed or updated, and `const` variables cannot. 
+You **cannot** set a const variable to be something else. If you were to go `cool = false`, you will see the following error: 👇
+
+![](@attachment/Clipboard_2020-01-20-20-23-21.png)
+
+Errors in javascript will tell you what went wrong and where it went wrong. Here it says 👇
+
+>Uncaught TypeError: Assignment to constant variable on Line 18.
+
+That error is describing exactly what we did, which was we tried to change a variable that was set to a constant. 
+
+Constant variables cannot be changed, so think of them like an **API key** or something that you never want changed.  You set those to a constant, and the value of that variable can never be changed. 
+
+It not not totally true that it can never be changed, which we will follow up when we hit arrays and objects _(meaning that there is a difference between the array or object that it is bound to and the values that live inside of it)_. 
+
+What we need to know right now is just that `var` and `let` variables can be changed or updated, and `const` variables cannot. 
+
+#### Strict Mode
 
 The next thing you need to know about variables is this thing called **Strict Mode**. 
 
-TIP: While in your code editor, you can select a block of text and on your keyboard press `Command` + `/` to comment out your code. Commenting out code makes your browser skip that code. It'll still be there, but the browser will not run it. 
+_🔥Tip: While in your code editor, you can select a block of text and on your keyboard press `Command` + `/` to comment out your code. Commenting out code makes your browser skip that code. It'll still be there, but the browser will not run it._
 
 If you put this code in the script tag, refresh `variables.html` and write dog in the console, the console will return the value of "snickers". 
 
-```
+```html
 <script>
     // var first = 'wes';   
     // let age = 300;
@@ -518,81 +576,129 @@ If you put this code in the script tag, refresh `variables.html` and write dog i
   </script>
 ```
 
-We made a variable even though we did not `var`, `let`, or `const` it. What is going on? How can that happen? 
+We made a variable even though we did not `var`, `let`, or `const` it. 
 
-Now if we go to the top of our opening script tag, and add `use strict;` and then refresh the page, we will see the error "dog is not defined". 
+What is going on? How can that happen? 
+
+Now if we go to the top of our opening script tag, and add `use strict;` and then refresh the page, we will see the error 
+
+>dog is not defined 
 
 ![](@attachment/Clipboard_2020-01-20-21-30-55.png)
 
-In the early days of javascript, it was possible to create a variable without first declaring it, and the browser would just add the var on behalf of the user. That leads to bad code down the road, it's pretty sloppy and it's not something that you want to do. So what happened? Javascript still supports the old method of not declaring a variable because it has to be backwards compatible with early javascript code. But they can introduce new modes into the browser like strict mode, which will throw an error if you try to do something like not declaring a variable properly. 
+In the early days of javascript, it was possible to create a variable without first declaring it, and the browser would just add the var on behalf of the user. 
 
-```
+That leads to bad code down the road, it's pretty sloppy and it's not something that you want to do. So what happened? 
+
+Javascript still supports the old method of not declaring a variable because it has to be backwards compatible with early javascript code. 
+
+But they can introduce new modes into the browser like strict mode, which will throw an error if you try to do something like not declaring a variable properly.
+
+```js
 var dog = 'hugo';
 dog = 'snickers';
 ```
 
 First you are declaring the variable dog and then updating it with the value of snickers. 
 
-Another thing you can do is just declare a variable and then update it on the next line like so: 
+Another thing you can do is just declare a variable and then update it on the next line like so 👇
 
-```
+```js
 var dog;
 dog = 'snickers';
 ```
-That will work because what happens here is if you comment out the second line so it's just `var dog;` and refresh `variables.html`, when you type dog into the console you will have the value of undefined returned to you. 
+
+That will work because what happens here is if you comment out the second line so it's just `var dog;` and refresh `variables.html`, when you type dog into the console you will have the value of "undefined" returned to you. 
 
 ![](@attachment/Clipboard_2020-01-20-21-36-56.png)
 
-Strict mode is useful but we won't be typing it every time in this course because we are going to be following best practices and it is enforced by default when you are using javascript modules, and modules are probably how you are going to be writing all of your modern javascript.
+Strict mode is useful but we won't be typing it every time in this course because we are going to be following best practices and it is enforced by default when you are using **javascript modules**, and modules are probably how you are going to be writing all of your modern javascript.
+
+#### Scoping 
 
 Now let's talk about the second difference between `var`, `let`, and `const`, which is scoping. 
 
 Clear your javascript code until it's back to the three variables we had at the beginning.
 
-```
+```js
  var first = 'wes';   
  let age = 300;
  const cool = true;
 ```
 
-Scoping in javascript answers the question "Where are my variables available to me?". We are going to have an entire section of this course focused on scoping because it's such a fundamental part of javascript, but for now we need to know that:
+Scoping in javascript answers the question "_Where are my variables available to me?_"
 
-`var` variables are scoped differently than `let` and `const` variables.
+We are going to have an entire section of this course focused on scoping because it's such a fundamental part of javascript, but for now we need to know that:
 
-`var` variables are what we refer to as function scoped variables. 
+- `var` variables are scoped differently than `let` and `const` variables.
 
-`let` and `const` variables are what we refer to as block scoped variables. 
+- `var` variables are what we refer to as **function scoped variables** (they are only available within the parent function).
+
+- `let` and `const` variables are what we refer to as **block scoped variables**. 
 
 What does this mean?!
 
-We are going to learn what blocks and functions are in the future. Since we haven't covered that yet, just put that on ice temporarily. Just know that var variables are function scoped (they are only available within the parent function), and `let` and `const` are block scoped {}. We will continue on in the functions and block video about this. 
+We are going to learn what blocks and functions are in the future. Since we haven't covered that yet, just put that on pause temporarily until the functions and blocks video. We will continue on in the functions and block video about this. 
 
 The question is, what are we going to be using in this course?
-They are all valid. `let` and `const` were introduced as part of what is called es6, which is only a couple of years old. `var` has been around since javascript has been invented. 
 
-You may sometimes see people say `var` variables are old or deprecated, but they are not. It's just that some developers (Wes included) prefer to use `let` and `const` because the block scoping makes more sense as well the benefit of assigning a constant value to these constants and not accidentally overwriting a variable which can lead to bugs. 
+They are all valid. 
+
+`let` and `const` were introduced as part of what is called es6, which is only a couple of years old. `var` has been around since javascript has been invented. 
+
+You may sometimes see people say `var` variables are old or deprecated, but they are not. 
+
+It's just that some developers (Wes included) prefer to use `let` and `const` because the block scoping makes more sense as well the benefit of assigning a constant value to these constants and not accidentally overwriting a variable which can lead to bugs. 
 
 Here is how Wes' approaches deciding which of the three to use:
 
-- He uses `const` by default. Anytime he is assigning a new variable, he just defaults it to `const` because he doesn't know if he'll need to be updating that or not. 
-- If he needs to change a value of a variable, he will use a `let`. Sometimes he will make a variable `const` and then realize he needs to update it so he will make it a `let`.
-- Wes almost never uses a `var` variable. There are some exceptions like when declaring a variable outside of a block but we will go into more detail about that shortly. 
+- _He uses `const` by default._ Anytime he is assigning a new variable, he just defaults it to `const` because he doesn't know if he'll need to be updating that or not. 
+- _If he needs to change a value of a variable, he will use a `let`._ Sometimes he will make a variable `const` and then realize he needs to update it so he will make it a `let`.
+- _Wes almost never uses a `var` variable._ There are some exceptions like when declaring a variable outside of a block but we will go into more detail about that shortly. 
+
+#### Naming Conventions 
 
 Last thing we need to talk about is **naming conventions**.
 
-What can you call your variables? As a convention, variables should not start with a capital. For example `const Dog = 'bowser';` will work in the browser, it's not wrong, it's not broken javascript, but it's convention that variables should not start with a capital unless they are a class (we will get into that once we get into classes, prototypes and things like that). 
+What can you call your variables? 
 
-Variables must start with either an a-Z letter (a,b,c,d etc). They can also start with or contain an underscore `_` or dollar sign `$`. 
+As a convention, variables should _not_ start with a capital. 
 
-For example you could do `const $$$$$$$$ = 100;` and it would work. A variable like `$_$` would also work. 
+For example, the code bellow will work in the browser. It is not wrong or broken javascript, but it's convention that variables should not start with a capital unless they are a class _(we will get into what classes are in the future)_. 
+
+````js
+const Dog = 'bowser';
+```
+
+Variables must start with either an a-Z letter _(a,b,c,d etc)_. They can also start with or contain an underscore `_` or dollar sign `$`. 
+
+For example you could add the variable below and it would work. A variable like `$_$` would also work.
+
+```js
+const $$$$$$$$ = 100;
+```
 
 `$` and `_` are the only non a-Z characters that can be used inside of variables. 
 
-The `_` is sort of synonymous with a library called lowdash, and the $ is sort of synonymous with a library called jQuery so you don't normally make your variables called $ or _ because they have sort of been taken as a convention. You can however certainly include them if you want.
+_Tip: the `_` is sort of synonymous with a library called lowdash, and the `$ `is sort of synonymous with a library called jQuery so you don't normally make your variables called $ or _ because they have sort of been taken as a convention. You can however certainly include them if you want._
 
-If a variable is made up of two words, for example `const iLovePizza`. This is referred to as camel case. With camel case, every word inside of your variable will contain an uppercase except for the first one, for the reasons we just talked about. Upper camel case is where you do start it with a capital (ILovePizza), however that is almost never used in Javascript unless you are defining a class. 
+#### Camel Casing 
 
- There is also something called Snake Case. Instead of using capitals between words, you use underscores. For example `const this_is_snake_case = 'cool';`.
+Sometimes a variable is made up of two words, for example 👇
+
+```js
+const iLovePizza
+```
+
+This is referred to as **camel case**. With camel case, every word inside of your variable will contain an uppercase except for the first one, for the reasons we just talked about. 
+
+Upper camel case is where you do start it with a capital (_ILovePizza_), however that is almost never used in Javascript unless you are defining a class. 
+
+### Snake Case
+
+There is also something called **snake case**. 
+
+Instead of using capitals between words, you use underscores. For example `const this_is_snake_case = 'cool';`.
 
 ```  
 //camel case
@@ -603,7 +709,9 @@ const ILoveToEatHotDogs = false;
 const this_is_snake_case = 'cool';
 ``` 
 
- There is also something called kebab case, for example `const this-is-kebab-case` but this is **not** allowed in javascript. 
+### Kebab Case - Not Allowed 
+
+ There is also something called** kebab case**, for example `const this-is-kebab-case` but this is **not** allowed in javascript. 
 
  Most developers will always use camel case, UpperCamelCase if you are building a class, some people like underscores and kebab case is not allowed. 
 

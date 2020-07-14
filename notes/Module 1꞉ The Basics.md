@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-14T12:28:55.460Z'
+modified: '2020-07-14T23:44:44.612Z'
 ---
 
 # Module 1: The Basics
@@ -864,33 +864,51 @@ As you start to develop your own opinions for what you like, you can sort of ove
 
 Let's get into installing Prettier and ESLint.
 
-Go into the terminal, and use it to navigate to the `beginner-javascript` directory. If you don't know which directory you are currently in, enter `pwd` in the terminal and it return the directory that you are currently in. 
+Go into the terminal, and use it to navigate to the `beginner-javascript` directory. 
+
+_Tip: If you don't know which directory you are currently in, enter `pwd` in the terminal and it return the directory that you are currently in._
 
 There are a few things we need to do before we can get going. 
 
-We are going to follow the instructions located at https://github.com/wesbos/eslint-config-wesbos. You can install this globally or per project. What Wes does is he usually installs it globally so that all the projects he works on are covered, and then for each individual project that is more than a demo, he installs it locally. 
+We are going to follow the instructions located at https://github.com/wesbos/eslint-config-wesbos. 
+
+You can install this globally or per project. 
+
+What Wes does is he usually installs it globally so that all the projects he works on are covered, and then for each individual project that is more than a demo, he installs it locally. 
 
 ![](@attachment/Clipboard_2020-01-21-20-06-17.png)
 
-We will be installing it locally per project, because that is the way you probably should do it for all of yoru projects. 
+We will be installing it locally per project, because that is the way you probably should do it for all of your projects. 
 
-If you don't already have your package.json, create one by typing into the terminal  `npm init`. We will be talking about NPM later in this course, but essentially NPM allows us to download what are called "dependencies", which is other people's javascript packages that allow us to do things. We need other people's javascript packages. We need ESLint, we need Prettier, we need Wes' config. SO in order for that to work, we need what is called a `package.json` file which is going to hold a list of all of the other things in javascript that we need. 
+If you don't already have your `package.json`, create one running the command `npm init` by typing into the terminal  `npm init`. 
 
-To create the `package.json`, you simply just type `npm init` in the terminal and press enter. You will now be prompted to enter a package name, description, keywords etc but you can just press enter to skip setting those values for now. 
+We will be talking about npm later in this course, but essentially NPM allows us to download what are called "dependencies", which is other people's javascript packages that allow us to do things. We need other people's javascript packages. We need ESLint, we need Prettier, we need Wes' config. SO in order for that to work, we need what is called a `package.json` file which is going to hold a list of all of the other things in javascript that we need. 
+
+To create the `package.json`, you simply just type `npm init` in the terminal and press enter. 
+
+You will now be prompted to enter a package name, description, keywords etc but you can just press enter to skip setting those values for now. 
 
 ![](@attachment/Clipboard_2020-01-21-19-18-03.png)
 
-Then we need to go ahead and install all of our dependencies for this thing. Go ahead and copy the line of code in step 2 of instructions to install per project. 
+Then we need to go ahead and install all of our dependencies for this thing. 
 
-`npx install-peerdeps --dev eslint-config-wesbos`
+Go ahead and copy the line of code in step 2 of instructions to install per project. 
+
+```
+npx install-peerdeps --dev eslint-config-wesbos
+```
 
 After about a minute or so, it will go ahead and install all of your files.
 
 ![](@attachment/Clipboard_2020-01-21-19-20-45.png)
 
-If you take a look at your file system, you will see that there is this new folder called node_modules and inside there are a whole bunch of dependencies. We're not going to get into what that is just yet, that will be coming in our modules lesson. For now, all we need to know is it contains all of the javascript that makes ESLint and PRettier run. 
+If you take a look at your file system, you will see that there is this new folder called `node_modules/` and inside there are a whole bunch of dependencies. 
 
-Next we need to make a new file within the `beginner-javascript` folder, called `.eslintrc`. This is what is called a "dot file". Soemtimes your computer will hid edot files from you because they are typically just files that developers use under the hood. Since we are developers, we do not want to hide those files. If you have trouble seeing that file in your file system, do a quick google of "Showing hidden files Mac" or "show hidden files Windows" and it will show you how to flip that on. 
+We're not going to get into what that is just yet, that will be coming in our modules lesson. For now, all we need to know is it contains all of the javascript that makes ESLint and PRettier run. 
+
+Next we need to make a new file within the `beginner-javascript` folder, called `.eslintrc`. This is what is called a "dot file". 
+
+Sometimes your computer will hide dot files from you because they are typically just files that developers use under the hood. Since _we are developers_, we do not want to hide those files. If you have trouble seeing that file in your file system, do a quick google of "Showing hidden files Mac" or "show hidden files Windows" and it will show you how to flip that on. 
 
 Inside of your `.eslintrc` file, copy the following: 
 

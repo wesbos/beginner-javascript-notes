@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-14T11:00:01.564Z'
+modified: '2020-07-14T12:28:55.460Z'
 ---
 
 # Module 1: The Basics
@@ -666,7 +666,7 @@ As a convention, variables should _not_ start with a capital.
 
 For example, the code bellow will work in the browser. It is not wrong or broken javascript, but it's convention that variables should not start with a capital unless they are a class _(we will get into what classes are in the future)_. 
 
-````js
+```js
 const Dog = 'bowser';
 ```
 
@@ -700,7 +700,7 @@ There is also something called **snake case**.
 
 Instead of using capitals between words, you use underscores. For example `const this_is_snake_case = 'cool';`.
 
-```  
+``` js
 //camel case
 const iLovePizza = true;
 // UpperCamelCase
@@ -719,44 +719,70 @@ const this_is_snake_case = 'cool';
 
 ## 05 - Code Quality Tooling with Prettier and ESLint
 
-There are two tools that are extremely helpful in code quality and formatting of your javascript. Whether you are a solo developer looking to follow best practices or catch potential bugs, and also just not to worry about formatting. Or if you are on a team, and often whne you join a team, the team will say "this is the way we write our javascript". 
+Whether you are a solo developer looking to follow best practices or catch potential bugs, or you are a member of a team that has a specific way of writing Javascript, there are many use cases for using code quality tooling. 
 
-Let's look at some code. 
+There are two tools that are extremely helpful in code quality and formatting of your javascript:
+
+1. ESLint
+2. Prettier
+
+Before we jump into those, let's start by looking at some code and opinions people have about formating in Javascript. 
 
 ![](@attachment/Clipboard_2020-01-21-07-11-02.png)
 
-The fact that we are using single quotes rather than double quotes, that is an opinion that people have. The fact that there is a space between the variable name and the equal sign is actually not necessary, that is an opinion that people have in their javascript. There are all these things that are either going to cause you potential issues in your code, or are just sort of formatting that people have opinions about. These tools will take the guess work, and the fighting out of the equation. They will either fix it for you, or alert you if you are doing something that is potentially a bad practice or has an accessibility issue or what not.
+In the code above 👆, we are using single quotes `''` rather than double quotes `""`, , which is an opinion that people have. Some people prefer one over the other. 
 
-The first tool is called ESLint.
-The second one is called Prettier. 
+The fact that there is a space between the variable name and the equal sign is actually not necessary in `const p = document.querySelector('p;)`, that is an opinion that people have in their javascript.  `const p=document.querySelector('p');` would work the same way. 
+
+Those are just two example of things that have the potential to cause issues in your code, or are formatting preference that people have opinons about. 
+
+The tools we mentioned earlier will help you fix those issues by either fixing it for you, or by alerting you if you are doing something that is a bad practice, or causes an accessibility issue, along with a whole lot of other things. 
+
+### ESLint & Prettier
+
 
 I recommend that you go to https://eslint.org and go to the demo. 
-On Prettier, there is a link on the homepage that says "Try it". 
 
-We will go through what they are, how they work, and then the steps you need to go through to install them. 
+For Prettier, there is a link on the homepage that says "Try it". 
 
-First thing, ESLint, is a javascript linter tool for identifying and reporting potential issues in your javascript. Some examples may be bad practices or design patterns, or identifying unused variables in functions. 
+![](@attachment/Clipboard_2020-07-14-08-18-27.png)
+
+![](@attachment/Clipboard_2020-07-14-08-18-02.png)
+
+We will cover:
+- what they are 
+- how they work
+- the steps you need to go through to install them
+
+#### ESLint
+
+**ESLint**, is a javascript linter tool for identifying and reporting potential issues in your javascript. Some examples may be bad practices or design patterns, or identifying unused variables in functions. 
 
 If you go to the ESLint demo, select the "Rules Configuration" section and choose the latest version of javascript. 
 
 ![](@attachment/Clipboard_2020-01-21-07-16-44.png)
 
-If you type into the demo `const age = 300;`, you will see the following linting rule "'age' is assigned a value but never used". 
+If you type into the demo `const age = 300;`, you will see the following linting rule 👇
+>'age' is assigned a value but never used.
+
 ![](@attachment/Clipboard_2020-01-21-07-17-35.png)
 
-If we go ahead and use it by adding a line below of `console.log(age);`, we will get the following errors:
-3:1 - Unexpected console statement
-3:1 - 'console' is not defined. 
+If we go ahead and use it by adding a line below of `console.log(age);`, we will get the following errors 👇
 
-One of the rules that are set in the demo version of ESLint is to not use console.log, and that would be a rule for production because you don't want to ship code to production that includ sconsole.logs. 
+>3:1 - Unexpected console statement
+>3:1 - 'console' is not defined. 
 
-You can turn those rules on and off, Wes will show us his own config shortly. If you scroll down on the ESLint site, you will see a list of all of the rules that you can set using ESLint. 
+One of the rules that are set in the demo version of ESLint is to not use `console.log()`, which is sometimes a production rule that developers use because you don't want to ship code to production that in clude sconsole logs. 
 
-What is useful is as you write code, ESLint will throw an error and you might not know why it is being thrown. ESLint provides a link to the documentation of the rule so you can read through and understand what it means. 
+With ESLint, you can turn specific rules on or off. Wes will show us his own config shortly. 
 
-Some other thing is broken or confusing scoping. 
+If you scroll down on the ESLint site, you will see a list of all of the rules that you can set using ESLint. 
 
-Let's say you add this code: 
+Sometimes are you are writing code, ESLint will throw an error and you might not know why it is being thrown. THankfully, ESLint provides a link to the documentation of the rule so you can read through and understand what it means. 
+
+Some other thing ESLint helps with is is broken or confusing scoping. 
+
+Let's say you add the following code 👇
 
 ```
 function hi(){
@@ -764,23 +790,38 @@ function hi(){
 }
 ```
 
-you would get the following errors:
->1:10 - 'hi' is defined but never used
+You should get the following errors: 👇
+
+>1:10 - 'hi' is defined but never used.
 >2:3 - 'age' is not defined.
 
-If we add a `let` before the age variable, it will still compain that `hi` is defined but never used so if we call `hi()` in our code, it just complains that age is assigned but never used. It is always giving you feedback on your code. Initially, this can be very frustration because it tells you that all your code is wrong. Overtime, you will be able to modify your own config that fits your own coding style as well as wise up to why some of those things might be bad practices. 
+If we add a `let` before the age variable, it will still compain that `hi` is defined but never used. 
 
-ESLint is also pluggable. This means you can have many different plugins with it, there are many of them, for different styles of javascript, such as a React/Vue/Angular plugin. 
+If we call `hi()` in our code, it just complains that age is assigned but never used. 
 
-That is a high level of what ESLint is. We will talk more about configuring it in just a second.
+ESLint is always giving you feedback on your code. 
 
-The next tool that we have is Prettier. Whereas ESLint will yell at you about things that are causing potential issues in your code, Prettier is entirely for formatting of your code.
+Initially, this can be very frustration because it tells you that all your code is wrong. 
+
+Over time, you will be able to modify your own config that fits your own coding style as well as wise up to why some of those things might be bad practices. 
+
+ESLint is also pluggable. 
+
+This means you can have many different plugins with it, there are many of them, for different styles of javascript, such as a React/Vue/Angular plugin. 
+
+That is a high level overview of what ESLint is. We will talk more about configuring it in just a second.
+
+#### Prettier
+
+The next tool that we have is Prettier.
+
+Whereas ESLint will yell at you about things that are causing potential issues in your code, Prettier focuses entirely on just the formatting of your code. 
 
 Navigate to https://prettier.io/ and select the "Try me option" which should open up the playground. 
 
-Paste the following code in it: 
+Paste the following code in it 👇
 
-```
+```js
 const    age = 100
 
 alert ( 'hey' )
@@ -788,7 +829,7 @@ alert ( 'hey' )
 
 The output should give you:
 
-```
+```js
 const age = 100;
 alert('hey');
 ```
@@ -797,14 +838,29 @@ alert('hey');
 
 The input code is technically valid javascript, however it is messy and harder to read. Those are annoying things, things such as indentation. 
 
-Prettier will take in all of your code. For example if you are mixing your quotes, using single quotes `'` sometimes and `"` double quotes at other times, Prettier will always just format them into a consistent one depending on the settings that you have.
+Prettier will take in all of your code. 
 
+For example if you are mixing your quotes, using single quotes `'` sometimes and `"` double quotes at other times, Prettier will always just format the code to use one or the other, for consistencies sake, depedning on the settings you have. 
 
- Prettier is pretty opinionated. There are a few settings that we can toggle here or there, but mostly you just have to let it figure out how you want it to format you code. 
+Prettier is pretty opinionated. 
 
-You can use ESLint and Prettier separately. But what Wes likes to do is use ESLint and then use the Prettier plugin for ESLint. So that all of his code goes through ESLint so ESLint will tell him what is wrong with his code, as well as any possible issues that ESLint is able to fix, including the Prettier fixes, it will go ahead and fix those for us. 
+There are a few settings that we can toggle here or there, but mostly you just have to let it figure out how you want it to format you code. 
 
-The thing with ESLint is you install it, and then you spend the rest of your life configuring it based on the hundreds of possible rules. You can go ahead and do that, but it's likely that you want to pick someone else's settings that you already like. That is exactly what Wes did. He made a config that is a set of ESLint rules, as well as the Prettier plugin which will do the formatting for you, all bundled into one so you can hit the ground running with thta config. As you start to develop your own opinions for what you like, you can sort of overwrite those one by one. 
+You can use ESLint and Prettier separately. 
+
+What Wes likes to do is use ESLint and then use the Prettier plugin for ESLint. That way, all of his code goes through ESLint which will tell him what is wrong with his code, as well as any possible issues that ESLint can fix, including Prettier fixes, and then it will go ahead and fix those for us. 
+
+One bad thing about ESLint is after you install it, you can spent the rest of your life configuring it based on the hundreds of possible rules. 
+
+It is likely that the rules you want have already been chosen well by someone else, so often you just want to pick someone else's settings that you already like. 
+
+That is exactly what Wes did for this course. 
+
+He made a config that is a set of ESLint rules, as well as the Prettier plugin which will do the formatting for you, all bundled into one so you can hit the ground running with thta config. 
+
+As you start to develop your own opinions for what you like, you can sort of overwrite those ESLint rules one by one. 
+
+### Installing ESLint & Prettier 
 
 Let's get into installing Prettier and ESLint.
 

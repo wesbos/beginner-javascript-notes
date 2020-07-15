@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-15T10:42:48.581Z'
+modified: '2020-07-15T11:00:24.365Z'
 ---
 
 # Module 1: The Basics
@@ -1029,7 +1029,7 @@ We will be using that a lot during this course.
 
 If throughout the course there is a setting you really don't like, you can go ahead and modify the `.eslintrc` file to disable that rule. 
 
-That works by creating a "rules" property like so 👇
+That works by creating a `rules` property like so 👇
 
 ```json
 {
@@ -1069,22 +1069,24 @@ Anytime that you have a value  (a value is something that can be stuck inside of
 The types in Javascript can be remembered using the word `SNOB'N'US` (just kidding, that is pretty hard to remember).
 
 The 7 Different Types in Javascript are:
-1. **String** - a string is anytime that you have some text (you will often see that in a single or double quote or a backtick) 
-2. **Number** - a number (regarldess of whether it has a decimal place in it. Some programming languages have multiple types to deal with numbers, but Javascript only has the one.)
-3. **Object** - This is a special one, we will go over this one last. Everything in Javascript is an object, and we will understand what that is when we start to hit methods. Everything that we use like functions, dates, and arrays are just objects at the end of the day. All the other types except for object are referred to as the "primitive types". 
-4. **Boolean** - true or false
-5. **Null** - can be used to set a variable to nothing (we will discuss difference between undefined and null shortly)
-6. **Undefined** - can be used to set a variable to nothing (we will discuss difference between undefined and null shortly)
-7. **Symbol** - this is a new one  to javascript, and it will always give us a guaranteed unique identifier. This is useful for when you are trying to come with a unique identifier inside of an object and you want to make sure you are not also overwriting something that already exists with that id. 
+1. **String** - _a string is anytime that you have some text (you will often see that in a single or double quote or a backtick)_
+2. **Number** - _a number (regarldess of whether it has a decimal place in it. Some programming languages have multiple types to deal with numbers, but Javascript only has the one.)_
+3. **Object** - _This is a special one, we will go over this one last. Everything in Javascript is an object, and we will understand what that is when we start to hit methods. Everything that we use like functions, dates, and arrays are just objects at the end of the day. All the other types except for object are referred to as the "primitive types"._ 
+4. **Boolean** - _true or false_
+5. **Null** - _can be used to set a variable to nothing (we will discuss difference between undefined and null shortly)_
+6. **Undefined** - _can be used to set a variable to nothing (we will discuss difference between undefined and null shortly)_
+7. **Symbol** - _this is a new one  to javascript, and it will always give us a guaranteed unique identifier. This is useful for when you are trying to come with a unique identifier inside of an object and you want to make sure you are not also overwriting something that already exists with that id._
 
 
 ---
 
 ## 07 - Types - Strings
 
-Create a new file called `types.html` and we will use our HTML base snippet. Add the following code:
+Create a new file called `types.html` and we will use our HTML base snippet. 
 
-```
+Add the following code 👇
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -1103,45 +1105,96 @@ Create a new file called `types.html` and we will use our HTML base snippet. Add
 </html>
 ```
 
-Create a new file called `types.js`, add a console log such as `console.log('it works')` and save the file. Now open `types.html` in a browser and open the console to test that it works. 
+Create a new file `types.js`.
+
+Add a console log such as `console.log('it works')` and save the file. 
+
+Once you have done that, open the `types.html` page in a browser and take a look at the console to test that it works. 
 
  Strings are used for holding text. THere are three different ways to create strings in javascript:
  1. Single Quotes `'text'` 
  2. Double Quotes `"text"`
  3. Backticks `` `text` `` 
  
-Add the following to your `types.js` file:
+Add the following to your `types.js` file 👇
 
-```
+```js
 const name = "wes";
 const middle = "topher";
 const last = `bos`;
 ```
 
-When you save the file, you might notice that our double quotes were replaced with single quotes because of our ESLint rules. We want to disable that, which you can do by adding a comment. 
+When you save the file, you might notice that our double quotes were replaced with single quotes because of our ESLint rules. 
 
-This is a different kind of comment than this style `//comment` which Wes' has already showed us. The two forward slashes comments out the entire line. You can also put a double slash comment at the end of a line. But a forward slash star (`/*`) comment will open up what is called a block comment. You can close the block comment anywhere you wish to close it (it can be multiple lines). 
+### Javascript Comments 
+
+We want to disable that, which you can do by adding a comment. 
+
+This is a different kind of comment than this style `//comment` which Wes' has already showed us. The two forward slashes comments out the entire line. 
+You can also put a double slash comment at the end of a line. 
+
+A `/*` comment will open up what is called a **block comment**. You can close the block comment anywhere you wish to close it (it can be multiple lines). 
 
 To disable the ESLint rule, we will use a block comment even though the comment only spans one line, because that is what ESLint is looking for. 
 
-On the first line of `type.js` add the following block comment `/* eslint-disable */`. Now, if you take the value of `'topher'` and put the double double quotes back around `"topher"` and save the file, the double quotes should remain because we have disable ESLint for the entire file. (It is possible to disable ESLint for just one line.)
+On the first line of `type.js` add the following block comment 👇
 
-What is the difference between single quotes, double quotes and backticks? 
+```js
+/* eslint-disable */
+```
+
+Next take the value of `'topher'` in the `middle` variable and put the double quotes back around `"topher"` and save the file.
+
+The double quotes should remain because we have disable ESLint for the entire file. _(It is possible to disable ESLint for just one line.)_
 
 For Wes' Prettier settings, he usually sticks with single quotes or backticks. He has been considering switching to just using backticks entirely. 
 
-Single quotes and double quotes are exactly the same thing. The only reason that we have them both is because if you were having a sentence like `const sentence = 'she's so cool';`, it would break your javascript because the javascript interprets the apostraphy as closing the string. If you were to make that change, save the file and then refresh `type.html`, you will see an error that says 
+### Difference between Single Quotes, Double Quotes and Backticks
+
+What is the difference between single quotes, double quotes and backticks? 
+
+Single quotes and double quotes are exactly the same thing. 
+
+The only reason that we have them both is because if you were having a sentence like `const sentence = 'she's so cool';`, it would break your javascript because the javascript interprets the apostrophe as closing the string. 
+
+If you were to make that change, save the file and then refresh `type.html`, you will see an error that says 
 >Unexpected identifier
 
- ![](@attachment/Clipboard_2020-01-22-18-26-09.png)
+![](@attachment/Clipboard_2020-01-22-18-26-09.png)
 
- In that case, there are a few things we can do. First, we can do something called escaping. Escaping in javascript allows you to tell javascript "No, I actually want this character, don't interpret it as javascript syntax, interpret it as text. Escaping is done with a backslash. For example, change that line of code to be `const sentence = 'she\'s so cool';` and refresh the page. This can get annoying. Another challenge is what if you actually want a back slash in your text? You would have to escape it like so: `'she\'s so cool \\';`
+In that case, there are a few things we can do. 
 
- The other better option is to just use double quotes instead, so the apostrophy doesn't get interpreted as the end of the string. 
+First, we can do something called **escaping**. Escaping in javascript allows you to tell javascript "No, I actually want this character, don't interpret it as javascript syntax, interpret it as text. 
 
-Another bummer is sometimes you want to use both, for example let's say you wanted text that said `"she's so "cool""`. You would have to escape the double quotes like so: `"she's so \"cool\"";`
+Escaping is done with a backslash. 
 
-The third option is using backticks. With backticks, you could simply do `` `she's so "cool"`; ``. The only downside to this approach is if you needed a backtick in your string, you would need to escape it like so:
+For example, change that line of code to be `const sentence = 'she\'s so cool';` and refresh the page. This can get annoying. Another challenge is what if you actually want a back slash in your text? You would have to escape it like so 👇
+
+```js
+'she\'s so cool \\';
+```
+
+The other better option is to just use double quotes instead, so the apostrophe doesn't get interpreted as the end of the string. 
+
+Another bummer is sometimes you want to use both, for example let's say you wanted text that said 👇
+
+```
+"she's so "cool""
+```
+
+You would have to escape the double quotes like so 👇
+
+```js
+"she's so \"cool\"";
+```
+
+The third option is using backticks. With backticks, you could simply do 👇
+
+```js
+`she's so "cool"`;
+```
+
+The only downside to this approach is if you needed a backtick in your string, you would need to escape it like so 👇
 
 ![](@attachment/Clipboard_2020-01-22-18-37-26.png)
 
@@ -1149,11 +1202,15 @@ That is one of the benefits to using backticks.
 
 #### Putting String on Multiple Lines
 
-The next thing is putting strings on multiple lines. Let's say you wanted to add the following song as multiple lines of text:
+The next thing is putting strings on multiple lines. 
+
+Let's say you wanted to add the following song as multiple lines of text 👇
 
 ![](@attachment/Clipboard_2020-01-22-18-38-25.png)
 
-You can see that the editor is complaining about the string not being closed properly. How do you do multi-line strings? If you want to, you have to put a forward slash at the end of every single line, and that will allow you to put a string on multiple lines.
+You can see that the editor is complaining about the string not being closed properly. How do you do multi-line strings? 
+
+If you want to, you have to put a forward slash at the end of every single line, and that will allow you to put a string on multiple lines.
 
 ![](@attachment/Clipboard_2020-01-22-18-40-20.png)
 
@@ -1163,69 +1220,98 @@ The benefit to using backticks is you can have multi-line strings and they maint
 
 ![](@attachment/Clipboard_2020-01-22-18-41-29.png)
 
-Sometimes the console will return the value like this `"Ohhh↵↵ya↵↵I like↵pizza"`. Those arrows indicate a new line. 
+Sometimes the console will return the value like `"Ohhh↵↵ya↵↵I like↵pizza"`. Those arrows indicate a new line. 
 
-That will be extremely helpful when we want to make HTML. For example, you can do something like this:
-```
+Backticks will be extremely helpful when we want to make HTML. 
+
+For example, using backticks allows you to do something like this 👇
+
+```js
 const html = `
   <div>
   <h2></h2>
   </div>
 `;
 ```
-Before backticks were introduced, the only thing you could use to achieve that is concatination. 
+
+### Concatination and Interpolation
+
+Before backticks were introduced, the only thing you could use to achieve that is **concatination**. 
 
 Another benefit of backticks is interpolation and concatination. Let's define those.
-**Concatination** is when two or more strings are combined into one. 
-**Interpolation** is when you put a variable inside of a string.
 
-In `type.js` add `const hello = "hello my name is. Nice to meet you";`. Let's say we wanted to add our name to the end of the "hello my name is." sentence. 
+**Concatination** _is when two or more strings are combined into one_. 
+**Interpolation** _is when you put a variable inside of a string_.
 
-Previously, with single and double quotes, what you have to do is close the quote, put a plus (which is concatination), and then you put your variable, and then another plus like so: `const hello = "hello my name is" + name + ". Nice to meet you.";`. That is one way of interpolation (using concatenation) (You could do the same thing with single quotes, like mentioned previously, there is no difference between the two types of quotes)
+In `type.js` add 👇
 
-Here is yet another way to do this:
-
+```js
+const hello = "hello my name is. Nice to meet you";
 ```
+
+Let's say we wanted to add our name to the end of the "hello my name is." sentence. 
+
+Previously, with single and double quotes, what you have to do is close the quote, put a plus _(which is concatination)_, and then you put your variable, and then another plus like so 👇
+
+```js
+const hello = "hello my name is" + name + ". Nice to meet you.";
+``` 
+
+That is one way of interpolation (using concatenation). _You could do the same thing with single quotes, like mentioned previously, there is no difference between the two types of quotes_
+
+Here is yet another way to do this 👇
+
+```js
 let hello2 = 'hello my name is ';
 hello2 = hello2 + name; 
 hello2 = hello2 + ' Nice to meet you';
 ```
 
-That is just annoying, because we are just overwriting the variable each time (we are overwriting it with the value of the variable, plus an addition).
+That is just annoying, because we are just overwriting the variable each time _(we are overwriting it with the value of the variable, plus an addition)._
 
 Both approaches to interpolation are not the greatest. 
 
-The `+` sign does two things in javascript. If you use it with a string, it is used for concatenation. But it is also used to add numbers (`1 + 1 = 2`).
+The `+` sign does two things in javascript. 
+
+If you use it with a string, it is used for concatenation. But it is also used to add numbers like so 👇
+
+```js
+1 + 1 = 2
+```
 
 But if you do `"1" + "1"`, it will evaluate t `"11"`. 
+
 If you do `"1" + 1`, it will evaluate to `"11"`.
 
 ![](@attachment/Clipboard_2020-01-22-19-02-19.png)
 
 That is ripe for bugs, so that is where backticks come in with a much nicer solution. 
 
-With backticks, you can interpolate the string like so:
-```
-const hello = 'hello my name is ${wes}. Nice to meet you'
+### Backticks
+
+With backticks, you can interpolate the string like so 👇
+
+```js
+const hello = `hello my name is ${wes}. Nice to meet you`
 ```
 
-The `${}` syntax can only ever be used in backticks. It is the easiest way by far to pop a variable into a string.
+The `${}` syntax can only ever be used in backticks. It is the easiest way to pop a variable into a string.
 
-Almost anything can go between the curly brackets (`{}`) in that syntax. For example, you can do math. 
+Almost anything can go between the curly brackets (`{}`) in that syntax. For example, you can do math. 👇
 
-```
+```js
 const hello = `hello my name is ${name}. Nice to meet you. I am ${1+100} years old';
 ```
 
 Javascript will run whatever is inside of the curly brackets in that syntax (whether it is a variable or an actual statement) and it will return the value that's inside of it.
 
-To reiterate: you can do multiple lines with backticks, variable interpolation, and then there is something a little more advanced that is called a tagged template literal, but we are not going to get into that because we haven't got into functions just yet.
+To reiterate: you can do multiple lines with **backticks**, v**ariable interpolation**, and then there is something a little more advanced that is called a **tagged template literal**, but we are not going to get into that because we haven't got into functions just yet.
 
 Finally, this will be very helpful for creating HTML.
 
 We can do something like:
 
-```
+```js
 const html = `
   <div>
     <h2>${name}</h2>
@@ -1234,15 +1320,19 @@ const html = `
 `;
 ```
 
-Now we have all of this html that we have made, and if you add a `console.log(html);` and reload `type.html`, you will see:
+Now we have all of this html that we have made, and if you add a `console.log(html);` and reload `type.html`, you will see 👇
 
 ![](@attachment/Clipboard_2020-01-22-19-12-50.png)
 
-We can actually do something like this with the html we just created (we will discuss what this means in future videos). Add the following code below the html variable:
+We can actually do something like this with the html we just created (we will discuss what this means in future videos). 
 
-`document.body.innerHTML = html;`
+Add the following code below the html variable:
 
-When you refresh `types.html` you should see something like the following:
+```js
+document.body.innerHTML = html;
+```
+
+When you refresh `types.html` you should see something like the following 👇
 
 ![](@attachment/Clipboard_2020-01-22-19-15-54.png)
 
@@ -1252,10 +1342,10 @@ We have just made some HTML! If you inspect the html, you will see it's regular 
 
 ## 08 - Types - Numbers
 
-There is only one type of number in javaascript and that is "number". 
+There is only one type of number in javascript and that is "number". 
 
-Comment out all the code in `types.js` and add the following:
-```
+Comment out all the code in `types.js` and add the following 👇
+```js
 const age = 100;
 const name = 'wes';
 ```

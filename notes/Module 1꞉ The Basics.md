@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-15T11:00:24.365Z'
+modified: '2020-07-20T23:34:21.839Z'
 ---
 
 # Module 1: The Basics
@@ -1345,62 +1345,78 @@ We have just made some HTML! If you inspect the html, you will see it's regular 
 There is only one type of number in javascript and that is "number". 
 
 Comment out all the code in `types.js` and add the following 👇
+
 ```js
 const age = 100;
 const name = 'wes';
 ```
 
-If you refresh `types.html` in the browser, open up the console and type into the console `typeof age`, the console should return to you "number". Typeof is a keyword in javascript that allows you to check the type of a value. You just write `typeof` followed by a space and a variable or value. That will tell you whteher it's a number, a string, or any of the other types.
+Refresh `types.html` in the browser, open up the console and type `typeof age` into it and hit enter. The console should return to you "number". 
 
-Numbers in js are pretty simple. You can create an integer, which is a whole number (100), or you can create a float which is a number that has a decimal (100.5). Both are used in the same type of number. 
+**Typeof** is a keyword in Javacript that allows you to check the type of a value. 
 
-THere is multiplication division addition and subtraction available to us. 
+The syntax to use it is to write `typeof` followed by a space and a variable or value. 
+
+That will tell you whteher it's a number, a string, or any of the other types.
+
+Numbers in Javascript are pretty simple. 
+
+You can create an integer, which is a whole number (100), or you can create a float which is a number that has a decimal (100.5). 
+
+Both are used in the same type of number. 
+
+There is multiplication division addition and subtraction available to us. 
 
 If you add the following code to `types.js` and refresh `types.html` in the browser, you can perform the following calculations in the browser:
 
-```
+```js
 const a = 20;
 const b = 10;
 ```
 
 ![](@attachment/Clipboard_2020-01-24-07-43-11.png)
 
-The only thing to be aware of is when you are mixing types. If you try to do math with a string type for example, you start getting into concatenation. That is what we refer to in javascript as "the plus sign is loaded" meaning the plus sign can be used with numbers to add, with strings to concatenate, and then there is a lot of room to run into bugs. 
+The only thing to be aware of is when you are mixing types. If you try to do math with a string type for example, you start getting into **concatenation**. 
 
-If you try to do Math with strings, it will convert them for you if you are doing subtraction, division or multiplication, but NOT for addition. 
+That is what we refer to in Javascript as _"the plus sign is loaded"_ meaning the plus sign can be used with numbers to add, with strings to concatenate, and then there is a lot of room to run into bugs. 
+
+If you try to do math with strings, it will convert them for you if you are doing subtraction, division or multiplication, but **not** for addition. We need to make sure that when we are doing math, we are dealing with true numbers and not mixing types.
+
 ![](@attachment/Clipboard_2020-01-24-07-45-10.png)
 
-We need to make sure that when we are doing math, we are dealing with true numbers and not mixing types.
+Along with numbers we also have what we call **helper methods**. 
 
-Along with numbers we also have what we call "Helper Methods". 
-
-If you go into the console and type `Math.E`, you will see a lot of built in helper methods. 
+If you go into the browser console console and type `Math.`, you will see a lot of built in helper methods. 
 
 ![](@attachment/Clipboard_2020-01-24-07-49-31.png)
 
-There are four you are most likely to use. One is `Math.round()`. You put a value in between the paranthesis `()`, which is called passing a value and we will go over in more detail in a future video. 
+There are four you are most likely to use. 
+
+One is **`Math.round()`**. 
+
+You put a value in between the paranthesis `()`, which is called **passing a value** and we will go over in more detail in a future video. 
 
 If you give it an actual value, it's going to round it up or down depending on what we have.
 
 ![](@attachment/Clipboard_2020-01-24-07-51-20.png)
 
-There is also `Math.floor()` which will give you the lower end of that number 
+There is also **`Math.floor()`** which will give you the lower end of that number. 
 
 ![](@attachment/Clipboard_2020-01-24-07-51-42.png)
 
-We have `Math.ceil()` and that will give you the upper number ![](@attachment/Clipboard_2020-01-24-07-52-22.png)
+We have **`Math.ceil()`** and that will give you the upper number.
 
-We also have `Math.random()` which will give you a random number everytime between 0 and 1. In a future video we will go over how to get a random number between 1 and 10 for example instead. 
+![](@attachment/Clipboard_2020-01-24-07-52-22.png)
+
+We also have **`Math.random()`** which will give you a random number everytime between 0 and 1. In a future video we will go over how to get a random number between 1 and 10 for example instead. 
 
 ![](@attachment/Clipboard_2020-01-24-07-52-59.png)
 
-Along with multiplicatoin, division, substraction and addition, we have two more operators which are called the Modulo and the Power. 
+Along with multiplicatoin, division, substraction and addition, we have two more operators which are called the **modulo**_ and the **power**. 
 
-Let's take the example of a box of Smarties (a Canadian candy), that you need to split up between your kids. Let's say there are 20 smarties in the box, and you have 3 kids. Let's code this as an example
+Let's use the example ohere you have a box of smarties a box of Smarties (a Canadian candy), that you need to split up between your 3 kids, and there are 20 smarties in the box.
 
-In  `types.js` type 
-
-```
+```js
 const smarties = 20;
 const kids = 3;
 const eachKidGets = smarties / kids;
@@ -1457,7 +1473,7 @@ One takeaway is that if you are ever working with money, don't store it in dolla
 
 For example don't do this:
 
-```
+```js
 const price = 10.34;
 ```
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-07-21T12:43:45.179Z'
+modified: '2020-07-21T22:42:16.075Z'
 ---
 
 # Module 2: Functions
@@ -178,9 +178,14 @@ The docs say that
 
 ![](@attachment/Clipboard_2020-01-28-17-41-21.png)
 
+##### Example #1 👇
+
 ```js
 window.scrollTo(0, 1000);
 ```
+
+Example #2 👇
+
 ```js
 window.scrollTo({
   top: 100,
@@ -189,16 +194,17 @@ window.scrollTo({
 });
 ```
 
-This is a great example of how you can pass any type to a function. 
-
-In the first example, we are passing two numbers but it's also an option to pass an object which has properties inside of it like `top`, `left`, `behaviour`. 
+In the first example, we are passing two numbers but it's also an option to pass an object which has properties inside of it like `top`, `left`, and `behavior`. 
 
 Try typing into the console the following 👇
 
 ```js
 scrollTo({top:500, left:0, behavior: 'smooth})
 ```
-The page should scroll down 500 pixels. 
+
+That page should cause the page to scroll down 500 pixels. 
+
+![](@attachment/scrollTo.gif)
 
 `scrollTo` is an example of a function that does return anything, instead it just goes off and does some work for us. 
 
@@ -208,45 +214,41 @@ The page should scroll down 500 pixels.
 
 In this video we will get into making our own custom functions. 
 
-Make a new folder inside of the `/playground` directory and call it `custom-functions`. 
+A function can do anything, and the real power of Javascript comes when you define your own functions. 
 
-Inside of that, create two files, `index.html` and `cf.js`.  Add a log of "it works!". 
+Functions group together a set of instructions, often taking in values (we talked about **arguments** earlier), doing some work and then returning value or set of values back to what requested it. 
 
-In `index.html`, add the HTML base snippet. 
+For this lesson, you need to make a new folder `/custom-functions` inside of `/playground`. Within that folder, create two files `index.html` and `cf.js`.  Add a log of "it works!" in the js file, and add the HTML base snippet to the HTML page. 
 
 We will need to modify the `base.css` path because we made a folder so the path should now be `../../base.css` _(because we have to go up two levels to get to it)_. 
 
-Right before the closing body tag, add a script src tag.
+Right before the closing body tag, add a script source tag like so 👇 and you should see "It works!" in the console. 
 
 ```html
-<script src="./cf.js">`
-``
+<script src="./cf.js">
+```
 
-Open the page in a browser and you should see "It works!" in the console. 
+![](@attachment/Clipboard_2020-07-21-17-33-20.png) 
 
-The real power of javascript comes when you want to define your own functions. 
+In this lesson, we are going to create a function called "Calculate Bill". 
 
-Functions can do anything. They group together a set of instructions, often taking in values (we talked about arguments earlier), doing some work and then returning value or set of values to the person that requested in. 
+You can think of "Calculate Bill" (said in southern american accent) as a western gentlemen who is very good at going to restaurants and calculating what the bill would be regarding what the bill was, how much tip was, how much tax is. That is what our function will be responsible for doing. 
 
-We are going to create a function called "Calculate Bill". 
+There are going to be a few buzzwords as we go through, which we will explain as we go, starting . 
 
-Calculate Bill is a western gentlemen who is very good at going to restaurants and calculating what the bill would be regarding what the bill was, how much tip was, how much tax is. 
-
-There are going to be a few buzzwords as we go through, which we will explain as we go. 
-
-The first one is functions are created or defined, and they are later called.
+The first one is that **functions are created or defined**, and they are later **called**.
 
 When you make a function, when you author what it does, that is called a **function definition**. 
 
-Later on, when you want to run that function, that is called **calling** or **running** of a function. 
+Later on, when you want to **run** that function, that is called **calling** or **running** of a function. 
 
 ### Defining a Function
 
 There are a few ways to define a function. We are going to go over all the different approaches in the next videos but for now, we will go over the basic. 
 
-First you type `function` and then the name of the function. Function naming follows the exact same rules as variable naming which we went over previously. 
+First you type `function` and then the name of the function. Function naming follows the exact same rules as variable naming which we went over in a previous video. 
 
-We are going to call it `calculateBill`
+We are going to call it `calculateBill` 👇
 
 ```js
 function calculateBill(){
@@ -254,19 +256,24 @@ function calculateBill(){
 }
 ```
 
-What we have done is defined it, given it parenthesis (that's not calling it, that is defining it) and then you open and close a function block. Anything that goes between the opening and closing function block is called the function body and is part of the function. 
+What we have done is defined it, given it parenthesis and then you open and close a function block.  
+Anything that goes inside the function block is called the **function body**, and is part of the function. 
 
-For now, add `console.log('Running Calculate Bill!!!')` in the function body. 
+In the function body, add 👇
 
-Now to go ahead and run a function, we simply take the function name. 
+```js
+console.log('Running Calculate Bill!!!');
+```
 
-First let's look at something.  View `index.html` in the browser and open the console. With functions, it works just like a variable in that you can call them by the name of it, it's almost the exact same thing. However when you put the name of the function, you see the entire code. 
+Open `index.html` and in the browser and open the console. Try typing `calculateBill` in the console and hitting enter. 
 
 ![](@attachment/Clipboard_2020-01-28-19-48-01.png)
 
-Now if we want to run the function we would enter into the console `calculateBill()`, which will log `Running Calculate Bill!!!!` in the console. 
+A function works just like a variable in that you can call them by the name of it. However, when you put just the name of the function, you see the entire code, as shown 👆 above. 
 
-Add the following to `cf.js`
+Now if we want to run the function we would have to enter into the console `calculateBill()`, which will log `Running Calculate Bill!!!!` in the console. 
+
+Add the following to `cf.js` to run the function right from our Javascript. 👇
 
 ```js
 // Function Definition
@@ -279,13 +286,22 @@ function calculateBill() {
 calculateBill();
 ```
 
-Now, let's talk about returning values. You noticed when we called `calculateBill()` it returned undefined. ![](@attachment/Clipboard_2020-01-28-19-54-21.png)
+### Returning Values 
+
+When we called `calculateBill()` in the console, it returned undefined. 
+
+![](@attachment/Clipboard_2020-01-28-19-54-21.png)
 
 It does the work we asked it to do, and then it returns undefined. Often, functions will do a bunch of work and then return to you the result. 
 
-What we are going to do in our function is we will take in arguments like how much the dinner was, the tax rate and how much you want to tip, and it will return to us the total value. 
+What we are going to do in our function is we will take in the following arguments,  and it will return to us the total value: 
+ - how much the dinner was
+ - the tax rate 
+ - how much you want to tip
 
-The way that works is we will assume the meal is 100 dollars, and we will multiply it by 1.13 because in Ontario the tax rate is 13%. Now we can console log the total value. 
+The way that works is we will assume the meal is 100 dollars, and we will multiply it by 1.13 because in Ontario the tax rate is 13%. 
+
+Now we can log the total value to the console. 
 
 ```js
 // Function Definition
@@ -301,15 +317,33 @@ calculateBill();
 ```
 
 ![](@attachment/Clipboard_2020-01-28-19-59-14.png)
-(This is a perfect example of the issue with floating point numbers); 
 
-You might be thinking "oh, now i have this nice total variable which I can just quickly access. If you type `total` in the console, it will return undefined. 
+_(👆 This is a perfect example of the issue with floating point numbers mentioned in a previous video)_
 
-If below `calculateBill();` in `cf.js` you add `console.log('total')`, and refresh the page in the browser, you will see an error that `total is not defined` as well as an eslint warning. This is something that we will get into called scope. 
+You might be thinking "oh, now I have this nice total variable which I can just quickly access". However, if you type `total` in the console, it will return undefined. 
 
-Variables that are created inside of a function are only available within that function. It is not available outside of it. So how do we store the result of the calculation so we can access it using a variable? 
+Try that by adding the following code to `cj.fg` below the `calculateBill` function definition, refresh the page and look at the error in the console. 
 
-That is with returning. When we called `calculateBill()` earlier, we got undefined returned in the console. So what we need to do is from the function, we will return total (return is a keyword in javascript) like so:
+```js
+console.log('total')
+```
+
+You should see an error 
+>total is not defined
+
+![](@attachment/Clipboard_2020-07-21-17-54-27.png) 
+ 
+In VSCode, you may notice that ESLint is yelling at us aswell that total is not defined. 
+
+This is something that we will get into called **scope**. 
+
+Variables that are created inside of a function are only available within that function, which is called block scoping _(we will cover block in more detail in the future)_. It is not available outside of it. 
+
+So how do we store the result of the calculation so we can access it using a variable? With returning! 
+
+When we called `calculateBill()` earlier, we got undefined returned in the console. To fix that, we need to return total. 
+
+`return` is a keyword in Javascript. 
 
 ```js
   const total = 100 * 1.13;
@@ -324,21 +358,37 @@ Now when you call it in the console, you will see it returns the value.
 
 ![](@attachment/Clipboard_2020-01-28-20-05-33.png)
 
-Now the question is how can we store that value? The total variable is still not available to me. That is because we need to capture (another buzz word) the result of the function or capture the returned value of the function into a variable. Modify the line of javascript with `calculateBill()` to:
+### Storing a Value Returned from A Function
+
+How can we store that value? 
+
+The total variable is still not available to us. That is because we need to **capture** (another buzz word) the result of the function or capture the returned value of the function into a variable. 
+
+Modify the line of javascript with `calculateBill()` like so 👇
+
 ```js
 const myTotal = calculateBill();
 console.log(myTotal);
 ```
 
-In the console, you can now access the variable `myTotal`. 
-We can modify the console.log to be `console.log($\`Your total is $${myTotal}\`);`
+In the console, you can now access the variable `myTotal`. Modify the log like so 👇
+
+```js
+console.log($`Your total is $${myTotal}`);
+```
 That will print out the value and message in the console. 
 
-Couple things to review. The `total` variable within the `calculateBill()` function and the `myTotal` variable below the function, you might be asking why do we have two variables for the exact same value? The reason is that `total` variable is a temporary variable. 
+You may be wondering why we have two variables to hold the same value, `total` within `calculateBill()` and `myTotal` below the function.
 
-That variable, because it has been created inside of hte function, it is only ever available inside of that function, and when that function is done running, that variable is cleaned up (or what is called garbage collected in javascript nad it's no longer needed).  So if you ever want to capture the value returned from `calculateBill()`, you have to stick it into a variable before you can go ahead and display it. 
+The reason is that `total` variable is a **temporary variable**. 
 
-Another cool thing you can do with interpolation strings is you can actually run the function from within the console.log statement. Javascript is going to run the function first, and then whatever the return result is it will immediately be interpolated into that string.
+Since `total` is created inside of the function, it is only ever available inside of `calculateBill` and when the function is done running, that variable is **cleaned up** (or what is called **garbage collected** in Javascript and it's no longer needed).  
+
+If you ever want to capture the value returned from `calculateBill()`, you have to stick it into a variable before you can go ahead and display it. 
+
+Another cool thing you can do with **interpolation** strings is you can actually run the function from within the log statement. 
+
+Javascript is going to run the function first, and then whatever the return result is it will immediately be interpolated into that string.
 
 ```js
 console.log(`Your total is $${calculateBill()}`);
@@ -348,11 +398,17 @@ console.log(`Your total is $${calculateBill()}`);
 
 ## 14 - Functions - Parameters and Arguments
 
-This video will focus on arguments and parameters. In the `calculateBill()` function from the previous video, we hardcoded the tax amount. 
+This video will focus on **arguments** and **parameters**. 
 
-A best practice in javascript is to keep your code DRY, which stands for Don't Repeat Yourself. If you are making a function called `calculateBill()` and asumming that the bill is 100 dollars and 15%, that is not good because it is not very reusable. 
+In the `calculateBill()` function from the previous video, we hardcoded the tax amount. 
 
-So what we could do is above the calculateBill function, we can declare the following variables, and modify the code like so:
+A best practice in Javascript is to keep your code **DRY**, which stands for **Don't Repeat Yourself**. 
+
+`calculateBill` would not be useful if it could only calculate the value assuming the bill is $100 and a 15% tax  rate, so we need to modify those hardcoded values.
+
+To solve that, above the calculateBill function, we can declare variables for the bill total and taxRate. 
+
+Modify the code like so 👇
 
 ```js
 const bill = 100;
@@ -364,44 +420,49 @@ function calculateBill(){
   return total;
 }
 ```
-This will work, but that is not the best way to do it. Why? Because the function calculateBill is relying on something called "global variables". 
 
-For right now, what we need to know is that this is a function that needs some data, and when it is not passed data, it instead is reaching outside of the function in order to look up that data in a higher scope.
+This will work, but that is not the best way to do it. Why? 
+
+`calculateBill` is relying on something called **global variables** _(which will be explained in future videos)_. 
+
+For right now, what you need to know is that `calculateBill` needs needs some data. When it is not passed data, it is instead reaching outside of the function in order to look up that data in a higher **scope**.
  
- It's not great to reach outside of a function in order to get your data. 
+That is not great practice _(reaching outside of a function in order to get your data)_. 
 
- In `cf.js`, remove the last console.log and add the following:
+In `cf.js`, remove the last console.log and add the following 👇
 
+```js
+const myTotal = calculateBill();
+const myTotal2 = calculateBill();
+console.log(myTotal, myTotal2);
+```
+
+_TIP: You can log as many pieces of data as you want by separating the values with commas like in the example above._
+
+The log will return the same value: 
+
+>$100.13.
+
+What if we wanted a different value? Could we do something like this?  👇
+
+```js
+const myTotal = calculateBill();
+bill = 200;
+const myTotal2 = calculateBill();
+console.log(myTotal, myTotal2);
  ```
- const myTotal = calculateBill();
- const myTotal2 = calculateBill();
- console.log(myTotal, myTotal2);
- ```
 
-TIP: you can console log as many pieces of data as you want by separating the values with commas like in the example above. 
+_(Note: you need to change the `bill` variable that is declared in `cf.js` to a `let` instead of a const so we can reassign it)_
 
-The console.log will return the same value: 100.13.
-
-Now what if we wanted a different value?
-Could we do something like this? 
-(Note: you need to change the `bill` variable that is declared in `cf.js` to a `let` instead of a const so we can reassign it)
-
- ```
- const myTotal = calculateBill();
- bill = 200;
- const myTotal2 = calculateBill();
- console.log(myTotal, myTotal2);
- ```
 If you refresh it, now it works. 
-However, all the of work we did like changing a variable in between running the code and yanking the variable from outside into the function to use. This is bad practice and it is how you get very brittle applications.
 
-What we want to do is instead of reaching out, we want to pass into our functions the pieces of data that we need. 
+However, we have been changing the variable by modifying out code each time we want to run it with different values. This is bad practice and it is how you get very brittle applications.
 
-Let's do a bit of cleanup. Get rid of the `let bill` and `const taxRate` variables. 
+What we want to do is instead of reaching out, we will pass the data that we need into our functions.
 
-Get rid of lines of code where we are reassigning variables and declaring myTotal2 (`bill = 200; const myTotal2 = calculateBill()`) and the last console log. 
+First let's do a bit of cleanup. Get rid of the `let bill` and `const taxRate` variables.  Get rid of lines of code where we are reassigning variables and declaring myTotal2 (`bill = 200; const myTotal2 = calculateBill()`) and the last log. 
 
-Now we should have 
+You should end up with the following code 👇
 
 ```js
 // Function Definition
@@ -414,21 +475,20 @@ function calculateBill() {
 
 const myTotal = calculateBill();
 ```
-Now we want to take the variables bill and tax rate and we want to make them into something called params for your function.
+Now we want to take the variables bill and tax rate and we want to make them into something called **parameters** or **params** for your function.
 
-When you define your function and say when someone calls it, I am going to expect someone to pass me some data, so we put in params (Wes likes to think of them as placeholders). 
-
+When you define your function, you add params which let's you know that the function expects to be passed some data. Wes likes to think of params as placeholders. 
 ```js
 function calculateBill(billAmount, taxRate){
-  ...
-}
 ```
 
-Now, inside of the function body, we will have access to the two variables that were passed: `billAmount` and `taxRate`. 
+Inside of the function body, we will have access to the two variables that were passed:
+- `billAmount` 
+- `taxRate`
 
-It's kinda confusing because there is no like creation of the param variables, but Wes will explain it in just a second. 
+It's can be confusing because there is no "creation of the param variables", but Wes will do his best to explain it.
 
-```
+```js
 // Function Definition
 function calculateBill(billAmount, taxRate) {
   // this is the function body
@@ -441,11 +501,11 @@ const myTotal = calculateBill(100, 0.13);
 console.log(myTotal);
 ```
 
-That will give you 100.13. 
+That will give you $100.13. 
 
-But now we are able to make a myTotal2 really quickly:
+But now we are able to make a `myTotal2` really quickly 👇
 
-```
+```js
 const myTotal = calculateBill(100, 0.15);
 const myTotal2 = calculateBill(200, 0.13);
 console.log(myTotal, myTotal2);
@@ -455,25 +515,25 @@ It works without having to reassign because when you define a function, you can 
 
 When you call the function, you pass it arguments. 
 
-![](@attachment/Clipboard_2020-01-28-22-28-03.png)
-
-Here is a quick cheatsheet Wes has put together. 
+Here is a quick cheatsheet Wes has put together that explains the parts of a function. 
 
 ![](@attachment/Clipboard_2020-01-28-22-28-19.png)
 
-When we define the function name, we put what are called parameters. Parameters are what are called placeholders (we will talk about default values for parameters shortly). When you call, run or invoke (all 3 mean the same thing), and you actually pass it the data, that will take place of the variables (for example meal will be 100 and taxRate will be 10.13), those will be called arguments. 
+When we define the function name, we put what are called **parameters**. Parameters can be thought of as placeholders (we will talk about **default values** for parameters shortly). 
 
-People incorrectly use those terms interchangably but one way to remember is that parameters are placeholders. The things that you pass in are arguments that are "actual values". 
+When you **call**, **run** or **invoke** (all 3 mean the same thing), and you actually pass it the data, that will take place of the variables (for example `meal` will be `100` and `taxRate` will be `10.13`), those will be called **arguments**. 
+
+People incorrectly use those terms interchangably. One way to remember is that _parameters are placeholders_. The actual values that you pass in when calling a function are what are called **arguments**. 
 
 Bringing it back to `const myTotal = calculateBill(100,0.13)`, here we are running the function and as arguments we are passing straightaway numbers. However, the values that get passed into a function can be in a variable as well.  This is a common thing people get hung up on when learning how functions work is how they sort of get renamed. 
 
 Let's take a look at code we wrote for `calculateBill()`.
 
-WHen we have a function called calculateBill(), when the data gets passed in, there are going to variables that are going to be available inside of the calculateBill function, they are going to be what is called scoped to tis function and they are only available in this function as to what they are passed in. 
+The data gets passed into the function, and those variables are only available inside of the `calculateBill` function. They will be what is called **scoped to the function**, which means only available inside of the function.
 
-If we add a console.log within calculateBill like so ->
+If we add a log within calculateBill like so 👇
 
-```
+```js
 // Function Definition
 function calculateBill(billAmount, taxRate) {
   console.log(billAmount, taxRate);
@@ -485,45 +545,55 @@ function calculateBill(billAmount, taxRate) {
 const myTotal = calculateBill(100, 0.15);
 ```
 
-That will print to the console ![](@attachment/Clipboard_2020-01-29-15-31-32.png)
+![](@attachment/Clipboard_2020-01-29-15-31-32.png)
 
-We can run that function from the console but pass it different values for the arguments, it will console log the values of the arguments that we passed, like so ![](@attachment/Clipboard_2020-01-29-15-32-16.png)
+We can run that function from the console but pass it different values for the arguments, it will console log the values of the arguments that we passed, like so 👇
 
-Why? Because javascript will take whatever you write as an argument, and then when you call the function it will make it sort of temporarily available and make them available to you via the names that you put in your parameters. 
+![](@attachment/Clipboard_2020-01-29-15-32-16.png)
 
-What gets a little bit confusing to people is if we declare two variables before we call the function like so:
+Why? 
 
-```
+Because Javascript will take whatever you write as an argument, and then when you call the function it will make it sort of temporarily available to you via the names that you put in your parameters. 
+
+What gets a little bit confusing to people is if we declare two variables before we call the function like so 👇
+
+```js
 const wesTotal = 500;
 const wesTaxRate = 0.3;
 const myTotal = calculateBill(100, 0.15);
 ```
 
-We can actually pass those variables into the function like this:
+We can actually pass those variables into the function like this 👇
 
-```
+```js
 const wesTotal = 500;
 const wesTaxRate = 0.3;
 const myTotal = calculateBill(wesTotal, wesTaxRate);
 ```
 
-Now the big confusion is, if they are variables outside of the function, and we pass them into the function, when it's called inside of the function, is the first parameter called `billAmount` or is it called `wesTotal`? Will it even work if you pass in a variable that does not have the same name as the parameter? Try by refreshing `index.html` in the browser.
+Now the big confusion is, if they are variables outside of the function, and we pass them into the function, when it's called inside of the function, is the first parameter called `billAmount` or is it called `wesTotal`? 
 
-It works just fine!
+Will it even work if you pass in a variable that does not have the same name as the parameter?  Try refreshing `index.html` in the browser.
 
-So -- when you run a function in javascript, what happens is javascript takes in whatever you have pass it, whether you have passed it that value directly (as a number or string for example), or if you pass it in via reference meaning that you just passed a reference to a variable which in turn will hold a value). At the end of the day we are still passing values, whether you pass it directly or whether you pass it a reference to a variable that holds a value.  Javascript doesn't care about how you are passing them in and as soon as the function runs, it doesn't care whether you passed a variable or value because it just knows that you passed in a value.
+_**You should see it works just fine!**_
 
-What javascript does is say okay, take whatever they passed in the first argument amd just make a variable called billAmount that is available inside of the confines of the curly brackets.
+To review, when you run a function in Javascript, what happens is Javascript takes in whatever you have pass it, whether you have passed it that value directly _(as a number or string for example)_, or if you pass it in via reference _(meaning that you just passed a reference to a variable which in turn will hold a value)_. 
 
-When the function is running, it does not care about anything else that is going outside of this function. It just knows it's doing it's job, it's been pased in the two little pieces of data that it needs, it does the math and returns it's value from within the function. 
+At the end of the day we are still passing values, whether you pass it directly or whether you pass it a reference to a variable that holds a value.  Javascript doesn't care about how you are passing them in, whether as a value directly or as a variable. 
+
+In this function, Javascript will take whatever was passed in the first argument and make it into a temporary variable `billAmount` that is available inside of the confines of the curly brackets.
+
+When the function is running, it does not care about anything else that is going outside of this function. It just knows it's doing it's job, it's been pased in the two little pieces of data that it needs, it does the math and returns it's value from within the function.
  
-
 When values get passed into a function, they sort of get renamed into whatever it is that you have defined your function parameters as.
+
+### Another Example
 
 Let's do another example!
 
-Comment out `const myTotal = calculateBill...`. 
-Add the following function to your code, which just returns hello and which we will pass in someone's first name. 
+Comment out the code `const myTotal = calculateBill...`. 
+
+Add the following function to your code, which just returns hello and which we will pass in someone's first name 👇
 
 ```js
 function sayHiTo(){
@@ -533,13 +603,13 @@ const greeting = sayHiTo();
 console.log(greeting);
 ```
 
-Let's run the code as is, even though it will break, to see why. 
- 
-In the console you should see an reference error in the console. ![](@attachment/Clipboard_2020-01-29-15-50-59.png)
+Run the code as is, even though it will break, to see why.  In the console you should see an reference error in the console. 
 
-What happens is this function, first it loosk inside of it's own function scope, and it will look for a variable named firstName that has been passed in. If there is not, what it will start to do is go up to a high level of scope and look there. 
+![](@attachment/Clipboard_2020-01-29-15-50-59.png)
 
-let's say there was a firstName variable like so:
+What happens is this function, first it looks inside of it's own function scope, and it will look for a variable `firstName` that has been passed in. If there is not, it will start to do is go up to a high level of scope and look there. 
+
+Let's say there was a firstName variable like so 👇
 
 ```js
 const firstName = 'wes';
@@ -550,8 +620,9 @@ const greeting = sayHiTo();
 console.log(greeting);
 ```
 
-it would actually work, because the function will reach outside for that data if nothing is found within the scope of that function. So what we want to do is modify the function definition to set it to take in one parameter (`firstName`). And then when we run the function, we actually have to pass it a string (we will use `Wes`), and then we will have our greeting.
+That would work, because the function will reach outside for that data if nothing is found within the scope of that function. 
 
+What we want to do is modify the function definition to set it to take in one parameter (`firstName`). And then when we run the function, we actually have to pass it a string (we will use `Wes`), and then we will have our greeting.
 
 ```js
 const firstName = 'wes';
@@ -562,47 +633,68 @@ const greeting = sayHiTo('Wes');
 console.log(greeting);
 ```
 
-What is nice about this is now we can use that function to print out any first name like so
+This makes the function nice and reusable, and we can use it to print out any first name like so 👇
 ![](@attachment/Clipboard_2020-01-29-15-55-38.png)
 
 As long as we pass in an argument (in this case "Wes"), it is going to have a variable inside of that function that is referenced to whateer the person has passed in. 
 
-If we don't run it with anything, you will see... ![](@attachment/Clipboard_2020-01-29-15-57-14.png)  
-The reason that happens is when a functoin runs, it will create the variable for us (`firstName`) and set it to whatever was passed in. But if it creates a variable and someone doesn't pass in anything, then it will just be set to undefined which is exactly how variables work. 
+If we don't run it with anything, you will see... 👇
+
+![](@attachment/Clipboard_2020-01-29-15-57-14.png)  
+
+The reason that happens is when a function runs, it will create the variable for us (`firstName`) and set it to whatever was passed in. 
+
+But if it creates a variable and someone doesn't pass in anything, then it will just be set to undefined which is exactly how variables work. 
+
+
+### Even More Example
 
 Now let's go over a few more examples. 
 
-Let's go back to passing expressions. For this example we will go back to calculateBill.  
+Let's go back to passing expressions. For this example we will go back to `calculateBill`.  
 
-```
+```js
 // const greeting = sayHiTo('Wes');
 // console.log(greeting);
 const myTotal3 = calculateBill(100, 0.15);
 ```
 
-we know the code above works but what if instead we do 
+We know the code above works but what if instead we do 👇
 
-`const myTotal3 = calculateBill(20 + 20 + 30 + 20, 0.15);`
+```js
+const myTotal3 = calculateBill(20 + 20 + 30 + 20, 0.15);
+```
 
-Is that going to work? If you load `index.html` in the broswer you will see `103.4999999999`. 
+Is that going to work? 
 
-(If you followed Wes too closely, you may have gotten the value of 90.5. If that is the case, the line of code that calculates the total within `calculateBill`. It should be `const total = billAmount * ( 1 + taxRate);`. This is because of bedmas, we need the paranthesis)
+If you load `index.html` in the broswer you will see `103.4999999999`. 
 
-That works. Why? Because the only thing that a function can take in is a value, and whether you pass that value directly, as in a number, whether you pass that value in as av ariable which holds a value, that works,  and then you can also pass in expressions. 
+_(If you followed Wes too closely, you may have gotten the value of 90.5. If that is the case, the line of code that calculates the total within `calculateBill`. It should be `const total = billAmount * ( 1 + taxRate);`. This is because of bedmas, we need the paranthesis)._
+
+That works. 
+
+Why? 
+
+Because the only thing that a function can take in is a value, and whether you pass that value directly, as in a number, whether you pass that value in as a variable which holds a value, that works, and then you can also pass in expressions. 
 
 In this example we are not actually passing an expression, we are actually running an expression and that will first run (`20 + 20 + 30 + 20`) and add it up to $90, and then we pass that raw value of 90. 
-It is absolutely fine to do something that like, in fact it is pretty common. You can even mix and match. Let's say we have a variable `const kait = 100;` and then we want to add another $50 ontop of that. You can do something like.. 
 
-```
+It is absolutely fine to do something that like, in fact it is pretty common. 
+
+You can even mix and match. 
+
+Let's say we have a variable `const kait = 100;` and then we want to add another $50 ontop of that.  You can do something like.. 
+
+```js
 const kait = 100;
 const myTotal3 = calculateBill(kait + 50, 0.15);
 ```
-It will still work if you mix and match. 
 
+It still works, even though we are mixing and matching. 
 
-Let's remove `myTotal3` example, and do another example where we pass functions as arguments.
+Let's remove the `myTotal3` example, and do another example where we pass functions as arguments.
 
-We will make a function called `doctorize` that will take in a `name` argument and return the name with Dr. infront like so
+Make a function `doctorize` which will take in a `name` argument and return the name with "Dr." in front like so 👇
 
 ```js
 function doctorize(name){
@@ -610,9 +702,9 @@ function doctorize(name){
 }
 ```
 
- And we will make another function called `yell` that also takes in a name and returns HEY with the variable name uppercased like so:
+And we will make another function called `yell` that also takes in a name and returns "HEY" with the variable name uppercased like so 👇
 
- ``` 
+``` 
 function yell(name){
   return `HEY ${name.toUpperCase()}`;
 }

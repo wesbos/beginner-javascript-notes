@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png, Clipboard_2020-07-21-07-59-37.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-21T12:20:24.143Z'
+modified: '2020-07-21T12:23:19.048Z'
 ---
 
 # Module 1: The Basics
@@ -1615,22 +1615,32 @@ There is more to it, but it's complex and typically used by more advanced users 
 
 ## 10 - Types - Null and Undefined
 
-There are two ways to sort of express nothing in javascript, and that is with undefined and null. 
+There are two ways to sort of express nothing in javascript, and that is with **undefined** and **null**. 
 
-If you create a variable and don't set anything to it, it will be undefined. 
+### undefined 
 
-```
+If you create a variable and don't set anything to it, it will be undefined. 👇
+
+```js
 let dog;
 console.log(dog);
 ```
 
 ![](@attachment/Clipboard_2020-01-24-20-37-52.png)
 
-Undefined is something that has been created (a variable), but has not yet been defined. 
+**undefined** is something that has been created (a variable), but has not yet been defined. 
 
 The same thing goes for properties on an object. If you type in the console `person.dog` it will return undefined. 
 
-Why? Because there is nothing there. That is what undefined is, it comes about hwen you try to access a variable that has been created but not set. If you typed in the console `wes`, you would see an error message returned that said 'wes is not defined' whic hmeans that he has never created a variable called wes. With the dog example we used above, we have created the variable but we have not set a value. That is the difference.
+Why? Because there is nothing there. That is what undefined is.
+
+It comes about when you try to access a variable that has been created but not set. 
+
+If you typed in the console `wes`, you would see an error message returned that said 'wes is not defined' which means that he has never created a variable called wes. 
+
+With the dog example we used above, we have created the variable but we have not set a value. That is the difference.
+
+### ull 
 
 Now we will discuss the **null** type. 
 
@@ -1638,22 +1648,23 @@ Null is a value of nothing, whereas undefined is a variable that has not yet had
 
 We will go over some examples to demonstrate. 
 
-In `types.js` add the following:
+In `types.js` add the following 👇
 
-```
+```js
 let somethingUndefined;
 const somethingNull = null;
 ```
-NOTE: you cannot use a const variable without setting a value.
 
-`somethingUndefined` is undefined because it does not have a value set, whereas somethingNull has the value of null, which is nothing. They are both nothing, but in different ways. 
+_NOTE: you cannot use a const variable without setting a value._
+
+`somethingUndefined` is undefined because it does not have a value set, whereas `somethingNull` has the value of null, which is nothing. They are both nothing, but in different ways. 
 
 
-Lets say for example we have Cher and Teller (both of who are real people), who we will represent in objects like so:
+Let's say for example we have Cher and Teller (both of who are real people), who we will represent in objects like so 👇
 
-```
+```js
 const cher = {
-  first: 'cher',
+  first: 'Cher',
 };
 
 const teller = {
@@ -1665,9 +1676,13 @@ teller.first = 'Teller';
 teller.last = null;
 ```
 
-In this example, cher never had a last name, so she does not have the last property in her object. Teller on the other hand, got rid of his last name, so we are explictly setting it to null.
+In this example, Cher never had a last name, so she does not have the last property in her object. 
+
+Teller on the other hand, got rid of his last name, so we are explictly setting it to null.
 
 In the console, if you type `cher.last` you will see the value of undefined returned. When you try `teller.last`, the value of null wil be returned. 
+
+---
 
 ## 11 - Types - Booleans and Equality
 

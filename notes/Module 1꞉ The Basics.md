@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png, Clipboard_2020-07-21-07-59-37.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-21T12:15:05.732Z'
+modified: '2020-07-21T12:20:24.143Z'
 ---
 
 # Module 1: The Basics
@@ -1556,21 +1556,28 @@ That is something you will run into if you try to do math with something that is
 
 ## 09 - Types - Objects
 
-Objects in javascript are the biggest building block, meaning everything in javascript is an object. 
+**Objects** in Javascript are the biggest building block and everything in Javascript is an object. 
+
 Objects are used for collections of data or collections of functionality. 
 
 We will be going through objects in depth in this course, there is an entire section dedicated to them and we will be using objects throughout all of our examples.
 
-For now, you need to know that when someting is an object in javascript, it's becuse we want to group things together. Up to now, we have been using random variables like `const name = 'wes'` or `const age = 100;`. That is not the best way to do things, because the values are not associated. What we can do instead is create an object called person. We will create it using two curley brackets and a semi colon. That is the most common way to make an object, but there are other ways that we will go over. 
+For now, you need to know that when someting is an object in javascript, it's becuse we want to group things together. 
 
-```
+Up to now, we have been using random variables like `const name = 'wes'` or `const age = 100;`. That is not the best way to do things, because the values are not associated. 
+
+What we can do instead is create an object called person. 
+
+We will create it using two curley brackets and a semi colon. That is the most common way to make an object, but there are other ways that we will go over. 
+
+```js
 const person = {
 };
 ```
 
-Inside of the person object, you have what are called properties and values. Add the following to `types.js`:
+Inside of the person object, you have what are called properties and values. Add the following to `types.js` 👇
 
-```
+```js
 const person = {
   first: 'wes',
   last: 'bos',
@@ -1578,25 +1585,31 @@ const person = {
 };
 ```
 
-What we have done here is created an object that allows us to group together sort of like "sub variables", meaning that we have first, last and age all contained within an object for a collection that is a "person". 
+What we have done here is created an object that allows us to group together variables. In the example above we have first, last and age variables all contained within an object for a collection that is a "person". 
 
-In the console, if you type person it will return the value, which is the object. 
-If you check the type of the person variable, it will return the object type. 
+In the console, if you type person it will return the value, which is the object. If you check the type of the person variable, it will return the object type. 
 
 ![](@attachment/Clipboard_2020-01-24-20-25-47.png)
 
-You can expand the object in the console to see it like so:
+You can expand the object in the console to see it like so 👇
+
 ![](@attachment/Clipboard_2020-01-24-20-27-28.png)
 
-You may notice that the object properties are in a different order then we put them in within `types.js`.  We will go over that after. The short and skinny is that order doesn't matter in an object. If you need order to matter, use an array. 
+You may notice that the object properties are in a different order then we put them in within `types.js`.  We will go over that after. The short and skinny is that **order doesn't matter in an object. If you need order to matter, use an array.**
 
 To access the properties, there is a couple of different ways we can do it. 
 
 ![](@attachment/Clipboard_2020-01-24-20-30-09.png)
 
-We are using the dot notation in the examples above. When we get deeper into objects in the future, we will go over the other ways to do it as well as things like nesting objects and object vs reference and copying objects. 
+We are using the **dot notation** in the examples above. 
 
-The last type we need to talk is the last type, which is Symbols. What you need to know about it right now is that it is a way to do unique properties (or unique identifiers in general in javascript). There is more to it, but it's complex and typically used by more advanced users (Wes barely ever uses them) so that is all we nede to know for now.
+When we get deeper into objects in the future, we will go over the other ways to do it as well as things like nesting objects and object vs reference and copying objects. 
+
+The last type we need to talk is the last type, which is **Symbols**. 
+
+What you need to know about it right now is that it is a way to do unique properties (or unique identifiers in general in javascript). 
+
+There is more to it, but it's complex and typically used by more advanced users (Wes barely ever uses them) so that is all we nede to know for now.
 
 ---
 

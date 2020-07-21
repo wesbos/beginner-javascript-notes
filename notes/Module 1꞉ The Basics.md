@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png]
+attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png, Clipboard_2020-07-21-07-59-37.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-20T23:34:21.839Z'
+modified: '2020-07-21T12:15:05.732Z'
 ---
 
 # Module 1: The Basics
@@ -1342,7 +1342,7 @@ We have just made some HTML! If you inspect the html, you will see it's regular 
 
 ## 08 - Types - Numbers
 
-There is only one type of number in javascript and that is "number". 
+There is only one type of number in javascript, which is simply number.
 
 Comment out all the code in `types.js` and add the following 👇
 
@@ -1351,13 +1351,15 @@ const age = 100;
 const name = 'wes';
 ```
 
-Refresh `types.html` in the browser, open up the console and type `typeof age` into it and hit enter. The console should return to you "number". 
+Open `types.html` in the browser and then open the console and type `typeof age` and hit enter. The console should return to you "number". 
 
-**Typeof** is a keyword in Javacript that allows you to check the type of a value. 
+![](@attachment/Clipboard_2020-07-21-07-59-37.png)
 
-The syntax to use it is to write `typeof` followed by a space and a variable or value. 
+**typeof** is a keyword in Javacript that allows you to check the type of a value. 
 
-That will tell you whteher it's a number, a string, or any of the other types.
+You use it by writing `typeof` followed by a space and a variable or value. That will tell you whteher it's a number, a string, or any of the other types.
+
+### Numbers in Javascript
 
 Numbers in Javascript are pretty simple. 
 
@@ -1367,36 +1369,47 @@ Both are used in the same type of number.
 
 There is multiplication division addition and subtraction available to us. 
 
-If you add the following code to `types.js` and refresh `types.html` in the browser, you can perform the following calculations in the browser:
+Add the following code to `types.js` and refresh the html page in the browser. 
 
 ```js
 const a = 20;
 const b = 10;
 ```
 
+You can perform the following calculations in the browser👇
+
 ![](@attachment/Clipboard_2020-01-24-07-43-11.png)
 
-The only thing to be aware of is when you are mixing types. If you try to do math with a string type for example, you start getting into **concatenation**. 
+The only thing to be aware of is when you are mixing types. 
+
+If you try to do math with a string type for example, you start getting into **concatenation**. 
 
 That is what we refer to in Javascript as _"the plus sign is loaded"_ meaning the plus sign can be used with numbers to add, with strings to concatenate, and then there is a lot of room to run into bugs. 
 
-If you try to do math with strings, it will convert them for you if you are doing subtraction, division or multiplication, but **not** for addition. We need to make sure that when we are doing math, we are dealing with true numbers and not mixing types.
+If you try to do math with strings, it will convert them for you if you are doing subtraction, division or multiplication, but **not** for addition. 
+
+Whenever we are doing math, we need to make sure we are dealing with true numbers and not mixing types.
 
 ![](@attachment/Clipboard_2020-01-24-07-45-10.png)
 
 Along with numbers we also have what we call **helper methods**. 
 
-If you go into the browser console console and type `Math.`, you will see a lot of built in helper methods. 
+If you go into the browser console and type `Math.`, you will see a lot of built in helper methods. 
 
 ![](@attachment/Clipboard_2020-01-24-07-49-31.png)
 
+### Helper Methods
+
 There are four you are most likely to use. 
 
-One is **`Math.round()`**. 
+1. `Math.round()`
+2. `Math.floor()` 
+3. `Math.ceil()`
+4. `Math.random()`
 
-You put a value in between the paranthesis `()`, which is called **passing a value** and we will go over in more detail in a future video. 
+Let's go through each one, starting with **`Math.round()`**. 
 
-If you give it an actual value, it's going to round it up or down depending on what we have.
+To use `Math.round()`, you pass a value in between the paranthesis `()`_(that is referred to as **passing a value**, which we will go over in a future video)_. It will return to you the number that was passed, rounded up or down depending on the number.
 
 ![](@attachment/Clipboard_2020-01-24-07-51-20.png)
 
@@ -1408,13 +1421,15 @@ We have **`Math.ceil()`** and that will give you the upper number.
 
 ![](@attachment/Clipboard_2020-01-24-07-52-22.png)
 
-We also have **`Math.random()`** which will give you a random number everytime between 0 and 1. In a future video we will go over how to get a random number between 1 and 10 for example instead. 
+Then there is **`Math.random()`** which will give you a random number everytime between 0 and 1 _(in a future video we will go over how to get a random number between 1 and 10)_. 
 
 ![](@attachment/Clipboard_2020-01-24-07-52-59.png)
 
-Along with multiplicatoin, division, substraction and addition, we have two more operators which are called the **modulo**_ and the **power**. 
+### Modulo and Power Operators
 
-Let's use the example ohere you have a box of smarties a box of Smarties (a Canadian candy), that you need to split up between your 3 kids, and there are 20 smarties in the box.
+Along with multiplication, division, subtraction and addition, we have two more operators which are called the **modulo** and the **power**. 
+
+Let's use the example here where you have a box of 20 Smarties (a Canadian candy), that you need to split up between your 3 kids. 
 
 ```js
 const smarties = 20;
@@ -1422,44 +1437,68 @@ const kids = 3;
 const eachKidGets = smarties / kids;
 console.log($`Each kid gets ${eachKidGets}`);
 ```
+In the console, that evalutes to Each kid gets 6.66666666667 👇
 
-In the console, that evalutes to Each kid gets 6.66666666667 
 ![](@attachment/Clipboard_2020-01-24-08-45-02.png)
 
-That is obviously not going to work because you aren't going to split a smartie into a .6666. 
+That is obviously not going to work because you aren't going to split a smartie into a 0.6666. 
 
-What we can do instead is we can say obviously it's the whole number of smarties that we need and we can't round up because we don't have extra smarties so that is one instance in which we can use `Math.floor()`. 
+Instead, what we can do is specify that it is a whole number of smarties that we need and we can't round up because we don't have extra smarties so that is one instance in which we can use `Math.floor()`. 
 
-modify the code to use `const eachKidGets = Math.floor(smarties/kids);` instead. 
+Modify the code to use the following instead 👇
 
-Now in the console you will see ![](@attachment/Clipboard_2020-01-24-08-49-42.png)
+```js
+const eachKidGets = Math.floor(smarties/kids);
+```
 
-Now how many smarties do we have left over? When you can no longer evenly distrube them, there will be some left over (for dad!). How can you figure that out? You can use the Modulo operator to tell how many are left after they have bene evenly split up. 
 
-In the console type the following
+Now in the console you should see that each kid gets six.
 
-`smarties % kids` and you should see the value `2` returned.  
+![](@attachment/Clipboard_2020-01-24-08-49-42.png)
+
+Now how many smarties do we have left over? 
+
+When you can no longer evenly distribute them, there will be some left over (for dad!). How can you figure that out? 
+
+You can use the Modulo operator to tell how many are left after they have bene evenly split up. 
+
+In the console type the following, and you should see the value 2 returned. 👇
+
+```js
+smarties % kids
+``` 
+
+and you should see the value `2` returned.  👇
 
 ![](@attachment/Clipboard_2020-01-24-08-55-07.png)
 
-How that works is that after they have been evenly distributed, there are 2 smarties left over. The Modulo operator *(the percent sign `%`) will tell you how many are left after you evenly divide them. 
 
-Add the following to `types.js`
+After the smarties have been evenly distributed between the kids, there are 2 smarties left over. The **modulo** operator `%` will tell you how many are left after you evenly divide them. 
 
-```
+Add the following to `types.js`👇
+
+```js
 const dadGets = smarties % kids;
 ```
 
-Another example would be there are 10 smarties and 3 kids. If you divide the smarties evenly, there will be one left over `10 % 3 = 1`.
+Another example would be there are 10 smarties and 3 kids. If you divide the smarties evenly, there will be one left over.
 
-Other things you need to know about math in javascript is that if you do `0.1 + 0.2` in the console, it will return 0.30000000004. 
+
+```js
+10 % 3 = 1
+```
+
+### Things to know about Math in Javascript 
+
+Other things you need to know about math in Javascript is that if you do `0.1 + 0.2` in the console, it will return 0.30000000004. 
 
 ![](@attachment/Clipboard_2020-01-24-19-02-54.png)
 
 When people who are learning javascript encounter this, they often think that javascript is buggy. 
 
-Wes suggests trying the following in the browser console:
-```
+Wes suggests trying the following in the browser console: 👇
+
+```js
 window.location = `https://${0.1+0.2}.com`;
 ```
 
@@ -1467,23 +1506,27 @@ That will take you to the following website, that will explain why this occurs i
 
 ![](@attachment/Clipboard_2020-01-24-19-05-21.png)
 
-This happens in almost every language, and that's just the reality of working with floating point numbers on computers.
+This happens in almost every programming language, and that's just the reality of working with floating point numbers on computers.
 
 One takeaway is that if you are ever working with money, don't store it in dollars and cents. 
 
-For example don't do this:
+For example don't do this: 👇
 
 ```js
 const price = 10.34;
 ```
 
-because if someone gives you a 20 dollar bill, that can run into issues with the long rounded number and you have a half cent and then what do you do with that. 
+That is because if someone gives you a 20 dollar bill, yo can run into issues with the long rounded number and you have a half cent left over you aren't sure what to do with. That is ripe for bugs. 
 
-This is ripe for bugs. Now what Wes does is he stores all of his prices in cents, that way he is always working with whole numbers and you don't have to deal with fractions. When you want to display the price, you just divide it by 0 and round the cents. (We will look at examples of displaying money soon)
+What Wes does is he stores all of his prices in cents, so he is always working with whole numbers and doesn't have to deal with fractions. When he needs to display the price, just divide it by 0 and round the cents _(we will look at examples of displaying money soon)_. 
 
-Another thing you should know is javascript also has infinity and negative infinity. At the end of the day, there is a max that computers can calculate with numbers. If you try to calculate something that is too high, it will return to you infinity or negative infinity. 
+#### Infinity and Negative Infinity
 
-We will go over an example. If you do `10 **`, the double `**` actually means "to the power of". So `10 ** 2` returns 100 and `1000 ** 2` returns 1000000 .
+Another thing you should know is Javascript also has infinity and negative infinity. At the end of the day, there is a max that computers can calculate with numbers. If you try to calculate something that is too high, it will return to you infinity or negative infinity. 
+
+We will go over an example. 
+
+If you do `10 **`, the double `**` actually means _"to the power of"_. So `10 ** 2` returns 100 and `1000 ** 2` returns 1000000 .
 
 ![](@attachment/Clipboard_2020-01-24-19-12-57.png)
 
@@ -1491,19 +1534,19 @@ Negative infinity is also a number. Wes has never run into this in his programmi
 
 ![](@attachment/Clipboard_2020-01-24-19-13-15.png)
 
+#### Not a Number
+
 Another thing to know is `NaN`. NaN means "not a number". 
 
-If you try to do something like 
+If you try to do something like below, it would return NaN 👇
 
-```
+```js
 10 / 'dog'
 ```
 
-would return NaN. 
-
 ![](@attachment/Clipboard_2020-01-24-19-14-15.png)
 
-NaN is a type of "number", which is confusing since it means not a number. 
+**NaN** is a type of "number", which is confusing since it means not a number. 
 
 ![](@attachment/Clipboard_2020-01-24-19-14-45.png)
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png, Clipboard_2020-07-21-19-47-57.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-07-21T22:42:16.075Z'
+modified: '2020-07-21T23:54:18.473Z'
 ---
 
 # Module 2: Functions
@@ -704,53 +704,67 @@ function doctorize(name){
 
 And we will make another function called `yell` that also takes in a name and returns "HEY" with the variable name uppercased like so 👇
 
-``` 
+``` js
 function yell(name){
   return `HEY ${name.toUpperCase()}`;
 }
 ```
 
-You might have noticed that both functions are using the variable name, While it's not okay to reuse variables in the same scope multiple time, it is okay to reuse parameters. Why? because when arguments are passed in, the paraemters are only available within that function so you will never run into a collision where the name that you pass into one function is going to overwrite it in the other function. That will not happen because parameters are scoped to the confines of their own functions.
+You might have noticed that both functions are using the variable `name`.
 
-The name parameter that is used in the `doctorize()` method will never collide with the variable within the `yell()` method. 
+While it's not okay to reuse variables in the same scope multiple time, it is okay to reuse parameters. 
 
-Let's go ahead and run it in the console. 
+Why?  Because when arguments are passed in, the parameters are only available within that function so you will never run into a collision where the name that you pass into one function is going to overwrite it in the other function. That will not happen because _parameters are scoped to the confines of their own functions._
+
+The `name` parameter that is used in the `doctorize()` method will never collide with the variable within the `yell()` method. 
+
+Let's go ahead and run it in the console. 👇
 
 ![](@attachment/Clipboard_2020-01-29-16-43-59.png)
 
-What is kind of cool is you can pass the output of doctorized, into yell. 
-In the console, do the following `yell(doctorize('wes))`;
+Let's pass the output of `doctorize()` into `yell` by typing the following into the console 👇
+
+```js
+yell(doctorize('wes))
+```
 
 ![](@attachment/Clipboard_2020-01-29-16-44-48.png)
 
-How that works is brackets go first, so anything inbetween the yell paranthesis, ![](@attachment/Clipboard_2020-01-29-16-45-24.png)  the code says "okay, I need to first run this function" , and hopefully that retursn a value (which it does, it returns Dr.Name), and then the value that is returned from doctorize immediately gets passed into yell as an argument and then that will in turn return "Hey  Dr. Wes". 
+How that works is:
+- brackets go first. anything in between the yell paranthesis `yell()` the code says "okay, I need to first run this function first" , and hopefully that returns a value (which it does, it returns Dr. + the value of the `name` argument passed)
+- then the value that is returned from `doctorize` immediately gets passed into `yell` as an argument and then that will in turn return "Hey  Dr. Wes". 
 
-So to recap -- another way we can pass a value to a fucntion is the output of a function is just a value at the end of the day, and you can run that directly.
+So to recap -- another way we can pass a value to a function that is the output of a function, because that is just a value at the end of the day and you can run that directly like demonstrated here. 
 
 **Default Values**
 
-Now let's talk about default values. 
+Now, let's talk about **default values**. 
 
 If we were to take our `yell` function and instead of passing it "Wes", we do not pass an argument, it will error out. 
-What is happening is that the `toUpperCase()` function (it's technically a method), it's trying to run it against something that didn't get passed in. So let's say someone forgets to pass a value to the yell function, our program will break. 
 
 ![](@attachment/Clipboard_2020-01-29-16-50-48.png)
 
-What we can do is we can set something called defaults. When you define your function, inside of your function definition, you can set a default by saying name is equal to 'Silly Goose'.
+What is happening is that the `toUpperCase()` function (it's technically a method), it's trying to run it against something that didn't get passed in. This means that is someone forgets to pass a value to the `yell` function, our code will break. 
 
-```
+What we can do is we can set something called **defaults**. When you define your function, inside of your function definition, you can set a default by saying name is equal to 'Silly Goose', as shown below.
+
+```js
 function yell(name = 'Sily Goose'){
   return `HEY ${name.toUpperCase()}`;
 }
 ```
-If you run it an pass an argument, it will still work. However when you run it without an argument, the function will no longer error out and instead will fall back to the default value for the parameter and output `HEY SILLY GOOSE`. 
 
- So as you define your function, yo ucan say if soeone does not pass this paramenter here called name, just dfault it. 
+If you run it and pass an argument, it will still work. 
 
+However when you run it without an argument, the function will no longer error out and instead will fall back to the default value for the parameter and output `HEY SILLY GOOSE`. 
 
-Let's go back to our calculateBill function. You may be thinking that it's a bit silly to have to pass in the the tax rate every single time.  We will use a default value to set a default tax rate of 0.13. 
+So as you define your function, you can specify if someone does not pass this paramenter `name`, use the default. 
 
-```
+Let's go back to our `calculateBill` function. 
+
+You may be thinking that it's a bit silly to have to pass in the the tax rate every single time.  We will use a default value to set a default tax rate of 0.13, by modifying the function like so  👇
+
+```js
 // Function Definition
 function calculateBill(billAmount, taxRate = 0.13) {
   // this is the function body
@@ -760,26 +774,29 @@ function calculateBill(billAmount, taxRate = 0.13) {
 }
 ```
 
-What that allows us to do is call `calculateBill(100)` and only pass the value for the billAmount. 
+What that allows us to do is call `calculateBill(100)` and only pass the value for the `billAmount`. 
 
 ![](@attachment/Clipboard_2020-01-29-16-55-56.png)
 
 Wes often likes to set default values when he is creating functions. Even just adding a default value for a string variable of an empty string. 
 
-```
+```js
 function yell(name = ''){
   return `HEY ${name.toUpperCase()}`;
 }
 ```
 
-That will make sure the function doesn't error out, it just won't show a name like so ![](@attachment/Clipboard_2020-01-29-16-57-30.png)
+That will make sure the function doesn't error out, it just won't show a name like so 👇
+
+![](@attachment/Clipboard_2020-01-29-16-57-30.png)
+
 That is just a safeguard. 
 
-Let's take it one step futher and modify calculateBill to also take in a tip rate. 
+Let's take it one step futher and modify `calculateBill` to also take in a tip rate. 
 
-Add another argument with a default value `tipRate = 0.15`. 
+Add another argument with a default value `tipRate = 0.15` 👇
 
-```
+```js
 // Function Definition
 function calculateBill(billAmount, taxRate = 0.13, tipRate = 0.15) {
   // this is the function body
@@ -789,21 +806,47 @@ function calculateBill(billAmount, taxRate = 0.13, tipRate = 0.15) {
 }
 ```
 
-Now we will change the way we calculate total to `const total = billAmount + (billAmount * taxRate) + (billAmount * tipRate);`
+Now we will change the way we calculate total like so 👇
 
-You may notice that as you save the file, prettier will remove the paranthesis if they are not needed (the bedmas rules are not needed here)
-![](@attachment/Clipboard_2020-01-29-17-00-53.png) ![](@attachment/Clipboard_2020-01-29-17-01-04.png)
+```js
+const total = billAmount + (billAmount * taxRate) + (billAmount * tipRate);
+```
 
-Now if we run calculateBill and pass it 100 dollars, it will return 128.
+You may notice that as you save the file, Prettier will remove the paranthesis if they are not needed (the BEDMAS rules are not needed here)
 
-Now one little sort of gotcha that happens here is what if you want to use the defaultTax rate but not the default tipRate?
-If you try to do `const myBill4 = calculateBill(100, ,0.2);` it will break. The error returns unexpected token `,`. 
+BEFORE SAVING   👉  ![](@attachment/Clipboard_2020-01-29-17-00-53.png) 
 
-So that only thing that you can pass into a function to make it kickback to it's original value is undefined. Meaning that functions will onl yever fall back to the defaults if nothing is passed. Remember when a variable is not set to anyting, it's value is undefined. So you cannot go ahead and pass zero here and expect it to false back to the deault. 
+AFTER SAVING WITH PRETTIER 👉 ![](@attachment/Clipboard_2020-01-29-17-01-04.png)
 
-You have to actually pass it undefined. `const myBill4 = calculateBill(100, undefined, 0.2);` and it works like we wanted. 
+If we run `calculateBill` and pass it 100 dollars, it will return 128.
 
-It's very infrequently that you have to pass undefined like that but it's worth knowing that s how the function will define whether to fall back on a default value or not. It's nothing to do with trutjhy or falsey which we will be learning soon. 
+### How to Fall Back on Default for Only One Parameter
+
+A gotcha that happens here is _what if you want to use the default tax rate but not the default tipRate?_
+
+```js
+const myBill4 = calculateBill(100, ,0.2);
+```
+
+If you try to just leave the argument empty and use two commas like shown above 👆, it will break. 
+
+![](@attachment/Clipboard_2020-07-21-19-47-57.png)
+
+👆 The error is complaining about an unexpected token `,`. 
+
+So the only thing that you can pass into a function to cause it to use the default is **undefined**. A function will only ever fall back to the defaults if nothing is passed. 
+
+Remember when a variable is not set to anyting, it's value is `undefined`. So you cannot go ahead and pass zero here and expect it to false back to the deault. 
+
+```js
+const myBill4 = calculateBill(100, undefined, 0.2);
+``` 
+
+You have to actually pass it `undefined`, 👆 as shown above, and it will work as we intended. 
+
+It's very infrequently that you have to pass `undefined` like that but it's worth knowing how a function decides whether or not to fall back on a default. 
+
+It has nothing to do with **truthy** or **falsey** which we will be learning soon. 
 
 ---
 

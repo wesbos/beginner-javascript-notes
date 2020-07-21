@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png, Clipboard_2020-07-21-07-59-37.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-21T12:23:19.048Z'
+modified: '2020-07-21T12:28:42.887Z'
 ---
 
 # Module 1: The Basics
@@ -1686,23 +1686,29 @@ In the console, if you type `cher.last` you will see the value of undefined retu
 
 ## 11 - Types - Booleans and Equality
 
-The final type in javascript is called a boolean. A boolean is either true or false, it's like a light switch, it's on or off and that is it.
+The final type in javascript is called a **boolean**.  A boolean is either true or false, it's like a light switch, it's on or off and that is it.
 
 We use booleans for logic such as if statements. 
 
 Booleans can be manually set or calculated. 
 
-Let's take a look at some examples. Comment out all the code you have added to `types.js` so far and add
+Let's take a look at some examples. 
 
-```
+Comment out all the code you have added to `types.js` so far and add 👇
+
+```js
 let isDrawing = false;
 ```
 
-Let's say we want to know if the user is moving their mouse and if they are currently clicking down or up. To do that, we can use a flag variable, which is a variable that is either set to true or false. When the user clicks down, we set it to true and when they click up, we set it to false. That is what a boolean is -- something that is either true or false.
+Let's say we want to know if the user is moving their mouse and if they are currently clicking down or up. 
 
-We can also calculate booleans,  so if we have an `age` variable for example that is set to 18, and another variable called `ofAge` that has the value of `age > 19`, if you console log `ofAge`, it will return false. 
+To do that, we can use a **flag variable**, which is a variable that is either set to true or false. 
 
-```
+When the user clicks down, we set it to true and when they click up, we set it to false. That is what a boolean is -- something that is either true or false.
+
+We can also calculate booleans. For example, if we have an `age` variable that is set to 18, and another variable called `ofAge` that has the value of `age > 19`, if you console log `ofAge`, it will return false. 
+
+```js
 const age = 18;
 const ofAge = age > 19;
 console.log(ofAge);
@@ -1711,11 +1717,23 @@ console.log(ofAge);
 ![](@attachment/Clipboard_2020-01-27-21-39-29.png)
 
 
-Sometimes values are calculated, like for `ofAge`. We will talk later about the greater than, less than and equal to operators. For now, we will just focus on equality which is the equal sign, double equal sign and triple equal sign.
+Sometimes values are calculated, like for `ofAge`.
 
-One equal sign `=` is used to assign a value to a variable.  `age = 100;`
+We will talk later about the greater than, less than and equal to operators. 
 
-For double equals `==` and triple equals `===`, know that you should almost always be using triple equals. Ther are some edge cases where you can use double equals, but almost all the time it's better to use triple equals.
+### Equality (equal sign, double equal sign, triple equal sign)
+
+For now, we will just focus on equality which is the equal sign, double equal sign and triple equal sign.
+
+One equal sign `=` is used to assign a value to a variable. 
+
+```js
+age = 100;
+```
+
+For double equals `==` and triple equals `===`, know that you should almost always be using triple equals. 
+
+Ther are some edge cases where you can use double equals, but almost all the time it's better to use triple equals.
 
 If you take the age variable in the consoel and do the following
 
@@ -1726,36 +1744,46 @@ If you take the age variable in the consoel and do the following
 
 That is what Wes means by booleans can be calculated as well. 
 
-You have 1 value, which can be a straight up value `100 === 10` or it can be a value that is stored in a variable `age === 100`  or it can be two variables. Add `let age2 = 100;` in `types.js`. Save and refresh `types.html`.
+You have 1 value, which can be a straight up value `100 === 10` or it can be a value that is stored in a variable `age === 100`  or it can be two variables. 
 
-Now you can do `age === age2` which will return true.
+Add `let age2 = 100;` in `types.js`, and refresh the HTML page in the browser. 
+
+Now you can do `age === age2` which will return true. 👇
 
 ![](@attachment/Clipboard_2020-01-27-21-59-47.png)
 
-What that is doing is it's checking the value of the first variable and it checks the value of the second variable and makes sure they are exactly the same. 
+What is happening there is the browser is checking the value of the first variable and then it checks the value of the second one, to make sure they are exactly the same. 
 
-What would happen if instead we did `10 == 10`, with a doube equals? It would return true
+What would happen if instead we did `10 == 10`, with a doube equals? It would return true. 👇
 
 ![](@attachment/Clipboard_2020-01-27-22-01-10.png)
 
-Why are there two different ways to check for equality? Triple equal will check that the value of the thing on the left hand side and the right hand side are the same, AND it will check that the types of the thing on the left and on the right are the same. 
+Why are there two different ways to check for equality? 
 
-Triple equals will always check for both value and type. 
+Triple equal will check that the value of the thing on the left hand side and the right hand side are the same, AND it will check that the types of the thing on the left and on the right are the same. 
+
+**Triple equals will always check for both value and type.**
 
 In the examples above, the types were numbers. 
 
-What if you were to do `"10" == 10`? The console would return true. 
-Why?
+What if you were to do `"10" == 10`? 
+
+The console would return true.  Why?
+
 Because the value is the same, but the types are not. 
 
-If you did `"10" === 10`, it would return false. 
+If you did `"10" === 10`, it would return false. 👇
 
 ![](@attachment/Clipboard_2020-01-27-22-03-55.png)
 
-This is one of the examples where you can get into hot water by mixing strings and numbers when doing addition. You should almost always be working with the same type. The same is true with equality. It's easy to get into hot water if you are checking if a string and a number are the exact same thing. 
+This is one of the examples where you can get into hot water by mixing strings and numbers when doing addition. 
 
-`===` always checks that the value and type are exactly the same. 
+You should almost always be working with the same type. The same is true with equality. It's easy to get into hot water if you are checking if a string and a number are the exact same thing. 
 
-In a future video, we will go over something called "flow control", which is about if statements and ternarery and switch statements. These booleans will be particularly helpful for those videos. We will also be extending what we learned here a little bit further into things like truthy and falsey values, as well as this thing called coercion which is where you have a value and you want to force it into a true boolean and what not. 
+`===` **always checks that the value and type are exactly the same.** 
+
+In a future video, we will go over something called _"**flow control**"_, which is about if, ternary, and switch statements.  These booleans will be particularly helpful for those videos. 
+
+We will also be extending what we learned here a little bit further into things like truthy and falsey values, as well as this thing called coercion which is where you have a value and you want to force it into a true boolean and what not. 
 
 

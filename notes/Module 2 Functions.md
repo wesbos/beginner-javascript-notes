@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png, Clipboard_2020-07-21-19-47-57.png]
+attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png, Clipboard_2020-07-21-19-47-57.png, Clipboard_2020-07-22-08-21-45.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-07-21T23:54:18.473Z'
+modified: '2020-07-22T12:36:11.628Z'
 ---
 
 # Module 2: Functions
@@ -852,24 +852,39 @@ It has nothing to do with **truthy** or **falsey** which we will be learning soo
 
 ## 15 - Different Ways to Declare Functions
 
-One thing you're goin to hear a lot when you're getting into javascript is that javascript functions are "First class citizens". 
+One thing you will hear often when getting into Javascript is that functions are _"first class citizens"_. 
 
-That means javascript functions  are values in themselves, they can be stored in variables and passed into other functions. 
+Javascript functions are values in themselves, and they can be stored in variables and passed into other functions. 
 
-What is a value in javascript?  We know that in the examples below `true` and `100` are values.
-```
+What _is_ a **value** in Javascript?  
+
+We know that in the examples below 👇 that `true` and `100` are values.
+
+```js
 const age = 100;
 const cool = true;
 ```
+
 Those are values that are numbers, or strings or booleans.
-What is cool about javascript is that functions can be passed into other functions. Functions can be stored in variables, they can be moved around like any other piece of data in JavaScript. That is not true for every other languages.
 
-For now, we will talk about the ability to put functions into variables.  And this video will go over all the different ways to declare functions. 
+What is cool about Javascritp is that functions can be:
 
-Create a new file in our `custom-functions` directory called `ways-to-make-a-function.js`.  Add `console.log('it works')` and go back into the `index.html` file and change the path in the `src` attribue on the script tag to `<script src="./ways-to-make-a-function.js"></script>`. Refresh the browser to ensure that it works. 
+- passed into other functions.
+- stored in variables,
+- moved around like any other piece of data in JavaScript
 
+That is not true for every other programming language.
 
-We already know one way to declare a function and that is through the function keyword. 
+Let's start by looking at how you can put a fucntion into a variable, and then look at the different ways to declare functions. 
+
+Create a new file `ways-to-make-a-function.js` in the `/custom-functions` directory.  
+
+```HTML
+<script src="./ways-to-make-a-function.js"></script>
+```
+Add a log of "it works!" and go back to the `index.html` file and change the path in the script source attribute as shown above 👆and refresh the browser to ensure it works. 
+
+We already know one way to declare a function and that is using the function keyword, like so 👇 
 
 ```js
 function doctorize(firstName){
@@ -877,26 +892,37 @@ function doctorize(firstName){
 }
 ```
 
-Now let's see how we can actually declare that, in other ways. Comment that out. 
+#### Anonymous Functions
 
-The next way to create a function is an anonymous function, which is a function without a name. 
+Let's look at some other options we have when declaring functions, starting with an **anonymous function**, which is a function without a name.
 
-To make `doctorize` an anonymous function, you would modify it like this:
+To make `doctorize` an anonymous function, you would modify it like this 👇
 
 ```js
 function(firstName){
   return `Dr. ${firstName}`;
 }
 ```
-However, it's not actually valid javascript in this case. If you try running it in the console you will see an error that says
->Function statements require a function name
-However they are valid in many other use cases, specifically using them in callbacks (we will learn about that) as well as in an IIFE (immediately involved function expression). However in this examlpe it is not valid javascript.
 
-Why would you ever want an anoymous function? The next way to declare a function will help explain that.
+However, that is not valid Javascript. If you try running it in the console you will see an error that says 👇
 
-Add a comment `//AnonFunction` above that function, copy it and then comment it out. Paste the copied code below the commented out function. 
+>SyntaxError: Function statements require a function name
 
-The next way to declare a functino is a function expression. A function expression is when you store a function as a value in a variable. 
+![](@attachment/Clipboard_2020-07-22-08-21-45.png)
+
+Anonymous functions are only valid in some use cases, such as using them in **callbacks** (we will learn more about that later) as well as in an **IIFE (immediately invoked function expression)**. This example was not a valid use case. 
+
+Why would you ever want an anoymous function? 
+
+#### Function Expressions
+
+The next way we will cover to declare a function will help explain that, which is as a **function expression**. 
+
+Add a comment above that function specifying that it is an anonymous functions, then copy the function and comment it out. 
+
+Paste the copied code below the commented out function. 
+
+The next way to declare a function is a **function expression**. A function expression is when you store a function as a value in a variable. 👇
 
 ```js
 //Function Expression
@@ -905,13 +931,19 @@ const doctorize = function(firstName){
 }
 ```
 
-What we did above is we took an anonmyous function and stuck it in a variable. If you refresh the page, you will see that in the console, we have doctorize available to us, and we can call it like we did in previous videos.
+In the code above 👆, we have taken the anonymous function and stuck it in a variable. 
+
+If you refresh the page, you will see that in the console, we have `doctorize()` available to us, and we can call it like we did in previous videos.
 
 ![](@attachment/Clipboard_2020-01-29-18-48-13.png) 
 
-That is what people mean when they say functions are first class citizens. WWhat we are doing there is we are creating a variable and then storing the function in that variable name.
+Having the ability to create a variable and then store it in a function is what leads people to say functions are _"first class citizens"_. 
 
-You may come across developers who say to not use function expressions because it gives bad errors. Here is an example that demonstrates what they mean by that:
+You may come across developers who say to not use function expressions because they used to give unhelpful errors. 
+
+Previously, anonymous function errors would just tell you that it occurred in an anonymous function, without giving you any clue where the error is happening. However, now the dev tool errors are better. 
+
+Here is an example that demonstrates what they mean by that 👇
 
 ```js
 //Function Expression
@@ -922,13 +954,15 @@ const doctorize = function(firstName){
 ```
 ![](@attachment/Clipboard_2020-01-29-18-51-45.png)
 
-What used to happen is the error would just tell you that it occured in an anonymous function and you'd have no clues to lead you to where the error is happening. In our case, it does now tell you it happens inside of doctorize on line 12. 
+In our case, it does now tell you it happens inside of doctorize on line 12. 
 
 Although the function is technically an anonymous function without a name, the browsers will now infer the name of the function from the variable name and use that in the errors.
 
+#### What is the difference between a function declaration and a function expression? 
+
 What is the difference between doing a function declaration and a function expression? Why would you want to use one over the other?
 
-There is only one real difference (beside error handling which isnt really an issue anymore) is how they operate how they operate in something called **hoisting**. We will go over this in a future video but we will go over it quickly now.
+There is only one real difference (beside error handling which isn't really an issue anymore) is how they operate how they operate in something called **hoisting**. We will go over this in a future video but we will go over it quickly now.
 
 Add to the .js file a `doctorize2` function. 
 ```js

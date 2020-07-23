@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png, Clipboard_2020-07-21-19-47-57.png, Clipboard_2020-07-22-08-21-45.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-07-22T12:36:11.628Z'
+modified: '2020-07-23T12:45:17.547Z'
 ---
 
 # Module 2: Functions
@@ -962,9 +962,12 @@ Although the function is technically an anonymous function without a name, the b
 
 What is the difference between doing a function declaration and a function expression? Why would you want to use one over the other?
 
-There is only one real difference (beside error handling which isn't really an issue anymore) is how they operate how they operate in something called **hoisting**. We will go over this in a future video but we will go over it quickly now.
+##### Hoisting 
 
-Add to the .js file a `doctorize2` function. 
+There is only one real difference which is how they operate in something called **hoisting**. We will go over this in detail a future video but for now we will just quickly cover the concept. 
+
+Duplicate the `doctorize` function and name it  `doctorize2`, like 👇
+
 ```js
 const doctorize = function(firstName){
   return `Dr. ${firstName}`;
@@ -974,7 +977,21 @@ function doctorize2(firstName){
 }
 ```
 
-If on the line before the first `doctorize` function, we were to add `doctorize("wes")`, do you think that it will run? If you run a function before you define it, does it work? 
+Let's say right before the first `doctorize` function, we called `doctorize` and passed it the value of "wes", as shown below 👇, do you think the code will run? 
+
+If you run a function before you define it, does it work? Refresh the page and look at the console to test it 
+
+```js
+doctorize('wes');
+const doctorize = function(firstName){
+  return `Dr. ${firstName}`;
+}
+function doctorize2(firstName){
+  return `Dr. ${firstName}`;
+}
+```
+
+Did it work? 
 
 Nope! You get an error like:
 
@@ -982,7 +999,7 @@ Nope! You get an error like:
 >    at ways-to-make-a-function.js:78
 >(anonymous) @ ways-to-make-a-function.js:78
 
-What about doctorize2? 
+What about `doctorize2`? 
 
 ```js
 console.log(doctorize2("wes"));
@@ -995,34 +1012,40 @@ function doctorize2(firstName) {
 }
 ```
 
-It does work! The function declaration works, but the function expression does not work if you call it before you define it. Why?
+It does work! 
 
-Even though those are the exact same functions we have created, because you define a regular function with a function keyword and the other one with a variable, functions that are declared with the fucntion keyword are called hoisted.
+Why does a function declaration work if you call it before you define it, but a function expression does not, especially when we created the exact same function in both cases? 
 
-That means that javascript takes all functions and hoists them up, up, up and says you're a function, you belong at the top of the file so that anywhere that you call the function it will be available to you. Javascript does **not** hoist variable functions. 
+Functions that are delcared with the **function** keyword are called **hoisted**.
 
-Why is that useful? Very rarely, Wes has never used that in his entire career except tiny use cases. 
+Javascript will take all functions with the function keyword and and hoist them up, up, up and says "you're a function, you belong at the top of the file". That means anywhere you cal the function, it will be available to you. 
 
-Hoisting is more of an interview question that you may be asked. 
-Essentially it means that javascript will take functions and bring them up before the yare called. You can technically run a function before it is defined with that ability. 
+Javascript does **not** hoist variable functions. 
 
-In `ways-to-make-a-function.js`, clear out the second doctorize2 function and just leave the function expression. 
+Why is that useful? 
 
-**Arrow Functions**
+Very rarely, Wes has never used that in his entire career except tiny use cases. 
 
-The next way to make a function is using an arrow function. Arrow functions themselves have a few different ways of being declared. We will go over those now. 
+**Hoisting** is more of an interview question that you may be asked. 
 
-Arrow functions are an addition to javascript which was addedi n the last couple of years.
+Essentially it means that Javascript will take functions and bring them up to the top of the code before they are called. This gives us the ability to run a function before it is defined.
 
-They offer a couple of things. 
+Remove the `doctorize2` function from the Javascript file which should leave just the function expression. 
 
-First, they have a concise syntax and are shorter. Often with tings like callbacks, its simpler to use an arrow function to write a one liner function. 
+### Arrow Functions
 
-Another benefit is that they do not have their own scope in reference to the `this` word (we will go over `this` in more depth in the future).
+The next way to make a function is using an **arrow function**. 
 
-Arrow functions are anonymous functions, which means there is no way to declare an arrow function the way we do a function declaration `function doctorize(){..}`. You always have to stick it into a variable.
+Arrow functions themselves have a few different ways of being declared. They are a newer addition to Javascript, and were added in the last couple of years. 
 
-To illustrate this, we will begin by writing a regular function. 
+They have a few benefits:
+- concise syntax and tend to be shorter. allow for writing one line functions 
+- do not have their own scope in reference to the `this` keyword _(we will cover the `this` keyword in future video)_
+
+
+Arrow functions are also **anonymous functions**, which means there is no way to declare an arrow function the way we do a function declaration `function doctorize(){..}`. You always have to stick it into a variable.
+
+To illustrate this, we will begin by writing a regular function. 👇
 
 ```js
 function inchToCM(inches){
@@ -1031,20 +1054,25 @@ function inchToCM(inches){
 }
 ```
 
-This function will take in inches and return centimeters. Let's try it ion in the browser. 
+This function will take in inches and return centimeters. 
+
+Let's try it out in the browser. 
 
 ![](@attachment/Clipboard_2020-01-30-17-50-07.png)
 
-This is a pretty simple function, but it still takes up four lines of code. We can make it a bit shorter by instead of creating a variable and then returning a variable, you can just return the calculation itself. 
+This is a pretty simple function, but it still takes up 4 lines of code.
 
-![](@attachment/Clipboard_2020-01-30-17-52-26.png)
-Note: you may notice in the screenshot that the return cm is now greyed out. That is because that code is unreachable which happens because we are returning on the line above, and when you return from a function, that function is finished running.
+We can make it a bit shorter by instead of creating a variable and then returning a variable, we can just return the calculation directly. 
 
 ```js
 function inchToCM(inches){
   return inches * 2.54; 
 }
 ```
+
+![](@attachment/Clipboard_2020-01-30-17-52-26.png)
+
+_Note: You may notice in the above 👆screenshot that the line of code with `return cm;` is now greyed out. That is because that code will never be reached, since we are returning in the line of code above it. When you return from a function, the function stops running _
 
 Now we can convert it to an anonymous function as a step on the way to making it an arrow function.
 
@@ -1054,10 +1082,11 @@ const inchToCM = function(inches){
 }
 ```
 
-Refresh the page to check that it still works (it does!).  It still works in the same way, now we just have made it an anonymous function and stored it in a variable. 
+Refresh the page to check that it still works, which it should. All we have done if turned it into an anonymous function and stored it in a variable. 
 
-Now we will go ahad and convert that function over to an arrow function. 
-There are a couple of different ways we can do that, which we will go over now. 
+### Different Ways to Write Arrow Functions
+
+Let's convert it to an arrow function now, which we can do a few different ways. 
 
 Instead of writing the word function, we will delete it like so:
 

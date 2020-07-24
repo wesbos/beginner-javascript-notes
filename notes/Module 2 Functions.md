@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png, Clipboard_2020-07-21-19-47-57.png, Clipboard_2020-07-22-08-21-45.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-07-23T12:45:17.547Z'
+modified: '2020-07-24T00:02:21.963Z'
 ---
 
 # Module 2: Functions
@@ -1072,7 +1072,7 @@ function inchToCM(inches){
 
 ![](@attachment/Clipboard_2020-01-30-17-52-26.png)
 
-_Note: You may notice in the above 👆screenshot that the line of code with `return cm;` is now greyed out. That is because that code will never be reached, since we are returning in the line of code above it. When you return from a function, the function stops running _
+_Note: You may notice in the above 👆screenshot that the line of code with `return cm;` is now greyed out. That is because that code will never be reached, since we are returning in the line of code above it. When you return from a function, the function stops running._
 
 Now we can convert it to an anonymous function as a step on the way to making it an arrow function.
 
@@ -1088,7 +1088,7 @@ Refresh the page to check that it still works, which it should. All we have done
 
 Let's convert it to an arrow function now, which we can do a few different ways. 
 
-Instead of writing the word function, we will delete it like so:
+Instead of writing the word function, we will delete it like so 👇
 
 ```js
 const inchToCM = (inches){
@@ -1096,9 +1096,9 @@ const inchToCM = (inches){
 }
 ```
 
-Now we will go to the right of the paranthesis and add what is called a fat arrow `=>`.
+Now we will go to the right of the paranthesis and add what is called a **fat arrow** `=>`.
 
-In programming, `->` is referred to as a skinny arrow and `=>` is referred to as a **fat arrow**. 
+In programming, `->` is referred to as a **skinny arrow** and `=>` is referred to as a **fat arrow**. 
 
 ```js
 const inchToCM = (inches) => {
@@ -1106,46 +1106,61 @@ const inchToCM = (inches) => {
 }
 ```
 
-You might notice if you save, prettier will modify the function and remove the paranthesis which we do not want because we want to change it to an arrow function in steps. To disable that, add `/* eslint-disable */` right above the function. 
+When you save, you might notice that Prettier modified the function for you and removes the paranthesis, which is not what we want because we are trying to change it to an arrow function in steps. to di To disable that, add `/* eslint-disable */` right above the function. 
 
-Note: the spaces between `(inches) => {` does not have to be there, `(inches)=>{` still works, but it's more readable with spaces.
+_The spaces between the parenthesis and the arrow in the following code 👉 `(inches) => {` does not have to be there, this is the same code with different whitespae and 👉 `(inches)=>{` still works, but it's more readable with spaces._
 
 If you refresh the page and run it in the console, you will see that it still works.
 
+### Implicit and Explicit Returns
+
 The next thing we will do is what is called an **implicit return**. 
 
-An explicit return is when you type the return keyword, like in `return inches * 2.54`. That is an explict return meaning that we explicitly return the value there. 
+An **explicit return** is when you type the `return` keyword before returning a value such as 👇
+```js
+return inches * 2.54
+```
+That is an explict return meaning that _we explicitly return the value there_. 
 
-And implict return is returning it without actually having to type the keyword return. Arrow functions allow us to return a value without having to type the keyword `return`. 
+An **implicit return** is returning it without actually having to type the keyword `return`. Arrow functions allow us to use implict returns. 
 
-First, we will put the function on one line like so: 
+Let's start by putting the function on one line, like so 👇
 
 ```js
 const inchToCM = (inches) => { return inches * 2.54;};
 ```
 
-To get rid of the explicit return, first you put it on one line, delete the curly brackets`{` `}` and delete the keyword. 
+To get rid of the **explicit** return:
+- first put the function on one line
+- then delete the curly brackets`{` `}` 
+- finally delete the keyword
 
-`const inchToCM = (inches) =>  inches * 2.54;`
+```js
+const inchToCM = (inches) =>  inches * 2.54;
+```
 
-So what we did there is we made an arrow function called inchTocM which takes in one argument called `inches`, and then it implicitly returns the value. 
+Your code should look like the above 👆
+
+What we did there is:
+- we made an arrow function `inchToCM` which takes in one argument, `inches`
+- modified the function to implicitly return the value. 
 
 The way we can tell this is an implicit return is that:
 1. it's all on one line
 2. there is no return keyword
-3. there are no curly brackets. 
+3. there are no curly brackets
 
 If you refresh in the browser, you will see that it still works.
 
-To recap: what we did there is we removed the function block, modified the code to be on one line, and removed the explicit return. 
+_To recap: what we did there is we removed the function block, modified the code to be on one line, and removed the explicit return. _
 
-Finally, and this is more of a stylistic choice, if there is only ever one parameter for your function, you can actually get rid of the paranthesis around the parameter as well, like so
+Finally, and this is more of a stylistic choice, if there is only ever one parameter for your function, you can actually get rid of the paranthesis around the parameter as well, like so👇
 
-```
+```js
 const inchToCM = inches =>  inches * 2.54;
 ```
 
-That is still your arrow function, we have just taken the paranthesis off because if there is only one parameter in your function, you can remove them no problem. 
+If there is only one parameter in your arrow function, you can remove them no problem. It is still a valid arrow function. 
 
 Let's do another example!
 

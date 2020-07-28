@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-28-16-43-12 (2).png, Clipboard_2020-01-28-16-47-39 (2).png, Clipboard_2020-01-28-16-48-49 (2).png, Clipboard_2020-01-28-17-00-34.png, Clipboard_2020-01-28-17-05-22.png, Clipboard_2020-01-28-17-12-10.png, Clipboard_2020-01-28-17-15-30.png, Clipboard_2020-01-28-17-16-18.png, Clipboard_2020-01-28-17-17-04.png, Clipboard_2020-01-28-17-18-49.png, Clipboard_2020-01-28-17-25-44.png, Clipboard_2020-01-28-17-27-44.png, Clipboard_2020-01-28-17-31-06.png, Clipboard_2020-01-28-17-35-06.png, Clipboard_2020-01-28-17-35-44.png, Clipboard_2020-01-28-17-41-21.png, Clipboard_2020-01-28-19-48-01.png, Clipboard_2020-01-28-19-54-21.png, Clipboard_2020-01-28-19-59-14.png, Clipboard_2020-01-28-20-05-33.png, Clipboard_2020-01-28-22-28-03.png, Clipboard_2020-01-28-22-28-19.png, Clipboard_2020-01-29-15-31-21.png, Clipboard_2020-01-29-15-31-32.png, Clipboard_2020-01-29-15-32-16.png, Clipboard_2020-01-29-15-50-59.png, Clipboard_2020-01-29-15-55-38.png, Clipboard_2020-01-29-15-57-14.png, Clipboard_2020-01-29-16-43-59.png, Clipboard_2020-01-29-16-44-48.png, Clipboard_2020-01-29-16-45-24.png, Clipboard_2020-01-29-16-50-48.png, Clipboard_2020-01-29-16-55-56.png, Clipboard_2020-01-29-16-57-30.png, Clipboard_2020-01-29-17-00-53.png, Clipboard_2020-01-29-17-01-04.png, Clipboard_2020-01-29-18-48-01.png, Clipboard_2020-01-29-18-48-13.png, Clipboard_2020-01-29-18-51-05.png, Clipboard_2020-01-29-18-51-45.png, Clipboard_2020-01-30-17-50-07.png, Clipboard_2020-01-30-17-51-04.png, Clipboard_2020-01-30-17-52-26.png, Clipboard_2020-01-30-19-48-27.png, Clipboard_2020-01-30-19-58-43.png, Clipboard_2020-01-30-20-06-08.png, Clipboard_2020-01-30-20-07-35.png, Clipboard_2020-01-30-20-25-18.png, Clipboard_2020-01-30-20-26-46.png, Clipboard_2020-01-30-20-27-19.png, Clipboard_2020-01-30-20-30-25.png, Clipboard_2020-01-30-20-43-26.png, Clipboard_2020-01-30-20-44-42.png, Clipboard_2020-01-30-20-57-19.png, Clipboard_2020-01-30-20-59-21.png, Clipboard_2020-01-30-21-06-26.png, Clipboard_2020-01-31-17-36-06.png, Clipboard_2020-01-31-17-36-25.png, Clipboard_2020-01-31-17-45-50.png, Clipboard_2020-01-31-17-46-02.png, Clipboard_2020-01-31-17-47-21.png, Clipboard_2020-01-31-17-47-38.png, Clipboard_2020-01-31-17-49-45.png, Clipboard_2020-01-31-17-52-29.png, Clipboard_2020-01-31-17-55-36.png, Clipboard_2020-01-31-17-57-25.png, Clipboard_2020-01-31-17-58-57.png, Clipboard_2020-01-31-18-15-45.png, Clipboard_2020-01-31-18-20-52.png, Clipboard_2020-01-31-18-22-08.png, Clipboard_2020-02-01-14-02-53.png, Clipboard_2020-02-01-14-03-17.png, Clipboard_2020-02-01-14-04-35.png, Clipboard_2020-02-01-14-19-44.png, Clipboard_2020-02-01-14-23-12.png, Clipboard_2020-02-01-14-26-11.png, Clipboard_2020-02-01-14-28-02.png, Clipboard_2020-02-01-14-29-12.png, Clipboard_2020-02-01-14-30-30.png, Clipboard_2020-02-01-14-32-34.png, Clipboard_2020-02-01-14-39-56.png, Clipboard_2020-02-03-17-29-52.png, Clipboard_2020-02-03-17-30-52.png, Clipboard_2020-02-03-17-31-47.png, Clipboard_2020-02-03-17-32-49.png, Clipboard_2020-02-03-17-34-11.png, Clipboard_2020-02-03-17-35-42.png, Clipboard_2020-02-03-17-37-13.png, Clipboard_2020-02-03-17-38-09.png, Clipboard_2020-02-03-17-39-21.png, Clipboard_2020-02-03-17-43-28.png, Clipboard_2020-02-03-17-47-27.png, Clipboard_2020-02-03-17-50-42.png, Clipboard_2020-02-03-17-55-27.png, Clipboard_2020-02-03-18-00-04.png, Clipboard_2020-02-03-18-03-09.png, Clipboard_2020-02-03-18-04-02.png, Clipboard_2020-02-03-18-04-09.png, Clipboard_2020-02-03-18-06-25.png, Clipboard_2020-02-03-18-08-26.png, Clipboard_2020-02-03-18-08-59.png, Clipboard_2020-02-03-18-10-14.png, Clipboard_2020-02-03-18-17-49.png, Clipboard_2020-02-03-18-18-28.png, Clipboard_2020-02-03-18-19-34.png, Clipboard_2020-07-21-17-33-20.png, Clipboard_2020-07-21-17-54-27.png, Clipboard_2020-07-21-19-47-57.png, Clipboard_2020-07-22-08-21-45.png]
 title: 'Module 2: Functions'
 created: '2020-01-28T21:27:12.651Z'
-modified: '2020-07-24T00:02:21.963Z'
+modified: '2020-07-28T12:02:49.217Z'
 ---
 
 # Module 2: Functions
@@ -25,7 +25,7 @@ If you wanted to group all those statements together _(generally they are relate
 
 Functions can take in data, those are known as **arguments** _(we will discuss the difference between arguments and parameters shortly)_.  When you pass data to a function, it is known as an argument. 
 
-Functions perform some work (a statement), and sometimes they also return a value.
+Functions perform some work (a statement), and sometimes they also return a value.`
 
 Let's look at an example in the console using `Math.max()` _(this is actually a method, and we will explain the difference between a function and a method shortly, it is not much)_. 
 
@@ -1152,7 +1152,7 @@ The way we can tell this is an implicit return is that:
 
 If you refresh in the browser, you will see that it still works.
 
-_To recap: what we did there is we removed the function block, modified the code to be on one line, and removed the explicit return. _
+_To recap: what we did there is we removed the function block, modified the code to be on one line, and removed the explicit return._
 
 Finally, and this is more of a stylistic choice, if there is only ever one parameter for your function, you can actually get rid of the paranthesis around the parameter as well, like so👇
 
@@ -1164,7 +1164,7 @@ If there is only one parameter in your arrow function, you can remove them no pr
 
 Let's do another example!
 
-Make a function called `add`, that takes in two parameters (first one `a` and second one`b`), we have set a default value of 3 in b. Then we make a temporary variable called total which we return.
+Make a function called `add`, that takes in two parameters `a` and `b`, with the default value of `b` being 3. We will then we make a temporary variable called total which we return.
 
 ```js
 function add(a, b = 3) {
@@ -1172,17 +1172,28 @@ function add(a, b = 3) {
   return total;
 }
 ```
-Pause the video now, try to convert it to an arrow function yourself and then come back to the video.
 
-Let's first see if it works as it originally was. Save the code from above and refresh `index.html` in the browser. Open the console and test the function.
+Pause here, try to convert it to an arrow function yourself and then come back once you have tried it.
+
+Let's first see if it works as it originally was. 
+
+Save the code from above 👆 and refresh `index.html` in the browser. 
+
+Open the console and test the function.
 
 ![](@attachment/Clipboard_2020-01-30-19-48-27.png)
 
-You might notice that dev tools is giving us an annotation (?b), and that little question mark infront of b is telling us that the argument is optional. (`b` if optional because there is a default value to fall back on)
+You might notice that dev tools is giving us an annotation "?b" in  `ƒ(a,?b)` as shown above. 
 
-First thing we will do is stick the function in a variable calld add and remove the function name. `const add => function(a, b = 3) }`
+That little question mark infront of b is telling us that the argument is optional. `b` if optional because there is a default value to fall back on.
 
-Next we will convert it to an arrow function. Get rid of the keyword function and add a fat arrow to the right of the paranthesis. 
+Stick the function in a variable `add` and remove the function name, like so 👇
+
+```js
+const add => function(a, b = 3) }
+```
+
+Next, convert it to an arrow function. Get rid of the keyword function and add a fat arrow to the right of the paranthesis, as shown below. 
 
 ```js
 const add = (a, b = 3) => {
@@ -1191,7 +1202,7 @@ const add = (a, b = 3) => {
 }
 ```
 
-Next we will return just `a + b` and get rid of the total variable. 
+Modify the code to return `a + b` and get rid of the total variable. 👇
 
 ```js
 const add = (a, b = 3) => {
@@ -1199,25 +1210,33 @@ const add = (a, b = 3) => {
 }
 ```
 
-The next thing is put it on it's own line.
+Put the function on one line.
 
 ```
 const add = (a,b = 3) => { return a + b; }
 ```
 
-Then we can get rid of the function block and return keyword. 
+Get rid of the function block and the `return` keyword like so 👇
 
 ```js
 const add = (a, b = 3) => a + b;
 ```
 
-Now we have a short arrow function! You may have noticed that we did not get rid of the parentheses, and that is because there is more than one parameter. 
+Now we have a short arrow function! 
 
-There are a couple of other gotchas with arrow functions that we need to know about. Let's go over them now.
+You may have noticed that we did not get rid of the parentheses, and that is because there is more than one parameter. 
 
-**Returning an object**
+### Arrow Function Gotcha's 
 
-let's make a function called `makeABaby()` that will take in the babies first and last name. Inside of the function we will have an object call baby, with a name and age.
+There are a couple of other gotchas with arrow functions that we need to know about. 
+
+Let's go over them now.
+
+##### Returning an object
+
+Let's make a function `makeABaby()`, which will accept a first and last name for the baby. 
+
+Inside of the function, create an object `baby` with a `name` and `age` property. 👇
 
 ```js
 function makeABaby(first,last){
@@ -1229,12 +1248,13 @@ function makeABaby(first,last){
 }
 ```
 
-
 It works!
 
 ![](@attachment/Clipboard_2020-01-30-19-58-43.png)
 
-How would we convert this to an arrow function? First we will stick it in a variable, and convert it to an arrow. 
+How could you convert this to an arrow function? 
+
+Stick, stick it in a variable, and convert it to an arrow function like so 👇
 
 ```js
  const makeABaby = (first,last) => {
@@ -1246,9 +1266,13 @@ How would we convert this to an arrow function? First we will stick it in a vari
 }
 ```
 
-If your function needs to do some stuff inside of the block, you can leave it as is. This is a perfectly valid arrow function. If the only thing you're using the arrow for is the ablity to type less as well as some of the benefits of not scoping this, this is totally valid.  However we can take it a bit further. 
+If your function needs to do some stuff inside of the block, you can leave it as is. This is a perfectly valid arrow function. 
 
-Instead of declaring the baby variable we will just return the object directly.
+If the only thing you're using the arrow for is the ablity to type less as well as some of the benefits of not scoping this, this is totally valid.  
+
+However we can take it a bit further. 
+
+Instead of declaring the `baby` variable we will just return the object directly. 👇
 
 ```js
  const makeABaby = (first, last) => {
@@ -1260,27 +1284,38 @@ Instead of declaring the baby variable we will just return the object directly.
 ```
 
 Now the question is... how would we do the implicit return?
-We can put it on one line, no problem. (Objects can be put on one line).
-But how would we return it. Let's try it. 
 
-First put it on one line.
+We can put it on one line, no problem _(objects can be put on one line)_.
+
+But how would we return it? 
+
+Let's try it the way we know. 
+
+Put it on one line.
 
 ```js
 const makeABaby = (first, last) => {return { name: `${first} ${last}`, age: 0}};
 ```
 
-Now if we want to make it an implicit return, we get rid of the curly brackets and the return. 
+To make it an implicit return, get rid of the curly brackets and the `return` keyword.  👇
 
 ```js
 const makeABaby = (first, last) => { name: `${first} ${last}`, age: 0};
 ```
 
-However, you will see this error if you try to run the code like that.
 ![](@attachment/Clipboard_2020-01-30-20-06-08.png)
 
-Whats happening there is it thinks that the curly bracket from the baby object is actually the curly object from the block of the function. Curly brackets in javscript can be creation of an object, or a block of code. So how do you implicitly return an object when it gets confused about what it actually is. 
+However, you will see the above 👆 error if you try to run the code like that.
 
-If you want to implictly return an object in javascript, you just pop a set of parentheses around the thing that you are returning and that will contain it and it won't think it's the block fo the function. 
+Whats happening there is it thinks that the curly bracket from the baby object is actually the curly object from the block of the function. 
+
+Curly brackets in javscript can be creation of an object, or a block of code.
+
+What are you options to implicitly return an object then? 
+
+If you want to implictly return an object in javascript, you just pop a set of parentheses around the thing that you are returning and then the code will know that it's not the block to the function. 
+
+Try it by modifying your code like so 👇
 
 ```js
 const makeABaby = (first, last) => ({ name: `${first} ${last}`, age: 0});
@@ -1288,17 +1323,25 @@ const makeABaby = (first, last) => ({ name: `${first} ${last}`, age: 0});
 
 If you try it in the code, it still works.
 
-Now is there a benefit of having the function this way or how we did it originally? Wes doesn't think so. Youre not really getting much benefit, in fact the way we had it originally was a bit more readable. 
+Now... is there a benefit of having the function this way or how we did it originally? Wes doesn't think so. 
 
-There is nothing wrong with doing a regular function, because you want to think about your future self. Let's say you come back to the code in 6 months, what will be easier for you to read? Don't always go to making an arrow function by default, and hopefully throughout this course it will become more clear when you should reach for an arrow function (specifically with arrays and doing maps and reduce and filters).
+You're not really getting much benefit, in fact the way we had it originally was a bit more readable. 
 
-**IIFE**
-The next way to clear a function is using an IIFE (pronounced iffy). 
-That is an immediately invoked function expression. 
+There is nothing wrong with doing a regular function, because you want to think about your future self. 
+
+Let's say you come back to the code in 6 months, what will be easier for you to read? 
+
+Don't always go to making an arrow function by default, and hopefully throughout this course it will become more clear when you should reach for an arrow function (specifically with arrays and doing maps and reduce and filters).
+
+#### IIFE
+
+The next way to create a function is using an **IIFE** (pronounced **iffy**). 
+
+That is an **immediately invoked function expression**. 
 
 We will do an example to demonstrate was an IIFE is. 
 
-Add this function to our code (comment out the other code) and refresh `index.html`.
+Comment out all the other javascript code, add the code below and then refresh `index.html`. 👇
 
 ```js
 function(){
@@ -1307,9 +1350,12 @@ function(){
 }
 ```
 
-Nothing happens when you refresh `index.html` because it's not allowed to. We talked about how you can stick a function in a variable and that is okay. Another way to run this function is what is called an immediately invoked functional expression. 
+Nothing happens when you refresh `index.html` because it's not allowed to run. 
+We talked about how you can stick a function in a variable and that is okay. 
 
-What you can do is wrap that function in a parantheses, (parentheses always run first in javascript), and what that will do is return a function value and you can immediately run that function by putting paranthesis on the end like so:
+Another way to run this function is what is called an **immediately invoked functional expression.** 
+
+What you can do is wrap that function in a parantheses, _(parentheses always run first in javascript)_, and what that will do is return a function value and you can immediately run that function by putting paranthesis on the end like so 👇
 
 ```js
 (function(){
@@ -1318,44 +1364,52 @@ What you can do is wrap that function in a parantheses, (parentheses always run 
 })();
 ``` 
 
-Now, if you refresh the page, you will see the console.log which means that our function expression was immediately invoked. It was immediately run. 
+Now, if you refresh the page, you will see the log in the console which means our function expression was immediately invoked. It was immediately run. 
 
-What is the benefit of doing something like that? It used to be very popular before we had modules and block scope, you will realize when we get into scoping that a function declares its own scope and its often handy to even declare functions inside of the thing, and it will provide us a sheltered space where the variables can't leak inside. We will go over that later in the course. 
+What is the benefit of doing something like that? 
+
+It used to be very popular before we had modules and block scope.
+
+When we get into scoping, you will learn that a function declares its own scope and its often handy to even declare functions of them, and it will provide us a sheltered space where the variables can't leak inside. We will go over that later in the course. 
 
 For now, just know that it's an immediate invoked function. 
 
-One last thing is what if the function took an age? You would pass it like so:
+One last thing is what if the function took an age? You would pass it like so 👇
 
-```
+```js
 (function(age){
   console.log('Running the Anon function');
   return `Your are cool and ${age}`;
 })(age)
 ```
 
-That isn't something you will be using that often, but it does come up when you need to create something like a closure (epxlained in future video). 
+That isn't something you will be using that often, but it does come up when you need to create something like a **closure** _(which will be explained in future video)._ 
 
-**Methods**
+### Methods
 
-Next type of function we have is called methods. 
-
-Wes has so far sort of been saying that methods and functions are the same thing and we have a video coming up that focused entirely on creating your own methods.  
+Next type of function we will learn about are referred to as **methods**. 
 
 A method is simply a function that lives inside of an object. 
 
-If we take a look at the function `console.log` in the browser, so far Wes has been telling us that `console.log()` is a function. But he has been lying to us.   
+_(Wes has so far sort of been saying that methods and functions are the same thing and we have a video coming up that focused entirely on creating your own methods that will make that clearer)._
 
-`log()` is actually the functino that lives inside of console, and console is actually an object. If you type `console` into the console and open it up, you will see that there are all kinds of things within it.
+So far Wes has been telling us that `console.log()` is a function.
+
+If we take a look at the function `console.log` in the browser, we will see that he has been lying to us.   
+
+`log()` is actually the function that lives inside of `console`, and `console` is actually an object. 
+
+If you type `console` into the console and expand it, you will see that there are all kinds of things within it. 👇
 
 ![](@attachment/Clipboard_2020-01-30-20-26-46.png)
 
-Scroll down to log, and the little f ![](@attachment/Clipboard_2020-01-30-20-27-19.png) you see means that it's actually a function.
+Scroll down to log, and the little ƒ  you see means that it's actually a function 👉![](@attachment/Clipboard_2020-01-30-20-27-19.png)
 
 So `console` is the object and `log()`, `count()` or any of the other functions listed under the console object are the functions. 
 
-We have a special word to describe functions that live inside of an object and we call those methods. 
+We have a special word to describe functions that live inside of an object and we call those **methods**. 
 
-So we can actually do something like this..
+So you can actually do something like this.. 👇
 
 ```js
 const wes = {
@@ -1367,12 +1421,18 @@ const wes = {
 }
 ```
 
-Try it in the browser, first type `wes` and hit enter and next type `wes.sayHi()` and hit enter. You should see the following:
+Try it in the browser. 
+
+First type `wes` and hit enter. 
+Next, type `wes.sayHi()` and hit Enter. 
+
+You should see the following 👇
+
 ![](@attachment/Clipboard_2020-01-30-20-30-25.png)
 
-Wes.sayHi() is a method. You make it a property on your object and you set it to a function.
+`wes.sayHi()` is a **method**. You make it a property on your object and you set it to a function.
 
-Those functions can also have names. Sometimes you will see something like this:
+Those functions can also have names, for example sometimes you will see something like this 👇
 
 ```js
 const wes = {
@@ -1384,9 +1444,9 @@ const wes = {
 }
 ```
 
-Wes doesn't see the point of doing something like that, but it is technically allowed. 
+Wes doesn't see the point of doing that, but it is technically allowed. 
 
-There is also a new shorthand method. 
+There is also a new shorthand method. 👇
 
 ```js
 const wes = {
@@ -1405,11 +1465,13 @@ const wes = {
 
 If you refresh the browser and type `wes.yellHi()`, it will work.  
 
-What we did there is instead of writing `sayHi: function()`, which will work, we can get rid of the function keyword and the colon and what that will do is make a property called `yellHi()` set to a function `yellHi`. It's just a shorthand way to write methods inside of an object.
+What we did there is instead of writing `sayHi: function()` _(which does work)_, we can get rid of the `function` keyword and the `;`. bThat makes it into a property, `yellHi()`, which set to the function `yellHi`. 
 
-There is another way, which is an arrow function. 
+It's just a shorthand way to write methods inside of an object.
 
-```sj
+There is another way, which is an arrow function. 👇
+
+```js
 const wes = {
   name: 'Wes Bos',
   // Method!
@@ -1425,26 +1487,33 @@ const wes = {
    whisperHi: () => {
      console.log('hiii wess im a mouse');
    }
+};
 ```
 
 `whisperHi()` is an arrow function that doesn't take any arguments, but it could take in arguments if you wanted.
 
-Those are three different ways to do methods and the short hand is the most common way.
-The only reason you would do an arrow function is because you don't want to access this.
+Those are 3 different ways to do methods and the short hand is the most common way.
 
-The only reason you would do an arrow function is because you don't want to access this. We will go over that when we get to objects but really quickly Wes will show us. 
+### Preview of `this` 
 
-If you modify the `sayHi()` method to add `console.log(this);` and ran it in the browser
+The only reason you would do an arrow function is because you don't want to access `this`. 
+
+We will go over that in detail when we get to objects but really quickly Wes will show us. 
+
+Modify the `sayHi()` method to add `console.log(this);` and run it in the browser 👇
 
 ```js
  sayHi: function sayHi(){
     console.log(this);
 ```
-You will see that on the line in our code that we console logged, we will see the value of `this` returned. 
+
+You will see that on the line in our code that we logged, like `50`, the value of `this` has been returned. 
 
 ![](@attachment/Clipboard_2020-01-30-20-43-26.png)
 
-`this` is equal to the object that it was called against. That is cool because you could actually do something like this:
+((`this`)) is equal to the object that it was called against. 
+
+That is cool because you could actually do something like this 👇
 
 ```js
 const wes = {
@@ -1454,28 +1523,30 @@ const wes = {
     console.log(`Hey ${this.name}`);
     console.log('Hey Wes!');
     return 'Hey Wes!';
-  },...
+  }
 ```
 
-You would see it immediately fulls the value of the name property. 
+You would see it immediately fills the value of the name property. 👇
 
 ![](@attachment/Clipboard_2020-01-30-20-44-42.png)
 
-That will not work in an arrow function because they take the parent scope of this. We will explain that in the future. 
+That will not work in an arrow function because they take the parent scope of `this`. We will explain that in the future. 
 
+### Callback Functions
 
-**Callback Functions**
-The final thing Wes wants to talk to us is something called callback functions.
+The final thing Wes wants to talk to us is something called **callback functions**.
 
-So a callback function is just a regular function, but we sort of use that name for something that will happen when something is done. The easiest way to define a callback function is either when someone clicks something, run this. Or when this amount of time has passed, run this.
+So a callback function is just a regular function, but we use that name for something that will happen after something is done. 
+
+The easiest way to define a callback function is either when someone clicks something, run this. Or when this amount of time has passed, run this.
 
 Let's look at both of those examples.
 
-**Example 1**
+#### Callback Example 1 - Click Callback
 
 We will do a click callback. 
 
-Go into our `index.html` file and give ourselves a button that say click me and give that a class of `clickMe`.
+Go into `index.html` and add a button with a class of `clickMe` and text of "Click Me!" 👇
 
 ```html
 <!DOCTYPE html>
@@ -1494,11 +1565,10 @@ Go into our `index.html` file and give ourselves a button that say click me and 
 </html>
 ```
 
-Go back to the javascript file. 
+Back in the Javascript file, let's select the element like so 👇
+_(we will cover the DOM in more depth later)_
 
-We will select the element (we will go over in depth more about the DOM later) like so
-
-```
+```js
 const button = document.querySelector('.clickMe');
 console.log(button);
 ```
@@ -1506,25 +1576,28 @@ Refresh the page and open the console to see that it works.
 
 ![](@attachment/Clipboard_2020-01-30-20-57-19.png)
 
-Now we are goign to listen for a clikc on that button like so:  
+Next, lsten for a click on that button as shown below
 
-```
+```js
 const button = document.querySelector('.clickMe');
 button.addEventListener('click', wes.yellHi());
 ```
 
-When that click hapens, we can pass it to any function that we want. in this case, we chose `sayHi()` from our `wes` object from a previous example. 
+When that click happens, we can pass it to any function that we want. in this case, we chose `sayHi()` from our `wes` object from a previous example. 
 
-Now, everytime you click it, it will say HEY WESSSS
+Now, everytime you click it, it will say "HEY WESSSS" 👇
 
 ![](@attachment/Clipboard_2020-01-30-20-59-21.png)
 
+What is happening there is that `.addEventListener()` is an **event listener** that we are listening for a click on, and the callback function is `wes.sayHi()`. 
 
-What is happening there is that `.addEventListener()` is an event listener that we are listening for a click on, and the callback function is `wes.sayHi()`. 
+It's a fujnction that we give it access to. 
 
-It's a functino that we give it access to. Notice that we are not running it there, we are just saying here is the function dear browser, when someone clicks that button please be a dear and calll that function. That is what is referred to as a callback function.
+Notice that we are not running it there, we are just saying here is the function, when someone clicks the button, please call it. 
 
-Callback functions can be declared outside of the handler, so making a function like
+That is what is referred to as a callback function.
+
+Callback functions can be declared outside of the handler, like so 👇
 
 ```js
 function handleClick(){
@@ -1533,14 +1606,12 @@ function handleClick(){
 button.addEventListener('click', handleClick);
 ```
 
-What we are telling the browser to do here is that when someone clicks the element with the class '.clickMe`, run the functino called `handleClick`. 
+That tells the browser that when the element with a class of  `.clickMe` is pressed, run the `handleClick` function. The other option, which is half as common, is to define the function outside and then pass in the reference to the function. 
 
- The other option, that is probably half as common, where you define the function outside and then pass in the reference to the function. 
-Another thing you can do is just pass it an anonymous function. You can do this
+Another thing you can do is just pass it an anonymous function, as shown below.
 
-```
-
-button.addEventListener('click', functino(){
+```js
+button.addEventListener('click', function(){
   console.log('nice Job!');
 });
 ```
@@ -1549,13 +1620,17 @@ button.addEventListener('click', functino(){
 
 And it works just fine when you press it. 
 
-What we have done there is we have passed it an anonymous function as a value directly and the browser will know to call this function itself. There are upsides and downsides of doing it that way which we will get into another time. 
+We have What we have done there is we have passed it an anonymous function as a value directly, and the browser will know to call this function itself.  _(There are upsides and downsides of doing it that way which we will get into another time.)_
 
-What you need to know is that a callback function is a function that gets passed into another function and then it is called by the browser at a later point in time.
+What you need to know is that a **callback function is a function that gets passed into another function and then it is called by the browser at a later point in time.**
 
-The other example we have is a timer callback. There are a couple way to do timers (we will go over all of them in the future) but the simplest is `setTimeout()`.
+### Timer Callback 
 
-```
+The other example we have is a timer callback. 
+
+There are a couple way to do timers _(we will go over all of them in the future)_ but the simplest is `setTimeout()`.
+
+```js
 setTimeout();
 ```
 
@@ -1563,6 +1638,8 @@ It takes two things:
 1. a function to call after a certain amount of time
 2. a duration in milliseconds (after how long should I run this)
 
+
+ANJA stopped here what does run the page mean
 
 So let's do `1000` milliseconds which is one second later. If we run the page after one second, it will run 
 
@@ -1574,7 +1651,7 @@ If we run the page after one second, it will run HEY WES.
 
 You can also pass it an anonymous function.
 
-```
+```js
 setTimeout(function(){
   console.log('DONE TIME TO EAT');
 }, 1000);
@@ -1600,18 +1677,32 @@ There are two parts of debugging:
 1. there are tools you can use to get info when things go wrong
 2. the right mindset to be a good problem solver
 
-This video will focus on the tools. What Wes' hopes for is that as you go through the course, anytime we start to hit a roadblock, Wes won't cut it out of the video, he will leave it in and show us his thought process.
+This video will focus on the tools. 
 
-Go into the exercises folder, there is a folder 16 called Debugging and then inside of that there is a file called `debugging-START.js` and `debugging.html`. 
-If you open `debugging.html`, you will see that it's just a basic html file where we are loading base css, we have a button that says make me bigger and then a script tag that is loading `debugging.js` which doesn't exist yet. Make a copy of the `debugging-START.js` file and save it as `debugging.js`. 
+As you go through the course, anytime we start to hit a roadblock, Wes won't cut it out of the video, he will leave it in and show us his thought process.
 
-This file contains a bunch of stuff we haven't learned yet: arrays of objects, loops, functions, event listeners, etc. It doesn't matter that we don't know what all those different things do yet, Wes will explain that later and we will learn how to build our own. This is more so we can test different types of debugging. 
+We will be working out of the `16 - Debugging` folder which is in the `exercises` directory. Within that folder, there should be two files: `debugging-START.js` and `debugging.html`. 
+
+If you open `debugging.html`, you will see that it's just a basic html file where we are loading our base CSS, we have a button that says make me bigger and then a script tag that is loading `debugging.js` which doesn't exist yet. 
+
+Make a copy of the `debugging-START.js` file and save it as `debugging.js`. 
+
+This file contains a bunch of stuff we haven't learned yet: 
+- arrays of objects, 
+- loops, 
+- functions
+- event listeners
+- etc.
+
+It doesn't matter that we don't know what all those different things do yet, Wes will explain them later and we will learn how to build our own. This is more so we can test different types of debugging. 
+
+### Console Debugging 
 
 We will start with console debugging. 
 
-There is `console.log()` which is the most common one you'll see. 
+There is `console.log()` which is the most common one you'll see. 👇
 
-```
+```js
 people.forEach((person, index) => {
   console.log(person.name);
 });
@@ -1619,33 +1710,43 @@ people.forEach((person, index) => {
 
 There is `console.info(person.name)` which usually gives you a little eye and cirlce beside the console output but it doesn't seem to be there right now.
 
-There is `console.error(person.name)`. That isn't used for throwing or handling errors (we will learn about that), this just changes what the log looks like in the console. 
+There is `console.error(person.name)`. 
+
+That isn't used for throwing or handling errors (we will learn about that), this just changes what the log looks like in the console, as shown below 👇
 
 ![](@attachment/Clipboard_2020-01-31-17-46-02.png)
 
-It also gives you a stack trace:
+It also gives you a stack trace 👇
+
 ![](@attachment/Clipboard_2020-01-31-17-47-21.png)
 
-There is `console.warn()` which is very similar to `console.log()` 
+There is `console.warn()` which is very similar to `console.log()` 👇 
 
 ![](@attachment/Clipboard_2020-01-31-17-47-38.png)
 
-There is `console.table()`. Anytime you have a list of objects, and the objects have the same property (meaning the objects all have `name`,`cool`, and `country` properties), `console.table()` will format that into a nice little table.
+There is `console.table()`. 
 
-```
+Anytime you have a list of objects, and the objects have the same property (meaning the objects all have `name`,`cool`, and `country` properties), `console.table()` will format that into a nice little table.
+
+```js
 console.table(people);
 ```
+
 ![](@attachment/Clipboard_2020-01-31-17-49-45.png)
 
-There is `console.count()`. This is useful if you want to know how many times a function is being run. If we go into the `doctorize()` function in `debugging.js` and add a `console.count('runinng doctorize');`, and then refresh the html page, now everytime you type `doctorize('wes');` in the console, the console will log a count. 
+There is `console.count()`. 
+
+This is useful if you want to know how many times a function is being run. 
+
+If we go into the `doctorize()` function in `debugging.js` and add `console.count('runinng doctorize');`, and then refresh the html page, everytime you type `doctorize('wes');` in the console, the console will log a count. 
 
 ![](@attachment/Clipboard_2020-01-31-17-52-29.png)
 
-That is useful in a scenario where you aren't sure if a function is running twice, or somethings you are working with hover elements and it's getting triggered way too often. `console.count()` will show you how many times it's actually running. 
+That is useful in a scenario where you aren't sure if a function is running twice, or sometimes you are working with hover elements and it's getting triggered way too often. `console.count()` will show you how many times it's actually running. 
 
-You can also pass variables to `console.count()`. If you were to change the example to backticks
+You can also pass variables to `console.count()`. To demonstrate that, let's change the exaample to use backticks, like so 👇
 
-```
+```js
 function doctorize(name) {
   console.count(`running Doctorize for ${name}`);
   return `Dr. ${name}`;
@@ -1656,18 +1757,23 @@ Now if you type in the console `doctorize('wes')`, it will show the count, but i
 
 ![](@attachment/Clipboard_2020-01-31-17-57-25.png)
 
-But if you call `doctorize('wes');` again, it maintains that. 
+But if you call `doctorize('wes');` again, it maintains that count. 
 
 ![](@attachment/Clipboard_2020-01-31-17-58-57.png)
 
-So it's based on what strings you pass to the console.count().
+`console.count()` is based on what strings you pass it. 
 
-Next we have `console.group()`, that can be helpful if you have a bunch of stuff to console.log(). 
+Next we have `console.group()`, that can be helpful if you have a bunch of stuff to log. 
 
-We will make a function `doALotOfStuff` to demonstrate. Comment out all of the example consoles we have gone over so far. 
+We will make a function `doALotOfStuff` to demonstrate this.
+ 
+Comment out all of the example consoles we have gone over so far. 
 
+```js
+console.group("Doing some stuff")
+```
 
-Add `console.group("Doing some stuff")`, and then underneath it add a few more consoles such as log, warning, error. Then add `console.groupEnd()` and pass it the same string we had passed to `console.group()`. 
+👆Add the code above, and then underneath it, add a few more consoles such as log, warning, error. Then add `console.groupEnd()` and pass it the same string we had passed to `console.group()`, like so 👇
 
 ```js
 function doALotOfStuff() {
@@ -1681,9 +1787,11 @@ function doALotOfStuff() {
 
 ![](@attachment/Clipboard_2020-01-31-18-15-45.png)
 
-What it does is it groups together all of `console.log()` into a groupable thing, and that can be very helpful. We will do another example in the `people.forEach()` method. 
+What that does is it groups together all of the logs into a groupable thing, and that can be very helpful. 
 
-```
+We will do another example in the `people.forEach()` method. 
+
+```js
 people.forEach((person, index) => {
   console.group(`${person.name}`);
   console.log(person.country);
@@ -1695,50 +1803,72 @@ people.forEach((person, index) => {
 
 ![](@attachment/Clipboard_2020-01-31-18-20-52.png)
 
-It nicely organizes the people into their separate collapsable section.
+As you can see, it nicely organizes the people into their separate collapsable section. 👆
 
-You can actually also do `console.groupCollapse()` which will by default collapse all the groups. 
+```js
+console.groupCollapse()
+````
+
+You can actually also use the `.groupCollapse()` method shown above 👆 which will by default collapse all the groups, as shown below 👇. 
+
 ![](@attachment/Clipboard_2020-01-31-18-22-08.png)
 
 Those are the main console methods that Wes uses to debug something.
 
 Comment out all the `console.group()` code. 
 
-Next we will talk about something called the **call stack** or the **stack trace**. The stack trace will tell you which function called what function calledw hat functino.
+## The Call Stack and Stack Trace
+Next we will talk about something called the **call stack** or the **stack trace**. _The stack trace will tell you which function called what function called what function._
 
-If you scroll down to the function `go()`, you will see that it calls `doctorize()`, which will first call greet. There is a lot going on in that.
+If you scroll down to the function `go`, you will see that it calls `doctorize`, which will first call `greet`. 
+
+There is a lot going on in the code. 
 
 ![](@attachment/Clipboard_2020-02-01-14-03-17.png)
 
 You will notice that inside of `greet()` we have this function that doesn't exist, and that wil cause an error. If we try to run that from the console, you will see an uncaught reference error. 
 
-If you expand the error, you will see a few message below, that is often ignored by new developers but is actually very useful in debugging. 
+If you expand the error, you should see a few message below, which are often ignored by new developers but are actually very useful in debugging. 
+
 If you want to know what went wrong, you have to get good at reading the call stacks. It's pretty simple!
 
 ![](@attachment/Clipboard_2020-02-01-14-04-35.png)
 
-What that is saying is the error hapened hre, at `greet()` which is on line 47 of `debugging.js`, which is where the actual error hapepned. 
+In the error log above, the console it letting us know that the error happened at the `greet()` function, which is on line 47 of `debugging.js`. This is where the actual error happened. 
 
-That is good, but errors aren't always that easy. You might need to know where the `greet()` function was called from. 
+That is good, but errors aren't always that easy. 
 
-So you go to the next line which tells you that it was was called by `go()` on line 52. And then it says `at <anonymous>:1:1`. What does that mean? That is because we called it from the console. If we actually made another function that called go instead like so:
+You might need to know where the `greet()` function was called from. 
 
-```
+To figure that out, you would go to the next line which tells you that it was was called by `go()` on line 52. 
+
+And then it says `at <anonymous>:1:1`. What does that mean? 
+
+We are getting that message because we called the function from the console. 
+
+That would look different if we actually made another function that called go instead like so 👇
+
+```js
 function bootstrap(){
   console.log('starting the app!);
 }
 ```
 
-Now if you call `bootstrap()` from the console, you will see:
+If you call `bootstrap()` from the console, you will see 👇
+
 ![](@attachment/Clipboard_2020-02-01-14-19-44.png)
 
 If you were to modify `debugging.js` to add a call to bootstrap on page load like so: `bootstrap();`, you won't see that anonymous function line in the call stack.
 
 ![](@attachment/Clipboard_2020-02-01-14-23-12.png)
 
-Now comment out the `bootstrap()` call. 
+Go ahead and comment out the `bootstrap()` call now. 
 
-Next we will learn about the grabbing of elements. This is a handy tip that Wes' uses often. If you're on a website, and you're inspecting it, and focusing on an element such as this input from Mozilla's website by clicking on it in the element inspector, if you flip over to the console and type `$0`, it will return to you whatever element you had currently selected in the elements tab.
+## Grabbing Elements
+
+Next we will learn about the grabbing of elements. 
+
+This is a handy tip that Wes' uses often. If you're on a website, and you're inspecting it, and focusing on an element such as this input from Mozilla's website by clicking on it in the element inspector, if you flip over to the console and type `$0`, it will return to you whatever element you had currently selected in the elements tab.
 
 ![](@attachment/Clipboard_2020-02-01-14-26-11.png)
 
@@ -1748,29 +1878,44 @@ That is very useful because now you could do something like call `$0.value()` ag
 
 ![](@attachment/Clipboard_2020-02-01-14-29-12.png)
 
-You might be wondering, what does `0` int the `$0` mean. It means the last element that was clicked. If you were to go back to the elements tab, select another element like a button, when you go back to the console `$0` will give you the button element at `$1` will give you the input. 
+You might be wondering, what does `0` int the `$0` mean. 
+
+It means the last element that was clicked. 
+
+If you were to go back to the elements tab, select another element like a button, when you go back to the console `$0` will give you the button element and`$1` will give you the input. 
 
 ![](@attachment/Clipboard_2020-02-01-14-30-30.png)
 
-You can keep going forever, if you click another element, it will remembering the order in which they were clicked. 
+You can keep going forever, if you click another element, it will remember the order in which they were clicked. 
 
-Another cool thing you do is the use the `$` and `$$` symbol in the console. You cannot use these things in your code, it only works in the console. Also, if jQuery is loaded on the page, that won't work.
+Another cool thing you do is the use the `$` and `$$` symbol in the console. 
+You cannot use these things in your code, it only works in the console. Also, if jQuery is loaded on the page, that won't work.
 
 ![](@attachment/Clipboard_2020-02-01-14-32-34.png)
 
-Those are shorthand selectors for two things we will learn about in a future video about the DOM. Those selectors will allow us to select things based on selectors. 
+👆 Those are shorthand selectors for two things we will learn about in a future video about the DOM. Those selectors will allow us to select things based on selectors. 
 
-`$('p')` will give us `document.querySelector()`, which will match the first thing that matches the selector passed.  whereas `$$('p')` will match ALL of the elements that match the selectors. 
+`$('p')` will give us `document.querySelector()`, which will match the first thing that matches the selector passed. 
+
+`$$('p')` will match ALL of the elements that match the selectors. 
 
 ![](@attachment/Clipboard_2020-02-01-14-39-56.png)
 
 In the value returned from `$('p')` you can see it found the first paragraph, and with `$$('p')`, it found all of the `p` elements on the page. 
 
+## Breakpoints 
+
 Next we will talk about breakpoints.
+ 
+```js
+console.log(person.name);
+```
 
-Go into the `people.forEach()` method and delete all the console.logs that we had commented out within it and add a `console.log(person.name);`. If you refresh the html page, you will see everyones name logged to the console.
+Go into the `people.forEach()` method and delete all the logs that we had commented out within it and add the code above 👆
 
-What you can do is, within the `people.forEach()` method, if you want to pause javascript from running, you can type `debugger;`, like so:
+If you refresh the html page, you will see everyones name logged to the console.
+
+What you can do is, within the `people.forEach()` method, if you want to pause javascript from running, you can type `debugger;`, like so 👇
 
 ```js
 people.forEach((person, index) => {
@@ -1783,21 +1928,27 @@ people.forEach((person, index) => {
 
 That is a statement that only takes into effect when your dev tools are open, and it will pause javascript from running and allow us to peer into javascript at that very moment.
 
-If you refresh `debugging.html` now, what happens is that we have set what is called a **breakpoint**. What you are saying when you set a breakpoint is you are telling javascript to break at this certain time. 
+If you refresh `debugging.html` now, what happens is that we have set what is called a **breakpoint**. When you set a breakpoint, you are telling javascript to break execution of code when it reaches that line. 
 
 ![](@attachment/Clipboard_2020-02-03-17-32-49.png)
 
 This gives you a whole bunch of information as to what happened. 
 
-If you hover over it, it will show you what the variables are equal to at this point in time: ![](@attachment/Clipboard_2020-02-03-17-34-11.png)
+If you hover over it, it will show you what the variables are equal to at this point in time.
 
-You can see that the javascript has paused and if you go to the console, you will see that nothing has been logged yet. Flip back to the sources tab.
+![](@attachment/Clipboard_2020-02-03-17-34-11.png)
 
-On the right handside of the `Sources` tab, that is where all the different tools for inspecting what is going on live. 
+You can see that the javascript has paused and if you go to the console, you will see that nothing has been logged yet. 
+
+Flip back to the sources tab.
+
+On the right handside of the `Sources` tab, that is where all the different tools for inspecting what is going on reside. 
 
 ![](@attachment/Clipboard_2020-02-03-17-35-42.png)
 
-We get the callstack, which we learned about earlier. Second it will let us nkow what the local variables are. 
+We get the call stack, which we learned about earlier. 
+
+It will also let us know what the local variables are. 
 
 You can expand the collapsed Local section within the Scope section, or hover over a variable to see it's value. 
 
@@ -1805,26 +1956,35 @@ You can expand the collapsed Local section within the Scope section, or hover ov
 
 There are other sections for breakpoints which we will get to in a second.
 
-What is cool is you can click the play button right here, ![](@attachment/Clipboard_2020-02-03-17-38-09.png) and then if you flip back to the console, you will see that the name "Wes" has been logged.
+![](@attachment/Clipboard_2020-02-03-17-38-09.png)
 
-What happened there is when the function first ran, it hit the breakpoint and then when we pressed play, it logged the first persons name and then because it's in a loop, it hit the breakpoint again and paused. Now you can see that the second person is equal to Scott. 
+What is cool is you can click the play button shown above ,  and then if you flip back to the console, you will see that the name "Wes" has been logged.
+
+What happened there is when the function first ran, it hit the breakpoint and then when we pressed play, it logged the first persons name and then because it's in a loop, it hit the breakpoint again and paused. 
+
+Now you can see that the second person is equal to Scott. 
 
 ![](@attachment/Clipboard_2020-02-03-17-39-21.png)
 
-You can also step over into the next function call like so
+You can also step over into the next function call like so 👇
+
 ![](@attachment/Clipboard_2020-02-03-17-43-28.png)
 
-When you hit play, it will just continue execution of the code until it hits the next breakpoint. If you click the option beside the play button that says "Step over next function call", it allows you to run the code line by line. 
+When you hit play, it will just continue execution of the code until it hits the next breakpoint. 
 
-GIF: https://cl.ly/e6eee78faefc
+If you click the option beside the play button that says "Step over next function call", it allows you to run the code line by line. 
 
-When you feel like you are console.logging too much data in order to see it, or you are console.logging something quickly so you can see what happened in the past, adding a debugger (it can go anywhere in your javascript code) can be very helpful. 
+![](@attachment/breakpoint.gif)
+
+When you feel like you are logging too much data in order to see it, or you are logging something quickly so you can see what happened in the past, adding a debugger (it can go anywhere in your javascript code) can be very helpful. 
 
 It's a handy way to slow things down and peer into what the different pieces of data are. 
 
 You can also set breakpoints from the browser as well. 
 
-Remove the line of code in `debugger.js` that says `debugger;` and refresh `debugging.html` in the browser. Open the sources tab. 
+Remove the line of code in `debugger.js` that says `debugger;` and refresh `debugging.html` in the browser. 
+
+Open the sources tab. 
 
 ![](@attachment/Clipboard_2020-02-03-17-50-42.png)
 
@@ -1832,23 +1992,31 @@ In the sidebar on the left, you can click on your actual javascript files that a
 
 ![](@attachment/Clipboard_2020-02-03-17-55-27.png)
 
-What you do is you click the line number next to the line of code that you would like to pause during.  If you go into the console and type `go()`, you will see that the code pauses itself in the debugger at the line where you set the breakpoint. 
+What you do is you click the line number next to the line of code that you would like to pause during.  
 
-Recap: you can either create the breakpoint by clicking next to the line number in the sources tab, or adding the word `debugger;` anywhere in your javascript. 
+If you go into the console and type `go()`, you will see that the code pauses itself in the debugger at the line where you set the breakpoint. 
+
+_Recap: you can either create the breakpoint by clicking next to the line number in the sources tab, or adding the word `debugger;` anywhere in your javascript._
 
 Always make sure you remove those `debugger;` calls from your code once you are finished!
 
-We talked about scope. Scope will allow us to peer into what variables are, we will look at that more in the next video. 
+We talked about scope earlier. Scope will allow us to peer into what variables are, we will look at that more in the next video. 
 
-The next one is Network Request. This is useful if you want to see what is being fired off when you load the page. If you go to your networks tab and refresh `debugging.html`, you will see all of the different files that are needed in order for the page to work. 
+The next one is Network Request. 
+
+This is useful if you want to see what is being fired off when you load the page. If you go to your networks tab and refresh `debugging.html`, you will see all of the different files that are needed in order for the page to work. 
 
 ![](@attachment/Clipboard_2020-02-03-18-00-04.png)
 
-This is helpful because you can see when is sending out data for you. 
+This is helpful because you can see when the data is being sent to you. 
 
-Wes added a function to `debugging.js` called `fetchDadJoke()`. What that function will do is go off to an API and grab a random dad joke. Don't worry about what all the lines of code mean here, we will go over that in future videos. For now, know that it goes to an external API and grabs an API. 
+Wes added a function to `debugging.js` called `fetchDadJoke()`. 
 
-```
+What that function will do is go off to an API and grab a random dad joke. 
+
+Don't worry about what all the lines of code mean here, we will go over that in future videos. For now, just know that it goes to an external API and grabs a joke. 
+
+```js
 // A Dad joke fetch
 async function fetchDadJoke() {
   const res = await fetch("https://icanhazdadjoke.com/", {
@@ -1868,13 +2036,15 @@ If you go back to the network tab, you will see that there is a new item that ha
 
 ![](@attachment/Clipboard_2020-02-03-18-03-09.png)
 
-This tells you the information about the request, what actually hapened, the raw response and a preview of it. It gives you information such as how long did this request take. 
+This tells you the information about the request, what actually happened, the raw response and a preview of it. It gives you information such as how long did this request take. 
 
 ![](@attachment/Clipboard_2020-02-03-18-04-09.png)
 
-If you're website is slow for example, it will tell you how long the request took, and where the time was spent. 
+For example, if youre website is slow, it will tell you how long the request took, and where the time was spent. 
 
-If you go to http://apple.com for example and inspect the network tab, you will see that there are 100s of things that are requested. You can also filter out the requests within the network tab such as XHR, which is when they're sending data out about you. 
+To demonstrate this, go to http://apple.com and inspect the network tab.
+
+You will see that there are 100s of things that are requested. You can also filter out the requests within the network tab such as XHR, which is when they're sending data out about you. 
 
 ![](@attachment/Clipboard_2020-02-03-18-06-25.png)
 
@@ -1884,15 +2054,25 @@ On `debugging.html` there is a button that says "Make me bigger".
 
 ![](@attachment/Clipboard_2020-02-03-18-08-59.png)
 
-When you click it, it gets bigger. If you go to your elements, you will see that the font-size is just being bumped up everytime the button is pressed. If you don't know where the javascript is that is making that button bigger, you can go into you button in the elements tab of dev tools and select "Break on -> Attribute Modifications". 
+When you click it, it gets bigger. 
+
+If you go to your elements, you will see that the font-size is just being bumped up everytime the button is pressed. 
+
+If you don't know where the javascript is that is making that button bigger, you can go into you button in the elements tab of dev tools and select _Break on > Attribute Modifications_. 
 
 ![](@attachment/Clipboard_2020-02-03-18-10-14.png)
 
-This is just another way of adding a breakpoint. There is also something called subtree modifications which means that when somebody adds like a div, and then there is something called node removal which is when someone removes an element or text from something. We will just do attribute modifications. 
+This is just another way of adding a breakpoint. 
+
+There is also something called **subtree modifications** which is what it is referred to when somebody adds a div for example. 
+
+There is also something called **node removal** which is when someone removes an element or text from something.
+
+We will just focus on attribute modifications. 
 
 Set the breakpoint on attribute modification and now when we click the button, the breakpoint should be triggered and bring us to the sources tab which will show you where that attribute is being modified from. 
 
-GIF: https://cl.ly/9c5a8f8b9d07
+![](@attachment/attribute-breakpoint.gif)
 
 That is very useful when you get thrown into a random code base where you don't really know what is going on.
 
@@ -1900,20 +2080,25 @@ Finally, if you go to the sources tab again, you will see that there are other t
 
 ![](@attachment/Clipboard_2020-02-03-18-17-49.png)
 
-You can throw eventlistener breakpoints, such as mouse click.
+You can throw Event Listener breakpoints, such as mouse click. 👇
 
 ![](@attachment/Clipboard_2020-02-03-18-18-28.png)
 
 If you add that breakpoint, now when you click on the button, it will throw a debugger breakpoint for you. 
 
 There are also XHR breakpoints:
+
 ![](@attachment/Clipboard_2020-02-03-18-19-34.png)
 
-If you click `Any XHR or fetch`, what that will do is anytime a fetch request is made, anytime someone goes off to an external API, the code will break. 
+If you click `Any XHR or fetch`, what that will do is anytime a fetch request is made, anytime someone goes off to an external API, the code will break execution. 
 
-To test this you can set the breakpoint option and then go into the console and try typing `fetchDadJoke()`. You will see that it pauses in the debugger where the fetch request is made and we can actually step through it.
+To test this you can set the breakpoint option and then go into the console and try typing `fetchDadJoke()`. 
 
-Wes would estimate that around 98% of the debugging that he does is done using console.log, breakpoints and network requests. He will turn to the other types of debugging tools available typically in severe edge cases where he is stumped. 
+You will see that it pauses in the debugger where the fetch request is made and we can actually step through it.
+
+Wes would estimate that around 98% of the debugging that he does is done using console.log, breakpoints and network requests. 
+
+He will turn to the other types of debugging tools available typically in severe edge cases where he is stumped. 
 
 
 

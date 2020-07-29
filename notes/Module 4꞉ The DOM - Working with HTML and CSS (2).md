@@ -2,48 +2,84 @@
 attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-03-01T18:59:30.012Z'
+modified: '2020-07-29T22:36:42.176Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
 
 ## 20 - The DOM - Introduction to the document
 
-So far, everything we have been learning has been javascript as part of hte core languages. Although Javascript can be run in many environments (browser, server, robots), a lot of places use javascript as a scripting environment. 
+So far, everything we have been learning has been javascript as part of the core languages. 
 
-The most popular way to run javascript is through the web browser. A big part of working with javascript in the web browser is interacting with elements on a page. 
+Although Javascript can be run in many environments (browser, server, robots), a lot of places use javascript as a scripting environment. 
 
-When you write html and view it in the browser, the browser turns your html into something that is called the **Document Object Model or the DOM**. 
+The most popular way to run javascript is through the web browser, and a big part of that is interacting with elements on a page. 
 
-That is what you see when you go to the elements panel in the developers tools on any webiste. It is not actually just the HTML that you have written, it takes that, converts it to the Document Object Model, and it allows us to interface with the DOM via javascript. 
+When you write HTML and view it in the browser, the browser turns your HTML into something that is called the **Document Object Model** or **the DOM**. 
 
-We can do things like listen for clicks and scrolls. We can add, move, remove elements from that page or things like text, images, etc. 
+That is what you see when you go to the elements panel in the developers tools on any website. 
 
-we can add and remove css classes from elements which can trigger animations, we can fetch new data, we can play music and video, we can add any typoe of interaction to the page and that is done by writing javascript that interfaces with te DOM (the things that are on the page, the elements on the page).
+It is not actually just the HTML that you have written, it takes that, converts it to the **Document Object Model**, and it allows us to interface with the DOM via javascript. 
 
-The DOM is represented in a tree that looks veyr much like HTML. Even if you are using a framework like React, Angular or Vue, it's very helpful to undertsand that concepts of the DOM because the core concepts of the DOM like events, elements and classes, they transcend all of the different framesworsk. Even if the frameworks help you do these things, you still need to know how it works under the hood. 
+We can do things like listen for clicks and scrolls. 
+We can add, move, remove elements from that page or things like text, images, etc. 
+We can add and remove CSS classes from elements which can trigger animations.
+We can fetch new data. 
+We can play music and video.
+We can add any type of interaction to the page.
+... and that is done by writing javascript that interfaces with the DOM (the things that are on the page, the elements on the page).
 
-Now, a quick refreshed on the window. In the scope video, we learned that the global scope in the browser is called the window. The window is where are our global variables are stored, as well as helpful properties like `window.location`. 
+The DOM is represented in a tree that looks very much like HTML. 
 
-Aside: if you go to any website and in the console type in `window.location` or `location` it will return to you the websites url and a whole bunch of information. 
+Even if you are using a framework like React, Angular or Vue, it's very helpful to understand that core concepts of the DOM like events, elements and classes, because they transcend all of the different framesworsk. 
 
-![](@attachment/Clipboard_2020-02-06-07-17-14.png)
+Even if the frameworks help you do these things, you still need to know how it works under the hood. 
 
-There is an object full of information like the current page you're on, the host name, what hte protocol is, if we are on a specifc port it would be showing us that info. 
+### `window` Refresher 
 
-We can also find things like `innerWidth`, which will tell us how wide the browser is if you type it in the console. ![](@attachment/Clipboard_2020-02-06-07-18-07.png)
+A quick refreshed on the Window. 
 
-You can think of the window as everything about the currently opened window, including the browser bar, the tabs, the scroll bar, all of the things about your browser window is generally stored inside of the window object. 
+In the scope video, we learned that the global scope in the browser is called the `window`. 
 
-Now we are going to introduce you to the Document.  The document is responsible for eveyrthing from the opening html tag, the doc type as well, to the closing html tag. The difference is the document is not concerned with tabs, and outside, it's just concerned with the entire DOM. The entire document will be available to us with the `document` keyword. 
+The window is where are our global variables are stored, as well as helpful properties like `window.location`. 
 
-If you type `document` into the console and hover over what it returns, you will see that it highlights the entire page: 
+![](@attachment/window-location.gif)
 
-![](@attachment/Clipboard_2020-02-06-07-20-49.png) 
+_👆 Aside: if you go to any website and in the console type in `window.location` or `location` it will return to you the websites url and a whole bunch of information, as demonstrated above._
 
-There is also something called the `navigator`. The `navigator` is sort of just a higher level thing than the window that gives you information not just about the browser, but the device itself, the device that it is on. Think about things like web cam and audio access, battery levle, GPS coordinates. Things that are device specific will live on the navigator. 
+It returns an object full of information like the current page you're on, the host name, what hthete protocol is, if we are on a specifc port it would be showing us that info. 
 
-Right now you just need to know that there is the `window` which contains a lot of information about the browser but the document is going to contain everything about the current web page from the opening HTML to the closing HTML tag. 
+We can also find things like `innerWidth`, which will tell us how wide the browser is if you type it in the console. 
+
+![](@attachment/Clipboard_2020-02-06-07-18-07.png)
+
+You can think of the `window` as everything about the currently opened window.
+
+That includes:
+- the browser bar
+- the tabs 
+- the scroll bar
+- basically all of the things about your browser window are generally stored inside of the window object 
+
+### `document` Introduction
+
+The document is responsible for everything from the opening HTML tag `<html`>, the doc type as well, to the closing HTML tag(</html>). 
+
+The difference is the document is not concerned with tabs, and outside, it's just concerned with the entire `DOM`. The entire document will be available to us with the `document` keyword. 
+
+If you type `document` into the console and hover over what it returns, you will see that it highlights the entire page
+
+![](@attachment/document.gif)
+
+### The `navigator` 
+
+There is also something called the `navigator`. 
+
+The `navigator` is sort of just a higher level thing than the window that gives you information not just about the browser, but the device itself, the device that it is on. Think about things like web cam and audio access, battery levle, GPS coordinates.
+
+Things that are device specific will live on the navigator. 
+
+Right now you just need to know that there is the `window` which contains a lot of information about the browser but the `document` is going to contain everything about the current web page from the opening HTML to the closing HTML tag. 
 
 In the next video we will get into selecting elements on the page. 
 

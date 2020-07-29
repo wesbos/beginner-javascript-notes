@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png, Clipboard_2020-02-05-19-09-28 (2).png, Clipboard_2020-02-05-19-14-46.png, Clipboard_2020-02-05-20-22-15.png, Clipboard_2020-02-05-20-23-42.png, Clipboard_2020-02-05-20-24-02.png, Clipboard_2020-02-05-20-37-58.png, Clipboard_2020-02-05-20-41-03.png, Clipboard_2020-02-05-20-41-31.png]
 title: 'Module 3: The Tricky Bits'
 created: '2020-02-03T23:25:39.261Z'
-modified: '2020-07-29T11:59:19.124Z'
+modified: '2020-07-29T22:11:29.164Z'
 ---
 
 # Module 3: The Tricky Bits
@@ -990,11 +990,11 @@ Now we can do this in the console 👇
 
 ![](@attachment/Clipboard_2020-02-05-20-41-31.png)
 
-Even though the score variable 👆 is the same variable name, because we have created two separate `win()` functions by using the `createGame()` function, they each have their own sort of private variable score. 
+Even though the `score` variable 👆 is the same variable name, because we have created two separate `win()` functions by using the `createGame()` function, they each have their own private variable score. 
 
-Currently there is no way for us to access that score variable. 
+Currently there is no way for us to access `score`. 
 
-If you try to access it in the console, you will get an error 
+If you try to access it in the console, you will get an error like the following
 > score is not defined
 
 There is no way for us to access that unless we were to explictly return that variable or as we did in this example, by putting it into a string. 

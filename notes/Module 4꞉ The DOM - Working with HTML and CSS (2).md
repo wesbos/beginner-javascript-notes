@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-29T22:36:42.176Z'
+modified: '2020-07-30T12:12:38.839Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -87,20 +87,28 @@ In the next video we will get into selecting elements on the page.
 
 ## 21 - The DOM - Selecting Elements
 
- For this excercise, go into the `/excercises` folder, and you will see folder named `20 - The-DOM` which Wes has already created for us. Within that folder there are two files: an `index.html` and `the-dom.js` (the javascript file should be empty). You can open up `index.html` in the browser. 
+For this lesson, we will be working out of the `/exercises/20 - The DOM/` folder which Wes has already created for us. 
 
-First thing we need to talk about is where to load our javascript if we are selecting elements. 
+Within that folder there are two files: 
+- `index.html` 
+- `the-dom.js` _(the javascript file should be empty)_. 
+
+Open up `index.html` in the browser. 
+
+### Where to Load Javascript When Selecting Elements
+
+The first thing we need to talk about is where to load our javascript if we are selecting elements. 
 
 To demonstrate this, we are going to jump ahead of ourselves briefly and grab an element from the page. 
 
-Add the following the the javascript file: 
+Add the following the the javascript file 👇
 
 ```js
 const p = document.querySelector('p');
 console.log(p);
 ```
 
-If you wanted to load this javascript into the `index.html`, you might think you want to add it inside of the head tag, like so:
+If you wanted to load this javascript into the `index.html`, you might think you want to add it inside of the head tag, as shown below 👇
 
 ```html
 <head>
@@ -111,26 +119,31 @@ If you wanted to load this javascript into the `index.html`, you might think you
   <script src="./the-dom.js"></script>
 </head>
 ```
-
-If we reload the page, when the page runs, it will run the Javascript for us. Open up dev tools and you will see null returned. 
+Let's try that. Reload the page, which will cause the Javascript to run, then open up the dev tools and take a looka t what was logged in the console. It should be null. 
 
 ![](@attachment/Clipboard_2020-02-06-19-10-10.png)
 
-We are trying to select something on the page and then `console.log()` it. If you try to run `document.querySelector('p')` in the console, it will return an element like so: 
+What we are doing in the Javascript code we just added is we are trying to select something on the page, and then log it. 
 
+If you try to run `document.querySelector('p')` in the console, it will return an element like so 👇
 
 ![](@attachment/Clipboard_2020-02-06-19-11-24.png)
 
-Why does it work in the console, but not when we loaded it via javascript?
-Because the javascript is being loaded before our html is created and what is happening is the javascript is downloaded and run before the actual elements have bene created on the page. 
+Why does it work in the console, but not when we loaded it via Javascript?
 
-There are ways to get around like (such as async and defer attributes), but it's better to just put the script tag right before the closing body tag. What that will do is ensure that all your HTML is first downloaded and parsed to the page before the javascript is run.   
+It is not working because our Javascript is being loaded before our HTML is created. That causes the Javascript to be downloaded and run before the actual elements have been created on the page. 
+
+There are ways to get around like _(such as `async` and `defer` attributes)_, but it's better to just put the script tag right before the closing body tag.
+
+That will ensure that all your HTML is first downloaded and parsed to the page before the Javascript is run. 
 
 If you move your script tag to right before the closing body tag and refresh the page, you will see the exact same code works.
 
-There are ways around it, like putting all the javascript code inside of a function and then adding an event listener that listens for the DOM content loaded event and runs the `init()` function we created when that happens:
+There are other ways around it.
 
-```
+One of those ways is putting all the js code inside of a function, and then adding an event listener that listens for the DOM content loaded event and runs the `init()` function we created when that happens. 👇
+
+```js
 function init(){
   const p = document.querySelector('p');
   console.log(p);
@@ -140,72 +153,131 @@ document.addEventListener('DOMContentLoaded', init);
 
 Move the script src back inside the `<head>` tag. 
 
-This is getting ahead of ourselves but if you refresh the page, you will see that it works now even though the script is in the head. What we are doing is delaying the code that actually runs until all of the DOM content has been loaded to the page. 
+This is getting ahead of ourselves but if you refresh the page, you will see that it works now even though the script is in the head. 
 
-If you move the script src back to right before the closing body tag, you will see that it still works. 
+What we are doing is delaying the code that actually runs until all of the DOM content has been loaded to the page. 
 
+If you move the script back to right before the closing body tag, you will see that it still works. 
 
 It's easier to not need to use an event listener like that and just include the script tag before the closing body tag so that is what we will be doing!
 
-**Selecting DOM Elements**
+### Selecting DOM Elements
 
-Before you actually work with elements on the page, you will need to go get them, which we call selecting hem. You need to be able to access the specific element on the page (whether an h2 tag, div, button, image) and then once we have it we can do things like listen for clicks, change the content, add content to it. 
+Before you actually work with elements on the page, you will need to go get them, which we refer to as selecting them. 
 
-There are sort of two main ways of selecting elements, and these are the only two that Wes uses, and those are `querySelector()` and `querySelectorAll()`. Generally you are using them on the `document.` although that is not always the case.
+You need to be able to access the specific element on the page (whether an `h2` `tag`, `div`, `button`, `image`). 
 
-```
+Once we have it we can do things like listen for clicks, change the content, add content to it. 
+
+There are sort of two main ways of selecting elements, which are the only two that Wes uses: 
+1. `querySelector()` 
+2. `querySelectorAll()`. 
+
+Generally you are using them on the `document` although that is not always the case.
+
+```js
 const p = document.querySelector("p");
 console.log(p);
 ```
 
-In this example we have selected something with a p. 
+In the example above 👆 we have selected something with a `p`. 
 
-`querySelector()` and `querySelectorAll()` take one argument and that is the CSS selector. Those are almost the exact same selectors that you know and love from CSS will be moved over to Javascript selector. 
+Both `querySelector()` and `querySelectorAll()` take one argument, which is the CSS selector. Those are almost the exact same selectors that use in CSS. 
 
 ![](@attachment/Clipboard_2020-02-10-21-17-14.png)
 
-If you open up the `index.html` page, you will see we have grabbed a paragraph tag. When we console.log it, you will see we have the item there. 
+If you open up the `index.html` in the browser, you will see we have grabbed a paragraph tag. When we loga it, you will see we have the item there. 
 
-`querySelectorAll()` will give you multiple elements, where `querySelector()` will give you the first matching one. 
+`querySelectorAll()` will give you multiple elements, whereas `querySelector()` will give you the first matching one. 
 
-If we make another variable called divs like so:
+Let's demonstrate that by making another variable called `divs`. 
+Add the code below 👇
 
-```
+```js
 const p = document.querySelector("p");
 const divs = document.querySelectorAll("div");
 console.log(p);
 console.log(divs);
 ```
 
-If you reload `index.html` you will see that we get something in the console called a NodeList. 
+If you reload `index.html` you will see that we get something in the console called a **NodeList**. 
 
 ![](@attachment/Clipboard_2020-02-10-21-20-05.png)
 
-We will be learning about arrays in the future and NodeLists look a lot like arrays. This is kind of like an interview question that you might hear that a node list is not an array. It is a list of things, but there are a few differences which we will go through the differences. The short and skinny is that it does not have all the methods that an array does like map, filter and reduce built into it. 
+We will be learning about arrays in the future and NodeLists look a lot like arrays. It is a frequent interview question that you might hear, that a node list is not an array. 
 
-If you hover over the NodeList in the console, you will see that it is grabbing everything that matches the selector (div). 
+It is a list of things, but there are a few differences which we will go through in the future. 
+
+The short and skinny is that it does not have all the methods that an array does like `map`, `filter` and `reduce` built into it. 
+
+If you hover over the NodeList in the console, you will see that it is grabbing everything that matches the selector (`div`). 
 
 ![](@attachment/Clipboard_2020-02-10-21-22-12.png)
 
-You can get more specifc than using elements as selectors. You could say give me anything with a class of `.item` : `document.querySelectorAll('.item');`. Let's say you only wanted divs with a class of item, you would use `document.querySelectorAll("div.item");`.
+You can get more specifc than using elements as selectors. 
 
-You can do parent child selectors. Let's say we only wanted to grab an image inside of an `item` div. You would do that like so `const divs = document.querySelectorALl('.item img');` 
-
-Let's say you wanted to just select the first item and then the image inside of it, you could do `document.querySelector('.item img')` instead. That will return the first match. 
-
-Or let's say the other item div also has a class of item2.  You could do `const item2 = document.querySeletor('.item2');` Now if you want to search inside of an element that you already have, you can use querySelector on any other element like so:
-
+```js
+document.querySelectorAll('.item');
 ```
+
+You could say give me anything with a class of `.item`, as shown above 👆 
+
+Let's say you only wanted `divs` with a class of `item`. You would then use 👇
+
+```js
+document.querySelectorAll("div.item");
+```
+
+You can also do parent child selectors. 
+
+If you only wanted to grab an image inside of an `item` div, you could achieve that using the code below.  👇
+
+```js
+const divs = document.querySelectorALl('.item img');
+```
+
+If you wanted to just select the first `item` and then the image inside of it, you could add the code below instead, which will return the first match. 👇
+
+```js
+document.querySelector('.item img')
+```
+
+Let's say the other item div also has a class of `item2`.  
+
+```js
+const item2 = document.querySeletor('.item2');
+```
+
+You could add the following code 👇
+
+```js
+const item2 = document.querySeletor('.item2');
+```
+
+#### Searching Inside Already Selected Elements
+
+If you want to search inside of an element that you already selected, you can use querySelector on any other element like so 👇
+
+```js
 const item2Image = item2.querySelector('img');
 ```
 
 ![](@attachment/Clipboard_2020-02-10-21-30-10.png)
 
-If you ever need to narrow down your focus as to where you are searching, you can do that in your selector, but you can also run `querySelector()` and `querySelectorAll()` on any other elemen and only search within it to limit the scope. 
+If you ever need to narrow down your focus as to where you are searching, you can do that in your selector, but you can also run `querySelector()` and `querySelectorAll()` on any other element and only search within it to limit the scope. 
 
-If you have an element with an id such as `<h2 id="wes">Sub Div</h1>`, you would be able to grab it using `document.getElementById('wes');`. Notice how you don't put the `#` sign before wes? That is because if you're using anything that's not query selector, you don't have to pass `.` or `#`. The same works with `document.getElementsByClassName()`, but you don't pass the `.` from the classname. 
+```html
+<h2 id="wes">Sub Div</h1>
+```
+If you have an element with an id, as shown in the code above 👆, you would be able to grab it using `document.getElementById('wes');`. 
 
-You can get all the work done with `document.querySelector()` and `document.querySelectorAll()` however and they are much more flexible. 
+Notice how you don't put the `#` sign before 'wes'? 
+
+That is because if you're using anything that's not query selector, you don't have to pass `.` or `#`. 
+
+The same works with `document.getElementsByClassName()`, but you don't pass the `.` from the classname. 
+
+You can get all the work done with `document.querySelector()` and `document.querySelectorAll()` however, and they are much more flexible. 
 
 ---
 

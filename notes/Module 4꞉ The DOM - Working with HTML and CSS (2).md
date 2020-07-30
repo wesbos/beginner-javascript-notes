@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-30T12:12:38.839Z'
+modified: '2020-07-30T12:45:05.265Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -283,38 +283,55 @@ You can get all the work done with `document.querySelector()` and `document.quer
 
 # 22 - The DOM - Element Properties and Methods 
 
-Now that we have learned how to grab/select an element, let's discuss what you can do with it. 
+Now that we know how to select elements, let's go over what we can do with them. 
 
-Let's select an h2 element from the page and console log it. 
+
+Start by selecting an `h2` element from the page and logging it. 👇 
 
 ![](@attachment/Clipboard_2020-02-13-19-04-56.png)
 
-Although in the console it looks like the `heading` variable is the actual element, in reality it is an object that has a lot of properties and methods inside of it. If we change the `console.log()` to a `console.dir()`, that will show us the object properties instead of the actual element itself. 
+Although in the console it looks like the `heading` variable is the actual element, in reality it is an object that has a lot of properties and methods inside of it. 
+
+If we change the `console.log()` to a `console.dir()`, that will show us the object properties instead of the actual element itself. 
 
 ![](@attachment/Clipboard_2020-02-13-19-07-45.png)
 
-It's still the same h2 tag, but you can see all the properties on it. One example of that is `parentElement` which shows you what the parent element is. There is `outerText` `textContent` `outerHTML`, and many other properties. 
+It's still the same `h2` tag, but you can see all the properties on it. 
+
+One example of that is `parentElement` which shows you what the parent element is. 
+
+There is `outerText` `textContent` `outerHTML`, and many other properties. 
 
 ![](@attachment/Clipboard_2020-02-13-19-08-37.png)
 
-We can use those properties as getters to get the data from the element that we need, or we can use them as setters. We will demontsrate this using `textContent`. 
+### Getters and Setters
 
-```
+We can use those properties as getters to get the data from the element that we need, or we can use them as setters. 
+
+We will demontsrate this using `textContent`. 
+
+```js
 const heading = document.querySelector('h2');
 console.dir(heading.textContent);
 ```
 
 ![](@attachment/Clipboard_2020-02-13-19-11-38.png) 
 
-That is an example of a getter. 
+The code above is an example of a getter. 
 
-A setter is when you update the property. An example of that would be `heading.textContent = 'Wes is cool';`. Now when you reload the page, you will see Wes is cool in the console.
+A setter is when you update the property. 
 
-`textContent` and `innerText` are very similar properties, `textContent` is the newer one. The only difference is that innerText returns only the human readable content whereas textContent will get the contents of all of the elements, including script and style elements. 
+An example of that would be `heading.textContent = 'Wes is cool';`. 
 
-So if your h2 looked like the following for some reason:
+Now when you reload the page, you will see Wes is cool in the console.
 
-```
+#### `textContent` and `innerText`
+
+`textContent` and `innerText` are very similar properties, `textContent` is the newer one. 
+
+The only difference is that `innerText` returns only the human readable content whereas `textContent` will get the contents of all of the elements, including script and style elements. 
+
+```html
 <h2>
 I am a heading
 <style>
@@ -325,16 +342,19 @@ I am a heading
 </h2>
 ```
 
-If you log both the `heading.textContent` and `heading.innerText`, you will see that textContent includes the content within the style tag whereas innerText only returns the text `I am a heading`. 
+Let's say your `h2` looked like the code above for some reason 👆
+
+If you log both the `heading.textContent` and `heading.innerText`, you will see that `textContent` includes the content within the style tag whereas `innerText` only returns the text `I am a heading`. 
 
 ![](@attachment/Clipboard_2020-02-13-19-20-42.png)
 
-Content returns every element in the node whereas innerText is aware of styling and won't return text of hidden elements. 
+`textContent` returns every element in the node. 
+`innerText` is aware of styling and won't return text of hidden elements. 
 
 
-Let's say you have the following code: 
+Let's say you have the following code 👇
 
-```
+```js
 <h2>
 I am a heading!
 <span>I am hiddden!</span>
@@ -351,81 +371,103 @@ I am a heading!
 
 ![](@attachment/Clipboard_2020-02-19-07-40-26.png)
 
-We have a set of properties whne working with HTML. If we were to console.log the `innerHTML` of `heading`, you would see 
+We have a set of properties when working with HTML. If we were to log the `innerHTML` of the `h2`, you would see 👇
 
 ![](@attachment/Clipboard_2020-02-19-07-42-02.png)
 
-There is also `outerHTML`, which should include the h2 tag and whitespace that goes inside of it. 
+There is also `outerHTML`, which should include the `h2` tag and whitespace that goes inside of it. 
 
 ![](@attachment/Clipboard_2020-02-19-07-42-42.png)
 
-If you ever want to add text onto something is another useful thing to lean. Go to `index.html` and modify the code like so:
+If you ever want to add text onto something is another useful thing to learn. 
 
- ```
- 
-  <article class="item">
-      <h2>Im an article</h2>
-      <p class="pizza">This is how many pizzas I ate! 🍕</p>
-    </article>
- ```
+### Exercise
 
- What we are going to do is build something to add more pizza emojis to the end of it. 
+Go to `index.html` and modify the code as shown below 👇
 
- First we need to select it, so 
- 
- ```
- const pizzaList = document.querySelector('.pizza');
- console.log(pizzaList.textContent);
+```html
+<article class="item">
+  <h2>Im an article</h2>
+  <p class="pizza">This is how many pizzas I ate! 🍕</p>
+</article>
 ```
 
-If we wanted to update textContent we could do something like
+What we are going to do is build something to add more pizza emojis to the end of it. 
 
+First we need to select it. 
+
+```js
+const pizzaList = document.querySelector('.pizza');
+console.log(pizzaList.textContent);
 ```
+
+To update the `textContent` we could use the code below 👇
+
+```js
 pizzaList.textContent = `${pizzaList.textContent} 🍕`;
 ```
 
-So that takes what was already there and it adds an emoji to the end. 
+That will take what was already there and adds a pizza emoji to the end. 
 
-That method can be slow in some applications that have lots of text and html. That causes the browser to re-render the entire list so we what you can do is tack text onto the end using another method called insert adjacent element or insert adjacent text. That will give us the ability to add stuff to the front or back of it. 
+That method can be slow in some applications that have lots of text and html, because it causes the browser to re-render the entire list.
 
-```
+### `insertAdjacentText` and `insertAdjacentElement`
+
+To fix that, what we can do is add text onto the end using a different method, either  `insertAdjacentElement` or `insertAdjacentText`
+
+That will give us the ability to add stuff to the back or the front of it. 
+
+```js
 pizzaList.insertAdjacentText()
 ```
 
-If you go to mdn and search for `insertAdjacentText()` you will see that it is not a property, it is a method, meaning it is a  function that we run against the element (much like querySelector and querySelectorAll). It takes two arguments: the position (beforebegin, afterbegin, beforeend, afterend), and the text that you want to pass it. Mdn says the second argument is element but it's actually just the raw text you want to add. 
+If you go to MDN and search for `insertAdjacentText()` you will see that it is not a property, it is a method, meaning it is a function that we run _against_ the element, like we do for `querySelector` and `querySelectorAll`. 
 
-add the following:
+It takes two arguments: 
+1. the position (`beforebegin`, `afterbegin`, `beforeend`, `afterend`)
+2. the text that you want to pass it. 
 
-```
+MDN says the second argument is element but it's actually just the raw text you want to add. 
+
+Add the following code 👇
+
+```js
 pizzaList.insertAdjacentText('beforeend','🍕');
 ```
 
-If you refresh index.html you will see two pizza emojis now. 
+If you refresh `index.html` you should see two pizza emojis now. 
 
-It works the same as the other way we tried earlier, however you should know that this is the best way to attach text to the end of something. 
+It works the same as the other way we tried earlier, however this is the best way to attach text to the end of something. 
 
-If you were to try 
+If you were to try  👇
 
-```
+```js
 pizzaList.insertAdjacentText('beforebegin','🍕');
 ```
 
 ![](@attachment/Clipboard_2020-02-19-15-49-31.png)
 
-That will put the pizza emoji before the paragraph entirely, it's not inside of that element. We would want `afterbegin` to add the pizza in front of the text
+That will put the pizza emoji before the paragraph entirely, it's not inside of that element. We would want to use `afterbegin` to add the pizza in front of the text.
 
 ![](@attachment/Clipboard_2020-02-19-15-50-11.png)
 
-The browser actually knows that the pizza emoji was added later, because the text is split up between what we used to have an what we inserted:
+The browser actually knows that the pizza emoji was added later, because the text is split up between what we used to have and what we inserted. 
+
 ![](@attachment/Clipboard_2020-02-19-15-51-27.png)
 
-That is actually the difference between elements and nodes. Nodes can be anything, but an actual element is something that is wrapped in a tag. It is a little bit confusing because everything is a node, and it only upgrade sitself to an element if you have wrapped it in a tag. 
+That is actually the difference between elements and nodes. 
 
-If you are wondering what all the possible ones are, we can stumble upon different properties and methods as we build out our excercises. You can go to the MDN docs and go to element, it will tell us what all the properties are of elements. 
+**Nodes** can be anything, but an actual **element** is something that is wrapped in a tag. 
+
+It is a little bit confusing because everything is a node, and it only upgrade itself to an element if you have wrapped it in a tag. 
+
+If you are wondering what all the possible methods are, we will stumble upon different properties and methods as we build out our excercises. 
+
+You can go to the MDN docs and go to element, it will tell us what all the properties are of elements. 
 
 ![](@attachment/Clipboard_2020-02-19-15-54-21.png)
 
-That is elements, both how to get properties from an element, how to set properties on an element and how to use more powerful methods on each of our elements or nodes. 
+That wraps up elements. We covered how to get properties from an element, how to set properties on an element and how to use more powerful methods on each of our elements or nodes. 
 
 ---
 

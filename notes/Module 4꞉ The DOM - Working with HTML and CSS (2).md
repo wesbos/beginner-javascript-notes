@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-31T18:00:11.705Z'
+modified: '2020-07-31T20:13:53.761Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -899,37 +899,44 @@ To recap: anytime you need a custom attribute, such as when you need to associat
 
 ## 25 - The DOM - Creating HTML
 
-Now we are going to learn about creating elements. 
+In this lesson, we will learn about creating elements. 
 
-Create a javascript file within the `20 - The DOM` folder called `creating.js`. In the `index.html` file we have been using so far, replace the script src from `the-dom.js` to `creating.js` like so:
+Create the file `creating.js` within the `20 - The DOM` folder. 
+
+In the `index.html` file we have been using so far, replace the script source to point to `creating.js` instead of  `the-dom.js`, as shown below 👇
 
 ```html
 <script src="./creating.js"></script>
 ```
 
-If you want to create HTML in javascript, it can be done in a few different ways. The main way is with document.createElement() so let's go look that up. 
+There are a few ways to create HTML in Javascript. The main way is using `document.createElement()`. 
+
+Let's look that up in MDN. 
 
 ![](@attachment/Clipboard_2020-02-24-19-54-55.png) 00:54
 
-You give it a tagName and then there are optional options (you can tell it's optional because of the square brackets, which we won't be using. 
-We will go ahead and try to make a paragraph tag.    
+To use this method, you pass it a tagName and then there are optional options you can pass _(you can tell it's optional because of the square brackets)_, which we won't be using. 
+
+Let's try to make a paragraph tag using this method. 
 
 ```js
 const myParagraph = document.createElement('p');
 console.log(myParagraph);
 ```
 
-If you load the html file, you will see the paragraph in the console but it is not on the page. That is because we haven't actually put it on the page yet, we just created it and its in what we call memory right now. 
+When you open the HTML file, you will see the paragraph in the console but it is not visible on the page. 
+
+That is because we haven't actually put it on the page yet, we just created it and it's living in what is called **memory** right now. 
 
 ![](@attachment/Clipboard_2020-02-24-19-57-21.png) 2:05
 
-There is no shortcut to create an element with a class or with a set attribute like so:
+There is no shortcut to create an element with a class or with a set attribute, so something like the code below would **not** work 👇
 
 ```js
 const myParagraph = document.createElement('p.special[title="hey"]');
 ```
 
-If you want to add or get attributes from it, you must instead do it the way we have learned.   
+If you want to add or get attributes from it, you must instead do it the way we have learned, as shown below 👇
  
 ```js
 const myParagraph = document.createElement('p');
@@ -940,9 +947,11 @@ console.log(myParagraph);
 
 ![](@attachment/Clipboard_2020-02-24-20-00-35.png) 2:57
 
-We now have that paragraph with a class of `.special` and the text content that we supplied it with. 
+We now have that paragraph with a class of `special` and the text content that we supplied it with. 
 
-We will create a new more elements before we go over how to actually insert them into the DOM. 
+Let's create a few more elements before we get into how to actually insert them into the DOM. 
+
+First create an image element as shown below 👇
 
 ```js
 const myImage = document.createElement('img');
@@ -951,7 +960,7 @@ myImage.alt = "Nice photo";
 console.log(myImage);
 ```
 
-Next we will create a div 
+Next, create a div with a class of `wrapper` and log it. 
 
 ```js
 const myDiv = document.createElement('div');
@@ -959,13 +968,22 @@ myDiv.classList.add('wrapper');
 console.log(myDiv);
 ```
 
-Now we have a paragraph, an image and a div. 
+Now we have created 3 elements:
+- a paragraph
+- an image 
+- div
 
-How do we add it to the page? We use another API called **appendChild**. So you need to go off and grab some sort of element to call `.appendChild()` against. 
+How do we add it to the page? 
 
-If you want to dump it straight into the body, you can grab the document.body and insert it. `document.body` is available to us because the `document` element gives us access to the body element quickly via a property. Not every element is as easily accessible to us like body is. 
+We use another API called **appendChild**. To use it, you have to first select an element to call `.appendChild()` against. 
 
-Let's look up `appendChild()` in MDN. It takens in one param, which is a child. 
+If you want to add the element directly into the body, you can grab the `document.body` and insert it. 
+
+`document.body` is available to us because the `document` element gives us access to the `body` element quickly via a property. Not every element is as easily accessible to us like `body` is. 
+
+Let's look up `appendChild()` in MDN. 
+
+It takes in one parameter, which is a child reference. 
 
 ![](@attachment/Clipboard_2020-02-24-20-07-18.png) 5:54
 
@@ -975,9 +993,9 @@ document.body.appendChild(myParagraph);
 
 ![](@attachment/Clipboard_2020-02-24-20-08-24.png)
 
-This gives us a p tag right before the closing body tag. 
+This gives us a `p` tag right before the closing `body` tag. 
 
-`appendChild()` can be called against any node, so we can do something like this:
+`appendChild()` can be called against any node, so we can do something as shown in the code below 👇
 
 ```js
 document.body.appendChild(myDiv);
@@ -987,47 +1005,62 @@ myDiv.appendChild(myImage);
 
 ![](@attachment/Clipboard_2020-02-24-20-12-08.png) 7:02
 
-It is probaby better to do that in reverse order. Why? Because everytime you call `appendChild()` you are modifying the DOM and that causes in the browser something called a 're-flow" which tells the browser that something has been changed, that new elements have been added, and tells the browser to repaint the html. This means that if you call `appendChild()` three times in a row, you are causing the browser to re-render three times in a row. That can start to eat into other things on the page and degrade the user experience. 
+It is probaby better to do that in reverse order. Why? 
 
-What you could do instead is:
+Everytime you use `appendChild()` you are modifying the DOM, which causes something called a **reflow** in the browser, which tells the browser that something has changed and that the browser needs to repaint the HTML. 
 
-```
+This means that if you call `appendChild()` 3 times in a row, you are causing the browser to re-render 3 times in a row. 
+
+That can start to eat into other things on the page and degrade the user experience. 
+
+To solve that, you could modify the code like so 👇
+
+```js
 myDiv.appendChild(myParagraph);
 myDiv.appendChild(myImage);
 document.body.appendChild(myDiv);
 ```
 
-What we are doing here is we are creating the elements and inserting the paragraph inside of the div, and the image inside of the div as well, but we are only modifying the DOM once in the last `document.body.appendChild(myDiv)`. That will cause the browser to re-paint only once as opposed to three times in the earlier example. 
+What we are doing here is:
+1. we are creating the elements and inserting the paragraph inside of the div
+2. then we are inserting the image inside of the div as well
+3. finally, we call `document.body.appendChild(myDiv)` last to modify the DOM
 
-Technically, the browser is doing two repaints, once when you dump the div in and the second time when the image loads, that's not the end of the world, that is how the browser works. 
+This approach causes the browser to re-paint only once as opposed to 3 times in the earlier approach. 
+
+_(Technically, the browser is doing 2 repaints, once when you dump the div in and the second time when the image loads, that's not the end of the world, that is how the browser works.)_
 
 That is one way to go ahead and create elements, using the `createElement()` API. 
 
-**append()**
+### `append()`
 
-You may come across in your searches that there is `.append()` however it doesn't seem to be fully supported in internet explorer so I would hold off on using it but it works very similarly to `createElement`.
+You may come across the `.append()` methodm when searching for how to add an element to the DOM, which works very similarly to `createElement`. However, `append()` doesn't seem to be fully supported in Internet Explorer so Wes suggests holding off on using it. 
 
 ![](@attachment/Clipboard_2020-02-24-20-18-37.png)
 
-**insertAdjacentElement()**
+### `insertAdjacentElement()`
 
-There is another API that Wes is fond of which is `Element.insertAdjacentElement()`. Earlier we looked at `insertAdjacentText()` to before, after and inside elements. Pretty much the same API works with elements. 
+There is another API, `insertAdjacentElement`, that Wes is fond of using. It works similarly to `insertAdjacentText()` which we looked at in a previous lesson and is used to add text before, after and inside elements. 
+
+The difference is `insertAdjacentElement` is used to insert elements before, after and inside other elements. 
 
 ![](@attachment/Clipboard_2020-02-24-20-21-06.png) 10:41
 
-This is handy because let's say we have the div with paragraph, but we need to insert something infront of the pargaph.
+This is handy when you need to do something like insert an element before a paragraph in a div. 
 
-```
+```js
 const heading = document.createElement('h2');
 heading.textContent = 'Cool things';
 myDiv.appendChild(heading);
 ```
 
+If you try using `appendChild` as shown in the code above 👆, you should see that the heading is inserted after the image _(as shown below 👇)_ which is **not** what we want. 
+
 ![](@attachment/Clipboard_2020-02-24-20-22-51.png)
 
-If you do the above, you will see that the heading is inserted after the image which is not what we want. 
-
-`insertAdjacentElement()` takes two things, first the position of where you want it to do, and then the element you want to insert.
+`insertAdjacentElement()` takes two parameters:
+1. the position of where you want to insert the element
+2. the element you want to insert.
 
 ```js
 myDiv.insertAdjacentElement('afterbegin', heading);
@@ -1037,30 +1070,39 @@ That will put the heading before the paragraph and image tag.
 
 ![](@attachment/Clipboard_2020-02-24-20-28-04.png)
 
-If you were to use `beforebegin`, it will isert the header before the div tag, as a sibling to the wrapper. That may be something you will need to use. Let's say you have a few cards and you need to add something after the first card. You can grab the second card and use beforebegin to insert an element before it. 
+If you were to use `beforebegin`, it would insert the `header` before the `div` tag, as a sibling to the wrapper. 
 
-Let's do one more example. We will create an unodered list with 5 items in it, and we will do that entirely with all the APIs we have learned so far. 
+That may be something you will need to use. 
 
-It should look like 
+Let's say you have a few cards and you need to add something after the first card. You can grab the second card and use `beforebegin` to insert an element before it. 
+
+### Generating An Unordered List
+
+Let's do one more example. In this example, we will create an unodered list with 5 items in it, using all the APIs we have learned so far. 
+
+The outcome should like the code shown below 👇
 
 ```html
  <ul>
-    <li>one</li>
-    <li>two</li>
-    <li>three</li>
-    <li>four</li>
-    <li>five</li>
-  </ul>
+  <li>one</li>
+  <li>two</li>
+  <li>three</li>
+  <li>four</li>
+  <li>five</li>
+</ul>
 ```
 
-Start with the middle one and then try to insert one before.. however you can make use of all the APIs that we have gone over. 
+Start with the middle one and then try to insert one before, however you can make use of all the APIs that we have gone over. 
 
 Pause the video here and try to create that and inject it into the DOM. 
 
-First we will create the unordered list. Then we will make the third list item and append it to the list. 
+Once you have tried that, continue on. 
 
-NOTE: If this seems like a lot of code to make an unordered list, well it is, we will go over in the next section how we can write a bit of html in a string and inject it in. 
+First, create the unordered list. 
 
+Next, create the third list item and append it to the list. 
+
+_NOTE: If this seems like a lot of code to make an unordered list, well it is, we will go over in the next section how we can write a bit of html in a string and inject it in._
 
 ```js
 const list = document.createElement('ul');
@@ -1071,7 +1113,7 @@ list.appendChild(li);
 document.body.insertAdjacentElement('afterbegin', list);
 ```
 
-Now let's create the other list item which we will use `append()` to add:
+Next, create the other list item which we will add using `append()`, like so 👇
 
 ```js
 const li5 = document.createElement('li');
@@ -1079,35 +1121,48 @@ li5.textContent = 'Five';
 list.append(li5);
 ```
 
-There is the ability to clone a node which we could do like so:
+There is the ability to clone a Noe which we could do as shown below 👇
 
 ```js
 const li1 = li5.cloneNode();
 list.insertAdjacentElement('afterbegin', li1);
 ```
 
-What this will do is take a clone of the li5 node , and then we are going to insert it adjacently. 
+What that code will do is it will create a clone of the `li5` Node, and then insert that clone adjacently. 
 
 ![](@attachment/Clipboard_2020-02-24-20-37-23.png) 16:03
 
-If you reload the page, you will see that we added the element but it is empty. That is because if we look at the docs for `cloneNode()`, it accepts a param of "deep" which specifies whether to clone the child nodes or not. You may be wondering "well isn't text part of the element?", and no, it is a child of the element. Just because it is not wrapped in a separate element like a `<span>` or something, makes it just a regular node. So we need to pass `true` when doing `cloneNode()`. 
+If you reload the page, you will see that we added the element but it is empty.
+
+If you take a look at the docs for `cloneNode()`, you will see that it accepts a parameter of "deep" which specifies whether to clone the child nodes or not. 
+
+You may be wondering "well isn't text part of the element?", and no, it is actually a child of the element. 
+
+Since the text is not wrapped in a separate element (like a `span` or `p` tag), that makes it just a regular node. 
+
+That means we need to pass true when using `cloneNode` to include the text, as shown below 👇 
 
 ```js
 const li1 = li5.cloneNode(true);
-li1.textContent = 'One';
+li1.textContent = 'one';
 list.insertAdjacentElement('afterbegin', li1);
 ```
 
-In this instance `cloneNode()` wasn't much more efficient to use, but it generally is if you are trying to clone an element that has a lot of attributes set on it, and want to copy those over as well.
+In this instance `cloneNode()` wasn't much more efficient to use, but it generally is.
 
-Now that we have one, three and five, how do we inject two and four? 
+If you are trying to clone an element that has a lot of attributes set on it, and want to copy those over as well, it is much more efficent to use `cloneNode`. 
+
+Now that we have 1, 3 and 5, how do we inject 2 and 4? 
 
 ```js
 const li4 = document.createElement('li');
 li4.textContent = 'Four';
 li5.insertAdjacentElement('beforebegin', li4); 
 ```
-We will use `beforebegin` because we want it to go beside the 5th one. 
+
+We will use `beforebegin` 👆because we want four to go beside the 5th one. 
+
+FInally for two, we can use `afterend` to insert it after the first list item, as shown in the code below 👇
 
 ```js
 const li2 = document.createElement("li");
@@ -1115,8 +1170,9 @@ li2.textContent = "Two";
 li1.insertAdjacentElement("afterend", li2); 
 ```
 
-That was a good practice of using all the different APIs available to us to create elements, set the contents and insert them in different ways. 
-In the next video, we will look at how we can use backticks and strings to generate the HTML for us. 
+That was a good practice exercise because we used all the different APIs available to us to create elements, set the contents and insert them in different ways. 
+
+In the next video, we will look at how we can use backticks and strings to generate the HTML. 
 
 --- 
 

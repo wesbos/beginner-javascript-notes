@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-31T17:02:46.984Z'
+modified: '2020-07-31T18:00:11.705Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -514,7 +514,7 @@ If you look into the **prototype** _(we haven't learned what that is yet)_, you 
 To name a few, there is 
 - `add`
 - `remove`
--`contains`
+- `contains`
 - `foreach`. 
 
 A lot of those are methods for working with classes which is exactly what we are going to do.
@@ -681,36 +681,40 @@ Whenever Wes needs to work with classes, he uses `classList` which is a few year
 
 ---
 
-## 24 - The DOM - Build in and Custom Data Attributes
+## 24 - The DOM - Built in and Custom Data Attributes
 
-When you are working with HTML elements, those elements have something called attributes. Attributes are anything provided to an element as additional information. Things like classes, src, alt attributes. 
+When you are working with HTML elements, those elements have something called **attributes**. 
 
-Attributes work the same way as the other properties that we have been working with so we will go over it quickly before getting into custom attributes and data attributes. 
+Attributes are anything provided to an element as additional information. Things like classes, src, alt are all attributes. 
 
-Here is how we would add an alt attribute to the image element we were using in the previous video. 
+Attributes work the same way as the other properties that we have been working with, so we will go over it quickly before getting into custom and data attributes.
+
+To add an alt attribute to the image element we were using in the previous video, you would add the following javascript code 👇
 
 `pic.alt = "cute pup";`
 
-TIP: When adding alt attributes to images, the value of the alt text should describe the image. You do not need to include in the text that it is a photo, because screen readers will specify that. 
+_TIP: When adding alt attributes to images, the value of the alt text should describe the image. You do not need to include in the text that it is a photo, because screen readers will specify that._
 
 Although we did not add the alt attribute when we authored the element, when we added it via javascript, you can now see it on the element. 
 
 ![](@attachment/Clipboard_2020-02-20-09-01-29.png)
 
-We could also do something like setting the width. 
+We can also set the width of the image this way, by adding the code below 👇
 
 ```js
 pic.width = 200;
 ```
 
-Most attributes are both **getters** and **setters**, meaning we could do both of the following:
+Most attributes are both **getters** and **setters**, meaning we can set the attribute, and retrieve the attribute value. That allows us to do both of the following 👇
 
 ```js
 pic.alt = 'Cute pup'; //setter
 console.log(pic.alt); //getter
 ```
 
-Some attributes however are only getters, such as `naturalWidth`. If you add 
+Some attributes however are only getters, such as `naturalWidth`. 
+
+If you add the code below, we get zero 👇 
 
 ```js
 console.log(pic.naturalWidth);
@@ -718,13 +722,19 @@ console.log(pic.naturalWidth);
 
 ![](@attachment/Clipboard_2020-02-24-19-07-41.png)
 
-We get zero! Why is that? If you try running it from your console like so, you get a value of 600 back. Why?
+However, if you copy and paste that in the console and run it, you get a value of 600 back. 
 
 ![](@attachment/Clipboard_2020-02-24-19-08-05.png)
 
-It is zero when we console log it in the javascript file, but in the terminal it is 600. This is a problem that you frequently run into, which is that we have to wait for the image to actually be downloaded for us to know how large it is. This is a big problem when people were building slideshows. SO how to overcome this? One option is to add an event listener on the load event.
+Why is it zero when we log it from the javascript file, but running the code in the console returns 600?
 
-What this should do is wait for all the images, resources, CSS, Javascript, anything that needs to be loaded to load before calling the function. 
+This is a problem that you frequently run into, which is that we have to wait for the image to actually be downloaded for us to know how large it is. 
+
+This is a big problem when people were building slideshows. 
+
+How can you overcome this? One option is to add an event listener on the load event.
+
+What that will do is wait for all the images, resources, CSS, Javascript, and anything that needs to be loaded to load before calling the function. 
 
 ```js
 window.addEventListener('load', function(){
@@ -732,9 +742,11 @@ window.addEventListener('load', function(){
 });
 ```
 
-Now, a split second after you refresh your html page, you should see the naturalwidth value logged in the console. 
+When you refresh your HTML page now, after a split second, you should see the naturalwidth value logged in the console. 
 
-You can also use the eventlistener specifically on an image. So we could modify the event listener code we added like so:
+You can also use the event listener specifically on an image. 
+
+Modify the code we added like so 👇
 
 ```js
 pic.addEventListener('load', function(){
@@ -742,33 +754,62 @@ pic.addEventListener('load', function(){
 });
 ```
 
-Now that will work as well, once the image is loaded, the event listener will fire.  All of that eventListener stuff is a bit ahead of ourselves but it's good to know some of the gotchas that you may encounter. 
+That still works, because once the image is loaded, the event listener will fire.  
 
-You might be asking yourself "we added our javascript script src tag at the end of the html file, doesn't that mean that is waits for everything to be loaded?". Yes, putting the script at the bottom of the html page waits for all the HTML to be loaded, but if the HTML goes ahead and makes additional requests like downloading images, it doesn't wait for those. 
- 
+_(All of that event listener stuff is a bit ahead of ourselves, we will be covering it later in the course, but it's good to know some of the gotchas that you may encounter.)_
 
-Getting back on track, we were discussing how `naturalWidth` is only a getter. If try to set it in the code:
+You might be asking yourself 
+>"We added our javascript script src tag at the end of the html file, doesn't that mean that is waits for everything to be loaded?"
+
+Yes, putting the script at the bottom of the HTML page waits for all the HTML to be loaded.  However, if the HTML goes ahead and makes additional requests like downloading images, it doesn't wait for those. 
+
+Getting back on track, we were discussing how `naturalWidth` is only a getter.
 
 ```js
 pic.naturalWidth = 200;
 ```
+If you try to set it with the code above 👆, it won't error out, but it won't do anthing.That is because it is an attribute that you cannot change. 
 
-It won't error out, but it won't do anthing, and that is because it is not an attribute that you can change. 
+All attributes on an element are done via getters and setters.
 
+You can use the **dot notation** to access them. 
 
-All of the attributes you can think of on any element are all done via getters and setters. You just use the dot notation to access them. 
+You may have run into these methods already:
+- `getAttribute`
+- `setAttribute` 
+- `hasAttribute`
 
-You may have run into these `getAttribute`, `setAttribute` and `hasAttribute` methods:
+You can use `getAttribute` like so 👇
+
+```js
+console.log(pic.getAttribute('alt'));
+```
+
+![](@attachment/Clipboard_2020-07-31-13-44-38.png)
+
+You can use `setAttribute` like so 👇
 
 ```js
 pic.setAttribute('alt', 'REALLY CUTE PUP');
-console.log(pic.getAttribute('alt'));
+```
+
+![](@attachment/Clipboard_2020-07-31-13-45-44.png)
+
+And there is `hasAttribute` which will return true or false based on whether that attribute is set on an element or not. 
+
+```js
 console.log(pic.hasAttribute('alt'));
 ```
 
-`hasAttribute()` returns true or false depending on whether an attribute is set on an element. 
+What is the difference between using `getAttribute` and using the dot notation to grab the attribute? 
 
-However, what is the difference between using `getAttribute` and using the dot notation to grab the attribute? The answer to that is that `setAttribute()` will also work for things that are non-standard. We have HTML as a spec, and you have all of your standard attributes in the spec like `alt`, `title`, `width`, `src`, and all of those things. But if you want to set an attribute that is non standard (which you shouldn't do, more to come regarding that), you can use setAttribute to make something. For example
+The difference is that `setAttribute()` will also work for things that are non-standard. 
+
+We have HTML as a spec, and you have all of your standard attributes in   the spec like `alt`, `title`, `width`, `src`, and all of those things. 
+
+But if you want to set an attribute that is non standard (_which you shouldn't do, more to come regarding that)_, you can use setAttribute to make something. 
+
+For example, 👇
 
 ```js
 pic.setAttribute('wes-is-cool', 'REALLY CUTE PUP');
@@ -776,11 +817,17 @@ pic.setAttribute('wes-is-cool', 'REALLY CUTE PUP');
 
 ![](@attachment/Clipboard_2020-02-24-19-35-04.png) 7:07
 
-You should not go making your own attributes whenever you want because what if in the future HTML introduces an attribute with the same name as one of your custom attributes. You will have legacy code that is clashing with the standards which will lead to bugs. 
+You should not go making your own attributes whenever you want because it is possible that in the future, an HTML standard attribute will be introduced with the same name as one of your custom attributes. 
 
-**Data Attributes**
+Then you would end up with a situation where you have legacy code that is clashing with the standards which will lead to bugs. 
 
-If you do want your own custom attributes, you want to use **data attributes**. To demonstrate what data attributes are, go to our html page and duplicate an image 3 times and add a `data-name` attribute to each:
+### Data Attributes
+
+If you do want your own custom attributes, you want to use **data attributes**. 
+
+To demonstrate what data attributes are, we will do an example. 
+
+In the HTML page, duplicate an image tag 3 times and add a `data-name` attribute to each, like so 👇
 
 ```html
 <img class="custom" data-name="wes" src="https://picsum.photos/200" />
@@ -788,18 +835,28 @@ If you do want your own custom attributes, you want to use **data attributes**. 
 <img data-name="lux" src="https://picsum.photos/200" />
 ```
 
-In this example, we just wanted to attach a piece of metadata to each of the images. If you want to attach metadata or something to an element that does not have any sort of standard attribute like a name attribute, then you can use `data-` anything. For example: `data-dog`, `data-name`, `data-description` are all valid data attributes. That will allow you to attach metadata to an element. 
+In this example, we wanted to attach a piece of metadata to each of the images. 
+
+If you want to attach metadata or something to an element that does not have any sort of standard attribute like a name attribute, then you can use `data-` anything. 
+
+For example: `data-dog`, `data-name`, `data-description` are all valid data attributes. 
+
+That will allow you to attach metadata to an element. 
 
 ![](@attachment/Clipboard_2020-02-24-19-40-52.png) 9:12
 
-Let's say we want to grab the image with the custom class and access the data attributes on that image. You might think we do something liek this 
+Let's say we wanted to grab the image with the class of `custom` and access the data attributes on that image. 
+
+You might mistakenly think we do something like this 👇
 
 ```js
 const custom = document.querySelector('.custom');
 console.log(custom.data);
 ```
 
-However, that will give us undefined. If you want to access the data attributes on the element you would call `dataset` like so:
+However, that will not work, and will return `undefined`.
+
+If you want to access the data attributes on the element you would call `dataset` like so 👇
 
 ```js
 const custom = document.querySelector('.custom');
@@ -808,7 +865,9 @@ console.log(custom.dataset);
 
 ![](@attachment/Clipboard_2020-02-24-19-43-41.png)
 
-That gives us an object that is full of all the property values that you have. `data-name` shows up as "name" in our object, and if we had multiple data attributes on the same image like so:
+That gives us an object that is full of all the property values that you have. 
+
+`data-name` shows up as the `name` property in our object, and if we had multiple data attributes on the same image, as shown in the code below, they would both be present in the object. 👇
 
 ```html
 <img class="custom" data-name="wes" data-last="bos" src="https://picsum.photos/200" />
@@ -816,7 +875,11 @@ That gives us an object that is full of all the property values that you have. `
 
 ![](@attachment/Clipboard_2020-02-24-19-45-17.png) 10:15
 
-Why would this be useful? We can do things like listen for a click, and when someone clicks on it, we can alert them. 
+Why would this be useful? 
+
+This is useful because we can do things like listen for a click on an element, and when someone clicks on it, we can alert them. 
+
+Take the following code for example 👇
 
 ```js
 custom.addEventListener('click', function(){
@@ -824,13 +887,13 @@ custom.addEventListener('click', function(){
 });
 ```
 
-Now if you were to click on that image, you would get an alert, like so:
+If you add that, and then click on the image, you would get an alert, similar to the one shown below.
 
 ![](@attachment/Clipboard_2020-02-24-19-47-27.png)
 
-Wes loves using data attributes when you are coding vanilla javascript.
+Wes loves using data attributes when coding **vanilla javascript**.
 
-To recap: anytime you need some sort of  custom attribute, when you need to associate some sort of information, some sort of text etc, use the custom data attribute. 
+To recap: anytime you need a custom attribute, such as when you need to associate some sort of information with an element, use the custom `data` attribute. 
 
 ---
 

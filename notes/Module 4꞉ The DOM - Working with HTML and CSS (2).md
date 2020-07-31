@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png, Clipboard_2020-07-31-16-16-42.png, Clipboard_2020-07-31-17-01-39.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-31T20:13:53.761Z'
+modified: '2020-07-31T21:17:54.751Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -1130,7 +1130,7 @@ list.insertAdjacentElement('afterbegin', li1);
 
 What that code will do is it will create a clone of the `li5` Node, and then insert that clone adjacently. 
 
-![](@attachment/Clipboard_2020-02-24-20-37-23.png) 16:03
+![](@attachment/Clipboard_2020-07-31-16-16-42.png) 16:03
 
 If you reload the page, you will see that we added the element but it is empty.
 
@@ -1178,13 +1178,17 @@ In the next video, we will look at how we can use backticks and strings to gener
 
 ## 26 - The DOM - HTML from Strings and XSS
 
-We are going to learn about creating HTML with strings, using the **backtick strings** Wes showed us earlier. 
+We are going to learn about creating HTML with strings, using **backtick** strings, which Wes showed us earlier. 
 
-This approach is Wes' favourite, but make sure to watch the video all the way through, because at the end Wes will show a potential security hole that comes up when using this method. The main security flaw with this method is something called **XSS** which stands for **cross-site scripting**.
+This approach is Wes' favourite, but make sure to watch the video all the way through, because at the end Wes will show a potential security hole that comes up when using this method. 
+
+The main security flaw with this method is something called **XSS** which stands for **cross-site scripting**.
 
 Create a new javascritp file `creating-with-strings.js` and change the script src in the `index.html` file to point to our new file. 
 
-There is a property `innerHTML`, which is similar to `innerText` which we can grab off an element. We will grab the element with the class of item and console log it. 
+There is a property `innerHTML`, which is similar to `innerText`, which we can get off an element. 
+
+Select the element with the class of `item` and log it. 👇
 
 ```js
 const item = document.querySelector('.item');
@@ -1193,40 +1197,46 @@ console.log('item.innerHTML');
 
 ![](@attachment/Clipboard_2020-02-26-07-09-00.png) 2:13 
 
-You can see that `innerHTML` is a string of all the HTML that makes up what is inside of it. That is a getter. What if we use it as a setter?
+You can see that `innerHTML` is a string of all the HTML that makes up what is inside of it. 
 
-```
-innerHTML = `<h1>Hey How are you?</h1>`;
-console.log(innerHTML);
+That is a getter. 
+
+What if we try to use it as a setter, as shown below? 👇
+
+```js
+item.innerHTML = `<h1>Hey How are you?</h1>`;
+console.log(item.innerHTML);
 ```
 
 ![](@attachment/Clipboard_2020-02-26-07-10-08.png) 2:39
 
 The inside of the `div.item` has been updated with some HTML. 
 
-That works because if you set the innerHTML of an element with just a string instead of a regular document.createElement, document.cloneElement like we did in the previous video, it will take the text and dump that HTML into the item. If it is valid HTML, the browser will take it and parse it and turn it into all the items. 
+That works because if you set the `innerHTML` of an element with just a string, it will take the text and dump that HTML into the item. This can be used instead of te `document.createElement`, or `document.cloneElement` methods we used in the previous lesson. 
 
-TIP: You may have noticed that in Wes code editor, he has the ability to type the first few letters of something and then expand it. He is using an extension called Emmet to get those expansions and using a command called Expand Abbreviation to expand them. It lets you write things like `div.item.iteme` which will expand out to `<div class="item iteme"></div>`. 
+If the string it is valid HTML, the browser will take the string, parse it and turn it into all the items.  
 
-One benefit of using backticks for single or double is that you can have multiple lines. 
+_TIP: You may have noticed that in Wes code editor, he has the ability to type the first few letters of something and then expand it. He is using an extension called Emmet to get those expansions and using a command called Expand Abbreviation to expand them. It lets you write things like `div.item.item` which will expand out to `<div class="item iteme"></div>`._
 
-```
+One benefit of using backticks for single or double is that you can have a string that spans multiple lines, like so 👇
+
+```js
 item.innerHTML = `
   <div>
     <h1>Hey How are you?</h1>;
   </div>
-`
+`;
 ```
 
-IT doesn't matter if you indent or put it all on one line, but it makes it easier for you to read it when you code. 
+It doesn't matter if you indent or put it all on one line, but having it on multiple lines does make it easier for you to read it when you code typically.
 
-So to recap: setting innerHTML into your element is one way to dump your string in and have the browser create all the elements for us. 
+To recap: setting the `innerHTML` of your element is one way to dump a string of HTML in and have the browser create all the elements for us. 
 
-Why is that useful other than the fact that we don't have to do all the document.createElement and appending steps? Because, when you use backticks, you can **interpolate values** very easily. 
+This method of inserting elements is useful not only because it has less steps than using `document.createElement` or similar methods, but it also gives you the ability to easily **interpolate** values.
 
-For example:
+Below is an example of that 👇
 
-```
+```js
 const src = `https://picsum.photos/200`;
 const desc = "Cute pup";
 const myHTML = `
@@ -1237,20 +1247,24 @@ const myHTML = `
 `;
 ```
 
-We are able to use the syntax `${variable}` it allows us to pop variables right into the template that we have. This is similar to template that exists in almost every programming language, although they all look a little different. It all works the same way.
+We are able to use the backtick syntax like `${variable}`, which allows us to pop variables right into the string template that we have. 
 
-Now, when we set the innerHTML of an element, all the vairables will have been populated. 
+This is similar to templating that exists in almost every programming language, although they all look a little different. The general idea is the same. 
 
-```html
+When we set the `innerHTML` of an element to equal `myHTML`, all the variables will have been populated. 👇
+
+```js
 item.innerHTML = myHTML;
 console.log(item.innerHTML);
 ```
 
 ![](@attachment/Clipboard_2020-02-26-07-24-01.png) 6:45
 
-We could go a step further with the following code, notice the `width` variable and how we are interpolating the width variable in the `src` declaration. 
+We could go a step further with the following code.  
 
-```
+Take a look at the `width` variable and how we are interpolating the `width` variable in the `src` variable declaration. 
+
+```js
 const width = 500;
 const src = `https://picsum.photos/${width}`;
 const desc = "Cute pup";
@@ -1262,25 +1276,47 @@ const myHTML = `
 `;
 ```
 
-Now the image link will return a much larger photo of 500px. 
+If you refresh the page, the image link will now return a much larger photo of 500px. 
 
-Besides security, one of the other downsides to using this method to insert HTML is that the contents of the `myHTML` variable are not elements, they are just strings. 
+Besides security, one of the downsides to using this method to insert HTML is that the contents of the `myHTML` variable are not elements, they are just strings. 
 
-You can see that in two ways. First, you can `console.log(myHTML);` and you can also check and log he type of the variable like so: `console.log(typeof myHTML);`. 
+You can see that in two ways. 
+
+First, you can log the value of `myHTML` and you can also check and log it's type, like so 👇
+
+```js
+console.log(typeof myHTML);
+```
 
 ![](@attachment/Clipboard_2020-02-26-19-06-05.png) 7:37
 
-That means we cannot do things like `myHTML.classList.add('special');` If you try to do that, it will give you an error similar to
+```js
+myHTML.classList.add('special');
+```
+That means we cannot do things like add the code above  👆. 
 
-> Cannot read property 'add' of undefined at ...
+If you try to do that, it will give you the following error 👇
+> Cannot read property 'add' of undefined 
 
-Similarly, if you try to do `console.log(myHTML.classList);` you will see that it is also undefined. Why? Because it is only a string. 
+![](@attachment/Clipboard_2020-07-31-17-01-39.png)
 
-It only becomes an element once we dump it into the DOM by setting the `innerHTML`. If you want to do things like add event listeners, add to the classList, dynamically change any attributes, like title or alt or src of any of those elements, it is not doable until you first dump it into the DOM. 
+Similarly, if you try to do log `myHTML.classList`, you will see that it is also undefined. 
 
-Once you dump it into the DOM, you have to go ahead and pull it out.  Here is an example. 
+Why? 
 
-Let's say we wanted to add a class to the image within `myHTML`. We would have to do that like so:
+Because it is only a string. 
+
+It only becomes an element once we dump it into the DOM by setting the `innerHTML`. 
+
+If you want to do things like add event listeners, add to the `classList`, dynamically change any attributes, like `title` or `alt` or `src`, it is not possible until you first dump it into the DOM. 
+
+Once you dump it into the DOM, you have to go ahead and pull it out. 
+
+Here is an example. 
+
+Let's say we wanted to add a class to the image within `myHTML`. 
+
+We would have to do that like so 👇
 
 ```js
 const itemImage = document.querySelector('.wrapper img');
@@ -1289,97 +1325,129 @@ itemImage.classLIst.add('round');
 
 ![](@attachment/Clipboard_2020-02-26-19-13-49.png) 9:59
 
-There are a few ways you can get around that and do the best of both worlds which is using document.createRange and document.createFragment. 
+### `document.createRange()` and `document.createFragment()`
 
-Remove everything below the `myHTML` declaration within `creating-with-strings.js`. Let's now turn the string into a DOM element. 
+There are a few ways you can get around that and do the best of both worlds which is using `document.createRange()` and `document.createFragment()`. 
 
-```
+Remove everything below the `myHTML` declaration within `creating-with-strings.js`. 
+
+Next, let's now turn the string into a DOM element. 
+
+```js
 const myFragment = document.createRange();
 console.log(myFragment);
 ```
 
 ![](@attachment/Clipboard_2020-02-26-19-16-40.png) 11:19
 
-This code creates something called a range. A range is essentially a collection of elements or part of HTML that we can then work with. That is exactly what we want, we want to take the `myHTML` string and create a couple of fragments. 
+This code creates something called a **range**. 
 
-We can call another method directly on `document.createRange()` called `.createContextualFragment();` which takes in a string as a parameter. 
+A range is essentially a collection of elements or part of HTML that we can then work with. That is exactly what we want, we want to take the `myHTML` string and create a couple of fragments. 
 
-```
+We can call another method directly on `document.createRange()` called `.createContextualFragment();` which takes in a string as a parameter, like so 👇
+
+```js
 const myFragment = document.createRange().createContextualFragment(myHTML);
 console.log(myFragment);
 ```
 
-If you open the page in a browser and view the console, you will see that we can this thing called a **document fragment** (which is just a way of saying some HTML). 
+If you open the page in a browser and view the console, you will see that we have this thing called a **document fragment** (which is just a way of saying some HTML). 
 
 ![](@attachment/Clipboard_2020-02-26-19-20-03.png) 11:46
 
-Now, from within this fragment, we are able to access all of the elements that live inside of it. We turned our HTML into true elements which are still not on the page anywhere but we have them as DOM elements and now can do things like `myFragment.querySelector('img');` and look for an image inside of the fragment. 
+Now, from within this fragment, we are able to access all of the elements that live inside of it. 
 
+What we have done is turned our HTML into true elements, that are still not on the page anywhere, but we have them as DOM elements and do do things like look for an image inside of a fragment using the following code 👇
+
+```js
+myFragment.querySelector('img');
+```
 ![](@attachment/Clipboard_2020-02-26-19-22-18.png) 12:29
 
-Let's now try to append the fragment to the document. Let's try `appendChild()` 
-```
+Let's now try to append the fragment to the document. 
+
+Let's try `appendChild()`.
+
+```js
 document.body.appendChild(myFragment);
 ```
 
-That works! You could also do 
+That works! You could also do  👇
 
-```
+```js
 document.body.appendChild(myFragment);
 ```
 
-You could also use `insertAdjacent` which we learned previous. 
+You could also use `insertAdjacent()` which we learned about previously. 
 
-To recap: when you want to create HTML from a string, you can dump it into the document using `innerHTML`, OR when you need to do things with the elements in javascript, you can turn it into DOM nodes before it is dumped into the document with `createContextualFragment()`. 
+To recap: 
+
+When you want to create HTML from a string, you can dump it into the document using `innerHTML`, OR when you need to do things with the elements in javascript, you can turn it into DOM Nodes before it is dumped into the document with `createContextualFragment()`. 
 
 
 ### Security and Santization
 
-We will have an entire video on security later in the course, but for now, we want to talk about the potential pitfalls of inserting HTML using strings. 
+We will have an entire video on security later in the course, but for now, we need to talk about the potential pitfalls of inserting HTML using strings. 
 
-One scenario you might run into you have an application with a profile and people can edit their profile, change their name, change their description etc. Now if someone puts HTML into that, what can happen is that the HTML can then be rendered on to the page. 
+One scenario you might run into is let's say you have an application where users have a profile which they can edit and customize such as changing their name or adding a description. 
 
-Let's do an example. 
+If a user were to put HTML where the description input is, what could happen is the HTML in turn could be rendered on to the page. 
+
+Let's demonstrate with an example.
 
 ![](@attachment/Clipboard_2020-02-26-20-10-05.png) 15:00
 
+Let's say we are taking this `desc` variable from somebody. 
 
-Let's say we are taking this description variable from somebody. 
+They could put add the following in their description 👇
 
-They could put `const desc = \`Cute pup <h1>LOVE THIS GUY</h1>\`;`
+```js
+const desc = Cute pup <h1>LOVE THIS GUY</h1>;
+```
 
-If you refresh the HTML page, you will now see that there is actually an H1 tag that wasn't created from us.  
+Add the code about where it says `Cute Pup` and refresh the HTML page. 
+ 
+You should now see that there is actually an `h1` tag that wasn't created from us.  
 
 ![](@attachment/Clipboard_2020-02-26-20-12-38.png) 15:17
 
 Remember, in this example scenario, the description value would be coming from a database, from someone's editor when they typed it in. They just started to put some HTML. 
 
-They could also something like:
+They could also something like 👇
 
-```
+```js
 const desc = `Cute pup <h1>LOVE THIS GUY</h1><style>*{display:none;}</style>`;
 ```
 
 If you refresh the HTML page, you will see all the content is gone. 
 
-ASIDE: This is what MySpace allowed you to do. You used to be able to put in your own style tags 
+_Aside: This is what MySpace allowed you to do. You used to be able to put in your own style tags. So did Neopets._
 
 In this scenario, we were just expecting the user to enter in text but they hijacked it and added whichever HTML they wanted to. 
 
+### XSS (Cross Site Scripting)
+
 That is all fun and games until you get into **XSS** which is shortform for **cross-site scripting**. 
 
-XSS is where people try to insert script tags using a method like entering an HTML string in a text input such as your profile name. The browser will then run the script tag, and you can do anything you want with that, like drain someone's bank account. 
+XSS is where people try to insert script tags using a method like entering an HTML string in a text input such as your profile name. 
+
+The browser will then run the script tag, and you can do anything you want with that, like drain someone's bank account. 
 
 Imagine you were signing in to your online banking and your bank asked you to enter your name, and you included a script tag. You could do anything you want outside of that including deleting things, sending money, any type of malicious acting. 
 
-A very simple example of that is let's say you want to allow someone to include an image in the description of the picture from the example above. Something like:
+A very simple example of that is let's say you want to allow someone to include an image in the description of the picture from the example above. 
+
+Something like the following 👇
 
 ```js
 const desc = `Cute Pup <img src="https://picsum.photos/50"/>`;
 ```
-That is okay, but let's say someone hijackts the `onload` event that is accessible via an attribute on the img element, and will run whatever javascript is supplied to it when the image loads. 
 
-```
+That is okay, but let's say someone hijackts the `onload` event that is accessible via an attribute on the `img` element? That will run whatever javascript is supplied to it when the image loads. 
+
+For example 👇
+
+```js
 const desc = `Cute Pup <img onload="alert('hacked');" src="https://picsum.photos/50"/>`;
 ```
 
@@ -1389,14 +1457,15 @@ If you refresh the HTML page, you will see an alert.
 
 What happened there is you took data from the user and allowed them to run any javascript that they want on your website, which is a potential security hole. 
 
-Imagine that on facebook you allowed someone to run any javascript, you could have your friends unfriend eveyrone, send malicious messages etc. Anytime you allow a third party to run Javascript on your page, that is a huge security hole. 
+Imagine that on Face you allowed someone to run any Javascript, you could have your friends unfriend eveyrone, send malicious messages etc. Anytime you allow a third party to run Javascript on your page, that is a huge security hole. 
 
 The only javascript that should be running on your page is Javascript that you, the developer, authored, and from approved parties like Google Analytics. 
 
-To recap: Cross Site scripting is when a third party injects a script tag through a security hole like this. 
+To recap: 
+
+Cross Site scripting is when a third party injects a script tag through a security hole like this. 
 
 In the security video, we will go over how to scrub your HTML of any potential security vulnerabilities like this before you dump it. 
-
 
 ---
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png, Clipboard_2020-07-31-16-16-42.png, Clipboard_2020-07-31-17-01-39.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-31T21:17:54.751Z'
+modified: '2020-07-31T21:44:02.031Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -1473,34 +1473,43 @@ In the security video, we will go over how to scrub your HTML of any potential s
 
 In this video, we will learn about traversing through our DOM element and removing elements from the DOM. 
 
-Create a file called `traversing.js` and go into the html and modify the script src to point to the new javsascript file. 
+Create a file name `traversing.js` and go into our `index.html` and modify the script source to point to the new file. 
 
-**Traversing** means going up, down, over etc. When you have an element, you often need to select an element based on it's position. For example, let's say you are working on a button and you need to grab its parent div. Or maybe you need to look inside of the button element for all the elements inside of it. 
+**Traversing** means going up, down, over etc. When you have an element, you often need to select an element based on it's position. 
+
+For example, sometimes you are working on a `button` and need to select the parent `div`, or you need to look inside of the `button` for all the elements inside of it. 
 
 There are lots of properties for that, and they all revolve around node and elements. 
 
 ### The difference between and node and an element
 
-We will do an example to demonstrnate the difference. In the `index.html` file, create a p tag with the class of Wes. We are going to put a few elements within the p tag now. 
+We will do an example to demonstrate the difference. 
+
+In the `index.html` file, create a `p` tag with the class of `wes`, and within the paragraph tag add a few elements, as shown below 👇
 
 ```html
 <p class="wes">I am Wes, I <em>love</em> to bbq</p>
 ```
 
-Now in the javaascript we will select that p tag. 
+In the Javascript, select that paragraph. 
 
-```
+```js
 const wes = document.querySelector('.wes');
 console.log(wes);
 ```
 
 ![](@attachment/Clipboard_2020-02-27-07-11-07.png) 2:04
 
-If instead you log the children of the wes element using `console.log(wes.children)`, you will see that in the console we get a collection of one thing, which is the em tag. 
+If instead you log `wes.children`, it will return a collection of one thing in the console, which is the `em` tag we just added.  
 
 ![](@attachment/Clipboard_2020-02-27-07-12-08.png) 2:25
 
-If instead we were to `console.log(wes.childNodes);`, you would see that we get three things: text, em and text. In the HTML collection, only the `em` element was returned. 
+If you log `wes.childNodes` instead, you will see that it returns a NodeList of three things: 
+- text
+- em
+- text 
+
+In the HTML collection, only the `em` element was returned. 
 
 ![](@attachment/Clipboard_2020-02-27-07-13-17.png) 2:30ish?
 
@@ -1518,14 +1527,15 @@ Then the rest of the text.
 
 ![](@attachment/Clipboard_2020-02-27-07-16-38.png) 2:46
 
-Everything in our NodeList in the console is a node, and if it is wrapped in a tag, it is also an element, but it doesn't work the other way around. If you only select elements, you won't have nodes returned. But if you select the nodes, you get all of the three different pieces. 
+Everything in our NodeList in the console is a Node, and if it is wrapped in a tag, it is also an element, but it doesn't work the other way around. 
+
+If you only select elements, you won't have nodes returned. But if you select the nodes, you get all of the three different pieces. 
 
 ![](@attachment/Clipboard_2020-02-27-07-18-49.png) 3:12
 
-TIP: You can do multi-cursor in VS Code. The way you use that is you hold down command or control and click wherever you want the cursors to go. In this video Wes used multicursor by selecting an element and then doing command + D to grab other occurences
+_VS Code TIP: You can do multi-cursor in VS Code. The way you use that is you hold down command or control and click wherever you want the cursors to go. In this video Wes used multicursor by selecting an element and then doing command + D to grab other occurences_
 
-
-### Properties to work with nodes and elements
+### Properties to work with Nodes and Elements
 
 We already looked at children, which gives you child elements or child nodes. 
 
@@ -1554,43 +1564,71 @@ Let's add a few more elements inside of the p tag.
 </p>
 ```
 
-That returns ![](@attachment/Clipboard_2020-02-27-07-26-02.png) 4:22
+If you refresh that page, you should get the following results:
 
-`firstChildElement` returns the emphasis element and the `lastChildElement` returns the strong element. 
+`firstChildElement` returns the emphasis element.
+`lastChildElement` returns the strong element. 
+`previousElementSibling` is null. 
 
-`previousElementSibling` is null. Why? If you look at our html page, you will see that we have a few elements with the class of `item` that are next to each other. 
+![](@attachment/Clipboard_2020-02-27-07-26-02.png) 4:22
+
+Why is `previousElementSibling` null? 
+
+If you look at the HTML page, you will see that a few elements with the class of `item` are next to each other. 
 
 ![](@attachment/Clipboard_2020-02-27-07-29-30.png) 4:45
 
-If we were to grab the second item by clicking it in our developer tools and then using `$0` to reference it in the console, we can take it and run  `$0.childrenElementCount` which will tell us the number of children elements. `$0.children` will return a collection of three elements. `$0.previousElementSibling` will give you the item that is before it. 
+If we were to grab the second item by clicking it in our developer tools and then using `$0` to reference it in the console, we can take it and run the following code in the console:
+
+```js
+$0.childrenElementCount
+```
+👆That will tell us the number of children elements. 
+```js
+$0.children
+``` 
+👆 That will return a collection of three elements. 
+```js
+$0.previousElementSibling
+```
+👆 That will give you the item that is before it. 
 
 ![](@attachment/Clipboard_2020-02-27-07-32-11.png) 5:30
 
-We were on item 2, and the previous element sibling is the first item. 
+We were on `item2`, and the previous element sibling is the first item. In the code we wrote in our javascript file, we selected the first item, which has no previous sibling, thus it returned null. 
 
-JQuery used to make this easy with syntax like `.prev()` `.next()`. All of that is still doable with these properties. They are not named the nicest things but they work and you can figure it out. 
-
+_JQuery used to make this easy with syntax like `.prev()` `.next()`. All of that is still doable with these properties. They are not named the nicest things but they work and you can figure it out._
 
 There is `nextElementSibling` which will grab the sibling element after the currently selected element. 
 
 And then there is `parentElement` which will go up and give you the parent element of the currently selected element. 
 
-If you take an element that is really low in the document like one of our image elements, you can chain calls to `.parentElement` like so:
+If you take an element that is really low in the document like one of our image elements, you can chain calls to `.parentElement` like so 👇  
 
 ![](@attachment/Clipboard_2020-02-27-08-11-29.png) 6:19 
 
-How high can we go? If you add one more `.parentElement` it returns html, and if you add one more, it returns null. That means we have reached the top most element. 
+How high can you chain? 
 
-Now let's say we were to select a span inside of `.item2`, and you do $0, it will give us the span. `$0.parentElement` gives us the h2, and one more parentElement chain gives us item 2. Now we can call `nextElementSibling` which gives us the first item, and then you can do down again using `.children[1]` to select the paragraph with the class of pizza. We will talk about the [] notation shortly, but essentially that is how you reference items that are indexed. 
+To find out, add one more `.parentElement`, which will return HTML, and if you add one more, it will returns null. That means we have reached the top most element. 
+
+In the elments tab in the dev tools, select the span within `item2`, and in the console write `$0`, which should return the span. 
+
+`$0.parentElement` will return the `h2` and chaining one more,`$0.parentElement.parentElement` will return `item2`.  
+`$0.parentElement.parentElement.nextElementSibling` will return the first item.
+
+Now you can go down again using `.children[1]` to select the paragraph with a class of `pizza`. We will talk about the **square bracket notation**(`[]`) shortly, but essentially that is how you reference items that are indexed. 
 
 ![](@attachment/Clipboard_2020-02-27-19-03-47.png) 7:20
 
-By starting with the span in item 2, we went up, up, over down and selected the second element. That is probably not something you would do because assuming that the structure of the HTML is the best way to move aorund elements is probably not a good idea because if someone adds an extra div, then everything is ruined. Using querySelector is better to use to search for what we want. There is also another method `.closest()` which will allow us to search.
+In the code above, we strted with the `span` in `item2`, we went up, up, over down and selected the second element. 
+
+That is probably not something you would do because assuming that the structure of the HTML is the best way to move around elements is probably not a good idea because if someone adds an extra `div`, then everything is ruined. 
+
+Using `querySelector` is better to use to search for what we want. There is also another method `.closest()` which will allow us to search.
  
 We also have a bunch of different properties for Nodes as well. 
 
-
-```
+```js
 el.childNodes
 el.firstChild
 el.lastElementChild
@@ -1599,35 +1637,46 @@ el.nextSibling
 el.parentNode
 ```
 
-Unlike the element properties, these will not ignore text nodes, so it's important to know the difference. In most cases, you probably want the element selectors but in some instances you want the node selectors. 
+Unlike the element properties, these will not ignore text nodes, so it's important to know the difference. 
+
+In most cases, you probably want the element selectors but in some instances you want the node selectors. 
 
 ### Removing Elements
 
-There is a method on every single element on every single node which is the ability to remove something. Let's do it from the dev tools. Grab the h2 tag by clicking the element in the element pane and then in the console write `$0.remove()`.
+There is a method on every single element on every single node which is the ability to remove something. 
+
+Let's do it from the dev tools. 
+
+Grab the `h2` by clicking the element in the element pane and then in the console write `$0.remove()`
  
- ![](@attachment/Clipboard_2020-02-27-19-40-50.png)
+![](@attachment/Clipboard_2020-02-27-19-40-50.png)
 
- That removes the element completely from the DOM. 
- 
- The only kinda gotcha is what happens if you were to create an element, add it to the DOM and call `.remove()`? 
+That removes the element completely from the DOM. 
 
-Let's try it. 
+The only kinda gotcha is what happens if you were to create an element, add it to the DOM and call `.remove()`? 
 
- ```
+Let's try it with the code below 👇
+
+```js
 const p = document.createElement("p");
 p.textContent = "I will be removed";
 document.body.appendChild(p);
-p.remove()
- 
- ```
+p.remove();
+```
 
- If you open the index file in the browser, you won't see the p tag because we added it and then immediately removed it. The question now is what if you console.log `p` after you call `remove()`, will it be null, undefined? 
+If you open the index file in the browser, you won't see the `p` tag because we added it and then immediately removed it. 
 
- ![](@attachment/Clipboard_2020-02-27-19-46-29.png) 10:33
+The question now is what if you log `p` after you call `remove()`, will it be null, `undefined`? 
 
- It is still there! The fact that we had created that element and it exists in our javascript memory means that we do still have access to that paragraph element and we could add it back in to the DOM. If you have reference to that element in javascript, and you've craeted it in your javascript, you can add it again. 
+![](@attachment/Clipboard_2020-02-27-19-46-29.png) 10:33
 
- ---
+It is still there! 
+
+The fact that we had created that element and it exists in our javascript memory means that we do still have access to that paragraph element and we could add it back in to the DOM. 
+
+If you have reference to that element in javascript, and you've created it in your javascript, you can add it again. 
+
+---
 
 ## 28 - The DOM - CARDIO
   

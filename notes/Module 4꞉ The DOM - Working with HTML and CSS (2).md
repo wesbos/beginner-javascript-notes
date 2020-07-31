@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-30T12:45:05.265Z'
+modified: '2020-07-31T17:02:46.984Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -473,100 +473,143 @@ That wraps up elements. We covered how to get properties from an element, how to
 
 ## 23 - The DOM - Working with Classes
 
-Another thing that is commonly done in javascript is the adding or removing of classes. That is done a little different than  using properties like we have used so far. 
+In Javascript, it is common to need to add and remove classes.  
 
-Comment out everything in `the-dom.js`. 
+Let's demonstrate how to do that, starting by commenting out all the code within `the-dom.js`. 
 
-When you select an element in javascript, there is a `classList` attribute on it and on that there are some methods for getting all the classes and removing and adding multiple classes.
+When you select an element, it will have a `classList` attribute on it, and that attribute has methods on it for adding and removing multiple classes. 
 
-We will do an example with animation. Copy one of the image tags and add it to right after the body tag. Give it a class of `nice`. 
+We will do an example with animation. 
 
+Duplicate one of the image tags and add it right after the opening body tag, and give it a class of nice. 👇 
+
+```html
+<body>
+<img class="nice" src="https://picsum.photos/500" />
 ```
-  <img class="nice" src="https://picsum.photos/500" />
-```
 
-Now in the javascript file, we will select the element with a class of nice and console log the class list. 
+![](@attachment/Clipboard_2020-07-31-12-43-35.png)
 
-```
+Within `the-dom.js`, add the following code to select the element using the class of `nice`, and then we will log the `classList` attribute of the element. 
+
+```js
 const pic = document.querySelector('.nice');
 console.log(pic.classList)
 ```
 
 ![](@attachment/Clipboard_2020-02-19-16-03-58.png)
 
-In the console we get a DOMTokenlist which is kind of like an array of all the classes that are on that image. Now if in our html file we add another class like "cool" to the image, you will see that we get both of them as well as a value of all of the classes.  
+In the console we get a **DOMTokenList** which is kind of like an array of all the classes that are on that image. 
+
+In the HTML file, add a class of `cool` to the image as well. 
+
+When you refresh the page, you will see that we get both of them as well as a value of all of the classes.  👇
 
 ![](@attachment/Clipboard_2020-02-19-16-04-54.png)
 
-If you look into the prototype (we haven't learned what that is yet), you are often able to see what are the methods you are able to call against the thing we have. 
+If you look into the **prototype** _(we haven't learned what that is yet)_, you can see which methods are available to call against the thing we have.  
 
-classList has many methods. There is `add`, `remove`, `contains`, `foreach`. A lot of those are methods for working with classes which is exactly what we are going to do.
+`classList` has many methods. 
 
-![](@attachment/Clipboard_2020-02-19-16-06-03.png)
+To name a few, there is 
+- `add`
+- `remove`
+-`contains`
+- `foreach`. 
+
+A lot of those are methods for working with classes which is exactly what we are going to do.
 
 ![](@attachment/Clipboard_2020-02-19-16-05-33.png)
+![](@attachment/Clipboard_2020-02-19-16-06-03.png)
 
- You might notice as you type in VSCode, you get a dropdown of methods available to you:
+Within VSCode, as you type, you may have noticed that you get a dropdown of methods available to you. 👇
+
 ![](@attachment/Clipboard_2020-02-20-08-35-45.png)
 
+### Adding a class
 
 We are going to use `pic.classList.add()` to add a class of 'open'.
 
-```
+```js
 const pic = document.querySelector(".nice");
 pic.classList.add("open");
 console.log(pic.classList);
 ```
 
-If you refresh the page in the browesr, you will see that image now has a class of open. Now let's say we want to remove the class of 'cool' which already exists on the element. We would simple do `pic.classList.remove('cool');`
+Refresh the page, and inspect the image element. You will see the image now has a class of open. 
+
+### Removing a class
+
+What if we wanted to remove the class of "cool" which already exists on the element? 
+
+You could do that with the following code 👇
+
+```js
+pic.classList.remove('cool');
+```
 
 ![](@attachment/Clipboard_2020-02-20-08-37-54.png)
 
-There is also `toggle` which is pretty cool. Let's write a bit of css so we can visually see what is going on.
+### Toggling a class
 
-In our `index.html` add a style tag somehwere on the page. 
+There is also `toggle` which is pretty cool. 
 
-```
+Let's write a bit of CSS so we can visually see what is going on.
+
+In our `index.html` add a style tag somewhere on the page with the following styles 👇
+
+```HTML
 <style>
-  .round {
-      border-radius: 50%;
-    }
-  </style>
+.round {
+    border-radius: 50%;
+  }
+</style>
 ```
 
-Now in javascript, we will add a class of `round`, 
+Now using Javascript, we will add a class of `round`. 
 
-```
+```js
 pic.classList.add('round');
 ```
 
-Now the element has the class of round. We can add and remove that class either by pasting it into the console or on click. We will go over both.
+Now the element has the class of round and makes the image circular. 
 
-Replace the 'add' method used above with `toggle()`. Toggle will add the class if it is not there, and remove it if it is. 
+![](@attachment/Clipboard_2020-07-31-12-44-32.png)
 
-```
+We can add and remove that class either by pasting it into the console or on click. 
+
+We will go over both.
+
+Replace the `add` method used above with `toggle()`. 
+
+`toggle` will add the class if it is not there, and remove it if it is. 
+
+```js
 pic.classList.toggle('round');
 ```
 
-Now, if we copy and paste that line of code into the console, you will see that the class is being added and then removed. 
+If you copy and paste that line of code into the console, you will see that the class is being added and then removed. 
 
-Now if we go into our css and add a transition all for .2 seconds, that will give us an animation when the class is toggled. 
+![](@attachment/round.gif)
 
+If we go into our CSS and add a transition all for .2 seconds, that will give us an animation when the class is toggled. 
+
+```css
+img {
+  transition: all 0.2s;
+}
+.round {
+  border-radius: 50%;
+  transform: rotate(1turn) scale(2);
+  box-shadow: 0 0 10px black;
+}
 ```
- img {
-      transition: all 0.2s;
-    }
 
-    .round {
-      border-radius: 50%;
-      transform: rotate(1turn) scale(2);
-      box-shadow: 0 0 10px black;
-    }
-```
+![](@attachment/round-transition.gif)
 
-Quick peak ahead (we will be learning about events later), you can do:
+Quick peak ahead _(we will be learning about events later)_, you can do something like the following 👇
 
-```
+```js
 function toggleRound(){
   pic.classList.toggle('round');
 }
@@ -574,20 +617,67 @@ function toggleRound(){
 pic.addEventListener('click', toggleRound);
 ```
 
-What we are doing there is saying when the pic element is clicked, we want to the trigger the function called `toggleRound()` which should toggle the `.round` class on and off for our image element. 
+What we are doing there is saying when the pic element is clicked, we want to the trigger the function called `toggleRound()`, which will toggle on and off the class of `.round` for the image element. 
 
-You can add the following style to the `.round` class also for a rotation transition: `transform: rotate(1turn) scale(2);`
+You can add the following styles to the `.round` class also for a rotation transition...
 
-It is pretty cool that a lot of javascript interaction is just adding and removing classes at different points in time which then allows us to use css to add and remove transitions. This is common with modals and navs which open and close. We will be going over lots of examples of that throughtout the class.
 
-There is also the `contains()` method, which you would use like so:
-
+```css
+.round {
+  border-radius: 50%;
+  transform: rotate(20deg);
+}
 ```
+
+The CSS added 👆 above will give you the transition shown below 👇
+
+![](@attachment/transition1.gif)
+
+
+```css
+.round {
+  border-radius: 50%;
+  transform: rotate(2000deg);
+}
+```
+
+To get the transition effect below 👇add the code shown above 👆
+
+![](@attachment/transition2.gif)
+
+
+```css
+.round {
+  border-radius: 50%;
+  transform: rotate(1turn) scale(2);
+}
+```
+
+The code above  👆gives you the effect below 👇
+
+![](@attachment/transition3.gif)
+
+A lot of javascript interaction is just adding and removing classes at different points in time. That allows javascript developers to use CSS to add and remove transitions. 
+
+That is common with modals and navigation which open and close, and we will be going over lots of examples of that throughtout the class.
+
+### The `contains` Method
+
+There is also the `contains()` method, which you would use like so 👇
+
+```js
 pic.classList.contains('open');
 ```
-That will return true or false based on whether that element has the class or not.  That is useful when you want to check the current state of an element by looking at it's class list. 
 
-In the next video we will go over regular attributes. Even though `class` is an attribute, classList gives us some utility methods for working with it. Whenever Wes need sto work with classes, he uses `classList` which is a few years old but fairly newer. 
+It will return a boolean value of `true` or `false` based on whether that element has the class or not.  
+
+That is useful when you want to check the current state of an element by looking at it's class list. 
+
+In the next video we will go over regular attributes. 
+
+Even though `class` is an attribute, `classList` gives us some utility methods for working with it. 
+
+Whenever Wes needs to work with classes, he uses `classList` which is a few years old but fairly newer. 
 
 ---
 

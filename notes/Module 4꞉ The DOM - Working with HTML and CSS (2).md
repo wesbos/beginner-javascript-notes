@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png, Clipboard_2020-07-31-16-16-42.png, Clipboard_2020-07-31-17-01-39.png]
+attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png, Clipboard_2020-07-31-16-16-42.png, Clipboard_2020-07-31-17-01-39.png, Clipboard_2020-07-31-18-11-28.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
-modified: '2020-07-31T21:44:02.031Z'
+modified: '2020-07-31T22:30:45.256Z'
 ---
 
 # Module 4: The DOM - Working with HTML and CSS
@@ -1680,45 +1680,56 @@ If you have reference to that element in javascript, and you've created it in yo
 
 ## 28 - The DOM - CARDIO
   
-This video will all be "cardio" which is what Wes likes to call excercises that are all realted to one another. The purpose of these excercises is to practice the material we have learned by puttng yourself through the excercises and hopefully improving. We want to nail down the fundamentals before we start building real stuff with interfaces etc. 
+This video will all be "cardio" which is what Wes likes to call exercises that are all realted to one another. 
 
-What you should do now is pause the video and go through all the excercises in the `DOM-CARDIO.js` file and try to do as much as you can. There is no right answer, there is a bunch of different ways that you could solve it. Then come back and watch the video to see how Wes would approach it. 
+The purpose of these exercises is to practice the material we have learned by putting yourself through the exercises and hopefully improving. 
 
-The `DOM-Cardio.html` file has no HTML in the body at all, and `DOM-Cardio.js` is just a blank javascript file with comments explaining the different excercises. 
+We want to nail down the fundamentals before we start building real stuff with interfaces etc. 
 
+What you should do now is pause the video and go through all the excercises in the `DOM-CARDIO.js` file and try to do as much as you can. 
 
-First we need to make a div: 
-```
+There is no right answer, there is a bunch of different ways that you could solve it. 
+
+Then come back and watch the video to see how Wes would approach it. 
+
+WHEN YOU ARE READY...
+
+The `DOM-Cardio.html` file has no HTML in the body at all, and `DOM-Cardio.js` is just a blank javascript file with comments explaining the different exercises. 
+
+The first one is to create a div, then add a class of rrapper to it and then put it in the body.
+
+Start by creating a div 👇
+
+```js
 const div = document.createElement('div');
 ```
-
-Then we add a class of wrapper to it 
-```
+Add a class of `wrapper` to it.👇
+```js
 div.classList.add('wrapper');
 ``` 
-
-Next, append it to the body
+Then, append it to the body 👇
 ```
 document.body.appendChild(div);
 ```
 
-That works!
-
 ![](@attachment/Clipboard_2020-03-01-11-44-41.png) 1:35
 
+As you can see, the works!
 
-Next we will make an unordered list, which should be familiar to you since we have gone over how to do it together already. 
+The next exercise is to make an unordered list, which should be familiar to you since we have gone over how to do it together previously. 
 
-```
+Add the following code to do so 👇
+
+```js
 const ul = `
 <ul>
 </ul>
 `;
 ```
 
-To add the three list items with the words one two and thre we will modify our `ul` variable declaration like so:
+To add the 3 list items with the words "one","two" and "three", modify the `ul` variable declaration, as shown below 👇
 
- ```
+ ```js
 const ul = `
 <ul>
   <li>one</li>
@@ -1729,7 +1740,11 @@ const ul = `
 // add three list items with the words "one, two three" in them
 ```
 
-Next we need to put the list in the above wrapper. There are a few ways you could approach this. 
+Next we need to put the list in the `wrapper` div we created a few steps ago.
+
+There are a few ways you could approach this. 
+
+One way is like so 👇
 
 ```js
 div.innerHTML = ul;
@@ -1738,52 +1753,58 @@ console.log(div);
 
 ![](@attachment/Clipboard_2020-03-01-11-52-10.png) 2:21
 
-That works well. We could have add it as a fragment, but because there was nothing in the body already, it was simple to use innerHTML. 
+That works well. You could have add it as a fragment, but because there was nothing in the body already, it was simple to use `innerHTML`. 
 
-Next we need to create an image:
+Next you need to create an image. Add the following code to do so 👇
 
-```
+```js
 const img = document.createElement('img'
 ```
 
-Next we need to set the image source.
+Then you have to set the image source.
 
-```
+```js
 img.src = 'https://picsum.photos/500';
 ```
 
-Next we need to set the image width to 250. 
+Then you need to change the image width to 250. Do so with the following code 👇
 
-```
+```js
 img.width = 250;
 ```
 
-Then we need to give the image a class of cute
+Then you need to give the image a class of `cute`, like so 👇
 
-```
+```js
 img.classList.add('cute');
 ```
 
-Now we need to add an alt of cute puppy. 
+Next you need to add an alt of cute puppy, which you can achieve with the code below. 
 
-```
+```js
 img.alt = "Cute Puppy!";
 ```
 
-Next we need to append it to the wrapper. We will take our div and call appendChild on the image. We do not need to call `insertAdjacent` because it will go to the bottom of it. 
+Then you need to append it to our `wrapper` div. 
 
-```
+We will take the div and call `appendChild()` on the image. 
+
+We do not need to call `insertAdjacent()` because it will go to the bottom of it. 
+
+```js
 div.appendChild(img);
 ```
-
 ![](@attachment/Clipboard_2020-03-01-12-01-58.png) 3:35
 
-You may notice that everytime you refresh the image, the image is sort of jumping. If we were to add `img.height = 250;` to the javascript code as well and then refresh, you will see that it is not jumping anymore. That is because if you give it a width and height attribute, it will maintain it's spot while it loads the image, which is great. 
+You may notice that everytime you refresh the image, the image is sort of jumping. 
 
-Next, we need to use HTML strings to make a div with two paragraphs inside of it. 
+If you add `img.height = 250;` to the javascript code as well and then refresh, it should not jump as much anymore. 
 
+That is because if you give it a width and height attribute, it will maintain it's spot while it loads the image, which is great. 
 
-```
+Next, you need to use HTML strings to make a div with two paragraphs inside of it. 
+
+```js
 const myHTML = `
   <div>
     <p>Paragraph One</p>
@@ -1792,70 +1813,87 @@ const myHTML = `
 `;
 ```
 
-Next we have to insert the div above the unordered list that we created earlier.
-To do this, we want to grab that `ul` which we may still have reference to. We can check by doing `console.log(ul);`. 
+Then you need to insertr the div above the unordered list that we created earlier.
+
+To do this, grab the `ul` which you may still have reference to. 
+
+To check if you do still have reference, add `console.log(ul);` 
 
 ![](@attachment/Clipboard_2020-03-01-12-18-46.png) 5:19
 
-Wes was wrong -- it does not look like we already have access to the `ul` element because it shows up in the console as a string, rather then an element object. So we need to somehow grab that. 
+Wes was wrong -- it does not look like you already have access to the `ul` element because it shows up in the console as a string, rather then an element object. 
 
-Since we already have the div element, we can look within it to grab the ul element like so:
+So you need to somehow grab that. 
 
-```
+Since you already have the div element, you can look within it to grab the ul element like so 👇
+
+```js
 const ulElement = div.querySelector('ul');
 console.log(ulElement);
 ```
 
 ![](@attachment/Clipboard_2020-03-01-12-20-19.png) 5:40
 
-Next we need to add this div to the unordered list from above. Let's try:
+Next you need to add this div to the unordered list from above. 
 
-```
+Try the following code 👇
+
+```js
 ulElement.insertAdjacentElement('beforebegin', myHTML)
 ```
 
-If you refresh the html page, you will see an error that says
+If you refresh the HTML page, you will see an error that says
 >Uncaught TypeError: Failed to execute 'insertAdjacentElement' on 'Element': parameter 2 is not of type 'Element'.
 
 ![](@attachment/Clipboard_2020-03-01-12-43-10.png) 6:23
 
-So because we have created it as a string, how do we insert it adjacently? 
+So because you have created it as a string, how can you insert it adjacently? 
 
-We could try using `insertAdjacentHTML()`.
+You could try using `insertAdjacentHTML()`.
 
-```
+```js
 ulElement.insertAdjacentHTML("beforebegin", myHTML);
 ```
 
 ![](@attachment/Clipboard_2020-03-01-12-50-50.png) 6:48 
 
-That works great! We could have also done create range and then added it as a document fragment. 
+That works great! You could have also done `createRange()` and then added it as a document fragment. 
 
-Next, we need to add a class to the second paragraph called warning. We need to somehow select that paragraph. 
+Next, you need to add a class of `warning` to the second paragraph, and then select it. 
 
-If we look at the HTML in the dev tools
+If we look at the HTML in the dev tools, you will see the following code 👇
+
+```html
+<div class="wrapper">
+  <div>
+    <p>Paragraph One</p>
+    <p>Paragraph TWo</p>
+  </div>
+</div>
+```
 
 ![](@attachment/Clipboard_2020-03-01-12-52-47.png) 7:15
 
-We have a wrapper and then it's the first div that shows up. We could select it using querySelector like so:
-```
+Select the first div within the `wrapper` using `querySelector`, like so 👇
+
+```js
 const myDiv = div.querySelector('div');
 ```
 
-Or we could use `firstElementChild`. 
+Or you could use `firstElementChild`. 
 
-```
+```js
 const myDiv = div.firstElementChild; 
 console.log(myDiv);
 ```
 
 ![](@attachment/Clipboard_2020-03-01-12-56-16.png) 8:00
 
-THat is working, however, let's not use that because if we insert anything else, the div could no longer be the first element child so it's pretty unstable. 
+That is working, however, let's not use that because if you were to insert anything else, the div could no longer be the first element child, which makes it a pretty unstable solution. 
 
-What we are going to do is go into the `myHTML` variable declaration from above and add a class to the div that we inserted called `myDiv`. 
+Instead, go into the `myHTML` variable declaration from above and add a class to the div that you inserted called `myDiv`, like so 👇
 
-```
+```js
 const myHTML = `
   <div class="myDiv">
     <p>Paragraph One</p>
@@ -1864,39 +1902,50 @@ const myHTML = `
 `;
 ```
 
-And then we will select the div using the class name. This makes the code more resilient. 
+And then you can select the div using it's class name. This makes the code more resilient. 
 
-```
+```js
 const myDiv = document.querySelector('.myDiv');
 ```
 
-Next we need to add a class to the second paragraph called `warning`. 
+Next you need to add a class of `warning` to the second paragraph. 
 
-Let's try using `myDiv.children`. First we will console.log to see what we are working with: 
+Let's try using `myDiv.children`. First, log it to see what you are working with 👇
 
-```
+```js
 console.log(myDiv.children);
 ```
 
 ![](@attachment/Clipboard_2020-03-01-13-04-07.png) 9:09
 
-We have both of them. We want the second pararaph so we can reference it using `myDiv.children[1]`. 
+As you can wee, that gives you both of them. To select the second paragraph, you can reference it like so 👇
 
-`myDiv.children[0]` would be the first p tag and `myDiv.children[1]` is the second one.  Now we can do the following:
+```js
+myDiv.children[1]
+``` 
 
-```
+`myDiv.children[0]` would be the first `p` tag and `myDiv.children[1]` is the second one. 
+
+That allows you to do the following 👇
+
+```js
 myDiv.children[1].classList.add('warning');
 ```
 
-Now we want to remove the first paragraph: 
+Then, remove the first paragraph like so 👇
 
-```
+```js
 myDiv.firstElementChild.remove();
 ```
 
-![](@attachment/Clipboard_2020-03-01-13-12-37.png) 9:40
+![](@attachment/Clipboard_2020-07-31-18-11-28.png)
 
-Next we need to create a function called `generatePlayerCard` that takes in three arguments: name, age and height. The function should return HTML that looks like: 
+Next you need to create a function, `generatePlayerCard` that takes in 3 arguments: 
+- name
+- age
+- height
+
+The function should return HTML that looks like the following 👇
 
 ```html
  <div class="playerCard">
@@ -1906,18 +1955,17 @@ Next we need to create a function called `generatePlayerCard` that takes in thre
 ```
 
 
-So first, we create the function that takes in those three parameters:
+So first, create the function that takes in those three parameters:
 
-```
+```js
 function generatePlayerCard(name, age, height){
-  
 }
 ```
 
-Next we eed to have that function return a div with the structure mentioned above. We could do this in two ways: return the HTML directly or stick it in a variable and then return it. 
+In order to have the function return a div with the structure mentioned above, you could approach it in one of 2 ways:
 
-
-```
+1. return the HTML directly, like so 👇
+```js
 function generatePlayerCard(name, age, height) {
   return `
     <div class="playerCard">
@@ -1925,9 +1973,12 @@ function generatePlayerCard(name, age, height) {
   `;
 }
 ```
+
 or
 
-```
+2. stick it in a variable and then return it, like so 👇
+
+```js
 function generatePlayerCard(name, age, height) {
   const html = `
     <div class="playerCard">
@@ -1937,8 +1988,9 @@ function generatePlayerCard(name, age, height) {
 }
 ```
 
-We will go with the second way for now. 
-Now we need to build out the rest of the HTML string and interpolate the parameters variables that have been passed to the function.
+Let's stick with the second way for now. 
+
+You now need need to build out the rest of the HTML string and interpolate the parameter variables that have been passed to the function, like so 👇
 
 ```js
 function generatePlayerCard(name, age, height) {
@@ -1952,41 +2004,61 @@ function generatePlayerCard(name, age, height) {
 }
 ```
 
-Refresh the HTML page and let's try calling the function from the console. 
+Refresh the HTML page and try calling the function from the console. 
 
 ![](@attachment/Clipboard_2020-03-01-13-20-11.png) 12:01
 
-It works! The text doesn't make the most sense but that is okay. If you want an extra challenge, you could take the height value that was passed in centimeteres and if you're from America, you could convert it to feet and inches. You could write a little function that takes in a parameter of centimeters, converts it to feet and inches and returns the value. 
+It works! 
 
-Next step in the excercise is to make a new div with a class of cards. 
+The text doesn't make the most sense but that is okay. 
 
-```
+_(If you want an extra challenge, you could take the height value that was passed in centimeteres and if you're from America, you could convert it to feet and inches. You could write a little function that takes in a parameter of centimeters, converts it to feet and inches and returns the value.)_
+
+Next step in the exercise is to make a new `div` and give it a class of `cards`, like so 👇
+
+```js
 const cards = document.createElement();
 cards.classList.add('cards');
 ```
 
-Next we need to have that function make 4 cards and append those cards to the div. 
+Next you need to have that function make 4 cards and append those cards to the div. 
 
-There are a few ways we could do this. Because the function returns a string, we could loop over it four times and create four cards of HTML. Let's demonstrate a few differnt ways to do this. 
+There are a few ways you could do this. 
 
-We will declare a variable and have it generate the first card's HTML
+Because the function returns a string, you could loop over it 4 times and create 4 cards of HTML. 
 
-```
-const cardsHTML = generatePlayerCard('wes',12,150);
+Let's demonstrate a few differnt ways to do this. 
+
+Declare a variable and have it generate the first card's HTML, like so 👇
+
+```js
+const cardsHTML = generatePlayerCard('wes', 12, 150);
 console.log(cardsHTML);
 ```
 
-If you refresh the HTML page, you will see an error:
+If you refresh the HTML page, you will see the following error 👇
+>Uncaught TypeError: Failed to execute `createElement` on `Document`: 1 argument required, but only 0 persent.
+>  at DOM-Cardio.js:68
+
 ![](@attachment/Clipboard_2020-03-01-13-29-03.png)
 
-That error is being thrown because when we called `document.createElement()` abvoe, we forgot to specify what kind of element we want to create. Modify that code to `document.createElement('div');`. 
+That error is being thrown because when you called `document.createElement()` above, we forgot to specify what kind of element to create. 
 
+Modify that code like so 👇 
+
+```js
+document.createElement('div');
+```
 
 ![](@attachment/Clipboard_2020-03-01-13-30-11.png) 14:25
 
-Now it works. But how do we keep tacking onto that? We could change `const cardsHTML` to `let cardsHTML` and then do something like:
+Now it works. 
 
-```
+But how do we keep tacking onto that? 
+
+We could change `const cardsHTML` to `let cardsHTML` and then do something like the following 👇
+
+```js
 const cardsHTML = gerneratePlayerCards('wes', 12, 150);
 cardsHTML = cardsHTML + generatePlayerCard('scott', 12, 150);
 cardsHTML = cardsHTML + generatePlayerCard('kait', 12, 150);
@@ -1994,9 +2066,9 @@ cardsHTML = cardsHTML + generatePlayerCard('snickers', 12, 150);
 console.log(cardsHTML);
 ```
 
-NOTE, if you save the code above, prettier might re-format that to use the shorthand code below which is fine because the two ways of typing it out are equivalent.
+_NOTE: if you save the code above, Prettier might re-format that to use the shorthand code below which is fine because the 2 ways of typing it out are equivalent._
 
-```
+```js
 const cardsHTML = gerneratePlayerCards("wes", 12, 150);
 cardsHTML += generatePlayerCard("scott", 12, 150);
 cardsHTML += generatePlayerCard("kait", 12, 150);
@@ -2004,35 +2076,45 @@ cardsHTML += generatePlayerCard("snickers", 12, 150);
 console.log(cardsHTML);
 ```
 
-Another way would be to create four separate variabels for each of those. Another way would be you could create an array of names and loop over them. We don't know about arrays just yet but we will doing lots of examples with those in the near future. That is the way Wes would probably go about approaching this. 
+Another way would be to create 4 separate variables for each of those. 
 
-Another way is we could take the cardsDiv and call
+Another way would be to create an array of names and loop over them. 
 
-```
+We haven't gone over arrays just yet but we will doing lots of examples with those in the near future. That is the way Wes would probably go about approaching this. 
+
+Another way is you could take the `cards` div and call the following method on it 👇
+
+```js
 cards.insertAdjacentHTML('afterbegin', generatePlayerCard("snickers", 12, 150));
 ```
 
-And then just call that multiple times , but passing different arguments to generatePlayerCard. 
+And then you could just call that multiple times, but passing different arguments to generatePlayerCard. 
 
-We will stick with the method we already have. Now we have to append those cards to the div. We will do that using: 
+Let's stick with the method you already have. 
 
-```html
+Next you need to append those cards to the div. 
+
+Do that with the following code 👇
+
+```js
 cards.innerHTML = cardsHTML;
 ```
 
-Next we need to the put the div into the DOM just before the wrapper element. 
+Now you need to put the div into the DOM just before the `wrapper`. 
 
-We are going to use `insertAdjacentElement` because cards is a proper elements. 
+Use `insertAdjacentElement` because `cards` is a proper element, like so 👇
 
-```
+```js
 div.insertAdjacentElement('beforebegin', cards);
 ```
 
-If you refresh the HTML page you should see:
+If you refresh the HTML page you should see the following 👇
 
 ![](@attachment/Clipboard_2020-03-01-13-46-47.png) 16:40
 
-Really quickkly, we will add some styles in the HTML page. Add the following: 
+Really quickly, we will add some styles in the HTML page. 
+
+Add the following: 👇
 
 ```html
 <body>
@@ -2060,52 +2142,55 @@ Really quickkly, we will add some styles in the HTML page. Add the following:
 
 ![](@attachment/Clipboard_2020-03-01-13-48-16.png) 17:35 
 
-The bonus step in the excercise involves putting a delete button on each card so when you click it, it is removed. We haven't gone over how to do this yet, but let's give it a try. 
+The bonus step in the exercise involves putting a delete button on each card so when you click it, it is removed. 
 
-We will go to where we generate the card and add a button:
+We haven't gone over how to do this yet, but let's give it a try. 
+
+Go to where we generate the card and add a button, as shown below 👇
 
 ```js
-  const html = `
-    <div class="playerCard">
-      <h2>${name} - ${age}</h2>
-      <p>Their height is ${height} and  they are ${age} years old. In Dog years this person would be ${age *
-    7}. That would be a tall dog!</p>
-    <button class="delete" type="button">&times Delete</button>
-    </div>
-  `;
+const html = `
+  <div class="playerCard">
+    <h2>${name} - ${age}</h2>
+    <p>Their height is ${height} and  they are ${age} years old. In Dog years this person would be ${age *
+  7}. That would be a tall dog!</p>
+  <button class="delete" type="button">&times Delete</button>
+  </div>
+`;
 ```
 
 ![](@attachment/Clipboard_2020-03-01-13-50-20.png) 18:31
 
-When we click the button, we want to delete the card. To achieve that, we will select all the buttons:
+When that button is clicked, we want to delete the card. 
 
-```
+To achieve that, select all the buttons 👇
+
+```js
 const buttons = document.querySelectorAll('.delete');
 console.log(buttons)
 ```
 
 ![](@attachment/Clipboard_2020-03-01-13-51-26.png) 19:00
 
-We need to make our delete function. 
+Make the delete function 👇
 
-```
+```js
 function deleteCard() {
   console.log("DELETE CARD! TODO");
 }
 ```
 
-Now we can loop over them and attach a click event listener which will call deleteCard
+Now loop over each card and attach a click event listener which will call `deleteCard()`, like so 👇
 
-```
+```js
 buttons.forEach(button => button.addEventListener("click", deleteCard));
 ```
 
-Now in the `deleteCard()` function, we will pass the event, and let's console.log the events current target.
+Modify the `deleteCard()` function to accept the event as a parameter and inside of the function, log the event's current target.
 
-NOTE: we haven't gone over how to do some of this but it's just bonus! We will go over this in future videos. 
+_NOTE: we haven't gone over how to do some of this but it's just bonus! We will go over this in future videos._
 
-```
-
+```js
 function deleteCard(event) {
   console.log(event.currentTarget);
   console.log("DELETE CARD! TODO");
@@ -2114,34 +2199,44 @@ function deleteCard(event) {
 
 ![](@attachment/Clipboard_2020-03-01-13-54-50.png) 20:09
 
-Inside of `deleteCard` we can assign the button that is the event's current target to a variable 
+Inside of `deleteCard`, you can assign the button that is the event's current target to a variable, like so 👇
 
-```
-  const buttonThatGotClicked = event.currentTarget;
-```
-
-Now we need to grab the parent element. There is a few ways we can do this. 
-
-```
-buttonThatGotClicked.parentElement.remove();
+```js
+const buttonThatGotClicked = event.currentTarget;
 ```
 
-```
+Now you need to grab the parent element. 
+
+There are a few ways to do this. 
+
+One way is using the following code 👇
+
+```js
 function deleteCard(event) {
   const buttonThatGotClicked = event.currentTarget;
   buttonThatGotClicked.parentElement.remove();
 }
 ```
 
-If you refresh the HTML page and click one of the delete buttons, you will see that is removed. Another way we could have done it is using:
+If you refresh the HTML page and click one of the delete buttons, you will see that is removed. 
 
+### `closest()`
+
+Another way you could have done it is using `closest()`, like so 👇
+
+```js
+buttonThatGotClicked.closest(".playerCard").remove();
 ```
-  buttonThatGotClicked.closest(".playerCard").remove();
 
-```
+What does `closest()` do? 
 
-What does `closest()` do? It will look at an element and move itself up the tree until it finds something that matches the parameter we pass. That is cool because right now, both of those work, but let's say we change here the button goes. Let's say we put it inside of the paragraph rather than directly inside of the div. If we did that, only the second method would work because the first method would delete the paragraph, not the div. 
+It will look at an element and move itself up the tree until it finds something that matches the parameter you pass it. 
+
+That is cool because right now, both of those work, but let's say you where to change the position of the button. 
+
+If you moved it inside of the paragraph tag instead of directly inside of the div, only the second method would work because the first method would delete the paragraph, not the div. 
 
 The second method will search for the div or any element with a `playerCard` class and remove that. Even though the button has moved, it still works. 
 
+That's a wrap for this lesson.
 

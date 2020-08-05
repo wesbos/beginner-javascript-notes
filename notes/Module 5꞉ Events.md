@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png, Clipboard_2020-03-09-18-49-21.png, Clipboard_2020-03-09-19-23-39.png, Clipboard_2020-03-09-19-32-21.png]
+attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png, Clipboard_2020-03-09-18-49-21.png, Clipboard_2020-03-09-19-23-39.png, Clipboard_2020-03-09-19-32-21.png, Clipboard_2020-08-04-19-59-05.png, Clipboard_2020-08-04-20-00-15.png, Clipboard_2020-08-04-20-01-12.png, Clipboard_2020-08-04-20-04-13.png, Clipboard_2020-08-04-20-04-17.png, Clipboard_2020-08-04-20-04-20.png, Clipboard_2020-08-04-20-08-14.png, Clipboard_2020-08-04-20-08-18.png, Clipboard_2020-08-04-20-08-25.png, Clipboard_2020-08-04-20-08-56.png, Clipboard_2020-08-04-20-09-16.png, Clipboard_2020-08-04-20-13-34.png, Clipboard_2020-08-04-20-24-09.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-08-04T23:03:33.085Z'
+modified: '2020-08-05T00:25:26.822Z'
 ---
 
 # Module 5: Events
@@ -17,7 +17,7 @@ We can use **event listeners** to listen for when these things happen and react 
 
 You can attach event listeners to all elements, as well as the document and the window. 
 
-To demonstrtae this, let's start by creating a button. 
+To demonstrate this, let's start by creating a button. 
 
 Within the `/exercises/29 - Events` directory, open the `events.html` file. 
 
@@ -239,7 +239,7 @@ const buyButtons = document.querySelectorAll("button.buy");
 
 This gives us a node list of all of the buttons. 
 
-![](@attachment/Clipboard_2020-03-01-16-07-01.png) 41:48
+![](@attachment/Clipboard_2020-08-04-20-00-15.png)
 
 You might think, why can't we just go ahead and take our buy buttons and add an event listener of click like so 👇
 
@@ -256,7 +256,7 @@ You should see the following error when you reload the HTML page and look at the
 
 ![](@attachment/Clipboard_2020-03-01-16-09-14.png) 15:41
 
-The error is telling us taht the buyButtons does not have the method `addEventLisetner`. 
+The error is telling us that the buyButtons does not have the method `addEventListener`. 
 
 Take a look at the `buyButtons` by logging them 👇
 
@@ -266,7 +266,7 @@ console.log(buyButtons);
 
 If you ever want to see what all of the different methods are that are available on a variable you can look at the prototype. 
 
-![](@attachment/Clipboard_2020-03-01-16-10-58.png) 16:05
+![](@attachment/Clipboard_2020-08-04-20-01-12.png) 16:05
 
 You will notice that `addEventListener` is not there. 
 
@@ -370,41 +370,57 @@ The only downside for using the arrow function for your event listener like we  
 
 ## 30 - Events - targets, bubbling, propagation and capture. 
 
-The **event object** is a gold mine of information about what happens when an event fires. Remove everything in the `events.js` file after the `buyButtons` variable declaration.
+The **event object** is a gold mine of information about what happens when an event fires. 
+
+Remove everything in the `events.js` file after the `buyButtons` variable declaration.
 
 We are going to loop over every single buy button and attach a handler to it. 
 
-Create a new function, `handleByButtonClick` and console log "You are buying it". We will pass this function to each button's click event listener. 
+Create a new function, `handleByButtonClick` and log "You are buying it".
 
-```
+ Pass this function to each button's click event listener, like so 👇
+
+```js
 buyButtons.forEach(function(buyButton) {
   buyButton.addEventListener("click", handleBuyButtonClick);
 });
 ```
 
-Now the question is: when a user clicks one of the buttons, how do I get informatino about what button is being clicked? 
+Now the question is, _when a user clicks one of the buttons, how do I get information about what button is being clicked?_ 
 
 If I have one function that is being called by 10 different button event listeners, how do I know which of the 10 triggered the function?
 
-That information is hidden inside of the event object. The event object is filled with all sorts of information and methods to work with your event. 
+That information is hidden inside of the event object!
 
-To access the event object, we modify our callback function (our handler), to accept a param that is the event. Refresher from earlier: parameters are placeholders. So we can add the following parameter, `event` to `handleBuyButtonClick()`:
+The event object is filled with all sorts of information and methods to work with your event. 
 
-```
+To access the event object, we modify our callback function (our handler), to accept a param that is the event. 
+
+_Refresher from earlier: parameters are placeholders._ 
+
+So we can add the following parameter, `event` to `handleBuyButtonClick()`, like so 👇
+
+```js
 function handleBuyButtonClick(event ){
   console.log('You are buying it');
 }
 ```
 
-We could call the `event` parameter anything, as long as it's the first param in our callback function. Why? Because when the browser runs the `handleBuyButtonClick` function for us when someone clicks it, it will run the function and pass to us a number of arguments, the first of which is the event object. 
+We could call the `event` parameter anything, as long as it's the first param in our callback function. 
 
- Within the `handleBuyBackButtonClick()`, add `console.log(event)` and refresh the HTML page. Now when you click on a button you should see the following in the console:
+Why? 
 
- ![](@attachment/Clipboard_2020-03-01-18-46-10.png) 3:49
+Because when the browser runs the `handleBuyButtonClick` function for us when someone clicks it, it will run the function and pass to us a number of arguments, the first of which is the event object. 
 
- What we have there is a pointer event, which we will get into more detail about later, but essentialy we have clicks, and touches and mouse movements and they are all consolidated into one event called a pointer event.  
+Within the `handleBuyBackButtonClick()`, log the `event` object, and refresh the HTML page.
 
-![](@attachment/Clipboard_2020-03-01-18-48-58.png) 4:!8
+Whhen you click on a button you should see the following in the console 👇
+
+![](@attachment/Clipboard_2020-03-01-18-46-10.png) 3:49
+
+What we have there is a pointer event, which we will get into more detail about later, but essentialy we have clicks, and touches and mouse movements and they are all consolidated into one event called a pointer event.  
+
+![](@attachment/Clipboard_2020-08-04-20-04-20.png) 4:18
 
 If you expand the event, you will see all sorts of things. 
 
@@ -416,13 +432,15 @@ It tells us `screenX`, `screenY`, `clientX`, `clientY`, `pageX` and `pageY`. Tho
 
 The one we are interested in is `target` and `currentTarget`. 
 
-Within `handleBuyBackButtonClick`, add `console.log(event.target);`. Now when you refresh and click on different buttons, it will show you which button the user has clicked on. 
+Within `handleBuyBackButtonClick`, log `event.target`. 
+
+When you refresh and click on different buttons, it will show you which button the user has clicked on. 
 
 ![](@attachment/Clipboard_2020-03-01-18-56-28.png) 5:43
 
-That is very useful because we could do something like add a data attribute, such as `data-price=""`.
+That is very useful because we could do something like add a data attribute, such as `data-price=""`, like so 👇
 
-```
+```html
 <button data-price="100" class="buy">Buy Item 1</button>
 <button data-price="200" class="buy">Buy Item 2</button>
 <button data-price="300" class="buy">Buy Item 3</button>
@@ -435,7 +453,7 @@ That is very useful because we could do something like add a data attribute, suc
 <button data-price="1000" class="buy">Buy Item 10</button>
 ```
 
- Now we can go into our `handleBuyButtonClick` function and add 
+ That allows you to go into the `handleBuyButtonClick` function and add thefollowing code 👇
 
 ```js
  function handleBuyBUttonClick(event){
@@ -443,18 +461,21 @@ That is very useful because we could do something like add a data attribute, suc
   console.log(event.target.dataset);
 }
 ```
+
 Now when you click on a specific button, it should show you the dataset in the console.
 
-![](@attachment/Clipboard_2020-03-02-20-43-32.png) 6:23
+![](@attachment/Clipboard_2020-08-04-20-08-56.png) 6:23
 
-And if you do `dataset.price`, it will return the price. 
+And if you do `dataset.price`, it will return the price.
 
-![](@attachment/Clipboard_2020-03-02-20-44-15.png) 6:27
+![](@attachment/Clipboard_2020-08-04-20-09-16.png) 6:27
 
-If you do `console.log(typeof event.target.dataset.price);`, you will see that the price is a string, so we need to convert it. `parseFloat(price)` will keep the decimals whereas `parseInt()` will not.  
+If you do log `typeof event.target.dataset.price)`, you will see that the price is a string, so tiy need to convert it. 
 
-```
-  console.log(parseFloat(event.target.dataset.price));
+`parseFloat(price)` will keep the decimals whereas `parseInt()` will not.  
+
+```js
+console.log(parseFloat(event.target.dataset.price));
 ```
 
 Now you get a true number. 
@@ -463,26 +484,33 @@ Now you get a true number.
 
 To recap: the event object contains all this information about what happened in this event, such as what type of event it was (mouseclick  etc), the target, and then once you have the target, you can access anything you want about that target.
 
-What Wes likes to do is do 
+What Wes likes to do is 👇
 
 ```js
 const button = event.target;
 ```
-and then you can do 
 
-```
+This allows you to do 👇
+
+```js
 console.log(button.textContent);
 ```
 
-You can access anything about that specific element using event.target. 
+You can access anything about that specific element using `event.target` 
 
-There is also another property, `console.log(event.currentTarget)`. 
+There is also another property, which you should log
+
+```js
+event.currentTarget
+``` 
 
 ![](@attachment/Clipboard_2020-03-02-20-48-57.png) 7:57
 
-You might notice that you get the same thing. What is the diferent between **event.target** and **event.currentTarget**?
+You might notice that you get the same thing. 
 
-Let's do this: we will log both and then also log a comparison of the two, to see if they are the same elemetn. 
+What is the diferent between **event.target** and **event.currentTarget**?
+
+To demonstrate, log both and then also log a comparison of the two, to see if they are the same element, like so 👇
 
 ```js
 function handleBuyButtonClick(event){
@@ -494,83 +522,126 @@ function handleBuyButtonClick(event){
   console.log(event.target === event.currentTarget);
 }
 ```
-
-
 ![](@attachment/Clipboard_2020-03-02-20-54-38.png) 8:22
 
-It returns true. So what is the difference?
+It returns true. 
 
-The difference come in when there are elements nested inside of the element that you are listening to. Let's take all the numbers in our buttons and wrap them in a strong tag like so: `<button data-price="100" class="buy">Buy Item <strong>1</strong></button>`
+So what is the difference?
 
-What happens if you click on the number in the button? ![](@attachment/Clipboard_2020-03-02-20-56-33.png) 8:58
+The difference come in when there are elements nested inside of the element that you are listening to.
+
+Take all the numbers in our buttons and wrap them in a strong tag like so 👇
+
+```html
+<button data-price="100" class="buy">Buy Item <strong>1</strong></button>
+```
+
+What happens if you click on the number in the button?
+
+![](@attachment/Clipboard_2020-08-04-20-13-34.png)8:58
 
 ![](@attachment/Clipboard_2020-03-02-20-56-48.png) 
 
 In this instance we are clicking on the button and on the strong tag. 
 
-The `event.target` is the thing that actually got clicked. The `event.currentTarget` is the thing that fired the event listener.
+`event.target` is the thing that actually got clicked.
 
-In most cases, you probably want to reach for `event.currentTarget` rather than `event.target`. Although it is useful to know whether someone clicked an element inside of the element that the listener is on, or did they click on the actual element with the listener?
+`event.currentTarget` is the thing that fired the event listener.
 
-That happens very often (having click events on elements that contain other elements). Let's say we had this scenario:
+In most cases, you probably want to reach for `event.currentTarget` rather than `event.target`. Although it is useful to know whether someone clicked an element inside of the element that the listener is on, or did they click on the actual element with the listener.
 
-```
+That happens very often (having click events on elements that contain other elements). 
+
+Let's say we had this scenario:
+
+```js
 window.addEventListener('click', function(){
   console.log('you clicked the window');
 })
 ```
 
-Now, when you click anywhere on the HTML page, it will show YOU CLICKED THE WINDOW in the console. IF you click on the h2, it will still show you clicked on the window. But if you click on one of the buttons, are you click on the window, or on the button? 
+Now, when you click anywhere on the HTML page, it will show YOU CLICKED THE WINDOW in the console. 
+
+If you click on the `h2`, it will still show you clicked on the window. B
+
+ut if you click on one of the buttons, are you click on the window, or on the button? 
 
 ![](@attachment/Clipboard_2020-03-02-21-03-46.png)
 
-What happened is that both the window event listener fired, and the `handleBuyButtonClick` fired. We technically clicked on both of them. It is possible to be clicking on multiple things as a certain time. That is what is referred to as **propagation**. 
+What happened is that both the window event listener fired, and the `handleBuyButtonClick` fired. We technically clicked on both of them. 
 
-When we clicked the strong tag, what happens is the event bubbles up. Meaning we clicked on the strong tag, but we also clicked on the button, and then we also clicked on the body, and the HTML tag, and the window, and the google chrome browser etc etc. 
+### Propagation
+
+It is possible to be clicking on multiple things as a certain time. That is what is referred to as **propagation**. 
+
+When we clicked the strong tag, what happens is the event bubbles up. 
+
+Meaning we clicked on the strong tag, but we also clicked on the button, and then we also clicked on the body, and the HTML tag, and the window, and the google chrome browser etc, etc. 
 
 ![](@attachment/Clipboard_2020-03-02-21-07-13.png) 11:14
 
 Athough we just clicked on the strong tag, the browser and operating system are also listening to that event. 
 
-The way you can prevent that is with a method on the event that is called `stopPropagation`.  Within `handleBuyButtonClick` add the following `  event.stopPropagation();`, 
+The way you can prevent that is with a method on the event that is called `stopPropagation`.  
 
-Now when you refresh the HTML page, if you click anywhere on the window, the window click event will fire, but if you click on the button, it will not. The window listener doesn't fire because we stopped it. 
+Within `handleBuyButtonClick`m add the following `event.stopPropagation();`/ 
 
-What is cool about that is if we modify the window eventlistener like so, we can log the event.targe.
+Now when you refresh the HTML page, if you click anywhere on the window, the window click event will fire, but if you click on the button, it will not. 
 
-```
+The window listener doesn't fire because we stopped it. 
+
+What is cool about that is we can modify the window event listener to log the `event.target`, like so 👇
+
+```js
 window.addEventListener('click', function(event){
   console.log('you clicked the window');
   console.log(event.target);
 })
 ```
 
-Now anytime we click on something, it will show us what we are actually clicking on. So even though we are listening on the window, it will show what the actual element you clicked on is, whether it's a button or an h2. 
+Now anytime we click on something, it will show us what we are actually clicking on. 
+
+So even though we are listening on the window, it will show what the actual element you clicked on is, whether it's a `button` or an `h2`. 
 
 ![](@attachment/Clipboard_2020-03-02-21-12-10.png) 13:28
 
+Events bubble up, and if we want to stop them from bubbling up, we run `stopPropagation()` and there is a way to flip that: **capture**. 
 
-Events bubble up, and if we want to stop them from bubbling up, we run `stopPropagation()` and there is a way to flip that: capture. 
+**Capture** is kind of like the opposite.
 
-Capture is kind of like the opposite.
-
-This is a diagram from W3 (those are the people who decide how Javascript works, how the browsers work, and how events happen)
+This is a diagram from W3 (those are the people who decide how Javascript works, how the browsers work, and how events happen) 👇
 
 ![](@attachment/Clipboard_2020-03-02-22-49-48.png) 14:11
 
-If you have an element that is very low in the DOM, like a `td` (or in our case, a button), and we are listening on the `td`, when someone makes a click, we actually are clicking on the document, then clicking on the html, then the body, the table, and then finally end up clicking the button. If there was divs and other things wrapped inside, the click would go through those as well because it goes through ever single element along the way. It doesn't do anything, but it is keeping track of where it passed through. 
+If you have an element that is very low in the DOM, like a `td` (or in our case, a button), and we are listening on the `td`, when someone makes a click, we actually are clicking on the document, then clicking on the html, then the body, the table, and then finally end up clicking the button. 
 
-Then, the event starts to bubble up. Once it gets to the very lowest DOM node it can find (a raw buy button in our case or a strong tag), and then it begins what is called **bubbling**. What that means is it will trigger a click on the strong tag, then a click on the button, then on the body, the html and finally the document. That is what is meant by **bubbling up**. 
+If there were divs and other things wrapped inside, the click would go through those as well because it goes through every single element along the way. 
+
+It doesn't do anything, but it is keeping track of where it passed through. 
+
+Then, the event starts to bubble up. 
+
+Once it gets to the very lowest DOM node it can find (a raw buy button in our case or a strong tag), and then it begins what is called **bubbling**. 
+
+What that means is it will trigger a click on the strong tag, then a click on the button, then on the body, the html and finally the document. That is what is meant by **bubbling up**.  
 
 We do have the ability to stop the event as part of the capture phase. 
 
-Our `handleBuyButtonClick` function happens during the bubble phase (while it is going back up). However, there is an option for when you listen to any event, to listen during the capture phase. That means that if we want to listen for a click on the window first and then stop it from going any future, we can do that. To do that, we need to add a third argument to `addEventListener`. 
+The `handleBuyButtonClick` function happens during the bubble phase (while it is going back up). 
+
+However, there is an option for when you listen to any event, to listen during the capture phase. 
+
+That means that if we want to listen for a click on the window first and then stop it from going any future, we can do that. 
+
+To do that, we need to add a third argument to `addEventListener`. 
 
 ![](@attachment/Clipboard_2020-03-02-22-55-30.png) 16:18
 
-This can be confusing because  `addEventListener` has three different ways to call it. Typically, the first one is the most modern way to call it. 
+This can be confusing because `addEventListener` has 3 different ways to call it. 
 
-It used to be that `addEventListener` took a boolean as the third parameter which specified whether to use capture or not. But now, they have an options object that needs to be passed through.
+Typically, the first one is the most modern way to call it. 
+
+It used to be that `addEventListener` took a boolean as the 3rd parameter which specified whether to use capture or not.  But now, they have an `options` object that needs to be passed through.
 
 ![](@attachment/Clipboard_2020-03-02-22-56-29.png) 16:34
 
@@ -578,7 +649,11 @@ We will be passing the `options` object which has a few options such as capture.
 
 ![](@attachment/Clipboard_2020-03-02-22-57-33.png) 16:48
 
-What we can do is go to our `window.eventListener` and pass in our options as the third parameter. The first parameter is the event tpe, the second argument is the function that should be run, and the third is the options object.
+Go to the `window.eventListener` and pass in `options` as the 3rd parameter. 
+
+1. The first parameter is the event type
+2. The second argument is the function that should be run
+3. The third is the options object
 
 ```js
 window.addEventListener(
@@ -591,34 +666,43 @@ window.addEventListener(
 );
 ```
 
-We will really quickly comment out the `{capture:true}` and refresh the HTML pages so we can see the order at which it happens. Inside of `handleBuyButtonClick`, add at the beginning of the function, `console.log('You clicked a button')` and temporarily comment out `stopPropagtion()`. 
+We will really quickly comment out the `{capture:true}` and refresh the HTML pages so we can see the order at which it happens. 
 
-Now, if you click on the button, you will see that first it says "You clicked on a button" and tehn it says "YOU CLICKED THE WINDOW". 
+Inside of `handleBuyButtonClick`, at the beginning of the function log "You clicked a button" and temporarily comment out `stopPropagtion()`. 
 
-18:11 ![](@attachment/Clipboard_2020-03-02-23-03-01.png)
+Now, if you click on the button, you will see that first it says "You clicked on a button" and then it says "YOU CLICKED THE WINDOW". 
 
-If you uncomment `{capture:true}` on the window eventListener, now when you refresh the page and click the button, you will first get the window log and then the button. 
+![](@attachment/Clipboard_2020-03-02-23-03-01.png) 18:11
+
+If you uncomment `{capture:true}` on the window eventListener, when you refresh the page and click the button, you will first get the window log and then the button. 
 
 ![](@attachment/Clipboard_2020-03-02-23-04-22.png) 18:36
 
-The order at which the events are fired goes top down, rather tha bubbling up. 
+The order at which the events are fired goes top down, rather than bubbling up. 
 
-Capture -> down, Bubble -> up. 
+Capture goes down. Bubble goes up. 
 
-Now within the window event listener, add `event.stopPropagation();`.  That will allow us to stop the event from propagating down, rather than bubbling up. Now if you click a button, you will see that the `handleBuyButtonClick()` will never be run. 
+Now within the window event listener, add 👇
+
+```js
+event.stopPropagation();
+``` 
+
+That will allow us to stop the event from propagating down, rather than bubbling up. 
+
+Now if you click a button, you will see that the `handleBuyButtonClick()` will never be run. 
 
 ![](@attachment/Clipboard_2020-03-02-23-06-23.png) 19:10
 
-All of that is good to know, but the capture functionality does not come up very often in day to day development, but it is often an interview when about the intracacies of how events work. 
+All of that is good to know, but the capture functionality does not come up very often in day to day development, but it is often an interview question about how the intracies of events work. 
 
 Most of Wes' career has been spent listening to clicks on lower level elements and stopping the propagation from handlng when you click on the element so that things that are higher that are also listening for clicks do not also fire that specific thing. 
 
-A few more things to go over again:
-
+A few more things to go over again. 
 
 The event being passed the function here is just a placeholder, you could call it anything. 
 
-```
+```js
 function handleBuyButtonClick(event) {
   const button = event.target;
   // console.log(button.textContent);
@@ -631,9 +715,9 @@ function handleBuyButtonClick(event) {
 }
 ```
 
-For example this would work exactly the same:
+For example this would work exactly the same 👇
 
-```
+```js
 function handleBuyButtonClick(e) {
   const button = e.target;
   // console.log(button.textContent);
@@ -646,10 +730,11 @@ function handleBuyButtonClick(e) {
 }
 ```
 
-Now let's look at the window event listener a little closer. Modify the listener like so:
+Now let's look at the window's event listener a little closer. 
 
-```
+Modify the listener like so 👇
 
+```js
 window.addEventListener(
   "click",
   function(event) {
@@ -662,23 +747,27 @@ window.addEventListener(
 );
 ```
 
-If you refresh the HTML page and click somewhere you should see something like the following:
+If you refresh the HTML page and click somewhere you should see something like the following 👇
 
-![](@attachment/Clipboard_2020-03-02-23-14-46.png) 21:24
+![](@attachment/Clipboard_2020-08-04-20-24-09.png) 21:24
 
-The properties we logged to the console tell us what we clicked, the type of event (a click) and if the event is going to bubble or not. That specifies whether the event handler has a `stopPropagation()` call within it. If we were modify the window event to include `event.stopPropagation()` and then console.logged `event.bubbles`, it would retun false. 
+The properties we logged to the console tell us what we clicked, the type of event (a click) and if the event is going to bubble or not. 
+
+That specifies whether the event handler has a `stopPropagation()` call within it. 
+
+If you modify the window event to include `event.stopPropagation()` and then console.logged `event.bubbles`, it would retun false. 
 
 Let's go over one last thing. 
 
-In the html page, add the following image element right before the script tag:
+In the HTML page, add the following image element right before the script tag 👇
 
-```
+```html
 <img class="photo" src="https://picsum.photos/200" alt="Nice">
 ```
 
-Now in our javascript, lets grab it and listen to the `mousemove` event.
+Now in our javascript, grab it and listen to the `mousemove` event.
 
-```
+```js
 const photoEl = document.querySelector(".photo");
 photoEl.addEventListener("mousemove", function() {
   console.log(e.currentTarget);
@@ -689,9 +778,11 @@ If you add the following, you will get an error in the console saying
 
 >Uncaught ReferenceError: e is not defined
 
-That is because we forgot to pass the event parameter. Modify the code like so so we are passing the parameter to the anonymous function. 
+That is because we forgot to pass the event parameter. 
 
-```
+Modify the code as shown below so we are passing the event as a paramter to the anonymous function.
+
+```js
 photoEl.addEventListener("mousemove", function(e) ...
 ```
 

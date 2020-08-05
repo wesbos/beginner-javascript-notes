@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png, Clipboard_2020-03-09-18-49-21.png, Clipboard_2020-03-09-19-23-39.png, Clipboard_2020-03-09-19-32-21.png, Clipboard_2020-08-04-19-59-05.png, Clipboard_2020-08-04-20-00-15.png, Clipboard_2020-08-04-20-01-12.png, Clipboard_2020-08-04-20-04-13.png, Clipboard_2020-08-04-20-04-17.png, Clipboard_2020-08-04-20-04-20.png, Clipboard_2020-08-04-20-08-14.png, Clipboard_2020-08-04-20-08-18.png, Clipboard_2020-08-04-20-08-25.png, Clipboard_2020-08-04-20-08-56.png, Clipboard_2020-08-04-20-09-16.png, Clipboard_2020-08-04-20-13-34.png, Clipboard_2020-08-04-20-24-09.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-08-05T00:25:26.822Z'
+modified: '2020-08-05T00:41:36.151Z'
 ---
 
 # Module 5: Events
@@ -775,7 +775,6 @@ photoEl.addEventListener("mousemove", function() {
 ```
 
 If you add the following, you will get an error in the console saying 
-
 >Uncaught ReferenceError: e is not defined
 
 That is because we forgot to pass the event parameter. 
@@ -790,39 +789,53 @@ Now, whenever you move your mouse anywhere over the image, that event is fired m
 
 ![](@attachment/Clipboard_2020-03-02-23-22-00.png) 23:05
 
-We can use `console.count(e.currentTarget);`. That will tell us how often something has fired on that specific thing. 
+Add `console.count(e.currentTarget);`. 
+
+That will tell us how often something has fired on that specific thing. 
 
 ![](@attachment/Clipboard_2020-03-02-23-22-37.png) 23:13
 
 There is also `mouseenter` events which only get triggered when you leave and enter an element. 
 
+### `this`
 Now we are going to talk about the word **this**. 
 
-Let's say within the photoEl event listener function, we added `console.log(this)`. What would that log? We have not passed in `this` as a parameter.. can we just use that variable? You can. That is because `this` is a special word in Javascript, a "reserved" word. 
+Within the `photoEl` event listener function, log `this`. 
 
-Add the following:
+What will that log? We have not passed in `this` as a parameter.. can we just use that variable? 
 
-```
+You can. 
+
+That is because `this` is a special word in Javascript, a "reserved" word. 
+
+Add the following 👇
+
+```js
 photoEl.addEventListener("mousemove", function() {
   console.log(e.currentTarget);
   console.log(this);
 });
 ```
 
-When you hover over the image, you should see: 
+When you hover over the image, you should see 👇
 
 ![](@attachment/Clipboard_2020-03-02-23-26-16.png) 24:02
 
-It is exactly the same thing. So if you have a callback function, and you want to reference the element that the event was called against, the `this` keyword will surface that for you.
+It is exactly the same thing. 
+
+So if you have a callback function, and you want to reference the element that the event was called against, the `this` keyword will surface that for you.
 
 We will go into the `this` keyword more in the future but for now, the way we can remember it is that the `this` keyword is going to be equal to whatever is to the left of the dot. 
 
 If we called a method called `addEventListener`, look to the left of it and that is what `this` will be equal to. 
 
-Why are there two ways to reference the element (`e.currentTarget` and `this`)? And which should you use?
+Why are there two ways to reference the element (`e.currentTarget` and `this`)? 
+
+And which should you use?
+
 The `this` keyword has a bit of a downside which is that if you change the anonymous function we are passing to the `photoEl` event listener to an arrow function, the `this` keyword is no longer scoped to that element. 
 
-```
+```js
 photoEl.addEventListener("mousemove", e => {
   console.log(e.currentTarget);
   console.log(this);

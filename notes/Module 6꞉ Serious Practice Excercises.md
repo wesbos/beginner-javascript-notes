@@ -3,7 +3,7 @@ attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.p
 favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-08-05T11:11:42.879Z'
+modified: '2020-08-05T11:24:24.606Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -1663,7 +1663,7 @@ That is helpful information in helping us determine whether that thing is on the
 
 Take that strong tag which is the first thing in the `paylod` because you can watch for multiple items.  👇
 
-```
+```js
 function obCallback(payload){
   console.log(payload[0]);
 }
@@ -1877,7 +1877,9 @@ That concludes this lesson!
 
 ![](@attachment/Clipboard_2020-06-04-08-02-46.png) 00:10
 
-In this example we are going to build tabs. Tabs are pretty simple, you click on the tab you want and it shows the content associated with it.
+In this example we are going to build tabs. 
+
+Tabs are pretty simple, you click on the tab you want and it shows the content associated with it.
 
 In this example we will practice showing/hiding things, event listeners, looping before we even learn and wee will learn how to make it accessible. 
 
@@ -1885,7 +1887,7 @@ The user should be able to use their keyboard to move between tabs without touch
 
 Let's start by looking at the HTML we will be working with. 
 
-```
+```html
 <body>
   <div class="wrapper">
     <div class="tabs">
@@ -1914,21 +1916,23 @@ Let's start by looking at the HTML we will be working with.
 </body>
 ```
 
-So we have a wrapper div with a class of "tabs". 
-
-Nested within div is another div but this one has a role of tablist. 
+We have a wrapper div with a class of "tabs" and nested within div is another div but this one has a role of `tablist`
 
 You will notice a lot of role and aria labels in the HTML and that is important because it is how you make your tabs accessible to everyone and that search engines can easily read it. 
 
 When you use proper markup, it is good for both **accessibility** and **SEO**. 
 
-We tell the browser that the div is a tab list using the `role="tablist"` attribute. That div also has an `aria-label="Programming languages"` attribute. That is for screenreaders to know what the list is about.
+We tell the browser that the div is a tab list using the `role="tablist"` attribute. 
 
-Inside of the tablist we have three buttons. Each of those buttons has a role of tab and an id that contians the name of the programming language.
+That div also has an `aria-label="Programming languages"` attribute. That is for screenreaders to know what the list is about.
 
-One of the buttons also has an `aria-select="true"` attribute. That is how we are going to maintain whether the tab is currently active. 
+Inside of the `tablist` there are 3 buttons. Each of those buttons has a role of tab and an id that contains the name of the programming language.
 
-If you take a look at our `tabs-style.css` you will see that whenever a button has an attribute of aria-selected we change the background color, the text color and remove the box shadow. 
+One of the buttons also has an `aria-select="true"` attribute. 
+
+That is how you are going to maintain whether the tab is currently active. 
+
+If you take a look at our `tabs-style.css` you will see that whenever a button has an attribute of aria-selected we change the background color, the text color and remove the box shadow. 👇
 
 ```css
 button[aria-selected="true"] {
@@ -1938,12 +1942,12 @@ button[aria-selected="true"] {
 }
 ```
 
-We don't have to worry about where to put the tabs and buttons because they are sort of clicked together by the id and the aria-labelledby of the actual tab panel. 
+You don't have to worry about where to put the tabs and buttons because they are sort of clicked together by the `id` and the `aria-labelledby` of the actual tab panel. 
 
 
 Further down in the HTML we have each all of our different tab panels. 
 
-```
+```html
 <div role="tabpanel" aria-labelledby="js">
     <p>JavaScript is great!</p>
   </div>
@@ -1955,27 +1959,37 @@ Further down in the HTML we have each all of our different tab panels.
   </div>
 </div>
 ```
-
    
-We can associate a tab panel with a specific button by giving it an `arialabelledby`. That is just descriptions, this aria-labels we are adding is not giving us any sort of functionality. It is just a good way to describe markup in the browser. 
+We can associate a tab panel with a specific button by giving it an `aria-labelledby`. 
 
-Now we can apply an attribute of hidden to the non-selected tab. The hidden attribute is great because you don't have to write any css classes to hide it. You just pop that attribute on or off and it will show and hide it. 
+That is just descriptions, this aria-labels we are adding is not giving us any sort of functionality. It is just a good way to describe markup in the browser. 
+
+Npw you can apply an attribute of `hidden` to the non-selected tab. 
+
+The `hidden` attribute is great because you don't have to write any CSS classes to hide it. You just pop that attribute on or off and it will show and hide it. 
 
 Our default state is to show the first tab button as selected and to show the first tab panel content. 
 
-Let's start writing the code, beginning with selecting the tabs div, the tab buttons and the tab panels. 
+Let's start writing the code, beginning with selecting:
+- the tabs div
+- the tab buttons
+- the tab panels. 
 
-To grab the tab buttons, we will look inside of tabs instead of the document because you may have more than one set of tabs on the page, so we should write our Javascript to support that.
+To grab the tab buttons, you will look inside of tabs instead of the document because you may have more than one set of tabs on the page, so you should write Javascript to support that.
 
-```
+```js
 const tabs = document.querySelector('.tabs');
 const tabButtons = tabs.querySelectorAll('[role="tab"]');
 const tabPanels = tabs.querySelectorAll('[role="tab"]');
 ```
 
-Next lets loop over the buttons using a foreach and add a click event listener to each. Because they are buttons, the click event will fire when you use the keyboard as well so there is no extra keyboard work we need to do. We will pass it a function `handleTabClick`.
+Next, loop over the buttons using a `foreach` and add a click event listener to each. 
 
-```
+Because they are buttons, the click event will fire when you use the keyboard as well so there is no extra keyboard work you need to do.  
+
+Pass it a function `handleTabClick`, like so 👇
+
+```js
 const tabs = document.querySelector('.tabs');
 const tabButtons = tabs.querySelectorAll('[role="tab"]');
 const tabPanels = tabs.querySelectorAll('[role="tab"]');
@@ -1983,9 +1997,9 @@ const tabPanels = tabs.querySelectorAll('[role="tab"]');
 tabButtons.forEach(button => button.addEventListener('click', handleTabClick));
 ```
 
-Now let's write the `handleTabClick` function like so
+Add the `handleTabClick` function, like so 👇
 
-```
+```js
 const tabs = document.querySelector('.tabs');
 const tabButtons = tabs.querySelectorAll('[role="tab"]');
 const tabPanels = tabs.querySelectorAll('[role="tab"]');
@@ -1997,19 +2011,23 @@ function handleTabClick(event){
 tabButtons.forEach(button => button.addEventListener('click', handleTabClick));
 ```
 
-Now when we click on one of the tabs it gives us the event. If we did `console.log(event.currentTarget)` and then clicked different tabs, we would see each of the buttons logged.
+Now when you click on one of the tabs it gives you the event. 
+
+If you logged `event.currentTarget` and then clicked different tabs, you would see each of the buttons logged.
 
 ![](@attachment/Clipboard_2020-06-04-17-55-52.png) 5:40
 
-Now we will do some looping which we haven't learned yet but it's good to preview it before you hit the looping lesson and to see some examples of where you might use it in real life. 
+Now let's get into looping which you haven't learned yet but it's good to preview it before you hit the looping lesson and to see some examples of where you might use it in real life. 
 
-When somebody the first thing we need to do is hide all the other tabs and mark them as unselected. Then we have to mark the clicked tab as selected, and then we need to find the associated tabPanel and show it. 
+When somebody clicks a tab, the first thing you need to do is hide all the other tabs and mark them as unselected. 
+
+Then you have to mark the clicked tab as `selected`, and then find the associated `tabPanel` and show it. 
 
 Let's add all those steps as **pseudocode**, which is just putting into words what you are trying to do so you can grasp the steps that need to happen when someone clicks it.
 
 We will go one by one and write the code for it. 
 
-```
+```js
 function handleTabClick(event){
   // hide all tab panels
   // mark all tabs as unselected
@@ -2018,27 +2036,31 @@ function handleTabClick(event){
 }
 ```
 
-We have already selected all the tab panels at the top of our file. If you were to log them within the  `handleTabClick` event, you would get a nodelist with the three divs. 
+We have already selected all the tab panels at the top of our file. 
+
+If you were to log them within the  `handleTabClick` event, you would get a node list with the 2 divs. 
 
 ![](@attachment/Clipboard_2020-06-04-18-05-50.png) 7:21
 
-The tab panels are getting hidden by the `hidden` attribute. So what we can do is loop over each of them using `.forEach` and for each of those, we will hide it. 
+The tab panels are getting hidden by the `hidden` attribute. 
 
-```
+What you can do is loop over each of them using `.forEach` and for each item hide it, like so 👇
+
+```js
 tabPanels.forEach(function(panel){
   console.log(panel);
 })
 ```
 
-That code will take our nodelist of the three panels, loop over each one, and for each one we get a variable called `panel`, which is how we reference each of them, and then we can log it.
+That code will take the node list of the 3 panels, loop over each one, and for each item, you get a variable called `panel`, which is how you reference each instance. Log it. 
 
-If you click on one tab, you get three separate console logs of each of them. 
+If you click on one tab, you get 3 separate console logs of each of them. 
 
 ![](@attachment/Clipboard_2020-06-04-18-13-27.png) 8:11
 
-Modify the code like so to set each panel to hidden. 
+Modify the code like so to set each panel to hidden. 👇
 
-```
+```js
 tabPanels.forEach(function(panel){
   panel.hidden = true;
 })
@@ -2050,39 +2072,51 @@ As soon as you click on any tab, all the panels turn to hidden.
 
 To refactor that to an arrow function, you would simply modify the code like so 👇
 
-```
+```js
 tabPanels.forEach(panel => { 
   panel.hidden = true;
 });
 ```
 
-Note: we could have made that arrow function a one liner but it's better to make your function as readable as possible rather than try to make them as short. 
+_Note: you could have made that arrow function a one liner but it's better to make your function as readable as possible rather than try to make them as short._
 
-In a future step we will go back and show one of those tabPanels. We could just filter out the selected tabPanel when hiding them, but in Wes' experience it is much easier to just hide them all and then show the one that we want. 
+In a future step, you will go back and show one of those `tabPanels`. 
+
+You could just filter out the selected `tabPanel` when hiding them, but in Wes' experience it is much easier to just hide them all and then show the one that we want. 
 
 ![](@attachment/Clipboard_2020-06-04-18-20-50.png) 10:19
 
-The next step is to take our tabs and mark them all as unselected. As you can see we are using the `aria-selected` attribute to set whether it is selected or not. 
+The next step is to take the tabs and mark them all as unselected. 
+
+As you can see, we are using the `aria-selected` attribute to set whether it is selected or not. 
 
 So how do you set that? Would  `tab.aria-selected = false` work? 
 
 ![](@attachment/Clipboard_2020-06-04-18-22-10.png) 10:32
 
-It does not, because you can't put dashes in it. SO how do we access a property when the property has a dash in it? 
+It does not, because you can't put dashes in it. 
 
-If you go to the HTML page, click on one of the buttons in the Elements tab of the dev tools, then flip to the console and use our $0 trick, we can access it like so: `$0.ariaSelected`.
+So how do we access a property when the property has a dash in it? 
+
+If you go to the HTML page, click on one of the buttons in the Elements tab of the dev tools, then flip to the console and use our $0 trick, you can access it like so 👇 
+
+```js
+$0.ariaSelected
+```
 
 Anytime that you see an attribute with a dash on an HTML element, you can almost always access that with the camel cased version of that. 
 
 Let's try that. 
 
-```
+```js
 tabButtons.forEach(tab => { 
   tab.ariaSelected = false;
 });
 ```
 
-If you refresh the page does that work? No. You will see a tab is still selected. 
+If you refresh the page does that work? 
+
+No. You will see a tab is still selected. 
 
 ![](@attachment/Clipboard_2020-06-04-18-26-42.png) 11:43
 
@@ -2090,23 +2124,25 @@ If you click on the Javascript button which still looks selected, and flip to th
 
 ![](@attachment/Clipboard_2020-06-04-18-27-27.png) 11:51
 
-So why is it not updating? If you flip back to the elements tab, you will see the attribute value equals true. It never updated. 
+So why is it not updating? 
 
-What happened!? What happened is that with most properties in javascript, you can just access the property on the element directly. 
+If you flip back to the elements tab, you will see the attribute value equals true. It never updated.  What happened!? 
 
-However for some properties, including custom properties that you just made up, as well as aria propreties, it looks like you cannot use that method.
+What happened is that with most properties in javascript, you can just access the property on the element directly. 
+
+However for some properties, including custom properties that you just made up, as well as `aria` propreties, it looks like you cannot use that method.
 
 The only other way is to use the `.setAttribute()` method.
 
-Wes looked at some docs and for aria properties, you should always use the `setAttribute` and `getAttribute` method on the element instead of on the property. 
+Wes looked at some docs and for `aria` properties, you should always use the `setAttribute` and `getAttribute` method on the element instead of on the property. 
 
 ![](@attachment/Clipboard_2020-06-04-18-30-11.png) 12:40
 
 So some properties like `.alt` or `.src` or `.title`, those things can be done via properties on the element, but not for aria attributes.
 
-Modify the code liek so: 
+Modify the code like so 👇
 
-```
+```js
 function handleTabClick(event) {
   // hide all tab panels
   tabPanels.forEach(panel => {
@@ -2123,35 +2159,49 @@ If you were to refresh the page and click one of the tabs, all the tabs will no 
 
 ![](@attachment/Clipboard_2020-06-04-18-33-20.png) 13:24
 
-Now let's mark the clicked tab as selected. 
+Now, mark the clicked tab as selected. 
 
-```
+```js
 event.currentTarget.setAttrbute('aria-selected', true);
 ```
 
-Now when you click one, you will see it will set and remove the aria selected. 
+When you click one, you will see it will set and remove the aria selected. 
 
 ![](@attachment/Clipboard_2020-06-04-18-34-19.png) 14:01
 
 You might have noticed that we are not using any classes here and the reason for that is if you can reach for an accessibility attribute over a class then do that so you can kill 2 birds with one stone. 
 
-Next we need to find the associated tab panel and show it. They are associated using the button `id` and `aria-labelledby` attribute of the tab panel. 
+Next, you need to find the associated tab panel and show it. 
 
-So if someone clicks on the button below, we need to find the tabPanel with `aria-labelledby="js"` attribute value.
+They are associated using the button `id` and `aria-labelledby` attribute of the tab panel. 
 
-```
+So if someone clicks on the button below, we need to find the tabPanel with `aria-labelledby="js"` attribute value. 👇
+
+```html
 <button role="tab" aria-selected="true" id="js">
   JavaScript
 </button>
 ```
 
-So we could do this a couple of ways. Let's first grab that id. `const id = event.currentTarget.id;`. 
+You could do this a couple of ways. 
 
-You might notice that when you save the code, the editor modifies that line like so `const { id } = event.currentTarget;`. That is because instead of saving the varaiable the same as the property on something, we can destructure it to create an `id` variable from that thing. 
+First grab that id. 
+
+```js
+const id = event.currentTarget.id;
+``` 
+
+You might notice that when you save the code, the editor modifies that line like so 👇
+
+```js
+const { id } = event.currentTarget;
+```
+
+That is because instead of saving the varaiable the same as the property on something, you can destructure it to create an `id` variable from that thing. 
 
 That is handy if you ever want to pull other properties like an `alt` or a `src`. 
 
-```
+```js
 function handleTabClick(event) {
   // hide all tab panels
   tabPanels.forEach(panel => {
@@ -2168,13 +2218,13 @@ function handleTabClick(event) {
   const { id } = event.currentTarget;
 ```
 
-Now we need to find the associate tab panel. 
+Now you need to find the associate tab panel. 
 
-There are a couple of ways we can do that. 
+There are a couple of ways you can do that. 
 
-We can simply use the id in a selector. 
+You can simply use the id in a selector. 
 
-```
+```js
 const tabPanel = tabs.querySelector(`[aria-labelledby="${id}"]`);
 console.log(tabPanel);
 tabPanel.hidden = false;
@@ -2182,31 +2232,40 @@ tabPanel.hidden = false;
 
 If you refresh the page, you will see that works. 
 
-Now let's comment that code out and try another method, this time using `find()`. 
+Comment that code out and try another method, this time using `find()`. 
 
-We can take the `tabPanels` and just loop over it until we find the one we want. 
+### Converting a NodeList to an Array
 
-If we added the following code, would it work? 
+Take the `tabPanels` and just loop over it until you find the one you want. 
 
-```
+If you added the following code, would it work? 
+
+```js
 tabPanels.find()
 ```
 
 ![](@attachment/Clipboard_2020-06-04-18-45-43.png) 18:36
 
-No, it does not. Why not? THat is because the `.find()` method is only a method on arrays. If you recall from when we logged `tabPanels`, that it is not an array, it is a NodeList, and it doesn't have all of those array methods.
+No, it does not. 
+
+Why not? 
+
+That is because the `.find()` method is only a method on arrays. 
+
+
+If you recall from when we logged `tabPanels`, it is not an array, it is a NodeList, and it doesn't have all of those array methods.
 
 ![](@attachment/Clipboard_2020-06-04-18-46-52.png) 18:58
 
-We can convert the NodeList into an array by wrapping it in `Array.from()` like so: 
+You can convert the NodeList into an array by wrapping it in `Array.from()` like so 👇
 
-```
+```js
 const tabPanels = Array.from(tabs.querySelectorAll('[role="tabpanel"]'));
 ```
 
-Now using the find, we can check for each of them whether the `aria-labelledby` attribute equals the id.
+Now using the find, you can check for each of them whether the `aria-labelledby` attribute equals the id.
 
-```
+```js
 const tabPanel = tabPanels.find((panel) => {
   if (panel.getAttribute("aria-labelledby") === id) {
     return true;
@@ -2214,9 +2273,9 @@ const tabPanel = tabPanels.find((panel) => {
 });
 ```
 
-We can actually refactor that to use an implicit return to return the outcome of the condition. 
+You can actually refactor that to use an implicit return to return the outcome of the condition. 
 
-```
+```js
 console.log(tabPanels);
 const tabPanel = tabPanels.find(
   panel => panel.getAttribute('aria-labelledby') === id
@@ -2224,15 +2283,17 @@ const tabPanel = tabPanels.find(
 console.log(tabPanel);
 ```
 
-So what we did is we used find to find the tabPanel that matches the id we passed and we stored the result in a variable called `tabPanel`.
+So what you did is you used find to find the tabPanel that matches the id we passed and you stored the result in a variable called `tabPanel`.
 
 Now when you click on a tab, you will see the associated panel. 
 
 ![](@attachment/Clipboard_2020-06-04-18-53-50.png) 21:07
 
-Let's replace the log with `tabPanel.hidden = false;` so it is no longer hidden.
+Replace the log with `tabPanel.hidden = false;` so it is no longer hidden.
 
-Now your tabs should be working! Both those methods are valid, it's up to you which you prefer. 
+Now your tabs should be working! 
+
+Both those methods are valid, it's up to you which you prefer. 
 
 
 

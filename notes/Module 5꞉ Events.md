@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png, Clipboard_2020-03-09-18-49-21.png, Clipboard_2020-03-09-19-23-39.png, Clipboard_2020-03-09-19-32-21.png, Clipboard_2020-08-04-19-59-05.png, Clipboard_2020-08-04-20-00-15.png, Clipboard_2020-08-04-20-01-12.png, Clipboard_2020-08-04-20-04-13.png, Clipboard_2020-08-04-20-04-17.png, Clipboard_2020-08-04-20-04-20.png, Clipboard_2020-08-04-20-08-14.png, Clipboard_2020-08-04-20-08-18.png, Clipboard_2020-08-04-20-08-25.png, Clipboard_2020-08-04-20-08-56.png, Clipboard_2020-08-04-20-09-16.png, Clipboard_2020-08-04-20-13-34.png, Clipboard_2020-08-04-20-24-09.png, Clipboard_2020-08-04-21-25-01.png, Clipboard_2020-08-04-21-33-47.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
-modified: '2020-08-05T01:38:40.220Z'
+modified: '2020-08-05T01:43:55.870Z'
 ---
 
 # Module 5: Events
@@ -1139,66 +1139,100 @@ There are some more events on form elements that we will get into in the future 
 
 Making a website accesssible means that you are making it usable to everyone and anyone, regardless of what disability they may have, or what input device they are using, or what situation they are currently in. 
 
-If HTML is marked up correctly, it will be accessible. However, what often happens is Javascript developers will often add code that only  works with the mouse for example, and therefore aren't accessible to anyone. 
+If HTML is marked up correctly, it will be accessible. 
+
+However, what often happens is Javascript developers will often add code that only  works with the mouse for example, and therefore aren't accessible to anyone. 
 
 In this video, we will cover the common pitfalls that happen in Javascript. 
 
-Most accesibility goof-ups happen not because someone is purposely trying to prevent a certain type of user from accessible the website. They are typically accidental and the developer just did not know what to look for or check to ensure it's still accessible. 
+Most accesibility goof-ups happen not because someone is purposely trying to prevent a certain type of user from accessible the website. 
+
+They are typically accidental and the developer just did not know what to look for or check to ensure it's still accessible. 
 
 ### Difference between Buttons and Links
 
-This is a big accessiblity issue. Buttons are meant to be used for actions that happen inside of an application. Links on the otherhand are used to change the page. Do not mix those up. Links are not meant to be used where buttons are. 
+The difference between buttons and link is a big accessiblity issue. 
 
-Wes sees code like this all the time:
+Buttons are meant to be used for actions that happen inside of an application. 
 
-```
+Links on the otherhand are used to change the page. 
+
+Do not mix those up. Links are not meant to be used where buttons are. 
+
+Wes sees code like this all the time 👇
+
+```js
 <a href="#">Save</a>
 ```
 
-Then the developer will add a click event via javascript to the a tag and prevent the default, and then perform some sort of action. However, that is not a use-case for a link because that "Save" click doesn't redirect you to anywhere, and thus is not a link. That is a good use case for a button (an action within your application or website). 
+Then the developer will add a click event via javascript to the a tag and `preventDefault`, and then perform some sort of action. 
 
-It's still fine to prevent default on a specific link. For example, on twitter, if you try to click "tweets and replies" while not logged in, you will see a modal popup sayiing "You are not logged in". 
+However, that is not a use-case for a link because that "Save" click doesn't redirect you to anywhere, and thus is not a link. 
+
+That is a good use case for a button (an action within your application or website). 
+
+It's still fine to prevent default on a specific link. 
+
+For example, on twitter, if you try to click "tweets and replies" while not logged in, you will see a modal popup sayiing "You are not logged in". 
 
 ![](@attachment/Clipboard_2020-03-09-18-49-21.png) 2:35
 
 That is an example of a valid use case for using prevent default with a link. 
 
-WHenever you need to do something, don't mix up buttons and links.
+When you need to do something, don't mix up buttons and links.
 
 ###  Keyboard Accessibility
 
 Elements that are not keyboard accessible should not have clicks registered on them, unless you need to. 
 
-For example, let's say we have an image like so:
+For example, let's say you have an image like so:
 
-```
+```js
 <img class="photo" src="https://picsum.photos/200" alt="Nice">
 ```
 
-Now via javascript, we will select the photo and add a click event listener. 
+Via javascript, select the photo and add a click event listener. 
 
-```
+```js
 const photo = document.querySelector(".photo");
 photo.addEventListener("click", function() {
   console.log("you clicked the photo");
 });
 ```
 
-There are plenty of valid use cases for clicking on a photo. For example maybe it will open up a larger version of that photo, maybe you want to draw on the photo or zoom it in. 
+There are plenty of valid use cases for clicking on a photo. 
 
-If you refresh the html page and click on the photo, you will see "You clicked the photo" logged every time you click it. If you threw your mouse away, using the tab button on your keyboard, you should be able to tab through everything on the browser. However, you will not be able to click on the photo with only the keyboard. 
+For examplem maybe it will open up a larger version of that photo, or you want to draw on the photo or zoom it in. 
 
-That is a problem because if the user doesn't have a mouse or they are unable to use a mouse, then they can't use that part of your website. An easy solution is giving the element the following attribute: `role="button"`. If you mean for something to be a button that is not a button tag, such as a div, if you mean for it to be used like a button, you should add the role attribute like so: `<div role="button" tabindex="0"> click me </div>`. You also need to add the `tabindex` attribute when you add the `role="button"`. You will likely set that to zero, which will put that element in the flow so people can tab to it with their keyboards. 
+If you refresh the HTML page and click on the photo, you will see "You clicked the photo" logged every time you click it. 
 
-For the image, you could give it a role of button, but it's easier to pt the image actually inside a button like so: 
+If you threw your mouse away, using the tab button on your keyboard, you should be able to tab through everything on the browser. 
 
+However, you will not be able to click on the photo with only the keyboard. 
+
+That is a problem because if the user doesn't have a mouse or they are unable to use a mouse, then they can't use that part of your website. 
+
+An easy solution is giving the element the following attribute: `role="button"`. 
+
+If you mean for something to be a button that is not a button tag, such as a div, if you mean for it to be used like a button, you should add the role attribute like so 👇
+
+```js
+<div role="button" tabindex="0"> click me </div>
 ```
+
+You also need to add the `tabindex` attribute when you add the `role="button"`. 
+
+You will likely set that to 0, which will put that element in the flow so people can tab to it with their keyboards. 
+
+For the image, you could give it a role of button, but it's easier to put the image actually inside a button, like so 👇
+
+```html
 <button>
       <img class="photo" src="https://picsum.photos/200" alt="Nice" /> 
 </button>
 ```
 
-If you modified the code like so instead: 
+If you modified the code like so instead, like so 👇
 
 ```html
 <div role="button" tabindex="0">Click me </div>
@@ -1209,7 +1243,11 @@ Now if you tab using your keyboard, you can go back and forth between the image 
 
 ![](@attachment/Clipboard_2020-03-09-19-23-39.png) 6:26
 
-If you focus on the image like shown above and hit the enter key, unlike some other buttons and elements, it will not trigger a click. If that is the case, you have to go back to your javascript and move the anonymous function that we pass to the click event listener and make it named function. Modify the click event listener to call `handlePhotoClick` instead and then duplicate the event listener and add another listener but on the `keyup` event this time, like so:
+If you focus on the image like shown above and hit the enter key, unlike some other buttons and elements, it will not trigger a click. 
+
+If that is the case, you have to go back to your javascript and move the anonymous function that you pass to the click event listener and make it named function. 
+
+Modify the click event listener to call `handlePhotoClick` instead and then duplicate the event listener and add another listener but on the `keyup` event this time, like so 👇
 
 ```js
 function handlePhotoClick() {
@@ -1221,9 +1259,15 @@ photo.addEventListener("keyup", handlePhotoClick);
 
 Now, when you go to the image, you can click on over to it. 
 
-You might notice that when we tab to the image, the console is logging "You clicked the photo", even though you haven't actually clicked it yet (we only care about the enter key). How do we only listen for the enter key?
+You might notice that when upi tab to the image, the console is logging "You clicked the photo", even though you haven't actually clicked it yet (we only care about the enter key).
 
-The event has a bunch of information about this. The event object should have `event.key` and `event.keycode`. `event.key` is more modern and supported in more browsers. Every single key on an event will give you a bunch of information.
+How can you only listen for the enter key?
+
+The event has a bunch of information about this. 
+
+The event object should have `event.key` and `event.keycode`. `event.key` is more modern and supported in more browsers. 
+
+Every single key on an event will give you a bunch of information.
 
 Wes has a website, http://keycode.info, on which you can press any key and it will give you the meta information about that key. 
 
@@ -1231,9 +1275,9 @@ Wes has a website, http://keycode.info, on which you can press any key and it wi
 
 There is `event.key`, `event.which`, `event.code` and `event.key`.  `event.key` is the best way to go about it.
 
-Now what we can say is if the event is a click or if the event.key equals enter like so: 
+Now what we can say is if the event is a click or if the `event.key` equals enter like so: 👇
 
-```
+```js
 function handlePhotoClick(event) {
   if (event.type === "clicked" || event.key === "Enter") {
     console.log("you clicked the photo");

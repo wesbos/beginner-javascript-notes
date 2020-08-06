@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-08-06T10:49:11.124Z'
+modified: '2020-08-06T11:05:04.402Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -71,29 +71,34 @@ Next we will get into logic and flow control. If statements, truthy or falsy, eq
 
 ## 38 - Flow Control - If Statements, Function Returns, Turthy, Falsy
 
-If statements are the foundation of all logic in javascript. They expect Booleans, which are always either true or false, or they expect some sort of condition that is evaluated to true or false or truthy and falsy. 
 
-First we will explain the mechanics of if statements using greater or less than operators firts, and the we will get deeper into other operators shortly.
+### If Statements
 
-At it's most basic, we have an if statement that looks like the following:
+**If statements** are the foundation of all logic in Javascript. They expect **booleans**, which are always either true or false, or they expect some sort of condition that is evaluated to **true or false** or **truthy and falsy**. 
 
-```
+First let's go over the mechanics of if statements using greater or less than operators, and then we will dive deeper into the other operations. 
+
+At it's most basic, an if statement can look like the following 👇
+
+```js
 if( 10 > 2){
   console.log('Yep');
 }
 ```
 
-That is saying if 10 is greater than 2, console log "Yep". 
+The code above is sayiing if 10 is greater than 2, log "Yep" to the console. 
 
-`if(10>2){console.log('Yep`);}` is the if statement. 
+The entire if statement is `if(10>2){console.log('Yep`);}`  
 
-`(10 > 2)` is what is referred to as the **condition**. The condition is going to be evaluated to true or false. By evaluated, what we mean is that if you were to run that in the console (10 > 2) it would evaluate to true or false. 
+The code within the paranthesis following the if statement, `(10 > 2)`, is what is referred to as the **condition**.
+
+The condition is going to be evaluated to true or false. By evaluated, what we mean is that if you were to run that in the console (`10 > 2`) it would evaluate to true or false. 
 
 There are the curly brackets which are opening and closing the block `{}`. Any code that needs to happen when the condition is true need to go within the block. 
 
-We can also add an else if like so:
+You can also add an else if like so 👇
 
-```
+```js
 if( 10 > 2 ){
   console.log('Yep');
 }
@@ -101,9 +106,12 @@ else if( 11 > 10){
   console.log('Yep')
 }
 ```
-You can also chain these else ifs as many times as you want. However, if the first one is true, even if the later ones are also true, they will never run. 
 
-```
+You can also chain these "else if"s as many times as you want. 
+
+However, if the first one is true, even if the later ones are also true, they will never run. 
+
+```js
 if( 10 > 2 ){
   console.log('Yep');
 }
@@ -115,15 +123,17 @@ else if (3 > 1) {
 }
 ```
 
-Although all three conditions above are true, the second and third blocks will never run because the first condition evaluates to true and runs. An if statement will look for the first condition that evaluates to true and then it only runs that block, it will skip the rest. 
+Although all 3 conditions above 👆 are true, the 2nd and 3rd blocks will never run because the first condition evaluates to true and runs. 
 
-If you wish to check for whether multiple things are true, you'd have to have three separate if statements rather than one big if else statement, like so:
+An if statement will look for the first condition that evaluates to true and then it only runs that block, it will skip the rest. 
 
-```
-if( 10 > 2 ){
+If you wish to check for whether multiple things are true, you'd have to have 3 separate if statements rather than one big if else statement, like so 👇
+
+```js
+if(10 > 2 ){
   console.log('Yep');
 }
-if( 11 > 10){
+if(11 > 10){
   console.log('Yep')
 }
 if (3 > 1) {
@@ -131,16 +141,16 @@ if (3 > 1) {
 }
 ```
 
-Additionally, if nothing is matched, you can chain a `else{}` onto the if statment like so:
+Additionally, if nothing is matched, you can chain a `else{}` onto the if statment like so 👇
 
-```
-if ( age > 70){
+```js
+if(age > 70){
   console.log('In your seventies');
 }
-else if ( age > 60){
+else if(age > 60){
   console.log('In your sixties');
 }
-else if (age > 50){
+else if(age > 50){
   console.log('In your 50s');
 }
 else {
@@ -148,110 +158,137 @@ else {
 }
 ```
 
-"nothing was true" will be logge if age is less than 50. 
+"nothing was true" will be logged if `age` is less than 50. 
 
-Notice that the `else` statement does not have parenthesis () like the if and else if statements. That is because else never has a condition. It is a catch all which runs if none of the conditions are true. It's similar to the default that we learne about in the switch statement. 
+Notice that the `else` statement does not have parenthesis `()` like the if and else if statements. 
 
-Let's say we take the following code :
+That is because else never has a condition. 
 
-```
+It is a "catch-all" which runs if none of the conditions are true. It's similar to the default that we learne dabout in the switch statement. 
+
+Take the following code 👇
+
+```js
 const age = 100;
-if ( age > 70){
+if (age > 70){
   console.log('In your seventies');
 }
-else if ( age > 60){
+else if (age > 60){
   console.log('In your sixties');
 }
-else if (age > 50){
+else if(age > 50){
   console.log('In your 50s');
 }
 else {
   console.log("nothing was true");
 }
-
 ```
 
-If you run that in the console, what would you see? You should see "in your seventies". 
+If you run that in the console, what would you see? 
+
+You should see "in your seventies". 
 
 ![](@attachment/Clipboard_2020-03-10-19-08-05.png) 4:39
 
-Even though that the rest of the conditions are true, because the first condition is true, none of the other conditions are evaluated or run. That is important to keep in mind if you're working with multiple things that could be true. You need to be aware of the order of which you check your if statements. 
+Even though that the rest of the conditions are true, because the first condition is true, none of the other conditions are evaluated or run. 
 
-Now we will talk about if statements inside of a function, which is likely something you will come across and use to return different values. 
+That is important to keep in mind if you're working with multiple things that could be true. 
 
-```
-  function slugify(sentence, lowercase) {
-      if(lowercase){
-        return sentence.replace(/\s/g, '-').toLowercase();
-      }
-      else {
-        return sentence.replace(/\s/g, '-');
-      }
+You need to be aware of the order of which you check your if statements. 
+
+Now let's discuss if statements inside of a function, which is likely something you will come across and use to return different values. 
+
+```js
+function slugify(sentence, lowercase) {
+    if(lowercase){
+      return sentence.replace(/\s/g, '-').toLowercase();
     }
+    else {
+      return sentence.replace(/\s/g, '-');
+    }
+  }
 ```
 
-We have this slugify function, which takes in a sentence and then takes in a Boolean, which is either going to be true of false based on whether we should lowercase it or not, and then we return that sentence but we call the .replace() method on it. 
+We have this `slugify` function shown above 👆, which takes in a sentence and a boolean (which will be true of false depending on whether you want to lowercase it or not), and then we return that sentence but call the `.replace()` method on it. 
 
-You may be wondering about this line of code:
+You may be wondering about this line of code 👇
 
-```
+```js
 sentence.replace(/\s/g, '-').toLowercase();
 ```
 
-This is a **regex**, which stands for regular expression. A regular expression is a way to match characters in a string. 
+This is a **regex**, which stands for **regular expression**. 
 
-A regex always starts and closes with a forward slash `/` and then you type in different characters. 
+A regular expression is a way to match characters in a string. It always starts and closes with a forward slash `/` and then you type in different characters. 
 
-In our case, we want to pass the space character which is `\s`. `g` stands for global, which means find them all, not just the first one. Then we replace it with the dash and call toLowercase. 
+In our case, we want to pass the space character which is `\s`. 
 
-If you open the html page in a browser and type into the console `slugify('I am very cool')`, it will return "I-am-very-cool".  It puts dashes where spaces were. 
+`g` stands for global, which means find them all, not just the first one. 
 
-If you were to run that same code but pass a second argument of true, it will lowercase the sentence as well and return "i-am-very-cool". 
+Then we replace it with the dash and call `toLowercase`. 
 
-Some developers prefer to keep as much logic out of the brackets as possible because if you delete one by accident, it takes a long time to debug. What you can do is simplify the code by getting rid of the else statement and run the code like this: 
-
+```js
+slugify('I am very cool');
 ```
-  function slugify(sentence, lowercase) {
-      if(lowercase){
-        return sentence.replace(/\s/g, '-').toLowercase();
-      }
-      return sentence.replace(/\s/g, '-');
+If you open the HTML page in a browser and run the code above in the console, it will return "I-am-very-cool".  
+
+It puts dashes where spaces were. 
+
+If you were to run that same code but pass a second argument of `true`, it will lowercase the sentence as well and return "i-am-very-cool". 
+
+Some developers prefer to keep as much logic out of the brackets as possible because if you delete one by accident, it takes a long time to debug. 
+
+What you can do is simplify the code by getting rid of the else statement and run the code like this 👇
+
+```js
+function slugify(sentence, lowercase) {
+  if(lowercase){
+    return sentence.replace(/\s/g, '-').toLowercase();
+  }
+  return sentence.replace(/\s/g, '-');
+}
+```
+
+If you try calling `slugify('I am very cool')` again from the console, it will return the same thing. 
+
+The reason for that is because of the return keyword within the `if(lowercase)` block. 
+
+What does **return** mean? 
+
+It means to return a value from a function, and stop that function from running. 
+
+Whenever you return from a function, even if it's inside of an if statement, that function will stop running and the code that was is within the else will never be reached. So rather than having an if else, we can have an if and then the else is assumed by putting it after the if condition. This is just personal preference, both approaches are completely valid. 
+
+There is so many different ways we could have coded this functon. 
+
+This is also a valid approach 👇
+
+
+```js
+function slugify(sentence, lowercase) {
+  let slug  = sentence.replace(/\s/g, '-');
+    if(lowercase){
+      slug = slug.toLowercase();
     }
+    return slug;
+  }
 ```
 
-If you try calling `slugify('I am very cool')` again from the console, it will return the same thing. The reason for that is because of the return keyword within the `if(lowercase)` block. 
+Shown above 👆, we have have assigned the slug variable and then based on whether to lower case or not, we update the slug variable and return it. 
 
-What does **return** mean? It means to return a value from a function, and stop that function from running. Whenever you return from a function, even if it's inside of an if statement, that function will stop running and the code that was previously within the else will never be reached. So rather than having an if else, we can have an if and then the else is assumed by putting it after the if condition. This is just personal preference, both approaches are completely valid. 
+You could also do 👇
 
-There is so many different ways we could have coded this functon. This is also a valid approach:
-
-
-```
-  function slugify(sentence, lowercase) {
-    let slug  = sentence.replace(/\s/g, '-');
-      if(lowercase){
-        slug = slug.toLowercase();
-      }
-      return slug;
-    }
+```js
+function slugify(sentence, lowercase) {
+  let slug  = sentence.replace(/\s/g, '-');
+  if(lowercase){
+    return slug.toLowercase();
+  }
+  return slug;
+}
 ```
 
-Here we have assigned the slug variable, then based on the condition (whether lowercase is true or not) we update the slug variable and return it.
-
-You could also do:
-
-
-```
-  function slugify(sentence, lowercase) {
-    let slug  = sentence.replace(/\s/g, '-');
-      if(lowercase){
-        return slug.toLowercase();
-      }
-      return slug;
-    }
-```
-
-The last two approaches to this function are better because we don't have to duplicate the regex in two places. 
+The last two approaches are better because we don't have to duplicate the regex in two places. 
 
 ### Operators
 

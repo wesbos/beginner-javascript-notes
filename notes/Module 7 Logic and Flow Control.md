@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png]
+attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png, Clipboard_2020-08-06-07-30-33.png, Clipboard_2020-08-06-07-30-39.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-08-06T11:05:04.402Z'
+modified: '2020-08-06T11:38:20.829Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -294,23 +294,30 @@ The last two approaches are better because we don't have to duplicate the regex 
 
 We talked briefly about the different equal signs (`=`, `==`, `===`).
 
-As a refresher.. if you open the html page in the browser and try to type `age = 100;` in the console, you will get an error like the following:
+As a refresher, if you open the html page in the browser and try to type `age = 100;` in the console, you will get an error like the following 👇
 
 ![](@attachment/Clipboard_2020-03-11-07-21-59.png) 9:05
 
-This is erroring out because the single value will set the value into a variable, and this is a const variable which you cannot do. 
+The code is erroring out because the single value will set the value of the variable, and `age` is a const variable, so you cannot do that. 
 
-If we do `age == 100`, we will get true. That is because double equals will check that the values are the same. So the value of age is 100, and the value of what we are comparing it against is 100. 
+```js
+ age == 100;
+ ```
+If you try the code above 👆, it will return true.
 
-The gotcha with the `==` is that if we were comparing it against another value, such as `age == '100'` for example, it will return true because they are technically the same value but they are not the same type.
+That is because double equals `==` will check that the values are the same. So the value of `age` is 100, and the value of what we are comparing it against is 100. 
 
-Using `===` will check if the type of age and the type of the value are the same. 
+The gotcha with the double equal signs is that if you were comparing it against another value, such as `age == '100'` for example, it will return true because they are technically the same value even though they are not the same type!
+
+Using `===` will check if both the type AND the value of the `age` match `100`.
 
 ![](@attachment/Clipboard_2020-03-11-07-24-38.png) 10:02
 
 Because of that, you should almost always use `===`. 
 
-If that is the case, you may be wondering what is the purpose of having `==` in the language at all? Because of null and undefined.
+If that is the case, you may be wondering what is the purpose of having `==` in the language at all? 
+
+Because of `null` and `undefined`.
 
 Sometimes you want to check if a variable is null or undefined. 
 
@@ -320,33 +327,50 @@ Sometimes you want to check if a variable is null or undefined.
 
 Although that is the case, Wes has almost never had to use the `==` in his career because of something called **truthy** or **falsy**. 
 
-We also have does not equal which is the bang (`!` is referred to as a bang in programming) and equals sign. 
+We also have does not equal which is the *bang* (`!` is referred to as a bang in programming) and equals sign. 
 
-You would do `name !== 'keith'` for example, which would return false if `name = 'wes'`. 
-
-You could also do `!=`. 
-
-For example 
-
+```js
+name !== 'keith'
 ```
+
+If you had a `name` variable that was equal to 'wes', if you tried the code above in the console, it would return false. 
+
+You can also do `!=`. 
+
+For example 👇
+
+```js
 10 !== '10' //returns true
 ```
 
-```
+```js
 10 != '10' //returns false
 ```
 
 That is because 10 and '10' are different types, but the double equals ignores the type. 
 
-We also have greater than and less than. You could check for example if `10 > 10` which would return false. You can do `10 >= 10` which would be true. 
+There is also greater than and less than. 
 
-Some people get confused and think you may need to use double equals when comparing greater than or equal or less than or equal (like `10 >== 10`, however that is not correct. Why? Because the greater than and less than operators only ever deal with numbers. So if you accidentally use a string, it will turn the string into a number at first but you shouldn't be doing that. 
+You could check for example if `10 > 10` which would return false. 
 
-Wes always tells people to think of the greater than and less than sign as a hungry aligator. That is how he remembers it. Is the hungry aligator pointed to the largest number? Then that is true. However, if the hungry aligator is pointing to the smaller number than it's false. 
+You can do `10 >= 10` which would be true. 
 
-Additionally we have and and or. 
+Some people get confused and think you may need to use double equals when comparing greater than or equal or less than or equal (like `10 >== 10`, however that is not correct. 
 
-Let's go back to the `if-statements.html` file. Let's say in this function, we also wanted to check if the persons name was scott because that also is a cool name we would use the or operator like so:
+Why? 
+
+Because the greater than and less than operators only ever deal with numbers. If you accidentally use a string, it will turn the string into a number at first but you shouldn't be doing that. 
+
+Wes always tells people to think of the greater than and less than sign as a hungry aligator. That is how he remembers it. 
+
+Is the hungry aligator pointed to the largest number? Then that is true. 
+However, if the hungry aligator is pointing to the smaller number than it's false. 
+
+Additionally there are "and" and "or" operators. 
+
+Go back to the `if-statements.html` file. 
+
+Within the function, let's add code to check if the person's name is scott because that is also a cool name. We could use the `or` operator like so 👇
 
 ```js
 if (name === "wes" || name === "scott") {
@@ -354,44 +378,67 @@ if (name === "wes" || name === "scott") {
 }
 ```
 
-The or operator is comprised of two pipes like so: `||`. You would read that code like so:  If the name is equal to wes, OR the name is equal to scott, we console log "cool name". 
+The `or` operator is comprised of two **pipes** like so: `||`. 
 
-Now let's say we also wanted to check if the first name was wes and the last name was bos, then we don't use the or `||`, we use the and `&&` instead, like so: 
+You would read that code like so:  
 
-```
+If the name is equal to wes, OR the name is equal to scott, log "cool name". 
+
+Now let's say you also wanted to check if the first name was "wes" and the last name was "bos". 
+
+In that cause, you wouldn't use the or operator `||`, you would use the and operator `&&` instead, like so 👇
+
+```js
 if(name === 'wes' && last === 'bos'){
   console.log("cool name);
 }
 ```
 
-We can also use BEDMAS here heavily. We can do something like
+You can also use **BEDMAS** here, like so 👇
 
-```
+```js
 if(name === 'scott' || (name === 'wes' && last === 'bos')){
   console.log('Cool name!);
 }
 ```
 
-What this code will do is it will check the paranethesis. So name must equal scott and last must equal bos, in order for the whole thing to be true. 
+What this code will do is it will check the paranthesis. Name must equal "scott" and last name must equal "bos" for the statement to return true. 
 
 ![](@attachment/Clipboard_2020-03-12-07-50-13.png) 15:29
 
-When you use the and operator, if any one of the conditions is false, then the entire thing will evaluate to false. Howevevr, when you use the || operator, if any of the conditions are true, it will always be true. 
+When you use the and operator, if any one of the conditions is false, then the entire thing will evaluate to false. 
+
+However, when you use the `||` operator, if any of the conditions are true, it will always be true. 
 
 Next we will talk about using functions with if statements. This is fairly common. 
 
-If you had a string like `'awesome'` and you wanted to check if it contains the word wes you could use `'awesome'.includes('wes')` which would return true. You could also do `awesome.includes('scott')` which would return false. You can use that directly in an if statement like so: 
-
+```js
+'awesome'.includes('wes')
 ```
+
+If you had a string like `'awesome'` and you wanted to check if it contains the word wes you could use the code above which would return true. 
+
+```js
+'awesome'.includes('scott')`
+```
+You could also run the code above 👆which would return false. 
+
+You can use that directly in an if statement like so 👇 
+
+```js
 const name = 'wes';
 if('awesome'.includes(name)){
   console.log('SUPER COOL AWESOME NAME');
 }
 ```
 
-So pretty often you have methods that return true or false nad pretty often you can use those directly inside. You can also put them in their own variable to make it easier to read like so:
+![](@attachment/Clipboard_2020-08-06-07-30-39.png)
 
-```
+Pretty often you have methods that return true or false and often you can use those directly unside. 
+
+You can also put them in their own variable to make it easier to read like so 👇
+
+```js
 const isAwesomeName = 'awesome'.includes(name);
 if(isAwesomeName){
   console.log('SUPER COOL NAME");
@@ -400,9 +447,9 @@ if(isAwesomeName){
 
 Sometimes when you are working with a lot of conditions and a long if statement, it can make the code easier to read and follow if you break it up into multiple variables. 
 
-Similarly we can make our own functions that return true or false and then use it, like in this example:
+Similarly you can make our own functions that return true or false and then use it, like in the example below 👇
 
-```
+```js
 function nameIsAwesome(name){
   return 'awesome'.includes(name);
 }
@@ -411,13 +458,15 @@ if(nameIsAwesome('wes')){
 }
 ```
 
-Next we have a concept of **truthy** and **falsy**. 
+#### Truthy or Falsy 
 
-Although Wes has said that if statements require a boolean but that wan't completely true because they will also accept truthy and falsy values.
+Next there is the concept of **truthy** and **falsy**. 
 
-For example is we do something like: 
+Wes has said earlier that if statements require a boolean but that isn't completely true because they will also accept truthy and falsy values.
 
-```
+For example if you have the following code 👇
+
+```js
 const dog = 'snickers';
 if(dog){
   console.log('You have a dog');
@@ -429,9 +478,22 @@ else {
 
 If you run that in the browser, you will see "You have a dog" logged in the console.
 
-However, if you were to change the dog variable declaration like so: `const dog = 'snickers'`, what would happen? We see "you don't have a dog"! 
+```js
+const dog = '';
+```
+However, if you were to change the `dog` variable declaration to leave it empty as shown above 👆,what would happen? 
 
-Why is that? An empty string is not true, and it's not false. It's an empty string. So how come that if statement works? That is because if statements will take in number of different values and it will try to coerce them (turn them) into a boolean of true or false. Values that are truthy or falsy will also work. 
+You would see "you don't have a dog"! 
+
+Why is that? 
+
+An empty string is not true, and it's not false. It's an empty string. 
+
+So how come that if statement works? 
+
+That is because if statements will take in number of different values and it will try to **coerce** them (turn them) into a boolean of true or false. 
+
+Values that are truthy or falsy will also work. 
 
 So what are examples of values that are truthy or falsy? Here is a list.
 
@@ -449,9 +511,11 @@ So what are examples of values that are truthy or falsy? Here is a list.
  * empty array //truthy
  * empty object //truthy
 
-0 (the number zero) is a falsy value because it will equate to false. Here is a quick example to demonstrate that. 
+0 (the number zero) is a falsy value because it will equate to false. 
 
-```
+Here is a quick example to demonstrate that 👇
+
+```js
 const score = 0;
 if(score){
   console.log('There is a score already');
@@ -461,35 +525,56 @@ else {
 }
 ```
 
-If you refresh the html page, you should see "no score yet" in the console. Why? Because zero equates to false. 
+If you refresh the HTML page, you should see "no score yet" in the console. Why? Because 0 equates to false. 
 
 ![](@attachment/Clipboard_2020-03-12-19-05-43.png) 21:03
 
-1 (the number one) is a truthy value. If we were to change the score variable from the example about to  be `const score = 1;`, you will see "there is a score already" in the console. 
+1 (the number one) is a truthy value.
 
--10 (negative 10) is truthy.  If you change the value of the score to `const score = -10;`, you will be able to demonstrate that. This is because 0 is the only number that is falsy. All other numbers will be truthy. 
 
-If you make score an undefined variable by modifying the code to be `let score;`, you will see that it says no score yet, meaning it's a falsy value. 
+```js
+const score = 1;
+```
 
-Note: We needed to modify the score varibale from a const to a let to make it undefined. Javascript does not support undefined const variables. 
+If we were to change the `score` variable from the example to be 1 as shown above 👆, you will see "there is a score already" in the console. 
 
-Null is also a falsy value. 
+-10 (negative 10) is truthy.  
 
-A variable set to "hello" - 10 which would evaluate to NaN (not a number).
+If you change the value of the `score` to  `-10;`, you will see that. 
+
+This is because 0 is the only number that is falsy. All other numbers will be truthy. 
+
+If you make `score` an undefined variable by modifying the code to be `let score;`, you will see that it says no score yet, meaning it's a falsy value. 
+
+_Note: We needed to modify the score varibale from a const to a let to make it undefined. Javascript does not support undefined const variables._
+
+`null` is also a falsy value. 
+
+A variable set to "hello" - 10 which would evaluate to **NaN** (**not a number**).
+
 ![](@attachment/Clipboard_2020-03-12-19-12-10.png) 22:38
+
 Would it be truthy or falsy?  It will be falsy, meaning that NaN is falsy. 
 
 An empty string is falsy. 
 
 A full string is truthy. Any string with content in it will be true. 
 
-A string of "0" is tricky because it's a string with content, but it is also zero and we learned that zero is false. Which is it actually? It is truthy! A string of anything, even a string with just an empty space like so `" "` will be true. Only a completely empty string `""` will be falsy.  
+A string of "0" is tricky because it's a string with content, but it is also zero and we learned that zero is false. 
 
-The next two we haveb't really covered yet: an empty array and empty object. 
+Which is it actually? It is truthy! 
 
-An array can be shown like this:
+A string of anything, even a string with just an empty space like so `" "` will be true. 
 
-```
+Only a completely empty string `""` will be falsy.  
+
+The next 2 we haven't really covered yet: 
+- an empty array &
+- an empty object. 
+
+An array can be shown like this 👇
+
+```js
 let score = [1,3,6];
  ```
 
@@ -499,28 +584,42 @@ Would that be truthy or falsy?
 
 The array with values is truthy. 
 
-What about an array of nothing? will `let score = [];` will it be truthy or falsy?  
+What about an array of nothing? Will the code below be truthy or falsy? 
+
+```js
+let score = [];
+```
 
 ![](@attachment/Clipboard_2020-03-12-19-18-25.png) 24:26
 
 An array with no values is truthy. 
 
-If you ever need to check for something in an array, we would look for something called `.length` but we are getting a bit ahead of ourselves. The length is how you tell how many items are in an array. 
+If you ever need to check for something in an array, look for `.length` (we are getting a bit ahead of ourselves here). The length is how you tell how many items are in an array. 
 
-The last one is an empty object like so. `let score = {};`. An empty object is still truthy. 
-
-If you want to check if there is anything in the object, you can use something called `Object.keys({})` which will turn it into an array and then you can chain .length on it like so `Object.keys({}).length`. 
-
-We use a whole bunch in javascript which is why you often see if statments with things that you might not think are true or false, but that is simply because we are checking for it's existence (whether it is there or not). 
-
-What we are going to do now is make an array with all of these different values and types and loop over them and show you with an if statement whether they are truthy or falsy.  We haven't gone over arrays yet, but an array is a list of things.  
-
+```js
+let score = {};
 ```
+The last one is an empty object as shown above 👆. An empty object is still truthy. 
+
+If you want to check if there is anything in the object, you can use something called `Object.keys({})` which will turn it into an array and then you can chain `.length` on it like so
+
+```js
+Object.keys({}).length
+```
+
+When working with Javascript you often see if statments with things that you might not think are true or false, but that is simply because we are checking for it's existence (whether it is there or not). 
+
+MNow let's make an array with all of these different values and types and loop over them and show you with an if statement whether they are truthy or falsy.  
+
+We haven't gone over arrays yet, but an **array** is a list of things.  
+
+```js
 const values = [[], [], -10, 1, 0, "", "full string", " ", undefined, NaN, null];
 ```
-Now we will call `forEach` much like we did when we were working with DOM nodes. 
 
-```
+Call `forEach` on each item, like we did when we were working with DOM nodes. 
+
+```js
 console.group('truthy or falsy values');
 values.forEach(value => {
   console.log(value);
@@ -530,9 +629,9 @@ console.groupEnd('');
 
 ![](@attachment/Clipboard_2020-03-12-20-25-30.png) 27:41
 
-Then within the foreach block we will add the following:
+Then within the `forEach` block we will add the following 👇
 
-```
+```js
 if(value) {
   console.log(value, 'is truthy');
 }

@@ -2,56 +2,70 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-04-01T23:26:26.079Z'
+modified: '2020-08-06T10:49:11.124Z'
 ---
 
 # Module 7: Logic and Flow Control
 
 ## 37 - BEDMAS
 
-If you know what BEDMAS is, skip this video.
+If you know what **BEDMAS** is, skip this video.
 
 ![](@attachment/Clipboard_2020-03-10-07-05-06.png) 00:43
 
-This video will be covering BEDMAS And the order of operations in which javascript runs. It is exactly the same as how mathimeticans use it. 
+This video will be covering BEDMAS and the order of operations in which Javascript runs. It is exactly the same as how mathimeticans use it. 
 
-The order in which things run is that things in brackets go first, then we do exponents (which is sort of like the power of). 
+The order in which things run is that things is brackets go first, then we do exponents (which is sort of like the power of). 
 
-We do have exponents in javascript. That looks like `2 ** 2` which is the equivalent of 2 to the power of 2.  `2 ** 10` is 2 to the power of 10.
+We do have **exponents** in javascript. That looks like `2 ** 2` which is the equivalent of 2 to the power of 2.  
+
+`2 ** 10` is 2 to the power of 10.
 
 Next is division, multiplication, addition and subtraction. 
 
-Why is that useful? Open up `bedmas.html` and in the script tag, let's say we have the following..
+Why is that useful? 
 
-```
+Open up `bedmas.html` and in the script tag, let's say you have the following code 👇
+
+```js
 const age = 10 * 5 - 2;
 ```
 
-That evaluates to 48. Why? First we look for brackets -- there are none, then we move onto exponents, which there are also none of. We go to multiplication next, so 10 * 5 = 50 and then comes addition and subtraction so 50 - 2 = 48. 
+That evaluates to 48. 
 
-Now what if we do..
+Why? 
 
-```
+Because first it looks for brackets, of which there are none, then we move onto exponents, which are also none of, then multiplication next, so `10 * 5 = 50` then comes addition and subtraction so `50 - 2 = 48`. 
+
+Now what if you have the code below? 👇
+
+```js
 const age2 = 10 * (5-2);
 ```
 
-So first we evaluate what is in the brackets (5-2 = 3). Then we do exponents (there are none), and next comes multiplication so 10 * 3 = 30. 
+First, it would evaluatewhat is in the brackets (`5 - 2 = 3`). Then we do exponents (there are none), and next comes multiplication so `10 * 3 = 30`. 
 
-This is useful in things like our `calculateBill()` function from previous lessons. 
+This is useful in things like the `calculateBill()` function from previous lessons. 
 
 ![](@attachment/Clipboard_2020-03-10-07-10-48.png) 2:51
 
-What is happening there is that all of the functions (`calculateBill(100)`, `calculateBill(20)`, `calculateBill(15)`) run first and equate to a value. 
+```js
+const total = calculateBill(100) + (calculateBill(20) - calculateBill(15)); 
+```
 
-So the `total` variable declaration is actuall evaluating the following:
+What is happening in the code above  👆 is that all the functions(`calculateBill(100)`, `calculateBill(20)`, `calculateBill(15)`) run first and equate to a value. 
+
+So the `total` variable declaration is actually evaluating the following:
 
 `const total = 128 + (25.6 - 19.2)`
 
-Because `calculateBill(100)` = 128 and `calculateBill(20)` = 25.6 and `calculateBill(15)` = 19.2
+`calculateBill(100)` = 128 `calculateBill(20)` = 25.6  `calculateBill(15)` = 19.2
 
-So in this case, the subtraction happens first (25.6 - 19.2) and then it's added to 128. 
+So in this case, the subtraction happens first `(25.6 - 19.2)` and then it's added to 128. 
 
-That is order of operations. Next we will get into logic and flow control. If statements, truthy or falsy, equality using and and or, ternarry, switch statements, timers and intervals. 
+That is order of operations. 
+
+Next we will get into logic and flow control. If statements, truthy or falsy, equality using and and or, ternarry, switch statements, timers and intervals. 
 
 --- 
 

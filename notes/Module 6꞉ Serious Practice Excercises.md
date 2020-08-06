@@ -3,7 +3,7 @@ attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.p
 favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
-modified: '2020-08-05T11:24:24.606Z'
+modified: '2020-08-06T10:42:13.105Z'
 ---
 
 # Module 6: Serious Practice Excercises
@@ -2294,31 +2294,4 @@ Replace the log with `tabPanel.hidden = false;` so it is no longer hidden.
 Now your tabs should be working! 
 
 Both those methods are valid, it's up to you which you prefer. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

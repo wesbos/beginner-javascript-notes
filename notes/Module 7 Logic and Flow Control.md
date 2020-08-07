@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png, Clipboard_2020-08-06-07-30-33.png, Clipboard_2020-08-06-07-30-39.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-08-06T11:38:20.829Z'
+modified: '2020-08-07T12:42:32.452Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -645,13 +645,13 @@ else {
 
 ---
 
-## 39 - Coercion, Ternaries and Conditional Abuse (16:00)39. Coercion, Ternaries and Conditional Abuse
+## 39 - Coercion, Ternaries and Conditional Abuse
 
-Coercion can seem like an intimidating word but it's a pretty simple concept to understand. 
+**Coercion** can seem like an intimidating word but it's a pretty simple concept to understand. 
 
-So far, we have learned that if you only need to use bang operator, that checks for the opposite. For exammple, if you wanted to check if someone is not cool, you might think you have to do the following:
+So far, we have learned that if you only need to use bang operator `!`, that checks for the opposite. For exammple, if you wanted to check if someone is not cool, you might think you have to do the following👇
 
-```
+```js
 const isCool = true;
 if(isCool){
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png, Clipboard_2020-08-06-07-30-33.png, Clipboard_2020-08-06-07-30-39.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-08-09T16:22:56.375Z'
+modified: '2020-08-09T16:37:30.485Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -899,7 +899,7 @@ You see that sort of thing in React because it's a bit hard to do if statements 
 
 You would do something like this in React if you wanted to conditionally render the admin bar based on whether the `isAdmin` value is true or false 👇
 
-```j
+```js
 {isAdmin && <AdminBar/>}
 ```
 
@@ -940,116 +940,130 @@ In most cases however Wes will use the blocks just in case someone else accident
 
 ## 40 - Case Switch and Animating a Turtle with CSS Variables
 
-We are going to talk about switch statements now. We already used a switch statement in our etch-a-sketch exercise. 
+We are going to talk about switch statements now. 
 
-In this video we will go over them again and this time do an example where we animate a turtle. 
+We already used a switch statement in our etch-a-sketch exercise. In this video we will go over them again and this time do an example where we animate a turtle. 
 
-Open up `switch-statements.html` which is in the `/playground` folder.
+Within the `playground` directory, open up `switch-statements.html`. 
 
-Add an img tag like so:
+Add an image tag like so 👇
 
-```
+```html
 <img src="./turtle.png" alt="Turt" class="turt">
 ```
 
-Now add a script tag and within that script tag grab the turtle and console log it: 
+Now add a script tag and within that script tag grab the turtle and log it 👇
 
-```
+```html
 <script>
   const turtle = document.querySelector(".turt");
   console.log(turtle);
 </script>
 ```
 
-It's a bit big so let's add `wdith="200"` to the image element. 
+It's a bit big so add `width="200"` to the image element. 
 
-You should see the following when you load the html page:
+You should see the following when you load the HTML page 👇
 
 ![](@attachment/Clipboard_2020-03-28-18-30-16.png) 1:11
 
-We want to make this turtle walk, and make it flip around when we hit the arrow keys.
+In this exercise, we want to make this turtle walk, and also flip around when you hit the arrow keys.
 
-First thing we will do is listen for the key down. What we will do is make a function called `handleKeyDown` which we will pass to the keydown event listener. 
+The first thing you need to do is listen for the keydown event. Make a function called `handleKeyDown` which you will pass to the keydown event listener. 
 
-In the handleKeyDown function, we will grab the event and console.log the event key like so:
+In the `handleKeyDown` function, grab the event and log the event key like so 👇
 
-```
+```js
 function handleKeyDown(event) {
       console.log(event.key);
 }
 window.addEventListener("keydown", handleKeyDown);
 ```
 
-We only care if it's an arrow key or not, so we will add code to check if the event key includes the word arrow and if it does not, we will just return which will exit out of the function like so:
+YOu only care if it's an arrow key or not, so add code to check if the event key includes the word arrow and if it does not, just return which will exit out of the function like so 👇
 
-```
+```js
 if (!event.key.includes("Arrow")) { return; }
 console.log(event.key);
 ```
 
-If you refresh the html page and hit any key, you will see only the arrow keys are logged. That is because we are returning if the key is anything but an arrow key before logging.
+If you refresh the HTML page and hit any key, you will see only the arrow keys are logged. That is because you are returning if the key is anything but an arrow key before logging.
 
-So now we want to make the turtle move. Let's add declare two variables, x and y, right before the handleKeyDown variable and set both to zero.
+Now you want to make the turtle move.
 
-```
- let x = 0;
- let y = 0;
- function handleKeyDown(event) {
-    if (!event.key.includes("Arrow")) { return; }
-```
+Declare two variables, `x` and `y`, right before the `handleKeyDown` variable and set both to zero.
 
-Now within handleKeyDown, when they move right, we will decrease the x and vice versa. This is a use case for a switch statement. 
-
-The way a switch works is you write `switch` and then you pass it the thing you are testing, so we will switch on the `event.key`. 
-
-Then we have a block which will contain a whole bunch of different cases. This is a bit easier to look at than an if statment in some cases. The only downside is that they have to be clearly defined cases. There is no case like greater than 20, that is an if statement. 
-
-```
-  switch(event.key){
-    case 'ArrowUp':
-      y = y-1;
-    case 'ArrowDown':
-      y = y + 1;
-    case 'ArrowLeft':
-      x =  x + 1;
-    case 'ArrowRight':
-      x = x - 1;
-  }
+```js
+let x = 0;
+let y = 0;
+function handleKeyDown(event) {
+  if (!event.key.includes("Arrow")) { return; }
 ```
 
-Note: You might notice that prettier isn't autofixing on save. That is because we are writing javascript within an html file. 
+Now within `handleKeyDown`, when they move right, decrease the `x` and vice versa. This is a use case for a `switch` statement. 
 
-For each of the cases above, we need to add a break. If you do not break, then it will keep going down to each of the cases which will cause trouble. So in a switch statement you must always break after each of your cases. 
+The way a switch works is you write `switch` and then you pass it the thing you are testing, so switch on the `event.key`. 
 
-You should also always have a default case which will run if the condition doesn't match any of the cases. 
+Then there is a block which will contain a whole bunch of different cases. This is a bit easier to look at than an if statment in some cases. 
 
-```
- switch(event.key){
-    case 'ArrowUp':
-      y = y-1;
-      break;
-    case 'ArrowDown':
-      y = y + 1;
-      break;
-    case 'ArrowLeft':
-      x =  x + 1;
-      break;
-    case 'ArrowRight':
-      x = x - 1;
-      break;
-    default:
-      console.log("That is not a valid move");
-      break;
-  }
+The only downside is that they have to be clearly defined cases. There is no case like greater than 20, that is an if statement. 
+
+```js
+switch(event.key){
+  case 'ArrowUp':
+    y = y-1;
+  case 'ArrowDown':
+    y = y + 1;
+  case 'ArrowLeft':
+    x =  x + 1;
+  case 'ArrowRight':
+    x = x - 1;
+}
 ```
 
-Now that we have those variables, lets take the turtle and move him over. After the switch, let's add a `console.log(x,y)` and then refresh the html page, open the console and hit some of the arrow keys. 
+Note: You might notice that prettier isn't autofixing on save. That is because we are writing Javascript within an HTML file. 
+
+For each of the cases above, we need to add a `break`. 
+
+If you do not break, then it will keep going down to each of the cases which will cause trouble. 
+
+In a switch statement you **must always break after each of your cases.** 
+
+You should also always have a default case which will run if the condition doesn't match any of the cases. 👇
+
+```js
+switch(event.key){
+  case 'ArrowUp':
+    y = y-1;
+    break;
+  case 'ArrowDown':
+    y = y + 1;
+    break;
+  case 'ArrowLeft':
+    x =  x + 1;
+    break;
+  case 'ArrowRight':
+    x = x - 1;
+    break;
+  default:
+    console.log("That is not a valid move");
+    break;
+}
+```
+
+Now that you have those variables, lets take the turtle and move him over. 
+
+After the switch, log the values of x and y and refresh the HTML page. 
+
+Open the console and hit some of the arrow keys. 
 
 ![](@attachment/Clipboard_2020-03-30-20-43-56.png) 5:25
 
-Oops! We made a mistake. In our switch statement, arrowleft should be `x = x -1;` and arrwRight should be ` x = x + 1`. 
+Oops! We made a mistake. 
 
-```
+In our switch statement, `ArrowLeft` should be `x = x -1;` and `ArrowRight` should be ` x = x + 1`, like so 👇
+
+```js
 case "ArrowLeft":
   x = x - 1;
   break;
@@ -1060,105 +1074,122 @@ case "ArrowRight":
 
 Modify the switch statements and try again. 
 
-Now when you hit the up down left and right keys you should see the x and y variables changing in the console. 
+Now when you hit the up, down, left, and right keys you should see the `x` and `y` variables changing in the console. 
 
 ![](@attachment/Clipboard_2020-03-30-20-48-20.png) 5:38
 
-Now we need to convey the x and y values to the turtle somehow. 
+Now you need to convey the `x` and `y` values to the turtle somehow. 
 
-What we are going to do is we are going to do this via css variables. Let's add a style tag right after the opening body tag. Grab the turtle class and add the following:
+We are going to do this via css variables. 
+
+Add a style tag right after the opening body tag. 
+
+Grab the turtle class and add the following 👇
 
 ```html
 <body>
-    <style>
-      .turt {
-        position: relative;
-        transform: translateX(10px) translateY(10px);
-      }
-    </style>
+  <style>
+    .turt {
+      position: relative;
+      transform: translateX(10px) translateY(10px);
+    }
+  </style>
 ```
 
 In the dev tools, if you manipulate the values of `translateX` and `translateY`, you will see that the turtle moves. 
 
 ![](@attachment/Clipboard_2020-03-30-20-51-22.png) 6:46
 
-Now we are going to take those variables and put them into their own css variables like so:
+Now take those variables and put them into their own CSS variables like so 👇
 
-```
- <style>
-      .turt {
-        position: relative;
-        --x: 10px;
-        --y: 10px;
-        transform: translateX(var(--x)) translateY(var(--y));
-      }
-    </style>
+```html
+<style>
+  .turt {
+    position: relative;
+    --x: 10px;
+    --y: 10px;
+    transform: translateX(var(--x)) translateY(var(--y));
+  }
+</style>
 ```
 
-Now if you modify the x or y variable values in the console, you will see that the turtle moves fine,. 
+Now if you modify the `x` or `y` variable values in the console, you will see that the turtle moves fine. 
 
 ![](@attachment/Clipboard_2020-03-30-20-53-01.png) 7:21
 
-Next we are going to update the x and y css variables with javascript. 
+Next we are going to update the `x` and `y` CSS variables with javascript. 
 
 After the switch statement, we will grab our turtle and apply styles directly to it. 
 
-```
+```js
 turtle.style.background = 'red';
 ```
 
-If you refresh the page and hit an arrow, you should see the following: 
+If you refresh the page and hit an arrow, you should see the following 👇
 
 ![](@attachment/Clipboard_2020-03-30-20-55-34.png) 8:03
 
-So if we want to apply a variable, we can't just do `turtle.style--x`. Instead we have to use what is called **square bracket notation**. We haven't looked at this yet, but we will get into it more when we look at arrays and objects.
+So if you want to apply a variable, you can't just do `turtle.style--x`. 
 
-For now, know that you can also access a property in two ways. 
-One way is `turtle.style.background` while the other is `turtle.style['background']`. 
+Instead you have to use what is called **square bracket notation**. We haven't looked at this yet, but we will get into it more when we look at arrays and objects.
 
-When you use the square bracket notation, you pass it a string. Those two ways are exactly the same. 
+For now, know that you can also access a property in 2 ways, via:
+- `turtle.style.background` 
+or
+-`turtle.style['background']` 
 
-Let's try using the second approach to set our x and y css variables like so:
+When you use the square bracket notation, you pass it a string. 
+Those two ways are exactly the same. 
 
-```
+Try using the second approach to set the `x` and `y` CSS variables like so:
+
+```js
 turtle.style["--x"] = `${x}px`;
 turtle.style["--y"] = `${y}px`;
 ```
 
 If you refresh the page and try hitting some arrow keys, you will notice that it does not work. 
-That might be because css variables are not standard css attributes.
 
-So let's say you also set a value for the css property "madeup" which doesn't exist. If you added the code `turtle.style['madeup'] = 'green';`, you will notice that it doesn't show up in the style tag. That is because only real css properties will be added.
+That might be because CSS variables are not standard CSS attributes.
 
-So how do we apply custom CSS properties if it is not? We can reach for `setAttribute` which we were looking at before.
+Let's say you also set a value for the CSS property "madeup" which doesn't exist. 
 
-```
+If you added the code `turtle.style['madeup'] = 'green';`, you will notice that it doesn't show up in the style tag. That is because only real CSS properties will be added.
+
+So how do you apply custom CSS properties if it is not? 
+
+You can reach for `setAttribute` which you were looking at before. 👇
+
+```js
 turtle.setAttribute("style", `--x: ${x}px; --y: ${y}px`);
 ```
 
-Now if you refresh the HTML page and hit the arrow keys, you will notice that the turtle moves up down and left and right.
+Now if you refresh the HTML page and hit the arrow keys, you will notice that the turtle moves up, down, leftm and right.
 
-Let's set the x and y css variables to default at 0 instead of 10px. 
+Let's set the `x` and `y` CSS variables to default at 0 instead of 10px. 
 
-One other thing we could have is like a speed operator. Declare a speed variable in the javascritp code after the x and y variable declarations like so: 
+One other thing you could have is something like a speed operator. 
 
-`let speed = 5`; 
+Declare a `speed` variable in the javascritp code after the `x` and `y` variable declarations like so 👇
 
-Now we will modify the code which updates the x and y valeus to multiple them by speed like so:
-
+```js
+let speed = 5;
 ```
-  turtle.setAttribute('style', `--x: ${x * speed}px; --y: ${y * speed}px`);
+
+Now modify the code which updates the `x` and `y` valeus to multiple them by `speed` like so 👇
+
+```js
+turtle.setAttribute('style', `--x: ${x * speed}px; --y: ${y * speed}px`);
 ```
 
 You will notice that now the turtle moves much more quickly.
 
-We can also add a css transition, to make the turtle move a bit more smoothly. Add the following:
+You can also add a CSS transition, to make the turtle move a bit more smoothly, like so 👇
 
 ```html
-...
-     transition: transform 0.2s;
-      }
-    </style>
+  transition: transform 0.2s;
+  }
+</style>
 ```
 
 Feel free to increase the speed value to make the turtle go even faster. Wes set his to 50!

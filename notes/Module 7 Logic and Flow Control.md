@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png, Clipboard_2020-08-06-07-30-33.png, Clipboard_2020-08-06-07-30-39.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-08-07T12:42:32.452Z'
+modified: '2020-08-09T16:22:56.375Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -569,7 +569,7 @@ A string of anything, even a string with just an empty space like so `" "` will 
 Only a completely empty string `""` will be falsy.  
 
 The next 2 we haven't really covered yet: 
-- an empty array &
+- an empty array 
 - an empty object. 
 
 An array can be shown like this 👇
@@ -649,7 +649,9 @@ else {
 
 **Coercion** can seem like an intimidating word but it's a pretty simple concept to understand. 
 
-So far, we have learned that if you only need to use bang operator `!`, that checks for the opposite. For exammple, if you wanted to check if someone is not cool, you might think you have to do the following👇
+So far, we have learned that if you only need to use bang operator `!`, that checks for the opposite. 
+
+For exammple, if you wanted to check if someone is not cool, you might think you have to do the following 👇
 
 ```js
 const isCool = true;
@@ -661,33 +663,51 @@ else{
 }
 ```
 
-So in this situation where we are only ever using the else, that is because you want the opposite of a value. You could have done something like the following:
+In the situation where you are only ever using the else, that is because you want the opposite of a value. 
 
-```
+You could have done something like the following, 👇
+
+```js
 if(!isCool){
   console.log('You are not cool');
 }
 ```
 
 A bang in front of a boolean will always flip it. 
+
 So if `isCool = true`, then `!isCool` would evaluate to false. 
 
-In addition to flipping the boolean to the opposite, it will also does coercion. Coercion is when we force something that is of a different type, such as a string or number, or an object or anything like that. When we take that and cooerce it into a frue boolean. 
+In addition to flipping the boolean to the opposite, it also does coercion. 
 
-Let's do this example. if you type `name` into the console, it should return "wes" (because we assigned that variable in earlier excercises in this javascript file).
-If you type `!name` in the console, it should return false. You will notice that `!name` took the string and turned it into a boolean by putting the bang in front of it. 
+**Coercion** is when you force something that is of a different type, such as a string or number, or an object or anything like that and force it into another type. For example when we cooerce something into a frue boolean. 
+
+Let's do an example. 
+
+If you type `name` into the console, it should return "wes" (we assigned that variable in earlier excercises in this javascript file).
+
+If you type `!name` in the console, it should return false. 
+
+You will notice that `!name` took the string and turned it into a boolean by putting the bang in front of it. 
 
 So when you use the bang, it will coerce the value into a real boolean. 
 
-That is sort of the opposite because if we want to check if there is a name, if we want to take the fact that there is a name and make it into a real boolean, we can put double bang infront of it `!!` and that will coerce it into the simple existence into a Boolean of it exists or not. So `!!name` would return true. 
+That is sort of the opposite because if we want to check if there is a name, if we want to take the fact that there is a name and make it into a real boolean, we can put double bang infront of it `!!` and that will coerce it into a Boolean of it exists or not. So `!!name` would return true. 
 
 Here is another example:
 
-Let's say you have a middle variable that is assigneed an empty string, like so `const middle ="";`. 
+Let's say you have a middle variable that is assigned an empty string, like so 👇
+
+```js
+const middle ="";
+```
 
 ![](@attachment/Clipboard_2020-03-13-09-27-49.png) 2:45
 
-When we put one bang infront of it, it gave us the opposite which was true. If we put two bangs, it gives us false. So if you ever see the ! and !! being used in the if statments, that is because someone is taking the fact tha tyou have a truthy or falsy value, and you are coercing it into a true boolean. 
+When you put 1 bang infront of it, it gave us the opposite which was true. 
+
+If you put 2 bangs, it gives you false. 
+
+If you ever see the `!` and `!!` being used in the if statments, that is because someone is taking the fact that you have a truthy or falsy value, and are coercing it into a true boolean. 
 
 Wes used to use that quite a bit, but now that he has a really good understanding of truthy and falsy values, he doesn't use this coercion method much. 
 
@@ -697,17 +717,19 @@ Coercion in general is the act of changing one type into another.
 
 Next up we have **ternary**. 
 
-Wes likes to think of ternary's as shorthand if statements. They are helpful when you quickly want to run functoinality based on something being true or false. 
+Wes likes to think of ternary's as shorthand if statements. 
 
-A ternary needs three things. 
+They are helpful when you quickly want to run functionality based on something being true or false. 
+
+A ternary needs 3 things:
 
 1. A condition
 2. What to do if it' true
 3. What to do if it's false. 
 
-For example:
+For example 👇
 
-```
+```js
 const count = 2;
 let word;
 if(count === 1){
@@ -717,32 +739,32 @@ if(count === 1){
 }
 ```
 
-So if you had a sentence that said how many items in your cart for example, you could so something like:
+So if you had a sentence that said how many items in your cart for example, you could so something like 👇
 
-```
+```js
 const sentence = `You have ${count} ${word} in your cart`;
 console.log(sentence);
 ```
 
 ![](@attachment/Clipboard_2020-03-13-09-34-29.png) 5:25 
 
-If you changes the count to be 1, it would return the following sentence:
+If you changes `count` to be 1, it would return the following sentence 👇
 
 ![](@attachment/Clipboard_2020-03-13-09-35-10.png) 5:26
 
-The if statement that we wrote above is a bit verbose.. you first have to declare an empty variable and then update it so what we can do, if it's a simple if else like in this example, you can turn it into a shorthand if statement with **ternary**. 
+The if statement that you wrote above is a bit verbose.. you first have to declare an empty variable and then update it. What we can do, if it's a simple `if` `else` like in this example, you can turn it into a shorthand if statement with **ternary**. 
 
-Comment out the if statement that we wrote above, because we will be replacing it was a ternary statement. 
+Comment out the if statement that you wrote above, because we will be replacing it was a ternary statement. 
 
+Like we mentioned above, for a ternary statement, we need one condition, then we need what to do if that condition is true, and what to do if that condition is false. 
 
-Like we mentioned above, for a ternary statement we need one condition, then we need what to do if that condition is true, and what to do if that condition is false. 
+That would look like this 👇
 
-That would look like this:
-```
+```js
 const word = count === 1 ? 'item' : 'items';
 ```
 
-If you run that in the console like so:
+If you run that in the console like so 👇
 
 ```js
 const count = 0;
@@ -759,33 +781,50 @@ What this does is it puts the if statement where we have our condition (somethin
 
 That is useful when you need to do a quick if statement. 
 
-We could even take the example above a step further and do the ternary function directly inside of the sentence like so:
+You could even take the example above a step further and do the ternary function directly inside of the sentence like so 👇
 
-```
+```js
 const count = 0;
 const word = count === 1 ? 'item' : 'items';
 const sentence = `You have ${count} item${count === 1 ? '' : 's'} in your cart`;
 console.log(sentence);
 ```
 
-What we are doing here is saying if count is equal to 1, return nothing, and if it's not, return "s". That works exactly the same. 
+What you are doing here is saying if `count` is equal to 1, return nothing, and if it's not, return "s". That works exactly the same. 
 
-We can also use these for running functions. 
+You can also use these for running functions. 
 
-For example, let's say you have a variable like `const isAdmin = true;`.  We can run a function based on if we have it or not, like so: 
+For example, let's say you have a variable like `const isAdmin = true;`.  
 
-```
+You can run a function based on if we have it or not, like so 👇
+
+```js
 isAdmin ? showAdminBar() : null;
 ```
 
-So in that example, if the `isAdmin` variable is set to true, we would show the admin bar, otherwise we would do nothing which is why we are returning null. You could also return an empty string or anything really because it's not saving that variable anywhere, it's just checking if it's true. If it's true, it will run a function. 
+So in that example, if the `isAdmin` variable is set to true, you would show the admin bar, otherwise you would do nothing which is why you are returning `null`. 
 
-It is important to note that both what happens when it's true and when it's false needs to be there for a ternary statement. `isAdmin ? showAdminBar();` would not be valid. You need to supply the false case. 
+You could also return an empty string or anything really because it's not saving that variable anywhere, it is just checking if it is true. 
 
-There is one trick you can do, the **and and trick**.
-The neat thing about chaining stuff on conditoins is it will check along the way to make sure that things are true. For example let's say we had three functions and we wanted to make sure that all three functions are true before going ahead we can do an if statement like this:
+If it is true, it will run a function. 
 
-```
+It is important to note that both what happens when it's true and when it's false needs to be there for a ternary statement. 
+
+```js
+isAdmin ? showAdminBar();
+``` 
+
+The code above 👆 would not be valid. You need to supply the false case. 
+
+There is one trick you can do, the **&& trick**.
+
+The neat thing about chaining stuff on conditions is it will check along the way to make sure that things are true. 
+
+For example let's say you had 3 functions and you wanted to make sure that all 3 functions are true before going ahead. 
+
+You can do an if statement like so 👇
+
+```js
 function check1(){
   return true'
 }
@@ -803,15 +842,19 @@ if(check1() && check2() && check3()){
 
 If you run that in the browser, you will see "all checks passed" logged in the console. 
 
-Now inside each function, add `console.log('Running check 1');` with the corresponding function number (running check 1, running check 2 etc). 
+```js
+console.log('Running check 1');`
+```
 
-consWhat is cool about this is if you refresh in the console, you will see each one running in order..
+Now inside each function, add the code above 👆 with the corresponding function number (running check 1, running check 2 etc). 
+
+What is cool about this is if you refresh the page and look in the console, you will see each one running in order 👇
 
 ![](@attachment/Clipboard_2020-03-13-16-04-27.png) 11:10
 
-Now if we put an else like so, and make one of the checks fail (modify one to return false) like so:
+Now if we put an else like so, and make one of the checks fail (modify one to return false) like so 👇
 
-```
+```js
 function check2(){
   return false;
 }
@@ -823,34 +866,40 @@ else {
 }
 ```
 
-When you run in the browser you will see the following:
+When you run in the browser you should see the following 👇
 
 ![](@attachment/Clipboard_2020-03-13-16-06-38.png) 11:35
 
-Did the third check never run? yes, that is true. If you run a condition, Javascript will do the following: it will check the first one, and then if it's okay, it will move to the next condition. If that is true, it will go onto the next one. However, if it any point one of them is false, javascript will give up and say that one is false, there is no reason I would keep checking because already know that the first one is false. Therefore it returns the condition as false, the third condition never runs and the else block will run.
+Did the third check never run? 
 
-That is sometimes referred to in Javascript as shortcircuiting. Meaning that we never finished what we wanted, but we knew it wouldn't work out anyway so we short circuited it and went directly to else. 
+Yes, it never did. 
+
+If you run a condition, Javascript will do the following: it will check the first one, and then if it's okay, it will move to the next condition. If that next condition is true, it will go onto the next one. 
+
+If at any point one of them is false, Javascript will give up and say that one is false, there is no reason I would keep checking.. Therefore it returns the condition as false, and the third condition never runs and the else block will run.
+
+That is sometimes referred to in Javascript as **short-circuiting**, meaning that we never finished what we wanted, but we knew it wouldn't work out anyway so we short-circuited it and went directly to else. 
 
 The way that works can be abused or used. Some people hate it, some love it. Wes personally likes it. 
 
-Let's go back to the admin example to demonstrate what it can look like:
+Let's go back to the admin example to demonstrate what that can look like 👇
 
-```
+```js
 isAdmin ? showAdminBar() : null;
 isAdmin && showAdminBar();
 ```
 
 We can abuse it by using `isAdmin && showAdminBar();`
 
-Javascript wil lsay, this is a condition so we are going to check if the first is true, and if it is true, we will go ahead and do the next one. However if it is false, it won't run `showAdminBar()`. 
+Javascript will say, this is a condition so check if the first is true, and if it is true, we will go ahead and do the next one. However if it is false, it won't run `showAdminBar()`. 
 
 This is abusing the condition chaining, meaning that if the first condition is true, the second will never run.  
 
-You see that sort of thing in react because it's a bit hard to do if statements in react. 
+You see that sort of thing in React because it's a bit hard to do if statements in React. 
 
-You would do something like this React if you wanted to conditionally render the admin bar based on whether the `isAdmin` value is true or false. 
+You would do something like this in React if you wanted to conditionally render the admin bar based on whether the `isAdmin` value is true or false 👇
 
-``` 
+```j
 {isAdmin && <AdminBar/>}
 ```
 
@@ -858,28 +907,34 @@ You would do something like this React if you wanted to conditionally render the
 
 If something is on the same line, you don't actually need the block in the if statement. 
 
-For example, the following if statement is on multiple lines so it needs the `{}` block. 
+For example, the following if statement is on multiple lines so it needs the `{}` block 👇
 
-```
+```js
 if(isAdmin){
   showAdminBar();
 }
 ```
 
-However, you could refactor it to be on one line like so:
+However, you could refactor it to be on one line like so 👇
 
-```
+```js
 if(isAdmin) showAdminBar();
 ```
 
-However, as soon as it goes onto another line, it is broken, so this would NOT be valid:
+However, as soon as it goes onto another line, it is broken, so the code below would **not** be valid 👇
 
-```
+```js
 if(isAdmin)
 showAdminBar();
 ```
 
-Should you use blockless if statements? That is up to you to decide. Wes doesn't use it often but he definitely has in the past because it is very convenient to write one-liners. In most cases however Wes will use the blocks just in case someone else accidentally moves the if statement to multiple lines and breaks it. 
+Should you use blockless if statements? 
+
+That is up to you to decide. 
+
+Wes doesn't use it often but he definitely has in the past because it is very convenient to write one-liners. 
+
+In most cases however Wes will use the blocks just in case someone else accidentally moves the if statement to multiple lines and breaks it. 
 
 ---
 

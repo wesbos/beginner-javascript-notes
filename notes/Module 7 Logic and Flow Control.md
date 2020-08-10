@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png, Clipboard_2020-08-06-07-30-33.png, Clipboard_2020-08-06-07-30-39.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-08-09T16:37:30.485Z'
+modified: '2020-08-10T12:45:23.404Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -1164,19 +1164,17 @@ You can reach for `setAttribute` which you were looking at before. 👇
 turtle.setAttribute("style", `--x: ${x}px; --y: ${y}px`);
 ```
 
-Now if you refresh the HTML page and hit the arrow keys, you will notice that the turtle moves up, down, leftm and right.
+Now if you refresh the HTML page and hit the arrow keys, you will notice that the turtle moves up, down, left, and right.
 
-Let's set the `x` and `y` CSS variables to default at 0 instead of 10px. 
+Set the `x` and `y` CSS variables to default at 0 instead of 10px. 
 
-One other thing you could have is something like a speed operator. 
-
-Declare a `speed` variable in the javascritp code after the `x` and `y` variable declarations like so 👇
+One other thing you could do is something like a speed operator. Declare a `speed` variable after the `x` and `y` variable declarations like so 👇
 
 ```js
 let speed = 5;
 ```
 
-Now modify the code which updates the `x` and `y` valeus to multiple them by `speed` like so 👇
+Now modify the code which updates the `x` and `y` values to multiple them by `speed` like so 👇
 
 ```js
 turtle.setAttribute('style', `--x: ${x * speed}px; --y: ${y * speed}px`);
@@ -1194,28 +1192,30 @@ You can also add a CSS transition, to make the turtle move a bit more smoothly, 
 
 Feel free to increase the speed value to make the turtle go even faster. Wes set his to 50!
 
-The last thing we are going to do is flip the turtle. So when we press the left arrow key, the turtle should be facing the other way. 
+The last thing we are going to do is flip the turtle. When you press the left arrow key, the turtle should be facing the other way. 
 
-Let's add a javascript variable called flipped and set it to false like so: 
+Add a variable `flipped` and set it to false like so 👇 
 
-`let flipped = false;`
-
-Now within the `ArrowLeft` switch statement, add `flipped=true;` before the break. When we hit the `ArrowRight` case, we will set `flipped = false;`. 
-
-So to flip the turtle, we will go into the css transform and we will `rotateY` to flip the turtle.
-
-In the css, we will add another variable called `--rotate: 0`. 
-
-We will modfy the transform like so: 
-
+```js
+let flipped = false;
 ```
+
+Now within the `ArrowLeft` switch statement, add `flipped=true;` before the break. When we hit the `ArrowRight` case, set `flipped = false;`. 
+
+To flip the turtle, go into the CSS transform and `rotateY` to flip the turtle.
+
+In the CSS, add another variable called `--rotate: 0`. 
+
+Modfy the transform like so 👇
+
+```css
 --rotate: 0;
 transform: rotateY(var(--rotate)) translateX(var(--x)) translateY(var(--y));
 ```
 
-Now further down where we use setAttribute, we will modify the code like so. Note: because we are using backticks, we can move each variable to it's own line like so:
+Further down where you use `setAttribute`, modify the code like so 👇
 
-```
+```js
 turtle.setAttribute('style',`
           --rotate: ${flipped ? '180deg': '0'}
           --x: ${x * speed}px; 
@@ -1223,49 +1223,54 @@ turtle.setAttribute('style',`
           `);
 ```
 
-You might notice it looks a bit weird when we flip it. That is because we are rotating it before we move it. Let's modify the transform to move the rotateY to the end of the transform. The order there matters!
+_Note: Because you are using backticks, you can move each variable to it's own line, as shown above👆_
 
-```
+You might notice it looks a bit weird when we flip it. That is because we are rotating it before we move it. 
+
+Modify the transform to move the `rotateY` to the end of the transform. The order there matters!
+
+```css
 transform:  translateX(var(--x)) translateY(var(--y)) rotateY(var(--rotate));
 ```
 
-Now when you hit the left arrow, the turtle should look left like so: 
+Now when you hit the left arrow, the turtle should look left like so 👇
 
 ![](@attachment/Clipboard_2020-03-30-21-27-45.png) 14:43
 
 We could also rotate the turtle up and down. 
 
-Let's modify the css rotate variable from `rotate` to `rotateX`. Modify that everywhere it's called in the code.
+Modify the CSS rotate variable from `rotate` to `rotateX`. Modify it everywhere it's called in the code.
 
-We will have another variable called `rotate` which we will set to 0. 
+Add another CSS variable called `rotate` and set it to 0. 
 
-Modify the transform to take that variable like so:
+Modify the transform to take that variable like so 👇
 
-```
+```css
 <style>
-      .turt {
-        position: relative;
-        --x: 0px;
-        --y: 0px;
-        --rotateX: 0;
-        --rotate: 0;
-        transform: translateX(var(--x)) translateY(var(--y))
-          rotateY(var(--rotateX)) rotate(var(--rotate));
-        transition: transform 0.2s;
-      }
-    </style>
+  .turt {
+    position: relative;
+    --x: 0px;
+    --y: 0px;
+    --rotateX: 0;
+    --rotate: 0;
+    transform: translateX(var(--x)) translateY(var(--y))
+      rotateY(var(--rotateX)) rotate(var(--rotate));
+    transition: transform 0.2s;
+  }
+</style>
 ```
 
-We know that when we set `rotate(90)` , the turtle is pointing down, and when we do `rotate(-90)`, the turtle is going up. So we need another variable like flipped to keep track of that. Add a javascript variable called `rotate` and set it to 0. 
+We know that when we set `rotate(90)` , the turtle is pointing down, and when we do `rotate(-90)`, the turtle is going up. So we need another variable like `flipped` to keep track of that. Add a javascript variable called `rotate` and set it to 0. 
 
 `let rotate = 0;`
 
-In the `ArrowUp` case, add `rotate = -90`. In the `ArrowDown` case, add `rotate = 90;`. For `ArrowLeft` and `ArrowRight` we will set rotate to 0. 
+In the `ArrowUp` case, add `rotate = -90`. 
 
-Finally modify the setAttribute statement to update the rotate variable like so:
+In the `ArrowDown` case, add `rotate = 90;`. For `ArrowLeft` and `ArrowRight` we will set rotate to 0. 
 
-```
+Finally modify the `setAttribute` statement to update the rotate variable like so 👇
 
+```js
 turtle.setAttribute('style', `
   --rotateX: ${flipped ? '180deg' : '0'};
   --x: ${x * speed}px;

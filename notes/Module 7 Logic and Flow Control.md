@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png, Clipboard_2020-08-06-07-30-33.png, Clipboard_2020-08-06-07-30-39.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
-modified: '2020-08-10T12:45:23.404Z'
+modified: '2020-08-10T23:22:10.716Z'
 ---
 
 # Module 7: Logic and Flow Control
@@ -1285,25 +1285,38 @@ Now when you hit the arrow keys left, right, up and down the turtle should be fa
 
 ## 41 - Intervals and Timers
 
-In this video we will talk about timeouts and intervals. If you want to run something after 5 seconds, we would use a timeout. If you want to run something every 5 seconds, you would use an interval. They both work exactly the same way and we will dive into them both now.
+In this video we will talk about **timeouts** and **intervals**. 
 
-So we have the `intervals.html` file which is in the `/playgrounds` folder. 
+If you want to run something after 5 seconds, you would use a timeout. 
+If you want to run something every 5 seconds, you would use an interval. 
+
+They both work exactly the same way and we will dive into them both now.
+
+Within the `/playgrounds` folder, there is `intervals.html`. Open it up.
 
 Add a script tag within the body tag. 
 
-Now when you want to run something, you simply type `setTImeout`, which takes a couple of arguments. 
+Now when you want to run something, you simply type `setTimeout`, which takes a couple of arguments. 
 
-Where did `setTimeout()` come from anyway? Is that just a function that is available to us? The answer is yes. It is a globally scoped method. It is actually `window.setTimeout()` but as we will learn, we don't need to type window. when you are accessingly globally available APIs. 
+Where did `setTimeout()` come from anyway? Is that just a function that is available to us? 
 
-Wes recommends now using window.setTimeout() and that is because you often want to run the same code you ran in the browser in node.js and node.js does not have a concept of a window. It does have timeout and interval however. 
+The answer is yes. It is a globally scoped method. It is actually `window.setTimeout()` but as you will learn, you don't need to type window. when you are accessingly globally available APIs. 
 
-`setTimeout` takes two things: a callback, and the number of miliseconds after which to run the callback. 
+Wes recommends using `setTimeout()` and that is because you often want to run the same code you ran in the browser in NodeJS and NodeJS does not have a concept of a window. It does have **timeout** and **interval** however. 
 
-Often what you see is someone give setTImeout an anonymous function as the first argument, and then the number of miliseconds that it should run the anonymous function after. For example if you put 500 miliseconds, the function will run half a second after the javascript has started. 
+`setTimeout` takes 2 things: 
+- a callback
+-  the number of miliseconds after which to run the callback
 
-Just in like `addEventListener, you can either pass in an anonymous function, or you can write a function outside of it. 
+Often what you see is someone give `setTImeout` an anonymous function as the first argument, and then the number of miliseconds that it should wait before running the anonymous function. 
 
-Create a function called buzzer that console logs ENNNGGG! as the buzzer sound. Now in the set timeout, instead of passing the anonymous function let's pass it a reference to the buzzer function instead, like so:
+For example, if you put 500 miliseconds, the function will run half a second after the Javascript has started. 
+
+Just in like `addEventListener`, you can either pass in an anonymous function, or you can write a function outside of it. 
+
+Create a function called `buzzer` that logs "ENNNGGG!" as the buzzer sound. 
+
+Now in the `setTimeout`, instead of passing the anonymous function , pass it a reference to the buzzer function instead, like so 👇
 
 ```js
 function buzzer() {
@@ -1312,13 +1325,13 @@ function buzzer() {
 setTimeout(buzzer, 500);
 ```
 
-Now if you refresh the html page, you shoudl see ENNNNGG in the console after half a second. 
+Now if you refresh the HTML page, you should see "ENNNNGG" in the console after half a second. 
 
-Let's try something to demonstate one interesting thing about timers. 
+Let's try something to demonstate 1 interesting thing about timers. 
 
-Modify the code like so:
+Modify the code like so 👇
 
-```
+```js
 function buzzer() {
   console.log("ENNNNGGGG");
 }
@@ -1328,28 +1341,38 @@ setTimeout(buzzer, 500);
 console.log("Finishing!");
 ```
 
-what is going to happen here? We are going to console log starting, wait for half a second and then do finishing?
+What is going to happen when the code above runs? 👆 Are we going to log "starting", wait for half a second and then log "finishing"?
 
-Let's refresh the html page and see. 
+Let's refresh the HTML page and see. 
 
 ![](@attachment/Clipboard_2020-03-31-18-20-36.png) 2:45
 
-So what is happening there? The javascript will run, it will console log starting, set off the timer, queue it up which is basically saying "Ok I have this function called buzzer which I am going to run after 500 miliseconds, but I've got stuff to do so I'm going to keep going", so it moves on to the next line of code which is console logging "finishing". 
+So what is happening there? 
+
+The Javascript will run, it will log "starting", set off the timer, queue it up which is basically saying "Ok I have this function called buzzer which I am going to run after 500 miliseconds, but I've got stuff to do so I'm going to keep going", so it moves on to the next line of code which is logging "finishing". 
 
 That is what is referred to as the **asynchronous** nature of JavaScript. 
 
-As soon as it queues up the buzzer to be run after 500 miliseconds, it will go off onto the next line of code, and only come back to buzzer when it's time. That is why we call it a callback. Because we come back and call it at a later point in time. 
+As soon as it queues up the buzzer to be run after 500 miliseconds, it will go off onto the next line of code, and only come back to buzzer when it's time. 
 
-So that is good to know that even if you are trying to wait for 500 miliseconds, the rest of javascript will keep on running. 
+That is why it is called a callback. Because Javascript will come back and call it at a later point in time. 
 
-Now, when we get into promises and async await, I will show you how to actually do that.  It is a pretty common thing to want to wait a couple of miliseconds before doing something. 
+So that is good to know that even if you are trying to wait for 500 miliseconds, the rest of Javascript will keep on running. 
+
+Now, when we get into promises and async await, Wes will show you us how to actually do that.  It is a pretty common thing to want to wait a couple of miliseconds before doing something. 
 
 ### Intervals 
 
-Intervals work exactly the same. You write `setInterval()` and then it takes two arguments. You pass it a reference to a function like buzzer, and how often you'd like to run it, so let's say everyone 100 miliseconds you would write the following:
+Intervals work exactly the same. 
 
-```
- setInterval(buzzer, 100);
+You write `setInterval()` and then it takes 2 arguments:
+- a reference to a function like buzzer
+- how often you'd like to run it
+
+To run `buzzer` every 100 miliseconds you would write the following 👇
+
+```js
+setInterval(buzzer, 100);
 ```
 
 ![](@attachment/Clipboard_2020-03-31-18-30-38.png) 4:05
@@ -1358,21 +1381,26 @@ That will result in the interval running every 100 miliseconds.
 
 There is one gotcha with intervals. 
 
-Lets say you were using intervals to animate somethihng every 2 seconds or to check something every two seconds. 
+Let's say you were using intervals to animate or check something every 2 seconds. 
 
-What happens is that it doesn't actually run immediately. It only runs after the first 2 seconds have elapsed. There is no option to tell the interval to run right away, but also run again after two seconds. 
+What happens is that it doesn't actually run immediately. 
 
-If we do want that sort of functionality, we can code our own interval. Let's create a function called `setImmediateInterval()` which will take two arguments: the function to run, and the number of miliseconds. 
+It only runs after the first 2 seconds have elapsed. There is no option to tell the interval to run right away, but also run again after 2 seconds. 
 
-```
+If you do want that sort of functionality, you have to code your own interval. 
+
+Create a function called `setImmediateInterval()` which will take 2 arguments: 
+- the function to run
+- the number of milliseconds
+
+```js
 function setImmediateInterval(funcToRun, ms) {
 }
-
 ```
 
-Within that function, we will call the function that is being passed as a argument right away. like so:
+Within that function, call the function that is being passed as a argument right away, like so 👇
 
-```
+```js
 function setImmediateInterval(funcToRun, ms) {
     // right away call that function
     funcToRun();
@@ -1381,7 +1409,9 @@ function setImmediateInterval(funcToRun, ms) {
 
 If you are confused about where `funcToRun()` came from, don't worry, Wes will go over that again shortly. 
 
-Next we will run a regular interval right after we call `funcToRun();` and we will pass the interval the arguments we received in `setImmediateInterval` which were the function to run on the interval, and how many seconds to wait before running the function. 
+Next, run a regular interval right after you call `funcToRun();` and pass the interval the arguments you receive in `setImmediateInterval`,  which are the function to run on an interval, and how many seconds to wait before running it.
+
+The code should look like this  👇
 
 ```js
 function setImmediateInterval(funcToRun, ms) {
@@ -1391,48 +1421,52 @@ function setImmediateInterval(funcToRun, ms) {
 }
 ```
 
-We are actually going to return `setInterval` so modify that line of code to be `return setInterval(funcToRun, ms);` instead. Wes will explain later why we added the return keyword, it has to do with stopping intervals from running. 
+We are actually going to return `setInterval` so modify that line of code to be `return setInterval(funcToRun, ms);` instead. 
 
-Now what we can do now is replace the code that we added earlier that was `setInterval(buzzer, 2000)` to instead be `setImmediateInterval(buzzer, 2000)`. 
+Wes will explain later why we added the `return` keyword, it has to do with stopping intervals from running. 
+
+Now what you can do now is replace the code you added earlier `setInterval(buzzer, 2000)` with `setImmediateInterval(buzzer, 2000)` instead. 
 
 ```html
 <script>
-  function buzzer() {
-    console.log("ENNNNGGGG");
-  }
-  console.log("Starting");
-  setTimeout(buzzer, 500);
-  console.log("Finishing!");
+function buzzer() {
+  console.log("ENNNNGGGG");
+}
+console.log("Starting");
+setTimeout(buzzer, 500);
+console.log("Finishing!");
 
-  function setImmediateInterval(funcToRun, ms) {
-    // right away call that function
-    funcToRun();
-    return setInterval(funcToRun, ms);
-  }
+function setImmediateInterval(funcToRun, ms) {
+  // right away call that function
+  funcToRun();
+  return setInterval(funcToRun, ms);
+}
 
-  setImmediateInterval(buzzer, 2000);
+setImmediateInterval(buzzer, 2000);
 </script>
 ```
 
-Now if you refresh the HTML page and open the console, you will notice ENGGG is immediately logged and then again after 2 seconds. 
+Now if you refresh the HTML page and open the console, you will notice "ENGGG" is immediately logged and then again after 2 seconds. 
 
-Now we mentioned earlier that you might be a bit confused about where `funcToRun` came from. We have gone over this before but it's a big tripping point for people so we will go over it again. 
+Now we mentioned earlier that you might be a bit confused about where `funcToRun` came from. 
+
+We have gone over this before but it's a big tripping point for people so we will go over it again. 
 
 ![](@attachment/Clipboard_2020-04-01-18-49-14.png) 6:16
 
-In this scenario, we made a function (`setImmediateInterval()`) which takes a parameter of another function.
+In this scenario, you made a function (`setImmediateInterval()`) which takes a parameter of another function.
 
 If you have a function and one of the arguments you pass is a function, it works exactly the same as when you are passing a number or a string. 
 
-So in this instance, we just take the function that was passed in as an argument and we call it. 
+So in this instance, you just take the function that was passed in as an argument and you call it. 
 
 ![](@attachment/Clipboard_2020-04-01-18-52-02.png) 6:44
 
-In the line of code above, we are passing the function buzzer as an argument to `setImmediateInterval`. 
+In the line of code above, you are passing the function buzzer as an argument to `setImmediateInterval`. 
 
-Let's say we had another function called `sayHi`, which console logged "heyyy". We could call `setImmediateInterval` and pass it sayHi and an milisecond value of 200, like so:
+Let's say you had another function called `sayHi`, which logged "heyyy". You could call `setImmediateInterval` and pass it say`Hi and an millisecond value of 200, like so 👇
 
-```
+```js
 setImmediateInterval(buzzer, 2000);
 function sayHi() {
   console.log("Heeeyy");
@@ -1440,21 +1474,29 @@ function sayHi() {
 setImmediateInterval(sayHi, 200);
 ```
 
-If you refresh the HTML page and open the console, you will see something like this:
+If you refresh the HTML page and open the console, you will see something like this 👇
 
 ![](@attachment/Clipboard_2020-04-01-18-55-27.png) 7:05
 
-So in both examples, Wes is passing a function and whenever it's called, it gets transformed into the parameter called funcToRun. We then have access to either run it, or pass it even one level further into our `setInterval()`. 
+So in both examples, Wes is passing a function and whenever it's called, it gets transformed into the parameter called `funcToRun`. That gives us access to either run it, or pass it even one level further down into our `setInterval()`. 
 
-So timeouts and intervals are pretty straightforward. The biggest gotcha is that intervals will not run immediately, but as we saw, you can code your own function for that. 
+So timeouts and intervals are pretty straightforward. 
 
-The only other thing we need to know is if you want to clear a timer or interval, you must save the reference to that timer or interval. 
+The biggest gotcha is that intervals will not run immediately, but as you saw, you can code your own function for that. 
 
-Let's do an example to demonstrate that. Let's first comment out all the code currently running timers or intervals. 
+### Clearing Timeouts and Intervals
 
-Next, let's make a function called `destroy()`, which runs after 5 seconds f someone doesn't click anywhere on the page and will destroy the webpage.  Let's set a timer to run destroy after two seconds.  
+The only other thing you need to know is if you want to clear a timer or interval, you must save the reference to that timer or interval. 
 
-```
+Let's do an example to demonstrate that. 
+
+Comment out all the code currently running timers or intervals. 
+
+Make a function `destroy()`, which runs after 5 seconds if someone doesn't click anywhere on the page, and will destroy the webpage.  
+
+Set a timer to run destroy after two seconds, like so 👇
+
+```js
 function destroy() {
   document.body.innerHTML = `<p>DESTROYED</p>`;
 }
@@ -1462,44 +1504,54 @@ function destroy() {
 setTimeout(destroy, 2000);
 ```
 
-If you refresh the page, you will see the text "DESTROYED" displayed after two seconds. 
+If you refresh the page, you will see the text "DESTROYED" displayed after 2 seconds. 
 
 ![](@attachment/Clipboard_2020-04-01-19-08-06.png) 8:38
 
-Now that it obviously not that intertesting, but you can imagine some scenario where something like this might happen like you have to hit the save button within an allotted period of time. 
+Now that is obviously not that interesting, but you can imagine some scenario where something like this might happen like you have to hit the save button within an allotted period of time. 
 
-Now what if we make the setTimeout to be 5 seconds and then we say if someone doesn't click within 5 seconds, we will run it, but if they do click within 5 seconds, we want to clear it. 
+Now make `setTimeout` to be 5 seconds and then if someone doesn't click within 5 seconds, run it, but if they do click within 5 seconds, clear it. 
 
-What we can do is add a click event listener on the window like so: 
+What you can do is add a click event listener on the window like so 👇
 
+```js
+window.addEventListener("click", function() {
+  console.log("You clicked! You saved the world!");
+  // How do you stop the timer from running?!
+});
 ```
-  window.addEventListener("click", function() {
-        console.log("You clicked! You saved the world!");
-        // How do you stop the timer from running?!
-      });
+
+The question is how do you stop the timer from running? 
+
+Well, what you can do is save reference to the timer when declaring it like so 👇
+
+```js
+const bombTimer = setTimeout(destroy, 5000);
 ```
 
-The question is how do we stop the timer from running? Well, what you can do is save reference to the timer when declaring it like so:
-
-`const bombTimer = setTimeout(destroy, 5000);`
-
-If you were to `console.log(bombTimer)`, what are we going to get? 
+If you were to log `bombTimer`, what are you going to get? 
 
 ![](@attachment/Clipboard_2020-04-01-19-14-22.png) 9:49
 
-You will see 2 in the console. What is this 2?? Well 2 is just a reference to all the current timers that are on the page. So to us it doesn't mean anything, but to the browser it does. 
+You will see 2 in the console. 
 
-If you were to look at the typeof when console logging our reference to bomb timer like so, you will see that it's just a regular number
+What is this 2?? 
 
-```
+Well 2 is just a reference to all the current timers that are on the page. 
+
+So to us it doesn't mean anything, but to the browser it does. 
+
+If you were to look at the `typeof` when logging our reference to `bombTimer` as shown below 👇, you will see that it's just a regular number. 
+
+```js
 console.log(typeof bombTimer);
 ```
 
 ![](@attachment/Clipboard_2020-04-01-19-15-41.png) 10:07
 
-But if we save reference to that timer number in a variable, we can later call `clearTimeout()` and pass it a reference to that timer and what that will do is it will stop the timer from running. 
+But if you save reference to that timer number in a variable, you can later call `clearTimeout()` and pass it a reference to that timer and what that will do is it will stop the timer from running. 
 
-```
+```js
 const bombTimer = setTimeout(destroy, 5000);
 
 window.addEventListener("click", function() {
@@ -1509,46 +1561,51 @@ window.addEventListener("click", function() {
 });
 ```
 
-Now if you refresh the page, if you don't click anywhere for 5 seconds, you will see the destroy text. However, if you do click within the first 5 seconds, the page will never be destroyed. 
+Now if you refresh the page, and you don't click anywhere for 5 seconds, you will see the destroy text. 
 
-If for any reason you need to stop your timer, save reference to it in a variable. There is no other way to clear the timer other than having a saved reference to it in a variable which is a number. 
+However, if you do click within the first 5 seconds, the page will never be destroyed. 
+
+If for any reason you need to stop your timer, save reference to it in a variable. 
+
+There is no other way to clear the timer other than having a saved reference to it in a variable which is a number. 
 
 The intervals work exactly the same way. 
 
-Let's create an interval that console logs the poop emoji and hehehe every 10 miliseconds like so:
+Create an interval that logs the poop emoji 💩 and hehehe every 10 miliseconds like so 👇
 
-```
+```js
 setInterval(function() {
   console.log(`💩`);
   console.log("Hehehe");
 }, 10);
 ```
-If you refresh the HTML page and look at htte console, you will see tons of console logs. 
+
+If you refresh the HTML page and look at the console, you will see tons of logs. 
 
 ![](@attachment/Clipboard_2020-04-01-19-22-05.png) 11:33
 
-Now if we wanted to clear that, we could save reference to it and then call `clearInterval()` and pass it the reference. 
+To clear that, you could save reference to it and then call `clearInterval()` and pass it the reference, like so 👇
 
-```
-  const poopInterval = setInterval(function() {
-      console.log(`💩`);
-      console.log("Hehehe");
-    }, 10);
+```js
+const poopInterval = setInterval(function() {
+  console.log(`💩`);
+  console.log("Hehehe");
+}, 10);
 ```
 
 If you refresh the page and open the console, you can type into the console `clearInterval(poopInterval)` and that should stop the interval from running. 
 
-One thing Wes often likes to do is run the interval every 100 miliseconds, but after 3 seconds we want to stop it entirely. 
+One thing Wes often likes to do is run the interval every 100 miliseconds, but after 3 seconds you want to stop it entirely. 
 
-If we wanted to clear that after five seconds, we could simply make a setTimeout that you pass an anonymous function that called clearInterval(poopInterval) after 3 seconds like so: 
+If you wanted to clear that after five seconds, you could simply make a `setTimeout` that you pass an anonymous function that called `clearInterval`(`poopInterval`) after 3 seconds like so 👇
 
-```
+```js
 setTimeout(function() {
   clearInterval(poopInterval);
 }, 3000);
 ```
 
-If you refresh the page, you will see the console logs stop after 3 seconds because we have cleared it. 
+If you refresh the page, you will see the logs stop after 3 seconds because you have cleared it. 
 
 --- 
 

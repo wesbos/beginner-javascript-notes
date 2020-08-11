@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-08-11T09:47:19.266Z'
+modified: '2020-08-11T10:55:04.589Z'
 ---
 
 # Module 8: Data Types
@@ -1487,11 +1487,13 @@ const names = ['wes','kait','snickers'];
 
 What you have done there is created an array with 3 items, each of which are separated by a comma. 
 
-Go ahead and open the page up in a browser and take a look at our array in the console.
+Go ahead and open the page up in a browser and take a look at the array in the console.
 
 ![](@attachment/Clipboard_2020-04-07-20-06-27.png) 1:54
 
-This is our array. It looks a lot like an object, but as you can see, it has no keys, which is sort of the main difference between arrays and objects. 
+This is our array. 
+
+It looks a lot like an object, but as you can see, it has no keys, which is sort of the main difference between arrays and objects. 
 
 An array has no keys. The keys will always be the indexes meaning 0,1,2,3,4,5..
 
@@ -1499,100 +1501,127 @@ One thing to mention is that if you types into the console `typeof names`, you w
 
 ![](@attachment/Clipboard_2020-04-07-20-08-09.png) 2:20
 
-You might be thinking "Whhaaattt??" typeof names is an object??
+You might be thinking "Whhaaattt??" `typeof names` is an object??
 
-You may be thinking back to one of the earlier videos where we went over all the types and remember that we didn't say that array was it's own type. An array is actually just an object at the end of the day, meaning that it can hold data and have a bunch of methods living inside of it. 
+If you recall one of the earlier videos where we went over all the types, you should remember that we didn't say that array was it's own type. 
 
-If you do need to check whether something is an array, the way you can do that is the following:
+An array is actually just an object at the end of the day, meaning that it can hold data and have a bunch of methods living inside of it. 
+
+If you do need to check whether something is an array, you can do that like so  👇
 
 ```js
 Array.isArray(names)
 ```
 
-That will return true or false depending on whether whatever you pass it (in this case `names`, is an array or not). That is something called a **static method** which we will learn about later. 
+That will return true or false depending on whether whatever you pass it (in this case `names`, is an array or not). 
 
-So we have the names array, but how do you access things inside of it? Because you can't do something like `names.wes`. That's how you access properties in an object. 
+That is something called a **static method** which we will learn about later. 
+
+So you have the `names` array, but how do you access things inside of it? You can't access it like you do properties on an object, so something like `name.wes` would not work. 
 
 If you want to access things inside of an array, you use the index.
 
-```
+```js
 console.log(names[1]);
 ```
 
-Do you think that will return the first item in the array? If you guess yes, you are wrong! 
+Do you think that will return the first item in the array? 
 
-If you refresh, you will see  "kait". Why? Because arrays are what are referred to as **zero based**. What that means is that the counting starts at 0.
+If you guess yes, you are wrong! 
 
-There are two things Wes likes to tell everyone when he is talking about **zero based**. 
+If you refresh, you will see  "kait". 
 
-First, he went to McDonalds once and was order number zero. And he went to McDonalds another time and he was number 99. It is just so that the number was huge on the receipt, and they had enough space on the receipt to put two numbers but their ordering system did a hundred numbers and then rolled over and started again. 
+Why? 
+
+Because arrays are what are referred to as **zero based**. What that means is that the counting starts at 0.
+
+There are two 2 Wes likes to tell everyone when he is talking about **zero based**. 
+
+First, he went to McDonalds once and was order number zero. 
+
+And he went to McDonalds another time and he was number 99. 
+
+It is just so that the number was huge on the receipt, and they had enough space on the receipt to put two numbers but their ordering system did a hundred numbers and then rolled over and started again. 
 
 What they did is instead of going from 1 to 100, because then the order number (100) wouldn't fit on the receipt, they started at 0 to 99 which still gave them the full hundred orders. 
 
 The second story is that when Wes got married is he had a table 0, and the last table was 23. That means they had 24 tables in total, it was zero based so it started at 0. That was very confusing for people working there and he does not recommend it. 
 
-In order to access the first item in an array you use a zero like so:
+In order to access the first item in an array you use the zero index like so 👇
 
-```
+```js
 console.log(names[0]);
 ```
 
-Which should return "wes" because that is the first item in our array.
+That should return "wes" because that is the first item in our array.
 
-If you want to check how many items are in an array, we use `.length`. That is NOT zero based. 
+If you want to check how many items are in an array, you would use `.length`. That is NOT zero based. 
 
-If you refresh the html page and look at the console, you should see the following:
+If you refresh the HTML page and look at the console, you should see the following 👇
 
 ![](@attachment/Clipboard_2020-04-08-07-19-02.png) 5:39
 
 So if you want to acess items within the array it is zero based, however if you are using `.length` to check how many items are in the array it is not zero based.
 
-If you want to get the last item in the array, you could `console.log(names[2]);` which would give us snickers, but what if you don't know how long the array is?
+If you want to get the last item in the array, you could do `console.log(names[2]);` which would give us `snickers`, but what if you don't know how long the array is?
 
-Let's say we modified our array to look like this:
+Let's say you modified the array to look like this 👇
 
-```
+```js
 const names = ['wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers', 'wes', 'kait', 'snickers'];
 ```
-Now we have no idea how many items are there (don't waste your time counting).
 
-When you need to access the last item in the array but do not know how many there are, you can use the length property like so:
+Now you have no idea how many items are there (don't waste your time counting).
 
-```
+When you need to access the last item in the array but do not know how many there are, you can use the length property like so 👇
+
+```js
 console.log(names[names.length -1]);
 ```
 
-If you tried to do `console.log(names[names.length])`, it will return undefined. Why? Because `names[27]` does not have a value, the last item is actually at `names[26]` because the length is 27. 
+If you tried to do `console.log(names[names.length])`, it will return `undefined`. 
+
+Why? 
+
+Because `names[27]` does not have a value, the last item is actually at `names[26]` because the length is 27. 
 
 ### Array Methods
 
 The Array prototype is full of useful methods for adding, removing and finding things inside of the array. 
 
-Let's update our names array to onlly contain 3 names again. 
+Update the names array to only contain 3 names again. 
 
 ```js
 const names = ["wes", "kait", "snickers"];
 ```
 
-If you refresh the page and take a look at the names array in the console, you should see something like:
+If you refresh the page and take a look at the `names` array in the console, you should see something like 👇
 
 ![](@attachment/Clipboard_2020-04-08-07-27-37.png) 7:47
 
-Those are all methods.. `concat`, `copyWithin`, `push`, `pop`, `findIndex`. There are tons of methods available to use when working with an array. 
+Those are all methods.. `concat`, `copyWithin`, `push`, `pop`, `findIndex`. 
+
+There are tons of methods available to use when working with an array. 
 
 We are not going to go over how every single one works, we will go over the more important ones and learning the idea of **immutability**, **mutable** and **immutable**, because Wes believes thats much more important.
 
 Let's talk about the scary words **mutable** and **immutable** again. 
 
-Mutable methods perform mutations. You can think of this like the Teenage Mutant Ninja turtles. Why were they mutants? Because they transformed from turtles into teenagers with really cool bandanas. 
+**Mutable** methods perform mutations. You can think of this like the Teenage Mutant Ninja turtles.
+
+Why were they mutants? 
+
+Because they transformed from turtles into teenagers with really cool bandanas. 
 
 When something changes the original version of it, that is what is referred to as a **mutation**. 
 
 **Immutable** methods do not change the original thing, they simply return an new array. 
 
-Let's do some examples. Firt, we will look at a mutation method. 
+Let's do some examples.
 
-```
+First, let's look at a mutation method. 
+
+```js
 //Mutation Method
 const numbers = [1,2,3,4,5,6,7,8,9];
 const numbersBackwards = numbers.reverse();
@@ -1601,13 +1630,19 @@ console.log(numbersBackwards);
 
 ![](@attachment/Clipboard_2020-04-08-07-50-01.png) 9:46
 
-It gives us the array backwards. Now what if we console.log `numbers`? Will the numbers in that array still be in the right order, will they be reversed or has it been deleted?
+This gives us the array backwards. 
+
+What if you log `numbers`? 
+
+Will the numbers in that array still be in the right order, will they be reversed or has it been deleted?
 
 ![](@attachment/Clipboard_2020-04-08-07-51-03.png) 10:09
 
-The original array has actually been reversed as well. That is what is referred to as a mutation, meaning the original data has been changed from what it was originally set out to be. 
+The original array has actually been reversed as well. 
 
-So we don't even need that secondary variable in our example, we could just do 
+That is what is referred to as a **mutation**, meaning the original data has been changed from what it was originally set out to be. 
+
+You don't even need that second variable in our example, since the code below would work just fine 👇
 
 ```js
 const numbers = [1,2,3,4,5,6,7,8,9];
@@ -1615,13 +1650,19 @@ numbers.reverse();
 console.log(numbers);
 ```
 
-Mutability is not necessarily bad or incorrect, it's just something important to know about javascript, that some methods will modify the original array, whereas some will create a new array and leave the original one intact.
+Mutability is not necessarily bad or incorrect, it's just something important to know about Javascript, that some methods will modify the original array, whereas some will create a new array and leave the original one intact.
 
 Most functional programmers or React developers tend to have a mantra of don't actually mutate the original array, create a new version of it. 
 
-So what's an immutable example of one of the methods? Let's take `numbers` and use the `slice()` method. The slice method allows us to take a portion of the array and make it into a new array. 
+So what's an immutable example of one of the methods? 
 
-Let's say we want to take the items at index 2 to index 4. Add the following code, refresh the html page and open the console. 
+Let's take `numbers` and use the `slice()` method. 
+
+The slice method allows us to take a portion of the array and make it into a new array. 
+
+Let's say you want to take the items at index 2 to index 4. 
+
+Add the following code 👇, refresh the HTML page and open the console. 
 
 ```js
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
@@ -1632,7 +1673,7 @@ console.log(pizzaSlice);
 
 ![](@attachment/Clipboard_2020-04-08-19-04-47.png) 11:45
 
-What we have done is we have gone from index 2, which is the 3rd item and stopped at index 4, which is the 5th item. Splice returns to use the subset of the original array, based on the index values we pass it. If you ever need to take a chunk out of an array, you can reach for slice.
+What you have done is you have gone from index 2, which is the 3rd item and stopped at index 4, which is the 5th item. Slice returns to use the subset of the original array, based on the index values we pass it. If you ever need to take a chunk out of an array, you can reach for slice.
 
 Now the question is, will the number 3 and 4 still be in the original numbers array? 
 
@@ -1652,7 +1693,7 @@ You take a copy of the array!
 
 Let's demonstrate this with a code example. 
 
-You can copy an array using the square brackets and the spread operator, like so:
+You can copy an array using the square brackets and the spread operator, like so 👇
 
 ```ja
 const numbersReversed = [...numbers];
@@ -1662,30 +1703,32 @@ console.log(numbers);
 
 ![](@attachment/Clipboard_2020-04-08-19-44-38.png) 13:49 
 
-Now you can go ahead and call `reverse()` on numbers reversed like so:
+Go ahead and call `reverse()` on numbers reversed as shown below.
 
-```
+```js
 const numbersReversed = [...numbers];
 numbersReversed.reverse();
 ```
 
 ![](@attachment/Clipboard_2020-04-08-19-47-00.png) 14:01
 
-You can also just call the method immediately on the array that was created like so:
+You can also just call the method immediately on the array that was created like so 👇
 
 ```js
 const numbersReversed = [...numbers].reverse();
 ```
 
-To recap: anytime you want to call a mutable method without mutating the original thing, you should first take a copy of it and then call the method. 
+To recap: 
+
+Anytime you want to call a mutable method without mutating the original thing, you should first take a copy of it and then call the method. 
 
 Most of the methods that we will learn about in arrays are immutable, but the few that aren't can getcha. 
 
-Comment out all the numbers code we added, because we will continue with our names example that's towards the top of the script tag.
+Comment out all the numbers code we added, because we will continue with our `names` example that's towards the top of the script tag.
 
-One thing you will want to do with an array is add items to it. For that, we use the `push()` method. 
+One thing you will want to do with an array is add items to it. For that, use the `push()` method. 
 
-```
+```js
 names.push('lux');
 console.log(names);
 ```
@@ -1694,56 +1737,60 @@ console.log(names);
 
 This does mutate the original array. 
 
-If you didn't want to mutate the original array you could do something like this:
+If you didn't want to mutate the original array you could do something like this 👇
 
-```
+```js
 const names2 = [...names, 'lux'];
 ```
 
-What that does is it copies all the items from the names array and then add an additional item, which is "lux".
+What that does is it copies all the items from the `names` array and then add an additional item, which is "lux".
 
-If you want to add an item to the front of an array, you wouldn't use push, because that adds the item to the back of the array. You would use `unshift()`.
+If you want to add an item to the front of an array, you wouldn't use push, because that adds the item to the back of the array. 
 
-For example:
+You would use `unshift()`.
 
-```
+For example 👇
+
+```js
 names.unshift('poppy');
 console.log(names);
 ```
 
 ![](@attachment/Clipboard_2020-04-08-19-59-52.png) 16:27
 
-The immutable way to do that would be:
+The immutable way to do that would be 👇
 
-```
+```js
 const names3 = ['poppy', ...names];
 ```
 
-The next two methods you will mix up for the rest of your life.. those are: `splice()` and `slice()`. 
+The next two methods you will mix up for the rest of your life: `splice()` and `slice()`. 
 
 We have already covered `slice()`, which allows you to take a portion out of the original array. 
 
-But there also is `splice()`. Both are used for grabbing a subset of the array but `slice()` is immutable and `splice()` is mutable.
+But there also is `splice()`. 
+
+Both are used for grabbing a subset of the array but `slice()` is immutable and `splice()` is mutable.
 
 Let's take a look at both methods on MDN. 
 
 ![](@attachment/Clipboard_2020-04-08-20-02-49.png) 17:40
 
- >The slice() method returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included) where begin and end represent the index of items in that array. The original array will not be modified.
+>The `slice()` method returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included) where begin and end represent the index of items in that array. The original array will not be modified.
 
-
- What they mean by (end not included) means that in our examples where we did `slice(2,4)`, it took the items start at index 2, but not at index 4. The end is not inclusive. 
+What they mean by end not included means that in our examples where we did `slice(2,4)`, it took the items start at index 2, but not at index 4. The end is not inclusive. 
 
 ![](@attachment/Clipboard_2020-04-08-20-05-12.png) 17:59
 
-Splice on the other hand will actually take the item out of the original array. 
+`Splice` on the other hand will actually take the item out of the original array. 
 
->The splice() method changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
+>The `splice()` method changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
 
+The other gotcha is that there is no start and end in `splice`. 
 
-The other gotcha is that there is no start and end in splice. Splice has a start and then how many you should go for. For example if you want to start at one and delete 5, you would use splice. 
+`Splice` has a start and then how many you should go for. For example if you want to start at one and delete 5, you would use splice. 
 
-Let's take a look at the numbers example:
+Let's take a look at the numbers example 👇
 
 ```js
 console.log(numbers);
@@ -1753,45 +1800,55 @@ console.log(numbers);
 
 ![](@attachment/Clipboard_2020-04-08-20-07-38.png) 18:46
 
-So we started at index 3 which was the #4. Then we went for two items, for #4, #5 and took those out of the array. 
+we started at index 3 which was the #4. Then we went for two items, for #4, #5 and took those out of the array. 
 
-That is mutable, whereas slice will just return a new array. 
+That is mutable, whereas `slice` will just return a new array. 
 
-More often than not you will want to reach for slice because of that. A trick to remember that is that you probably want a slice of pizza, so think of pizza!
+More often than not you will want to reach for `slice` because of that. 
+
+A trick to remember that is that you probably want a slice of pizza, so think of pizza!
 
 Now let's talk about adding items to the middle of an array. 
 
-It is best to use this spread method that we have. 
+It is best to use the spread operator. 
 
-Let's say we have an array of bikes, and we want to add two items in the middle. How do we do that? There is no method to insert an item at a specific index and have the  rest push over. 
+Let's say you have an array of `bikes`, and you want to add 2 items in the middle. 
 
-What we can do here is we create a new array, then use the spread operator in combination with slice like so: 
+How do you do that? 
+
+There is no method to insert an item at a specific index and have the rest push over. 
+
+Create a new array, then use the spread operator in combination with slice like so 👇
 
 ```js
 const bikes = ["bianchi", "miele", "panasonic", "miyata"];
 const newBikes = [
-  ...bikes.slice(0, 2), 
-  "benotto", 
-  ...bikes.slice(2)
-  ];
-  console.log(newBikes);
+...bikes.slice(0, 2), 
+"benotto", 
+...bikes.slice(2)
+];
+console.log(newBikes);
 ```
 
-We took the first two and spread them into it, then we add our new item, and then we take everything else after that and spread it into there. How do we take everything after an index using splice? You don't pass it an end, like we did here: `...bikes.slice(2);`
+You took the first 2 andspread them into it, and then you add the new item, take everything else after that and spread it into there. 
+
+How do you take everything after an index using splice? You don't pass it an end, like you did here: `...bikes.slice(2);`
 
 ![](@attachment/Clipboard_2020-04-08-20-16-34.png) 22:09
 
 What if you want to remove an item, like panasonic, from the array? 
-We would create a new array and use slice like so:
-```
+
+Create a new array and use slice like so 👇
+
+```js
 const newBikes2 = [
   ...newBikes.slice(0, 3), 
   ...newBikes.slice(4)
-  ];
-  console.log(newBikes2);
+];
+console.log(newBikes2);
 ```
 
-So what we are doing there is we are takign everything up until panasonic, so index 0 to 3, then we take everything after panasonic, like so: `..newBikes.slice(4);`
+What the code above is doing is it is taking everything up to panasonic (index 0 - 3), and then you grab everything after panasonic using `..newBikes.slice(4);`
 
 ![](@attachment/Clipboard_2020-04-08-20-19-41.png) 22:45
 
@@ -1801,11 +1858,9 @@ This is a very common thing to do, especially in frameworks like React and Angul
 
 You basically find where that thing is in the array, and then you use it's index to remove it. 
 
-Let's do an example liek that. 
+Let's do an example like that where you have a bunch of comments, and each item in the comments is an object, like so 👇
 
-Let's say we have a bunch of comments, and each item in the comments is an object, like so: 
-
-```
+```js
 const comments = [
   { text: "Cool Beans", id: 123 },
   { text: "Love this", id: 133 },
@@ -1815,35 +1870,36 @@ const comments = [
 ];
 ```
 
-Now we may have a function called `deleteComment` which takes in an id and the comments array. 
+You may have a function called `deleteComment` which takes in an `id` and the `comments` array. 
  
-
-Inside of the function, we first need to find the index of the item in the array, then we need to make a new array without that item in it, and then we have to return our new array. 
+Inside of the function, you first need to find the index of the item in the array, then you need to make a new array without that item in it, and then return that new array. 
 
 One thing we have not covered yet is how do you find the index of something, based on the item you are seraching for? 
 
 You use a method called `findIndex()`.
 
-You might think it would wokr like this: 
+You might think it would work like this 👇
 
-```
+```js
 const kaitIndex = names.findIndex('kait');
 console.log(kaitIndex);
 ```
 
-However, if you try that, you will get the following error:
+However, if you try that, you will get the following error 👇
 
 ![](@attachment/Clipboard_2020-04-08-20-27-10.png) 25:13
 
 It's not as easy as that because our structures are going to be a bit more complex than just strings.
 
-In this case, we want to find an object based on it's id. 
+In this case, you want to find an object based on it's id. 
 
-If that is the case, we will do something very similar to a loop. `findIndex()` will loop over every single item and then we find the item that we want we will return true and that will give us the index. 
+If that is the case, you will do something very similar to a loop. 
 
-For example:
+`findIndex()` will loop over every single item and then when it finds the item that you want, it will return true and that will give us the index. 
 
-```
+For example 👇
+
+```js
 const kaitIndex = names.findIndex(name => {
   if(name === 'kait'){
     return true;
@@ -1864,18 +1920,18 @@ That method is a bit long, so there is a few shorter way to do it.
 
 One way is that you can remove the else because if it's true, it will return and the else will never run. 
 
-```
- if(name === 'kait'){
-    return true;
-  }
-    return false;
+```js
+if(name === 'kait'){
+  return true;
+}
+  return false;
 ```
 
 The if statement also returns true or false itself so there is no real need for an if statment. 
  
-Thus, the other way we can do it is just by  return the condition, which will be true of false like this:
+Thus, the other way you can do it is just by return the condition, which will be true of false like this 👇
 
-```
+```js
 const kaitindex = names.findIndex(name => {
   return name === 'kait';
 })
@@ -1883,16 +1939,18 @@ const kaitindex = names.findIndex(name => {
 
 If you refresh the page, you will see that it still works. 
 
-You can even go one step further and use an implicit return. We get rid of the curly brackets, put it all on one line, getting rid of the semi-colon and the keyword return like so: 
+You can even go one step further and use an implicit return. 
 
-```
+Get rid of the curly brackets, put it all on one line, and get rid of the semi-colon and the keyword return like so 👇
+
+```js
 const kaitIndex = names.findIndex(name=>name === 'kait');
 console.log(kaitIndex);
 ```
  
-Now that we have that, we can make another array like so:
+Now that you have that, make another array as shown below. 
 
-```
+```js
 const newNamesWithOutKait = [
   //get everything up to the kait index
   names.slice(0,kaitIndex),
@@ -1902,16 +1960,17 @@ const newNamesWithOutKait = [
 console.log(newNamesWithOutKait);
 ```
 
-What we are doing there is we go from the start and then grab everything up to the kaitIndex, then we get everything after the kaitIndex.
+What we are doing there is you go from the start and then grab everything up to the `kaitIndex`, then you get everything after the `kaitIndex`.
 
 ![](@attachment/Clipboard_2020-04-08-20-37-10.png) 28:19
 
 Whoops! You might notice that it looks weird. We goofed up a bit here. 
 
-What we did accidentally is we created an array of two arrays. We don't want two arrays, we want to take the items out of them and spread them into the new oe like so: 
+What we did accidentally is we created an array of 2 arrays. 
 
+You don't want 2 arrays, you want to take the items out of them and spread them into the new one like so 👇
 
-```
+```js
 const newNamesWithOutKait = [
   //get everything up to the kait index
   ...names.slice(0,kaitIndex),
@@ -1929,20 +1988,20 @@ If you call it directly on `newNamesWithOutKait` it wouldn't work because it's i
 
 ![](@attachment/Clipboard_2020-04-08-20-40-10.png) 29:19
 
-We would have to return it liek so:
+We would have to return it like so 👇
 
-```
+```js
 const newNames999 = newNamesWithOutKait.flat();
 console.log(newNames999);
 ```
 
 ![](@attachment/Clipboard_2020-04-08-20-41-15.png) 29:20
 
-You can see it flattened the two arrays into one for us. 
+You can see it flattened the 2 arrays into one for us. 
 
-You could also do this:
+You could also do this 👇
 
-```
+```js
 const newNamesWithOutKait = [
   //get everything up to the kait index
   names.slice(0,kaitIndex),
@@ -1955,26 +2014,26 @@ It is a nice solution.
 
 We will be using the callback API similar to what we used in `findIndex` in a lot of the methods. 
 
-Now we will go back to our deleteComment example and create the function. 
+Now we will go back to our `deleteComment` example and create the function. 
 
-First we will find the index. That is a bit different because this time we are looking for an object where it's ID property matches. 
+First, find the index. That is a bit different because this time you are looking for an object where it's ID property matches. 
 
-```
+```js
 const commentIndex = comments.findIndex(comment => comment.id === id);
 ```
 
-Next we will  return a new array using slice. We will get everything before the comment and then everything after the comment. 
+Next, return a new array using slice. Get everything before the comment and then everything after the comment. 
 
-```
+```js
 return [
   ...comments.slice(0, commentIndex),
   ...comments.slice(commentIndex + 1)
 ];
 ```
 
-Here is the entire method:
+Here is the entire method 👇
 
-```
+```js
 function deleteComment(id, comments) {
   // first find the index of the item in the array
   const commentIndex = comments.findIndex(comment => comment.id === id);
@@ -1989,7 +2048,7 @@ function deleteComment(id, comments) {
 
 Now if you go and refresh the page and type comments into the console, you can see the comments. 
 
-In the console type in `deleteComment(233, comments)` and that will return the following:
+In the console type in `deleteComment(233, comments)` and that will return the following 👇
 
 ![](@attachment/Clipboard_2020-04-08-20-46-47.png) 31:40
 

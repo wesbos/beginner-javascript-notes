@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-08-10T23:31:38.023Z'
+modified: '2020-08-11T00:23:03.208Z'
 ---
 
 # Module 8: Data Types
@@ -39,18 +39,21 @@ Open `objects.html` and add the following code in the body tag 👇
 </script>
 ```
 
-Now if you log the person object, what will you see? We will probably see the object displayed with the properties in the same order. 
+Now if you log the person object, what will you see? 
 
+You will probably see the object displayed with the properties in the same order. 
 
 ![](@attachment/Clipboard_2020-04-02-07-57-18.png) 1:10
 
-If you modify the code to swap out age and name so age comes first and then console log, you will see that the properties also changed order when we console logged it. However, just because the Javascript interpreter does that, never rely on the properties that you put into the object being in the same order.
+If you modify the code to swap out age and name so age comes first and then log, you will see that the properties also changed order when you logged it. 
+
+However, just because the Javascript interpreter does that, never rely on the properties that you put into the object being in the same order.
 
 ### Creating an Object
 
-Typically when you create an object, you are going to open up a curly bracket, and then go ahead and close that curly bracket like so:
+Typically when you create an object, you are going to open up a curly bracket, and then go ahead and close that curly bracket like so 👇
 
-```
+```js
 const person = {
   
 };
@@ -60,9 +63,9 @@ That is called the **object literal** syntax.
 
 ![](@attachment/Clipboard_2020-04-02-08-00-37.png) 1:30
 
-You can also create an object like this:
+You can also create an object like this 👇
 
-```
+```js
 const person = new Object({
   name: "wes",
   age: 100
@@ -70,46 +73,57 @@ const person = new Object({
 ```
 
 You probably won't see that notation often or ever because the object literal syntax is much cleaner. 
+
 In fact if you wanted to, you could create strings by doing `const name = new String('wes');` but we don't because it's simpler and shorter to use the **string literal syntax**. 
 
-Note: we will talk about the new keyword in coming videos.
+_Note: we will talk about the `new` keyword in coming videos._
 
 Let's talk about some of the keywords related to objects.
 
 ![](@attachment/Clipboard_2020-04-02-08-04-55.png) 2:31
 
-The property is on the left, and then there is a colon and then we have the value on the right. The values of an object can be any type (string, function, boolean, other objects, arrays etc).
+The **property** is on the left, and then there is a colon and then we have the **value** on the right. 
 
-So for example let's say we have a variable, age which is set to 100 like so `const age = 100;`. 
+The values of an object can be any type (string, function, boolean, other objects, arrays etc).
 
-Now we could swap out the harcoded age from our persons object and instead assign it the variable like so:
+So for example, let's say we have a variable, `age` which is set to 100 like so `const age = 100;`. 
 
-```
- const age = 100;
+Now you could swap out the harcoded age from the person's object and instead assign it the variable like so 👇
+
+```js
+const age = 100;
 const person = new Object({
-  name: "wes",
-  age: age
+name: "wes",
+age: age
 });
 ```
 
-If you console.log the person object now, you will see that age still shows the value of 100. That's a pretty common thing that we'll do. 
+If you log the `person` object now, you will see that `age` still shows the value of 100. 
 
-Now if you ever run into this situation where the property is the same name as the value variable that you're setting it to, you can simply get away with simply doing writing age like this:
+That's a pretty common thing that we'll do. 
 
-```
- const age = 100;
+Now if you ever run into this situation where the property is the same name as the value variable that you're setting it to, you can simply get away with simply  writing age like this 👇
+
+```js
+const age = 100;
 const person = new Object({
   name: "wes",
   age
 });
 ```
 
-Age is both the property name and the value because the `age` variable is being used for the `age` property. That is the exact same thing as doing `age: age`.
+`age` is both the property name and the value because the `age` variable is being used for the `age` property. 
 
-The properties of an object pretty much follow the same rules as variables and Wes would recommend that you use the same rules as variables. However, you can go a bit further with the properties of an object. For example let's say we added one more property to our persons object..
+That is the exact same thing as doing `age: age`.
 
-```
- const person = new Object({
+The properties of an object pretty much follow the same rules as variables and Wes would recommend that you use the same rules as variables. 
+
+However, you can go a bit further with the properties of an object. 
+
+For example let's say you added one more property to the `persons` object 👇
+
+```js
+const person = new Object({
   name: "wes",
   age,
   "cool-dude": true
@@ -120,10 +134,10 @@ The properties of an object pretty much follow the same rules as variables and W
 
 As you can see, you can have a property with a dash in it, whereas you cannot have variables with dashes in them. 
 
-Similarly you can also have spaces and numbers in your properties like so:
+Similarly you can also have spaces and numbers in your properties like so 👇
 
 ```js
- const person = new Object({
+const person = new Object({
   name:'wes',
   age,
   'cool-dude': true,
@@ -134,24 +148,36 @@ Similarly you can also have spaces and numbers in your properties like so:
 
 ![](@attachment/Clipboard_2020-04-02-08-15-45.png) 4:29
 
-Also, you might notice that in the console the orders of the properties looks different from our code, which is expected and fine. 
+Also, you might notice that in the console the order of the properties look different from our code, which is expected and fine. 
 
-After each property, you might notice that we add a comma. Wes recommends adding a comma after the last property in the object, even if there is nothing that comes after it. That is what is called a **trailing comma** or a **comma dangle**. 
+After each property, you might notice that we add a comma. 
 
-It's not totally necessary, but putting a **trailing comma** on there will make sure that the next time you come around and add in a property, we can easily add it. What happens all the time is if you don't leave a trailing comma, the next time you go to add a property it's very easy to forget to include the comma.
+Wes recommends adding a comma after the last property in the object, even if there is nothing that comes after it. 
+
+That is what is called a **trailing comma** or a **comma dangle**. 
+
+It's not totally necessary, but putting a **trailing comma** on there will make sure that the next time you come around and add in a property, we can easily add it. 
+
+What happens all the time is if you don't leave a trailing comma, the next time you go to add a property it's very easy to forget to include the comma.
 
 If you forget to add a comma between properties, you will see an error similar to what is shown below. 
 
 ![](@attachment/Clipboard_2020-04-02-18-06-00.png) 5:37
 
-Another reason is version control. Let's say someone else is coming in and editing your code. Instead of just adding a new property, they have to edit the line above to add a comma, and even though you only modified the line above by adding a comma, it will show up in git blame that you modified that line of code
- last. Git blame is a git functionality that shows who wrote which line of code. 
+Another reason is version control. 
+
+Let's say someone else is coming in and editing your code. 
+
+Instead of just adding a new property, they have to edit the line above to add a comma, and even though you only modified the line above by adding a comma, it will show up in git blame that you modified that line of code
+ last. 
+ 
+_(Git blame is a git functionality that shows who wrote which line of code.)_
 
 It used to be that comma dangles weren't supported, but now all modern browsers do support the comma dangle on object properties. 
 
-Other things you can do is add nested properties or nested objects. For example we can create a property called clothing and assign it a sub object like so:
+Other things you can do is add **nested properties** or **nested objects**. For example, you can create a property called *clothing* and assign it a sub object like so 👇
 
-```
+```js
 const person = new Object({
   name: "wes",
   age,
@@ -168,27 +194,43 @@ const person = new Object({
 
 ![](@attachment/Clipboard_2020-04-03-19-28-22.png) 6:56
 
-As you can see, now our persons object has a nested object called clothing which has shirt and pants properrties. You can nest objects as deep as you could possibly want. 
+As you can see, now the `person` object has a nested object `clothing` which has `shirt` and `pants` properrties. 
+
+You can nest objects as deep as you could possibly want. 
 
 There is a gotcha about copying or cloning objects which we will talk about in just a second. 
 
-You can add new properties to an object even after it has been created. You would use the dot notation to do that. For example if we wanted to add a job property to the person object we could simply add this line of code: `person.job = 'Web Developer'`
+You can add new properties to an object even after it has been created, using the dot notation. 
 
-Now if you were to take a look at it in the console, you will see the job property has been added and is now part of the object. 
+For example if we wanted to add a `job` property to the `person` object, you could simply add this line of code 👇 
+
+```js
+person.job = 'Web Developer';
+```
+
+Now if you were to take a look at it in the console, you will see the `job` property has been added and is now part of the object. 
 
 ![](@attachment/Clipboard_2020-04-03-19-32-22.png) 7:35
 
-Similarly if you were trying to overwrite a property, you could do that as well. For example is you add this line `person.age = 50;` and then refresh the html page and look at the console, you will see that age is now set to 50 even though when creating the object we set it to the variable age which was 100. 
+Similarly if you were trying to overwrite a property, you could do that as well.
+
+For example, is you add this line `person.age = 50;` and then refresh the HTML page and look at the console, you will see that `age` is now set to 50 even though when creating the object, we set it to the variable `age` which was 100. 
 
 ![](@attachment/Clipboard_2020-04-03-19-36-31.png) 7:52
 
-You might have noticed that the person object is a const variable, however we just went ahead and changed part of it. 
+You might have noticed that the `person` object is a `const` variable, however you just went ahead and changed part of it. 
 
-That is a gotcha in javascript. Const does not mean that the value of an object cannot be changed. Const means that the binding to that person cannot be changed. What does that mean?
+That is a gotcha in javascript. 
 
-To explain, let's rename the person variable to Wes. You code should now look like this:
+`const` does not mean that the value of an object cannot be changed. `const` means that the binding to that person cannot be changed. 
 
-```
+What does that mean?
+
+To explain, let's rename the `person` variable to `wes`. 
+
+You code should now look like this 👇
+
+```js
 const age = 100;
 const wes = new Object({
 name: "wes",
@@ -207,11 +249,13 @@ wes.age = 50;
 console.log(person);
 ```
 
-Think about it like this.. Wes is Wes, he has been born and this object represents properties about him. Those properties can change as he grows up, however no one can ever replace him. No one can ever overwrite the binding to him. 
+Think about it like this.. Wes is Wes, he has been born and this object represents properties about him. 
 
-No one could ever come by and say "oh a new Wes was born" and create an object like this further down in the code:
+Those properties can change as he grows up, however no one can ever replace him. No one can ever overwrite the binding to him. 
 
-```
+No one could ever come by and say "oh a new Wes was born" and create an object like this further down in the code 👇
+
+```js
 wes = {
 name: 'Westopher',
 age: 12,
@@ -221,26 +265,34 @@ job: 'Web Master'
 
 You can't do that. 
 
-If you refresh the html page and open the console, you will see this error 
+If you refresh the HTML page and open the console, you will see this error 👇
 
 ![](@attachment/Clipboard_2020-04-03-19-54-54.png) 9:00
 
-Even if you put the keyword const infront of the second wes object, you will still get an error that says 
+Even if you put the keyword `const` infront of the second `wes` object, you will still get an error that says 
 >Identifier 'wes' has already been declared.
 
-That won't work because the binding to 'wes' has already been created. Even though properties on the wes object can change, the actual object itself will can never be overwritten entirely. 
+It doesn't work because the binding to `wes` has already been created. 
 
-If you do ever want to freeze the values in an object, what you can do is create a frozen object. You use the captial "O" Object and call `.freeze()` on it and pass the object to it that you want to freeze.
+Even though properties on the `wes` object can change, the actual object itself will can never be overwritten entirely. 
 
-Add the following code at the bottom of the script tag:
+If you do ever want to freeze the values in an object, what you can do is create a frozen object. 
 
-```
+You use the captial "O" `Object` and call `.freeze()` on it and pass the object to it that you want to freeze.
+
+Add the following code at the bottom of the script tag 👇
+
+```js
 const wesFroze = Object.freeze(wes);
 ```
 
-That won't freeze the original object wes, but what it will do is return a new object, called `wesFroze` and that can never be changed. 
+That won't freeze the original object `wes`, but what it will do is return a new object, called `wesFroze` and that can never be changed. 
 
-To demonstrate this, refresh the HTML page and then type wesFroze in the console. That should return the object. Now type in `wesFroze.age = 100` to try to overwrite the age, and hit enter (it should return 100). Now type in wesFrozen again and the object should be returned to you and the age property should still be set to 50. 
+To demonstrate this, refresh the HTML page and then type `wesFroze` in the console. That should return the object. 
+
+Now type in `wesFroze.age = 100` to try to overwrite the age, and hit enter (it should return 100).
+
+Now type in `wesFrozen` again and the object should be returned to you and the `age` property should still be set to 50. 
 
 ![](@attachment/Clipboard_2020-04-03-20-03-21.png) 9:57 
 
@@ -250,32 +302,40 @@ The word in programming that we use to describe something that cannot be changed
 
 ### Accessing Properties
 
-Wes has already shown us one way to access properties, which is using the dot notation. For example to access the job property you would write `wes.job` which would return "Web Developer".
+Wes has already shown us one way to access properties, which is using the dot notation. 
+
+For example to access the job property you would write `wes.job` which would return "Web Developer".
 
 ![](@attachment/Clipboard_2020-04-03-20-07-10.png) 10:35
 
-stopped at 10:35
+Just like when we looked at DOM elements, we have `getters` and `setters`, `objects`. That is the exact same thing with an object. 
 
-Just like when we looked at DOM elements, we have getters and setters, objects. That is the exact same thing with an object. In fact, a DOM element is just an object with a bit of extra functionality added to it. 
+In fact, a DOM element is just an object with a bit of extra functionality added to it. 
 
 That is the first way, and that is typically the approach you will use in almost every use case. 
 
 However, we have this other notation to access properties and that is with **square brackets**. 
 
-Similarly to how you can access the property using the dot notation you can also use **square brackets**. You simply write the object name then a set of square brackets, and between the square brackets you give the property name in strings, like so: 
+Similarly to how you can access the property using the dot notation you can also use **square brackets**. 
+
+You simply write the object name then a set of square brackets, and between the square brackets you give the property name in strings, like so 👇
 
 ```js
 console.log(wes.age);
 console.log(wes["age"]);
 ```
 
-Why do we have that? That seems like a much uglier way to access the properties. There are a few reasons. 
+Why do we have that? That seems like a much uglier way to access the properties. 
 
-One reason is that this method allows us to pass a variable that is a string type to the square brackets instead of passing a string directly. Let's do an example. 
+There are a few reasons. 
 
-In the `person` object, add another property like so: 
+One reason is that this method allows us to pass a variable that is a string type to the square brackets instead of passing a string directly. 
 
-```
+Let's do an example. 
+
+In the `person` object, add another property like so 👇
+
+```js
 const wes = new Object({
   name: "wes",
   propertyToCheck: "NEVER",
@@ -291,32 +351,44 @@ const wes = new Object({
 });
 ```
 
-Remove the square bracket console log we added above and add the following code instead:
+Remove the square bracket log we added above and add the following code instead 👇
 
-```
+```js
 console.log(wes.age);
 const propertyToCheck = prompt("What do you want to check?");
 console.log(propertyToCheck);
 console.log(wes[propertyToCheck]);
 ```
 
-As you can see, instead of passing `"age"` to the square brackets, we are passing the `propertyToCheck` variable instead. The value of propertyToCheck is assigned to whatever we enter into the prompt. Refresh the html page and you should see the following:
+As you can see, instead of passing `"age"` to the square brackets, we are passing the `propertyToCheck` variable instead. 
+
+The value of `propertyToCheck` is assigned to whatever we enter into the prompt.
+
+Refresh the HTML page and you should see the following 👇
 
 ![](@attachment/Clipboard_2020-04-04-17-57-58.png) 12:27
 
-If you open the console and then enter a proerty into the prompt such as age, you will see the value is logged. For example, if you were to type in clothing, it gives you the object that is the clothing. 
+If you open the console and then enter a property into the prompt such as `age`, you will see the value is logged. 
+
+For example, if you were to type in `clothing`, it gives you the object that is the clothing. 
 
 ![](@attachment/Clipboard_2020-04-04-17-59-38.png) 12:32 
 
-That is one reason: when the property of the object is stored in a variable, because you can't just write `wes.propertyToCheck` because the code will literally look for a property named `propertyToCheck` on the object, it will not be able to interpret that it is a variable. Let's test this out.. add the following line of code and refresh the HTML page:
+That is one reason: when the property of the object is stored in a variable, because you can't just write `wes.propertyToCheck` because the code will literally look for a property named `propertyToCheck` on the object, it will not be able to interpret that it is a variable. 
 
-```
+Let's test this out. Add the following line of code and refresh the HTML page 👇
+
+```js
 console.log(wes.propertyToCheck);
 ```
 
-You should see the word "NEVER" logged in the console. Wes asked us to add that property earlier to demonstrate this: if you use the dot notation, the code will assume you are looking for a property with that name, and it will not know it's a variable. If the property name is stored in a variable, you must use square brackets.
+You should see the word "NEVER" logged in the console. 
 
-There is another reason, which sometimes the properties of your object are not referenceable via Javascript, you have to use a string. 
+Wes asked us to add that property earlier to demonstrate that if you use the dot notation, the code will assume you are looking for a property with that name, and it will not know it's a variable. 
+
+If the property name is stored in a variable, you **must** use square brackets.
+
+There is another reason, which sometimes the properties of your object are not referenceable via Javascript, and instead you have to use a string. 
 
 Comment out the following code as demonstrated below and refresh the html page. 
 
@@ -326,46 +398,61 @@ Comment out the following code as demonstrated below and refresh the html page.
 //console.log(wes[propertyToCheck]);
 ```
 
-In the console, you can write `wes.age` and the age will be returned, however you CANNOT type `wes.cool-dude` for example because they are invalid property lookups. 
+In the console, you can write `wes.age` and the age will be returned, however you cannot type `wes.cool-dude` for example because they are invalid property lookups. 
 
 ![](@attachment/Clipboard_2020-04-04-18-09-10.png) 13:39
 
 So if that is the case for all three of those properties, (`777`, `really cool`, `cool-dude`) you would have to use square bracket notation to access them. 
 
-So why is that there if it's not really a good idea? Well sometiems you get data that comes from another language, or you get data that comes from server side. If that's the case, you don't really have a whole lot of options so you have to use the square bracket notation in order to reference it.
+So why is that there if it's not really a good idea? 
 
-To reference multiple levels deep, it's the same. For example you would write `wes.clothing.pants` to return the value of the pants property within the children object that is nested within the wes object. 
+Well sometimes you get data that comes from another language, or you get data that comes from serverside. If that's the case, you don't really have a whole lot of options so you have to use the square bracket notation in order to reference it.
+
+To reference multiple levels deep, it's the same. 
+
+For example you would write `wes.clothing.pants` to return the value of the pants property within the children object that is nested within the wes object. 
 
 ![](@attachment/Clipboard_2020-04-04-18-13-12.png) 14:26
 
-The only gotcha there is if you try to access a property on an object that does not exist, such as `wes.jobs`, it will evaluate to undefined. 
+The only gotcha there is if you try to access a property on an object that does not exist, such as `wes.jobs`, it will evaluate to `undefined`. 
 
 ![](@attachment/Clipboard_2020-04-04-18-13-53.png) 14:41
 
-However, if you try to access a nested property on a property that does not exist, it will throw an error:  
+However, if you try to access a nested property on a property that does not exist, it will throw an error 👇
 
 ![](@attachment/Clipboard_2020-04-04-18-15-41.png) 14:50
 
-This is a very common error:
-
->VM181:1 Uncaught TypeError: Cannot read property 'main' of undefined
+This is a very common error 👇
+>Uncaught TypeError: Cannot read property 'main' of undefined
 >    at <anonymous>:1:10
 
-That is because there is no property that exists on that undefined value. Because `wes.jobs` is undefined, there are no properties that live inside of that. 
+That is because there is no property that exists on that `undefined` value. 
 
-If that is the case, the you have to write the following to not throw an error:
+Because `wes.jobs` is `undefined`, there are no properties that live inside of that. 
 
-```
+If that is the case, the you have to write the following to not throw an error 👇
+
+```js
 wes,jobs ? wes.jobs.side : 'Jobs doesn't exist`;
 ```
 
 ![](@attachment/Clipboard_2020-04-04-18-19-58.png) 15:#0
 
-There is a proposal and hopefully it will be out soon, which will allow us to do a deep check. It will allow us to do something like this  `wes?.jobs?.side`.
+There is a proposal and hopefully it will be out soon, which will allow us to do a deep check. 
 
-What that would do is the code would say does `wes` object exist? if so, check is the `jobs` property exists, if so, get the value of `side`. That would allow us to do many layers deep. 
+It will allow us to do something like this  👇 
 
-It is often the case that we have to write code like this to safely check for the existence of a nested property:
+```js
+wes?.jobs?.side
+```
+
+What that would do is the code would say does `wes` object exist? 
+
+If so, check is the `jobs` property exists, and if so, get the value of `side`.
+
+That would allow us to do many layers deep. 
+
+It is often the case that we have to write code like this to safely check for the existence of a nested property 👇
 
 ```js
 if(wes && wes.jobs ** wes.jobs.first){
@@ -373,85 +460,103 @@ if(wes && wes.jobs ** wes.jobs.first){
 }
 ```
 
-Sometimes we don't know if any of the properties exist and instead have to check one by one or else we will run into the "cannot read property of undefined" error. 
+Sometimes you don't know if any of the properties exist and instead have to check one by one or else you will run into the "cannot read property of undefined" error. 
 
-NOTE: This currently does not exist. If you wish to see the status of it, search "Optional Chaining MDN".
+_NOTE: This currently does not exist. If you wish to see the status of it, search "Optional Chaining MDN"._
 
-We will often use an if statement like that when we are using inputs. To demonstrate, add the following code right after the opening body tag:
+You will often use an if statement like that when you are using inputs.
+
+To demonstrate, add the following code right after the opening body tag 👇
 
 ```html
 <body>
 <input type="text" name="first">
 ```
 
-If you refresh the HTML page, you will see the input on the page: 
+If you refresh the HTML page, you will see the input on the page 👇
 
 ![](@attachment/Clipboard_2020-04-04-18-25-38.png) 16:58
 
-Often what happens is we will try to select that input from the form like so:
+Often what happens is we will try to select that input from the form as shown below. 
 
-```
-  const nameInput = document.querySelector('[name="first"]');
-  const name = nameInput.value;
-  console.log(name);
+```js
+const nameInput = document.querySelector('[name="first"]');
+const name = nameInput.value;
+console.log(name);
 ```
 
-We are going to set a value on the input so that it is there on page load. Modify the code like so:
+Set a value on the input so that it is there on page load by modifying the code like so 👇
 
 ```html
  <input type="text" name="first" value="Wes" />
 ```
 
-When you refresh the page, you should see wes in the console. 
-However, if you comment out that input and then refresh the page, you will get an error "cannot read property value of null". 
+When you refresh the page, you should see "wes" in the console.
+
+However, if you comment out that input and then refresh the page, you will get an error 
+>cannot read property value of null
 
 Why does that happen? 
 
-Because we are assigning to the variable `nameInput` an html element that does not exist so `nameInput` is null. And then it checks for a property called `.value` on it. So if that were the case, and you run into this all the time, you had to do the following:
+Because you are assigning to the variable `nameInput` an HTML element that does not exist so `nameInput` is null. 
 
-```
+And then it checks for a property called `.value` on it. 
+
+So if that were the case (and you run into this all the time), you have to do the following 👇
+
+```js
 if (nameInput) {
   const name = nameInput.value;
 }
 ```
 
-However there we are making a scoped const variable which isn't very useful because it cannot be used outside the if block. To fix that you could do:
+However there you are making a scoped `const` variable which isn't very useful because it cannot be used outside the if block. 
+
+To fix that you could do 👇
 
 ```js
 const name = nameInput? nameInput.value : '';
 ```
 
-That code is first checking whether nameInput exists. If it does, it gets the `value` property on it, and if it doesn't, the name variable evaluates to an empty string.
+That code is first checking whether `nameInput` exists.
+
+If it does, it gets the `value` property on it, and if it doesn't, the name variable evaluates to an empty string.
 
 ### Deleting a Property from an Object
 
-To delete a property object you use the delete keyword. 
+To delete a property object you use the `delete` keyword. 
 
-For example `delete wes.job;` will delete the job property. If you are curious if it worked or not, you can save the result in a variable or simply console log it and a delete will either return true or false based on whether it is deleted or not. 
+For example `delete wes.job;` will delete the job property. 
 
-Add the following code:
+If you are curious if it worked or not, you can save the result in a variable or simply log it and a delete will either return true or false based on whether it is deleted or not. 
 
-```
+Add the following code 👇
+
+```js
 console.log(delete wes.job);
 ```
 
-Now if you take a look, you will see it is undefined.
+Now if you take a look, you will see it is `undefined`.
 
 ![](@attachment/Clipboard_2020-04-04-18-39-42.png) 19:19
 
-Sometimes you will also see people setting values to be null or undefined. For example `wes.age = undefined;` or `wes.age = null;`. Those are not deleting the properties, they are simply setting them to be null or undefined (in some frameworks that will allow the code to just skip over it).
+Sometimes you will also see people setting values to be `null` or `undefined`, for example `wes.age = undefined;` or `wes.age = null;`. 
 
-In an uncoming video, we will cover **loops** and **looping**. It is a pretty common thing to want to loop over the data that is in an object or an array. 
-
+Those are not deleting the properties, they are simply setting them to be `null` or `undefined` (in some frameworks that will allow the code to just skip over it).
 
 ### Methods 
 
-Now, let's talk about methods. We have already talked a lot about this. As we went over earlier, the difference between a method and a function is that a method is just a function that lives inside of an object. That is all we have learned so far. 
+Now, let's talk about methods. 
 
-If we go back to our 'wes' object and add a property called `sayHello`, we can set it to a function, and that function could take in a greeting if you want (the funtion works the smae as any function that you would have) and from that we could return the greeting in a string and then the name like so:
+We have already talked a lot about this. 
 
+As we went over earlier, the difference between a method and a function is that a method is just a function that lives inside of an object. 
 
-```
+That is all we have learned so far. 
+
+If you go back to the `wes` object and add a property `sayHello`, and you can set it to a function, and that function could take in a greeting if you want _(the funtion works the smae as any function that you would have)_ and from that `you` could return the greeting in a string and then the `name` like so ;po
+
+```js
 const wes = new Object({
   name: "wes",
   propertyToCheck: "NEVER",
@@ -468,28 +573,39 @@ const wes = new Object({
     return `${greeting} ${this.name}`;
   }
 });
-
 ```
 
-Now if you fresh the page, open the console and type in `wes.sayHello()` you should see "Hey wes" in the console. 
+Now if you refresh the page, open the console and type in `wes.sayHello()`, you should see "Hey Wes" in the console. 
 
-You can also try passing in a greeting like so: `wes.sayHello('Hello');`  which would return "Hello wes". 
+You can also try passing in a greeting as shown below, which would return "Hello wes". 
+
+```js
+wes.sayHello('Hello');
+``` 
 
 ![](@attachment/Clipboard_2020-04-04-18-46-34.png) 21:04
 
-You may be working what is the `this` keyword that we use in the `sayHello` function when we call `${this.name}`. Like we have mentioned in the past, when you take a look at a method, and if you look to the left of the dot, `this` will always be equal to the left of the dot.
+You may be working what is the `this` keyword that you use in the `sayHello` function when you call `${this.name}`. 
 
-So in our case, `${this.name}` is going to be equal to "wes" because that is the value of the `name` property on our object. You can access the other properties using the this keyword too. 
+Like we have mentioned in the past, when you take a look at a method, and if you look to the left of the dot, `this` will always be equal to the left of the dot.
 
-The reason we use the `this` keyword instead of using `${wes.name}` within the `sayHello` function is because when we get into prototyping, you are going to see how you can use methods like `sayHello` on multiple people rather than just on a person named wes. 
+So in this case, `${this.name}` is going to be equal to "wes" because that is the value of the `name` property on our object. 
 
-We could create a person object that is a new instance of Wes or Scott and Kate etc. In that case, the `sayHello` method will exist on all of them, and we can reference the current person's name using `${this.name}`.
+You can access the other properties using the `this` keyword too. 
 
-We will go into that a lot more in the future once we go into prototypes. For now, just know that when you have a function as a property on an object, that is referred to as a method of that object.
+The reason you use the `this` keyword instead of using `${wes.name}` within the `sayHello` function is because when we get into **prototyping**, you are going to see how you can use methods like `sayHello` on multiple people rather than just on a person named wes. 
 
-There also is a method shorthand similarly to how instead of having to write `age:age` for the age property we were able to just write `age`, the shorthand for the function consist of taking the function keyword away and the colon like this:
+You could create a `person` object that is a new instance of Wes or Scott and Kate etc. 
 
-```
+In that case, the `sayHello` method will exist on all of them, and you can reference the current person's name using `${this.name}`.
+
+We will get into that a lot more in the future once we get into prototypes. 
+
+For now, just know that when you have a function as a property on an object, that is referred to as a _method of that object_.
+
+There also is a method shorthand that consist of taking the `function` keyword away and the colon like this 👇
+
+```js
 const wes = new Object({
   name: "wes",
   propertyToCheck: "NEVER",
@@ -510,9 +626,11 @@ const wes = new Object({
 
 That is just a shorthand, it does the exact same thing. It is **not** an arrow function.
 
-However, you can add arrow functions. Let's add another property called `sneeze` like so:
+However, you can add arrow functions. 
 
-```
+Let's add another property called `sneeze` like so 👇
+
+```js
 sneeze: () => {
   console.log("AHHHH CHOOO");
 }
@@ -520,7 +638,7 @@ sneeze: () => {
 
 That is still a method, however because it is an arrow function as a property on an object, we do not have access to the this keyword.
 
-If you also try to console log the `this` keyword like so, you will see it evaluates to Window. 
+If you also try to console log the `this` keyword like so, you will see it evaluates to window. 
 
 ```js
 sneeze: () => {
@@ -534,9 +652,11 @@ If you were to change that, to a regular function, `this` would be equal to wes.
 
 ![](@attachment/Clipboard_2020-04-04-18-56-31.png) 23:05
 
-We will go into why that is later but the short answer for now is that arrow functions do not scope this to the thing they are called against, and the parent scope will inherit that. 
+We will go into why that is later but the short answer for now is that arrow functions do not scope `this` to the thing they are called against, and the parent scope will inherit that. 
 
-That is a high level overview of what objects are. In the next few videos we will get deeper into things you need to know, such as little gotchas before we can then dive into arrays. 
+That is a high level overview of what objects are. 
+
+In the next few videos we will get deeper into things you need to know, such as little gotchas before we can then dive into arrays. 
 
 ---
 

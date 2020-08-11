@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-08-11T09:23:44.005Z'
+modified: '2020-08-11T09:40:23.903Z'
 ---
 
 # Module 8: Data Types
@@ -1140,7 +1140,7 @@ The way you create a map is using the `new` keyword followed by `Map()` with a c
 const myMap = new Map();
 ```
 
-In order to add items to a map, we have the following APIs:
+In order to add items to a map, there are the following APIs:
 - set `.set()`
 - has `.has()`
 - delete `.delete()`
@@ -1149,9 +1149,11 @@ We will go through all of them.
 
 #### Set
 
-Firstly, you take `myMap` and you `set()` it, to which you pass two arguments. The first is going to be what the key of the map will be, so let's call it a 'name' and then we set the value of it. 
+Firstly, you take `myMap` and you `set()` it, to which you pass 2 arguments:
+1. the key of the map will be, so let's call it `name` 
+2. the value you want to set
 
-```
+```js
 myMap.set('name', 'wes');
 console.log(myMap);
 ```
@@ -1168,7 +1170,9 @@ It is in the map, but it is a property on the map, not an actual entry in our ma
 
 So why is this useful?
 
-Well, there are a couple of nice things about this API, apart from the fact that we have a `.set()` method and a `.has()` method and a `.delete()` method, one big benefit of a map is the keys can be any type other than just using a string or an allowed variable name. 
+Well, there are a couple of nice things about this API, apart from the fact that you have a `.set()`, `.has()` and `.delete()` method. 
+
+One big benefit of a map is the keys can be any type other than just using a string or an allowed variable name. 
 
 So instead of passing name as the key when we called `.set()` on `myMap`, we could pass a number like `myMap.set(100, 'This is a number');`
 
@@ -1176,30 +1180,34 @@ So instead of passing name as the key when we called `.set()` on `myMap`, we cou
 
 As you can see, the entry has a key of 100. 
 
-Previously we have only had the ability to add different types in the value portion of an object.
+Previously you have only had the ability to add different types in the value portion of an object.
 
-A map allows us to put any value into the key and into the value (any type of value). Now why is that useful? 
+A map allows you to put any value into the key and into the value (any type of value). 
+
+Now why is that useful? 
 
 In Javascript, we have these things called dictionaries. A dictionary is just a way to store additional metadata about something else. 
 
-What is a dictionary in real life? Well, if you have word, that word does not contain all the information about how to pronounce it, what it means, whether it's a verb or a noun, etc. All of that information about that word is not stored in the word, it's stored somewhere else, which is a dictionary and if we want to look that information up, we use the dictionary. 
+What is a dictionary in real life? 
 
-Let's create a variable `person1` like so:
+Well, if you have word, that word does not contain all the information about how to pronounce it, what it means, whether it's a verb or a noun, etc. All of that information about that word is not stored in the word, it's stored somewhere else, which is a dictionary and if we want to look that information up, we use the dictionary. 
 
-```
+Let's create a variable `person1` like so 👇
+
+```js
 const person1 = {
   name: 'wes',
   age: 200
 }
 ```
 
-What we can do is use the reference to that object as a key in your map to store additional information inside of your map. 
+What you can do is use the reference to that object as a key in your map to store additional information inside of your map. 
 
-In `maps.html`, we are going to use the reference to the `person1` object as a key in our map, and let's say as the value we will store a string about how cool the person is (this could really be anything, does not have to be a string). 
+In `maps.html`, use the reference to the `person1` object as a key in the map, and let's say as the value we will store a string about how cool the person is (this could really be anything, does not have to be a string). 
 
-Add the following at the end of the script tag but before we console log `myMap`. 
+Add the following at the end of the script tag but before you log `myMap` 👇
 
-```
+```js
 myMap.set(person1, 'Really cool');
 console.log(myMap);
 ```
@@ -1216,19 +1224,21 @@ myMap.get(person1);
 
 ![](@attachment/Clipboard_2020-04-07-19-07-07.png) 4:22
 
-What we have done there is instead of putting a unique string, or an ID or something else, we simply use the reference to the object as the key in the map to store the additional information. 
+What you have done there is instead of putting a unique string, or an ID or something else, you simply use the reference to the object as the key in the map to store the additional information. 
 
-Note: all values in a map can be any type, just like the key. 
+_Note: all values in a map can be any type, just like the key._ 
 
-Another example we can do is let's say someone has a score that they want to add additional information to. 
+Another example you can do is let's say someone has a score that they want to add additional information to. 
 
-```
+```js
 const score = 100;
 ```
 
-On the map, we want to set additional information on the map about what prizes they will win at that score. We will create a new map for this. 
+On the map, you want to set additional information about what prizes they will win at that score. 
 
-```
+Create a new map for this. 
+
+```js
 const score = 100;
 const prizes = new Map();
 prizes.set(100, 'Bear');
@@ -1236,38 +1246,49 @@ prizes.set(200, 'Duck');
 prizes.set(300, 'Car');
 ```
 
-Now if this was an object, we could have had to use a string of the number in order to look it up. However in this case, we can just use the number to look at what the corresponding prize is. 
+Now if this was an object, you would have had to use a string of the number in order to look it up. However in this case, we can just use the number to look at what the corresponding prize is. 
 
-Add a console log after the last set on our map:
+Add a log after the last set on our map 👇
 
-```
+```js
 console.log('you win a ${prizes.get(score)}`);
 ```
 
-Now if you refresh the page, you will see the following in the console:
+Now if you refresh the page, you will see the following in the console 👇
 
 ![](@attachment/Clipboard_2020-04-07-19-11-12.png) 6:07
 
 In a lot of the real world exercises we will build, we will pause and go over whether or not it makes sense to use an object or a map for our situation, so you can get used to when to reach for one versus the other.
 
-So far we have covered how to set and get values of a map. You can also get the siez of a map using `.size`. If you type `myMap.size` in the console, you it should return 3. This is very similar to getting the length of something. 
+So far we have covered how to set and get values of a map. 
 
-The other thing about a map is that order **is** guaranteed. Unlike an object, with a map, the order in which you put things into your map is the order at which they will stay. That is very important if you need to maintain the order. 
+You can also get the size of a map using `.size`. 
+
+If you type `myMap.size` in the console, you it should return 3. This is very similar to getting the length of something. 
+
+The other thing about a map is that order **is** guaranteed. 
+
+Unlike an object, with a map, the order in which you put things into your map is the order at which they will stay. 
+
+That is very important if you need to maintain the order. 
 
 Let's do an example to demonstrate displaying the prizes using objects vs maps. 
 
-Within the body tag, but before the script tag, add the following code: 
+Within the body tag, but before the script tag, add the following code 👇
 
 ```HTML
 <ul class="prizes"></ul>
 ```
 
-Now let's say we wanted to loop over the prizes in our map and display what you get for which point value, it's important that they go into that order. 
-With an object, they could be jumbled. It would be weird to display the prizes in non-ascending or descending order. But when you use a map, it's guaranteed to maintain order.
+Now let's say you wanted to loop over the prizes in the map and display what you get for which point value, it's important that they go into that order. 
 
-Now what we can do is select the ul, loop over all the entires in our map (there is a couple of different ways we can do that which we will cover in the looping and iterating lesson), and we are going to get an entry and console log it to start. 
+With an object, they could be jumbled. It would be weird to display the prizes in non-ascending or descending order. 
 
-```
+But when you use a map, it's guaranteed to maintain order.
+
+Now what you can do is select the `ul`, loop over all the entires in the map (there is a couple of different ways you can do that which we will cover in the looping and iterating lesson), and you are going to get an entry and log it to start. 
+
+```js
 //select that ul
 const ul = document.querySelector('.prizes');
 prizes.forEach(entry=>{
@@ -1275,13 +1296,13 @@ prizes.forEach(entry=>{
 })
 ```
 
-if you refresh the page and look at the console, you will see Bear, Duck and Car, in that order.
+If you refresh the page and look at the console, you will see Bear, Duck and Car, in that order.
 
 ![](@attachment/Clipboard_2020-04-07-19-18-01.png) 8:25
 
-However, that only gives us the value. If we want to return the key and value, we can use the `for of` loop. 
+However, that only gives you the value. If you want to return the key and value, you can use the `for of` loop. 
 
-```
+```js
 const ul = document.querySelector('.prizes');
 
 for(const prize of prizes){
@@ -1290,48 +1311,50 @@ for(const prize of prizes){
 
 ```
 
-This is getting a bit ahead of ourselves with the looping but just know that we are looping over all the entires in the map, one by one, and for each one we are going to create a temporary variable called prize and we are going to log it. 
+This is getting a bit ahead of ourselves with the looping but just know that you are looping over all the entires in the map, one by one, and for each one you are going to create a temporary variable `prize` and then log it. 
 
- ![](@attachment/Clipboard_2020-04-07-19-20-00.png) 8:57
+![](@attachment/Clipboard_2020-04-07-19-20-00.png) 8:57
 
- Now as you see, we get an array and that array's first item will be the key and the second item will be the values. 
+Now as you see, you get an array and that array's first item will be the key and the second item will be the values. 
 
- Now we can modify our console.log to instead be:
+Modify the log like so 👇
 
- ```
- console.log(prize[0], prize[1]);
- ```
+```js
+console.log(prize[0], prize[1]);
+```
 
 ![](@attachment/Clipboard_2020-04-07-19-21-04.png) 9:15
 
-We can go further and destructure the array. That will allow us to instead of referencing it by it's index, we can create variables of the items in there by their index.
+You can go further and **destructure** the array. 
 
-Modify the code like so:
+This allows you to create variables of the items by their index, instead of referencing each via index each time. 
 
-```
+Modify the code like so 👇
+
+```js
 for(const [points, prize] of prizes){
   console.log(points,prize);
 }
 ```
 
-If you refresh the HTML page and look at the console you will notice it works the exact same. The only difference is now  we have two variables, one for points and one for prize, rather than accessing the values using the array and their index. 
+If you refresh the HTML page and look at the console you will notice it works the exact same. The only difference is now we have 2 variables, one for `points` and one for `prize`, rather than accessing the values using the array and their index. 
 
-Note: you coudl have rename points and prize to anything you wanted.. for example `for(const [key, value] of prizes)` would have worked just as well.
+_Note: you could have rename points and prize to anything you wanted.. For example, `for(const [key, value] of prizes)` would have worked just as well._
 
-Modify the code again like so to display the score:
+Modify the code again to display the score 👇
 
-```
+```js
 for(const [points, prize] of prizes){
   const li = `<li>${points} - ${prize}</li>`;
   ul.insertAdjacentHTML('beforeend;, li);
 }
 ```
 
-Now when you refresh the page, you should see the following:
+Now when you refresh the page, you should see the following 👇
 
 ![](@attachment/Clipboard_2020-04-07-19-26-42.png) 10:56
 
-hWen do you use a map over an object?
+When do you use a map over an object?
 
 You should use a map if you do need to maintain the order of your items. 
 
@@ -1339,52 +1362,65 @@ One downside to a map is there is no literal, meaning that you always have to cr
 
 You can pass items into your map with an array or arrays, but it's kind of weird. 
 
-Let's do an example. You pass in an array of arrays. So you have an array which contains many arrays separated by commas like so
+Let's do an example. 
 
-```
-new Map( [[1,2], [3,4]])
+You pass in an array of arrays. So you have an array which contains many arrays separated by commas like so
+
+```js
+new Map( [[1,2], [3,4]]);
 ```
 
-If you type that in the console you will see:
+If you type that in the console you will see the following 👇
 
 ![](@attachment/Clipboard_2020-04-07-19-29-00.png) 11:46
 
-As you can see there, we have created a map. That's a bad example, let's do something else.
+As you can see there, we have created a map. 
 
-```
+That's a bad example, let's do something else.
+
+```js
 new Map([['name', 'wes'], ['age', '49']])
 ```
 
 You can pass an array of multiple arrays where the first item is the key and the second item is the value. However, the object literal syntax is a little bit neater of an API. 
 
 Wes didn't show us delete. 
-In the console, if you still haven;t refreshed from our previous example, type `myMap.delete('name')`.
+
+In the console, if you still haven't refreshed from our previous example, type `myMap.delete('name')`.
 
 ![](@attachment/Clipboard_2020-04-07-19-32-07.png) 12:25
 
-If you type `myMap`, you will notice that the name entry is gone. 
+If you type `myMap`, you will notice that the name `entry` is gone. 
 
-Another thing about an object is you can put functions inside of an object and we call those methods. You cannot do that with a map, that is not what they are for. They are simply for storing data.
+Another thing about an object is you can put functions inside of an object and we call those methods. 
+
+You cannot do that with a map, that is not what they are for. They are simply for storing data.
+
+### JSON 
 
 The last thing is we have this thing called **JSON**. Wes hasn't explained it to us yet but he is going to try really quickly. 
 
-Let's say you have an object:
+Let's say you have the following object 👇
 
-```
+```js
 const person = {
   name : 'wes', 
   age: 100
 }
 ```
 
-And you want to send that object to somebody, you would turn it into text. Text is easily sent via servers, from one website to another. Anytime you want to transfer an object or an array, you have to first convert that to a portable format. 
+If you want to send that object to somebody, you would turn it into text. Text is easily sent via servers, from one website to another. 
 
-This one way that all programming languages understand is JSON. You can turn an object into json using `JSON.stringify()`. It takes in one argument, which is the object you want to convert. 
+Anytime you want to transfer an object or an array, you have to first convert that to a portable format. 
 
-It takes the object and converts it into a string, which you can send very easily, and then the person on the other end can turn it back into an object using something like
+This one way that all programming languages understand is JSON. 
 
-```
-JSON.parse(`{"name":"wes","age":"100"}`)
+You can turn an object into **json** using `JSON.stringify()`. It takes in 1 argument, which is the object you want to convert. 
+
+It takes the object and converts it into a string, which you can send very easily, and then the person on the other end can turn it back into an object using something like 👇
+
+```js
+JSON.parse(`{"name":"wes","age":"100"}`);
 ```
 
 ![](@attachment/Clipboard_2020-04-07-19-37-25.png) 13:59
@@ -1397,12 +1433,13 @@ If you try `JSON.stringify(myMap)` you will see the following error and get an e
 
 ![](@attachment/Clipboard_2020-04-07-19-38-54.png) 14:53
 
-There is this thing called JSON 5 which is trying to improve JSON but until that is ready, if you want to send your map content you have to convert it to an object currently. 
+There is this thing called **JSON 5** which is trying to improve JSON but until that is ready, if you want to send your map content you have to convert it to an object currently. 
 
-You can do that using `Object.fromEntries(myMap)`, which tries it's best to convert it to a regular object. However, you will see if you use any of the benefits of a map, it falls apart when you turn it into JSON. 
+You can do that using `Object.fromEntries(myMap)`, which tries it's best to convert it to a regular object. 
+
+However, you will see if you use any of the benefits of a map, it falls apart when you turn it into JSON. 
 
 We will try to use both of them in our examples but Wes personally uses objects much more frequently, but he thinks map will start to catch on in the next couple of years.
-
 
 ![](@attachment/Clipboard_2020-04-07-19-40-51.png) 15:06
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-08-12T11:01:22.052Z'
+modified: '2020-08-17T22:56:50.855Z'
 ---
 
 # Module 8: Data Types
@@ -735,7 +735,7 @@ const person1 = {
 
 Duplicate that code by copy and pasting and renaming the variable to `person2`.
 
-```
+```js
 const person1 = {
   first: "wes",
   last: "bos"
@@ -1473,13 +1473,13 @@ Whereas curly brackets are for an object, square brackets `[]` are used for noti
 const name = [];
 ```
 
-You can also create an array using the longhand, just like you can with a string, a number, an object etc, like so:
+You can also create an array using the long hand, just like you can with a string, a number, an object etc, like so 👇
 
 ```js
 const names = new Array();
 ```
 
-To create items inside of an array you can simply do this:
+To create items inside of an array you can simply do this 👇
 
 ```js
 const names = ['wes','kait','snickers'];
@@ -1527,9 +1527,7 @@ console.log(names[1]);
 
 Do you think that will return the first item in the array? 
 
-If you guess yes, you are wrong! 
-
-If you refresh, you will see  "kait". 
+If you guess yes, you are wrong!  If you refresh, you will see  "kait". 
 
 Why? 
 
@@ -1652,13 +1650,13 @@ console.log(numbers);
 
 Mutability is not necessarily bad or incorrect, it's just something important to know about Javascript, that some methods will modify the original array, whereas some will create a new array and leave the original one intact.
 
-Most functional programmers or React developers tend to have a mantra of don't actually mutate the original array, create a new version of it. 
+Most functional programmers or React developers tend to have a mantra of "don't actually mutate the original array, create a new version of it". 
 
 So what's an immutable example of one of the methods? 
 
 Let's take `numbers` and use the `slice()` method. 
 
-The slice method allows us to take a portion of the array and make it into a new array. 
+The `slice` method allows us to take a portion of the array and make it into a new array. 
 
 Let's say you want to take the items at index 2 to index 4. 
 
@@ -1673,7 +1671,11 @@ console.log(pizzaSlice);
 
 ![](@attachment/Clipboard_2020-04-08-19-04-47.png) 11:45
 
-What you have done is you have gone from index 2, which is the 3rd item and stopped at index 4, which is the 5th item. Slice returns to use the subset of the original array, based on the index values we pass it. If you ever need to take a chunk out of an array, you can reach for slice.
+What you have done is you have gone from index 2, which is the 3rd item and stopped at index 4, which is the 5th item. 
+
+Slice returns to use the subset of the original array, based on the index values we pass it. 
+
+If you ever need to take a chunk out of an array, you can reach for slice.
 
 Now the question is, will the number 3 and 4 still be in the original numbers array? 
 
@@ -2073,9 +2075,9 @@ When you open it, you will see all the array methods in the documentation, along
 
 ![](@attachment/Clipboard_2020-04-09-18-06-44.png) 00:31
 
-Instead of Wes going through each one, we are going to work with the data Wes has provided and use the methods in examples to add things, remove things and sort things. 
+Instead of Wes going through each one, we are going to work with the data Wes has provided and use the methods to add, remove and sort items. 
 
-Wes has another course called Javascript30 (it's totally free), and in that course there are 2 lessons that focus on Array Cardio. So if after this video you want more practice, you can visit those videos. 
+Wes has another course called Javascript30 (it's totally free), and in that course there are 2 lessons that focus on Array Cardio. If after this video you want more practice, you can visit those videos. 
 
 Wes has broken this up into different sections.
 
@@ -2096,77 +2098,96 @@ If you look at the sidebar of the array documentation, you will see there are th
 - `Array.isArray()` 
 - `Array.of()`
 
-All the rest of the methods have `Array.prototype` and then the method instead of calling the method directly on `Array`. what is the deal with that? 
+All the rest of the methods have `Array.prototype` and then the method instead of calling the method directly on `Array`. 
+What is the deal with that? 
 
-That is because those 3 methods are **static methods**, while the rest are referred to as **instance or prototypal** methods.
+That is because those 3 methods are **static methods**, while the rest are referred to as **instance or prototypal methods**.
 
-If you  refresh the HTML page and open the console, we can create an array like so:
+Refresh the HTML page, open the console and create the following array in the console. 
 
 ```js
 const numbers = [1,2,3,4,5];
 ```
 
-We can call pop numbers out, push numbers in, etc. Those are methods sort of just come along whenever you create an array.
+Using this array, we can pop numbers out, push numbers in, etc.
 
 ![](@attachment/Clipboard_2020-04-09-18-22-45.png) 2:51
 
-Whenever you create an array, you get what is referred to as the array prototype. These are the methods that are on every single array that are available for us to work with on that array. 
+Whenever you create an array, you get what is referred to as the array prototype. 
 
-Now there are also this thing called **static methods** which aren't available on every single array, but they sort of live on the capital A `Array`. Those are often what Wes refers to as utility methods. They are handy methods for creating or working with arrays. We will also look at some object static methods as well.
+These are the methods that are on every single array that are available for us to work with on that array. 
 
-The way static methods work are they are NOT a method like `numbers.push(5)`. We call `push()` on the `numbers` array that we created. 
+Now there are also this thing called **static methods** which aren't available on every single array, but they sort of live on the capital A `Array`. 
 
-Static methods are called with something like `Array.from()` and they are access like that. Let's go through it.
+Those are often what Wes refers to as **utility methods**. They are handy methods for creating or working with arrays. 
+
+We will also look at some object static methods as well.
+
+The way static methods work are they are NOT a method like `numbers.push(5)`  (you call `push()` on the `numbers` array that you created earlier).  
+
+Static methods are called with something like `Array.from()` and they are access like that. 
+
+Let's go through it.
 
 `Array.of()` is used for creating an array from it's arguments.
 
-For example you could pass it the arguments of 'wes' and 'kait' and it would create an array with those two items, like so: 
+For example you could pass it the arguments of 'wes' and 'kait' and it would create an array with those 2 items, like so 👇
+
+```js
+Array.of('wes', 'kait');
+```
 
 ![](@attachment/Clipboard_2020-04-09-18-29-23.png) 4:00
 
-Wes has never used that in his career, ever, mainly because it's shorter and simpler to create an array usign an array literal. 
+Wes has never used that in his career, ever, mainly because it's shorter and simpler to create an array using an array literal. 
 
-There are a coulpe of little edge cases uses for it. One kinda cool this is you can spread into a function. 
+There are a couple of little edge cases for it. One kinda cool this is you can spread into a function. 
 
-We have already covered how when you have something, you can spread into an array, like so:
+We have already covered how when you have something, you can spread it into an array, like so 👇
 
-```
+```js
 [...'wes'];
 Array.of(...'wes');
 ```
 ![](@attachment/Clipboard_2020-04-09-18-31-20.png) 4:34
 
-What the ... does in the example above is it takes an **iterable**, meaning something that has a length, ("wes" is something that has a length because strings have a length), and you can sperad each of the items of that iterable into the surrounding array.
+What the `...` does in the example above is it takes an **iterable**, meaning something that has a length, _("wes" is something that has a length because strings have a length)_, and you can sperad each of the items of that iterable into the surrounding array.
 
-So in the example above, we have spread every letter that makes up wes and put it as an item of the array.
+So in the example above, you have spread every letter that makes up "wes" and put it as an item of the array.
 
-The same things works if you are spreading into a function. For example, if you have a function that takes an unlimited amount of arguments, or you have something where you want to spread each item as argument one, argument two etc. you an spread into a function call. That's what it does, you can use that 
+The same things works if you are spreading into a function. 
 
-Next let's talk about `Array.from()` which is somethign that Wes uses fairly often.
+For example, if you have a function that takes an unlimited amount of arguments, or you have something where you want to spread each item as argument 1, argument 2 etc. you can spread into a function call. 
 
-`Array.from()` will take an **iterable** (something with a length), and most often Wes will give it an object with a length property like so:
+There is `Array.from()` which is something that Wes uses fairly often.
 
-```
+`Array.from()` will take an **iterable** (something with a length), and most often Wes will give it an object with a length property like so 👇
+
+```js
 Array.from({length:10})
 ```
 
-What that will do is it returns an array from that iterable with that many empty slots.  So in our example, we are saying we want 10 spots, and that returns to us an array with 10 empty spots. 
+What that will do is it returns an array from that iterable with that many empty slots.  So in the example above, you are saying you want 10 spots, and that returns to us an array with 10 empty spots. 
 
 ![](@attachment/Clipboard_2020-04-09-18-37-33.png) 5:59
 
-That is really handy because Wes often wants to make an array of numbers 1 through 10 and loop over them and display each items or something like that. Sometimes Wes just wants to loop from 1 to 10 or 5 to 8 and using `Array.from()` will do that. 
+That is really handy because Wes often wants to make an array of numbers 1 through 10 and loop over them and display each items or something like that. 
 
-`Array.from()` also takes in a secondary argument which is referred to as a map argument. The map function will tell us what we can return to put into those slots. 
+Sometimes Wes just wants to loop from 1 to 10 or 5 to 8 and using `Array.from()` will do that. 
 
-Let's do an example.  We will create a variable named range, which will be equal to an array with 10 slots, like so:
+`Array.from()` also takes in a secondary argument which is referred to as a map argument. The map argument will tell you what you can return to put into those slots. 
 
-```
+Let's do an example.  
+
+Create a variable `range`, which will be equal to an array with 10 slots, like so 👇
+
+```js
 const range = Array.from({length:10});
 ```
 
 A second argument from that is a function from which you can return anything. 
 
-Add the following:
+Add the following 👇
 
 ```js
 const range = Array.from({length:10}, function(){
@@ -2178,7 +2199,9 @@ If you refresh the page, and open the console you should see that all 10 items h
 
 ![](@attachment/Clipboard_2020-04-09-18-49-53.png) 6:59
 
-This callback function will give you the actual item that is in the slot as an argument, as well as the index. For example:
+This callback function will give you the actual item that is in the slot as an argument, as well as the index. 
+
+For example 👇
 
 ```js
 const range = Array.from({length:10}, function(item, index){
@@ -2186,15 +2209,19 @@ const range = Array.from({length:10}, function(item, index){
 });
 ```
 
-What that has done is it has given us an array where each number is the index that we have. 
+What that code above does is it gives you an array where each number is the index that you have.  
 
 ![](@attachment/Clipboard_2020-04-09-18-51-40.png) 7:42
 
-We can use this to make a little function that takes in two arguments, start and end:  `createRange(start,end)`. 
+Use this to make a little function that takes in 2 arguments, `start` and `end`, like so 👇
 
-We will move the const range variable inside of that function like so:
-
+```js
+createRange(start,end);
 ```
+
+Move the `const range` variable inside of that function like so 👇
+
+```js
 function createRange(start,end){
   const range = Array.from({length:10}, function(item, index){
   return index';
@@ -2202,9 +2229,9 @@ function createRange(start,end){
 }
 ```
 
-However, we want to change the length value. Instead of 10, we will do the end minus the start like so:
+However, you want to change the length value. Instead of 10, do the end minus the start like so 👇
 
-```
+```js
 function createRange(start,end){
   const range = Array.from({length:end - start}, 
   function(item, index){
@@ -2213,20 +2240,23 @@ function createRange(start,end){
 }
 ```
 
-Let's test that out by refreshing the HTML page and testing it in the console. 
+Let's test that out by refreshing the HTML page and opening the console. 
 
-Add the following in the console:
-```
+Add the following in the console 👇
+
+```js
 createRange(3,7)
 ```
 
-You should see the following in the console:
+You should see the following 👇
 
 ![](@attachment/Clipboard_2020-04-09-19-02-07.png) 8:24
 
-Oops! We forgot to return the range. add a return to the function like so:
+Oops! You forgot to return the range. 
 
-```
+Add a return to the function like so 👇
+
+```js
 function createRange(start,end){
   const range = Array.from({length:end - start}, 
   function(item, index){
@@ -2238,12 +2268,11 @@ return range;
 
 ![](@attachment/Clipboard_2020-04-09-19-03-25.png) 8:34
 
-We started at 3 and went to 7, which gave us 4 spots.
+You started at 3 and went to 7, which gave us 4 spots.
 
-Then what we can do is return the index + the start number by modifying the code to instead of returning `index`, to return `index + start` like so:
+Then what you can do is return the index + the start number by modifying the code to instead of returning `index`, to return `index + start` like so 👇
 
-
-```
+```js
 function createRange(start,end){
   const range = Array.from({length:end - start}, 
   function(item, index){
@@ -2255,27 +2284,37 @@ return range;
 
 ![](@attachment/Clipboard_2020-04-09-19-04-38.png) 8:45
 
-If you wanted this to be inclusive of 7, you could add add 1 to where you set the length of array. You change `Array.from({ length: end - start}` to `Array.from({ length: end - start + 1 }`
+If you wanted this to be inclusive of 7, you could add 1 to where you set the length of array. 
 
+You change `Array.from({ length: end - start}` to `Array.from({ length: end - start + 1 }`
 
-That is a handy range function which Wes has probably written a dozen times in his career. So that is what Array.from() does, it creates an array given an iterable which is most likely aways going to be an object with a length on it. 
+That is a handy range function which Wes has probably written a dozen times in his career. 
 
+So that is what Array.from() does, it creates an array given an iterable which is most likely aways going to be an object with a length on it. 
 
-Let's create a range using that function. Add the following line underneath the range function: 
+Create a range using that function. 
 
-```
+Add the following line underneath the range function 👇
+
+```js
 const myRange = createRange(3, 7);
 ```
 
-Let's refresh the HTML page and open the console. Let's try to the following `createRange(3,734223423)`. If you try that, you should get an error like so: 
+Refresh the HTML page and open the console. 
+
+Let's try to the following `createRange(3,734223423)`. 
+
+If you try that, you should get an error like so 👇
 
 ![](@attachment/Clipboard_2020-04-10-12-31-54.png) 9:49
 
-There is a limit to how big your arrays can be. They are very, very, very large. There are some additional datatypes in the language for having big, big arrays, and you will most likely only run into those when you're dealing with 3D graphics and you have to work at a per pixel level.
+There is a limit to how big your arrays can be. They are very, very, very large. 
 
-Let's refresh the page, open the console and try with a smaller number like 
+There are some additional datatypes in the language for having big, big arrays, and you will most likely only run into those when you're dealing with 3D graphics and you have to work at a per pixel level.
 
-```
+Let's refresh the page, open the console and try with a smaller number as shown below. 
+
+```js
 createRange(3,7342);
 ```
 
@@ -2293,20 +2332,26 @@ You should see "true" logged.
 
 ![](@attachment/Clipboard_2020-04-10-12-38-47.png) 10:30
 
-That is a pretty common thing you will need to do because if you try to use typeof with an array, it will return "object" because an array isn't a real type. The only way to check whether an array is an array is by using `Array.isArray()` 
+That is a pretty common thing you will need to do because if you try to use `typeof` with an array, it will return "object" because an array isn't a real type. 
 
-Some people sort of cheat it and instead of using `Array.isArray` they will check fo the existence of this that are array-ish such as for the existance of a length property. That isn't good because you could have an object with a length property as well and that check wouldn't work.
+The only way to check whether an array is an array is by using `Array.isArray()` 
 
+Some people sort of cheat it and instead of using `Array.isArray` they will check fo the existence of things that are array-ish such as for the existance of a length property. That isn't good because you could have an object with a length property as well and that check wouldn't work.
 
 #### Object Static Methods
 
-Next up we have these static methods: `Object.entries()`, `Object.keys`, `Object.values()`, which are on the object instead of on the array. However they return arrays, which is why we are covering them here.
+Next up we have these static methods: 
+- `Object.entries()`
+- `Object.keys`
+- `Object.values()`, 
 
-This exercise requires us to take the `meats` object and make three arrays with `.entries()`, `.keys()`, `.values()`. 
+Those methods are on the object instead of on the array. However they return arrays, which is why we are covering them here.
 
-Here is our meats object:
+This exercise requires us to take the `meats` object and make 3 arrays with `.entries()`, `.keys()`, `.values()`. 
 
-```
+Here is our meats object 👇
+
+```js
 const meats = {
   beyond: 10,
   beef: 5,

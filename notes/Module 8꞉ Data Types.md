@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png]
+attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png, Clipboard_2020-08-17-20-55-13.png, Clipboard_2020-08-17-20-56-05.png, Clipboard_2020-08-17-20-56-18.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-08-17T22:56:50.855Z'
+modified: '2020-08-18T01:00:35.427Z'
 ---
 
 # Module 8: Data Types
@@ -2363,14 +2363,14 @@ If you want to turn this object into an array of keys, or an array of the values
 
 You use `Object.entries()` when you want to put both the keys and values into an array like so:
 
-```
+```js
 console.log(Object.entries(meats));
 ```
 
 ![](@attachment/Clipboard_2020-04-10-12-48-26.png) 11:48
 
 
-Now add the following code below the line where we are logging the entries array:
+Add the following code below the line where you are logging the entries array. 
 
 ```js
 console.log(Object.entries(meats));
@@ -2384,22 +2384,25 @@ As you can see, `keys()` is going to give us an array of all the object keys, `v
 
 These are pretty common things to do. 
 
-One pretty common way to work with those is using the `forEach`. This is getting a little bit ahead of ourselves because we haven't learned about looping all that much, but Wes will show us how to do it anyway.
+One pretty common way to work with those is using the `forEach`. 
 
-So let's say we do the following:
+This is getting a little bit ahead of ourselves because we haven't learned about looping all that much, but Wes will show us how to do it anyway.
 
-```
+Add the following code 👇
+
+```js
 Object.values(meats).forEach(qty => {
   console.log(qty);
 });
 ```
-If you refresh the HTML page and look at the console you should see the following:
+
+If you refresh the HTML page and look at the console you should see the following 👇
 
 ![](@attachment/Clipboard_2020-04-10-12-56-17.png) 12:53
 
-That is a pretty common thing to do it you want to like loop over and add up how much inventory you have or you want to add up all the numbers, we will look at how we can use `reduce()` to do that. 
+That is a pretty common thing to do it you want to like loop over and add up how much inventory you have or you want to add up all the numbers, lets look at how you can use `reduce()` to do that. 
 
-The same thing is if we were to do `keys`, instead of getting the quantity we would be grabbing the values and putting them into an array and then looping over them. 
+The same thing is if you were to do `keys`, instead of getting the quantity we would be grabbing the values and putting them into an array and then looping over them. 
 
 ```js
 Object.keys(meats).forEach(qty => {
@@ -2407,62 +2410,80 @@ Object.keys(meats).forEach(qty => {
 });
 ```
 
-![](@attachment/Clipboard_2020-04-10-12-58-33.png) 13:13
+![](@attachment/Clipboard_2020-08-17-20-55-13.png)13:13
 
-Now let's try entries:
+Now entries 👇
 
+```js
+Object.entries(meats).forEach(entry => {
+  console.log(entry);
+});
 ```
-  Object.entries(meats).forEach(entry => {
-    console.log(entry);
-  });
-```
 
-![](@attachment/Clipboard_2020-04-10-12-59-54.png) 13:24
+![](@attachment/Clipboard_2020-08-17-20-56-05.png) 13:24
 
-For each one, you get an array with two items. The first item is always going to be the key, and the second value will always be the value. So if you wanted to split those up into their own vairables you could do the following: 
+For each one, you get an array with 2 items. 
 
-```
+The first item is always going to be the **key**, and the second item will always be the **value**. 
+
+If you wanted to split those up into their own vairables you could do the following 👇
+
+```js
 const key = entry[0];
 const value = entry[1];
 console.log(key,value);
 ```
 
-![](@attachment/Clipboard_2020-04-10-13-01-17.png) 13:51
+![](@attachment/Clipboard_2020-08-17-20-56-18.png) 13:51
 
-Something that we have talked about that is very useful in this scenario is **destructuring**. Instead of using the square brackets and indexes on the entry array to grab each item, we can do this:
+Something that we have talked about that is very useful in this scenario is **destructuring**. 
+
+Instead of using the square brackets and indexes on the entry array to grab each item, you can do this 👇
 
 ```js
 const [key, value] = entry; 
 ```
 What that code is doing is it is taking the first item in the entry array and assigning it to the variable key and it's taking the second item and assigning it to the variable value. 
 
-That is the exact same thing as:
-```
+That is the exact same thing as 👇
+
+```js
 const key = entry[0];
 const value = entry[1];
 ```
 
-We could take it even one step further and destructure the entry variable inside of the function definition rather than in the function body. 
+You could take it even one step further and destructure the entry variable inside of the function definition rather than in the function body. 
 
-
-First we will modify this line of code: `Object.entries(meats).forEach(entry => {` and instead wrap `entry` in paranthesis like so: `Object.entries(meats).forEach((entry) => {`. If you refresh the page, everything should still work, we did nothing by adding those parenthesis. 
-
-Now, instead of just passing one variable called `entry`, we are going to destructure that `entry` array into `key` and `value` directly.  Now within the function body we do not need to do any destructuring, we can just log the key and value variables directly. 
-
-```
-   Object.entries(meats).forEach(([key, value]) => {
-        // const key = entry[0];
-        // const value = entry[1];
-        //const [key, value] = entry;
-        console.log(key, value);
-      });
-
+First modify this line of code 
+👇
+```js
+Object.entries(meats).forEach(entry => {` 
 ```
 
-`key` and `value` are not special names, you could name them anything you want, for example this would still work:
+Wrap `entry` in paranthesis like so 👇
 
+```js
+Object.entries(meats).forEach((entry) => {
+``` 
 
+If you refresh the page, everything should still work, you did nothing by adding those parenthesis. 
+
+Instead of just passing one variable called `entry`, you are going to destructure that `entry` array into `key` and `value` directly.  
+
+Within the function body you do not need to do any destructuring, we can just log the key and value variables directly. 
+
+```js
+Object.entries(meats).forEach(([key, value]) => {
+  // const key = entry[0];
+  // const value = entry[1];
+  //const [key, value] = entry;
+  console.log(key, value);
+});
 ```
+
+`key` and `value` are not special names, you could name them anything you want, for example this would still work 👇
+
+```js
 Object.entries(meats).forEach(([meat, qty]) => {
   // const key = entry[0];
   // const value = entry[1];
@@ -2472,8 +2493,9 @@ Object.entries(meats).forEach(([meat, qty]) => {
 
 ```
 
-There is nothing wrong with any of these approaches, they all work. Wes find that for some beginners destructuring can be a bit confusing so feel free to use the other approahces for now if they are more clear to you. 
+There is nothing wrong with any of these approaches, they all work. 
 
+Wes find that for some beginners destructuring can be a bit confusing so feel free to use the other approaches for now if they are more clear to you. 
 
 ---
 

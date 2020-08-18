@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png, Clipboard_2020-08-17-20-55-13.png, Clipboard_2020-08-17-20-56-05.png, Clipboard_2020-08-17-20-56-18.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
-modified: '2020-08-18T11:17:59.474Z'
+modified: '2020-08-18T11:37:39.324Z'
 ---
 
 # Module 8: Data Types
@@ -2875,7 +2875,7 @@ We will talk about callback methods in the next video.
 
 ## 48 - Array Cardio - Callback Methods and Function Generation
 
-```
+```js
 /*
   Callback Methods
 */
@@ -2893,17 +2893,17 @@ We will talk about callback methods in the next video.
 
 ```
 
-In this lesson we are going to corver what Wes calls "callback" methods. They aren't actually called callback methods,  Wes just made that up. 
+In this lesson we are going to corver what Wes calls **"callback" methods** methods. They aren't actually called callback methods,  Wes just made that up. 
 
-The reason he is grouping all of these methods into their own section (which is he calling "callback methods") is because before we even hit looping, a lot of these methods take a function as an argument and it's often called a callback. 
+The reason he is grouping all of these methods into their own section (which he is calling "callback methods") is because before we even hit looping, a lot of these methods take a function as an argument and it's often called a callback. 
 
-The one that we have used so far is `find()`. We are going to dig into how these work with find right now. 
+The one that we have used so far is `find()`. We are going to dig into how this work with find right now. 
 
 First we need to find the first rating that talks about a burger using `find()`. 
 
-We have this data that we are working with:
+We have this data to work with  👇
 
-```
+```js
 const feedback = [
   { comment: "Love the burgs", rating: 4 },
   { comment: "Horrible Service", rating: 2 },
@@ -2913,12 +2913,12 @@ const feedback = [
 ];
 ```
 
-We want to find the first one that has either the word burg or burger in it. 
+We want to find the first one that has either the word "burg" or "burger" in it. 
 
 
-Add the following code: 
+Add the following code 👇
 
-```
+```js
 const burgRating = rating.find();
 ```
 
@@ -2928,30 +2928,34 @@ Let's look up `find()` on MDN.
 
 ![](@attachment/Clipboard_2020-04-10-17-17-20.png) 1:23
 
-As you can see, the `find()` function takes a callback as it's argument. As you can see, it takes in the nested arguments of `element`, `index` and `array`, which are optional. Now what does that all mean?
+As you can see, the `find()` function takes a callback as it's argument. It takes in the nested arguments of `element`, `index` and `array`, which are optional.  
+
+What does that all mean?
 
 It means that the argument of `find()` is going to be a function that either returns true or false when it has found the item that it wants. 
 
 We have been doing something like this with an arrow function. 
 
-```
+```js
 const burgRating = feedback.find(rating => rating.comment.incldues('burg'));
 console.log(burg);
 ```
 
 Let's refresh the HTML page, open the console and see how this works. 
 
-
 ![](@attachment/Clipboard_2020-04-10-17-21-48.png) 2:36
 
 As you can see it returned a comment "Love the burgs".
 
 So what is this part we have highlighted in this image below?
+
 ![](@attachment/Clipboard_2020-04-10-17-22-23.png) 2:39
 
-It is a function. We are going to create a function called `findBurgRating` which takes in three arguments, and we know what those are from the MDN docs we looked at a few minutes ago. 
+It is a function. 
 
-First it takes `element`. The element is just a nice way of saying each individual item. So rather than calling it element, we can name it something that is meaningful to use. Wes is choosing to call it a `feedback`.
+Create a function called `findBurgRating` which takes in 3 arguments, and we know what those are from the MDN docs we looked at a few minutes ago. 
+
+First it takes `element`. The element is just a nice way of saying each individual item. So rather than calling it element, we can name it something that is meaningful to use. Wes is choosing to call it `feedback`.
 
 The next argument is going to be the index. That is often shortformed to an `i`. If you ever need to know what index something is when you are in the loop, you have access to it. 
 
@@ -2959,19 +2963,21 @@ The third argument is the array. If you ever need to reference the entire array 
 
 Typically Wes doesn't need to pass both index and array but if you ever do need access to where it is in the array as well as the original array, you can use that. 
 
-You might be asking, why don't we just use reference it by the feedback array? THat is because this function could be reused on multilpe arrays, and in order to make it a function that can be reused on many arrays, we can pass in.
+You might be asking, why don't we just use reference it by the feedback array? 
+
+That is because this function could be reused on multilpe arrays, and in order to make it a function that can be reused on many arrays, we can pass in.
 
 Right now we don't need to pass index or the array, we just care about the feedback (the element argument).
 
-```
+```js
 function findBurgRating(feedback) {
   console.log(feedback);
 }
 ```
 
-Now instead of doing an inline function within our find function, wecan just simply pass the function `findBurgRating` like so: 
+Instead of doing an inline function within the `find` function, we can just simply pass the function `findBurgRating` like so 👇
 
-```
+```js
  function findBurgRating(feedback) {
   console.log(feedback);
 }
@@ -2979,11 +2985,11 @@ const burgRating = feedback.find(findBurgRating);
 console.log(burgRating);
 ```
 
-Noticce that we do not put parenthesis on `findBurgRating`. We do `findBurgRating` instead of `findBurgRating()`. That is because we are not calling the function, we are simply passing it reference to the function and javascript itself is going to run that function once for each item in our feedback array. 
+Notice that we do not put parenthesis on `findBurgRating`. We do `findBurgRating` instead of `findBurgRating()`. That is because we are not calling the function, we are simply passing it reference to the function and javascript itself is going to run that function once for each item in our feedback array. 
 
-Modify the paramter name in `findBurgRating` from `feedback` because it's not singluar. Let's rename it to `singleFeedback` like so: 
+Modify the paramter name in `findBurgRating` from `feedback` because it's not singluar. Rename it to `singleFeedback` like so 👇
 
-```
+```js
 function findBurgRating(singleFeedback) {
   console.log(singleFeedback);
 }
@@ -2991,26 +2997,28 @@ function findBurgRating(singleFeedback) {
 
 ![](@attachment/Clipboard_2020-04-10-17-37-51.png) 4:48
 
-Now when we run this, you see that every comment is console logged in our console. Now what we can do is just add a `return true` to our `findBurgRating` function. 
+Now when we run this, you see that every comment is logged in our console.
 
-```
+Add a `return true` to our `findBurgRating` function. 
+
+```js
 function findBurgRating(singleFeedback) {
   console.log(singleFeedback);
   return true;
 }
 ```
 
-What will happen then is it will only every console log the first one, and then it will stop. 
+What will happen then is it will only every log the first one, and then it will stop. 
 
 ![](@attachment/Clipboard_2020-04-10-17-39-40.png) 5:01
 
 As soon as you return true from the callback function, it thinks you have found the thing you are looking for, and it will then return the item in the array. 
 
-What we can do is within the `findBurgRating()` method, we can add an if statement that looks whether the word burgs or burger is within that `singleFeedback` item's comment. 
+Within the `findBurgRating()` method, add an if statement that looks whether the word burgs or burger is within that `singleFeedback` item's comment. 
 
-Modify the code like so:
+Modify the code like so 👇
 
-```
+```js
 function findBurgRating(singleFeedback) {
   if(singleFeedback.comment.includes('burg')){
     return true;
@@ -3021,15 +3029,17 @@ function findBurgRating(singleFeedback) {
 }
 ```
 
-Now when you refresh, you should see the following logged in the console:
+Now when you refresh, you should see the following logged in the console 👇
 
 ![](@attachment/Clipboard_2020-04-10-17-42-27.png) 5:38
 
 It looped over and found the first item to contain "burg" in the `feedback` array. 
 
-We can refactor that code to make it a bit shorter however. Because we are checking for a condition, and a condition is something that tests whether something is true or not, and `includes()` is a method that willl only ever return true or false, we don't actually have to have an if statement and return true or false ourselves. We can simply get rid of that and simply return the results of the condition, like so:
+We can refactor that code to make it a bit shorter. 
 
-```
+Because we are checking for a condition, and a condition is something that tests whether something is true or not, and `includes()` is a method that will only ever return true or false, we don't actually have to have an if statement and return true or false ourselves. We can simply get rid of that and simply return the results of the condition, like so 👇
+
+```js
 function findBurgRating(singleFeedback) {
   return singleFeedback.comment.includes("burg");
 }
@@ -3039,11 +3049,11 @@ If you refresh the page, you will see that it still works.
 
 That is just one way to do this. You will often see Wes doing it inline, but anytime you find yourself writing the same code more than once, you can refactor it out into it's own reusable function. 
 
-The `findBurgRating` function, just like everything else, can we any type of function. You can do it like we did in the example. 
+The `findBurgRating` function, just like everything else, can be any type of function. 
 
-Or you could modify the function like so:
+You can do it like we did in the example, or you could modify the function like so 👇
 
-```
+```js
 const findBurgRating = function(singleFeedback) {
   return singleFeedback.comment.includes("burg");
 }
@@ -3051,9 +3061,9 @@ const findBurgRating = function(singleFeedback) {
 
 That works the exact same. 
 
-We can also make it an arrow function .
+You can also make it an arrow function. 
 
-```
+```js
 const findBurgRating = (singleFeedback) => {
   return singleFeedback.comment.includes("burg");
 }
@@ -3061,7 +3071,7 @@ const findBurgRating = (singleFeedback) => {
 
 That works too. We could go even one step further and make it an implicit return. 
 
-```
+```js
 const findBurgRating = (singleFeedback) => singleFeedback.comment.includes("burg");
 ```
 
@@ -3071,7 +3081,7 @@ There is one more pretty common way to do this. That is grouping all those find 
 
 What Wes will do is he will create an object called `util` or something, and inside of that, he will put all his helper functions for finding things that he is looking for. 
 
-```
+```js
 const util = {
   findBurgRating: function(singleFeedback) {
     return singleFeedback.comment.includes("burg");
@@ -3079,28 +3089,35 @@ const util = {
 }
 ```
 
-What we have done here is we put the function inside of an object which turns it into a method. Now when we are looking for something, we can just pass it `util.findBurgRating()`.
+What you have done above is you put the function inside of an object which turns it into a method. Now when you are looking for something, you can just pass it `util.findBurgRating()`.
 
-There is actually one more way which is putting them in modules and importing and exporting them. We will look at that when we get back to modules. 
+There is actually one more way, which is putting them in modules and importing and exporting them. We will look at that when we get to modules. 
 
-One other concept is functions that return other functions.  We refer to those as **high-order** functions. 
+One other concept is functions that return other functions.  Those are referred to as **high-order functions**. 
 
-Wes is going to show us how thosee work. Now the `findBurgRating` function is very tied to the word "burg". If we wanted to make another function that looked for another word, like for example the word "smoothie". What we would have to do is duplicate our `findBurgRating` method, and make a `findSmoothieRating` function and then swap out the word we are looking for like so:
+Wes is going to show us how those work. 
 
-```
+The `findBurgRating` function is very tied to the word "burg". If we wanted to make another function that looked for another word, for example the word "smoothie", we would have to duplicate our `findBurgRating` method, and make a `findSmoothieRating` function and then swap out the word we are looking for like so 👇
+
+```js
 const findBurgRating = (singleFeedback) =>  singleFeedback.comment.include("burg");
 const findSmoothieRating = (singleFeedback) =>  singleFeedback.comment.includes("Smoothie");
 const burgRating = feedback.find(findSmoothieRating);
 console.log(burgRating);
 ```
 
-That might seem a bit weird. You may be thinking "Do I have to create a new function for every single word?" The answer is no! We can create a function that will create these functions for us. 
+That might seem a bit weird. 
 
-Comment out of `findBurgRating` and `findSmoothieRating` functions and make another function called `findByWord`, which takes in one argument: word. 
+You may be thinking "Do I have to create a new function for every single word?" 
+The answer is no! 
 
-In that, we are going to return another function which takes in the single feedback and returns true or false based on whether the object includes the word we have passed like so:
+We can create a function that will create these functions for us. 
 
-```
+Comment out the `findBurgRating` and `findSmoothieRating` functions and make another function called `findByWord`, which takes in one argument: `word`. 
+
+In that function, we are going to return another function which takes in the `singleFeedback` and returns true or false based on whether the object includes the word we have passed like so 👇
+
+```js
  function findByWord(word) {
   return function(singleFeedback) {
     return singleFeedback.comment.includes(word);
@@ -3110,16 +3127,18 @@ In that, we are going to return another function which takes in the single feedb
 
 So this function `findByWord` you can think of as a sort of momma function which returns another function, and we have made this function machine which will turn out more functions. 
 
-What we can do here is modify how we grab the burgRating like so:
+What we can do here is modify how we grab `burgRating` like so 👇
 
-```
+```js
 const burgFinder = findByWord('burg');
 const burgRating = feedback.find(burgFinder);
 ```
 
-`burgFinder` is just a function that is setup for finding the word burg and we can pass it to the `find` method.  Now we can do something similar with the word smoothie like so:
+`burgFinder` is just a function that is setup for finding the word burg and we can pass it to the `find` method.  
 
-```
+Now we can do something similar with the word smoothie like so 👇
+
+```js
 const burgFinder = findByWord('burg');
 const burgRating = feedback.find(burgFinder);
 
@@ -3129,9 +3148,9 @@ const smoothieRating = feedback.find(smoothieFinder)
 
 What we have done is created a function, `findByWord`, which makes a function. We have made `findByWord` flexible enough that we can pass it the word we are looking for and it will find the specific word that we want. 
 
-We don't even need the `smoothieFinder` and `burgFinder` variables. We can instead just pass them directly like so:
+We don't even need the `smoothieFinder` and `burgFinder` variables. We can instead just pass them directly like so 👇
 
-```
+```js
 const burgRating = feedback.find(indByWord('burg'));
 const smoothieRating = feedback.find(findByWord('Smoothie'))
 ```
@@ -3140,7 +3159,9 @@ You might be saying, "hold on Wes, I thought you werne't supposed to call a func
 
 The key here is that `findByWord()` function doesn't find the burger itself, instead it returns a function which then, in turn, will find the burg for you.
 
-To demonstrate this, open the console and clear everything. Let's try running `findByWord('burg')` and see what is returned in the console. 
+To demonstrate this, open the console and clear everything. 
+
+Try running `findByWord('burg')` and see what is returned in the console. 
 
 ![](@attachment/Clipboard_2020-04-12-16-02-45.png) 12:37
 
@@ -3154,7 +3175,7 @@ The next exercise is finding all the ratings that are above 2 using `filter()`.
 
 The `filter` method will loop over every single one and either return true (I want to keep it) or false (I don't want to keep it). 
 
-```
+```js
 const goodReviews = feedback.filter(singleFeedback => {
   if(singleFeedback.rating >= 2){
     return true;
@@ -3167,26 +3188,29 @@ console.table(goodReviews);
 
 ![](@attachment/Clipboard_2020-04-12-16-18-00.png) 14:12
 
-As you can see, this also returns an item with a rating of 2 so let's actually change our filter from greater than or equal to 2 to just greater than 2. Now we only get three items returned. 
+As you can see, this also returns an item with a rating of 2 so let's actually change our filter from greater than or equal to 2 to just greater than 2. Now we only get 3 items returned. 
 
 ![](@attachment/Clipboard_2020-04-12-16-19-18.png) 14:28
 
-Now, how can we make this function better? We have done this a few times now so you can feel free to do it yourself. 
+How can we make this function better? We have done this a few times now so you can feel free to do it yourself. 
 
-This function contains a condition that returns true or false, so we can just simple return the condition instead, and use an implict return, like so:
+This function contains a condition that returns true or false, so we can just simple return the condition instead, and use an implict return, like so 👇
 
-```
+```js
 const goodReviews = feedback.filter(singleFeedback => singleFeedback.rating > 2);
 console.table(goodReviews);
 ```
 
 That should work the same.
 
-Now could we do another function like `findByWord`? Yes, we can!
+Now could we do another function like `findByWord`? 
+Yes, we can!
 
-We could add the following function `filterByMinRating`. One thing to note with these filtering and find methods is it is a lot easier if you explicitly name them to describe what they are supposed to do because quite often they will be in another file or something, and it is nice to be able to know what they do just by the name without having to look at the function.
+Add the following function `filterByMinRating`. 
 
-```
+One thing to note with these filtering and find methods is it is a lot easier if you explicitly name them to describe what they are supposed to do because quite often they will be in another file or something, and it is nice to be able to know what they do just by the name without having to look at the function.
+
+```js
 function filterByMinRating(minRating){
   return function(singleFeedback){
     return singleFeedback.rating > minRating;
@@ -3196,31 +3220,36 @@ function filterByMinRating(minRating){
 
 Another thing to note is that the function we are returning does not have to be named. It can be, but there is no need to. 
 
-Our function above takes in a minRating value and then returns another function that checks whether the object passed in contains a rating greater than the minrating that was passed.
+Our function above takes in a `minRating` value and then returns another function that checks whether the object passed in contains a rating greater than the `minRating` that was passed.
 
-Now we can go to our `filter` function and replace the filter by generate another function like so: 
+Now we can go to our `filter` function and replace the filter by generating another function like so 👇
 
-```
+```js
 const goodReviews = feedback.filter(filterByMinRating(2));
 console.log(goodReviews);
 ```
+
 If you refresh the HTML page and open the console, you will see that it still works. 
 
-Now we can change our filter to take any items with a rating over 4 like so: `const goodReviews = feedback.filter(filterByMinRating(4));`
+Now we can change our filter to take any items with a rating over 4 like so: 
+
+```js
+const goodReviews = feedback.filter(filterByMinRating(4));
+```
 
 ![](@attachment/Clipboard_2020-04-12-16-28-20.png) 16:25
 
 
-The next exercuise asks use to find all the ratings that talk about a burger using filter. 
+The next exercuise asks use to find all the ratings that talk about a burger using `filter`. 
 
-```
+```js
 const burgRatings = feedback.filter(singleFeedback => singleFeedback.comment.includes('burg'));
 console.table(burgRatings);
 ```
 
 You might be saying "hold on Wes, didn't we already do that with our `findByWord` function?". Yes, we did! What we can do is we can actually just reuse the function in our filter like so:
 
-```
+```js
 const burgRatings = feedback.filter(findByWord('burg'));
 console.table(burgRatings);
 ```
@@ -3234,13 +3263,14 @@ So what we have done is we have written a javascript function, `findByWord` that
 It is fine if you don't create re-usable functions all the time, because sometimes a small little arrow function just does the trick. However it is good to know that if you ever keep repeating yourself over and over than you should probably refactor to save yourself some typing. 
 
 The next exercise is to remove the 1 star rating, however we like. 
+
 Let's take a look at the one star rating.
 
 ![](@attachment/Clipboard_2020-04-12-16-38-32.png) 18:25 
 
-So there is a few ways we could find the one star rating. We could filter out comments that are done in all caps, filter ratings that are equal to 1. We will go with the second approach. 
+So there is a few ways we could find the one star rating. We could filter out comments that are done in all caps, or filter ratings that are equal to 1. Let's go  with the second approach. 
 
-```
+```js
 const legitRatings = feedback.filter(single => single.rating === 1);
 console.log(legitRatings);
 ```
@@ -3248,9 +3278,13 @@ Note: notice this time we didn't name the variable that represents each instance
 
 ![](@attachment/Clipboard_2020-04-12-16-48-40.png) 19:11
 
-As you can see above, that gives us the 1 star rating. However we want everything but the one star rating. So how do we get the opposite of that? We can simply put a bang infront of our condition like so: 
+As you can see above, that gives us the 1 star rating. However we want everything but the one star rating. 
 
-```
+How do we get the opposite of that? 
+
+We can simply put a bang infront of our condition like so 👇
+
+```js
 const legitRatings = feedback.filter(single => single.rating !== 1);
 console.log(legitRatings);
 ```
@@ -3270,25 +3304,31 @@ Let's take a look at `meats`.
 
 ![](@attachment/Clipboard_2020-04-12-16-57-54.png) 20:18
 
-As you can see, it's an object. All of the stuff we have been learning about is arrays. How do you convert an object into an array so you can use these methods on it?
+As you can see, it's an object. All of the stuff we have been learning about is arrays. 
+
+How do you convert an object into an array so you can use these methods on it?
 
 We can use `.entries()`, `.keys()`, or `.values()`. We will use `values()`. 
 
-```
+```js
 const isThereEnoughOfAtLeastOneMeat = Object.values(meats);
 ```
 
-Next we will chain the `some` method onto our newly created array. `some` will loop over each item which we will call `meatValue` and check to see if it's equal to or greater than 5 like so:
+Next we will chain the `some` method onto our newly created array. 
 
-```
+`some` will loop over each item which we will call `meatValue` and check to see if it's equal to or greater than 5 like so 👇
+
+```js
 const isThereEnoughOfAtLeastOneMeat = Object.values(meats).some(meatValue => meatValue >= 5);
 ```
 
-When we converted the meats object into an array of values, it returned the following:
+When we converted the `meats` object into an array of values, it returned the following 👇
 
 ![](@attachment/Clipboard_2020-04-12-17-02-23.png) 21:06
 
-Next, we check if at least one of the values in that array is greater than or equal to 5. Next we will console.log the value of `isThereEnoughOfAtLeastOneMeat`, which should return true. 
+Next, we check if at least one of the values in that array is greater than or equal to 5. 
+
+Log the value of `isThereEnoughOfAtLeastOneMeat`, which should return true. 
 
 ![](@attachment/Clipboard_2020-04-12-17-03-38.png) 21:16
 
@@ -3300,9 +3340,11 @@ Let's say you have 5 people in a family, and you want to make sure there is at l
 
 `every` means make sure every single thing in that array meets our criteria. 
 
-Let's duplicate the code we added above and rename the variable to `isThereEnoughOfEveryMeat`. Next we will change the method from `some` to an `every` and change the condition to check whether the value is greater than or equal to 3.  like so:
+Duplicate the code you added above and rename the variable to `isThereEnoughOfEveryMeat`. 
 
-```
+Change the method from `some` to an `every` and change the condition to check whether the value is greater than or equal to 3, like so 👇
+
+```js
 const isThereEnoughOfEveryMeat = Object.values(meats).every(meatValue => meatValue >= 3);
 console.log(isThereEnoughOfEveryMeat);
 ```
@@ -3311,13 +3353,13 @@ If you refresh that in the console, you should see true.
 
 The next exercise says to sort the toppings alphabetically with `.sort()`. That is a different kind of callback function there. 
 
-So let's say we have an array of numbers and we call sort on it, like so:
+So let's say we have an array of numbers and we call sort on it, like so 👇
 
-```
+```js
 [1,2,100].sort()
 ```
 
-We are returning the following:
+We are returning the following 👇
 ![](@attachment/Clipboard_2020-04-12-17-10-08.png) 22:45
 
 If we try adding a few more numbers to the array and then calling sort, we get the following: ![](@attachment/Clipboard_2020-04-12-17-11-03.png) 23:01
@@ -3336,19 +3378,19 @@ So what was happening when we were sorting our numbers array is it was convertin
 
 Let's do an example before we get into our exercise to demonstrate how it would work if you do want to sort numbers. 
 
-```
+```js
 const numbers = [1,2,100,3,200,400,155];
 const numbersSorted = numbers.sort();
 console.log(numbersSorted);
 ```
 
-First we are going console log to see what it looks like when we call `.sort()` directly one it. 
+First log to see what it looks like when we call `.sort()` directly one it. 
 
 ![](@attachment/Clipboard_2020-04-12-17-15-36.png) 24:13
 
 That is clearly not what we want. 
 
-So the way sort works is it takes a compare callback function that defines the sort order. That callback function give syou the first and the second thing. 
+The way sort works is it takes a compare callback function that defines the sort order. That callback function gives you the first and the second thing. 
 
 So basically we are going to loop over the array and it will give us the first item, and the second thing, and then it's up to us to decide the sort order (if one item should go infront of the other, etc). 
 
@@ -3356,11 +3398,11 @@ So, what do you return?
 
 ![](@attachment/Clipboard_2020-04-12-17-18-34.png) 24:45
 
-If you return less than zero, it will go before it. If you return zero, it will be unchanged, and if you return greater than zero it will go ahead of it. 
+If you return less than 0, it will go before it. If you return 0, it will be unchanged, and if you return greater than 0 it will go ahead of it. 
 
-We will create a regular  function as our callback function for now
+We will create a regular function as our callback function for now. 
 
-```
+```js
 const numbersSorted = numbers.sort(function(firstItem, secondItem){
   console.log(firstItem, secondItem);
 });
@@ -3369,13 +3411,17 @@ console.log(numbersSorted);
 
 ![](@attachment/Clipboard_2020-04-12-17-21-05.png) 25:23
 
-As you can see we get two items each time. We get item1 which you can think of as being in the left hand and item2 which you can think of as being in the right hand and it's up to you, the developer, to tell javascript whether the items should switch places or remain the same. As javascript loops over those things, you keep switching them and eventually it will run through it enough times that there are no more switches, and that is how it knows its done. 
+As you can see we get 2 items each time. 
 
-So what we can do is we can return 0, -1, or 1. You can return any value, up or down, and thats what we are going to do in our sort callback function. 
+We get `item1` which you can think of as being in the left hand and `item2` which you can think of as being in the right hand and it's up to you, the developer, to tell javascript whether the items should switch places or remain the same. As javascript loops over those things, you keep switching them and eventually it will run through it enough times that there are no more switches, and that is how it knows its done. 
 
-So if the first item is greater than the second item, we want to return 1. Else if, we will check whether the second item is greater than the first item. If it is, then we will return -1. If the numbers are the same, we will return 0; 
+So what we can do is we can return 0, -1, or 1. You can return any value, up or down, and that's what we are going to do in our sort callback function. 
 
-```
+So if the first item is greater than the second item, we want to return 1. 
+Else if, we will check whether the second item is greater than the first item. If it is, then we will return -1. 
+If the numbers are the same, we will return 0. 
+
+```js
 const numbersSorted = numbers.sort(function(firstItem, secondItem){
   if(firstItem > secondItem){
     return 1;
@@ -3395,11 +3441,11 @@ Let's refresh the page to see how that works.
 
 ![](@attachment/Clipboard_2020-04-12-17-25-16.png) 26:38
 
-So that works, but it's pretty verbose and we don't have to return 1, -1 or zero. You an return any zero, negative number or positive number. 
+So that works, but it's pretty verbose and we don't have to return 1, -1 or zero. You can return any zero, negative number or positive number. 
 
-Because the items we are looping over are numbers, we can get aray with just returning the seconditem - first item. 
+Because the items we are looping over are numbers, we can get aray with just returning the `secondItem - firstItem`. 
 
-```
+```js
 const numbersSorted = numbers.sort(function(firstItem, secondItem){
   return secondItem - firstItem; 
 });
@@ -3410,38 +3456,38 @@ console.log(numbersSorted);
 
 Oops, that returns it in the wrong order. It should be `firstItem - secondItem`.
 
-So how do you know? Just do it one way and if your array is backwards, switch them. 
+How do you know? Just do it one way and if your array is backwards, switch them. 
 
-So it's going to reutrn 1-2, which would be -1 which will move it to the beginning of the array. Then it will get 100 - 2, and those numbers just help it learn how to sort itself. 
+So it's going to return `1-2`, which would be `-1` which will move it to the beginning of the array. Then it will get `100 - 2`, and those numbers just help it learn how to sort itself. 
 
-So by default, it will sort itself on strings. So if you did have strings like 
+So by default, it will sort itself on strings. So if you did have strings like 👇
 
-```
+```js
 ['a','z','e','r','b'].sort()
 ```
 
-It will sort it easily, like so:
+It will sort it easily, like so 👇
 
 ![](@attachment/Clipboard_2020-04-12-17-30-09.png) 27:52
 
 But if you have numbers or nested elements, then you have to use a callback like we did. 
 
-We can convert our example from above to an arrow function also like so: 
+We can convert our example from above to an arrow function also like so 👇
 
-```
+```js
 const numbersSorted = numbers.sort(\(firstItem, secondItem) => secondItem - firstItem);
 console.log(numbersSorted);
 ```
 
-If you refresh the HTML page, you will see it still works:
+If you refresh the HTML page, you will see it still works 👇
 
 ![](@attachment/Clipboard_2020-04-12-17-33-15.png) 28:26
 
 So now back to our exercise about sorting the toppings alphabetically using `sort()`.
 
-That is easy. We just need to do 
+That is easy. We just need to do add the following code 👇
 
-```
+```js
 console.log(toppings.sort());
 ```
 
@@ -3451,17 +3497,18 @@ The next exercise is sorting the order totals from most expensive to leat with `
 
 ![](@attachment/Clipboard_2020-04-12-17-35-17.png) 28:53
 
-So this is just an array of numbers. We can do the same thing we did before, or we can make a function called `numbersSort` like so:
+So this is just an array of numbers. 
+We can do the same thing we did before, or we can make a function called `numbersSort` like so:
 
-```
+```js
 function numbersSort(a,b){
   return a - b;
 }
 ```
 
-Now we can call sort and just pass in that function like so:
+Now we can call `sort` and just pass in that function like so 👇
 
-```
+```js
 console.log(orderTotals.sort(numbersSort))
 ```
 
@@ -3473,11 +3520,13 @@ Next we need to sort the prices with sort.
 
 ![](@attachment/Clipboard_2020-04-12-17-38-45.png) 29:26
 
-Since `prices` is an object, how would we sort them? We can use `Object.entries()`. However, we need to keep the thing we are sorting along with it.  So how would we do that?
+Since `prices` is an object, how would we sort them? 
+
+We can use `Object.entries()`. However, we need to keep the thing we are sorting along with it.  How would we do that?
 
 Let's do it step by step. 
 
-```
+```js
 const productsSortedByPrice = Object.entries(prices);
 ```
 
@@ -3485,21 +3534,21 @@ As you can see, that gives us an array where each item is an array.
 
 ![](@attachment/Clipboard_2020-04-12-17-40-55.png) 30:12
 
-Now, what we can do is sort over each of them. We will use a regular function for that which takes in two parameters, the first item and the second item which we will represent with the variables `a` and `b`. 
+Now, what we can do is sort over each of them. We will use a regular function for that which takes in 2 parameters, the first item and the second item which we will represent with the variables `a` and `b`. 
 
 Wes isn't a fan typically of using short variable names but in this case, he is fine with it. 
 
-```
+```js
 const productsSortedByPrice = Object.entries(prices).sort(function(a,b){
   debugger;
 })
 ```
 
-If you refresh HTMl page, the debugger will popup. You should see something like the following:
+If you refresh HTMl page, the debugger will popup. You should see something like the following 👇
 
 ![](@attachment/Clipboard_2020-04-12-17-44-45.png) 30:58
 
-The important part is the local scope, meaning that what are these a and b variables equal to? 
+The important part is the local scope, meaning that what are these `a` and `b` variables equal to? 
 
 ![](@attachment/Clipboard_2020-04-12-17-45-26.png) 31:02
 
@@ -3509,7 +3558,7 @@ It tells us that `a` is equal to burger and `b` is equal to hotdog.
 
 It says they are both arrays. 
 
-```
+```js
 const aPrice = a[1];
 const bPrice = b[1];
 debugger;
@@ -3518,7 +3567,7 @@ debugger;
 ![](@attachment/Clipboard_2020-04-12-17-51-04.png) 31:51
 
 
-```
+```js
 const productsSortedByPrice = Object.entries(prices).sort(function(a,b){
   const aPrice = a[1];
   const bPrice = b[1];
@@ -3533,7 +3582,7 @@ As you can see, we return the most expensive to the least expensive.
 
 If we wanted to turn that back into an object we can simply wrap it in `Object.fromEntries()`. 
 
-```
+```js
 Object.fromEntries(productsSortedByPrice);
 ```
 
@@ -3541,7 +3590,9 @@ Object.fromEntries(productsSortedByPrice);
 
 What that does is it takes a nested array, like we have here, and turns it back into a regular objects. 
 
-Remember earlier when we were learning about objects and how they are not order-sensitive? Wes has since found out that they have added it to the language where they are maintained in the order in which you put them in, except if they have numbers, in always goes to the top and then the other ones come after it. 
+Remember earlier when we were learning about objects and how they are not order-sensitive? 
+
+Wes has since found out that they have added it to the language where they are maintained in the order in which you put them in, except if they have numbers, in always goes to the top and then the other ones come after it. 
 
 Wes spends most of his time working with these sorts of functions. 
 

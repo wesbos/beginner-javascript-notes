@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png, Clipboard_2020-08-19-07-50-40.png, Clipboard_2020-08-19-07-50-42.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T11:58:38.565Z'
+modified: '2020-08-19T12:58:07.275Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -1740,48 +1740,68 @@ They are not as popular as the array methods that we are working with. However, 
 
 We will be working out of the `for-loops.html` file. 
 
-Let's start with our `for` loop. The way it works is you type `for` with parenthesis and then you open and close a block. 
+### The for loop
 
-Let's look at the four loop docs really quickly. 
+Let's start with the for loop. The way it works is you type `for` with parenthesis and then you open and close a block. 
+
+Let's look at the for loop docs really quickly. 
 
 ![](@attachment/Clipboard_2020-04-16-20-23-27.png) 00:36
 
-The four loop requires three things:
+The for loop requires three things:
 1. an initial expression
 2. a condition
 3. an increment expression
 
-The plain for loop is great for runnning a block of code x number of times for example 5 times or 6 times. 
+The plain for loop is great for runnning a block of code a certain number of times for example 5 times. 
 
-Let's do the most basic example that we can first. 
+Let's start with an extremely basic example. 
 
-First add the initial expression `let i = 0;` within the parenthesis, then we add the condition which is if `i` is less than or equal to 10 `i <= 10;` and finally we have the increment expression which is `i++`.
+Add the code below. 
 
-```
+```js
 for(let i = 0; i<= 10; i++){
   console.log(i);
 }
 ```
 
+What we did above is:
+- we added the initial expression `let i = 0;` within the parenthesis
+- then we added the condition if `i` is less than or equal to 10, `i <= 10;`
+- finally we have the increment expression which is `i++`
+
+
 If you open up the page in a browser and look at the console, you should see 0 through 10 logged, just like in the image below.
 
 ![](@attachment/Clipboard_2020-04-16-20-28-56.png) 20:28
 
-So what has happened there is we looped from 0 to 10, so we looped 11 times over, and logged what the i variable equals. 
+What has happened in the code is we looped from 0 to 10, so we looped 11 times over, and logged what the `i` variable equals. 
 
 Let's go through this piece by piece to make sure we understand it. 
 
-So the first piece, the initial expression `let i = 0;`, you can think of as sort of a setup for the code we are about the write.
+You can think of the first piece, the initial expression, as sort of a setup for the code you are about the write. 
 
-Second is the condition, which is our example is `i <= 10`. The condition will run each time before each loop runs. If the condition is true, then the loop will run one more time, and so on until the condition is false. Once the condition is false, the loop will no longer run and it will just move on to the next lines of code underneath it. 
+```js
+let i = 0;
+```
 
-Finally, we have `i++` which is the increment. In this case, what we are doing is we are taking the `i`, which we have set to zero, and it by 1 every time our loop runs. That lets us access this variable, `i`, inside of the loop. 
+The second piece, the condition, will run each time before the loop runs. In our example the condition is `i <= 10`. 
+
+If the condition is true, then the loop will run one more time, and so on until the condition is false. 
+
+Once the condition is false, the loop will no longer run and it will just move on to the next lines of code underneath it. 
+
+Finally, the last piece is the increment, which in our example is `i++`. 
+
+In this example, we are taking `i`, which we have set to 0, and incrementing it by 1 every time our loop runs. That lets us access this variable, `i`, inside of the loop. 
 
 You might be wondering why we made the `i` variable a `let` instead of a `const`. 
 
 ![](@attachment/Clipboard_2020-04-17-08-17-37.png) 2:18
 
-As you can see, it logs 0 then returns an error. Let's go over why.
+As you can see, it logs 0 then returns an error. 
+
+Let's go over why.
 
 The first time the loop runs, the setup is run (the initial expression) which assigns a variable called `i` and sets it to 0.
 
@@ -1792,11 +1812,13 @@ Once the loop block has finished running, it comes back and increments the `i` v
 The error we get in the console is 
 >Uncaught TypeError: Assignment to constant variable.
 
-You cannot increment a constant variable, so that is a bit of an issue, which is why we use a let instead.
+You cannot increment a constant variable, so that is a bit of an issue, which is why we use a `let` instead.
 
-What else can you do with `for` loops? They are helpful for if you want to start at say 100, go until i is greater than or equal to 120 and increment by 2.
+What else can you do with `for` loops? 
 
-```
+They are helpful for if you want to start at say 100, go until `i` is greater than or equal to 120 and increment by 2.
+
+```js
 for(let i = 100; i < 120; i += 2){
   console.log(i);
 }
@@ -1804,17 +1826,27 @@ for(let i = 100; i < 120; i += 2){
 
 ![](@attachment/Clipboard_2020-04-17-08-24-38.png) 3:11
 
-As you can see, this loop is fairly flexible, in incrementing the way that we want. 
+As you can see, this loop is fairly flexible in incrementing the way that we want. 
 
-One thing to note is the last part, the increment part, of the for loop doesn't have a semi colon. If you try to add it like so `for(let i = 100; i <= 200; i += 2;)`. You will get an exception of "Uncaught SyntaxError". Thankfully your ESLint should catch that for you and yell at you.
+One thing to note is the last part of the loop, the increment part, doesn't have a semi colon. 
 
-Traditionally, for loops were used to loop over something, like an array of numbers. It very well may be that you see this in the wild so Wes is going to show us how it works.
+If you try to add it like so `for(let i = 100; i <= 200; i += 2;)`. You will get an exception of "Uncaught SyntaxError". 
+Thankfully your ESLint should catch that for you and yell at you.
 
-You might notice that we are using a variable named `i` again in this example and wondering how that is possible because we have already used it. That is the beauty of let. Even though the assignment of the variable `i` is the in parenthesis, it's actually scoped to its body so you are able to reuse it. 
+Traditionally, for loops were used to loop over something, like an array of numbers. 
 
-When we used to just have var variables, that was not the case. Let's demonstrate how it used to work with var. Add the following code
+It very well may be that you see this in the wild so Wes is going to show us how it works.
 
-```
+You might notice that we are using a variable named `i` again in this example and wondering how that is possible because we have already used it. 
+That is the beauty of `let`. Even though the assignment of the variable `i` is the in parenthesis, it's actually scoped to it's body so you are able to reuse it. 
+
+When we used to just have `var` variables, that was not the case. 
+
+Let's demonstrate how it used to work with `var`. 
+
+Add the following code 👇
+
+```js
 for(var i = 0; i <= 120; i +=2){
   console.log(i);
 }
@@ -1824,11 +1856,16 @@ console.log(i);
 
 ![](@attachment/Clipboard_2020-04-17-08-31-27.png) 4:23
 
-Our code logged 100-120 but then suddenly we see 22. Why is that? Because the last time the loop ran, that variable was incremented, so the condition was no longer true but the value of the i variable was globally scoped so it remained 22. So if we wanted to make another loop and we had used `var i`, we would have to find another variable name. 
+Our code logged 100-120 but then suddenly we see 22. 
+Why is that? 
 
-So if you wanted to loop over the array the old fashioned way, you could do this. 
+Because the last time the loop ran, that variable was incremented, so the condition was no longer true but the value of the `i` variable was globally scoped so it remained 22. 
 
-```
+So if we wanted to make another loop and we had used `var i`, we would have to find another variable name. 
+
+If you wanted to loop over the array the old fashioned way, you could do this. 👇
+
+```js
 for(let i = 0; i < numbers.length; i++){
   console.log(i);
 }
@@ -1838,10 +1875,9 @@ for(let i = 0; i < numbers.length; i++){
 
 As you can see, it logged 0 to 11 because there are 12 numbers in our `numbers` array (you can check the length by typing `numbers.length` in the console).
 
-Now to access the individual number, you would have to use the index to retreive it using square brackets like so:
+Now to access the individual number, you would have to use the index to retreive it using square brackets like so 👇
 
-
-```
+```js
 for(let i = 0; i < numbers.length; i++){
   console.log(numbers[i]);
 }
@@ -1849,27 +1885,29 @@ for(let i = 0; i < numbers.length; i++){
 
 ![](@attachment/Clipboard_2020-04-17-08-36-11.png) 5:29
 
-That is the way loops used to be done. It is much easier now with a `foreach` and `map` and `reduce` methods. If you do see the old way, maybe ask yourself can I refactor that.
+That is the way loops used to be done. It is much easier now with a `foreach` and `map` and `reduce` methods. If you do see the old way, maybe ask yourself can I refactor that?
 
-Another place that `for` loops are useful is when you are working with canvas. If you remember back to our Etch-a-Sketch exercise, the canvas element actually has a method on it called `getImageData` that will allow us to pull the stuff out of that canvas. 
+Another place that `for` loops are useful is when you are working with canvas. 
+
+If you remember back to our Etch-a-Sketch exercise, the canvas element actually has a method on it called `getImageData` that will allow us to pull the stuff out of that canvas. 
 
 ![](@attachment/Clipboard_2020-04-17-08-39-58.png) 6:40
 
-If you open the etch-a-sketch html file, draw in the top left hand corner of the etch-a-sketch and then inspect the canvas, if you click on the canvas element in the inspector and then flip to the console and type `$0`, you should get the canvas element returned. 
+If you open the `etch-a-sketch.html` html file, draw in the top left hand corner of the etch-a-sketch and then inspect the canvas, if you click on the canvas element in the inspector and then flip to the console and type `$0`, you should get the canvas element returned. 
 
-Now if you type into the console `ctx` which is the canvas context, we can call `ctx.getImageData(0,0,100,100)`.  
+You should be able to access `ctx` which is the canvas context in the console. Call the following code from the console: `ctx.getImageData(0,0,100,100)`.  
 
-What that returns to us is, this data array with a lot of items, 40000 in our case.
+That returns a data array with a lot of items, 40000 in our case.
 
 ![](@attachment/Clipboard_2020-04-17-08-40-48.png) 6:49
 
-It is a special kind of array called a ClamedArray which is used when you have very, very, very large arrays.
+It is a special kind of array called a **ClampedArray** which is used when you have very, very, very large arrays.
 
-The contents of the array are numbers like 255, 0, 119. What those are are RGBA values. 
+The contents of the array are numbers like 255, 0, 119, and they represent RGBA values. 
 
 ![](@attachment/Clipboard_2020-04-17-08-42-00.png) 7:15
 
-What we did was pulled out the raw data from the canvas element, and it returned to us for every 4 pixel 4 values. 
+What that code did is it pulled the raw data from the canvas element, and for each pixel on the canvas, it is returning 4 values. 
 
 ![](@attachment/Clipboard_2020-04-17-08-44-32.png) 8:09
 
@@ -1885,9 +1923,13 @@ That is the only place that Wes still uses a for loop.
 
 The `for of` loop is fairly new to the language and it is actually pretty nice. 
 
-So what is it? It is used for looping over iterables. If you can recall, an iterable is anything that has a length, so something like an array or a string. 
+So what is it? 
 
-Let's say we wanted to log all the letters in the `name` variable. We could do that like so: 
+It is used for looping over iterables. If you can recall, an **iterable** is anything that has a length, so something like an array or a string. 
+
+Let's say you wanted to log all the letters in the `name` variable. 
+
+You could do that like so: 
 
 ```
 const name = 'Wes Bos';
@@ -1895,18 +1937,17 @@ const name = 'Wes Bos';
 for(const letter of name){
   console.log(letter);
 }
-
 ```
 
 ![](@attachment/Clipboard_2020-04-17-08-52-16.png) 9:24 
 
-Why would that be better than splitting the string into an array and using forEach like we have learned in a previous execise? 
+Why would that be better than splitting the string into an array and using `forEach` like we have learned in a previous execise? 
 
 One thing is it can handle emojis. 
 
 ![](@attachment/Clipboard_2020-04-17-08-54-09.png) 9:48
 
-For the family emoji, if you console log it you will see we get the family emoji and then the modified, which is peach skin. 
+For the family emoji, if you log it, you will see we get the family emoji and then the modifier, which is peach skin. 
 
 ![](@attachment/Clipboard_2020-04-17-08-54-50.png)9:58
 

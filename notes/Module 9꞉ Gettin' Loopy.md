@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T00:36:40.474Z'
+modified: '2020-08-19T10:02:21.233Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -537,7 +537,7 @@ Each person is signified by an object, and each person has a `birthday`, and a `
 
 That data is okay but it's not in the format that we need. That happens all the time when you are working with APIs. 
 
-So what we have to do is take in that data, "massage" it a little bit and then return the new formatted data that we want. 
+So what we have to do is take in that data and "massage" it a little bit and then return the new formatted data that we want. 
 
 Go ahead and do that, as shown below 👇
 
@@ -553,9 +553,11 @@ It is fine to log within a `map` function, just don't ever do things like updati
 
 The first thing we need this function to do is get the person's birthday, and then figure out how old they are, and then return their full name and birthday in an object. 
 
-First we have to get their birthday, which is stored in a string like "February 12, 1944". That is not very helpful to us because when you want to work with dates in Javascript, it has to be changed over to what is called a Javascript date.
+First we have to get their birthday, which is stored in a string like "February 12, 1944". 
 
-Wes will show us how we can do that within our inline map function like so:
+That is not very helpful to us because when you want to work with dates in Javascript, it has to be changed over to what is called a **Javascript Date**.
+
+You can do that within the inline map function like so 👇
 
 ```js
 const cleanPeople = people.map(function(person){
@@ -564,15 +566,19 @@ const cleanPeople = people.map(function(person){
 })
 ```
 
-If you don't pass a date when you create a date in Javascript like so `new Date()`  it will give you the current date time like so:
+If you don't pass a date when you create a date in Javascript as shown below, it will give you the current date time.
+
+```js
+new Date()
+``` 
 
 ![](@attachment/Clipboard_2020-04-14-19-02-38.png) 14:17
 
-The date you see in the console is the date that Wes is recording the video. 
+The date you see in the console in the video is the date that Wes is recording the video. 
 
-If you do however pass `new Date()` a string of a date like we have access to with `person.birthday`, it will return that date. 
+If you do pass a string of a date to `new Date()`, like we have access to with `person.birthday`, it will return that date. 
 
-```
+```js
 const cleanPeople = people.map(function(person){
   console.log(person);
   const birthday = new Date(person.birthday);
@@ -584,15 +590,15 @@ const cleanPeople = people.map(function(person){
 
 As you can see, for each person we log the person and then it actual logs a true javascript date.
 
-HOT TIP: Use `console.dir(birthday)` to see all the methods that exist on a Date object.
+_HOT TIP 🔥: Use `console.dir(birthday)` to see all the methods that exist on a Date object._
 
 If the date that you pass to the `new Date()` function doesn't have a time value, it will default to midnight. 
 
-Now that we have the birthday, we want to figure out how old the person is. In order to do that, we need to know what is right now. 
+Now that we have the birthday, we want to figure out how old the person is. In order to do that, we need to know the curent date. 
 
-Modify our inline function like so to capture the current date in the variable `now` like so: 
+Modify the inline function like so to capture the current date in the variable `now` 👇
 
-```
+```js
 const cleanPeople = people.map(function(person){
   const birthday = new Date(person.birthday);
   const now = new Date();
@@ -602,22 +608,24 @@ const cleanPeople = people.map(function(person){
 
 ![](@attachment/Clipboard_2020-04-14-19-07-49.png) 15:20
 
-As you can see we have three different dates showing up. 
+As you can see we have 3 different dates showing up. 
 
 There are a number of methods on a Date in javascript that allow you to work with it. 
 
 What Wes likes to do when comparing dates or trying to figure out how much time is in between two dates, is to change them into **timestamps**. 
 
-Let's open up the console and run the code below, you will see that we get a number returned to us.
+Open up the console and run the code below. You will see that we get a number returned to us.
 
-```
+```js
 const now = new Date();
 now.getTime();
 ```
 
 ![](@attachment/Clipboard_2020-04-14-19-11-00.png) 15:48
 
-That number might look random but it is actually not random at all. That is the number of milliseconds since January 1, 1970. That is the time when they said okay, this is when date starts. Any dates that are negative, go back from that time and any dates that are positive go forward for that time. 
+That number might look random but it is actually not random at all. 
+
+That is the number of milliseconds since January 1, 1970. That is the time when they said okay, this is when date starts. Any dates that are negative, go back from that time and any dates that are positive go forward for that time. 
 
 There is actually a shortcut to get the timestamp and that is using `Date.now()`. If you try running that a few times in the console, the number should change each time.
 
@@ -633,11 +641,13 @@ It also allows you to do the opposite. It will take in a timestamp and convert i
 
 So back to our inline map function, we don't want to just grab the persons birthday and convert it to a date, we want to convert it to a full blown timestamp. 
 
-We can do that by chaining the `getTime` method to our `new Date(person.birthday).getTime();`. 
+We can do that by chaining the `getTime` method onto `new Date(person.birthday).getTime();`. 
 
-For the `now` variable, we will use `Date.now()` to get the timestamp instead of `new Date()`.  `.now()` is a static method because it lives on the `Date` object.
+For the `now` variable, wuse `Date.now()` to get the timestamp instead of `new Date()`.  
 
-```
+`.now()` is a static method because it lives on the `Date` object.
+
+```js
 const cleanPeople = people.map(function(person){
   const birthday = new Date(person.birthday).getTime();
   const now = Date.now();
@@ -645,53 +655,60 @@ const cleanPeople = people.map(function(person){
 })
 ```
 
-Now we want to find out what the difference is between the two like so: 
+To find the difference between the two dates, use the following code 👇
 
-```
+```js
 const age = now - birthday;
 console.log(age);
 ```
 
 ![](@attachment/Clipboard_2020-04-14-19-18-55.png) 18:12
 
-That is how old each person is in miliseconds. We need to convert it into years. We need to do some math for that. Let's ask ourselves how many miliseconds in a year. We know there are 1000 miliseconds in a second, there is 60 seconds in a minute, there is 60 minutes in an hour, there are 24 hours in a day and 365 days in a year.
+That is how old each person is in miliseconds. 
 
-1000 x 60 x60 x 24 x 365 = 31536000000
+We need to convert it into years. We need to do some math for that. 
 
-There are other ways to do dates that will account for leap years and all that. There are whole libraries out there like the date functions library date-fns. Those libraries provide you with a whole bunch of robust tools for working with dates. 
+Let's ask ourselves how many miliseconds in a year. We know there are 1000 miliseconds in a second, there is 60 seconds in a minute, there is 60 minutes in an hour, there are 24 hours in a day and 365 days in a year.
 
-So we will take our age calculation timestamp and divide it by that number like so:
+`1000 x 60 x60 x 24 x 365 = 31536000000`
 
-```
+There are other ways to do dates that will account for leap years and all that. 
+
+There are whole libraries out there like the date functions library **date-fns**. Those libraries provide you with a whole bunch of robust tools for working with dates. 
+
+Take our age calculation timestamp and divide it by that number like so 👇
+
+```js
 const cleanPeople = people.map(function(person){
   const birthday = new Date(person.birthday).getTime();
   const now = Date.now();
   const age = now - birthday / 31536000000;
   console.log(age);
 })
-
 ```
 
 ![](@attachment/Clipboard_2020-04-14-19-23-24.png) 19:22
 
-We have those decimals and what we will do is just take the lower bound of their number because if they haven't hit their next birthday yet, you would say you are 26 years old. 
+That leaves us with some decimals which we can just take the lower boudn of their number, because if they haven't hit their next birthday yet, you would say you are 26 years old. 
 
-How do we take the lower bound of any number? It's not round because you don't round up to say how old you are. You take the lower bound with `Math.floor`. 
+How do we take the lower bound of any number? 
 
-Modify the code like so:
+It's not round because you don't round up to say how old you are. 
+You take the lower bound with `Math.floor`. 
 
-```
+Modify the code like so 👇
+
+```js
 const age = Math.floor(now - birthday / 31536000000);
 ```
 
 ![](@attachment/Clipboard_2020-04-14-19-25-05.png) 19:52
 
-Now that we have their birthday and figured out how old they are, we now want to return their full name and birthday in an object.
+Now that we have their birthday and figured out how old they are, we want to return their full name and birthday in an object.
 
-To do this we will simply return an object from our inline function that has a property of `age `which is equal to our `age` variable, and then the `name` property will be the person's last and first name variables combined using interpolation as shown below. 
+To do this, simply return an object from the inline function that has a property of `age `which is equal to our `age` variable, and then the `name` property will be the person's last and first name variables combined using interpolation as shown below. 
 
-
-```
+```js
 const cleanPeople = people.map(function(person){
   const birthday = new Date(person.birthday).getTime();
   const now = Date.now();
@@ -704,8 +721,9 @@ const cleanPeople = people.map(function(person){
 })
 ```
 
-Note: as mentioned before, if the property is the same name as the variable, we could have returned the object like so:
-```
+Note: as mentioned before, if the property is the same name as the variable, we could have returned the object like so  👇
+
+```js
  return {
     age,
     name: `${person.name.first} ${person.name.last}`,
@@ -714,9 +732,9 @@ Note: as mentioned before, if the property is the same name as the variable, we 
 
 They both work the exact same way.
 
-Now let's console.table our `cleanPeople` like so:
+Let's log `cleanPeople` in a table. 
 
-```
+```js
 console.table(cleanPeople);
 ```
 
@@ -724,7 +742,7 @@ console.table(cleanPeople);
 
 As you can see we have everyones name and age. 
 
-So once again, that is what Map does. It takes in some data that doesn't look exactly how you like it. You do  a bunch of data massaging and then spit it out the other end. 
+That is what `map` does. It takes in some data that doesn't look exactly how you like it. You do a bunch of data massaging and then spit it out the other end. 
 
 ---
 

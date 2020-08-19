@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T10:02:21.233Z'
+modified: '2020-08-19T10:09:47.451Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -748,15 +748,23 @@ That is what `map` does. It takes in some data that doesn't look exactly how you
 
 ## 51 - Looping and Iterating = Filter, Find and Higher Order Functions
 
-You can skip this lesson if you feel confident with your knowledge of `filter` and `find` because we have already covered that a few times. Wes just wants to have a video specifically dedicated to it so we can come back and refer it at a later time conveniently. 
+You can skip this lesson if you feel confident with your knowledge of `filter` and `find` because we have already covered that a few times. 
 
-Let's continue from the example in our previous lesson. We created an array `cleanPeople`.  Let's work with that. 
+Wes just wants to have a video specifically dedicated to it so you can come back and refer it at a later time conveniently. 
+
+Let's continue from the example in our previous lesson, where we created a `cleanPeople` array, which we will work with in this example. 
 
 ![](@attachment/Clipboard_2020-04-14-20-34-12.png) 00:25
 
-Very often you will find yourself in a situation where you either need to find one person in that or you want to filter the list down to be a subset of it. 
+Very often you will find yourself in a situation where you either need to find one person in an array or you want to filter the list down to be a subset of it. 
 
-Let's say we want to find people who are over 40 years old. We can use `.filter()` for that. The way filter works is you loop over every single item in an array, and you either say yes, true or no, false. If you return true that item will be in the array subset, if you return false it will out that item from the array that is returned.
+Let's say you want to find people who are over 40 years old. 
+
+You can use `.filter()` for that. 
+
+The way filter works is you loop over every single item in an array, and you either say yes (true) or no (false). 
+
+If you return true that item will be in the array subset, if you return false it will take out that item from the array that is returned.
 
 ```js
 const over40 = cleanPeople.filter(function(person){
@@ -778,42 +786,45 @@ As you can see, we now have only a subset of the original array.
 
 Now let's refactor the function above to make it more concise.
 
-How Wes would approach it is he would look at the condition within the filter function. If the condition is met, we will return true. That means there is no need for an else because anything that comes after the condition will only run if the condition is true. So that else is unnecessary.
+How Wes would approach it is he would look at the condition within the filter function. If the condition is met, we will return true. 
 
-```
+That means there is no need for an else because anything that comes after the condition will only run if the condition is true. So that else is unnecessary.
+
+```js
   if(person.age > 40 ){
     return true;
   }
   return false;
-}
 ```
 
-Since the condition evaluates to true or false, we can just return the condition like so 
+Since the condition evaluates to true or false, we can just return the condition like so 👇
 
-```
+```js
 const over40 = cleanPeople.filter(function(person){ return person.age > 40});
 ```
 
-We can make it an arrow function like so:
+We can make it an arrow function like so 👇
 
 ```js
 const over40 = cleanPeople.filter((person) => { return person.age > 40});
 ```
 
-We can go one step further and make it an implicit return and take off the parameter parenthesis like so:
+We can go one step further and make it an implicit return and take off the parameter parenthesis like so 👇
 
 ```js
 const over40 = cleanPeople.filter(person => person.age > 40);
 ```
 
-If there ever is a situation where we call this filter method on an array with no people over 40 in it, it will just return to us an empty array. ![](@attachment/Clipboard_2020-04-14-20-59-30.png) 3:29
+If there ever is a situation where we call this filter method on an array with no people over 40 in it, it will just return to us an empty array. 
 
- If you wanted to check if there were any people over 40 in this case you could use the following code:
+![](@attachment/Clipboard_2020-04-14-20-59-30.png) 3:29
 
- ```
- if(over40.length){
-   console.log('There are some people over 40');
- }
+If you wanted to check if there were any people over 40 in this case you could use the following code 👇
+
+```js
+if(over40.length){
+  console.log('There are some people over 40');
+}
  ```
 
 That is how filter works. 
@@ -826,9 +837,9 @@ That is how filter works.
 
 Let's use the `students` array for our find example. 
 
-Here is what that array looks like:
+Here is what that array looks like 👇
 
-```
+```js
 const students = [
   {
     id: "11ce",
@@ -878,25 +889,32 @@ const students = [
 ];
 ```
 
-Now let's say we want to find a student with the `id` of `565a`.
+Now let's say you want to find a student with the `id` of `565a`.
 
-
-```
+```js
 const student = students.find(student => );
 ```
 
-The code above is incomplete, but one weird thing worth pointing out is that we are naming the variable that we are storing the item in as `student` but we are also naming the individual loop a student. Is that okay? 
+The code above is incomplete, but one weird thing worth pointing out is that we are naming the variable that we are storing the item in as `student` but we are also naming the individual loop a student. 
 
-It is allowed because the student which is a parameter of the `.find()` loop is scoped to within that function. It is confusing however so it's often better to change it to something else. We will name the parameter `stud` instead like so:
+Is that okay? 
 
-```
+It is allowed because the student which is a parameter of the `.find()` loop is scoped to within that function. It is confusing however so it's often better to change it to something else. 
+
+We will name the parameter `stud` instead like so 👇
+
+```js
 const student = students.find(stud => stud.id === '565a');
 console.log(student);
 ```
 
 ![](@attachment/Clipboard_2020-04-14-21-10-56.png) 5:19 
 
-As you can see, the correct student record is returned. If that didn't match anything, what would we find? We would get undefined. You always want to check if something got found. 
+As you can see, the correct student record is returned. 
+
+If that didn't match anything, what would we find? 
+
+We would get `undefined`. You always want to check if something got found. 
 
 ![](@attachment/Clipboard_2020-04-14-21-11-50.png) 5:25
 

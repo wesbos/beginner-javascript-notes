@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png, Clipboard_2020-08-19-07-50-40.png, Clipboard_2020-08-19-07-50-42.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T11:46:21.937Z'
+modified: '2020-08-19T11:58:38.565Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -1361,13 +1361,13 @@ console.log(totalInventoryPrice);
 
 We loop over every single item and then we return the accumulator plus the current item price.
 
---
+---
 
 ## 53 - Looping and Iterating - Reduce Exercise
 
 This lesson is an exercise where you have to use `map`, `filter`, and `reduce` all in one exercise. 
 
-The task is to go to any webpage, like the Mozilla Developer Docs for reduce, copy every single piece of text like Wes is doing in the screenshot below by pressing= Cmd + A and Cmd + C and then counting how many times every letter and number occurs on the page.
+The task is to go to any webpage, like the Mozilla Developer Docs for reduce, copy every single piece of text like Wes is doing in the screenshot below by pressing `Cmd` + `A` and `Cmd` + `C` and then counting how many times every letter and number occurs on the page.
 
 ![](@attachment/Clipboard_2020-04-15-19-16-07.png) 00:27
 
@@ -1377,11 +1377,13 @@ Here are a couple of tips:
 - then we need to filter the text to grab only letters and numbers and ignore other text content like parenthesis, question marks, white space etc.
 - we want to make sure that whether the letter is uppercase or lowercase, we still only count it once. For example `a` and `A` would could as two "a"s, not one uppercase A and one lowercase a.
 
-This is going to use `filter`, and `reduce` all in one go. 
+This is going to use `filter`, `map` and `reduce` all in one go. 
 
 Open up the file `reduce-challenge.html`. 
 
-The first thing we will do is get the text in there. We will create a variable called `text` and use backticks for the value because we are going to paste the text we copied between the backticks and backticks allow our text to be multi line. 
+The first thing we will do is get the text in there. 
+
+Create a variable called `text` and use backticks for the value because we are going to paste the text we copied between the backticks and backticks allow our text to be multi line. 
 
 Note: the text within the `text` variable has been shortened for demonstration purposes in the following code examples. 
 
@@ -1402,11 +1404,13 @@ console.log(text);
 
 As you can see, we have over 31.1 KB worth of text. 
 
-How can we convert all of the text into an array of every single letter? You can call `split()` or spread it into an array.
+How can we convert all of the text into an array of every single letter? 
 
-For example we can call split on our `text` variable and pass it an emptry string so that we split it on nothing like so:
+You can call `split()` or spread it into an array.
 
-```
+For example we can call split on our `text` variable and pass it an emptry string so that we split it on nothing like so 👇
+
+```js
 const everything = text.split('');
 console.log(everything);
 ```
@@ -1415,13 +1419,17 @@ console.log(everything);
 
 As you see, now we get an array with 15,911 letters that are in it. 
 
-Next we need to deal with ignoring the case when counting letters. There are two ways we can do that, we can either lowercase everything immediately or we could filter the things out for what we want.
+Next we need to deal with ignoring the case when counting letters. 
 
-If we do lowercase first, we will be unnecessarily lowercasing things that do not have lowercase and uppercase, such as symbols like the question mark ? and numbers etc. 
+There are 2 ways we can do that:
+- we can either lowercase everything immediately or 
+- we could filter the things out for what we want
 
- However, if we filter first, then our matcher will have to match both uppercase and lowercase.
+If we do lowercase first, we will be unnecessarily lowercasing things that do not have lowercase and uppercase, such as symbols like the question mark and numbers etc. 
 
- Let's get rid of the junk first using `.filter()`. 
+However, if we filter first, then our matcher will have to match both uppercase and lowercase.
+
+Let's get rid of the junk by using `.filter()` before lowercasing. 
 
  ```js
  const result = everything.filter(char => )
@@ -1429,18 +1437,27 @@ If we do lowercase first, we will be unnecessarily lowercasing things that do no
 
 We pass our filter a `char`, which is an instance of the item from our array, and then we want to filter out any items that are not letters or numbers from a-zA-Z and numbers 0-9. 
 
-So how do we check if a character is from a-z, A-Z or 0-9? We can use a `.match()` function. 
+### Regular Expression
+
+So how do we check if a character is from a-z, A-Z or 0-9? 
+
+We can use a `.match()` function. 
 
 Let's look at these docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
-A **regular expression** is a wy to use what is called a Regex pattern to test some text. if things exist. There are a number of different methods that take a Regex like `match`, `matchAll`, `replace`, `search`. 
+![](@attachment/Clipboard_2020-08-19-07-50-42.png)
+
+A **regular expression** is a way to use what is called a **Regex pattern** to match characters within a string. 
+
+There are a number of different methods that take a Regex like `match`, `matchAll`, `replace`, `search`. 
 
 So if we wanted to filter for the letter a for example, we use a matcher. 
 
-The way you pass a regular expression to the `.match()` method is you put two forward slashes like `//` and then put the matcher in the middle. To check for a match with the letter a you would do `char.match(/a/)`.
+The way you pass a regular expression to the `.match()` method is you put two forward slashes like `//` and then put the matcher in the middle. 
 
+To check for a match with the letter `a` you would do `char.match(/a/)`, like so 👇
 
-```
+```js
 const result = everything.filter((char) => {
   // if that characer is a-zA-Z0-9
   if (char.match(/a/)) {
@@ -1452,15 +1469,17 @@ const result = everything.filter((char) => {
 
 ![](@attachment/Clipboard_2020-04-16-08-47-02.png) 4:30
 
-As you can see, when we checked if a is a match with the letter a, it returned the value with a bit more information like where we found the word. 
+As you can see, when we checked if it is a match with the letter `a`, it returned the value with a bit more information like where we found the word. 
 
 ![](@attachment/Clipboard_2020-04-16-08-48-46.png) 4:40
 
 However when we check if `'a'.match(/b/)`, it returned false because 'a' clearly does not match the letter 'b'. 
 
-In our case, we need a Regex that will match all letters, so we can do that using groups like so `/[a-z]/`. Let's try that to see how we are doing.
+In our case, we need a Regex that will match all letters, so we can do that using groups like so `/[a-z]/`. 
 
-```
+Let's try that to see how we are doing.
+
+```js
 const result = everything.filter((char) => {
   // if that characer is a-zA-Z0-9
   if (char.match(/[a-z]/)) {
@@ -1473,9 +1492,12 @@ console.log(result);
 
 ![](@attachment/Clipboard_2020-04-16-08-50-24.png) 5:06
 
-We have over 10,000 letters in our filtered array now. If you look closely, you will see they are all lowercase. Let's fix that by modifying the group in our Regex like so:
+We have over 10,000 letters in our filtered array now. 
+If you look closely, you will see they are all lowercase. 
 
-```
+Let's fix that by modifying the group in our Regex like so 👇
+
+```js
 char.match(/[a-zA-Z]/)
 ```
 
@@ -1483,48 +1505,52 @@ char.match(/[a-zA-Z]/)
 
 As you can see, our array now contains letters as well. 
 
-Now we need to get numbers so we can add 0-9 to our group, like so:
+Now we need to get numbers so we can add 0-9 to our group, as shown below.
 
-```
+```js
 char.match(/[a-zA-Z0-9]/)
 ```
 
-Wes knows this off the top of his head from years of writing regex's. he reallly likes the website https://regexr.com. 
+Wes knows this off the top of his head from years of writing regex's. 
 
-You can find lots of patterns there and cheat sheets to help you match any character except a new line.  
+However you can use the website https://regexr.com to find lots of patterns there and cheat sheets to help you match any character except a new line.  
 
 
 ![](@attachment/Clipboard_2020-04-16-08-53-52.png) 5:54
 
-Another thing you could do is pass the case insensitive flag like so 
+Another thing you could do is pass the case insensitive flag like so 👇
 
-```
+```js
 /([A-Z])/i
 ```
 
-What that will do is it won't care about upper or lowercase. So in our case we could have done the regex like this:
+What that will do is it won't care about upper or lowercase. So in our case we could have done the regex like this 👇
 
-```
+```js
 char.match(/[a-z0-9]/i)
 ```
 
-The `i` flag will make it case insensitive. Let's refresh to mak sure that still works. 
+The `i` flag will make it case insensitive. 
+
+Let's refresh to mak sure that still works. 
 
 ![](@attachment/Clipboard_2020-04-16-08-56-21.png) 6:24
 
 As you can see, it does work, and we also getting numbers now. 
 
-You might notice in the dev tools that when you expand a large array, it breaks them up into groups as displayed in the image below.
+_(You might notice in the dev tools that when you expand a large array, it breaks them up into groups as displayed in the image below.)_
 
 ![](@attachment/Clipboard_2020-04-16-18-39-05.png) 6:29
 
-So that is our first filter. The next thing we want to do is we want to lowercase everything. One way we can do that is using `.map()`. 
+So that is our first filter. The next thing we want to do is to lowercase everything. 
+
+One way we can do that is using `.map()`. 
 
 We can chain the `.map()` directly on the `.filter()`, however the code is getting to be a little bit hard to work with so let's first refactor a bit. 
 
-Let's refactor the inline function we pass to filter to an external function we will name `isValidChar`. 
+Refactor the inline function we pass to `filter` to an external function we will name `isValidChar`. 
 
-```
+```js
 const everything = text.split("");
 function isValidChar(char) {
   return char.match(/[a-z0-9]/i);
@@ -1535,9 +1561,11 @@ const result = everything.filter(isValidChar);
 console.log(result);
 ```
 
-That already looks much neater. We can make the code even more concise by chaining the `.split()` instead of assigning it to a variable, like so.
+That already looks much neater. 
 
-```
+We can make the code even more concise by chaining the `.split()` instead of assigning it to a variable, like so 👇
+
+```js
 function isValidChar(char) {
   return char.match(/[a-z0-9]/i);
 }
@@ -1547,9 +1575,9 @@ const result = text.split("").filter(isValidChar);
 console.log(result);
 ```
 
-Often developers like to put each method that is chained on it's own line like below.
+Often developers like to put each method that is chained on it's own line as shown below. 
 
-```
+```js
 const result = text
   .split('') //split each char into an item of an array
   .filter(isValidChar);
@@ -1559,15 +1587,15 @@ console.log(result);
 
 Now let's chain the map over a function we will call `lowercase`. 
 
-```
+```js
 function lowercase(char){
   return char.ToLowerCase();
 }
 ```
 
-You could also write that as an arrow function, which we will use instead so comment the lowercase method out and add the code below
+You could also write that as an arrow function, which we will use instead so comment the `lowercase` method we just added out and add the code below
 
-```
+```js
 const lowercase = char => char.toLowerCase(); 
 ```
 
@@ -1575,9 +1603,11 @@ If you refresh the page and open the array in the console, you will see that now
 
 The last step in this exercise is to count the instances of each letter and number using a reduce. 
 
-Let's create an external function which we will pass to the reduce method. We want to start with an empty object so we will pass that as the second argument. 
+Let's create an external function which we will pass to the reduce method. 
 
-```
+We want to start with an empty object so we will pass that as the second argument. 
+
+```js
 function instanceCounter(){
 }
 
@@ -1588,33 +1618,43 @@ const result = text
   .reduce(instanceCounter, {});
 ```
 
-We will name the accumulator parameter `counts` and the individual character instance `char`. Inside of the function, we will check whether the character already exists in the array using square brackets and a ternary function. 
+We will name the accumulator parameter `counts` and the individual character instance `char`. 
 
-If the character does exist, we will increment it by 1. If it does not, we will add it and set it to one. 
+Inside of the function, we will check whether the character already exists in the array using square brackets and a ternary function. 
 
-```
+If the character does exist, we will increment it by 1. 
+
+If it does not, we will add it and set it to one. 
+
+```js
 function instanceCounter(counts, char) {
   counts[char] ? counts[char] + 1 : (counts[char] = 1);
 }
 ```
-If you refresh the page, you might see something like the following error: 
+If you refresh the page, you might see something like the following error 👇
 
 ![](@attachment/Clipboard_2020-04-16-19-06-33.png) 11:02
 
-In Wes example, `k` is the second character. ![](@attachment/Clipboard_2020-04-16-19-07-32.png) 11:06
+In Wes' example, `k` is the second character. 
 
-Why is it telling us it's undefined? It's because the first time it works, the first time our reducer accumulator is an object. However, because we didn't return anything from this line, then the second time the return is undefined. 
+![](@attachment/Clipboard_2020-04-16-19-07-32.png) 11:06
 
-To fix the issue, we simply need to add `return counts;` to the end of our `instanceCounter` method. 
+Why is it telling us it's `undefined`? 
 
-```
- function instanceCounter(counts, char) {
+It's because the first time it works, the first time our reducer accumulator is an object. However, because we didn't return anything from this line, then the second time the return is `undefined`. 
+
+To fix the issue, we simply need to add `return counts;` to the end of our `instanceCounter` method, as shown below. 
+
+```js
+function instanceCounter(counts, char) {
   counts[char] ? counts[char] + 1 : (counts[char] = 1);
   return counts;
 }
 ```
 
-If you refresh the page and open the console, you will see it is showing a count of 1 next to each character. That's not right!
+If you refresh the page and open the console, you will see it is showing a count of 1 next to each character. 
+
+That's not right!
 
 ![](@attachment/Clipboard_2020-04-16-19-20-39.png) 11:36
 
@@ -1622,26 +1662,28 @@ Let's debug this by looking at our ternary operator in `instanceCounter`.
 
 So first we check if the letter exists in the array with `counts[char] ?`.
 
-If it does exist, then the count of that character should be equal to the existing count plus one. We forgot the equal sign. 
+If it does exist, then the count of that character should be equal to the existing count plus one. 
+
+We forgot the equal sign!
 
 ![](@attachment/Clipboard_2020-04-16-19-21-36.png) 11:56
 
 Modify the code like so
 
-```
+```js
 counts[char] ? counts[char] = counts[char] + 1 : counts[char] = 1;
 ```
 
-You could even put the ternary operator on separate lines like so
+You could even put the ternary operator on separate lines as shown below.
 
-```
+```js
 counts[char] 
   ? (counts[char] = counts[char] + 1) : (counts[char] = 1);
 ```
 
 ![](@attachment/Clipboard_2020-04-16-19-28-11.png) 12:26
 
-Now it looks like we are getting real values!
+It looks like we are getting real values!
 
 A fun thing you could do now with the object we get back is figure out how to sort the characters from the most popular to the least popular. 
 
@@ -1655,23 +1697,22 @@ It gives us an array of arrays with each arrays first item being the key and the
 
 Next, we can use `.sort()`. 
 
-Let's make an external function called `sortByValue`. With a sort we get two parameters which we will name  `a` and `b`. 
+Create an external function `sortByValue`, and name the two parameters `a` and `b`. 
 
-Now within the function we will compare the second items in the array because the first item is the key and the second item is the count. 
-We want to compare the count. 
+Within the function, we will compare the second items in the array because the first item is the key and the second item is the count.  We want to compare the count. 
 
-If you recall, sort works by taking the previous  the way that sort works is that you can take the previous one and the next one and you can compare their values. 
+If you recall, the way that sort works is that you can take the previous item and the next item and compare their values. 
 
 You can return any of these from a sort:
-0, stay where you are. 
--1, go forward
-1, go backward towards the end of the array
+- 0, stay where you are. 
+- -1, go forward
+- 1, go backward towards the end of the array
 
 So instead of saying if it's greater or less than (go back to the sorting video if you want to see that), we can simply just return whatever the value is. 
 
 It might be a positive value, it might be a zero value, that's just the benefit of doing that.
 
-```
+```js
 function sortByValue(a, b) {
   return a[1] - b[1];
 }

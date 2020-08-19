@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png]
+attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T00:08:52.900Z'
+modified: '2020-08-19T00:36:40.474Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -343,15 +343,15 @@ const fullNames = [ 'wes', 'kait', 'poppy'].map(bosify);
 
 ![](@attachment/Clipboard_2020-04-13-23-31-21.png) 5:17
 
-Now the first names don't have capitals so make another function `capitalize` which takes in a word. 
+The first names don't have capitals so make another function `capitalize` which takes in a word. 
 
 You can access each character of a word using an index. 
 
-For example `'wes'[0]`, `'wes'[1]`, `'wes'[2]` will return the following..
+For example `'wes'[0]`, `'wes'[1]`, `'wes'[2]` will return the following 👇
 
 ![](@attachment/Clipboard_2020-04-13-23-33-14.png) 5:55
  
-So you can capitalize the first letter of the word like so 👇
+So you can capitalize the first letter of the word as shown below. 
 
 ```js
 function capitalize(word){
@@ -359,7 +359,7 @@ function capitalize(word){
 }
 ```
 
-Let's try that so far. Chain the maps like so 👇
+Let's try the code as we have it so far. Chain the maps like so 👇
 
 ```js
 const fullNames = [ 'wes', 'kait', 'poppy'].map(capitalize).map(bosify);
@@ -412,7 +412,7 @@ Map will always take in an item, do some work with it and then return a new valu
 
 The same thing works with numbers. 
 
-```
+```js
 const orderTotals = [342, 1002, 523, 34, 634, 854, 1644, 2222];
 ```
 
@@ -420,17 +420,24 @@ Lets say we want to add tax to all items in the `orderTotals` array.
 
 Watch what happens if for every single item in our map, we just return one. 
 
-```
+```js
 const orderTotalsWithTax = orderTotals.map(total => 1);
 ```
 
 ![](@attachment/Clipboard_2020-04-14-07-41-24.png) 8:32
 
-As you can see, all the items in the array have now been turned into 1. Why? Because whatever you return from your map function will replace whatever was initially in your map function.
+As you can see, all the items in the array have now been turned into 1. 
 
-It is not mutable. What that means is our `orderTotals` are still there. The new array has the updated value. So back to our example, to add the tax to every item in the order total we will do
+Why? 
+Because whatever you return from your map function will replace whatever was initially in your map function.
 
-```
+It is not **mutable**. 
+What that means is our `orderTotals` are still there. 
+The new array has the updated value. 
+
+Back to our example, to add the tax to every item in `orderTotals`, add the following code 👇
+
+```js
 const orderTotalsWithTax = orderTotals.map(total => total * 1.13);
 ```
 
@@ -440,11 +447,13 @@ As you can see, we now have our values with tax added to them.
 
 Wes finds map to be extremely helpful.
 
-There is one really silly example that Wes wants to show us. There is this thing on twitter where you can make cowboy bodies out of emojis.
+There is one really silly example that Wes wants to show us. 
 
- ![](@attachment/Clipboard_2020-04-14-07-46-49.png) 9:41
+There is this thing on twitter where you can make cowboy bodies out of emojis.
 
-```
+![](@attachment/Clipboard_2020-04-14-07-46-49.png) 9:41
+
+```js
 function attachBody(face, body) {
   return `
       ${face}
@@ -460,13 +469,19 @@ function attachBody(face, body) {
 faces.map(face => attachBody(face, '🍟')).forEach(body => console.log(body))
 ```
 
-What Wes has done here is he has taken our faces array that we used earlier, looped over each one and passed the face as an argument along with whatever he wants to body to be made up of. That will return us a new array and then for each of those we just console log them. 
+What Wes has done here is he has taken our `faces` array that we used earlier, looped over each item and pass it as an argument to `attachBody` along with the emoji to make the body out of. 
 
-The `attachBody` function simply takes in a face, and then whatever the body is made up of and we use backticks so we can use multiple lines and then it fills in the variables. So it fills in the face variable, then the body variable repeats three times.  
+That will return us a new array and then for each of those we just log them. 
 
-One thing Wes hasn't shown us yet is `repeat`. You can take a string and call repeat on it and javascript will repeat that however many times you like, like so:
+The `attachBody` function simply takes in a face, and then whatever the body is made up of and we use backticks so we can use multiple lines and then it fills in the variables.
 
-```
+So it fills in the `face` variable, then the `body` variable repeats 3 times.  
+
+One thing Wes hasn't shown us yet is `repeat`. 
+
+You can take a string and call repeat on it and javascript will repeat that however many times you like, like so 👇
+
+```js
 'x'.repeat(199);
 ```
 
@@ -474,22 +489,25 @@ One thing Wes hasn't shown us yet is `repeat`. You can take a string and call re
 
 Another thing Wes hasn't shown us yet is `Array.fill()`.  
 
-With `Array(3)`, it will create three empty spots in an array, much like `Array.from()`. 
+With `Array(3)`, it will create 3 empty spots in an array, much like `Array.from()`. 
 
 ![](@attachment/Clipboard_2020-04-14-08-01-39.png) 10:53
 
-However if you want to fill them with the exact same thing, you can use `Array(3).fill('x')`. That is a bit quicker than `Arrau.from` and map function that we looked at. 
+However if you want to fill them with the exact same thing, you can use `Array(3).fill('x')`. 
+
+That is a bit quicker than `Array.from` and the map function that we looked at. 
 
 ![](@attachment/Clipboard_2020-04-14-08-02-45.png) 11:09
 
 In our `attachBody` function, we are just filling it with an emoji and then calling `.join(' ')` with a space separator in it. That gives us the actual body of the person.
 
-`.map` can be used with any type of data. So far we have looked at examples with strings and numbers but more often than not, you will actually have an array of objects that comes back from the API. 
+`.map` can be used with any type of data. 
 
+So far we have looked at examples with strings and numbers but more often than not, you will actually have an array of objects that comes back from the API. 
 
 Let's take a look at an example with the `peoples` array.
 
-```
+```js
 const people = [
   {
     birthday: "April 22, 1993",
@@ -515,30 +533,31 @@ const people = [
 ];
 ```
 
-Each person is signified by an object, and each person has a birthday, and a names object which has a nested first and last property inside of that.
+Each person is signified by an object, and each person has a `birthday`, and a `names` object which has a nested `first` and `last` property inside of that.
 
 That data is okay but it's not in the format that we need. That happens all the time when you are working with APIs. 
 
-So what we have to do is take in that data, "massage" it a little bit and then return the new formatted data that we want. Let's go ahead and do that. 
+So what we have to do is take in that data, "massage" it a little bit and then return the new formatted data that we want. 
 
-```
+Go ahead and do that, as shown below 👇
+
+```js
 const cleanPeople = people.map(function(person){
   console.log(person);
 })
 ```
 
- We are using an inline function which takes in an parameter of `person` (which will be each item in the array as it loops through). We are logging the person. 
+We are using an inline function which takes in an parameter of `person` (which will be each item in the array as it loops through), and we log the `person`. 
 
- It is fine to log within a `map` function, just don't ever do things like updating the dom inside of a map function. That is what a `forEach` is for.
+It is fine to log within a `map` function, just don't ever do things like updating the DOM inside of a `map` function. That is what a `forEach` is for.
 
- The first thing we need this function to do is get the person's birthday, and then figure out how old they are. Then we want to return their full name and birthday in an object.
+The first thing we need this function to do is get the person's birthday, and then figure out how old they are, and then return their full name and birthday in an object. 
 
-So first we have to get their birthday, which is stored in a string like "February 12, 1944". That is not very helpful to us because when you want to work with dates in Javascript, it has to be changed over to what is called a Javascript date.
+First we have to get their birthday, which is stored in a string like "February 12, 1944". That is not very helpful to us because when you want to work with dates in Javascript, it has to be changed over to what is called a Javascript date.
 
 Wes will show us how we can do that within our inline map function like so:
 
-
-```
+```js
 const cleanPeople = people.map(function(person){
   console.log(person);
   const birthday = new Date();

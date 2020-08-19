@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T11:23:29.765Z'
+modified: '2020-08-19T11:37:40.315Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -1030,25 +1030,30 @@ This is a bit advance so don't feel too let down if you feel a bit confused.
 It took Wes years to understand the benefit of a function like we just made with `findByProp`. 
 
 ---
-x`
+
 ## 52 - Looping and Iterating - Reduce 
 
 Let's add a `console.clear()` to the bottom of the script section in the HTML page we have been using for the last few examples. 
 
 So far we have covered `.map()`, where you take in items and return transformed items, and `.filter()` where you take in items and return a subset of those items. 
-`.reduce()` is probably one of the trickier array methods to understand because it does so muc and there are a couple of different use cases for it. 
 
-So what does it do? It takes in an array of data (just like `map` and `filter`) and it will return to you a result of or a single value. 
+`.reduce()` is probably one of the trickier array methods to understand because it does so much and there are a couple of different use cases for it. 
 
-Now what does that 👆exactly mean? Let's do an example to demonstrate. 
+So what does it do? 
 
-```
+It takes in an array of data (just like `map` and `filter`) and it will return to you a result of or a single value. 
+
+Now what does that 👆exactly mean? 
+
+Let's do an example to demonstrate. 
+
+```js
 const orderTotals = [342, 1002, 523, 34, 634, 854, 1644, 2222];
 ```
 
-We want to take the ordersTotal array and add up all the numbers in the array. 
+We want to take the `ordersTotal` array and add up all the numbers in the array. 
 
-Maybe one way you could approach it is to set a let variable to zero and then use a `forEach()` to loop over each item and add to the total. 
+One way you could approach it is to set a let variable to 0 and then use a `forEach()` to loop over each item and add to the total. 
 
 ```js
 let total = 0;
@@ -1060,12 +1065,13 @@ console.log(total);
 
 ![](@attachment/Clipboard_2020-04-15-07-39-54.png) 1:40
 
-As you can see, that does work. 
-However, is that the best way to add up a bunch of things? No, it is not. 
+As you can see, that does work. However, is that the best way to add up a bunch of things? 
+
+No, it is not. 
 
 ![](@attachment/Clipboard_2020-04-15-07-40-47.png) 1:52
 
-We have the callback method within our `forEach`, which relies on an external variable being made. So we have sort of reached outside of it. That is what is referred to as a **side effect** which is where you update a variable that exists outside of the function. 
+We have the callback method within the `forEach`, which relies on an external variable being made. So we have sort of reached outside of it. That is what is referred to as a **side effect** which is where you update a variable that exists outside of the function. 
 
 `.reduce()` will allow us to loop over every single item in that array, and in this case it would allow us to do a running total with those numbers. 
 
@@ -1073,9 +1079,9 @@ Here are some visualizations that Wes has pulled from online by google image sea
 
 ![](@attachment/Clipboard_2020-04-15-07-43-24.png) 2:36
 
-In the image above, the language is not javascript but it doesn't matter because each language has some for of those three. 
+In the image above, the language is not javascript but it doesn't matter because each language has some version of map, filter and reduce. 
 
-So in the image above, in the map, it takes in raw materials of cow, potato, chicken and corn and that returns the cooked materials via the cook function. 
+The `map` function in the image above takes in raw materials of cow, potato, chicken and corn and that returns the cooked materials via the cook function. 
 
 The filter will return to you a subset of the original array of what is vegetarian. 
 
@@ -1083,22 +1089,31 @@ The filter will return to you a subset of the original array of what is vegetari
 
 If you think about making a reduction when you're cooking or making a soup, what you do is you add a whole bunch of stuff to it and then you let it simmer and sort of become one. It is typically reduced down to something that is smaller than the original value that it came from. 
 
-Now we will go through a bunch of use cases for `.reduce()`. We will make a new variable called `allOrders`. We will call `.reduce()` on our `orderTotals` array.
+Now we will go through a bunch of use cases for `.reduce()`. 
 
-```
+Make a new variable called `allOrders`. We will call `.reduce()` on our `orderTotals` array.
+
+```js
 const allOrders = orderTotals.reduce();
 ```
 
-We need a callback function that will be run on each item in the array. Let's call it `tallyNumbers`. It will take in two arguments because that is what the callback function of a reduce method takes. Let's look that up in the MDN docs.
+We need a callback function that will be run on each item in the array, which we will call `tallyNumbers`. 
+
+It will take in 2 arguments because that is what the callback function of a reduce method takes. 
+
+Let's look that up in the MDN docs.
 
 ![](@attachment/Clipboard_2020-04-15-07-50-19.png) 4:26
 
-So the two parameters it takes is the **accumulator** and the current balue.
-The accumulator is the thing that has been handed to you from the last instance of the loop. The `currentValue` parameter is the current item in the array.
+The 2 parameters it takes is the **accumulator** and the current value.
 
-We will name our parameters `tally` and `currentTotal`. Inside of the function we will add a log specifying what the current tally is and what the current total is like so:
+The **accumulator** is the thing that has been handed to you from the last instance of the loop. The `currentValue` parameter is the current item in the array.
 
-```
+We will name our parameters `tally` and `currentTotal`. 
+
+Inside of the function, add a log of the current tally and current total, like so 👇
+
+```js
 function tallyNumbers(tally, currentTotal){
   console.log(`The current tally is ${tally}`);
   console.log(`The current total is ${currentTotal}`);
@@ -1113,21 +1128,28 @@ console.log(allOrders);
 Now there might be some stuff in the console does not make sense, so let's go through it together. 
 
 The first time the loop runs, the current tally is 342 and the current total is 1002. 
-The second time the loop unrs, we get the current tally is undefined and the current value. In fact every time other than the first instance of the loop, `tally` is undefined. 
 
-That is because `reduce()` takes in another argument which is what do you want to start the accumulator at. In our case  we want to start counting at 0 so we pass in 0 like so:
+The second time the loop runs, we get the current tally is `undefined` and the current value is 523. In fact every time other than the first instance of the loop, `tally` is undefined. 
 
-```
+That is because `reduce()` takes in another argument which is what do you want to start the accumulator at. 
+
+In our case we want to start counting at 0 so we pass in 0 like so 👇
+
+```js
 const allOrders = orderTotals.reduce(tallyNumbers, 0);
 ```
 
 ![](@attachment/Clipboard_2020-04-15-08-29-27.png) 6:39
 
-So as you can see, in the first loop the tally is 0 and then in the rest it is undefined. 
+So as you can see, in the first loop the `tally` is 0 and then in the rest it is `undefined`. 
 
-Now that we got the loop working, we have this problem where everything after the first loop is returning undefined for the tally. That is because of the accumulator parameter, in our case `tally`, that is passed from the previous iteration of the loop. 
+Now that we got the loop working, we have this problem where everything after the first loop is returning `undefined` for the tally. 
 
-So if we were to just return `'WES IS COOL';` from each of the iteration in our loop, the accumulator is going to be equal to that on the next iteration. Modify the `tallyNumbers` function by adding `return 'WES IS COOL'` as shown below. 
+That is because of the accumulator parameter, `tally`, that is passed from the previous iteration of the loop. 
+
+If we were to just return `'WES IS COOL';` from each of the iteration in our loop, the accumulator is going to be equal to that on the next iteration. 
+
+Modify the `tallyNumbers` function by adding `return 'WES IS COOL'` as shown below. 
 
 ```js
 function tallyNumbers(tally, currentTotal) {
@@ -1141,12 +1163,11 @@ const allOrders = orderTotals.reduce(tallyNumbers, 0);
 
 ![](@attachment/Clipboard_2020-04-15-08-35-08.png) 7:18
 
-As you can see, the first time the loop runs, the tally is 0 because we started with an accumulator of 0 and then for all the next instances, our accumulator `tally` is equal to "WES IS COOL" because whatever you return from this function is what the accumulator is equal to. 
+As you can see, the first time the loop runs, `tally` is 0 because we started with an accumulator of 0 and then for all the next instances, our accumulator `tally` is equal to "WES IS COOL" because whatever you return from this function is what the accumulator is equal to. 
 
-So what we really want to do is return the current tally PLUS the current order's total. 
+So what we really want to do is return the current tally + the current order's total. 
 
-
-```
+```js
 function tallyNumbers(tally, currentTotal) {
   console.log(`The current tally is ${tally}`);
   console.log(`The current total is ${currentTotal}`);
@@ -1154,7 +1175,6 @@ function tallyNumbers(tally, currentTotal) {
   return tally + currentTotal;
 }
 const allOrders = orderTotals.reduce(tallyNumbers, 0);
-
 ```
 
 ![](@attachment/Clipboard_2020-04-15-17-03-17.png) 7:49
@@ -1167,9 +1187,9 @@ If we were to not pass an accumulator, the first loop iteration will take the fi
 
 So we start with 0, then the currentTotal is 342. Then in the next iteration, because we have returned 342 from the previous iteration, we are going to start with that as tally variable in the next iteration. We add the current value and return the tally variable to the next iteration and so on.
 
-So, a reduce will loop over items in an array and every single time that you loop over an item in an array, you have an option to return a value which you can use to accumulate values or distill them down into one value.
+A reduce will loop over items in an array and every single time that you loop over an item in an array, you have an option to return a value which you can use to accumulate values or distill them down into one value.
 
-Now, if we want to total the numbers, we already have them in the `allOrders` variable so we can simply add `console.log(allOrders);` which should return to us 7255.
+Now, if we want to total the numbers, we already have them in the `allOrders` variable so we can simply log that variable to the console which should return to us 7255.
 
 For the next example, let's look at the `inventory` variable. 
 
@@ -1187,24 +1207,27 @@ const inventory = [
 
 It is an array of objects and each object has a `type` and a `price` property on it. 
 
-In this exercise, we need to figure out how many instances there are with type of pants, how many are pants, and how many are socks. We also want to figure out what is the total value of all of the inventory that we have.
+In this exercise, we need to figure out how many instances there are with type of pants, how many are pants, and how many are socks. 
+
+We also want to figure out what is the total value of all of the inventory that we have.
 
 You could probably figure out how to calculate the total value form the last exercise, but the other part where we need to count how many instances of something there are, happens all the time in Javascript.
 
-Let's add some code. Let's make a function called `inventoryReducer` which we will pass to `.reduce()` when we call it.  
+Let's add some code. 
 
-```
+Make a function called `inventoryReducer` which we will pass to `.reduce()` when we call it.  
+
+```js
 function inventoryReducer(){
 
 }
 const inventoryCounts = inventory.reduce(inventoryReducer,);
 ```
 
-
 We also need to decide what value we should start with for the accumulator. 
 In our case, we want to return an object that looks something like this 👇
 
-```
+```js
 {
   shirts: 3,
   pants: 2,
@@ -1212,9 +1235,11 @@ In our case, we want to return an object that looks something like this 👇
 }
 ```
 
-In order for us to get that, we need to pass an object. We could pass an object like this:
+In order for us to get that, we need to pass an object. 
 
-```
+We could pass an object like this 👇
+
+```js
 const inventoryCounts = inventory.reduce(inventoryReducer, {
   shirts:0,
   pants: 0,
@@ -1228,14 +1253,19 @@ However, more often then not, you are not aware of all of the different types th
 
 What we will do instead is we will start of with an empty object and then add the keys and set them to one as they appear, otherwise if they already exist, we will increment them by one. 
 
-Here is how you pass an empty object as the accumulator `const inventoryCounts = inventory.reduce(inventoryReducer, {});`
+```js
+const inventoryCounts = inventory.reduce(inventoryReducer, {});
+```
+
+Shown above is how you pass an empty object as the accumulator
 
 Our reducer takes two things: 
+
 1. our accumulator which we will call `totals`
 2. our item which we will call `item`
 
 
-Let's add a log to our reducer function which logs the item's type like so
+Let's add a log to our reducer function which logs the item's type like so 👇
 
 ```js
 function inventoryReducer(totals, item){
@@ -1247,9 +1277,9 @@ function inventoryReducer(totals, item){
 
 Inside of the reducer we need to increment the type by 1 and then return the accumulator or return the totals so the next loop can use it. 
 
-To increment the type, let's try the following:
+To increment the type, let's try the following code. 
 
-```
+```js
 function inventoryReducer(totals, item){
   console.log(`Looping over ${item.type}`);
   totals.shirt = totals.shirt + 1; 
@@ -1261,7 +1291,9 @@ console.log(inventoryCounts);
 
 ![](@attachment/Clipboard_2020-04-15-17-57-15.png) 12:42 
 
-Hm.. shirt is equal to NaN. Why would that be? That is because if you are trying to add one to something that doesn't exist, it will give you NaN (not a number). 
+Hm.. shirt is equal to `NaN`. Why would that be? 
+
+That is because if you are trying to add one to something that doesn't exist, it will give you `NaN` (not a number). 
 
 What we can do is check if the shirt already exists on our totals and if it does we increment it by one but if it doesn't, we will set it to zero. 
 

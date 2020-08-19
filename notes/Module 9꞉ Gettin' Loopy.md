@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T00:03:38.579Z'
+modified: '2020-08-19T00:08:52.900Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -259,35 +259,43 @@ We will go over those in the next video.
 
 ## 50 - Looping and Iterating - Mapping
 
-In the previous lesson we learned about `forEach`, which is useful when you want to loop over some data and do something with each piece of data. Whether that something is display the data on a page, log the value, or attaching an event listener to each item, those are often referred to as things called **side effects**. 
+In the previous lesson we learned about `forEach`, which is useful when you want to loop over some data and do something with each piece of data.  That "something" may be displaying the data on a page, logging the value, or attaching an event listener to each item, those are often referred to as things called **side effects**. 
 
-Side effect is when you are inside of a function and you reach outside of that function to do something else. 
+A **side effect** is when you are inside of a function and you reach outside of that function to do something else. 
 
 While side effects are totally fine, because at some point you do need to do things that reach outside the function, there are a whole slew of other types of loops that are simply taking in data, doing something with that data and then returning the data that has been modified, massaged or transformed in some way. 
 
 That is where we get into `map`, `filter`, and `reduce`. 
 
-We have already looked at one example of `filter` and that is `find`, where you take in an array and return one thing. That is a transformation of that data and are often referred to as **pure functions**. 
+We have already looked at one example of `filter` and that is `find`, where you take in an array and return one thing. 
 
-Pure functions take in data, they return data, they always work exactly the same way given the data that's inputed, it returns the exact same thing. They don't reach outside themselves to do that. 
+That is a transformation of that data and are often referred to as **pure functions**. 
 
-Let's talk about `map`. Map is like a machine in a factory. It takes in data, performs an operation and then spits it out on the other side.
+**Pure functions** take in data, they return data, they always work exactly the same way given the data that's inputed, it returns the exact same thing. They don't reach outside themselves to do that. 
+
+Let's talk about `map`. 
+
+Map is like a machine in a factory. It takes in data, performs an operation and then spits it out on the other side.
 
 `map` will always produce the same length of the array as it starts with. 
 
-Lets go into a little example right now. 
+Let's go into a little example right now. 
 
-First add `console.clear()` to the script tag to clear all the toppings work we did. 
+Add `console.clear()` to the script tag to clear all the `toppings` work we did in the previous lesson. 
 
 Wes loves the analogy of a machine, taking in data, performing an operation and then spitting it out on the other side. You can think of like a toy machine in a factory which adds one arm then the other arm then a leg. 
 
 Let's do a really simple example. 
 
-We have this array `const faces = ['😃', '🤠', '🤡', '🤑', '😵', '🌞', '🐶', '😺'];`. 
+We have this array below 👇
+
+```js
+const faces = ['😃', '🤠', '🤡', '🤑', '😵', '🌞', '🐶', '😺'];
+```
 
 Let's create some functions that will map over each one. 
 
-So if we make a function called `addArms`, it takes in a face, and from that let's return an emoji:
+Let's make function `addArms`, that takes in a face, and returns an emoji. 
 
 ```js
 function addArms(face){
@@ -301,18 +309,20 @@ That is just a regular function like we have written a hundred times by now. You
 
 Now what we can do is we can take our array of faces and add arms to all of them, and this how that works. 
 
-```
+```js
 const toys = faces.map(addArms);
 console.log(toys);
 ```
 
 ![](@attachment/Clipboard_2020-04-13-23-23-16.png) 3:36
 
-As you can see, what was returned to us is an array of exactly the same length as we put it in, so if the array had 8 things, it will have 8 things when it's returned, there is no way to return more or less items with `map`. You simply take in something and return something else. 
+As you can see, what was returned to us is an array of exactly the same length as we put it in, so if the array had 8 things, it will have 8 things when it's returned, there is no way to return more or less items with `map`. 
 
-One other simple example is lets say you have 
+You simply take in something and return something else. 
 
-```
+One other simple example is let's say you have this code below. 
+
+```js
 const fullNames = ['wes','kait','poppy'].map(name => `${name} bos`);
 console.log(fullNames);
 ```
@@ -323,7 +333,7 @@ We could do multiple transforms.
 
 Let's make the code above into a function. 
 
-```
+```js
 function bosify(name){
   return `${name} Bos`;
 }
@@ -333,7 +343,7 @@ const fullNames = [ 'wes', 'kait', 'poppy'].map(bosify);
 
 ![](@attachment/Clipboard_2020-04-13-23-31-21.png) 5:17
 
-Now the first names don't have capitals so let's make another function called `capitalize` which takes in a word. 
+Now the first names don't have capitals so make another function `capitalize` which takes in a word. 
 
 You can access each character of a word using an index. 
 
@@ -341,26 +351,27 @@ For example `'wes'[0]`, `'wes'[1]`, `'wes'[2]` will return the following..
 
 ![](@attachment/Clipboard_2020-04-13-23-33-14.png) 5:55
  
-So we can capitalize the first letter of word like so: 
+So you can capitalize the first letter of the word like so 👇
 
-```
+```js
 function capitalize(word){
     return word[0].toUppercase();
 }
 ```
 
-Let's try that so far. So now we are going to chain our maps like so:
+Let's try that so far. Chain the maps like so 👇
 
-```
+```js
 const fullNames = [ 'wes', 'kait', 'poppy'].map(capitalize).map(bosify);
 ```
 
 You can chain as many maps as you want because each returns a new array until it reaches the last one. 
 
+A nice way to format that to make it easier to read is to put each map on its on line. 
 
-A nice way to format that to make it easier to read is to put each map on its on line. You still only put one semi colon `;` at the end of the chain, not on each line. 
+You still only put one semi colon `;` at the end of the chain, not on each line. 
 
-```
+```js
 const fullNames = ['wes','kait','poppy']
   .map(capitalize)
   .map(bosify);
@@ -369,11 +380,13 @@ console.log(fullNames);
 
 ![](@attachment/Clipboard_2020-04-13-23-37-32.png) 6:56
 
-As you can see, that does not return the whole word. Let's fix that.
+As you can see, that does not return the whole word. 
 
-We will use slice to return the words from index 1 to the end of the word like so:
+Let's fix that.
 
-```
+We will use `slice` to return the words from index 1 to the end of the word like so 👇
+
+```js
 function capitalize(word){
     return word[0].toUppercase() + word.slice(1);
 }
@@ -385,7 +398,7 @@ As you can see, that works.
 
 Let's change that so instead of using the `+` operator, we use backticks because it's better to reserve adding for numbers. 
 
-Modify it like below. 
+Modify the code as shown below. 
 
 ```js
 function capitalize(word){

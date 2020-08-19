@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T10:09:47.451Z'
+modified: '2020-08-19T11:23:29.765Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -920,20 +920,21 @@ We would get `undefined`. You always want to check if something got found.
 
 As you may have noticed, the `find` method did not return an array of students to us, it returns to us an object which is the student itself. 
 
-We could just swap the `.find()` to a `.filter()` like so:
+We could just swap the `.find()` to a `.filter()` like so 👇
 
-```
+```js
 const student = students.filter(stud => stud.id === '565a');
 console.log(student);
 ```
 
 ![](@attachment/Clipboard_2020-04-14-21-13-24.png) 5:41
 
-As you can see, that returns to us an array of one item. That is the different between `.filter()` and `.find()`, everything else is exactly the same.
+As you can see, that returns to us an array of one item. 
+That is the different between `.filter()` and `.find()`, everything else is exactly the same.
 
-One neat thing that we could do is make an external function and then pass that in, like so:
+One neat thing that we could do is make an external function and then pass that in, like so 👇
 
-```
+```js
 function isStudent(student){
   return student.id === '565a';
 }
@@ -941,11 +942,11 @@ const student = students.find(isStudent);
 console.log(student);
 ```
 
-Now that is a little bit weird. Why would we write a function that is hardccoded to a specific id? It's more likely that we will be looking for a student with a specific id. 
+Now that is a little bit weird. Why would we write a function that is hardccoded to a specific id? It's more likely that we will be looking for a student with their own specific id, so a hardcoded value would not work for all students. 
 
-What we can do is wrap that in another function called `findById`, which takes in one parameter: `id` which returns another function like so:
+What we can do is wrap that in another function called `findById`, which takes in one parameter,`id`, and which returns another function like so 👇
 
-```
+```js
 function findById(id){
   return function isStudent(student){
     return student.id === id;
@@ -955,25 +956,31 @@ function findById(id){
 
 This is called a **high order function** or a **higher order function**. It is a function that will return another function. 
 
-Now we can simply replace the method we pass to `.find()` like so:
+Now we can simply replace the method we pass to `.find()` like so 👇
 
-```
+```js
 const student = students.find(findById('56a'));
 ```
 
-`findById('56a')` will generate a new function that is coded to find the id that we are looking for. 
+`findById('56a')` will generate a new function that is coded to find the id that we are looking for (56a). 
 
 ![](@attachment/Clipboard_2020-04-14-21-22-51.png) 7:22
 
-It still finds the right person. So that is a little more flexible.
+It still finds the right person, it's just a little bit more flexible 
 
-Even further we can make another function that is even more flexible because let's say you run into a scenario where the object has a lot of properties. Are you going to create a separate function called `findByFirstName` and then `findByLastName` and then all the other properties? 
+Let's say you run into a scenario where the object has a lot of properties. 
 
-We can actually modify the function to make it even more flexible. We will start with a new function instead. That function takes in two things: the property and then the property we are looking for. It will return a function which is the looping function. 
+Are you going to create a separate function called `findByFirstName` and then `findByLastName` and then all the other properties? 
 
-We are not going to return if the id is equal to the id, we are going to return if the student property is equal to the property value we are looking for. 
+Instead of doing that, we can modify the function to be even more flexible. Start by creating a new function which takes in 2 things:
+- the property
+- the property value 
 
-```
+It will return a function which is the looping function. 
+
+We are not going to return if the `id` is equal to the `id`, we are going to return if the `student` property is equal to the property value we are looking for. 
+
+```js
 function findByProp(prop, propWeAreLookingFor){
   return function isStudent(student){
     return student[prop] === propWeAreLookingFor;
@@ -983,14 +990,14 @@ function findByProp(prop, propWeAreLookingFor){
 
 Now that might be a little confusing to you. Let's go over how it works.
 
-```
+```js
 const student = students.find(findByProp('id', '565a'));
 ```
 
-What that does is it makes the function really flexible. The code we added above still works, but we can make other student where the first name property is equal to  'Micki'. 
+We have made the function really flexible now. If you ad the coded above, you will see that it still works, but we can also make other student where the first name property is equal to  'Micki'. 
 
 
-```
+```js
 const student = students.find(findByProp('id', '565a'));
 const student = students.find(findByProp('first_name', 'Micki'));
 console.log(student);
@@ -999,7 +1006,10 @@ console.log(student2);
 
 ![](@attachment/Clipboard_2020-04-14-21-31-12.png) 9:17
 
-Let's go over the function one more time. The `findByProp` function takes in a prop as the first parameter and `propWeAreLookingFor` as the second parameter. What we mean by that is the first parameter takes in the key, and the second parameter takes in the value we are matching the property against.
+Let's go over the function one more time. 
+
+The `findByProp` function takes in a prop as the first parameter and `propWeAreLookingFor` as the second parameter. 
+What that means is the first parameter takes in the key, and the second parameter takes in the value we are matching the property against.
 
 ![](@attachment/Clipboard_2020-04-14-21-32-56.png) 9:39
 
@@ -1013,12 +1023,14 @@ So our function takes in a property and a value, and then it will look in each o
 
 ![](@attachment/Clipboard_2020-04-14-21-35-10.png) 9:55
 
-The reaosn we have to use square brackets and not the dot notation in the code highlighted in the image above is because the property that we are looking for is being passed in as an argument to the function. 
+The reason we have to use square brackets and not the dot notation in the code highlighted in the image above is because the property that we are looking for is being passed in as an argument to the function. 
 
-This is a bit advance so don't feel too let down if you feel a bit confused. It took Wes years to understand the benefit of a function like we just made with `findByProp`. 
+This is a bit advance so don't feel too let down if you feel a bit confused. 
+
+It took Wes years to understand the benefit of a function like we just made with `findByProp`. 
 
 ---
-
+x`
 ## 52 - Looping and Iterating - Reduce 
 
 Let's add a `console.clear()` to the bottom of the script section in the HTML page we have been using for the last few examples. 

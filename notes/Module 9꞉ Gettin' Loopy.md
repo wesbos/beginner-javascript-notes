@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-04-17T23:04:10.699Z'
+modified: '2020-08-19T00:03:38.579Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -13,19 +13,25 @@ Let's talk about looping and iterating. There are a few different ways to loop i
 
 The most common way you are going to loop over something in javascript is looping over an array. Most of the looping also works the exact same way. 
 
-We use a method that lives on our array, and we pass it a callback, exactly like we did in the previous video. The callback function will run once for every item in the array, giving us access to each individual item.
+We will use a method that lives on the array, and we will pass it a callback, just like in the previous video. 
 
-Open up the `array-looping-methods-START.html` file, which contains all the practice data we will be using for these exercises. Most of it is the same as the last video with the addition of a students array.
+The callback function will run once for every item in the array, giving us access to each individual item.
 
+Open up the `array-looping-methods-START.html` file, which contains all the practice data we will be using for these exercises. Most of it is the same as the last video with the addition of a `students` array.
+
+```js
+const toppings = ['Mushrooms ', 'Tomatoes', 'Eggs', 'Chili', 'Lettuce', 'Avocado', 'Chiles', 'Bacon', 'Pickles', 'Onions', 'Cheese'];
 ```
- const toppings = ['Mushrooms ', 'Tomatoes', 'Eggs', 'Chili', 'Lettuce', 'Avocado', 'Chiles', 'Bacon', 'Pickles', 'Onions', 'Cheese'];
-```
 
-If you wanted to loop out over every single one of the toppings in th array and log them to the console, or display them to the user, the very basic loop we have is the `.forEach()`. You should recognize it from previous exercises we did when we were adding event listeners to multiple elements.
+If you wanted to loop out over every single one of the toppings in the array and log them to the console, or display them to the user, the very basic loop we have is the `.forEach()`. 
 
-What we do is we take toppings and use the `forEach` method on it, passing it a callback function that will run once for each item in the array. We can define our function outside or inline. 
+You should recognize it from previous exercises we did, when we were adding event listeners to multiple elements.
 
-```
+What we are going to do is take `toppings` and use the `forEach` method on it, passing it a callback function that will run once for each item in the array. 
+
+We can define our function outside or inline. 
+
+```js
 function logTopping(topping){
   console.log(topping);
 }
@@ -36,7 +42,9 @@ toppings.forEach(logTopping)
 
 If you refresh the page, you will see that we are logging every single one of the toppings as we loop over them. 
 
-One thing Wes likes to do is throw a debugger into the foreach and take a look at the dev tools. Modify the code like so to add the debugger:
+One thing Wes likes to do is throw a debugger into the foreach and take a look at the dev tools. 
+
+Modify the code as shown below to add the debugger breakpoint 👇
 
 ```
 function logTopping(topping){
@@ -49,38 +57,47 @@ When you refresh the HTML page, the debugger should open once it hits the first 
 
 ![](@attachment/Clipboard_2020-04-13-18-42-05.png) 9:52
 
-As you can see, the debugger is in paused state. We have access to the callstack, what function we are in, in our case it tells us we are in `logTopping`. 
+As you can see, the debugger is in paused state. We have access to the callstack, and it tells us we are in the function `logTopping`. 
 
-Below it tells us what the `topping` variable is equal to which is "Mushrooms". It also tells us the value of the `this` variable which is equal to the Window. 
+Below that, the debugger tells us what the `topping` variable is equal to which is "Mushrooms", as well as the value of the `this` variable, which is equal to the Window.
 
-If you click the symbol shown in this image twice: ![](@attachment/Clipboard_2020-04-13-18-44-15.png) 9:24 
-it runs again. Now we have are on thet "Tomatoes" item. You can click all the way through the array. 
+![](@attachment/Clipboard_2020-04-13-18-44-15.png) 9:24 
 
-As you know, we can also inline the function like shown below and it will give us the exact same thing.
+If you click the symbol shown in the image above twice, the javascript code will continue running.  
 
-```
+Now we are on the "Tomatoes" item. You can click all the way through the array. 
+
+As you know, we can also inline the function as shown below and it will still work exactly the same 👇
+
+```js
 toppings.forEach(topping => {
   console.log(topping);
 })
 ```
 
-One thing you might be having trouble with is where is this `topping` variable shown highlighted below is coming from? You may be wondering if it's a special keyword because it is a singular of toppings which is the name of the variable that holds the `toppings` array. 
+One thing you might be having trouble with is where is this `topping` variable shown highlighted below is coming from. You may be wondering if it's a special keyword because it is a singular of toppings which is the name of the variable that holds the `toppings` array. 
 
 ![](@attachment/Clipboard_2020-04-13-18-47-12.png) 8:25
 
 If you remember back to when we learned about arguments and placeholders we said that arguments were the actual values and the parameters were the placeholders.
 
-When we define the function, we put a placeholder, a **parameter** in there, and then when the foreach loop is called, javascript will slot the appropriate array item value into our parameter variable, whatever we may have called it.
+When we define the function, we put a placeholder, a **parameter** in there, and then when the `forEach` loop is called, Javascript will slot the appropriate array item value into our parameter variable, whatever we may have called it.
 
-To capture the argument, we simply define the function with a parameter. How do we know that? We can look at the `forEach()` docs on MDN. 
+To capture the argument, simply define the function with a parameter. 
+
+How do we know that? 
+
+We can look at the `forEach()` docs on MDN. 
 
 ![](@attachment/Clipboard_2020-04-13-18-51-19.png) 4:30 / 7:22
 
-In our case, we chose to name the currentValue parameter `topping`. 
+In our case, we chose to name the `currentValue` parameter `topping`. 
 
-We also have the ability to get the index and the array, so let's take a look at what that looks like. Modify the code like so:
+We also have the ability to get the index and the array, so let's take a look at what that looks like. 
 
-```
+Modify the code like so 👇
+
+```js
 function logToppping(topping, index, array){
   console.log(topping,index, array);
 }
@@ -91,7 +108,9 @@ When you refresh the HTML page and open the console, you will see that for each 
 
 ![](@attachment/Clipboard_2020-04-13-19-54-31.png) 4:52
 
-Why would you need to pass the original array? Because  if you need to grab something from the original array, you can. 
+Why would you need to pass the original array? 
+
+Because if you need to grab something from the original array, you can. 
 
 Let's do a quick example where we have to loop over each topping and:
  - log the topping
@@ -99,20 +118,29 @@ Let's do a quick example where we have to loop over each topping and:
  - log the previous topping if there is one
  - if it's the last item in the array, log "goodbye"
 
-The first one is easy, you simply add `console.log(topping)`. 
+The first one is easy, simply add `console.log(topping)`. 
 
-Let's do the next topping. We have the index already and the original array, which we will rename because `array` is a bad parameter name. We also won't name it `toppings` because we already have a `toppings` array that lives outside of this function. Let's rename it to `originalArray` instead so now it's `function logTopping(topping,index,originalArray)`.  
+Let's do the next topping. 
 
-So let's add  `console.log(originalArray[index])` and refresh the HTML page. 
+We have the index already and the original array, which we will rename because `array` is a bad parameter name. We also won't name it `toppings` because we already have a `toppings` array that lives outside of this function. Let's rename it to `originalArray` instead, like so 👇
+
+```js
+function logTopping(topping,index,originalArray)
+``` 
+
+Add a log of `originalArray[index]` and refresh the HTML page. 
 
 ![](@attachment/Clipboard_2020-04-13-20-01-24.png) 6:26
 
-So now if we try adding 1 to the index like so `console.log(originalArray[index + 1])` we should get the next one. 
-
-Let's also add a console.log to break up and see when it's looping. Modify the code like so:
-
-
+```js
+console.log(originalArray[index + 1]);
 ```
+
+So now if you try adding 1 to the index as shown above, you should get the next one.  👇
+
+Modify the code as shown below to add a log to see when it's looping
+
+```js
 function logTopping(topping, index, originalArray){
   console.log(topping);
   console.log(originalArray[index + 1]);
@@ -120,17 +148,17 @@ function logTopping(topping, index, originalArray){
 }
 ```
 
-When you refresh the HTML page, you should see the following:
+When you refresh the HTML page, you should see the following 👇
 
 ![](@attachment/Clipboard_2020-04-13-20-03-31.png) 6:49
 
-If you scroll all the way to the bottom, you will see that when we get to the last one, the next index returns undefined. 
+If you scroll all the way to the bottom, you will see that when we get to the last one, the next index returns `undefined`. 
 
 ![](@attachment/Clipboard_2020-04-13-20-04-13.png) 6:57
 
-What we can do to check whether the next topping exists or not is add the following code:
+We can check whether the next topping exists or not by adding the following code 👇
 
-```
+```js
 const nextTopping = originalArray[index + 1];
 if(nextTopping){
   console.log(nextTopping);
@@ -141,18 +169,20 @@ Now if you refresh the page and look at the console, you will see that for the l
 
 ![](@attachment/Clipboard_2020-04-13-20-05-28.png) 7:22
 
-We can go a bit further and make it a bit easier to understand using a ternary function. 
+We can go a bit further and make it a bit easier to understand using a ternary function.
 
-```
+```js
 const nextTopping = originalArray[index + 1];
 nextTopping ? console.log(nextTopping) : null;
 ```
 
-That works just the same. Instead of putting null, you could put an empty string, it doesn't matter as long as you put something there. 
+That works just the same. Instead of putting `null`, you could put an empty string `""`, it doesn't matter as long as you put something there. 
 
-Now let's do the previous topping. Let's move the `prevTopping` and `nextTopping` variables to the top of the function and use the ternary operator to console log the previous topping like so:
+Now the previous topping. 
 
-```
+Move the `prevTopping` and `nextTopping` variables to the top of the function and use the ternary operator to log the previous topping like so 👇
+
+```js
 const nextTopping = originalArray[index + 1];
 const prevTopping = originalArray[index - 1];
 
@@ -163,43 +193,56 @@ nextTopping ? console.log(nextTopping) : null;
 
 ![](@attachment/Clipboard_2020-04-13-20-09-22.png) 8:25
 
-Now the first and last topping should only have two items logged while all the other items have three items logged.
+Now the first and last topping should only have 2 items logged while all the other items have 3 items logged.
 
-Next if it's the last item in the array we need to log "goodbye". How can we do that? 
+If it's the last item in the array we need to log "goodbye". How can we do that? 
 
 Let's use `.length` on the array and a ternary statement. 
 
-```
+```js
 index === array.length - 1 ? console.log('Goodbye') : console.log("getting the next topping");
 ```
 
 ![](@attachment/Clipboard_2020-04-13-20-11-27.png) 9:21
 
-Let's break down what we did exactly in that last example. Sometimes it helps to make it more readable if you put part on it's own line like so:
+Let's break down what we did exactly in that last example. 
 
-```
+Sometimes it helps to make it more readable if you put part on it's own line like so 👇
+
+```js
 index === originalArray.length - 1
 ? console.log("Goodbye")
 : console.log('Getting the next topping');
 ```
 
-So the condition we are checking is `index === originalArray.length - 1`. We also have access to the index of the currrent item in the `index` variable, and we can get the index of the last item in the array by doing `originalArray.length - 1`. So all this line does is check whether the current index matches the last index. 
+So the condition we are checking is `index === originalArray.length - 1`, which checks whether the current index matches the last index in the array.  
 
-If it does, we log "goodbye" and if it doesn't, we log "getting the next topping". 
+We have access to the index of the currrent item in the `index` variable, and we can get the index of the last item in the array by doing `originalArray.length - 1`.  
+
+
+If it is the last index, log "goodbye" and if it doesn't, log "getting the next topping". 
 
 You could use an if statement instead of the ternary statement, it would work just as well.
 
-We can also use the && hack we learned about earlier. We can say
+We can also use the && hack we learned about earlier, like so 👇
 
-```
+```js
 index === originalArray.length && console.log('Goodbye');
 ```
 
-Why does that work? Because if the first statement is true, it will keep going for the next one and if it is false, it will shortcircuit and never get to the second one. That is what we referred to as abusing conditionals in our previous videos.
+Why does that work? 
 
-That wraps up the `forEach` method. It is a bit different than the other looping methods because it doesn't return any values. Notice how when we loop over each of our items we don't store our results in a variable like below
+Because if the first statement is true, it will keep going for the next one and if it is false, it will short circuit and never get to the second one. 
 
-```
+That is what we referred to as **abusing conditionals** in our previous videos.
+
+That wraps up the `forEach` method. 
+
+It is a bit different than the other looping methods because it doesn't return any values. 
+
+Notice how when we loop over each of our items we don't store our results in a variable like below 👇
+
+```js
 const result = toppings.forEach(logTopping);
 ```
 
@@ -209,6 +252,8 @@ Let's see how that is different from what Wes likes to call the 'Big Three' whic
 - Map
 - Filter
 - Reduce
+
+We will go over those in the next video. 
 
 ---
 

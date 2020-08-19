@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T11:37:40.315Z'
+modified: '2020-08-19T11:46:21.937Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -1185,7 +1185,7 @@ In the console above, as you can see we start with 0 because our accumulator sta
 
 If we were to not pass an accumulator, the first loop iteration will take the first two numbers. In our case, that would still work but Wes always like to pass a default value so we know what we are starting with and so we can see what type we are starting with. 
 
-So we start with 0, then the currentTotal is 342. Then in the next iteration, because we have returned 342 from the previous iteration, we are going to start with that as tally variable in the next iteration. We add the current value and return the tally variable to the next iteration and so on.
+So we start with 0, then the `currentTotal` is 342. Then in the next iteration, because we have returned 342 from the previous iteration, we are going to start with that as `tally` variable in the next iteration. We add the current value and return the `tally` variable to the next iteration and so on.
 
 A reduce will loop over items in an array and every single time that you loop over an item in an array, you have an option to return a value which you can use to accumulate values or distill them down into one value.
 
@@ -1295,22 +1295,23 @@ Hm.. shirt is equal to `NaN`. Why would that be?
 
 That is because if you are trying to add one to something that doesn't exist, it will give you `NaN` (not a number). 
 
-What we can do is check if the shirt already exists on our totals and if it does we increment it by one but if it doesn't, we will set it to zero. 
+What we can do is check if the shirt already exists on `totals` and if it does, we increment it by one, but if it doesn't, we will set it to 0. 
 
-So what we can try to do is say totals.shirt equals to itself plus 1 or 1 like so
+Instead let's set `totals.shirt` to equals itself plus 1 or 1 like so 👇
 
-```
+```js
 totals.shirt = totals.shirt + 1 || 1;
 ```
+
 Lets try it. 
 
 ![](@attachment/Clipboard_2020-04-15-17-59-42.png) 13:17
 
-Why did that work? This is an example of taking advantage of conditionals or abusing conditionals. 
+Why did that work? This is an example of taking **advantage of conditionals** or **abusing conditionals**. 
 
-If we were to write that as an if statement, it would look like this:
+If we were to write that as an if statement, it would look like this 👇
 
-```
+```js
 if(totals.shirt){
   totals.shirt = totals.shirt + 1;
 }
@@ -1321,23 +1322,25 @@ else {
 
 Note you can also increment totals.shirt like this `totals.shirt++;` Both work!
 
-So what is happening there is if the property doesn't exist, we first need to add it, and set it to one, and then we can start incrementing it.
+So what is happening there is if the property doesn't exist, we first need to add it, and set it to 1, and then we can start incrementing it.
 
-In this statement `totals.shirt = totals.shirt + 1 || 1;`, if `totals.shirt + 1` turns out to be NaN, then that is falsy and it will fall back to 1. It's a bit harder to read which in a lot of cases isn't ideal, but it is nice to do it in a one liner. 
+In this statement `totals.shirt = totals.shirt + 1 || 1;`, if `totals.shirt + 1` turns out to be `NaN`, then that is falsy and it will fall back to 1. 
 
-Another way we could do it is write 
+It's a bit harder to read which in a lot of cases isn't ideal, but it is nice to do it in a one liner. 
 
-```
+Shown below is yet another way 👇
+
+```js
 totals.shirt ? totals.shirt + 1 : totals.shirt = 1;
 ```
 
-So we are checking if `totals.shirt` exists, if it does, we increment it by 1, if it doesn't we create the property and set it to 1. 
+We are checking if `totals.shirt` exists, if it does, we increment it by 1, if it doesn't we create the property and set it to 1. 
 
-Now one thing you may have noticed is we have been hardcoding shirt, which we shouldn't be doing because there are a few differnt types. 
+One thing you may have noticed is we have been hardcoding shirt, which we shouldn't be doing because there are a few differnt types. 
 
-We can change it to a variable lookup item using square brackets like so: 
+We can change it to a variable lookup item using square brackets like so 👇
 
-```
+```js
 totals[item.type] = totals[item.type] + 1 || 1;
 ```
 
@@ -1347,9 +1350,11 @@ As you can see, now our accumulator has the 2 shirts, 2 socks and 3 pants.
 
 Pretty often a reduce can be done in an arrow function, a really quick one. 
 
-In our case, we just want to add up the inventory `price` on each of them. We will start with 0 as our accumulator because we want to add up the total prices. 
+In our case, we just want to add up the inventory `price` on each of them. 
 
-```
+We will start with 0 as our accumulator because we want to add up the total prices. 
+
+```js
 const totalInventoryPrice = inventory.reduce((acc, item) => acc + item.price, 0);
 console.log(totalInventoryPrice);
 ```

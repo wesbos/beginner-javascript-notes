@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png, Clipboard_2020-08-19-07-50-40.png, Clipboard_2020-08-19-07-50-42.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
-modified: '2020-08-19T12:58:07.275Z'
+modified: '2020-08-20T11:51:10.693Z'
 ---
 
 # Module 9: Gettin' Loopy
@@ -1925,13 +1925,11 @@ The `for of` loop is fairly new to the language and it is actually pretty nice.
 
 So what is it? 
 
-It is used for looping over iterables. If you can recall, an **iterable** is anything that has a length, so something like an array or a string. 
+It is used for looping over iterables. If you recall, an **iterable** is anything that has a length, so something like an array or a string. 
 
-Let's say you wanted to log all the letters in the `name` variable. 
+Let's say you wanted to log all the letters in the `name` variable. You could do that with the following code 👇
 
-You could do that like so: 
-
-```
+```js
 const name = 'Wes Bos';
 
 for(const letter of name){
@@ -1941,7 +1939,7 @@ for(const letter of name){
 
 ![](@attachment/Clipboard_2020-04-17-08-52-16.png) 9:24 
 
-Why would that be better than splitting the string into an array and using `forEach` like we have learned in a previous execise? 
+Why would that be better than splitting the string into an array and using `forEach` like we have learned in a previous exercise? 
 
 One thing is it can handle emojis. 
 
@@ -1951,7 +1949,7 @@ For the family emoji, if you log it, you will see we get the family emoji and th
 
 ![](@attachment/Clipboard_2020-04-17-08-54-50.png)9:58
 
-If you tried that with `name.split('')`, you would see something like this. 
+If you tried that with `name.split('')`, you would see something similar to the image below. 
 
 ![](@attachment/Clipboard_2020-04-17-08-55-45.png) 10:18
 
@@ -1959,20 +1957,27 @@ As you can see, it doesn't know how to handle the emojis.
 
 Another way you could do it is using the spread operator like so:
 
-```
+```js
 [...name]
 ```
 
 ![](@attachment/Clipboard_2020-04-17-18-22-57.png) 10:25
 
-That is one use case. The other use case is something to do with promises, which we have not covered yet. 
-However, if you ever need to sequence a bunch of data, meaning you have to do one thing after another in a loop, the `for of` loop will allow you to do something called **await** inside of it. 
+That is one use case. T
+
+he other use case is something to do with **promises**, which we have not covered yet. 
+
+### `for of` loop
+
+If you ever need to sequence a bunch of data, meaning you have to do one thing after another in a loop, the `for of` loop will allow you to do something called **await** inside of it. 
 
 We will come back to this when we learn about promises later in the course, but now what you need to know is that `for of` loops are very handy for sequencing promises, and that is really the only use case that Wes uses it for. 
 
-The `for of` loop can be used with an array as well. For example..
+The `for of` loop can be used with an array as well. 
 
-```
+Take the following example 👇
+
+```js
 for(const number of numbers){
   console.log(number);
 }
@@ -1980,13 +1985,15 @@ for(const number of numbers){
 
 ![](@attachment/Clipboard_2020-04-17-18-28-29.png) 12:06
 
-The downside of that vs using a `forEach` loop is that it doesn't give us the index. It just gives us the raw value. It also doesn't allow us to filter or anything like that.
+The downside of the `for of` loop compared to a `forEach` loo is that it doesn't give us the index. It just gives us the raw value. It also doesn't allow us to filter or anything like that.
+
+### `for in` loop
 
 Next we have the `for in` loop, which works similarly. 
 
-Let's use the `numbers` array for this `for in` exercise. 
+Let's use the `numbers` array for this example. 
 
-```
+```js
 for(const number in numbers){
   console.log(number);
 }
@@ -1994,13 +2001,15 @@ for(const number in numbers){
 
 ![](@attachment/Clipboard_2020-04-17-18-30-51.png) 12:36
 
-As you can see, we get 0 through 11. What is actually happening there is it is giving us the keys of the object. 
+As you can see, we get 0 through 11. 
+
+What is actually happening there is it is giving us the keys of the object. 
 
 `for in` is used for looping over keys of an object. 
 
-Let's give ourselves an object to demonstrate. 
+Create the following object. 
 
-```
+```js
 const wes = {
   name: 'wes',
   age: 100,
@@ -2008,9 +2017,9 @@ const wes = {
 }
 ```
 
-Now let's use the `for in` loop with that object. 
+Use the `for in` loop with that object. 
 
-```
+```js
 for(const prop in wes){
   console.log(prop);
 }
@@ -2018,15 +2027,19 @@ for(const prop in wes){
 
 ![](@attachment/Clipboard_2020-04-17-18-33-41.png) 13:11
 
-You might be asking, how is that better than using `Object.entries`, `Object.key` or `Object.values`? It is not. Wes prefers to use those over the `for in` loop, but it is still here if you prefer to use it.
+You might be asking, how is that better than using `Object.entries`, `Object.key` or `Object.values`? 
+
+It is not. 
+
+Wes prefers to use those over the `for in` loop, but it is still here if you prefer to use it.
 
 There is one gotcha with the `for in` versus `Object.entries`, which we will demonstrate with an example right now. 
 
-It looks ahead to this thing called prototypes. 
+It looks ahead to this thing called **prototypes**. 
 
-Let's make a `baseHumanStats` object like so:
+Let's make a `baseHumanStats` object as shown below. 
 
-```
+```js
 const baseHumanStats = {
   feet:2,
   arms: 2,
@@ -2035,9 +2048,11 @@ const baseHumanStats = {
 };
 ```
 
-Now let's create a function called `Human` that takes in a name, and then within that function add `this.name = name;`. This is getting a bit ahead of ourselves, but we can now use this `Human` function to make a `wes2`. 
+Create a function `Human` that takes in a `name`, and then within that function add `this.name = name;`. 
 
-```
+This is getting a bit ahead of ourselves, but we can now use this `Human` function to make a `wes2`? 
+
+```js
 function Human(name){
   this.name = name;
 }
@@ -2045,23 +2060,27 @@ function Human(name){
 const wes2 = new Human('wes');
 ```
 
-If you go ahead and take a look at `wes2` by refreshign the page and typing it into the console, you will see that it has a type of human with a name that is equal to "wes". If you were to try typing in  `wes2.arms`, however, you would get undefined. 
+If you go ahead and take a look at `wes2` by refreshing the page and typing it into the console, you will see that it has a `type` of human with a `name` that is equal to "wes". 
+
+If you were to try typing in  `wes2.arms`, however, you would get `undefined`. 
 
 ![](@attachment/Clipboard_2020-04-17-18-40-50.png) 14:46
 
-However if we take the `Human` function and set the prototype to be the `baseHumanStats` like so:
+However if we take the `Human` function and set the prototype to be the `baseHumanStats` like so 👇
 
-```
+```js
 Human.prototype = baseHumanStats;
 const wes2 = new Human('wes');
 ```
 
-Now, if we take a look at `wes2`, it still looks the same, but if you were to look at `wes2.feet` or `wes2.arms`, you will see that it is referencing the values from the prototype. 
+If we take a look at `wes2`, it still looks the same, but if you were to look at `wes2.feet` or `wes2.arms`, you will see that it is referencing the values from the prototype. 
 
 ![](@attachment/Clipboard_2020-04-17-18-43-28.png) 15:11
 
 What does that mean?
-Well what happens with a prototype is that when you try to access a property, it first checks on the object itself for a property on that. If it is not on there, it will look up the prototype chain. 
+
+What happens with a prototype is that when you try to access a property, it first checks on the object itself for a property on that. If it is not on there, it will look up the prototype chain. 
+
 It will say "okay that is not on here, but maybe the thing that created me has a prototype that has that value", and it will look it up.
 
 ![](@attachment/Clipboard_2020-04-17-18-45-20.png) 15:44
@@ -2070,25 +2089,27 @@ In our case this prototype has some sort of base values that it will pull it fro
 
 We will get into this more when we get into classes but the point of all this is the following.. 
 
-What would happen if we call `console.log(Object.keys(wes2))`? Will it log the `name` property only or will it also log the properties that are on the prototype (feet, arms, eyes, head).
+What would happen if you call log `Object.keys(wes2)`? 
+Will it log the `name` property only? 
+Or will it also log the properties that are on the prototype (feet, arms, eyes, head)? 
 
 ![](@attachment/Clipboard_2020-04-17-18-47-47.png) 16:09
 
-We only get "name". 
+We only get `name`. 
 
 Let's try entries.
 
-```
+```js
 console.log(Object.entries(wes2));
 ```
 
 ![](@attachment/Clipboard_2020-04-17-18-48-25.png) 16:15
 
-We get the name property and value returned to us only as you can see above.
+We only get the `name` property and value returned to us as you can see above.
 
-Now what would happen if we tried that with a `for in` loop. 
+Now what would happen if we tried that with a `for in` loop?
 
-```
+```js
 for(const prop in wes2){
   console.log(prop);
 }
@@ -2096,23 +2117,35 @@ for(const prop in wes2){
 
 ![](@attachment/Clipboard_2020-04-17-18-49-46.png) 16:23
 
-As you can see, it does grab the properties from the prototype that it was made from. So, if you need to grab the prototype properties and methods, then you can use a `for in` loop to grab those. However if you do not need to grab those, you're fine with just using `Object.entries`. 
+As you can see, it does grab the properties from the prototype that it was made from. 
 
-Next we have the `while` and the `do while` loops. These are loops that Wes doesn't use all too often but they are still good to know. 
+So, if you need to grab the prototype properties and methods, then you can use a `for in` loop to grab those.
+
+However if you do not need to grab those, you're fine with just using `Object.entries`. 
+
+### `while` and `do while` loops
+
+Next we have the `while` and the `do while` loops. 
+
+These are loops that Wes doesn't use all too often but they are still good to know. 
 
 `while` takes a condition and run infinitely until the condition is false. 
 
-The syntax looks like this:
+The syntax looks like this 👇
 
-```
+```js
 while(){
 
 }
 ```
 
-Within the parenthesis, we include the condition that we need to check for. In our example we will check whether the variable `cool === true`. If it does, we will log "you are cool". Now be careful if you run this code because it will cause an infinite loop and might crash your computer. 
+Within the parenthesis, we include the condition that we need to check for. 
 
-```
+In our example we will check whether the variable `cool` equals true. If it does, we will log "you are cool".
+
+Now be careful if you run this code because it will cause an infinite loop and might crash your computer. 
+
+```js
 let cool = true;
 while(cool === true){
   console.log('You are cool');
@@ -2123,9 +2156,11 @@ while(cool === true){
 
 As you can see, that log is happening all the time, just constantly running in the infinite loop we created. 
 
-A `while` loop needs an exit condition that will set `cool` to false, or else the condition will never evaluate to false. Here is an example of an exit condition we could add:
+A `while` loop needs an **exit condition** that will set `cool` to false, or else the condition will never evaluate to false. 
 
-```
+Here is an example of an exit condition we could add 👇
+
+```js
 let cool = true;
 let i = 1;
 while(cool === true){
@@ -2137,7 +2172,7 @@ while(cool === true){
 }
 ```
 
-Now what should happen is after this loop has run 100 times, `cool` will be set to false, and then the condition will evaluate to false and the loop will no longer run.
+What should happen is after this loop has run 100 times, `cool` will be set to false, and then the condition will evaluate to false and the loop will no longer run.
 
 ![](@attachment/Clipboard_2020-04-17-18-59-25.png) 18:44
 
@@ -2145,15 +2180,15 @@ As you can see, it ran 100 times before exiting.
 
 It is important to note that someone could set this `cool` variable in another piece of Javascript code and then the next time it runs, it would check whether it is true or false, so that is one way to do it. 
 
-The only different between the `do while` and the `while` loop is that we have a `do` with  a block and then a while with a condition on the end, like so:
+The only different between the `do while` and the `while` loop is that we have a `do` with a block and then a while with a condition on the end, like so 👇
 
-```
+```js
 do{
 
 } while()
 ```
 
-What will happen there is the do will run first, and then it will check the condition after the first run. 
+The `do` block will run first, and then it will check the condition after the first run. 
 
 With the `while` loop, the condition will always be checked before the first run. 
 

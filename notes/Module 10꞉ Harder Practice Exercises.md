@@ -2,42 +2,61 @@
 attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-05-04T23:15:48.570Z'
+modified: '2020-08-21T00:23:11.703Z'
 ---
 
 # Module 10: Harder Practice Exercises
 
 ## 55 - Face Detection and Censorship 
 
-This exercise is going to be a bit more fun then our previous lessons. We are going to build a face detection that will detect and blur your face from a video element into a canvas element. This exercise is stepping a little bit ahead because there are a couple of things we need to learn a little bit more about, async/await, which is promises. We also need to learn about bundling tools, specifically one called Parcel. 
+This exercise is going to be a bit more fun then our previous lessons. 
+
+We are going to build a face detection that will detect and blur your face from a video element into a canvas element. 
+
+This exercise is stepping a little bit ahead because there are a couple of things we need to learn a more about like promises and async/await, and bundling tools, specifically one called Parcel. 
 
 ![](@attachment/Clipboard_2020-04-20-17-44-07.png) 00:22
 
 The first thing we need to check is that we are on a browser that supports face detection. 
 
-At the time of this recording, there is a proposal for an API, meaning it's not finished yet and might change. Ideally it will get into all of the browsers but currently it is only in Chrome and Android. The way you can tell if your browser supports it is you can go to the console on any page and type `FaceDetector`, or `typeof FaceDetector`. 
+At the time of this recording, there is a proposal for an API, meaning it's not finished yet and might change.
+
+Ideally it will get into all of the browsers but currently it is only in Chrome and Android. 
+
+The way you can tell if your browser supports it is you can go to the console on any page and type `FaceDetector`, or `typeof FaceDetector`. 
 
 ![](@attachment/Clipboard_2020-04-20-17-49-26.png) 1:40
 
-If you get undefined or an error returned, that means your browser does not support it. If you are on Chrome, you likely have to go to the flags page in Chrome and turn it on. 
+If you get `undefined` or an error returned, that means your browser does not support it. If you are on Chrome, you likely have to go to the flags page in Chrome and turn it on. 
 
-Often new features in the browser are not given to the masses because they are not ready yet. In order for us to play with them, we need to enable them. The way you turn flags on in chrome is you navgiate to `chrome://flags`.
+Often new features in the browser are not given to the masses because they are not ready yet. In order for us to play with those features, we need to enable them. 
+
+The way you turn flags on in Chrome is you navigate to `chrome://flags`.
 
 ![](@attachment/Clipboard_2020-04-20-17-51-12.png) 3:30
 
-This page contains all kinds of features that are still experimental in Chrome. You want to search for "Experimental Web Platform features" and enable it. You will probably have to restart your browser, so go ahead quit it, and restart it, and then you should see `typeof FaceDetector` work. 
+This page contains all kinds of features that are still experimental in Chrome. You want to search for "Experimental Web Platform features" and enable it. 
 
-If you do all that and still cannot get `typeof FaceDetector` to return "function" it's possible that your computer does not support it. But from everyone Wes has steted with, it works well.
+You will probably have to restart your browser, so go ahead quit it, and restart it, and then you should see `typeof FaceDetector` work. 
 
-The second thing is we need to use a server in order to run this. That is because accessing a user's webcam is a security issue (you don't want to give everybody access to your web cam), you have to ask the user first for access to their webcam.  
+If you do all that and still cannot get `typeof FaceDetector` to return "function" it's possible that your computer does not support it. 
 
-You've probably been to a million websites where they ask for notifications or to know your location, things like that. Those are permission-based APIs in the browser, and accessing someone's webcam is no different than that. That sort of preference, is it allowed or not, is tied to the origin.
+But from everyone Wes has tested with, it works well.
 
-An origin in Javascript is just a fancy way of saying a domain name. So in Wes' case, he is currently allowing the camera on localhost, but you might allow the camera on New York Times or Facebook or all these different websites. 
+The second thing is we need to use a server in order to run this. That is because accessing a user's webcam is a security issue _(you don't want to give everybody access to your webcam)_, so in order to do it you must first you have to ask the user first for access to their webcam.  
+
+You've probably been to a million websites where they ask for permission to send notifications or they request to know your location. Those are permission-based APIs in the browser, and accessing someone's webcam is no different than that. 
+
+That sort of preference and permission, it allowed or not, is tied to the origin.
+
+An **origin** in Javascript is just a fancy way of saying a **domain name**. 
+
+So in Wes' case, he is currently allowing the camera on localhost, but you might allow the camera on New York Times or Facebook or all these different websites. 
 
 ![](@attachment/Clipboard_2020-04-20-20-10-34.png) 3:54
 
 Everytime you visit a new origin, a new domain name, you're going to have to ask the user for access to their webcam and it will pop up. 
+
 So in order for us to do that, we cannot just open up `face.html` (from the  `/53 - Face Detection Censorship` folder) in the browser like we have been doing up until now.
 
 ![](@attachment/Clipboard_2020-04-20-20-13-04.png) 4:27
@@ -52,14 +71,13 @@ If you try to allow it by clicking "always allow", it still won't work.
 
 So you cannot open the HTML file directly in your browser, it must run through a server. So how do we run a server? 
 
-One server that Wes likes is a bundler, called Parcel, which we will learn more about when we get to the modules section. 
+One server that Wes likes is a **bundler**, called Parcel, which we will learn more about when we get to the modules section. 
 
-Parcelo will give us a little development server where when we change something on the page, it will automatically refresh the page for us. If we change any of our CSS, it will automatically re-load the CSS on the page without actually having to do a full page refresh. 
+**Parcel** will give us a little development server where when we change something on the page, it will automatically refresh the page for us. If we change any of our CSS, it will automatically re-load the CSS on the page without actually having to do a full page refresh. 
 
+To get that running, we need to open up a terminal. If you need a refresher, go back to video 2 where Wes goes over the different types of terminals. 
 
-To get that running, we neeed to open up a terminal. If you need a refresher, go back to video 2 where Wes goes over the different types of terminals. 
-
-Once we have the terminal open, we need to get into the folder that contains our `face.html` file. 
+Once you have the terminal open, go into the folder that contains the `face.html` file. 
 
 To do that, you need to use the command `cd` to go into the correct directory.
 
@@ -75,23 +93,25 @@ That opens the terminal up in the built in terminal in VSCode.
 
 ![](@attachment/Clipboard_2020-04-20-20-35-34.png) 6:23
 
-In the second video, Wes had us install node and NPM, and you can check if you have both by typing `node -v` and `npm -v` in the terminal, which will tell you what versions you have installed.
+In the second video, Wes had us install **NodeJS** and **NPM**. You can check if you have both installed by typing `node -v` and `npm -v` in the terminal. That will return to you the version you have installed, as shown below 👇
 
 ![](@attachment/Clipboard_2020-04-20-20-36-49.png) 7:01
 
-If you need to check what the latest node version is, you can go to `nodejs.org` and find the LTS version which stands for long term support -- that is the most stable version. 
+If you need to check what the latest NodeJS version is, you can go to `nodejs.org` and find the LTS version which stands for long term support -- that is the most stable version. 
 
 ![](@attachment/Clipboard_2020-04-20-20-37-26.png) 7:04
 
-Once you have confirmed you have both of those and yo uare in the right directly, go ahead and type `npm install`.
+Once you have confirmed you have both of those and you are in the right directory, go ahead and type `npm install`.
 
-Wes will cover this all more in the  future, but what that does is it will take all our dependencies and install them for us. In our case we are installing Parcel. 
+Wes will cover this all more in the  future, but what that does is it will take all our dependencies and install them for us. 
+
+In our case we are installing Parcel. 
 
 ![](@attachment/Clipboard_2020-04-20-20-39-10.png) 7:45
 
 You should completely ignore the versions in this file, because that will likely change in the future and Wes will be keeping the files up to date. 
 
-While we wait for that to finish installing, lets take a look at the `face.html` structure to see what we are working with. 
+While we wait for that to finish installing, let's take a look at the `face.html` structure to see what we are working with. 
 
 
 ```html
@@ -142,19 +162,29 @@ While we wait for that to finish installing, lets take a look at the `face.html`
 </html>
 ```
 
-We have our base css which is just the blue background. Then we have our wrapper, which has a video element,  a canvas element, and then another canvas element. One canvas is for the video and one is for our face.
+We have our base CSS which is just the blue background. 
 
-Then we are linking up the `pixelated-face.js`. (Note: Wes is using a different file than us so he can demonstrate how the finished result works). After that we have a few styles that just center things on the page, nothing too interesting. 
+Then we have our wrapper, which has a video element, a canvas element, and another canvas element. 
 
-If we look at the terminal, the package should be done installing. 
+One canvas is for the video and one is for our face.
+
+Then we are linking up the `pixelated-face.js`. 
+
+_(Note: Wes is using a different file than you in the video so he can demonstrate how the finished result works)_. 
+
+After that we have a few styles that just center things on the page, nothing too interesting. 
+
+If you look at the terminal, the package should be done installing. 
 
 ![](@attachment/Clipboard_2020-04-20-20-45-59.png) 8:56
 
 You may notice in the terminal something like "found 39 high severity vulnerabilities". That will pop up when you `npm install` things. What happens there is that some dependencies have security vulnerabilities that need to be fixed and what happens is the people who create Parcel will fix that eventually. So if you see that, don't freak out. It's totally fine, hopefully NPM will hopefully find a better way to deal with those warnings. 
 
-We need to create a new file in our folder called `pixelated-face.js`. Inside of it add a `console.log("it works!");`.  
+Create a new file `pixelated-face.js` and inside of it log "it works!".
 
-Next go back to the terminal and in the same directory type `npm start`. What that will do is it will run Parcel against our `face.html` file and it will run our server at some URL. 
+Go back to the terminal and in the same directory type `npm start`. 
+
+That will run Parcel against the `face.html` file and it will run the server at some URL. 
 
 ![](@attachment/Clipboard_2020-04-20-20-51-38.png) 10:45
 
@@ -163,41 +193,56 @@ If you go to that URL in the browser and open the console, you should see "it wo
 ![](@attachment/Clipboard_2020-04-20-20-54-08.png) 11:03
 
 Sometimes you will see weird warnings like the yellow one above, and that is related to a Chrome extension that you have installed, and that is annoying because it gets in the way of writing our actual code. 
-That can be annoying because there is no way to get rid of them. One trick Wes has found it typing into the Filter `-DevTools` like so: 
+
+That can be annoying because there is no way to get rid of them. 
+
+One trick Wes has found it typing into the Filter `-DevTools` as shown below 👇
 
 ![](@attachment/Clipboard_2020-04-20-20-55-18.png) 11:20
 
-Now that we have everything up and running, lets dig into some code.
+Now that we have everything up and running, let's dig into some code.
 
 The first thing we want to do is select all the elements that are on our page. We have our video, our canvas, and then another canvas.
 
-We are going to access the user's webcam, dump it into the canvas element with the class of video, and then we are going to take the frames of that video, put a square around the person's face and then in the canvas element with class of face, we will pixelate the persons page. The canvas element work could be done on one canvas, but Wes prefers to keep them separate in case he ever wants to only pull one of those images out.
+We are going to access the user's webcam, dump it into the canvas element with the class of video. 
 
-Let's go ahead and grab those three classes (`webcam`, `video`, and `face`). Let's page them into our `pixelate-face.js` file. 
+Then we are going to take the frames of that video, put a square around the person's face. 
 
-Note: in the video, at this section, Wes is able to paste all three classes like this on the page
-```
+In the canvas element with class of face, we will pixelate the person's face. 
+
+The canvas element work could be done on one canvas, but Wes prefers to keep them separate in case he ever wants to only pull one of those images out.
+
+Go ahead and grab those three classes, `webcam`, `video`, and `face`. 
+
+Let's page them into our `pixelate-face.js` file. 
+
+_Note: in the video, at this section, Wes is able to paste all three classes like this on the page 👇_
+
+```js
 webcam
 video
 face
 ```
-In VSCode, he is able to press the shortcuts `CMD + A` and then `CMD + Shift + L`, and that gives him a cursor on every single line. 
+
+_In VSCode, he is able to press the shortcuts `CMD + A` and then `CMD + Shift + L`, and that gives him a cursor on every single line._ 
 
 ![](@attachment/Clipboard_2020-04-20-21-03-53.png) 12:35
 
-Add the following code:
+Add the following code 👇
 
-```
+```js
 const video = document.querySelector(".webcam");
 const canvas = document.querySelector(".video");
 const faceCanvas = document.querySelector(".face");
 ```
 
-We need to pull the context out of each canvas element now. We talked about that in our Etch-a-Sketch exercise but that is where we do the drawing. 
+We need to pull the context out of each canvas element now. 
 
-Modify the code like so to add the following: 
+We talked about that in our Etch-a-Sketch exercise but that is where we do the drawing. 
 
-```
+Modify the code as shown below 👇
+
+```js
 const video = document.querySelector(".webcam");
 
 const canvas = document.querySelector(".video");
@@ -207,7 +252,7 @@ const faceCanvas = document.querySelector(".face");
 const faceCtx = canvas.getContext("2d");
 ```
 
-Now we need to make a new face detector, and then let's log everything we have so far. 
+Now make a new face detector, and then let's log everything we have so far. 
 
 ```js
 const faceDetector = new FaceDetector();
@@ -216,27 +261,27 @@ console.log(video, canvas, faceCanvas, faceDetector);
 
 ![](@attachment/Clipboard_2020-04-20-21-14-48.png) 14:12
 
-Note: you might notice in VSCode that it says "FaceDetector is not defined" if you hover over `new FaceDetector()`. 
+_Note: you might notice in VSCode that it says "FaceDetector is not defined" if you hover over `new FaceDetector()`._
 
 ![](@attachment/Clipboard_2020-04-20-21-15-35.png) 14:18
 
-That is because it is looking for a function called `FaceDetector`. The way we can solve that is to say `const faceDetector = new window.FaceDetector()`. THat is fine to do (Wes told us not to do it in looping) here beause this FaceDetector API does not exist in NodeJS land.
+_That is because it is looking for a function called `FaceDetector`. The way we can solve that is to say `const faceDetector = new window.FaceDetector()`. That is fine to do (Wes told us not to do it in looping) here beause this FaceDetector API does not exist in NodeJS land._
 
 The next thing we need to do is write a function that populates the user's video. 
 
-To do that we need to grab the stream from the user's webcam. 
+To do that, grab the stream from the user's webcam. 
 
-```
+```js
 function populateVideo(){
   const stream = navigator.mediaDevices.getUserMedia();
 }
 ```
 
-We need to pass `getUserMedia()` some options, saying if you want video or audio (we just want video). You can just say `video:true` or you can ask for a specific size from it. 
+You need to pass `getUserMedia()` some options, specifying if you want video or audio (we just want video). You can just pass `video:true` or you can ask for a specific size from it. 
 
-Modify the code like so and get rid of the log we had added earlier.
+Modify the code as shown below and get rid of the log we added earlier.
 
-```
+```js
 function populateVideo() {
   const stream = navigator.mediaDevices.getUserMedia({
     video: { width: 1280, height: 720 },
@@ -245,18 +290,25 @@ function populateVideo() {
 }
 ```
 
-If you refresh the HTML page and try to run `populateVideo()`, you will see an error like so:
+If you refresh the HTML page and try to run `populateVideo()`, you will see an error as shown below. 
 
 ![](@attachment/Clipboard_2020-04-20-21-26-25.png) 15:50
 
-Now that we are running thing through a bundler, we no longer have the ability to access our functions globally via the console. 
-If you ever do want to do that, you can do `window.populateVideo = populateVideo;`. That will surface it for you, but that is not a great way to do it. 
+Now that we are running things through a bundler, we no longer have the ability to access our functions globally via the console. 
 
-The best way to do it would just be to add a log in your javascript file and you can see it. If you do ever need to access it from the chrome dev tools, you can right click it, and click store as global variable.
+If you ever do want to do that, you can do `window.populateVideo = populateVideo;`. 
+
+That will surface it for you, but that is not a great way to do it. 
+
+The best way to do it would just be to add a log in your javascript file and you can see it. 
+
+If you do ever need to access it from the chrome dev tools, you can right click it, and click store as global variable.
 
 ![](@attachment/Clipboard_2020-04-20-21-29-44.png) 16:48
 
-That will store it in a global variable called `temp1`. If you try calling `temp1()`, you will see something returned to us called a **promise**.  
+That will store it in a global variable called `temp1`. 
+
+If you try calling `temp1()`, you will see something returned to us called a **promise**.  
 
 ![](@attachment/Clipboard_2020-04-20-21-30-27.png) 16:57
 
@@ -270,12 +322,11 @@ What that means is we have not been returned the actual stream of video, instead
 
 We will get more into promises in future videos, but for now just know that `navigator.mediaDevices.getUserMedia()` is a special kind of function that returns this thing called a promise.
 
-In order for us to wait for the stream to come back from the webcam, because that takes some time, we need to first mark the function a `async` by typing the word `async` in front of it, and add the keyword `await` before we call `navigator.mediaDevices.getUserMedia()`. 
+In order to wait for the stream to come back from the webcam, because that takes some time, we need to first mark the function as `async` by typing the word `async` in front of it, and add the keyword `await` before we call `navigator.mediaDevices.getUserMedia()`. 
 
-We will also add a call to `populateVideo()` where we used to log it.
+Add a call to `populateVideo()` where we used to log it. 
 
-
-```
+```js
 async function populateVideo() {
   const stream = await navigator.mediaDevices.getUserMedia({
     video: { width: 1280, height: 720 },
@@ -285,40 +336,48 @@ async function populateVideo() {
 populateVideo();
 ```
 
-If you refresh the page and look at the console, you may see the following:
+If you refresh the page and look at the console, you may see the following 👇
 
 ![](@attachment/Clipboard_2020-04-21-06-28-28.png) 18:09
 
 If you do not, you may see a little red X on your video camera icon in the browser tab. 
 
-To fix that, you need to click on it and select "continue" or "always allow access". Click done, then reload the page, and then you should see a media stream in the console.
+To fix that, you need to click on it and select "continue" or "always allow access". 
+
+Click done, then reload the page, and then you should see a media stream in the console.
 
 ![](@attachment/Clipboard_2020-04-21-06-28-56.png) 18:18
 
 How is what is returned to us via the `MediaStream` useful?
 
-We can now put the stream into our video which we have already selected. You would normally pass the video something like `video.srcObject = "dog.mp4";` but we will be passing the video the stream instead and then calling `play()` on it. We will put an `await` infront of where we call `video.play()` because sometimes it takes a few seconds to start playing and that will wait for it.
+We can now put the stream into our video which we have already selected. 
 
-```
+You would normally pass the video something like `video.srcObject = "dog.mp4";` but instead you will be passing the video the stream then calling `play()` on it.
+
+Put an `await` infront of where you call `video.play()` because sometimes it takes a few seconds to start playing and that will wait for it.
+
+```js
 video.srcObject = stream;
 await video.play();
 ```
 
 If you refresh the page, you should see it worked. 
 
-So what did we do there? We made a function called `popuateVideo()`, we grabbed the feed off the user's webcam, and then we set the object to be the stream, and then played it. 
+So what did we do there? 
+
+We made a function called `popuateVideo()`, where we grabbed the feed off the user's webcam, and then we set the object to be the stream, and then played it. 
 
 Another thing we need to do is size the canvases to be the same size as the video.
 
-If we were to add a `console.log(video.videoWidth, video.videoHeight);` we should get 1280 x 720. 
+If you were to log `video.videoWidth, video.videoHeight` you should get 1280 x 720. 
 
-If we change one line of code from `navigator.mediaDevices.getUserMedia({video: { width: 1280, height: 720 }});` to `navigator.mediaDevices.getUserMedia({video: true});`, and refreshed the page, we should see the sixes 640 x 480. Let's switch that back.
+If you change one line of code from `navigator.mediaDevices.getUserMedia({video: { width: 1280, height: 720 }});` to `navigator.mediaDevices.getUserMedia({video: true});`, and refreshed the page, you should see the sixes 640 x 480. Let's switch that back.
 
-Note: these sizes might not be the same on your computer, depending on your webcam. 
+_Note: these sizes might not be the same on your computer, depending on your webcam. _
 
-So we need to size the canvases to match the video, which we can do like so:
+So you need to size the canvases to match the video, which you can do like so:
 
-```
+```js
 canvas.width = video.videoWidth;
 canvas.height = video.videoHeight;
 
@@ -328,35 +387,39 @@ faceCanvas.height = video.videoHeight;
 
 Now we have two canvases that are the same size as the video feed.
 
-The next thing we need to do is work with the FaceDetection API. We will call it `detect` and it also needs the `async` keyword in front of it (we will cover why in future video). 
+The next thing we need to do is work with the FaceDetection API. 
 
-Now we want to go ahead and detect faces that are in the shot.
+We will call it `detect` and it also needs the `async` keyword in front of it (we will cover why in future video). 
 
-Next we will use the `faceDetector` variable we created earlier and call `.detect()` on it. You pass `detect()` reference to three things:
+We want to detect faces that are in the shot.
+
+Then we will use the `faceDetector` variable we created earlier and call `.detect()` on it. 
+
+You pass `detect()` reference to three things:
 - an image
 - a video
 - or a canvas
 
-In our case we are going to pass it access to the video. 
+In our case, pass it access to the video. 
 
-```
+```js
 async function detect(){
   const faces = await faceDetector.detect(video);
   console.log(faces);
 }
 ```
 
-Now, we need to run our `detect()` function once, but after the video has been populated. If you run `detect()` when there is no video, it will not find any faces.
+We need to run our `detect()` function once, but after the video has been populated. If you run `detect()` when there is no video, it will not find any faces.
 
-The way we can do that is by tagging a `.then()` onto `populateVideo` like so:
+The way you can do that is by tagging a `.then()` onto `populateVideo` like so 👇
 
-```
+```js
 populateVideo().then(detect);
 ```
 
 This is promise based, which we will cover in more detail in future videos. 
 
-If you refresh the page and open the console now, you should see a face detected. IT will tell you exactly where the eyes, the nose, and the mouth are. 
+If you refresh the page and open the console now, you should see a face detected. It will tell you exactly where the eyes, the nose, and the mouth are. 
 
 ![](@attachment/Clipboard_2020-04-21-06-58-49.png) 23:24
 
@@ -364,9 +427,13 @@ It also gives us the `boundingBox` which is the square around the user's head.
 
 The way we are calling `detect()` right now, it will only run once after `populateVideo()` is done playing.
 
-So what we need to do is call `detect()` over aned over again. You might be thinking we can use an interval for this. That is the way we used to do this stuff, but there is a better way, that allows you to do stuff as fast as possible, is to use something called **request animation frame**.
+So what we need to do is call `detect()` over and over again. 
 
-Request animation frame allows the browser to tell us when we should repaint or redo something. Instead of us trying to do something every 60 miliseconds, because some people's computers vary in speed, request animation frame will repaint or rerun the stuff on the screen a lot less frequently on a computer that isn't as fast. 
+You might be thinking we can use an interval for this. 
+
+That is the way we used to do this stuff, but there is a better way, that allows you to do things as fast as possible, which is to use something called **request animation frame**.
+
+**Request animation frame** allows the browser to tell us when we should repaint or redo something. Instead of us trying to do something every 60 miliseconds, because some people's computers vary in speed, request animation frame will repaint or rerun the stuff on the screen a lot less frequently on a computer that isn't as fast. 
 
 So what we will do is ask the browser when the next animation frame is, and then tell it to run detect for us. 
 

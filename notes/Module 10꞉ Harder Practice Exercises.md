@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-08-21T00:23:11.703Z'
+modified: '2020-08-25T09:55:45.113Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -371,9 +371,9 @@ Another thing we need to do is size the canvases to be the same size as the vide
 
 If you were to log `video.videoWidth, video.videoHeight` you should get 1280 x 720. 
 
-If you change one line of code from `navigator.mediaDevices.getUserMedia({video: { width: 1280, height: 720 }});` to `navigator.mediaDevices.getUserMedia({video: true});`, and refreshed the page, you should see the sixes 640 x 480. Let's switch that back.
+If you change one line of code from `navigator.mediaDevices.getUserMedia({video: { width: 1280, height: 720 }});` to `navigator.mediaDevices.getUserMedia({video: true});`, and refreshed the page, you should see the sixes 640 x 480. After you test that, switch it back.
 
-_Note: these sizes might not be the same on your computer, depending on your webcam. _
+_Note: these sizes might not be the same on your computer, depending on your webcam._
 
 So you need to size the canvases to match the video, which you can do like so:
 
@@ -409,7 +409,7 @@ async function detect(){
 }
 ```
 
-We need to run our `detect()` function once, but after the video has been populated. If you run `detect()` when there is no video, it will not find any faces.
+We need to run the `detect()` function once, but after the video has been populated. If you run `detect()` when there is no video, it will not find any faces.
 
 The way you can do that is by tagging a `.then()` onto `populateVideo` like so 👇
 
@@ -417,7 +417,7 @@ The way you can do that is by tagging a `.then()` onto `populateVideo` like so �
 populateVideo().then(detect);
 ```
 
-This is promise based, which we will cover in more detail in future videos. 
+This is promise-based, which we will cover in more detail in future videos. 
 
 If you refresh the page and open the console now, you should see a face detected. It will tell you exactly where the eyes, the nose, and the mouth are. 
 
@@ -425,19 +425,17 @@ If you refresh the page and open the console now, you should see a face detected
 
 It also gives us the `boundingBox` which is the square around the user's head.
 
-The way we are calling `detect()` right now, it will only run once after `populateVideo()` is done playing.
+The way we are calling `detect()` right now, it will only run once after `populateVideo()` is done playing. So we need to call `detect()` over and over again. 
 
-So what we need to do is call `detect()` over and over again. 
+You might be thinking we can use an interval for this. That is the way we used to do this stuff, but there is a better way, that allows you to do things as fast as possible, which is to use something called **request animation frame**.
 
-You might be thinking we can use an interval for this. 
+**Request animation frame** allows the browser to tell us when we should repaint or redo something. 
 
-That is the way we used to do this stuff, but there is a better way, that allows you to do things as fast as possible, which is to use something called **request animation frame**.
+Instead of us trying to do something every 60 miliseconds, because computers vary in speed, request animation frame will repaint or rerun the stuff on the screen a lot less frequently on a computer that isn't as fast. 
 
-**Request animation frame** allows the browser to tell us when we should repaint or redo something. Instead of us trying to do something every 60 miliseconds, because some people's computers vary in speed, request animation frame will repaint or rerun the stuff on the screen a lot less frequently on a computer that isn't as fast. 
+Ask the browser when the next animation frame is, and then tell it to run `detect`, like so 👇 
 
-So what we will do is ask the browser when the next animation frame is, and then tell it to run detect for us. 
-
-```
+```js
 async function detect() {
   const faces = await faceDetector.detect(video);
   console.log(faces);
@@ -448,43 +446,41 @@ async function detect() {
 populateVideo().then(detect);
 ```
 
-If you refresh the page, you should see lots of DetectedFaces logged in the console. 
+If you refresh the page, you should see lots of `DetectedFaces` logged in the console. 
 
-Let's look at what is happening there..
+What we did there is instead of calling `requestAnimationFrame(detect)`, we could have just called `detect()` and that works pretty well, but because of performance reasons, it's better to call `requestAnimationFrame()`.
 
-Instead of calling `requestAnimationFrame(detect)`, we could have just called `detect()` and that works pretty well, but because of performance reasons, it's better to call `requestAnimationFrame()`.
+What we have just done there is a concept called **recursion**. 
 
-What we have just done there is a concept called **recursion**. Recursion is when a function calls itself. It will run forever, and ever, until something stops it, such as an exit condition.
+**Recursion** is when a function calls itself. It will run forever, and ever, until something stops it, such as an exit condition. Recursion is when a function calls itself, inside of itself. 
 
-Recursion is when a function calls itself, inside of itself. Detect is being called from `detect` which allows us to run it infinitely.
+`detect` is being called from `detect` which allows us to run it infinitely.
 
-Let's take a look at the DetectedFace. 
+Let's take a look at the `DetectedFace`. 
 
 ![](@attachment/Clipboard_2020-04-21-07-19-00.png) 26:24
 
-As you can see, it gives us an array with one item. So let's `console.log(faces.length);`.
+As you can see, it gives us an array with one item. Log `faces.length`. 
 
 ![](@attachment/Clipboard_2020-04-21-07-19-53.png) 26:44
 
-As you can see, it only logs one face until Wes holds up the queens face on a dollar bill. 
+As you can see, it only logs one face until Wes holds up the queens face on a dollar bill to the webcam. 
 
 ![](@attachment/Clipboard_2020-04-21-07-20-57.png) 27:35
 
-When Wes holds up a picture, FaceDetection detects all four faces.
+When Wes holds up a picture, Face Detection detects all four faces.
 
-Next up, we need to do two things:
-- we need to draw triangles around the faces that are found
-- we need to censor the face by pixelating the area that is around their face.
+Next up, we need to do 2 things:
+- draw triangles around the faces that are found
+- censor the face by pixelating the area that is around their face
 
-We will make a function called `drawFace` which will take in the user's face. We need a couple of pieces of information. 
-
-We need to know how wide and high is the user's face, because the further away the subjects are from the camera will affect that. 
+Make a function `drawFace` which will take in the user's face. The function will need to know how wide and high is the user's face, because the further away the subjects are from the camera will affect that. 
 
 We also need the X and Y coordinate from the top. For example over 400 pixels and down 300 pixels is where the head starts.
 
-Let's start by just logging the faces and calling `drawFace()`.  We will loop over all the faces in a `.forEach` and call `drawFace` for each. 
+Start by just logging the faces and calling `drawFace()`.  Loop over all the faces in a `.forEach` and call `drawFace` for each. 
 
-```
+```js
 async function detect() {
   const faces = await faceDetector.detect(video);
   console.log(faces);
@@ -506,21 +502,20 @@ Let's get the bounding box from one of those. We need the `top` and `left`, `wid
 
 ![](@attachment/Clipboard_2020-04-21-07-25-23.png) 29:17
 
-
-```
+```js
 function drawFace(face) {
   const { width, height, top, left } = face.boundingBox;
   console.log(width, height, top, left);
 }
 ```
 
-If you refresh the page, you should see lots of logs like the following: 
+If you refresh the page, you should see lots of logs like the following 👇
 
 ![](@attachment/Clipboard_2020-04-21-07-28-44.png)
 
-One trick you can do is if within our log, we just wrap the items in curly brackets like this, it will actually show us the property names and values.
+One trick you can do is if within the log, you just wrap the items in curly brackets as shown below, it will log the property names and values.
 
-```
+```js
 console.log({width, height, top, left});
 ```
 
@@ -536,15 +531,15 @@ We are going to overlay it with the video in order to do that.
 
 Let's set a couple of defaults at the top of the page. 
 
-```
+```js
 const ctx = canvas.getContext("2d");
 ctx.strokeStyle = "#ffc600";
 ctx.lineWidth = 2;
 ```
 
-Now let's go into our `drawFace` function and we will call `ctx.strokeRect()`, which is the API for drawing a rectangle. 
+Within `drawFace` function and call `ctx.strokeRect()`, which is the API for drawing a rectangle. 
 
-```
+```hs
 function drawFace(face) {
   const { width, height, top, left } = face.boundingBox;
   ctx.strokeRect(left, top, width, height);
@@ -557,9 +552,9 @@ As you can see, it does work. if you move your face around, the boxes should mov
 
 We need to fix a few things though. One of those things is that our rectangles are not overlaid on top. 
 
-Note: if the rectanges are overlaid for you, you  can ignore these instructions.
+_Note: if the rectanges are overlaid for you, you can ignore these instructions._
 
-Let's take a look at our `face.html`. It seems like it's ignoring our style tag. Let's try moving our styles to the head. 
+Let's take a look at `face.html`. It seems like it's ignoring the style tag. Try moving the styles to the head, as shown below.
 
 ```html
   <style>
@@ -597,9 +592,9 @@ If you refresh the page now, it should work. This likely happened because we are
 
 ![](@attachment/Clipboard_2020-04-21-07-52-21.png) 32:29 
 
-The next thing to fix is that the stroke that the rectangle is created in is not yellow. Let's try moving where we set the strokeStyle and the lineWidth into the function right before we draw the rectangle like so:
+The next thing to fix is that the stroke that the rectangle is created in is not yellow. Try moving where you set `strokeStyle` and `lineWidth` into the function right before you draw the rectangle like so 👇
 
-```
+```js
 function drawFace(face) {
   const { width, height, top, left } = face.boundingBox;
   ctx.strokeStyle = "#ffc600";
@@ -608,9 +603,9 @@ function drawFace(face) {
 }
 ```
 
-The next thing to fix is that they are not clearing. We can fix that by calling `ctx.clearRect` before we draw the rect. 
+The next thing to fix is that they are not clearing. Fix that by calling `ctx.clearRect` before we draw the rect. 
 
-```
+```js
 ctx.clearRect(0,0, canvas.width, canvas.height)
 ```
 
@@ -620,25 +615,24 @@ It is working pretty well. It is a bit jumpy right now, it used to be a lot bett
 
 The next thing we want to do is pixelate the user's face on top of it. Lets go ahead and do that. 
 
-We will create a function called `censor` which will take in a `face`. In our case, we don't care about anything but the bounding box.  SO instead of doing something like this:
+Create a function called `censor` which will take in a `face`. In our case, we don't care about anything but the bounding box, so instead of doing something like below 👇
 
-
-```
+```js
 function censor(face){
   const faceDetails = face.boundingBox;
 }
 ```
 
-we are going to destructure the bounding box properties directly like so:
+Destructure the bounding box properties directly like so 👇
 
-```
+```js
 function censor({boundingBox}){
 }
 ```
 
-Now we just have a variable called `boundingBox`. We could also rename it to a variable called face like so:
+Now we just have a variable called `boundingBox`, which we could have rename to a variable called `face` like so 👇
 
-```
+```js
 function censor({boundingBox: face}){
  console.log(face);
 }
@@ -646,52 +640,62 @@ function censor({boundingBox: face}){
 
 ![](@attachment/Clipboard_2020-04-21-08-01-54.png) 35:28
 
-As you can see, we are getting that bounding box. 
+As you can see, we have bounding box. 
 
-Now the question is how do you censor something, right? There are a couple of different ways you can do it. 
+Now the question is how do you censor something? 
+
+There are a couple of different ways you can do it. 
 
 The best way Wes has found is to take a snapshot of the user's face, scale it down very very small, and then paint it to the canvas. And then immediately after that, pull it off the canvas, stretch it back up and put it back in. 
 
-So essentially you make it really small and then save it and lose all the pixel quality, and them you take it out, stretch it back up again, and thats how you get the pixelation look. 
+So essentially you make it really small and then save it and lose all the pixel quality, and then you take it out, stretch it back up again, and that's how you get the pixelation look. 
 
-Lets first write out comments for what we plan to do. 
+Let's first write out comments for what we plan to do. 
 
-```
+```js
 function censor({boundingBox:face}){
   //draw the small face
   // take that face back out and draw it back normal size
 }
 ```
 
-Now the way we are going to do this is we are going to take our second canvas context, `faceCtx` and call `drawImage()` on it. `drawImage` takes in a lot of arguments, let's look it up on MDN.
+Now the way we are going to do this is we are going to take our second canvas context, `faceCtx` and call `drawImage()` on it. 
+
+`drawImage` takes in a lot of arguments, let's look it up on MDN.
 
 ![](@attachment/Clipboard_2020-04-21-18-00-57.png) 37:01
 
-So it takes a few set of options. You can either pass in 3 (`image`, `dx`, `dy`), 5(`image`, `dx`, `dy`, `dWidth`, `dHeight`), or it takes 9 (`image`, `sx`, `sy`, `sWidth`, `sHeight`, `dx`, `dy`, `dWidth`, `dHeight`). We will be using all 9, and Wes will do his best to explain what each parameter is.
+(t takes a few set of options. You can either pass in 3 (`image`, `dx`, `dy`), 5(`image`, `dx`, `dy`, `dWidth`, `dHeight`), or it takes 9 (`image`, `sx`, `sy`, `sWidth`, `sHeight`, `dx`, `dy`, `dWidth`, `dHeight`). 
 
-Let's get started.  The first argument `drawImage` takes is the image you want to draw to it, so we will pass in our `video`, `faceCtx.drawImage(video);`
+We will be using all 9, and Wes will do his best to explain what each parameter is.
+
+Let's get started.  
+
+The first argument `drawImage` takes is the image you want to draw to it, so we will pass in our `video`, `faceCtx.drawImage(video);`
 
 Then it wants the `x` and the `y` coordinates of where it should start drawing the image so we will pass `0,0`, like so `faceCtx.drawImage(video, 0, 0);`.  Save the file. 
 
 If you just look at the HTML page, it might look like nothing has changed but if you inspect it, you will see that what we are actually seeing is the canvas, not the video. 
-If we add a `display:none` css style to the video, you will notice that you can still see yourself. The video is being painted onto the canvas.
+
+If we add a `display:none` CSS style to the video, you will notice that you can still see yourself. The video is being painted onto the canvas.
 
 ![](@attachment/Clipboard_2020-04-21-18-11-21.png) 37:48
 
-Now this isn't exactly what we want to do. We want to take the square that is painting on Wes' face and throw it on there.  Comment out the `faceCtx.drawImage()` line of code for a second to make sure we have the square painting. If you do, that is good.  
+Now this isn't exactly what we want to do. We want to take the square that is painting on Wes' face and throw it on there.  
 
-Now lets go through every single argument, one by one. 
+Comment out the `faceCtx.drawImage()` line of code for a second to make sure you have the square painting. If you do, that is good.  
 
-There are 9 arguments to the function.
+Now let's go through every single of the 9 arguments, one by one. 
 
-5 are source args, which means they are about how we pull data out of this video, and then 4 arguments about how we want to paint it into. We only want the inside of the square to be painted onto it.
+5 are source args, which means they are about how we pull data out of this video, and then 4 arguments about how we want to paint it into. 
+
+We only want the inside of the square to be painted onto it.
 
 The first argument is where does the source come from, which in this case is our video tag. 
 
 The next two are `face.x` and `face.y`, which are where do we start the source pull from? We are trying to pull the square out so we want to start at the top left corner of the square. 
 
 If we have where we start from, we need to know how wide and how high it needs to go, so we pass `face.width` and `face.height`. That is all the pulling out arguments. 
-
 
 ```js
 function censor({boundingBox:face}){
@@ -708,15 +712,19 @@ function censor({boundingBox:face}){
 }
 ```
 
-Now the next four arguments are related to drawing it into the face canvas that we have. Now we have to ask "where do we start drawing it at?" The answer is `face.x` and `face.y`. 
+Now the next four arguments are related to drawing it into the face canvas that we have. We have to ask "where do we start drawing it at?" 
+The answer is `face.x` and `face.y`. 
 
-The next arguments are how wide and how high should I paint it to? You might think, okay we can just use `face.width` and `face.height`.  However if you try that, you will see a really weird effect where your face is almost delayed. 
+The next arguments are how wide and how high should I paint it to? 
+You might think, okay we can just use `face.width` and `face.height`.  However if you try that, you will see a really weird effect where your face is almost delayed. 
 
-What is actually happening there is that its just painting Wes' face to the square, and then everything you see outside of the square is the video element, and then everything inside the square is the canvas. There is a bit of a delay there. 
+What is actually happening there is that it's just painting Wes' face to the square, and then everything you see outside of the square is the video element, and then everything inside the square is the canvas. 
 
-So the way it will work is we are going to take 10 pixels by 10 pixels and then peel it back up once we have done it. So instead of passing `face.width` and `face.height`, we will pass `10,10`. 
+There is a bit of a delay there. 
 
-```
+So the way it will work is we are going to take 10 pixels by 10 pixels and then peel it back up once we have done it. Instead of passing `face.width` and `face.height`, we will pass `10,10`. 
+
+```js
 //4 draw args
 face.x, //where should we start drawing the x and y?
 face.y,
@@ -727,9 +735,12 @@ face.y,
 ![](@attachment/Clipboard_2020-04-21-18-44-26.png) 40:29
 
 You can see in the very top corner there is a tiny little Wes. 
-Let's make a variable called size instead of hardcoding the values 10,10, so we can quickly reference that whenever we need it.  
 
-Add the following towards the top of the file: `const SIZE = 10;`. Why did we do it in all caps? it's a commomn practice in the graphics canvas world, any variables that are constant throughout the application, they do them in all caps. 
+Make a variable `size` instead of hardcoding the values 10,10, so we can quickly reference that whenever we need it.  
+
+Add the following towards the top of the file: `const SIZE = 10;`. 
+
+Why did we do it in all caps? it's a commomn practice in the graphics canvas world, any variables that are constant throughout the application, they do them in all caps. 
  
 ```js
 faceCtx.drawImage(
@@ -751,12 +762,16 @@ Now we need to draw the small image back on but scaled up. Remember -- the whole
 
 To do that we will use `drawImage`. 
 
-The source is the faceCanvas itself, and we want to start from the top left corner so we pass `face.x` and `face.y`. 
+The source is the `faceCanvas` itself, and we want to start from the top left corner so we pass `face.x` and `face.y`. 
 
 For how wide and how high we want to go, it's no longer the width of the face, it's the width of the tiny one, so we can pass `SIZE` for both width and height.
 
+Next we have our drawing arguments. 
 
-Next we have our drawing args. Where should we start drawing the x and the y? `face.x` and `face.y`. And then for how wide and high should we do it, we want `face.width` and `face.height`.
+Where should we start drawing the x and the y? 
+`face.x` and `face.y`.
+
+And then for how wide and high should we do it, we want `face.width` and `face.height`.
 
 ```js
 // draw the small face back on, but scaled up
@@ -776,10 +791,9 @@ faceCtx.drawImage(
 
 If you refresh the page, you might notice it's not working. 
 
-Wes spent 20 minutes debugging this to figure out why is it not painting my face once it is scaled up? Wes' debugging mindset went through and said it looks like it's not actually drawing anything there because if you comment that entire small face drawImage, it works the exact same. 
+Wes spent 20 minutes debugging this to figure out why is it not painting his face once it is scaled up? Wes' debugging mindset went through and said it looks like it's not actually drawing anything there because if you comment that entire small face `drawImage`, it works the exact same. 
 
-If you give it a separate src, like the `video` to pull from instead of `faceCanvas`, you will see it works. 
-
+If you give it a separate `src`, like the `video` to pull from instead of `faceCanvas`, you will see it works. 
 
 ```js
 // draw the small face back on, but scaled up
@@ -797,10 +811,15 @@ faceCtx.drawImage(
 );
 ```
 
-So why is it not painting to the `faceCanvas`? Wes switched the source back and then went to the element and set `display:none` on the canvas element with class of `face`, and nothing changed. 
+So why is it not painting to the `faceCanvas`? 
+
+Wes switched the source back and then went to the element and set `display:none` on the canvas element with class of `face`, and nothing changed. 
 
 So that's when Wes thought maybe we are drawing to the wrong canvas. But then he thought we have two canvases. 
-The first canvas is the regular canvas with `ctx`. The second canvas is the canvas with the `faceCtx`.  So what is wrong with the variables?!
+The first canvas is the regular canvas with `ctx`. 
+The second canvas is the canvas with the `faceCtx`.  
+
+So what is wrong with the variables?!
 
 It was right here... 
 
@@ -811,16 +830,16 @@ const faceCtx = canvas.getContext("2d");
 
 We grabbed the `faceCanvas` element correctly, but then we assigned `faceCtx` the wrong canvas! We used `canvas` instead of `faceCanvas`.
 
-```
+```js
 const canvas = document.querySelector(".video");
 const ctx = canvas.getContext("2d");
 const faceCanvas = document.querySelector(".face");
 const faceCtx = canvas.getContext("2d");
 ```
 
-Modify that code to: 
+Modify the code above as shown below 👇
 
-```
+```js
 const canvas = document.querySelector(".video");
 const ctx = canvas.getContext("2d");
 const faceCanvas = document.querySelector(".face");
@@ -831,32 +850,33 @@ const faceCtx = faceCanvas.getContext("2d");
 
 Now it is finally working! It is taking our faces and spreading it all over. There are few things we can do to fix some of that stuff. 
 
-Let's go into our `censor` function.  In the first line of the function add `faceCtx.imageSmoothingEnabled = false`.  If you don't have that, the image is just kind of blury so what the browser does is it says "oh this is pixelated!, let me try to smooth it out".  But if you turn that off, you get the real pixelated values. 
+Go into the `censor` function.  In the first line of the function add `faceCtx.imageSmoothingEnabled = false`.  
+
+If you don't have that, the image is just kind of blury so what the browser does is it says "oh this is pixelated!, let me try to smooth it out".  But if you turn that off, you get the real pixelated values. 
 
 ![](@attachment/Clipboard_2020-04-21-19-06-41.png) 45:04
 ![](@attachment/Clipboard_2020-04-21-19-07-31.png)
 
-We also want to clear the canvas before we do any of this so underneath that smoothing line, add `faceCtx.clearRect(0, 0, faceCanvas.width, faceCanvas.height)`.
+We also want to clear the canvas before we do any of this so add `faceCtx.clearRect(0, 0, faceCanvas.width, faceCanvas.height)`.
 
 Now the canvas should clear when we move. 
 
-One other thing is it doesn't do a great job at getting Wes' whole face. So what Wes will do is go to the top of the file and create a scale variable like so `const SCALE = 1.5;`
+One other thing is it doesn't do a great job at getting Wes' whole face. What Wes will do is go to the top of the file and create a scale variable like so `const SCALE = 1.5;`
 
 ![](@attachment/Clipboard_2020-04-21-19-10-48.png) 45:33
 
-Now let's go to our second draw and make a few variables that are scaled up. 
+Go to our second draw and make a few variables that are scaled up. 
 
 First we will make a width and height:
 
-```
+```js
 const width = face.width * SCALE;
 const height = face.height * SCALE;
 ```
 
-Then we will go down to our `drawImage` function and replace the last two values with our `width` and `height` variables like so: 
+Then we will go down to the `drawImage` function and replace the last two values with the `width` and `height` variables like so 👇
 
-
-```
+```js
 // draw the small face back on, but scaled up
 const width = face.width * SCALE;
 const height = face.height * SCALE;
@@ -879,9 +899,9 @@ faceCtx.drawImage(
 
 That makes a bigger scaled up face. Now we need to move the canvas over a bit based on the scale. For that we need a bit of math. 
 
-We will take our drawing args from `faceCtx.drawImage()` and do 
+We will take our drawing args from `faceCtx.drawImage()` and do the following 👇
 
-```
+```js
 // Drawing args
 face.x - (width - face.width) / 2,
 face.y - (height - face.height) / 2,
@@ -896,9 +916,9 @@ Now you can play around with the size and scale variables. If you change the siz
 
 You can feel free to stop the video here, but if you want to continue, we will create some sliders that will change these `SIZE` and `SCALE`  values. 
 
-Let's make an options variable that is an object with properties of `SIZE` and `SCALE` like so:
+Make an `options` variable that is an object with properties of `SIZE` and `SCALE` like so 👇
 
-```
+```js
 const options = {
   SIZE: 10,
   SCALE: 1.35
@@ -907,17 +927,15 @@ const options = {
 
 Then everywhere in the code we are calling those variables, modify the code so instead of passing just `SIZE` we pass `options.SIZE`.
 
-For example
-
 ```js
 // draw the small face back on, but scaled up
 const width = face.width * options.SCALE;
 const height = face.height * options.SCALE;
 ```
 
-Now let's go back to the `face.html` and make some controls. 
+Go back to the `face.html` and make some controls. 
 
-Let's give ourselves an input of type "range", with a minimnum value of 0.3 and a max of 3 and the step will be 0.1. Then we need to add a label. 
+Give ourselves an input of type "range", with a minimum value of 0.3 and a max of 3 and the step will be 0.1. Then we need to add a label. 
 
 ```html
 <div class="controls">
@@ -930,7 +948,7 @@ Let's give ourselves an input of type "range", with a minimnum value of 0.3 and 
 
 ![](@attachment/Clipboard_2020-04-21-19-26-08.png) 50:05
 
-Let's make the defaults line up with what we set.  Let's add `value="1.35"` to the input range. 
+Let's make the defaults line up with what we set.  Add `value="1.35"` to the input range. 
 
 ![](@attachment/Clipboard_2020-04-21-19-27-29.png) 50:18
 
@@ -938,35 +956,37 @@ As you can see now the default value is set on the scale slider.
 
 Duplicate that code and let's do the same for size. Size will start at 10 and go from 1 all the way to 100, and the step will go up by 1. 
 
-```
+```html
 <label for="SIZE">
   SIZE:
   <input type="range" name="SIZE" min="1" max="100" step="1" value="10" />
 </label>
 ```
 
-Now we need to add some event listeners. We need to select the inputs first. We will select every input within the `controls` class with a type of "range": 
+Now we need to add some event listeners. 
 
-```
+Select the inputs first by selecting every input within the `controls` class with a type of "range" 👇
+
+```js
 const optionsInputs = document.querySelector('.controls inputs[type="range"]);
 console.log(optionsInputs);
 ```
 
-If you refresh the page and inspect the console, there is nothing! We did make a mistake, we should have used `querySelectorAll` so modify that code but it still doesn't give us anything. 
+If you refresh the page and inspect the console, there is nothing! We did make a mistake, we should have used `querySelectorAll`. If you modify the code to that, you will see that it still doesn't give us anything. 
 
 ![](@attachment/Clipboard_2020-04-21-19-38-17.png) 51:46
 
-Oh we have a typo! It should be `.controls input[type="range"]` not inputs plural. Modify the code accordingly. 
+Oh we have a typo! It should be `.controls input[type="range"]` not `inputs` plural. Modify the code accordingly. 
 
-Now we can make an event listener for each of those. we will add the event listener on the `input` so it will run whenever the input changes and then we will call `handleOption`. 
+Make an event listener for each of those. Add the event listener on the `input` so it will run whenever the input changes and then call `handleOption`. 
 
-```
+```js
 optionsInputs.forEach(input => input.addEventListener('input',  handleOption));
 ```
 
-Above that let's add the `handleOption` function.
+Above that, add the `handleOption` function.
 
-```
+```js
 function handleOption(event){
   console.log(event.currentTarget.value);
 }
@@ -974,11 +994,11 @@ function handleOption(event){
 
 Now when you move the slider, you should see the values changing in the console. 
 
-Now what we need to do is pull out the value and the name of the input. Add `console.log(event.currentTarget.name);` as well. 
+Next we need to pull out the value and name of the input. Log `event.currentTarget.name` as well. 
 
 ![](@attachment/Clipboard_2020-04-21-19-46-53.png) 53:07
 
-Let's destructure those `value` and `name` variables. 
+Destructure the `value` and `name` variables. 
 
 ```js
 function handleOption(event){
@@ -987,15 +1007,15 @@ function handleOption(event){
 }
 ```
 
-Now inputs always come in as strings so we need to conver that back to numbers like so:
+Inputs always come in as strings so tiy need to convert that back to numbers like so 👇
 
-```
+```js
 options[name] = parseFloat(value);
 ```
 
- Now you can play with the inputs and scale and resize up and down!
+Now you can play with the inputs and scale and resize up and down!
 
- That was a long video, but hopefully it was fun for you. 
+That was a long video, but hopefully it was fun for you. 
 
 ---
 

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-08-27T11:53:03.124Z'
+modified: '2020-08-27T12:15:18.819Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -2558,36 +2558,38 @@ In this exercise we will be building a gallery.
 
 We are going to be building it in a standard way, and then come back and refactor it for prototypes once we understand what those are. Then we are going to come back to this exercise a third time and refactor the gallery for classes.
 
-Hopefully that gives you a good idea about why we need prototypes and what are classes. 
+Hopefully that gives you a good idea about why we need prototypes and what classes are. 
 
 This is an interesting example already because we want the ability to use this javascript many times over. A lot of the javascript we have written so far assumes that things are on the page and that there is only ever one of them.  
 
-https://cl.ly/8f2ba5b576f7
+![](@attachment/gallery.gif)
 
 This gallery allows you to tab through the images when they are tiled and select an image and have it open up larger with an overlay. The image has arrows on each side, allowing the user to navigate back and forth by clicking them or using the arrow keys, you can press the escape key to close the overlay view. It is basically a full featured gallery. 
 
-However, if we were to have a second completely separate gallery below, we should be able to reuse the same code and have it function in the same way, while keeping both galleries separate. 
+However, if we were to have another completely separate gallery below, we should be able to re-use the same code and have it function in the same way, while keeping both galleries separate. 
 
-So in this video we will be building the gallery from the ground up multiple times with the ability to re-use it multile times. 
+So in this video we will be building the gallery from the ground up, multiple times, with the ability to re-use it multiple times.
 
-We will be working from the exercises directory, specifically `58 - Gallery`. Let's open up the `gallery.js` file to get started. 
+We will be working from the exercises directory, specifically `58 - Gallery`. Open up the `gallery.js` file to get started. 
+
+### Closures
 
 The first thing we need to do is create a closure. 
 
-We learned a couple lessons back that a closure is the ability to create a function, and that function has scope. 
+We learned a couple lessons back that a closure is the ability to create a function, and that functions have scope. 
 
-So if we had a function like this:
-```
+
+```js
 function Gallery(gallery){
 
 }
 ```
 
-That function will have scope. 
+For example, the function shown above will have scope. 
 
-If inside of that function scope we make some variables, for example let's grab all the buttons, and then inside of the function scope we also make a function called `showNextImage` which references those button variables, then we have created a closure. 
+If inside of that function you were to make some variables, such as a variable to hold all the buttons, and also create another function called `showNextImage` which references those button variables, then you have created a closure. 
 
-```
+```js
 function Gallery(gallery){
   const buttons = gallery.querySelectorAll('button');
   function showNextImage(){
@@ -2596,46 +2598,44 @@ function Gallery(gallery){
 }
 ```
  
-What that means is that the gallery function will run when we create it, and the function `showNextImage` will exist for things like click handlers, and the variables (in our example `buttons`) that have been created between the two functions will still be accessible even after the `Gallery` function has closed and stopped running.
+That means that the gallery function will run when we create it, and the function `showNextImage` will exist for things like click handlers. The variables (`buttons`)  that have been created in between the 2 functions (`Gallery` and `showNextImage`) will still be accessible even after the `Gallery` function has closed and stopped running.
 
 We are going to use that concept to allow us to create scope for each of the galleries, so that they don't interfer with each other but they can reuse the same code. 
 
 If you added any of the code, clear out everything within the `Gallery()` block. 
 
-The idea with the Gallery is that at the end of writing the code, we have built almost like a plugin in and we can go ahead and use it on the page. 
+The idea with the Gallery is that at the end of writing the code, we have built almost like a plugin and we can go ahead and use it on the page. 
 
-The idea is to be able to do something like 
+The idea is to be able to do something as shown below. 
 
-```
+```js
 const gallery1 = Gallery();
 ```
 
 Soon there will be a `new` keyword before we do ` = Gallery()` but for now we don't need that. 
 
-If we go to the `index.html` that is on the gallery, you will see that we have a div with class of gallery1. We also have a secondary gallery. 
+If we go to the `index.html` that is on the Gallery exercises directory, you will see that we have a `div` with class of `gallery1`, and then a secondary gallery. 
 
 ![](@attachment/Clipboard_2020-04-28-07-25-34.png) 4:02
 
-So we will pass our gallery function reference to the gallery we want, which is the first one. 
+Pass the gallery function reference to the gallery we want, which is the first one. 
 
-```
+```js
 const gallery1 = Gallery(document.querySelector('.gallery1'));
 const gallery2 = Gallery(document.querySelector('.gallery2'));
 ```
 
-From the beginning we will be running these examples with two different galleries so that we know that every line of code that we are writing is safe for reuse over time. 
+From the beginning we will be running these examples with 2 different galleries so that we know that every line of code that we are writing is safe for re-use over time. 
 
-The first thinng we want to do is log the gallery from within the `Gallery`  function. Add the following
-
-Now when you refresh the page, you should see both gallery1 and gallery2 logged. 
+The first thing we want to do is log the gallery from within the `Gallery` function. When you refresh the page, you should see both `gallery1` and `gallery2` logged. 
 
 ![](@attachment/Clipboard_2020-04-28-07-32-39.png) 4:35
 
-One helpful thing we can do is we can say if no gallery argument was provided, we can throw an error that says "No Gallery Found". 
+One helpful thing we can do is if no gallery argument was provided, throw an error that says "No Gallery Found". 
 
 By throwing an error like that, it will be logged to the console.
 
-``` 
+```js 
 function Gallery(gallery){
   if(!gallery){
     throw new Error('No gallery Found!');
@@ -2647,19 +2647,19 @@ function Gallery(gallery){
 
 If instead you want the function to gracefully degrade, you can simply return without throwing anything. That will break and exit the function without throwing any errors in the console. 
 
-We will keep the code we added above. 
+Keep the code you added above. 
 
-Next we need to select the whole bunch of images. Previously, Wes has been selecitng everything at the top of the file, however, since we need to select these things for each of our instances, we will be selecting the images from within our Gallery function.
+Next you need to select the whole bunch of images. Previously, Wes has been selecitng everything at the top of the file, however, since we need to select these things for each of our instances, we will be selecting the images from _within_ the `Gallery` function.
 
-The first thing we need is a list of all of the images. Instead of using `document.querySelector` however, we need to make sure it's scoped to the gallery element that was passed in to our function. 
+The first thing you need is a list of all of the images. Instead of using `document.querySelector` however, you need to make sure it's scoped to the gallery element that was passed in to the function. 
 
 ![](@attachment/Clipboard_2020-04-28-18-52-19.png) 6:25
 
-So we will use the `gallery` variable as our selector. For the list we will use `Array.from()` because we will need to loop over it at some point. 
+Use the `gallery` variable as our selector. For the list, use `Array.from()` because you will need to loop over it at some point. 
 
-Add the following code
+Add the following code 👇
 
-```
+```js
 const images = Array.from(gallery.querySelectorAll('img'));
 console.log(images);
 ```
@@ -2668,7 +2668,9 @@ console.log(images);
 
 If you added that code and looked at the console, you will notice it is empty. 
 
-Let's debug that. Let's start by adding a `console.log(gallery);` before our `images` variable declaration. 
+Let's debug that. 
+
+Start by logging gallery before we declare the `images` variable. 
 
 ![](@attachment/Clipboard_2020-04-28-18-54-59.png) 6:54
 
@@ -2682,11 +2684,11 @@ Oh! The problem is we used `querySelector` instead of `querySelectorAll`. Modify
 
 ![](@attachment/Clipboard_2020-04-28-18-59-07.png) 7:06
 
-The next thing we need is our modal, with our next and previous buttons. 
+The next thing you need is our modal, with the next and previous buttons. 
 
-If we take a look at the HTML Wes has provided us with, he has scaffolded out the HTML for showing the modal. 
+If you take a look at the HTML Wes has provided us with, he has scaffolded out the HTML for showing the modal. 
 
-```
+```html
 <div class="modal">
       <div class="modalInner">
         <button aria-label="Previous Photo" class="prev">←</button>

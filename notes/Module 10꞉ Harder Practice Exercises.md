@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-08-26T12:25:03.540Z'
+modified: '2020-08-27T11:53:03.124Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -1846,11 +1846,13 @@ If you refresh the page and try entering items, you should see something like th
 
 ![](@attachment/Clipboard_2020-04-27-15-00-26.png) 19:35
 
-Now we need to fix a few things here. 
+We need to fix a few things here. 
 
-The button that we added is currently not accesible to people who are using screen readers. If the screenreader were to read to the user what is currently on the page it would read the item's name and then the multiplication sign, which makes no sense. 
+The button that we added is currently not accesible to people who are using screen readers. If the screenreader were to read to the user what is currently on the page, it would read the item's name and then the multiplication sign, which makes no sense. 
 
-What we can do to fix that is to add an `aria-label` attribute to it. For sighted users, nothing changes, but for people using a screenreader, when they tab over to it, it will tell them "remove bananas" instead. 
+What we can do to fix that is to add an `aria-label` attribute to it. 
+
+For sighted users, nothing changes, but for people using a screenreader, when they tab over to it, it will tell them "remove bananas" instead. 
 
 ```js
 <button aria-label="Remove ${item.name}">&times;</button>
@@ -1866,11 +1868,11 @@ One way to fix that would be to add the required attribute to the input, as show
 <input type="text" name="item" id="item" required>
 ```
 
-That is an example of client side validation. 
+That is an example of **client-side validation**. 
 
-Another thing we can do is say if there is no name, return within our handleSubmit function like so:
+Another thing we can do is say if there is no name, return within our `handleSubmit` function like so 👇
 
-```
+```js
 function handleSubmit(e) {
   e.preventDefault();
   console.log("Submitted!!!!");
@@ -1884,57 +1886,77 @@ function handleSubmit(e) {
   };
 ```
 
-Now if you try to submit a blank input, you will see that no item is added because we just return from the function. If you try entering any of the following: `0, null, undefined, false` in the input, it will still get added to the list instead of being returned, even though they are falsy. Why is that? Because they are all strings, and not types. 
+Now if you try to submit a blank input, you will see that no item is added because we just return from the function. 
 
-Let's go back to how we are calling `displayItems` each time our `handleSubmit` function is called. The reason Wes doesn't love that approach is because it tightly couples the `handleSubmit` with the displaying of the items. 
+If you try entering any of the following: `0, null, undefined, false` in the input, it will still get added to the list instead of being returned, even though they are falsy. 
 
-What will happen is that we will also need to display the items when they are restored from local storage (when we refresh the page, we want the items to still be there) so we would need to call it again. We also need to display the items when we mark them as complete. When we delete an item we will need to re-run `displayItems` because there is now one less item. And a couple of other spots. 
+Why is that? Because they are all strings, and not types. 
+
+Let's go back to how we are calling `displayItems` each time the `handleSubmit` function is called. The reason Wes doesn't love that approach is because it tightly couples the `handleSubmit` with the displaying of the items. 
+
+What will happen is that we will also need to display the items when they are restored from local storage (when we refresh the page, we want the items to still be there) so we would need to call it again. 
+
+We also need to display the items when we mark them as complete. 
+
+When we delete an item we will need to re-run `displayItems` because there is now one less item. And we call `displayItems` from a couple of other spots. 
 
 Having those functions so tightly coupled now isn't a big deal but what happens in larger JS applications is you may need to do more things after you display the items, and then sometimes you won't want to run all those other things after displaying the items. So what people end up doing is copy and pasting the function and modifying it slightly which causes duplicated logic. 
 
-Instead, what we are going to do is use the event system in Javascript to fire off our own events, and then listen for those events.
+Instead, what we are going to do is use the event system in Javascript to fire off our own events, and then listen for them.
 
-We are going to listen to an item updating event, and then anyone who cares about that event can listen for it, just like if it were a click or a hover. That allows us to decouple it, and you will see this pattern a lot in Javascript applications. 
+We are going to listen to an item updating event, and then anyone who cares about that event can listen for it, just like if it were a click or a hover. 
+
+That allows us to decouple it, and you will see this pattern a lot in Javascript applications. 
 
 Let's do that right now. 
 
 Instead of displaying our items, we will fire off a custom event which will tell anyone who cares that our items have been updated. 
 
-We will be using the term **dispatch** which means an event happens. When you click on something, the browser dispatches a click event. 
+We will be using the term **dispatch** which means an event happens. 
 
-Now what we need sometime to fire off an event about that data and we need to attach it. If we look at our HTML, we will probably fire off the event from this list. You could also fire it off from the form or the body, it doesn't matter that much. 
+When you click on something, the browser dispatches a click event. 
+
+We need something to fire off an event about that data and we need to attach it. 
+
+If we look at our HTML, we will probably fire off the event from this list. You could also fire it off from the form or the body, it doesn't matter that much. 
 
 ![](@attachment/Clipboard_2020-04-27-15-21-44.png) 25:44
 
-At the bottom of our `handleSubmit` function, we will run the `list.dispatchEvent()`. The `dispatchEvent` method lives on all DOM elements. You provide it a `CustomEvent`, which is a constructor in the browser.
+At the bottom of the `handleSubmit` function, run `list.dispatchEvent()`. The `dispatchEvent` method lives on all DOM elements. You provide it a `CustomEvent`, which is a constructor in the browser.
 
 As you can see, it's just a function. 
 
 ![](@attachment/Clipboard_2020-04-27-15-24-34.png) 26:12
 
-If you were to run it by passing the name of your event, like so: `new CustomEvent('PIZZAS HERE')` you should see something like the image below in the console. 
+```js
+new CustomEvent('PIZZAS HERE')
+```
+
+If you were to run it by passing the name of your event, as shown above, you should see something like the image below in the console. 
 
 ![](@attachment/Clipboard_2020-04-27-15-26-14.png) 26:45
 
-It gives us the type of events, as well as any details about when it is fired. So when we want to dispatch a custom event, we must first create a new CustomEvent, by passing the constructor the name of the event. 
+It gives us the type of events, as well as any details about when it is fired. 
 
-```
+So when we want to dispatch a custom event, we must first create a new `CustomEvent`, by passing the constructor the name of the event. 
+
+```js
 list.dispatchEvent(new CustomEvent('itemsUpdated'));
 ```
 
 If you try to add an item now, nothing happens, it just dispatched that event. No one is listening for `itemsUpdated` so no one cares, but if we go down to the bottom of the javascript file, where we have added our event listeners, we can listen for that event like so...
 
-```
+```js
 list.addEventListener('itemsUpdated', displayItems);
 ```
 
-Now when you add an item, you will see it in the list. That is because we are dispatching the itemsUpdated event and also listening to it, and then calling `displayItems` when it fires. 
+Now when you add an item, you will see it in the list. That is because we are dispatching the `itemsUpdated` event and also listening to it, and then calling `displayItems` when it fires. 
 
 You can add as many event listeners to the same event as you want.
 
 If we were to add the following code and refresh the page and add an item, we can see the details of the event. 
 
-```
+```js
 list.addEventListener('itemsUpdated', e=> {
   console.log(e);
 });
@@ -1942,11 +1964,13 @@ list.addEventListener('itemsUpdated', e=> {
 
 ![](@attachment/Clipboard_2020-04-27-15-42-28.png) 28:17
 
-You can see all sorts of details such as the path, which is pretty neat because it shows you the path at which the events have bubbled through. It was first triggered on the ul, then bubbled up to the shopping list, then the body, html, document and then the window.  
+You can see all sorts of details such as the path, which is pretty neat because it shows you the path at which the events have bubbled through. It was first triggered on the `ul`, then bubbled up to the shopping list, then the `body`, `html`, `document` and then the `window`.  
 
 That is a **custom** event, which Wes uses often when working with vanilla javascript to keep concerns seperate, instead of tightly tying them together. 
 
-Remove our second event listener where we are just logging the event. 
+Remove the second event listener where we are just logging the event. 
+
+### `localStorage`
 
 Next, we want to mirror the data to **local storage**. 
 
@@ -1958,44 +1982,52 @@ If you go to the "Application" tab of the chrome developer tools and look at Loc
 
 So what we want to do now is create a function that will mirror our data to local storage.
 
-```
+```js
 function mirrorToLocalStorage(){
   console.info('Saving items to localstorage');
 }
 ```
 
-So when we add something, we need to listen for the event, and then mirror all the items to local storage.  Let's duplicate our event listener and call `mirrorToLocalStorage` when the `itemUpdated` event is triggered. Add the following code where we call the rest of our event listeners..
+When we add something, we need to listen for the event, and then mirror all the items to local storage.  Let's duplicate our event listener and call `mirrorToLocalStorage` when the `itemUpdated` event is triggered. Add the following code where we call the rest of our event listeners..
 
-```
+```js
 list.addEventListener("itemsUpdated", mirrorToLocalStorage);
 ```
 
-See how nice having a custom event is? Anyone who cares about items updating can listen in on the event. 
-Now if you try typing in an item, you should see logged in the console "Saving items to local storage". 
+See how nice having a custom event is? 
 
-How do you save items to local storage? The API is pretty simple. 
+Anyone who cares about items updating can listen in on the event. 
+
+If you try typing in an item, you should see logged in the console "Saving items to local storage". 
+
+How do you save items to local storage? 
+
+The API is pretty simple. 
 
 If you type in `localStorage` in the console, it will return to you everything that is in local storage.
 
 ![](@attachment/Clipboard_2020-04-27-15-51-09.png) 30:34
 
-To set an item in local storage you can use `localStorage.setItem()` where you pass in the key and the value.
+To set an item in local storage, you can use `localStorage.setItem()` where you pass in the key and the value.
+
 To get an item from local storage, you can use `localStorage.getItem()` to which you pass the key that you are looking for. 
 
-If something funky is happenign with local storage, it's best to just clear it out and start fresh which you can use by clicking this button in the Applications tab. 
+If something funky is happenning with local storage, it's best to just clear it out and start fresh which you can do by clicking this button in the Applications tab. 
 
 ![](@attachment/Clipboard_2020-04-27-15-55-27.png) 31:05
 
-So how are we going to save items to local storage? What if we do something like this... 
+So how are we going to save items to local storage? 
 
-```
+What if we do something like the following 👇
+
+```js
 function mirrorToLocalStorage() {
   localStorage.setItem(items, items);
   console.info("Saving items to localstorage");
 }
 ```
 
-If you take a look, you will see `[object Object]`.. what?? If you try to open it up, you can't, it's just the word object.
+If you take a look, you will see `[object Object]`.. what is that? If you try to open it up, you can't, it's just the word object.
 
 ![](@attachment/Clipboard_2020-04-27-15-56-59.png) 31:39
 
@@ -2011,25 +2043,31 @@ If you have an object, and you call `.toString()` on it, it just gives you `"[ob
 
 That is what is happening here, because we are passing it an object, it is trying to convert it to a string which isn't very helpful because there is no data for that.
 
-So how do you convert objects to strings? Using JSON. If you call `JSON.stringify()`, you can pass it an object, it will convert that object to a string representation of that object. At a later point in time, we can do the opposite which is `JSON.parse()`. If you pass it a string, it will convert it back to an object. 
+So how do you convert objects to strings? 
+Using JSON. 
+
+If you call `JSON.stringify()`, you can pass it an object, and it will convert that object to a string representation of that object. 
+
+At a later point in time, we can do the opposite which is `JSON.parse()`. If you pass it a string, it will convert it back to an object. 
 
 That is exacty what we will do here. Before we put the object into local storage, we will convert it to a string and when we pull it out of local storage, we can convert it back to an array of objects.
 
-Modify the code like so:
+Modify the code as shown below. 
 
-```
+```js
 function mirrorToLocalStorage() {
   localStorage.setItem(items, JSON.stringify(items));
   console.info("Saving items to localstorage");
 }
 ```
+
 If you try to add some items now, you will see those changes reflected in local storage. 
 
 ![](@attachment/Clipboard_2020-04-27-17-19-26.png) 34:18
 
-Now that we mirror everything to local storage, we need another function that when you load the page, it restores from local storage.
+In order to mirror everything to local storage, we need another function that restores from local storage when you load the page.
 
-```
+```js
 function restoreFromLocalStorage(){
   console.log('Restoring from local storage');
 }
@@ -2039,9 +2077,11 @@ We will run that on page load so you can add the call `restoreFromLocalStorage()
 
 If you refresh the page, you should see the message in the console. 
 
-Now we need to pull the items from local storage. To do that, we will call `localStorage.getItem()` and that will bring us back a large string of text so we need to  convert it back into an object by wrapping that getItem method call around `JSON.parse()` which will convert the text back into an array of objects
+Now we need to pull the items from local storage. 
 
-```
+To do that, call `localStorage.getItem()` which will bring us back a large string of text. Convert it back into an object by wrapping the `getItem` method around `JSON.parse()` which will convert the text back into an array of objects 👇
+
+```js
 function restoreFromLocalStorage() {
   console.info("restoring from LS");
   const lsItems = JSON.parse(localStorage.getItem("items"));
@@ -2052,46 +2092,49 @@ Next we want to check if there are any items in the `lsItems` array, because it 
 
 If there is something in local storage, we will assign the value to the `items` variable and then dispatch thet `itemsUpdated` event. 
 
-```
+```js
 if(lsItems.length){
   items = lsItems;
   list.dispatchEvent(new CustomEvent('itemsUpdated'));
 }
 ```
 
-However if you refresh that you will see an error in the console that "items" is ready only. Why? Because it's a const variable. 
+However if you refresh that you will see an error in the console that "items" is ready only. 
 
-We can fix that a few ways, we can change the variable from a const to a let. 
+Why? Because it's a const variable. 
 
-Or each push all the items into the items array like so
-```
+We can fix that a few ways. We can change the variable from a `const` to a `let`, or push all the items into the items array like so 👇
+
+```js
 lsItems.forEach(item=> items.push(item));
 ```
 
-We could also use a combination of push and the spread operator like so:
+We could also use a combination of push and the spread operator as shown below. 
 
-```
+```js
 items.push(...lsItems);
 ```
  
-Why does that work? That works because push takes unlimited arguments. We could have called `items.push(lsItems[0], lsItems[1])` and that would have worked fine, but using the spread operator it takes each item in the array and spreads it into the method as an argument.
+Why does that work? 
 
-Two more things we need to do:
-1. We need to handle the clicking of the checkboxes. As it stands right now, you can check the item but when you refresh the page, it will no longer be checked. So the fact that you bought that think isn't being mirrored to the state. 
-2. The deleting of items. 
+That works because push takes unlimited arguments. We could have called `items.push(lsItems[0], lsItems[1])` and that would have worked fine, but using the spread operator it takes each item in the array and spreads it into the method as an argument.
 
-Let's start with the deletion. 
+Two more things we need to do. We need to handle: 
+1. the clicking of the checkboxes. As it stands right now, you can check the item but when you refresh the page, it will no longer be checked. It is not being mirrored to the state
+2. The deleting of items 
 
-You might think let's select the buttons on the page, loop over them and listen for a click, and when that happens, remove it from our array. That is kind of right, but lets show you why that doesn't exist. 
+Let's start with deletion. 
 
-Let's demonstrate that. Add the following code to the very bottom of the javascript file:
+You might think we could select the buttons on the page, loop over them and listen for a click, and when that happens, remove it from our array. That is kind of right, but let's show you why that doesn't exist. 
 
-```
+Add the code below to the very bottom of the javascript file/
+
+```js
 const buttons = list.querySelectorAll('button');
 console.log(buttons);
 ```
 
-How many should we get? We get 5. 
+You should get 5. 
 
 ![](@attachment/Clipboard_2020-04-27-17-39-31.png) 39:30
 
@@ -2099,40 +2142,59 @@ However, if you move that code further up, above the event listener declarations
 
 ![](@attachment/Clipboard_2020-04-27-17-40-10.png) 39:34
 
-Why is that? Because when we run the code from a bit further up in the file, none of the rest of the code below it has been executed and thus all those event listeners have not yet been created. So that means we have not yet created any of the items. 
+Why is that? 
 
-If you throw a `debugger;` after the `console.log(buttons);` code, and refresh the page, you will see that when the debugger hits, there are no items yet. 
+Because when we run the code from a bit further up in the file, none of the rest of the code below it has been executed and thus all those event listeners have not yet been created. So that means we have not yet created any of the items. 
+
+If you throw a `debugger;` after  `console.log(buttons);` and refresh the page, you will see that when the debugger hits, there are no items yet. 
 
 ![](@attachment/Clipboard_2020-04-27-17-41-48.png) 40:10
 
-That happen a bit later. So you may think it's safe to leave that code at the very bottom of the page. So let's try that. 
+That happen a bit later. So you may think it's safe to leave that code at the very bottom of the page. Let's try that. 
 
-We will create a `deleteItem` function which takes in an `id` and right now just logs that it is deleting the item. 
+Create a function `deleteItem` which takes in an `id` and for now simply logs that it is deleting an item. 
 
-```
+```js
 function deleteItem(id){
   console.log("DELETING ITEM!");
 }
 ```
 
-If you try pressing all the delete buttons, you will see that it works. However, if we were to add a new item, if you click on the x, it doesn't say deleting item. If you try to click any of the delete buttons that worked before we added the item, you will notice that it no longer works. Why??
+If you try pressing all the delete buttons, you will see that it works. 
 
-There are two things going on. 
+However, if we were to add a new item, if you click on the x, it doesn't say deleting item. 
 
-If you try to listen for clicks on things that do not exist on the page, it will not attach an event listener to that element. That is why the code behaved so differently when we moved it above the eventListeners. 
+If you try to click any of the delete buttons that worked before we added the item, you will notice that it no longer works. 
 
-The second problem is that when we add a new item, it re-renders the entire list. If you have the console open while you add an item, you will notice that for a second the ul disappears and is added back, because it is re-rendering. 
-That is because we have re-run our `displayItems` function, and it's actually creating a brand new list item each time. When you remove an item from thte DOM, and replace it with a new item, all of those event listeners are lost. We would have to manually add them back, which is a pain.
+Why?? There are 2 things going on. 
 
-So what do we do? We can use a concept called **event delegation**. 
+If you try to listen for clicks on things that do not exist on the page, it will not attach an event listener to that element. That is why the code behaved so differently when we moved it above the event listeners. 
+
+The second problem is that when we add a new item, it re-renders the entire list. 
+
+If you have the console open while you add an item, you will notice that for a second the `ul` disappears and is added back, because it is re-rendering. 
+
+That is because we have re-run the `displayItems` function, and it's actually creating a brand new list item each time. 
+
+When you remove an item from thte DOM, and replace it with a new item, all of those event listeners are lost. 
+
+We would have to manually add them back, which is a pain.
+
+So what do we do?   
+
+### Event Delegation
+
+We can use a concept called **event delegation**. 
 
 What that means is instead of listening for clicks on things that might not exist yet, or things that will come in the future, what we do is listen for clicks on things that we do know will be there, and then we check if the things that they actually clicked on is a lower item. 
 
-Let's demonstrate this. Get rid of our buttons console log and query selector, but let's keep the `deleteItem` function. 
+Let's demonstrate this. 
 
-What we will do is listen for a click on our list, and when that happens we will get the event, and then log both `e.target` and `e.currentTarget`. 
+Get rid of the button log and query selector, but keep the `deleteItem` function. 
 
-```
+Let's listen for a click on the list, and then in the event handler log both `e.target` and `e.currentTarget`. 
+
+```js
 list.addEventListeners('click', function(e){
   console.log(e.target, e.currentTarget);
 });
@@ -2142,13 +2204,15 @@ If you refresh the page and then click anywhere on it, you will see that it thin
 
 ![](@attachment/Clipboard_2020-04-27-17-53-33.png) 43:55
 
-Now if you click on the x next to an item, we listened on the list but we actually clicked on the button. So the `currentTarget` is the thing that you listened on and the `target` is the thing that you actually clicked on.
+Now if you click on the x next to an item, we listened on the list but we actually clicked on the button. 
+
+`currentTarget` is the thing that you listened on and the `target` is the thing that you actually clicked on.
 
 ![](@attachment/Clipboard_2020-04-27-17-54-51.png) 44:00
 
-So what we can do is check if what was clicked matches the button, using `e.target.matches('button')`. What matches does is it checks if an element matches a CSS selector so if it matches button, then we will delete the item by passing the delete method the id of that item. 
+Now we need to check if what was clicked matches the button, using `e.target.matches('button')`. Thatwill check if an element matches a CSS selector, which in this case is `button`, then we will delete the item by passing the delete method the id of that item. 
 
-```
+```js
 // event delegation: We listened for the click on the list <ul> but then delegate the click over to the button if that is what was clicked.
 list.addEventListeners('click', function(e){
   if(e.target.matches('button')){
@@ -2157,16 +2221,19 @@ list.addEventListeners('click', function(e){
 });
 ```
 
-Now, when you click on any X next to an item, you should see "DELETING ITEM". If we add a new item and then click on it's X button, we should still see "DELETING ITEM", because we are simply just listening on the ul and delegating the event to the delete button. 
+Now, when you click on any X next to an item, you should see "DELETING ITEM". 
 
-One more thing we should mention is that whenever we add an item to the list, we re-render the entire list. We are basically deleting the existing list and adding a brand new one. This hapen so quick you can't even see it happening but on large applications, that can slow down how your application works. That is where frameworks like Angular, React, Vue come in handy. They know how to instead of re-rendering the entire list, only update a specific piece of it. Just changing part of the DOM rather than wiping it out leads to better performing applications. That is hard to do in just Vanilla JS. For our purposes, the way we are doing it is fine. 
+If we add a new item and then click on it's X button, we should still see "DELETING ITEM", because we are simply just listening on the `ul` and delegating the event to the delete button. 
 
-Next we need to figure out when someone clicks on the x, which item id is it related to?
-We can solve this by giving our button a value. When we create it, we can also give the button a value of the item's id. 
+One more thing we should mention is that whenever we add an item to the list, we re-render the entire list. We are basically deleting the existing list and adding a brand new one. This hapen so quick you can't even see it happening but on large applications, that can slow down how your application works. 
 
-Modify the code like below. 
+That is where frameworks like Angular, React, Vue come in handy. They know how to instead of re-rendering the entire list, only update a specific piece of it. 
 
-```
+Just changing part of the DOM rather than wiping it out leads to better performing applications. That is hard to do in just Vanilla JS. For our purposes, the way we are doing it is fine. 
+
+Next, when someone clicks on the x, we need to figure out which item id is it related to. Give the button a value of the item's id upon creation, as shown below  👇
+
+```js
 function displayItems() {
   console.log(items);
   const html = items
@@ -2185,13 +2252,15 @@ function displayItems() {
 }
 ```
 
-Now when you look at the HTML, you should see the id is in the button. We can now pass that value to the `deleteItem` function. 
+Now when you look at the HTML, you should see the id is in the button. 
+
+Pass that value to the `deleteItem` function. 
 
 ![](@attachment/Clipboard_2020-04-27-18-06-35.png) 47:11
 
 Modify the code like below.
 
-```
+```js
 list.addEventListener("click", function(e) {
   if (e.target.matches("button")) {
     deleteItem(e.target.value);
@@ -2199,61 +2268,82 @@ list.addEventListener("click", function(e) {
 });
 ```
 
-Let's also log the id in our `deleteItem` function.
+Add a log for the id in the `deleteItem` function.
 
 ![](@attachment/Clipboard_2020-04-27-18-08-28.png) 47:35
 
-Why that works is that now when you click on the button, we will take the value of the button and pass it as an argument to our `deleteItem` function which then logs that argument. 
+That works now, because when you click on the button, you take the value of the button and pass it as an argument to `deleteItem`, which then logs that argument. 
 
-Now how do we update our items array to remove that one item? It's actually pretty simple. We can filter for every item that is not the one with the ID.
+How can we update our `items` array to remove that one item? 
 
-```
+It's actually pretty simple. Filter for every item that is not the one with the ID.
+
+```js
 const newItems = items.filter(item => item.id === id);
 ```
 
 That is the opposite, but we will flip it in a second. 
+
 Now if you press the delete button next to an item, we get nothing. 
 
 ![](@attachment/Clipboard_2020-04-27-18-11-36.png) 48:35
 
-If we change the code from `===` to `==` will it work? Let's try that. Modify the code like below.  
+If we change the code from `===` to `==` will it work? 
 
-```
+Let's try that. Modify the code like below.  
+
+```js
 const newItems = items.filter(item => item.id == id);
 ```
 
-Why does it work with double equals? That is because the id is being stored as a number, but when you pull it out, it is returned as a string. So when we pass the value to the `deleteItem` function, we can wrap it in `parseInt` like so `deleteItem(parseInt(e.target.value));` which will covert it to a number for us. Now we can add back the triple equals. 
+Why does it work with double equals? 
 
-Now when you click it, we will get the item that needs to be remoed. 
+That is because the `id` is being stored as a number, but when you pull it out, it is returned as a string. 
+
+```js
+deleteItem(parseInt(e.target.value));
+```
+
+When you pass the value to the `deleteItem` function, you can wrap it in `parseInt` as shown above, which will convert it to a number for us. 
+
+Now you can add back the triple equals. 
+
+Now when you click the button, you will get the item that needs to be removed. 
 
 ![](@attachment/Clipboard_2020-04-27-18-13-56.png) 49:13
 
-We actually want the opposite so modify the line of code to be `const newItems = items.filter(item => item.id !== id);`
+```js
+const newItems = items.filter(item => item.id !== id);
+```
 
-Now when we click the delete button for an item, if we had 12 items, we will only get 11 returned to us. 
+We actually want the opposite so modify the line of code as shown above 👆.
+
+If you were to click the delete button for an item now, and you had 12 items, you would only get 11 returned. 
 
 ![](@attachment/Clipboard_2020-04-27-18-15-08.png) 49:21 
 
-Now, how do we get the new items into our items array? In our case, we just want to overwrite the entire list. Let's change the declaration of the `items` array from a const to a let. 
+We need to get the new items into our items array. How can we do that?
 
-In our deleteItem, we will modify the code so instead of assigning the filter to a variable `newItems` we will assign it to `items` instead so it overwrites whatever the previous value was. 
+In our case, we just want to overwrite the entire list. To do that, change the declaration of the `items` array from a `const` to a `let`. 
 
-```
+In `deleteItem`, modify the code so instead of assigning the filter to a variable `newItems`, you will assign it to `items` instead so it overwrites whatever the previous value was. 
+
+```js
 function deleteItem(id) {
   console.log("DELETING ITEM!!!", id);
   items = items.filter((item) => item.id !== id);
 }
 ```
 
-Now if you click the items, you can tell their are deleting because the array that is being logged keeps getting smaller but if you refresh the page, you will see they are all still there. 
+Now if you click the items, you can tell they are deleting because the array that is being logged keeps getting smaller but if you refresh the page, you will see they are all still there. 
 
-Two things need to happen:
-1. we need to re-render everything
-2. we need to update our localStorage
+There are 2 things we need to do. We need to:
+1. re-render everything
+2. localStorage
 
-You might notice that both of those things, re-rendering the list and mirroring to local storage are bound to our itemsUpdated event. So we can just fire another `itemsUpdated` event like so:
+You might notice that both of those things are bound to the `itemsUpdated` event. That means you can just fire another `itemsUpdated` event as shown below 👇
 
-```
+```js
 function deleteItem(id) {
   console.log("DELETING ITEM!!!", id);
   items = items.filter((item) => item.id !== id);
@@ -2261,19 +2351,25 @@ function deleteItem(id) {
 }
 ```
 
-Now it should just work. When you click the item, it should be removed as you do it. Why? Because your event listener is listening for the items to be updated and then will do it's respective work, mirroring them to the page and updating.
+Now it should just work, and when you click the item, it should be removed as you do it. 
 
-The last thing we need to do is handle the checking and unchecking of the data. If we have three items and two were checked, that information should persist when we refresh the page.
+Why? 
 
-We will create another function for this called `markAsComplete` which will take in an id. 
+Because your event listener is listening for the items to be updated and then will do the respective work, mirroring them to the page and updating.
+
+The last thing we need to do is handle the checking and unchecking of the data. 
+
+If we have 3 items and 2 were checked, that information should persist when we refresh the page.
+
+Create another function, `markAsComplete`, which will take in an `id`. 
 
 What do we listen for in our case? We want to listen for a check of the checkbox. 
 
-We can use event delegation as well for that. We can add another event listener or we can do it inside our existing click event listener. 
+We can use event delegation for that as well. We could add another event listener or do it inside of our existing click event listener. 
 
-We will do it inside of our existing one. 
+Let's do it inside of the existing one. 
 
-```
+```js
 list.addEventListener("click", function(e) {
   if (e.target.matches("button")) {
     deleteItem(parseInt(e.target.value));
@@ -2284,39 +2380,40 @@ list.addEventListener("click", function(e) {
 });
 ```
 
-Our checkbox input current does not have an id on it, so let's fix that. We will go to where we make our HTML and modify the code like so:
+Our checkbox input currently does not have an `id` on it, so let's fix that.
 
-```
-  const html = items
-    .map(
-      (item) => `<li class="shopping-item">
-    <input type="checkbox" value="${item.id}">
-    <span class="itemName">${item.name}</span>
-    <button 
-      aria-label="Remove ${item.name}"
-      value="${item.id}"
-    >&times;</button>
-  </li>`
-    )
-    .join("");
+Go to where we make the HTML and modify the code as shown below. 
+
+```js
+const html = items
+  .map(
+    (item) => `<li class="shopping-item">
+  <input type="checkbox" value="${item.id}">
+  <span class="itemName">${item.name}</span>
+  <button 
+    aria-label="Remove ${item.name}"
+    value="${item.id}"
+  >&times;</button>
+</li>`
+  )
+  .join("");
 ```
 
-Now, we have the value of the id in the input so we can go to our event delegation and pass the id like so:
+Now, we have the value of the `id` in the input so we can go to our event delegation and pass the id like so 👇
 
-```
- if (e.target.matches('input[type="checkbox"]')) {
-    markAsComplete(parseInt(e.target.value));
-  }
+```js
+if (e.target.matches('input[type="checkbox"]')) {
+  markAsComplete(parseInt(e.target.value));
+}
 ```
 
 Now when you check them, you should see "marking as complete" with the id logged to the console. 
 
 ![](@attachment/Clipboard_2020-04-27-18-27-41.png) 53:17
 
-We are repeating ourselves a bit in our event delegator so lets refactor it like so:
+We are repeating ourselves a bit in our event delegator so refactor it as shown below 👇
 
-
-```
+```js
 list.addEventListener("click", function(e) {
   const id = parseInt(e.target.value);
   if (e.target.matches("button")) {
@@ -2328,11 +2425,13 @@ list.addEventListener("click", function(e) {
 });
 ```
 
-Now let's go back to our `markComplete` function. We have to actually find the item that we need to set as completed. How do we look for it? We can use `find`. 
+Back to the `markComplete` function, we have to actually find the item that we need to set as completed. 
 
-We will look for an item whose id matches the id that was passed in, using the code below. 
+How do we look for it? We can use `find`. 
 
-```
+Look for an item whose `id` matches the `id` that was passed in, using the code below. 👇
+
+```js
 function markAsComplete(id) {
   console.log("Marking as complete!", id);
   const itemRef = items.find((item) => item.id === id);
@@ -2340,27 +2439,29 @@ function markAsComplete(id) {
 }
 ```
 
-The reason we called it `itemRef` because if we change a value on the objet, it will be reflected in the array of items. So we can update the value of the items complete property easily. 
+The reason we called it `itemRef` because if we change a value on the objet, it will be reflected in the array of items. So we can update the value of the item's `complete` property easily. 
 
 ```
 itemRef.complete = 
 ```
 
-Now this function will be used to check it on and off, so we could have an if statement that says if it's true, set to false and if false, set to true. Or we can just set it to itself, but the opposite.
+This function will be used to check the item on and off. 
 
-```
+You could have an if statement that says if it's true, set to false and if false, set to true. 
+
+Or you can just set it to itself, but the opposite, as shown below 👇
+
+```js
 itemRef.complete = !itemRef.complete;
 ```
 
-That should work because the opposite of true is false and vice versa. 
+That should work because the opposite of true is false and vice versa. Thus, setting it to the bang version of itself should work. 
 
 ![](@attachment/Clipboard_2020-04-27-18-33-45.png) 55:00
 
-So setting it to the bang version of itself should work. 
+Now all you have to do is dispatch the `itemsUpdated` event because after updating the items. 
 
-So now all we have to do is dispatch the itemsUpdated event because we updated the items, now we just have to dispatch it.
-
-```
+```js
 itemRef.complete = !itemRef.complete;
 list.dispatchEvent(new CustomEvent('itemsUpdated'));
 ```
@@ -2371,75 +2472,80 @@ However if you go to the application tab, you will see that the local storage va
 
 ![](@attachment/Clipboard_2020-04-27-18-36-57.png) 55:38
 
-What is going on? What is happening is the value is toggling true to false, but the checkbox is never working because we have not yet supplied the "checked" attribute to it when we rendered our HTML.
+What is going on? 
 
-Modify the code like so to add the checked attribute:
+What is happening is the value is toggling true to false, but the checkbox is never working because we have not yet supplied the "checked" attribute to it when we rendered our HTML.
 
+Modify the code as shown below to add the checked attribute 👇
+
+```js
+const html = items
+  .map(
+    (item) => `<li class="shopping-item">
+  <input 
+    type="checkbox" 
+    value="${item.id}"
+    checked="true"
+  >
+  <span class="itemName">${item.name}</span>
+  <button 
+    aria-label="Remove ${item.name}"
+    value="${item.id}"
+  >&times;</button>
+</li>`
+  )
+  .join("");
 ```
-  const html = items
-    .map(
-      (item) => `<li class="shopping-item">
-    <input 
-      type="checkbox" 
-      value="${item.id}"
-      checked="true"
+
+Now all the items will be checked by default. 
+
+One of the things about the checked attribute is if you do `checked="false"`, they will still maintain checked. Even just passing `checked` as shown below works. 
+
+```js
+<input 
+  type="checkbox" 
+  value="${item.id}"
+  checked>
+```
+
+The absence of the checked attribute marks something as unchecked. 
+
+If the checked attribuet is true, you need to add the checked attribute, otherwise we will pass nothing. 
+
+Do that by modifying the code as shown below 👇
+
+```js
+const html = items
+  .map(
+    (item) => `<li class="shopping-item">
+  <input 
+    type="checkbox" 
+    value="${item.id}"
+    ${item.complete ? 'checked' : ''}
     >
-    <span class="itemName">${item.name}</span>
-    <button 
-      aria-label="Remove ${item.name}"
-      value="${item.id}"
-    >&times;</button>
-  </li>`
-    )
-    .join("");
+  <span class="itemName">${item.name}</span>
+  <button 
+    aria-label="Remove ${item.name}"
+    value="${item.id}"
+  >&times;</button>
+</li>`
+  )
+  .join("");
 ```
 
-Now all the items will be checked by default. One of the things about the checked attribute is if you do `checked="false"`, they will still maintain checked. Even just passing `checked` like below works. 
+We could have also used the `&&` operator instead like so: 
 
-```
-   <input 
-      type="checkbox" 
-      value="${item.id}"
-      checked
-    >
-```
-
-What makes something unchecked? The absence of the checked attribute. 
-
-What we need to do is check if the checked attribute is true, and if it is, we need to put the checked attribute there, otherwise we will pass nothing. We can do that by modifying the code like so:
-
-```
-  const html = items
-    .map(
-      (item) => `<li class="shopping-item">
-    <input 
-      type="checkbox" 
-      value="${item.id}"
-      ${item.complete ? 'checked' : ''}
-      >
-    <span class="itemName">${item.name}</span>
-    <button 
-      aria-label="Remove ${item.name}"
-      value="${item.id}"
-    >&times;</button>
-  </li>`
-    )
-    .join("");
-```
-
-We could have also used the && operator instead like so: 
-
-```
+```js
 ${item.compelte && 'checked'}
 ```
 
 Now if you refresh, the checkmarks should stay as they were.
 
-That was a lot, but that is how all of those frameworks work. You basically have some state, you write a bunch of handlers to update state and to modify it, filter it, change it. When that state changes, you rerender out the HTML that is on the page. 
+That was a lot, but that is how all of those frameworks work. 
 
-One last thing is that security, which we will go over in future lessons in more details. 
+You basically have some state, you write a bunch of handlers to update state and to modify it, filter it, change it. When that state changes, you rerender out the HTML that is on the page. 
 
-Right now, if you wanted, you could submit an image as a list item input, which is a security issue. When you take input from a user and then display it in the HTML, we need to clean all the data the user types in. 
+One last thing is that security, which we will go over in future lessons in more details.  Right now, if you wanted, you could submit an image as a list item input, which is a security issue. When you take input from a user and then display it in the HTML, we need to clean all the data the user types in. 
 
 ---
 

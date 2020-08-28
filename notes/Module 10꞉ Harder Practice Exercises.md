@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-08-27T12:15:18.819Z'
+modified: '2020-08-28T17:33:17.119Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -2666,11 +2666,11 @@ console.log(images);
 
 ![](@attachment/Clipboard_2020-04-28-18-53-25.png) 6:47
 
-If you added that code and looked at the console, you will notice it is empty. 
+If you ad that code and look at the console, you will notice it is empty. 
 
 Let's debug that. 
 
-Start by logging gallery before we declare the `images` variable. 
+Start by logging `gallery` before we declare the `images` variable. 
 
 ![](@attachment/Clipboard_2020-04-28-18-54-59.png) 6:54
 
@@ -2680,70 +2680,74 @@ As you can see, the gallery is showing up.
 
 If we look inside of the gallery, we can see lots of image elements. 
 
-Oh! The problem is we used `querySelector` instead of `querySelectorAll`. Modify the code and now you should be getting 9 images back for each gallery. 
-
 ![](@attachment/Clipboard_2020-04-28-18-59-07.png) 7:06
 
-The next thing you need is our modal, with the next and previous buttons. 
+The next thing you need is the modal, with the next and previous buttons. 
 
 If you take a look at the HTML Wes has provided us with, he has scaffolded out the HTML for showing the modal. 
 
 ```html
 <div class="modal">
-      <div class="modalInner">
-        <button aria-label="Previous Photo" class="prev">←</button>
-        <figure>
-          <img src="./images/kith-hoodie.jpg" />
-          <figcaption>
-            <h2>Test Title</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
-              dignissimos obcaecati nisi placeat eaque voluptate,
-              exercitationem eius? Non, iusto provident itaque, voluptate
-              labore a alias officia, amet sunt pariatur praesentium tenetur
-              voluptatibus dolores mollitia quasi aliquid assumenda possimus
-              maiores exercitationem!
-            </p>
-          </figcaption>
-        </figure>
-        <button class="next" aria-label="Next Photo">→</button>
-      </div>
+  <div class="modalInner">
+    <button aria-label="Previous Photo" class="prev">←</button>
+    <figure>
+      <img src="./images/kith-hoodie.jpg" />
+      <figcaption>
+        <h2>Test Title</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
+          dignissimos obcaecati nisi placeat eaque voluptate,
+          exercitationem eius? Non, iusto provident itaque, voluptate
+          labore a alias officia, amet sunt pariatur praesentium tenetur
+          voluptatibus dolores mollitia quasi aliquid assumenda possimus
+          maiores exercitationem!
+        </p>
+      </figcaption>
+    </figure>
+    <button class="next" aria-label="Next Photo">→</button>
+  </div>
+</div>
 ```
 
-So we have a figure with an image, a figcaption, an h2, a paragraph. 
+So we have a `figure` with an `img`, a `figcaption`, an `h2`, a paragrah. 
 
-What will happen is we will show the modal when someone pops an image open and we will swap out all the text content with the content associated with that image. 
+WHen someone clicks on an image in the gallery, that will open the modal and we will swap the text content of the modal out with the content associated with that image. 
 
-Now we need to select the modal. We will do that with the `document` selector because in this instance, the markup for the modal will be shared between the galleries because we can only ever have one modal open at a time. 
+Start by selecting the modal. Do that with the `document` selector because in this instance, the markup for the modal will be shared between the galleries because we can only ever have one modal open at a time. 
 
-After that we will look inside of the modal for our previous and next buttons. 
+After that, look inside of the modal for the previous and next buttons. 
 
-Add the following code:
+Add the following code to do so 👇
 
-```
+```js
 const modal = document.querySelector('.modal');
 const prevButton = modal.querySelector('.prev');
 const nextButton = modal.querySelector('.next');
 ```
 
-For all the rest of this exercise, we will be chunking up the functionality into a bunch of little functions. We will show the image, open the modal, close the modal, listen for clicks on the keyword, there is actually a lot going on.
+For the rest of this exercise, we will be chunking up the functionality into a bunch of little functions. 
+
+Those functions will be responsible for showing the image, opening and closing the modal, listening for clicks... there is a lot going on! 
 
 This is a great example of how you can take a javascript app and make it simpler by breaking it into smaller, little functions.
 
 Let's start with the showing of the iamge. 
 
-When someone clicks on one of the images, we need to update that modal with the associated images, as well as pop open the modal. Let's call that function `showImage`. It will take a reference to an image element as a parameter which we will call `el`.
+When someone clicks on one of the images, you need to update that modal with the associated images, as well as pop open the modal.
 
-Within that function we will first check whether a reference to an image was passed or not, and if it wasn't, we will add `console.info('no image to show')` and return.
+Call that function `showImage`. It will take a reference to an image element as a parameter which we will call `el`.
 
-The reason we are adding these checks is because sometimes the functions can get run and if for some reason something is broken, having those safety checks can stop a broken application on your page.
+Within that function, check whether a reference to an image was passed. 
 
-Otherwise, what we need to do is update the modal with that image's information.
-For now, we will just add `console.log(el)`. 
+We are adding these checks because sometimes if for some reason something is broken when the function is run, having those safety checks will prevent the application from breaking on your page.
+
+If a refrence was not passed, log the message "no image to show" and return from the function. 
+
+Otherwise, we will update the modal with that image's information but for now just log `el`. 
 
 The function should look like below.
 
-```
+```js
 function Gallery(gallery) {
   if (!gallery) {
     throw new Error("No Gallery Found!");
@@ -2763,9 +2767,11 @@ function Gallery(gallery) {
   }
 ```
 
-Next we are going to take our images and loop over each of them to add an event listener. We will listen for the click event, and when that happens, we will run a callback function, which we will call `handleImageClick` which takes the event as an argument.
+Next, take the images and loop over each of them to add an event listener on the click event. 
 
-```
+When the image is clicked, the callback function `handleImageClick` will be run, which takes in the event as an argument. 
+
+```js
 function handleImageClick(event){
 
 }
@@ -2773,78 +2779,95 @@ function handleImageClick(event){
 images.forEach(image => image.addEventListener('click', handleImageClick));
 ```
 
-Inside of `handleImageClick`, we simply just need to pass the image tag of whatever image we want to show our `showImage` function. Within the handler we will call `showImage` and pass it a reference to the image that was clicked by using `event.currentTarget`.
+Inside of `handleImageClick`, call `showImage` and pass it the image tag that was clicked by using `event.currentTarget`.
 
-Because we have added a bunch of different functions, let's check if it works and then refactor it out to another arrow function. 
+Now that you have added a bunch of different functions, let's check that it works and refactor it out to another arrow function. 
 
-If you refresh the page, you should see that when we click on an image, that image element is logged to the console. 
+If you refresh the page, you should see that when you click an image, that image element is logged to the console. 
 
 ![](@attachment/Clipboard_2020-04-28-19-22-14.png) 11:42
 
-Let's refactor the code so instead of having a separate `handleImageClick` function, we can just do the same functionality with an arrow function. Remove the `handleImageClick` function and refactor the code as shown below.
+Refactor the code so instead of having a separate `handleImageClick` function, you can just do the same functionality with an arrow function. 
 
-```
+Remove the `handleImageClick` function and refactor the code as shown below.
+
+```js
 images.forEach(image => image.addEventListener('click', (e)=> showImage(e.currentTarget)));
 ```
 
-If you check, everything should work exactly the same.
+If you run the code now, everything should work exactly the same.
 
-Back to showImage, there are a few things that need to happen. When someone clicks the image, we need to update the source of the image element in the modal.
-We also need to update the h2 and the paragraph content. 
+Back to `showImage`, there are a few things that need to happen. 
+
+When someone clicks the image, you need to update the source of the image element in the modal and the `h2` and `p` content.
 
 ![](@attachment/Clipboard_2020-04-28-19-28-26.png) 12:37
 
-Add the following code:
+Add the following code 👇
 
-```
+```js
 console.log(el);
 modal.querySelector('img').src = el.src;
 ```
 
-Now if you refresh the page and click on an image, you should be able to go into the elements tab and look inside the modal to check the img src. It should be the source of the image that you clicked. 
+Now if you refresh the page and click on an image, you should be able to go into the elements tab and look inside the modal to check the `img` src. It should be the source of the image that you clicked. 
 
-So let's go ahead and duplicate the last line of code we added and switch the selector to be the h2 instead. Instead of setting the src, we will update the `textContent` of the `h2` to be `el.title`. 
+Go ahead and duplicate the last line of code you added and switch the selector to be the `h2` instead. 
 
-```
+Instead of setting the `src`, update the `textContent` of the `h2` to be `el.title`. 
+
+```js
 modal.querySelector('h2').textContent = el.title;
 ```
 
-Why do we do that? If you take a look at our image elements, you will see we have a couple of things on them. 
+Why do yu need to do that? 
+
+If you take a look at the image elements, you will see a couple of attributes on them. 
 
 ![](@attachment/Clipboard_2020-04-28-19-32-08.png) 13:37
 
-One of those is the title. So we can go ahead and take the title from the image and then duplicate it again and grab the paragraph. The description is a data attribute that is on our image element. We will need to us `dataset` to grab that value. 
+One of those is the `title`. Take the title from the image and then duplicate it again and grab the paragraph. 
 
-```
+The description is a data attribute on the image element, and you will need to use `dataset` to grab that value. 
+
+```js
 modal.querySelector('figure p').textContent = el.dataset.description;
 ```
 
-Finally what we want to do is keep track of what the currently opened image is. Right underneath where we declare our next button, add this line `let currentImage;`.
+Finally, you want to keep track of what the currently opened image is.  Underneath where you declare the next button, add the code below. 
 
-Now add to the very bottom of the `showImage` function `currentImage = el;`
+```js
+let currentImage;
+```
 
-When you refresh the page and click on an image, if you open the elements tab you should see the modal values being swapped out. 
+At the very bottom of the `showImage` function, add `currentImage = el;`
+
+If you refresh the page, then click on an image with the dev tools elements tab open, you should see the modal values being swapped out. 
 ![](@attachment/Clipboard_2020-04-28-19-36-43.png) 14:55
 
-Note: the demo text is the same for each image, but you can tell it's being swapped because the first time you load the page, and then click, the value will be different. 
+_Note: the demo text is the same for each image, but you can tell it's being swapped because the first time you load the page, and then click, the value will be different._ 
 
-Now let's actually open up the modal to the user. We will add a function `openModal` to do that. For now just add `console.info('Opening Modal...');`. 
+Let's work on actually opening the modal now. 
 
-We will run `openModal()` from the bottom of our `showImage` function. 
+Add a function `openModal`, and inside of it log "Opening Modal". 
 
-Now within the `openModal` function, there are a few things we need to do. 
+At the bottom fo the `showImage` function, run `openModal()`.  
 
-First, we need to check if the modal is already open (we need to perform this check because Wes has added some animations that will animate it in and out).  We don't want to be triggering those animations if the modal is already open for some reason. 
+Within `openModal` function, we need to check if the modal is already open. _(We need to perform this check because Wes has added some animations that will animate it in and out.  We don't want to be triggering those animations if the modal is already open for some reason.)_ 
 
-Next we will use `modal.matches('.open')`, which will take our modal and check whether it matches a CSS selector or not. The way we are going to tell if the modal is open or not is by a CSS class that is "open". 
+We can do that using `modal.matches('.open')`, which will take in the modal and check whether it matches the CSS selector we have passed it. In our example, we are checking whether the modal is open or not by the presence of the CSS class `open`. 
 
-If it is open, we will log that it's already open and return. If it's not already open, we will add a class of "open" to it.
+If it is open, log that it's already open and return from the function. 
 
-`modal.classList.add('open')`. 
+If it's not already open, add a class of "open" to it, as shown below 👇
 
-Your open modal function should look like this:
-
+```js
+modal.classList.add('open');
 ```
+
+Your open modal function should look like the following 👇
+
+```js
 function openModal() {
   console.info("Opening Modal...");
   // First check if the modal is already open
@@ -2858,53 +2881,55 @@ function openModal() {
 
 If you refresh the page, when you click on an image, the modal should now open.
 
-THe previous and next buttons won't work in the modal, neither will closing the modal by hitting escape on the keyboard or clicking outside of it. But it will slide down from the top when we click an image.
+The previous and next buttons won't work in the modal, and neither will closing the modal by hitting escape on the keyboard or clicking outside of it. 
+But it does slide down from the top when we click an image.
 
-Why does that work? If you look at the `gallery.css`, you will see that by default, our modal has an opacity of 0 and pointer-event of none. 
+Why does that work? 
+
+If you look at the `gallery.css`, you will see that by default, the modal has an opacity of 0 and pointer-event of none. 
 
 ![](@attachment/Clipboard_2020-04-28-20-23-51.png) 17:29
 
-However the modal with the class of open has opacity of 1 and pointer-event of all. 
+However the modal with the class of `open` has opacity of 1 and pointer-event of all. 
 
 ![](@attachment/Clipboard_2020-04-28-20-24-06.png) 17:22
 
-`opacity:0` css style will hide the element from the user, and setting `pointer-events:none` will ignore all the clicks on the element. 
+The CSS style `opacity:0` will hide the element from the user, and setting `pointer-events:none` will ignore all the clicks on the element. 
 
 ![](@attachment/Clipboard_2020-04-28-20-25-38.png) 17:57
 
-We also have our modal inner which is currently off the page, via the css style `transform: translateY(-100vh);`. If we comment that css style out and also set `opacity:1` by default on the modal, you will see that the modal is actually open and visible on the page by default. Negative 100 viewport will move it off the screen. 
+There is also the `modalInner` which is currently off the page, via the CSS style `transform: translateY(-100vh);`. 
 
-When there is an open property on the parent, `.modalInner` gets a translate Y of 0. 
+If we comment that CSS style out and also set `opacity:1` by default on the modal, you will see that the modal is actually open and visible on the page by default. -100 viewport will move it off the screen. 
+
+When there is an open property on the parent, `.modalInner` gets a `translateY` of 0. 
 
 ![](@attachment/Clipboard_2020-04-28-20-28-26.png) 18:23
 
-Next we will make a function called `closeModal` which will remove the `open` class from the modal.
+Make a function `closeModal` which will remove the `open` class from the modal. Add a TODO comment to remind you to add event listeners for clicks and keyboard like the escape key later. 
 
-We will also want to add a TODO comment to remind us to add event listeners for clicks and keyboard like the escape key. 
-
-```
+```js
 function closeModal(){
   modal.classList.remove('open');
   //TODO: add event listeners fro clicks and keyboard
 }
 ```
 
-If we click outside of the modal, we want to be able to run the `closeModal` function. How would we do that?
+If you click outside of the modal, you want to be able to run the `closeModal` function. 
 
+How can you do that?
 
 ![](@attachment/Clipboard_2020-04-28-21-02-49.png) 15:37
 
-If someone clicks outside the `modalInner`, we want to modal to close. So if you click within the modal, we don't want it to close, but if you click anywhere outside of that, then we do want it to close. 
+We only want the modal to close when someone clicks outside of `modalInner`. If you click within the modal, it should not close. 
 
-Let's make a new function called `handleClickOutside`, which takes in an event. 
+Make a new function `handleClickOutside`, which takes in an event. 
 
-Then let's go down to where we have our event listeners and let's add a comment of `//These are our Event Listeners`. 
+Go down to where we have our event listeners and add a comment of `//These are our Event Listeners` and then add `modal.addEventListener('click',handleClickOutside);`. 
 
-We will also add `modal.addEventListener('click',handleClickOutside);`. 
+Inside of `handleClickOutside`, check whether the `event.target` is equal to the `event.currentTarget`. If it is, run `closeModal()`. 
 
-Now inside of our `handleClickOutside` function, we will check whether the event.target is equal to the event.target. If it is, we will run `closeModal()`. 
-
-```
+```js
 function handleClickOutside(e){
   if(e.target === e.currentTarget){
     closeModal();
@@ -2912,53 +2937,66 @@ function handleClickOutside(e){
 }
 ```
 
-If the thing that they actually clicked and the thing you're listening for the click on are the exact same thing, then it means that the user has clicked on the actual modal div, and not within the modal. So if you click within the modal, that would return false but if you clicked outside of it,  it would close. 
+If the thing the user clicks on matches the thing that you are listening for a click on, that means the user has clicked outside 
+
+That checks whether the thing the user clicked matches the thing that you are listening for a click on. If they are the exact same thing, that means the user has clicked outside, and not within the modal. 
+
+So if you clicked within the modal, that would return false but if you clicked outside of it, it would return true. 
 
 ![](@attachment/Clipboard_2020-04-28-21-08-26.png) 21:01
 
-Now if you refresh the page and open the modal and click outside of it, you should see that clicking outside the modal works. 
+Refresh the page and open the modal and click outside of it, to ensure it works. 
 
-Now let's wire up the escape key on our keyboard. We will make another function called `handleKeyUp`, which takes in an event. Inside of the function we will add an if statement where we check whether `event.key === 'Escape'`. If it is, we run `closeModal()`. This if statment is a good use case for a blockless if statement because it is a clean one liner. 
+Next, let's wire up the escape key on our keyboard. 
 
-```
+Make another function `handleKeyUp`, which takes in an event. 
+
+Inside of the function, add an if statement that checks if the key that was pressed matches "Escape", and if it is, run run `closeModal()`. 
+
+This if statment is a good use case for a blockless if statement because it is a clean one liner. 
+
+```js
 function handleKeyUp(event){
   if(event.key === 'Escape') closeModal();
 }
 ```
 
-Because of the way `keyUp` works, it will actually fire for any key. So we will be putting in a bunch more logic in that function in the future. 
+The `keyup` event will fire for any key that is pressed, so we will add more logic to only listen for the keys we care about in the futrue. 
 
-Now let's go down to our event listeners and add an event listener on the window. We will listen for the keyup event and pass it the `handleKeyUp` function. 
+Go down to our event listeners and add an event listener on the window. Listen for the `keyup` event and pass it the `handleKeyUp` function. 
 
-```
+```js
 window.addEventListener('keyup', handleKeyUp);
 ```
 
 If you refresh the page, you will see that when you open the modal, you can hit the escape key and that will work. Try the second gallery to make sure it's still working too.
 
-Next we need to hook up the next and previous buttons . 
+Next we need to hook up the next and previous buttons and arrow keys to show the next and previous images.
 
-The next thing we need to do is hook up the buttons to show the next and previous images, and also the arrow keys. 
+Let's start with the button. Add the following event listener in the event listener section. 
 
-Let's start with the button, add the following event listener to our event listener section: 
-
-```
+```js
 nextButton.addEventListener('click', showNextImage);
 ```
 
 Notice that we have all these small little functions already? It doesn't necessarily matter in which order you put each function, but Wes likes to group them. 
 
-So further up, above our `showImage` function let's add the function `showNextImage`.
+Further up, above the `showImage` function, add the function `showNextImage`.
 
-We need to know what the next image is in order to display it.  That is why we made that `let currentImage;` variable earlier.  When we open up an image, we set the current image. So when we run `showNextImage`, we should be able to know at least what the current image is by referencing that variable. 
+To be able to display the next image, we need to know which image is next. 
 
-If we were to wonder what the next image was, we should be able to do `currentImage.nextElementSibling()`. Let's log that within the function. 
+When an image is opened, set it to be equal to the variable `currentImage` we created earlier. 
 
-```
+Now when we run `showNextImage` we will have access to the current image by referencing the `currentImage` variable.
+
+To grab the next image, you should able to use the `nextElementSibling()` method of the `currentImage` variable. 
+
+Log the value of that within `showNextImage` for now. 
+
+```js
 function showNextImage(){
   console.log(currentImage.nextElementSibling); 
 }
-
 ```
 
 ![](@attachment/Clipboard_2020-04-28-22-17-07.png) 24:36
@@ -2970,7 +3008,7 @@ It gives Wes the suitcase which is correct but we get an error.
 
 Why is that happening?
 
-That is actually a problem frequently when we listen for clicks on things for multiple instances. 
+That is a frequent problem that you will run into when you listen for clicks on things for multiple instances. 
 
 In our case, what happened is we are listening for a click on the `nextButton`. 
 We are listening for a keyUp on the `window`. 

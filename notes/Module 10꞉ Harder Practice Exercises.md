@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-08-28T17:33:17.119Z'
+modified: '2020-09-15T13:05:02.054Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -2510,7 +2510,7 @@ One of the things about the checked attribute is if you do `checked="false"`, th
 
 The absence of the checked attribute marks something as unchecked. 
 
-If the checked attribuet is true, you need to add the checked attribute, otherwise we will pass nothing. 
+If the checked attribute is true, you need to add the checked attribute, otherwise we will pass nothing. 
 
 Do that by modifying the code as shown below 👇
 
@@ -2533,7 +2533,7 @@ const html = items
   .join("");
 ```
 
-We could have also used the `&&` operator instead like so: 
+We could have also used the `&&` operator instead like so 👇
 
 ```js
 ${item.compelte && 'checked'}
@@ -2649,7 +2649,9 @@ If instead you want the function to gracefully degrade, you can simply return wi
 
 Keep the code you added above. 
 
-Next you need to select the whole bunch of images. Previously, Wes has been selecitng everything at the top of the file, however, since we need to select these things for each of our instances, we will be selecting the images from _within_ the `Gallery` function.
+Next you need to select the whole bunch of images. 
+
+Previously, Wes has been selecting everything at the top of the file, however, since we need to select these things for each of our instances, we will be selecting the images from _within_ the `Gallery` function.
 
 The first thing you need is a list of all of the images. Instead of using `document.querySelector` however, you need to make sure it's scoped to the gallery element that was passed in to the function. 
 
@@ -2666,7 +2668,7 @@ console.log(images);
 
 ![](@attachment/Clipboard_2020-04-28-18-53-25.png) 6:47
 
-If you ad that code and look at the console, you will notice it is empty. 
+If you add that code and look at the console, you will notice it is empty. 
 
 Let's debug that. 
 
@@ -2731,11 +2733,11 @@ Those functions will be responsible for showing the image, opening and closing t
 
 This is a great example of how you can take a javascript app and make it simpler by breaking it into smaller, little functions.
 
-Let's start with the showing of the iamge. 
+Let's start with the showing of the image. 
 
 When someone clicks on one of the images, you need to update that modal with the associated images, as well as pop open the modal.
 
-Call that function `showImage`. It will take a reference to an image element as a parameter which we will call `el`.
+Name the function `showImage`. It will take a reference to an image element as a parameter which we will call `el`.
 
 Within that function, check whether a reference to an image was passed. 
 
@@ -2820,7 +2822,7 @@ Instead of setting the `src`, update the `textContent` of the `h2` to be `el.tit
 modal.querySelector('h2').textContent = el.title;
 ```
 
-Why do yu need to do that? 
+Why do you need to do that? 
 
 If you take a look at the image elements, you will see a couple of attributes on them. 
 
@@ -2843,6 +2845,7 @@ let currentImage;
 At the very bottom of the `showImage` function, add `currentImage = el;`
 
 If you refresh the page, then click on an image with the dev tools elements tab open, you should see the modal values being swapped out. 
+
 ![](@attachment/Clipboard_2020-04-28-19-36-43.png) 14:55
 
 _Note: the demo text is the same for each image, but you can tell it's being swapped because the first time you load the page, and then click, the value will be different._ 
@@ -2937,21 +2940,17 @@ function handleClickOutside(e){
 }
 ```
 
-If the thing the user clicks on matches the thing that you are listening for a click on, that means the user has clicked outside 
-
-That checks whether the thing the user clicked matches the thing that you are listening for a click on. If they are the exact same thing, that means the user has clicked outside, and not within the modal. 
+The code above checks whether the thing the user clicked matches the thing that you are listening for a click on. If they are the exact same thing, that means the user has clicked outside, and not within the modal. 
 
 So if you clicked within the modal, that would return false but if you clicked outside of it, it would return true. 
 
 ![](@attachment/Clipboard_2020-04-28-21-08-26.png) 21:01
 
-Refresh the page and open the modal and click outside of it, to ensure it works. 
+Refresh the page and open the modal and click outside of it, to ensure it works. (It should.)
 
-Next, let's wire up the escape key on our keyboard. 
+Next, let's wire up the escape key on our keyboard.  Make another function `handleKeyUp`, which takes in an event. 
 
-Make another function `handleKeyUp`, which takes in an event. 
-
-Inside of the function, add an if statement that checks if the key that was pressed matches "Escape", and if it is, run run `closeModal()`. 
+Inside of the function, add an if statement that checks if the key that was pressed matches "Escape", and if it does, run `closeModal()`. 
 
 This if statment is a good use case for a blockless if statement because it is a clean one liner. 
 
@@ -3010,16 +3009,15 @@ Why is that happening?
 
 That is a frequent problem that you will run into when you listen for clicks on things for multiple instances. 
 
-In our case, what happened is we are listening for a click on the `nextButton`. 
-We are listening for a keyUp on the `window`. 
+In our case, what happened is we are listening for a click on the `nextButton`. We are listening for a keyup on the `window`. 
 
-Because we have two galleries, there are two event listeners tacked onto the `window`, and onto the `nextButton`.
+Because we have 2 galleries, there are 2 event listeners tacked onto the `window`, and onto the `nextButton`.
 
-So what happened is it worked fine for the  first instance and it errored out after the second one. 
+So what happened is it worked fine for the first instance and it errored out after the second one. 
 
-To fix that, we will take those two event listeners and move them the end of the `openModal` function. 
+To fix that, we will take those 2 event listeners and move them the end of the `openModal` function. 
 
-```
+```js
 function openModal() {
   console.info("Opening Modal...");
   // First check if the modal is already open
@@ -3035,24 +3033,24 @@ function openModal() {
 }
 ```
 
-In the `closeModal` function we now need to do the exact opposite, sort of cleanup when the modal closes. 
+In the `closeModal` function we now need to do the exact opposite, which is to perform some cleanup when the modal closes. 
 
-```
+```js
 window.removeEventListener("keyup", handleKeyUp);
 nextButton.removeEventListener("click", showNextImage);
 
 ```
 
-That makes sure that we are only ever listening for keyUp and click on the things once, and then when the modal closes, we cleanup after ourselves and remove the event listeners. 
+That makes sure that we are only ever listening for `keyup` and `click` on the things once, and then when the modal closes, we cleanup after ourselves and remove the event listeners. 
 
-If you refresh the page and open the console and click and image and then hit next, you should see that work. If you go to the other gallery and try it, you should still see it works and isnt duplicating or anything. 
+If you refresh the page and open the console and click the image and then hit next, you should see that works. If you go to the other gallery and try it, you should still see it works and isn't duplicating or anything. 
 
 Now instead of logging it, we will instead pass it to our `showImage` function. 
 
-```
- function showNextImage() {
-    showImage(currentImage.nextElementSibling);
-  }
+```js
+function showNextImage() {
+  showImage(currentImage.nextElementSibling);
+}
 ```
 
 Now when you click one and then click the next one, it will automatically just change to the next one because we are passing the reference to the next image to our `showImage` function.
@@ -3061,9 +3059,9 @@ Now you probably see why we checked if there is no image passed in. When you hit
 
 Let's actually write a function where if we are on the last image we show the first image.
 
-Modify the code like so
+Modify the code like so 👇
 
-```
+```js
 function showNextImage(){
   showImage(currentImage.nextElementSibling || gallery.firstElementChild);
 }
@@ -3075,15 +3073,15 @@ Let's do the back button now.
 
 Duplicate the function we just wrote and modify like so:
 
-```
+```js
 function showPrevImage(){
   showImage(currentImage.prevElementSibling || gallery.lastElementChild);
 }
 ```
 
-Now in our open modal, let's duplicate the nextButton line of code and modify it like so:
+Now in our open modal, let's duplicate the `nextButton` line of code and modify it like so 👇
 
-```
+```js
 prevButton.addEventListener('click', showPrevImage);
 ```
 

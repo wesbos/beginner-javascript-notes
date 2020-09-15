@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
-modified: '2020-09-15T13:05:02.054Z'
+modified: '2020-09-15T21:55:44.826Z'
 ---
 
 # Module 10: Harder Practice Exercises
@@ -3069,9 +3069,7 @@ function showNextImage(){
 
 Now when you hit the last one, the first image will be shown. 
 
-Let's do the back button now. 
-
-Duplicate the function we just wrote and modify like so:
+Onto the back button now.  Duplicate the function we just wrote and modify it as shown below. 
 
 ```js
 function showPrevImage(){
@@ -3079,7 +3077,7 @@ function showPrevImage(){
 }
 ```
 
-Now in our open modal, let's duplicate the `nextButton` line of code and modify it like so 👇
+In the open modal, duplicate the `nextButton` line of code and modify it like so 👇
 
 ```js
 prevButton.addEventListener('click', showPrevImage);
@@ -3087,11 +3085,11 @@ prevButton.addEventListener('click', showPrevImage);
 
 If you refresh the page and try that, you will notice clicking next works but previous doesn't work. It's always wrapping around.
 
-Let's go back to our `showPrevImage` function. We should have called `currentImage.previousElementSibling` not `prevElementSibling`. If you fix that it should now work.
+Go back to the `showPrevImage` function. We should have called `currentImage.previousElementSibling` not `prevElementSibling`. If you fix that it should now work.
 
 The next step is to hookup the arrow keys. Let's piggyback on our `handleKeyUp` event handler. 
 
-```
+```js
 if(event.key === 'Escape') closeModal();
 if(event.key === 'ArrowRight' ) showNextImage();
 if(event.key === 'ArrowLeft') showPrevImage();
@@ -3101,8 +3099,7 @@ Now if you try using the arrow keys, you will see it works beautifully.
 
 One thing you could do is type `return` after each if statement. Although we aren't actually returning anything, the return makes the function stop running. If it was escaped, there is no point in checking if arrow right or arrow left were clicked 
 
-
-```
+```js
 if(event.key === 'Escape') return closeModal();
 if(event.key === 'ArrowRight' ) return showNextImage();
 if(event.key === 'ArrowLeft') return showPrevImage();
@@ -3112,11 +3109,12 @@ The last thing we need to do is the enter key.
 
 Images by default are not keyboard focusable, and in order to make the gallery accessible to keyboard users, we need to ensure that when they tab through it, they highlight and when you hit enter, it opens it up.
 
+#### `tab-index`
 If you look at the HTML page, you will see that all the images have a `tab-index` of 0. 
 
 ![](@attachment/Clipboard_2020-04-28-23-06-50.png) 31:32
 
-By giving it a tab-index of 0, you are telling the browser that this is an element that you can tab through, just like an input or links. Giving them all a tab-index of 0 will allow the tab to just naturally go in the flow of the document. 
+By giving it a `tab-index` of 0, you are telling the browser that this is an element that you can tab through, just like an input or links. Giving them all a tab-index of 0 will allow the tab to just naturally go in the flow of the document. 
 
 If you added an input as a sibling of one of the images, you would see that we could tab from the input to the image with no problem. 
 
@@ -3124,11 +3122,11 @@ On some elements when you tab to them and hit enter, like a button, it will fire
 
 Let's listen for a keyup  or keydown event and check if the user had hit enter when its' focused.
 
-Let's go down to our event lisetners and take all the iamges, loop over them again, 
+G down to our event lisetners and take all the images, and loop over them again.
 
 Note: you could do it in the same loop but for sanities sake, let's keep them separate.
 
-```
+```js
 //loop over each image
 images.forEach((image) => {
   //attach an event listener for each image
@@ -3146,13 +3144,13 @@ Now when you tab through, you can hit enter and it will open the modal and you c
 
 There is a lot going on but we are at only 91 lines of javascript code for a full featured gallery, which is pretty cool.
 
-We will be coming back to this video and refactoring it after we learn about prototypes. 
+We will be coming back to this video and refactoring it after we learn about **prototypes**. 
 
-The one thing about having all these `closeModal` and `openModal` functions inside of the gallery function is that those functions are not actually shared between the two galleries, the yare just duplicated. 
+The one thing about having all these `closeModal` and `openModal` functions inside of the gallery function is that those functions are not actually shared between the two galleries, they are just duplicated. 
 
 We basically have double functions that do the exact same thing. 
 
-When we learn abotu prototypes in classes, we will learn about how to shre the functionality between galleries as well as open up the functionaltiy so we can call them manually ourselves. 
+When we learn abotu prototypes in classes, we will learn about how to share the functionality between galleries as well as open up the functionaltiy so we can call them manually ourselves. 
 
 --- 
 

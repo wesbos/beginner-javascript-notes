@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-09-16T12:23:10.503Z'
+modified: '2020-09-16T23:07:02.968Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -403,17 +403,17 @@ We will be looking at that in the next video.
 
 ## 67 - Promises
 
-The solution to callback hell is to use a promise, and although we haven't covered that yet, we will now. 
+The solution to callback hell is to use a **promise**, and although we haven't covered that yet, we will now. 
 
-Promises are an IO for something that will happen in the future. 
+Promises are an IOU for something that will happen in the future. 
 
 If you think of our timer, data being returned from an API or someone giving access to a webcam, when we request or start those things, what we often get in return is not the immediate data back, because those things take time. Instead of getting the immediate data returned, we get a promise. 
 
-You can think of a Promise as a litlte ticket you have in your hand that says "I might get a timer, or some data at some point" and eventually at some point we will get some data back (it can also fail which is called rejecting). 
+You can think of a Promise as a little ticket you have in your hand that says "I might get a timer, or some data at some point" and eventually at some point we will get some data back (it can also fail which is called rejecting). 
 
-Or, if you are asking for a user's webcam, like we did in our Face Detection exercises, we were asking for a user's webcam using the code below.
+Or, when we were asking for a user's webcam, like we did in our Face Detection exercises, we used the code below.
 
-```
+```js
 const stream = await navigator.mediaDevices.getUserMedia({
   video: { width: 1280, height:720 },
 });
@@ -423,9 +423,9 @@ await video.play();
 
 We had to wait for the user to give us access to their webcam before playing the video. That happens all the time in Javascript, and that is what a promise is.
 
-In our `playground` directory, let's make a `promises.html` file. Let's give ourselves the base HTML and then lets add a script tag.
+In the `playground` directory, make a `promises.html` file. Add our base HTML and the following script tag. 
 
-```
+```html
 <script>
 function makePizza(){
 
@@ -434,13 +434,15 @@ function makePizza(){
 </script>
 ```
 
-Inside of this script tag, we are going to make a pizza promise. You can't make a pizza instantly. You gotta put the toppings on, the pepperoni on, that takes time. 
+Inside of this script tag, we are going to make a pizza promise. 
 
-If you were to order a pizza by phoning them or doing it online, they will immediately give you some sort of order number. That order number is not the pizza -- you cannot eat it, but you know that the order number or that receipt is a promise that they will give it to you when its finished. 
+When you make a pizza, it takes time. You can't make it instantly. You gotta put the toppings on, the pepperoni on, and that takes time. 
 
-So what we need to do is to make a promise and then return it from our function immediately.
+If you were to order a pizza by phoning them or doing it online, they will immediately give you some sort of order number. That order number is not the pizza -- you cannot eat it, but you know that the order number or that receipt is a "promise" that they will give it to you when its finished. 
 
-```
+So what we need to do is to make a promise and then return it from our function immediately as shown below.
+
+```js
 function makePizza(){
   const pizzaPromise  = new Promise();
   return pizzaPromise;
@@ -451,11 +453,15 @@ Promises are made immediately, but they do not resolve immediately (they resolve
 
 That idea of returning happening immediately and resolving happening when it's done is really important. 
 
-A promise takes a callback function, and that calback function is going to give us two arguments. We get the `resolve` function and the `reject` function (first will always be resolve, second will always be reject). 
+A promise takes a callback function, and that calback function is going to give us 2 arguments: 
+1. the `resolve` function 
+1.  the `reject` function 
 
-Now what you can do is when you are ready, you can resolve the promise or if something went wrong you can reject it. 
+The first will always be resolve, second will always be reject. 
 
-```
+Now what you can do is when you are ready, you can resolve the promise or if something went wrong you can reject it, as shown below. 
+
+```js
 function makePizza(){
   const pizzaPromise = new Promise(function(resolve. reject){
     resolve('');
@@ -466,17 +472,19 @@ const pizza = makePizza();
 console.log(pizza);
 ```
 
-Now if we refresh the page, what do you think we will get in the console? Will we get the pizza or something else, like a promise.
+Now if we refresh the page, what do you think we will get in the console? Will we get the pizza or something else, like a promise?
 
 ![](@attachment/Clipboard_2020-05-11-07-07-09.png) 4:39
 
-If you refresh the page, you should see the promise. What is important to note is that our `makePizza` function doesn't give us the pizza, it givs us the promise of pizza, that at some point in the future, we will either resolve a slice of pizza or reject it if something went wrong.
+If you refresh the page, you should see the promise. 
+
+What is important to note is that our `makePizza` function doesn't give us the pizza, it givs us the promise of pizza, that at some point in the future, we will either resolve a slice of pizza or reject it if something went wrong.
 
 Let's make the function a bit more robust.
 
-We will take in some toppings and will resolve using back ticks. Modify the code like so to make a `pepperoniPomise` and a `canadianPromise` like so:
+We will take in some toppings and will resolve using backticks. Modify the code as shown below to make a `pepperoniPomise` and a `canadianPromise`.
 
-```
+```js
 function makePizza(toppings){
   const pizzaPromise = new Promise(function(resolve. reject){
     resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
@@ -491,24 +499,30 @@ console.log(pepperoniPromise, canadianPromise);
 
 ![](@attachment/Clipboard_2020-05-11-07-11-39.png) 6:09
 
-As you can see, we get our two promises. But how do we get the actual pizza itself? This is a bit confusing because the devtools will show you the value when it is resolved, but in Javascript if you actually want to access the value of the pizza, you cannot say `pepperoniPromise.value` or anything. 
+As you can see, we get our 2 promises. But how do we get the actual pizza itself? 
+
+This is a bit confusing because the devtools will show you the value when it is resolved, but in Javascript if you actually want to access the value of the pizza, you cannot say `pepperoniPromise.value` or anything. 
+
+### `.then()`
 
 The way that we can access it by using the `then()` method, which takes in a callback method. The callback method will pass you the pizza, which we will then log. 
 
-```
+```js
 pepperoniPromise.then(function(pizza){
   console.log("Ahh I got it!");
   console.log(pizza);
 });
 ```
 
-Now when you refresh the page you should see the following..
+Now when you refresh the page you should see the logs below. 
 
 ![](@attachment/Clipboard_2020-05-11-07-14-47.png) 7:00
 
 At this stage, you might be wondering "why are you doing it like this Wes? this seems like a much harder way to just return data".
 
-The reason for that is we haven't introduced any time delays in our example so let's go ahead and do that. We will add a 1 second wait for the pizza to cook using `setTimeout` and then call `resolve` from within that timeout. 
+The reason for that is we haven't introduced any time delays in our example so let's go ahead and do that. 
+
+We will add a 1 second wait for the pizza to cook using `setTimeout` and then call `resolve` from within that timeout. 
 
 ```js
 function makePizza(toppings){
@@ -529,7 +543,7 @@ pepperoniPromise.then(function(pizza){
 });
 ```
 
-If you refresh the page, you will see in the console that we get our promise immediately and then a second after actually have access to our pizza. 
+If you refresh the page, you will see in the console that we get our promise immediately and then a second after we actually have access to our pizza. 
 
 ![](@attachment/Clipboard_2020-05-11-07-19-32.png) 7:59 
 
@@ -537,9 +551,31 @@ That is a great example of how we sometimes have to wait.
 
 Often what you will see is instead of making a promise and then returning it, people will often just return the promise immediately. 
 
+```js
+function makePizza(toppings){
+  return new Promise(function(resolve, reject){
+    //wait 1 second for the pizza to cook
+    setTimeout(function(){
+      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+    }, 1000)
+    //if something went wrong, we can reject this promise
+  });
+}
+```
+
 ![](@attachment/Clipboard_2020-05-11-07-20-48.png) 8:27
 
-The logic to how a Promise gets resolved is always inside of the Promise body.
+The logic to how a Promise gets resolved is always inside of the Promise body, which in the example is the code below 
+
+```js
+function(resolve, reject){
+    //wait 1 second for the pizza to cook
+    setTimeout(function(){
+      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+    }, 1000)
+    //if something went wrong, we can reject this promise
+  }
+```
 
 ![](@attachment/Clipboard_2020-05-11-07-21-16.png) 8:36
 
@@ -547,7 +583,7 @@ That function will resolve or reject whenever it feels ready. In our case, we fe
 
 So what is happening here is when we declare our `pepperoniPromise` we can call `makePizza(['pepperoni'])`, which returns a promise of pizza. In order to get the pizza, the way we can access the resolved value is by chaining a `.then` onto it. 
 
-```
+```js
 console.log('Starting');
 pepperoniPromise.then(function(pizza){
   console.log('Ahhh got it!');
@@ -556,22 +592,27 @@ pepperoniPromise.then(function(pizza){
 console.log('finishing');
 ```
 
-When you fresh the page you will see that we get "Starting" then "finishing" then the I got it message. 
+When you refresh the page you will see that we get "Starting" then "finishing" then the "I got it" message. 
 
 ![](@attachment/Clipboard_2020-05-11-07-27-24.png) 9:21
 
-We will look at how we can use `async await` to actually do that sequentially if we would like to, but for now we know we can chain a `.then()` onto it.
+We will look at how we can use `async/await` to actually do that sequentially if we would like to, but for now we know we can chain a `.then()` onto it.
 
-Why is that any more useful than a regular callback? That is useful becaue let's say we wanted to make multiple pizzas one after the other, and let's say we have an oven that can only cook one at at time. 
+Why is that any more useful than a regular callback? 
 
-Delete our `canadianPizza` and `pepperoniPizza` declaration code and everything below it in the script tag and just leave this: `makePizza(['pepperoni'])`. 
+That is useful becaue let's say we wanted to make multiple pizzas one after the other, and we have an oven that can only cook one at at time. 
 
-We can chain a `.then()` immediately onto it (because `makePizza` returns a promise), which gives a function that has a pizza. Let's just log the pizza so that we know that it still works. 
+Delete our `canadianPizza` and `pepperoniPizza` declaration code and everything below it in the script tag and just leave the line below 
+
+```js
+makePizza(['pepperoni']);
+```
+
+We can chain a `.then()` immediately onto it (because `makePizza` returns a promise), which gives a function that has a pizza. LLog the pizza so that we know that it still works. 
 
 The neat thing is if from this `then()` we return another `makePizza`, you can then chain another `.then()` on that function. 
 
-
-```
+```js
 makePizza(['pepperoni', 'ham']).then(function(pizza){
    console.log(pizza);
    return makePizza(['ham', 'cheese']);
@@ -589,7 +630,7 @@ You can chain as many as you want.
 Often people like to organize the code so that each `.then()` is on it's own line to make it more readable as you see below.
 
 
-```
+```js
 makePizza(['pepperoni', 'ham'])
   .then(function(pizza){
     console.log(pizza);
@@ -604,10 +645,9 @@ makePizza(['pepperoni', 'ham'])
   })
 ```
 
-Unlike what we were doing the lesson where we were adding and removing classes which were all nested in callback hell, this chaining of `then` is the promise land and it allows us to keep all of our logic one level deep.
+Unlike what we were doing the lesson where we were adding and removing classes which were all nested in callback hell, this chaining of `then` is the promiseland and it allows us to keep all of our logic one level deep.
 
 The downside to that is if you had a log of First and After all our promise chaining, both logs would execute before any of our pizzas are logged. 
-
 
 ```js
 console.log('First');
@@ -628,21 +668,31 @@ console.log('Right after');
 
 ![](@attachment/Clipboard_2020-05-12-06-50-19.png) 12:26
 
-We will look at how we can use async await to get around that. 
+We will look at how we can use async/await to get around that. 
 
-If you look at the call stack, what we know is that it first runs function highlighted below, which immediately returns a proimse. 
+If you look at the call stack, what we know is that it first runs the function `makePizza(['pepperoni'])` (highlighted in the image below), which immediately returns a proimse. 
 
 ![](@attachment/Clipboard_2020-05-12-06-50-58.png) 12:34
 
-Then it runs the bottom log, before jumping back up to the first `then` we have when the promise is resolved, and then it keeps going down the promise chain. 
+Then it runs the bottom log, before jumping back up to the first `then()` we have when the promise is resolved, and then it keeps going down the promise chain. 
 
-Let's make our `makePizza` function a bit more resilient, starting with `toppings`. Let's set an empty array as the default because sometimes people might order a pizza with nothing on it `function makePizza(toppings = [])`. 
+Let's make our `makePizza` function a bit more resilient, starting with `toppings`. 
 
+Set an empty array as the default because sometimes people might order a pizza with nothing on it.
 
-For every single topping that is added to the pizza, let's add 200 miliseconds to the initial bake time which is 500. Let's calculate that and save it in a variable like so `const amountOfTimeToBake = 500 + (toppings.length * 200);`. 
+```js
+function makePizza(toppings = [])
+``` 
+
+For every single topping that is added to the pizza, let's add 200 miliseconds to the initial bake time which is 500. Let's calculate that and save it in a variable as shown below 👇 
+
+```js
+const amountOfTimeToBake = 500 + (toppings.length * 200);
+```
 
 Now we will take that variable and pass it to our timeout. 
-```
+
+```js
 function makePizza(toppings = []){
   const pizzaPromise = new Promise(function(resolve, reject){
     const amountOfTimeToBake = 500 + (toppings.length * 200);
@@ -658,12 +708,11 @@ function makePizza(toppings = []){
 
 ![](@attachment/Clipboard_2020-05-13-18-25-48.png) 13:35
 
-When we refresh the page and the above code is executed, what should happen is ham and cheese should be logged to the console faster than the pizza with three toppings. 
+When we refresh the page and the above code is executed, what should happen is ham and cheese should be logged to the console faster than the pizza with 3 toppings. 
 
+Let's chain 2 more pizzas together, one with no toppings, the other with a lot of toppings.  Then let's resolve that last pizza and just log it using an arrow function as shown below. 
 
-Let's chain two more pizzas together, one with no toppings, the other with a lot of toppings. THen let's resolve that last pizza and just log it using an arrow function like so 
-
-```
+```js
 console.log('First');
 makePizza(['pepperoni', 'ham'])
   .then(function(pizza){
@@ -689,53 +738,59 @@ makePizza(['pepperoni', 'ham'])
 console.log('Right after');
 ```
 
-Let's say we have a big oven and we can make all the pizzas at once. You could them all at once concurrently, instead of one after another like we are doing (which is referred to as sequentially). 
+### `Promise.all()`
 
-If you have 10 employees and an oven big enough to cook the mall at once you can do it like so 👇
+Let's say we have a big oven and we can make all the pizzas at once. You could run them all **concurrently**, instead of one after another like we are doing (which is referred to as **sequentially**). 
 
+If you have 10 employees and an oven big enough to cook them all at once, you can do it like so 👇
+
+```js
+// Run them Concurrently
+  const pizzaPromise1 = makePizza(['hot peppers', 'onion', 'feta']);
+  const pizzaPromise2 = makePizza(['one', 'two', 'three', 'four', 'one', 'two', 'three', 'four', 'one', 'two', 'three', 'four']);
+  const pizzaPromise3 = makePizza(['ham', 'cheese']);
 ```
-  // Run them Concurrently
-    const pizzaPromise1 = makePizza(['hot peppers', 'onion', 'feta']);
-    const pizzaPromise2 = makePizza(['one', 'two', 'three', 'four', 'one', 'two', 'three', 'four', 'one', 'two', 'three', 'four']);
-    const pizzaPromise3 = makePizza(['ham', 'cheese']);
-```
 
-So how do we know when all of those promises are done? We could do .then() on each of them like so 👇
+So how do we know when all of those promises are done? We could do `.then()` on each of them like so 👇
 
 ![](@attachment/Clipboard_2020-05-13-18-36-33.png) 16:36
 
 But those are going to pop into the console in whatever order they are done, which isn't what we want. We can instead make it into a "mega promise" that we then wait upon. 
 
-If you have a few promises and all you care about is when all three of them are finished, you can make a mega promises, which we will call a `dinnerPromise`. 
+If you have a few promises and all you care about is when all 3 of them are finished, you can make a mega promises, which we will call a `dinnerPromise`. 
 
-```
-    const dinnerPromise = Promise.all([pizzaPromise1, pizzaPromise2, pizzaPromise3]);
+```js
+const dinnerPromise = Promise.all([pizzaPromise1, pizzaPromise2, pizzaPromise3]);
 ```
 
-`Promise.all()` is a static method because it lives on the momma Promise directly. 
+`Promise.all()` is a static method because it lives on the "momma" Promise directly. 
 
 It takes an array of "baby" promises which are `pizza1`, `pizza2`, `pizza3`. 
 
 That makes one big promise which then you can call `.then()` on and we get passed the `pizzas` which we will log. 
 
-```
+```js
 dinnerPromise.then(pizzas => {
   console.log(pizzas);
 })
 ```
 
-Now we wait for all three to be finished, and we get an array of all three of them. 
+Now we wait for all 3 to be finished, and we get an array of all 3 of them. 
 
 ![](@attachment/Clipboard_2020-05-13-18-42-40.png) 17:58
 
 If you wanted the first pizza it would be `pizza[0]`. 
 
-A pretty common thing to do is destructure the pizzas. Let's convert the arrow function to a regular function to make it clearer to understand. 
+A pretty common thing to do is destructure the pizzas. 
 
-We will use an array destructuring. Let's call the first pizza `hottie`, second one `garbagePail` and third one `hamAndCheese`. Those will now be equal to three variables which we can now log or use however we want like so 👇
+Let's convert the arrow function to a regular function to make it clearer to understand. 
 
-```
-innerPromise.then(function (pizzas) {
+We will use **array destructuring**. Let's call the first pizza `hottie`, second one `garbagePail` and third one `hamAndCheese`. 
+
+Those will now be equal to 3 variables which we can now log or use however we want like so 👇
+
+```js
+dinnerPromise.then(function (pizzas) {
   [hottie, garbagePail, hamAndCheese] = pizzas;
   console.log(hottie, garbagePail, hamAndCheese);
 }); 
@@ -744,7 +799,7 @@ innerPromise.then(function (pizzas) {
 
 You do not have to destructure those variables in the body of the function, you can destructure the argument directly with square brackets.
 
-```
+```js
 dinnerPromise.then(function ([hottie, garbagePail, hamAndCheese]) {
   console.log(hottie, garbagePail, hamAndCheese);
 });
@@ -754,19 +809,21 @@ That is saying take the first argument and destructure it into a variable named 
 
 If you refresh the page you will see it still works. 
 
-To reiterate, `Promise.all()` will take all of your promises and will only resolve when all three of the sub-promisess have been resolved themselves.
+To reiterate, `Promise.all()` will take all of your promises and will only resolve when all 3 of the sub-promisess have been resolved themselves.
+
+### `Promise.race()`
 
 Similarly there is `Promise.race()`. Let's say someone is really hungry and they will take whichever pizza the first pizza is that is ready because they are very hungry. 
 
 We could do this 👇
 
-```
+```js
 const firstPizzaPromise = Promise.race([pizzaPromise1, pizzaPromise2, pizzaPromise3]);
 ```
 
 Now we can log it. 
 
-```
+```js
 firstPizzaPromise.then(pizza => {
   console.log('You must be hungry, here is the first one ready');
   console.log(pizza);

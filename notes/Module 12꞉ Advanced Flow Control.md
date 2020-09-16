@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-09-16T10:39:20.772Z'
+modified: '2020-09-16T12:23:10.503Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -162,7 +162,7 @@ Let's demo that in loupe.
 
 ![](@attachment/loupe-0-timer.gif) 
 
-It logs, runs setTimeout, puts running in the web api which puts it in the call back queue, and then when the "ending" log is finished executing, javascript grabs from the callback queue and runs it. 
+It logs, runs `setTimeout`, puts running in the web api which puts it in the call back queue, and then when the "ending" log is finished executing, Javascript grabs from the callback queue and runs it. 
 
 As a beginner and intermediate web developer you don't have to understand all the nitty gritty of the call stack and event loop. 
 
@@ -178,17 +178,17 @@ When you click a button, we set a timer for 2 seconds that says you clicked me, 
 
 ![](@attachment/loupe-0-timer.gif)  
 
-How that works is first the click listener goes on the callstack and gets put into the web apis, then the event listener is added. The hi is run and logged, and after that the timer also gets put in the web apis, and then it logs welcome to loupe. 
-
+How that works is first the click listener goes on the call stack and gets put into the web apis, then the event listener is added. The hi is run and logged, and after that the timer also gets put in the web apis, and then it logs welcome to loupe. 
 Once the timer is finished, it will get moved to the callback queue. 
 
-Now everytime we click the button it sticks an event handler in the queue and you can see the callstack is reaching in and grabbing the next callback to handle itself. 
+Now every time we click the button, it sticks an event handler in the queue and you can see the callstack is reaching in and grabbing the next callback to handle itself. 
 
 ![](@attachment/Clipboard_2020-05-08-06-59-35.png) 9:10
 
-So how do we deal with a scenario in Javascript where we do actually want to wait for something. Let's say we wanted to go off to an API and grab some data and then come back to it, we shouldn't have to freeze up the entire browser, or we shouldn't have to stop everything else in the browser while that goes and fetches it.
+So how do we deal with a scenario in Javascript where we do actually want to wait for something?
 
-Instead what we want is to send off the fetch request and to go and get the data and then carry on with the rest of our life. When the data does come back to us, we can deal with it, very similarly to how `setTimeout` will run the callback after the alloted time. 
+Let's say we wanted to go off to an API and grab some data and then come back to it. We shouldn't have to freeze up the entire browser, or we shouldn't have to stop everything else in the browser while that goes and fetches it. Instead what we want is to send off the fetch request and to go and get the data and then carry on with the rest of our life. 
+When the data does come back to us, we can deal with it, very similarly to how `setTimeout` will run the callback after the alloted time. 
 
 Callbacks are great, but it is very difficult to orchestrate multiple things at once. 
 
@@ -204,18 +204,17 @@ What we want to do is make a div and do a few things to it:
 
 That is not an uncommon thing in javascript, where you have to perform some things in a series, one after the other.
 
-What we will do is make a div within the body tag and give it a class of go. 
+What we will do is make a div within the body tag and give it a class of `go`. 
 
-```
+```html
 <div class="go">Click Me</div>
 ```
 
 Comment out all the other code we have in the script tag and let's start with selecting the div and changing the text to go when clicked.
 
+When the div is clicked, we will grab the event and save the div element in a variable `el`. The reason we are saving that in a variable will make sense in just a second.
 
-When the div is clicked, we will grab the event and save the div element in a variable `el`. The reason we are saving that in a variable will  make sense in just a second.
-
-```
+```js
 go.addEventListener('click', function(e){
   const el = e.currentTarget;
   console.log(el);
@@ -228,7 +227,7 @@ As you can see, we have the div.
 
 Let's add some default styling there. Add style tag on the page with some styling. 
 
-```
+```css
 .go { 
   margin: $rem;
   background: white;
@@ -241,9 +240,9 @@ Now when you refresh the page, your button should look like this:
 
 ![](@attachment/Clipboard_2020-05-08-20-05-09.png) 12:43
 
-Now we have to make it a cirlce after two seconds. We ccan do that by adding a `setTimeout`. 
+Next we have to make it a circle after two seconds. We can do that by adding a `setTimeout`. 
 
-```
+```js
 go.addEventListener('click', function(e){
 const el = e.currentTarget;
 console.log(el);
@@ -253,9 +252,9 @@ setTimetout(function(){
 });
 ```
 
-Now back in our style tag, let's add a border radius of 50% for the class circle. 
+Now back in the style tag, let's add a border radius of 50% for the class circle. 
 
-```
+```css
 .go.circle {
   border-radius:50%;
 }
@@ -263,20 +262,21 @@ Now back in our style tag, let's add a border radius of 50% for the class circle
 
 ![](@attachment/Clipboard_2020-05-08-20-09-15.png)
 
-If you refresh the page you will see that the div style changes to a cirlce after 2 seconds. We forgot to change the text when clicked for step one so right before the `setTimeout` add 👇
+If you refresh the page you will see that the div style changes to a cirlce after 2 seconds. 
 
-```
+We forgot to change the text when clicked for step one so right before the `setTimeout` add 👇
+
+```js
 el.textContent = 'GO!';
 ```
 
-Let's put a height on the go css style class as well so that it is square. 
+Let's put a height on the go CSS style class as well so that it is square. 
 
 ![](@attachment/Clipboard_2020-05-08-20-11-45.png) 13:38
 
 We can add a transition on there too.
 
-
-```
+```css
 .go { 
   margin: $rem;
   background: white;
@@ -287,10 +287,9 @@ We can add a transition on there too.
 }
 ```
 
-After 0.5 seconds we need to make it ren. Let's add anotehr `setTimeout` to do that.
+After 0.5 seconds we need to make it run. Let's add anotehr `setTimeout` to do that.
 
-
-```
+```js
 go.addEventListener('click', function(e){
 const el = e.currentTarget;
 console.log(el);
@@ -303,9 +302,9 @@ console.log(el);
 });
 ```
 
-Let's add the follow css styles to the css class "red" and to purple. 
+Let's add the follow css styles to the css class red and to purple. 
 
-```
+```css
 .go.red {
   background:red;
 }
@@ -342,7 +341,7 @@ go.addEventListener("click", function(e) {
 
 Now we need to make it purple after 0.3 seconds.
 
-Add these  styles 👇
+Add these styles 👇
 
 ```css
 .go.purple {
@@ -380,7 +379,7 @@ go.addEventListener("click", function(e) {
 
 ```
 
-Add this style
+Add this style now 👇
 
 ```css
 .go.fadeOut {
@@ -388,20 +387,15 @@ Add this style
 }
 ```
 
-
 ![](@attachment/loop-animation.gif) 16:44
 
-That was a really simple animation and look at all this, this is what is referred to as callback hell.
+That was a really simple animation, but look if you look at the code the way it is now, that is what is referred to as **callback hell**.
 
-Callback hell is if you must do things one after the other, you must nest things inside of each other because they all depende on the previous callback to being called before it can then go ahead and run. 
-
-It is also redered to as "Christmas Tree" code because of how indented the code is sideways.
-
-It's not all that great. 
+Callback hell is when you nest things inside of each other because they all depend on the previous callback to being called before it can then go ahead and run, when you need to run things in sequence, one after the other. It is also redered to as **"Christmas Tree" code** because of how indented the code is sideways. It's not all that great. 
 
 The solution to call-back hell is the "promise" land. 
 
-Promises are a sort of IOU for something that will happen in the future. They allow us to write code that is much easier to look at. 
+Promises are a sort of "I owe you" for something that will happen in the future. They allow us to write code that is much easier to look at. 
 
 We will be looking at that in the next video. 
 

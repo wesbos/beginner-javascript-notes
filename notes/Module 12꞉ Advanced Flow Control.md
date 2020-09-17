@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-09-16T23:19:03.994Z'
+modified: '2020-09-17T11:00:16.020Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1185,13 +1185,13 @@ Although in the last lesson we refactored our callback hell example to use promi
 
 `async/await` is a new syntax that will allow us to use the keyword `async` and the keyword `await` for a much nicer, easier to read looking code and we will see how that works in just a second. 
 
-Your functions that return promise still stay exactly the same way. There is nothing that needs to change about your promsie generating functions. The code that we need to change is where we actually call the code that `async await` comes in handy. 
+Your functions that return promise still stay exactly the same way. There is nothing that needs to change about your promsie generating functions. We need to change where we actually call the code to use `async/await`. 
 
-Let's go into our `playground` folder and make a new file called `async-await.html` and we will give it our base. 
+Go into the `playground` folder and make a new file called `async-await.html` and add our base HTML. 
 
-Let's give ourselves a script tag, and create that wait function again like so
+Add a script tag and create that wait function we have built a few times now. 
 
-```
+```html
 <script>
 function wait(ms = 0){
   return new Promise((resolve)=>{
@@ -1202,14 +1202,13 @@ function wait(ms = 0){
 </script>
 ```
 
-Now if we want to use the `async await` syntax there are a few things that need to happen. First of all, you can only use `async await` inside of a function that is marked as `async`. 
+Now if we want to use the `async await` syntax there are a few things that need to happen. 
 
-So what we have to do is we have to make a function, let's call it go.
-The way that it will work is we will log "starting" and then we will log "ending". 
+First of all, you can only use `async await` inside of a function that is marked as `async`. 
 
-If we want to wait for two seconds inbetween there we would do the following:
+Make a function `go()` which logs "starting", and "ending". In order to make it wait for two seconds between the logs, you would add the following code 👇
 
-```
+```js
 function go(){
   console.log('Starting');
   wait(2000);
@@ -1218,14 +1217,13 @@ function go(){
 go();
 ```
 
-Now we know if we run `go` on page load like that, we will get starting and ending immediately.
+Now we know if we run `go` on page load, we will get "starting" and "ending" immediately. 
 
 ![](@attachment/Clipboard_2020-05-17-13-49-04.png) 2:32
 
-What async await allows us to do is we can put the keyword `await` in front of a promise based function and it will sort of temporarily pause that function from running until that promise is resolved. 
+What async await allows us to do is put the keyword `await` in front of a promise based function and it will sort of temporarily pause that function from running until that promise is resolved. 
 
-
-```
+```js
 function go(){
   console.log('Starting');
   await wait(2000);
@@ -1240,9 +1238,11 @@ If you modify the code as shown above and then refresh the page, you will see an
 
 >Uncaught SyntaxError: await is only valid in async function
 
-To fix this, we need to mark our function as `async`. That tells the code that somewhere inside of the function, we will be doing some awaiting. In order to do that, we must mark our functions as `async` like so:
+To fix this, we need to mark our function as `async`. That tells the code that somewhere inside of the function, we will be doing some awaiting. 
 
-```
+Mark the function `async` as shown below. 
+
+```js
 async function go(){
   console.log('Starting');
   await wait(2000);
@@ -1250,11 +1250,13 @@ async function go(){
 }
 ```
 
-Now if you go ahead and save the function and then refresh, we will getting starting logged to the console and then two seconds later we will get ending.
+Now if you go ahead and save the function and then refresh, we will getting "starting" logged to the console and then two seconds later we will get "ending".
 
-That is beautiful because we achieved that without chaining  a bunch of `.then()` . If we wanted to wait for another period of time in the same function before executing something else, we can.
+That is beautiful because we achieved that without chaining a bunch of `.then()` . 
 
-```
+If we wanted to wait for another period of time in the same function before executing something else, we can.
+
+```js
 async function go(){
   console.log('Starting');
   await wait(2000);
@@ -1272,31 +1274,33 @@ Marking functions as `async` can work with any type of function.
 
 Let's go over all the functions just to demonstrate. 
 
-You can add `async` to a function declaration like so:
+You can add `async` to a function declaration as shown below 👇
 
-```
+```js
 // Function Declaration
 async function fd(){}
 ```
 
-We can also have an arrow function 
+You can also mark an arrow function as async 👇
 
-```
+```js
 //arrow function
 const arrowFn = async () => {}
 ```
 
-We also have callback functions. Let's say we had an event listener. We would make the callback function async like so:
+You can also mark callback functions async. 
 
-```
+For example, if you had an event listener, you could make the callback function async as shown below 👇
+
+```js
 window.addEventListener('click', async function(){
 
 })
 ```
 
-We also have methods. 
+You cam also make methods async.
 
-```
+```js
 const person = {
   sayHi: async function(){
 
@@ -1304,10 +1308,9 @@ const person = {
 }
 ```
 
-We also have the method shorthand and function property. 
+You can also mark methods async using the method shorthand and function property, as shown below. 
 
-
-```
+```js
 const person = {
   //method
   sayHi: async function(){
@@ -1326,15 +1329,19 @@ const person = {
 
 Essentially whenever you have a function, put the word `async` infront of it and that will allow you to do `awaiting` inside of it. 
 
-You cannot do what is referred to as top level await. Meaning if we were to open go directly into our script tag and try calling `wait` like so:
+You cannot do what is referred to as top level await. 
 
-```
+If you go take the code within the go function and try to run it directly in the script tag and try calling `wait` as shown below, it will not work 👇
+
+```js
 console.log('one');
 await wait(200);
 console.log('two');
 ```
 
 We get an error in the console.
+
+>Uncaught SyntaxError: await is only valid in async function
 
 ![](@attachment/Clipboard_2020-05-18-09-18-33.png) 6:24
 

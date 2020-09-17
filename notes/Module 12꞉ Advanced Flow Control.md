@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-09-17T11:00:16.020Z'
+modified: '2020-09-17T12:13:49.758Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1327,7 +1327,7 @@ const person = {
 }
 ```
 
-Essentially whenever you have a function, put the word `async` infront of it and that will allow you to do `awaiting` inside of it. 
+Essentially whenever you have a function, put the word `async` infront of it and that will allow you to do awaiting inside of it. 
 
 You cannot do what is referred to as top level await. 
 
@@ -1345,17 +1345,21 @@ We get an error in the console.
 
 ![](@attachment/Clipboard_2020-05-18-09-18-33.png) 6:24
 
-You can however copy and paste the call to the wait function and call it directly from devtools. 
+You can however copy and paste the call to the wait function and call it directly from devtools console. 
 
-Let's take a look at some other examples. Let's go to our `promises.html` file that we have and let's grab the `makePizza` function, and move it over to our `async await` file. 
+Let's take a look at some other examples.
+
+Go to our `promises.html` file that we have and let's grab the `makePizza` function, and move it over to the `async await` file. 
 
 Both of those functions return a promise.  
 
 ![](@attachment/Clipboard_2020-05-18-09-21-11.png) 7:48
 
-Let's go to the bottom of the script tag and make another async function which we will call `makeDinner`. Within that function we will call `makePizza` to make `pizza1` and then we will log it. 
+Go to the bottom of the script tag and make another async function `makeDinner`. 
 
-```
+Within that function we will call `makePizza` to make `pizza1` and then we will log it. 
+
+```js
 async function makeDinner(){
   conost pizza1 = makePizza(['pepperoni']);
   console.log(pizza1);
@@ -1363,7 +1367,7 @@ async function makeDinner(){
 makeDinner();
 ```
 
-If you comment out the go function and the code where we call `go` and instead just run the code we added right above, you will see that we get a promise logged to the console. 
+If you comment out the `go` function and the code where we call `go` and instead just run the code we added right above, you will see that we get a promise logged to the console. 
 
 ![](@attachment/Clipboard_2020-05-18-09-36-05.png) 8:43
 
@@ -1371,7 +1375,7 @@ That is because we are running the function and storing it in a variable, which 
 
 If we instead put an `await` infront of our `makePizza` function, we will asynchronously be waiting for the pizza to be done, and when it is, we will simply log it.
 
-```
+```js
 async function makeDinner(){
   conost pizza1 = await makePizza(['pepperoni']);
   console.log(pizza1);
@@ -1383,7 +1387,7 @@ makeDinner();
 
 Similarly we can do that with pizza2 as well. 
 
-```
+```js
 async function makeDinner(){
   conost pizza1 = await makePizza(['pepperoni']);
   console.log(pizza1);
@@ -1397,13 +1401,13 @@ makeDinner();
 
 Now let's say we want to wait for both of those to be done because the way it is coded right now could be possibly inefficient. 
 
-This is what is referred to as a **foot gun** in the industry. If you give somebody the tools it is possible they could make code that is not performant. 
+This is what is referred to as a **foot gun** in the industry, when you give somebody the tools it is possible they could write code that is not performant. 
 
-What that means if if you are making a pepperoni and a mushroom pizza, the way we have coded it, you have to wait for the pepperoni pizza to be created, baked and taken out before we even start making the next pizza. 
+What that means is if you are making a pepperoni and a mushroom pizza, the way we have coded it, you have to wait for the pepperoni pizza to be created, baked and taken out before we even start making the next pizza. 
 
 It is likely that we could be making the pizza's concurrently, so what we can do is instead of waiting for one, then moving onto the next line and making the next one, we will remove the await from both of them, make them both into promises and then make one big promise which we can await. 
 
-```
+```js
 async function makeDinner(){
   const pizzaPromise1 = makePizza(['pepperoni']);
   const pizzaPromise2 = makePizza(['mushrooms']);
@@ -1416,48 +1420,46 @@ If you do it like above, we will still only get the big promise.
 
 ![](@attachment/Clipboard_2020-05-18-09-48-26.png) 11:18
 
-We need to modify the code to await the mamma promise like so: 
+We need to modify the code to await the mamma promise like so 👇
 
-```
+```js
 const pizzas = await Promise.all([pizzaPromise1, pizzaPromise2]);
 ```
 
 ![](@attachment/Clipboard_2020-05-18-09-49-13.png) 11:29
 
-Now we get the actual pizzas instead of just the proimises. 
+Now we get the actual pizzas instead of just the proimises. Go ahead and destructure the two pizzas that are returned.
 
-We can go ahead and destructure the two pizzas that are returned.
-
-```
+```js
 const [pep, mush] = await Promise.all([pizzaPromise1, pizzaPromise2]);
 console.log(pep, mush);
 ```
 
 ![](@attachment/Clipboard_2020-05-18-09-50-19.png) 11:46
 
-What we want to do now is let's go back to the code that we wrote early on with our promise chain and rewrite it one more time into async await. 
+What we want to do now is go back to the code that we wrote early on with our promise chain and rewrite it one more time into async await. 
 
 ![](@attachment/Clipboard_2020-05-18-09-50-59.png) 12:15
 
-Let's take the entire animate function and copy it and rename it to `animate2`. 
+Take the entire animate function and copy it and rename it to `animate2`. 
 
-Modify the click event to call `animate2` like so: 
+Modify the click event to call `animate2` as shown below.
 
-```
+```js
 go.addEventListener('click', animate2);
 ```
 
-Now let's go back to our `animate2` function. The first thing you need to do is mark the function as `async` and then we need to check that it still works. 
+Go back to the `animate2` function. 
 
-```
+The first thing you need to do is mark the function as `async` and then to check that it still works. 
+
+```js
 async function animate2(e){
 ```
 
-Open it up in the browser to make sure that it still works. 
+Open it up in the browser to make sure that it still works. Then refactor the animate function to instead await as shown below. 
 
-Now let's refactor the animate function to instead await like so: 
-
-```
+```js
 async function animate2(e) {
   const el = e.currentTarget;
   // 1. Change the text to GO when clicked.

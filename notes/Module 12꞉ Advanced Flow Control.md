@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-09-18T02:48:21.066Z'
+modified: '2020-09-18T12:38:36.289Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -2000,11 +2000,13 @@ ask({title:'does this work'});
 
 As you can see, we have the form, with a fieldset and label containing the title so we know that it works so far.
 
-Now let's check if they want a cancel button and if they do, let's go ahead and create that button. You must specify the type of the button or else the browser will just assume it is a submit button and submit the form. 
+Now let's check if they want a cancel button using the options object, and if they do, go ahead and create that button. 
 
-We also need to listen for a click on the cancel but for now we will just add a TODO and come back to that later to keep things more simple. 
+You must specify the type of the button or else the browser will just assume it is a submit button and submit the form. 
 
-```
+We also need to listen for a click on the cancel but for now, just add a TODO and come back to that later to keep things more simple. 
+
+```js
 if(options.cancel){
   const skipButton = document.createElement('button');
   skipButton.type = 'button';
@@ -2017,37 +2019,44 @@ We still need to listen for the submit event on the inputs, and resolve the data
 
 Let's do that last step first. 
 
-```
+```js
 document.body.appendChild(popup);
 ```
 
 ![](@attachment/Clipboard_2020-05-19-06-46-29.png) 9:25
 
-Let's get that popup showing up so we have a visual. If you go to our CSS, you will see that we have opacity of 0 on the `popup` class. The reason Wes has created a CSS custom property (or variable as it is referred to in CSS). You can then reference the variable. 
+Let's get that popup showing up so we have a visual. 
+
+If you go to our CSS, you will see that we have opacity of 0 on the `popup` class. 
+
+The reason Wes has created a **CSS custom property** (or variable as it is referred to in CSS) to store the opacity value which we can then reference using the variable. 
 
 ![](@attachment/Clipboard_2020-05-19-06-51-52.png) 9:43
 
-The reason Wes did it like this is so that when we go to the popup with class of `open`, it will know to update the value of the opacity variable everything that it is used.
+Now when we go to the popup with class of `open`, it will know to update the value of the opacity variable everywhere that it is used.
 
-So right after we append our child, we need to take the popup's class list and add a class of open. 
+So right after we append our child, we need to take the popup's class list and add a class of `open`. 
 
-```
+```js
 document.body.appendChild(popup);
 popup.classList.add('open');
 ```
 
-Now when we click it, as you see, it is not fading itself in, which is a bit of a problem. That is back to the whole event loop that we talked about a few videos ago. 
+When we click it, as you see, it is not fading itself in, which is a bit of a problem. That is back to the whole event loop that we talked about a few videos ago. 
 
 ![](@attachment/Clipboard_2020-05-19-06-57-27.png) 10:20
 
-The reason it is not animating itself in is because it queues up the add a class of `popup` and a class of `open` sort of at the same time. There is no time for it to transition from regular popup opacity 0 to popup open opacity one. There is no A to B to transition itself from one to another.
+The reason it is not animating itself in is because it queues up the "add a class of `popup`" and "add a class of `open`" sort of at the same time. 
 
-The solution there is to put a very small timeout before we add the `open` class. What that will do is it will stick the code that is beyond it at the end of the event loop and that is enough to give it a little bit of time between A 
-and B to transition itself. 
+There is no time for it to transition from regular popup `opacity:0` to popup open `opacity: 1`. There is no A to B to transition itself from one to another.
 
-Let's add a timeout of 10 miliseconds and then add the class of open like so
+The solution there is to put a very small timeout before we add the `open` class. 
 
-```
+That will stick the code that is beyond it at the end of the event loop and that is enough to give A and B a little time to transition itself. 
+
+Let's add a timeout of 10 miliseconds and then add the class of `open`.
+
+```js
 document.body.appendChild(popup);
 //put a very small timeout before we add the open clicks
 setTimeout(function(){
@@ -2055,13 +2064,17 @@ setTimeout(function(){
 }, 10);
 ```
 
-Sometimes you can even get away with doing a 0 second timeout. Why does that work?
+Sometimes you can even get away with doing a 0 second timeout. 
+
+Why does that work?
 
 As we learned earlier how the event loop works is that when you have a timeout, it runs it, then sticks the callback in the Web APIs which puts it in the queue, and then the event loop will pull it back. 
 
-Sometimes you will see this where body puts something at a timeout of 0, all that is doing is it puts that at the end of the event loop so that the other code finishes running by the time we add our class list of open. Wes has tested that in a few browsers but it doesn't work too great, so let's change it to 50 miliseconds instead of 0. 
+Sometimes you will see this where somebody puts something at a timeout of 0. All that is doing is it puts that at the end of the event loop so that the other code finishes running by the time we add our class list of open. 
 
-```
+Wes has tested that in a few browsers but it doesn't work too great, so let's change it to 50 miliseconds instead of 0. 
+
+```js
 setTimeout(function(){
   popup.classList.add('open');
 }, 50);
@@ -2071,23 +2084,22 @@ Now one thing we can do is instead of using `setTimeout`, we could use `async/aw
 
 Let's code that `wait` function again.
 
-
-```
+```js
 function wait(ms = 0){
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 ```
 
-Now let's go back to where we had added the timeout and replace it instead with...
+Go back to where we had added the timeout and replace it instead with the code below. 
 
-```
+```js
 document.body.appendChild(popup);
 //put a very small timeout before we add the open clicks
 await wait(50);
 popup.classList.add('open'); 
 ```
 
-You might notice your code editor yelling at you that you have can only call `await` from an async function so let's make it async like so:
+You might notice your code editor yelling at you that you have can only call `await` from an async function modify the function to make it async as shown below. 
 
 ```js
 function ask(options){
@@ -2096,15 +2108,17 @@ function ask(options){
 
 The reason we did not mark the `ask` function itself as async is because you have to mark the parent function which is the promise callback. 
 
-Now that should work exactly the same way as it did before when you call `ask({title: ' does this work'})` from the console.  Try opening Firefox and testing it there to see if it works. 
+Now that should work exactly the same way as it did before when you call `ask({title: ' does this work'})` from the console.  
+
+Try opening Firefox and testing it there to see if it works. 
 
 ![](@attachment/Clipboard_2020-05-19-18-25-20.png) 13:35
 
-Now let's go back to our fieldset and put the rest of them in there. 
+GO back to our fieldset and put the rest of the inputs there. 
 
 First we need an input with type of text, which we will name "input" and a button with type of submit. 
 
-```
+```html
 popup.insertAdjacentHTML(
   "afterbegin",
   `
@@ -2117,7 +2131,7 @@ popup.insertAdjacentHTML(
 );
 ```
 
-If you refresh the page, you should see the following:
+If you refresh the page, you should see an input with the button. 
 
 ![](@attachment/Clipboard_2020-05-19-18-36-46.png) 14:09
 
@@ -2127,9 +2141,9 @@ If you try to enter a value into the input and hit submit, you will see that the
 
 We need to use `preventDefault` to stop the form from submitting. 
 
-Before we do that, let's add the cancel button onto the popup if the option is passed, which we forgot to do earlier. 
+Before we do that, add the cancel button onto the popup if the option is passed, which we forgot to do earlier. 
 
-```
+```js
  // check if they want a cancel button
 if (options.cancel) {
   const skipButton = document.createElement("button");
@@ -2140,9 +2154,9 @@ if (options.cancel) {
 }
 ```
 
-So now let's try it by running `ask({title:"does it work"})` in the console and the popup should still show up. 
+Run `ask({title:"does it work"})` in the console to ensure the popup still shows up.  
 
-Let's try running `ask({title:"does it work?", cancel: true})`. 
+Also try running `ask({title:"does it work?", cancel: true})`. 
 
 We are getting an error.
 >Uncaught (in promise) DOMException: Failed to execute 'appendChild' on 'Node': This node type does not support this method.
@@ -2165,9 +2179,13 @@ If you just modify the code so that the fieldset starts on the same line as the 
 
 ![](@attachment/Clipboard_2020-05-19-18-50-20.png) 16:07
 
-What happened is when we had the fieldset start on a new line, the new line was treated as a text node. If you recall `firstChild` will grab all the nodes, not just elements. As Wes has mentioned, if you want to just grab elements, you should use `firstElementChild` instead. We were trying to append a DOM node to just blank text, which isn't possible, you can only append it to actual elements. 
+What happened is when we had the fieldset start on a new line, the new line was treated as a text node. 
 
-Let's leave the fieldset on the separate line and then modify the code to be `popup.firstElementChild.appendChild(skipButton)`. 
+If you recall `firstChild` will grab all the nodes, not just elements. As Wes has mentioned, if you want to just grab elements, you should use `firstElementChild` instead. 
+
+We were trying to append a DOM node to just blank text, which isn't possible, you can only append it to actual elements. 
+
+Leave the fieldset on the separate line and then modify the code to be `popup.firstElementChild.appendChild(skipButton)`. 
 
 That fixes it! 
 
@@ -2175,7 +2193,7 @@ That fixes it!
 
 Let's also fix the fieldset so it's not on it's own line because that was sloppy formatting. 
 
-```
+```js
 popup.insertAdjacentHTML(
   "afterbegin",
   `<fieldset>
@@ -2189,14 +2207,14 @@ popup.insertAdjacentHTML(
 
 Now that we have both the buttons, let's hook up the event listeners, starting with the submit button and preventing default on the form. 
 
-We will pass an anonymous function to the event listener. You could make a separate function but keeping it inside of the our `ask` function as an anonymous function is fine. 
+Pass an anonymous function to the event listener. You could make a separate function but keeping it inside of the `ask` function as an anonymous function is fine. 
 
-```
+```js
 // listen for the submit event on the inputs
-  popup.addEventListener("submit", function(e) {
-    e.preventDefault();
-    console.log("Submitted!");
-  });
+popup.addEventListener("submit", function(e) {
+  e.preventDefault();
+  console.log("Submitted!");
+});
 ```
 
 ![](@attachment/Clipboard_2020-05-19-19-06-17.png) 18:07
@@ -2209,7 +2227,7 @@ Because of the scope of our promise callback, the `resolve` function is availabl
 
 We will call resovle and pass in `e.target.input.value` but before we do that, let's just log the target to see what we have. 
 
-```
+```js
 popup.addEventListener("submit", function(e) {
   e.preventDefault();
   console.log(e.target);
@@ -2222,7 +2240,7 @@ As you can see, the target is the form.
 
 Now let's see what input is. 
 
-```
+```js
 popup.addEventListener("submit", function(e) {
   e.preventDefault();
   console.log(e.target.input);
@@ -2237,7 +2255,7 @@ Remember, anytime an input has a name property, it will be available via the pro
 
 To get the value from that input, we just tack on a `.value` and then resolve that data by passing it to our resolve function like so:
 
-```
+```js
 popup.addEventListener("submit", function(e) {
   e.preventDefault();
   resolve(e.target.input.value);
@@ -2248,9 +2266,9 @@ If you refresh the page and try it by calling `ask({title:'does it work', cancel
 
 ![](@attachment/Clipboard_2020-05-19-19-13-05.png) 19:39
 
-If we wanted to get the actual data from the input, we could just call `ask` with `await` infront of it from the console, like so:
+If we wanted to get the actual data from the input, we could just call `ask` with `await` infront of it from the console, as shown below 👇
 
-```
+```js
 await ask({title:'does it work', cancel:true})
 ```
 
@@ -2260,15 +2278,22 @@ Now if you try pressing the submit button again, it doesn't really do anything, 
 
 ![](@attachment/Clipboard_2020-05-19-19-15-34.png) 20:21
 
-One neat thing about `addEventListener` is you could remove the event listener for submitted as soon as it is resolved. There is a shortcut we can use where the third argument of `addEventListener` is an options object, and we can pass it `{once:true}`. That will tell the browser to only listen for the submit event once, and then remove the event listener. 
+One neat thing about `addEventListener` is you could remove the event listener for submitted as soon as it is resolved. 
+
+
+#### Running an Event Listener Only Once
+
+There is a shortcut we can use where the third argument of `addEventListener` is an `options` object, and we can pass it `{once:true}`. That will tell the browser to only listen for the submit event once, and then remove the event listener. 
 
 That is very handy for things that you only want to happen once.
 
-Now we want to remove the popup from the DOM entirely. 
+We want to remove the popup from the DOM entirely. 
 
-To do that, we will create a function called `destroyPopup` because we need to run it on submit and on cancel. For now, let's just call the function which we still need to create and we will pass it the popup. 
+To do that, we will create a function `destroyPopup()` because we need to run it on submit and on cancel. 
 
-```
+For now, in the code let's just call the function which we still need to create and we will pass it the popup. 
+
+```js
 popup.addEventListener(
   "submit",
   function(e) {
@@ -2282,26 +2307,30 @@ popup.addEventListener(
 );
 ```
 
-Let's create that function above our `ask` function declaration. Because our `popup` is scoped to a different function, in order to access it within `destroyPopup`, we need to pass it as an argument. Within the function, let's remove the class of `open` from the popup and then wait one second because we want to wait for the thing to fadeout before we remove it from the DOM.
+Let's create that function above our `ask` function declaration. 
+
+Because `popup` is scoped to a different function, in order to access it within `destroyPopup`, we need to pass it as an argument. 
+
+Within the function, let's remove the class of `open` from the popup and then wait one second because we want to wait for the thing to fade out before we remove it from the DOM.
 
 In order to be able to use `await` within `destroyPopup` we will need to mark it as async. 
 
-```
+```js
 async function destroyPopup(){
   popup.classList.remove('open');
   await wait(1000);
 }
 ```
 
-Then we want to remove the popup entirely. Add this to the `destroyPopup` function.
+Then we want to remove the popup entirely. Add the code below to the `destroyPopup` function.
 
-```
+```js
 popup.remove();
 ```
 
-Before we had the `.remove()` method, we used to grab the element one level up and call `removeChild` on it and pass the popup like so:
+Before we had the `.remove()` method, we used to grab the element one level up and call `removeChild` on it and pass the popup, as shown below 👇
 
-```
+```js
 popup.parentElement.removeChild(popup);
 ```
 
@@ -2309,18 +2338,24 @@ Thankfully there is now just a `.remove()` method that we can use.
 
 If you refresh the page and then click the button and submit a value into the input, you will see the popup fades out.
 
-Let's check one thing. If we try to log the `popup` even after we have removed it, is it still there?
+Let's check one thing. 
 
-```
+If we try to log the `popup` even after we have removed it, is it still there?
+
+```js
 popup.remove();
 console.log(popup);
 ```
 
-As you can see, we still have access to the popup even though it has been removed from the DOM. That is a potential memory leak, because everytime you pop something up, you add all these things to it, and all these event listeners and simply removing the element from the DOM does **not** remove it from Javascript's memory entirely (because it is possible you might want to add it back). 
+As you can see, we still have access to the popup even though it has been removed from the DOM. 
 
-If you do want to get rid of it entirely, just destroy any evidence of that, we can do `popup = null;`. You may notice in the video that Wes' ESLint is yelling at him because he has a rule to not overwrite parameters.  However, to get around that you could do something like this:
+That is a potential **memory leak**, because everytime you pop something up, you add all these things to it, such as event listeners, and simply removing the element from the DOM does **not** remove it from Javascript's memory entirely (because it is possible you might want to add it back). 
 
-```
+If you do want to get rid of it entirely, just destroy any evidence of it using `popup = null;`.
+
+You may notice in the video that Wes' ESLint is yelling at him because he has a rule to not overwrite parameters.  However, to get around that you could do something as shown below 👇
+
+```js
 async function destroyPopup(popup){
   let myPopup = popup;
   popup.classList.remove('open');
@@ -2333,18 +2368,18 @@ async function destroyPopup(popup){
 
 The reason that works is that it is all references. 
 
-If we wanted to disable that rule in eslint we could wrap it in the following:
+If we wanted to disable that rule in eslint we could wrap it in the following comment 👇
 
-```
+```js
 /* eslint-disable no-param-reassign */ 
 /* eslint-enable no-param-reassign */
 ```
 
 The next thing that we need to do is handle the cancel button. Let's hookup the buttons because at this point, Wes is tired of running the code from the console. 
 
-Let's go to the very bottom of the script and grab all the elements with an attribute of `data-question`. 
+Go to the very bottom of the script and grab all the elements with an attribute of `data-question`. 
 
-```
+```js
 // select all buttons that have a question
 const buttons = document.querySelectorAll('[data-question]`);
 console.log(button);
@@ -2354,16 +2389,15 @@ console.log(button);
 
 As you can see we get a node list of buttons. 
 
-Now for each button, we will listen on the fclick event and pass it a reference to a function we will make `askQuestion`. 
+Now for each button, we will listen on the click event and pass it a reference to a function `askQuestion`, which we will make soon.. 
 
-```
+```js
 buttons.forEach(button => button.addEventListener('click', askQuestion));
 ```
 
-Inside of `askQuestion`, let's just log the event. 
+Inside of `askQuestion`, just log the event. 
 
-
-```
+```js
 function askQuestion(e){
   console.log(e);
 }
@@ -2373,11 +2407,13 @@ function askQuestion(e){
 
 As you can see, when we click the button we get the event. 
 
-Now let's grab the button that was clicked, and then save the answer. We will need to use `await` so let's mark the function as `async`.  
+Now let's grab the button that was clicked, and then save the answer. 
+
+We will need to use `await` so let's mark the function as `async`.  
+
 For the question, we will want to pass the title whatever the button text is. To do that, we can use `button.dataset.question`. 
 
-```
-
+```js
 async function askQuestion(e) {
   const button = e.currentTarget;
   const answer = await ask({ title: button.dataset.question });
@@ -2387,44 +2423,57 @@ async function askQuestion(e) {
 
 ![](@attachment/Clipboard_2020-05-19-20-38-38.png) 27:58
 
-As you can see, when you click the popup for name and enter name, we get the value back. 
+As you can see, when you click the popup for name and enter a name, we get the value back. 
 
 ![](@attachment/Clipboard_2020-05-19-20-39-26.png) 28:10
 
-Now we need to check if someone has passed the `data-cancel` attribute, we need to pass `cancel` to the options object we are passing to `ask`. How do we tell if the user has passed a `data-cancel` attribute?
+Now we need to check if someone has passed the `data-cancel` attribute.  To do this, we need to pass `cancel` to the options object we are passing to `ask`. 
 
-Let's try logging the dataset. Add a log within `askQuestion` like so:
+How do we tell if the user has passed a `data-cancel` attribute?
+Let's try logging the dataset. 
 
-```
+Add the log within `askQuestion` shown below 👇
+
+```js
 const button = e.currentTarget;
 console.log(button.dataset);
 ```   
 
-If you refresh the page and click the age button you will see the `button` dataset logged to the console like so
+If you refresh the page and click the age button you will see `button.dataset` logged to the console. 
 
 ![](@attachment/Clipboard_2020-05-19-20-41-28.png) 28:52 
 
-Why is `cancel` an empty string? Because we didn't pass it as `data-cancel="true"`, because the way HTML attributes work is that simply by existing, they're true. By not existing, they are false. In addition, trying to convert a string of "true" and "false" is a bit of a nightmare, so instead we will just pass an attribuet with nothing in it if it means we should have a cancel button.
+Why is `cancel` an empty string? 
+Because we didn't pass it as `data-cancel="true"`. 
 
+The way HTML attributes work is that simply by existing, they're true. By not existing, they are false. 
 
-To detect if it is there we can add the following code:
+In addition, trying to convert a string of "true" and "false" is a bit of a nightmare, so instead we will just pass an attribute with nothing in it if it means we should have a cancel button.
 
-```
+To detect if it is there we can add the code below 👇
+
+```js
 const shouldCanel = button.dataset.cancel;
 const answer = await  ask({title: butotn.dataset.question, cancel: shouldCancel});
 ```
 
-If you refresh the page and try that, does it work? The answer is no, avnd the reason why it does not work is `shouldCancel` is going to give us an empty string. Is an empty string `true` or `false`? It is falsy! So if we are passing an empty string, it is going to be falsy. 
+If you refresh the page and try that, does it work? 
 
-You might think you could just put a bang infront of it like below but we still have the issue with an empty string being falsy.
+The answer is no, because `shouldCancel` is going to give us an empty string. 
 
-```
+Is an empty string `true` or `false`?  It is falsy! 
+
+So if we are passing an empty string, it is going to be falsy. 
+
+You might think you could just put a bang infront of it as shown below 👇 but we still have the issue with an empty string being falsy.
+
+```js
 const shouldCancel = !!button.dagtaset.cancel;
 ```
 
-So how do we detect if there is a `cancel` property within the dataset? Because if it's not there, it won't exist. The way we can chek is using this syntax: 
+So how do we detect if there is a `cancel` property within the dataset? We can check using the syntax below, because if it's not true, it won't exist .
 
-```
+```js
 const shouldCancel = 'cancel' in button.dataset;
 ```
 
@@ -2432,14 +2481,21 @@ What is that syntax?
 
 Let's say we have an object `const wes = { name: 'wes'}`. 
 
-If we want to check if Wes has a name property. We are not checking that it is there, but simply that it has a name property. 
+We want to check if Wes has a name property. We are not checking that it is there, but simply that it has a name property. 
 
+```js
+'name' in wes;
+```
 
-To check for that, we can do `'name' in wes` which would return true and if we check for a property that doesn't exist like `'asfdas' in wes`. That is how you check if a property is there.
+To check for that, we can use the code above 👆 which would return true.   
+
+If we check for a property that doesn't exist like `'asfdas' in wes`, it would return false.
+
+That is how you check if a property is there on an object.
 
 We cannot use the other methods to check because sometimes a property is set to a falsy value such as an empty string or a 0. Using the `in` syntax solves that issue. 
 
-```
+```js
 const button = e.currentTarget;
 const shouldCancel = 'cancel' in button.dataset;
 
@@ -2451,22 +2507,24 @@ const answer = await ask({
 
 Let's refactor that and rename `shouldCancel` to just `cancel` so we can use the shorthand syntax.
 
-```
+```js
 const answer = await ask({
   title: button.dataset.question,
   cancel
 });
 ```
 
-NOTE: In the video, Wes pauses it to specify that he could have used `button.hasAttribute('data-cancel');` to check for this but he decided to leave this in the video because it is a good lesson on how to check if a property on an object exists, regardless of which value it is set to. 
+_NOTE: In the video, Wes pauses it to specify that he could have used `button.hasAttribute('data-cancel');` to check for this but he decided to leave this in the video because it is a good lesson on how to check if a property on an object exists, regardless of which value it is set to._
 
 ![](@attachment/Clipboard_2020-05-19-23-42-23.png) 31:33
 
 If you refresh the page, that should now work.
 
-Let's hook up the cancel button. Go back to where we created it and under the TODO comment we will create a callback function which resolves the promise with null, and then we will call `destroyPopup` because we want to completely remove the popup. 
+Let's hook up the cancel button. 
 
-```
+Go back to where we created it and under the TODO comment we will create a callback function which resolves the promise with `null`, and then we will call `destroyPopup` because we want to completely remove the popup. 
+
+```js
 skipButton.addEventListener(
   'click', 
   function(){
@@ -2481,7 +2539,9 @@ If you refresh the page, you will see that it is still working.
 
 That is the basics of the pop-up. 
 
-The last thing we will cover is how to use the popup to ask questions in series. For example let's say someone is going through a form and you want to popup something and ask three pieces of data before they can continue. 
+The last thing we will cover is how to use the popup to ask questions in series. 
+
+For example, let's say someone is going through a form and you want to popup something and ask three pieces of data before they can continue. 
 
 Let's say we had an array of questions like you see in the image below. 
 
@@ -2489,9 +2549,11 @@ Let's say we had an array of questions like you see in the image below.
 
 How would we ask them in series? 
 
-You might assume we could use `Promise.all()`. For each one, we want to pass the `ask` a different question from the questions array like so: 
+You might assume we could use `Promise.all()`. 
 
-```
+For each one, we want to pass the `ask` a different question from the questions array as shown below 👇
+
+```js
 const answers = Promise.all([
   ask(questions[0]);
   ask(questions[1]);
@@ -2503,17 +2565,19 @@ const answers = Promise.all([
 
 This is not an uncommon thing to do, waiting for few promises to resolve and then getting the answers. 
 
-WE have to use the promise syntax because we are not in an async function where  we are calling `Promise.all()`. 
+We have to use the promise syntax because we are not in an async function where we are calling `Promise.all()`. 
 
-If you refresh the page and try that, you will see that the questions are asked out of order. What actually happened there is it works, but what is happening is there are actualy three popups on the page at the same time. 
+If you refresh the page and try that, you will see that the questions are asked out of order. What s happening is there are actualy three popups on the page at the same time. 
 
 ![](@attachment/Clipboard_2020-05-19-23-51-57.png) 35:04
 
-That is not a good solution, we do not want to pop them all up at once. `Promise.all` will fire them all off concurrently at the same time, which is often what you want but when you want to do it sequentially like we do, you cannot use `Promise.all`.
+That is not a good solution, we do not want to pop them all up at once. 
 
-A better way to do this would be to take your questions and map over each and pass in the `ask` function .
+`Promise.all` will fire them all off concurrently at the same time, which is often what you want but when you want to do it sequentially like we do, you cannot use `Promise.all`.
 
-```
+A better way to do this would be to take your questions and map over each and pass in the `ask` function.
+
+```js
 const qPromises = questions.amp(ask);
 console.log(qPromises);
 ```
@@ -2522,21 +2586,23 @@ If you refresh the page and look at that in the console, you will see we have an
 
 ![](@attachment/Clipboard_2020-05-19-23-54-00.png) 36:16
 
-What we can do is loop over the array and for each one return a promises to get an array of promises. Then you can wrap that in a `Promise.all()` like so. 
+What we can do is loop over the array and for each one return a promises to get an array of promises. 
 
-```
+Then you can wrap that in a `Promise.all()` as shown below. 
+
+```js
 Promise.all(questions.map(ask)).then(data=> {
   console.log(data);
 });
 ```
 
-So what that will do is loop over each of the questions, pipe it into an ask function (which will return a promise), that will return to us an array. We wrap it in a `Promise.all()` and then listen with a then. This will actually work. 
+That will loop over each of the questions, pipe it into the `ask` function (which will return a promise), that will return to us an array. We wrap it in a `Promise.all()` and then listen with a then. This will actually work. 
 
 We still have the problem of the UI popping up all the time so that is not what we want.
 
 What we do want is to map over it, but asynchronously. 
 
-```
+```js
 questions.forEach(async function(){
   console.log('Asking a question');
   console.log(question);
@@ -2549,11 +2615,19 @@ questions.forEach(async function(){
 
 That did not wait for anything right? They will resolve, but they all three ran at the same time. 
 
-So how do we make an async map function? We use a `for of` loop.
+So how do we make an async map function? 
 
-Let's make an async function called `askMany`.  Within that function we will have the for of loop which loops through all the questions. Inside of the loop we will have `const answer = await ask(question);`. We will log the answer after it 
+We use a `for of` loop.
 
-```
+- Make an async function called `askMany`.  
+
+- Within that function, we will have the `for of` loop which loops through all the questions. 
+
+- Inside of the loop we will have `const answer = await ask(question);`. 
+
+- We will log the answer after it. 
+
+```js
 async function askMany(){
   for(const question of questions){
     const answer = await ask(question);
@@ -2574,7 +2648,7 @@ One thing Wes likes to do is make a utility function called `asyncMap` which doe
 
 We will be using generic variable names here to make the function as flexible as possible. 
 
-```
+```js
 async function asyncMap(array, callback){
   // make an array to store our results
   const results = [];
@@ -2588,9 +2662,9 @@ async function asyncMap(array, callback){
 }
 ```
 
-Now what we should be able to do is, replacing the `askMany` code, we will make a new function called `go` which we will mark as async to allow us to run an await. 
+Now we should be able to replace the `askMany` code, and make a new function called `go` which we will mark as async to allow us to run an await. 
 
-```
+```js
 async function go(){
   const answers = await asyncMap(questions, ask);
   console.log(answers);
@@ -2599,13 +2673,13 @@ async function go(){
 go();
 ```
 
-Now when you refresh the page and look at the reults, you should wee that we get our array back. 
+Now when you refresh the page and look at the results, you should see that we get our array back. 
 
 ![](@attachment/Clipboard_2020-05-20-00-04-48.png) 42:40
 
-We could take things one step furether and refactor the function slightly to push the await of the callback directly like so: 
+We could take things one step furether and refactor the function slightly to push the await of the callback directly.
 
-```
+```js
 async function asyncMap(array, callback){
   // make an array to store our results
   const results = [];

@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-09-18T02:12:26.206Z'
+modified: '2020-09-18T02:48:21.066Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -1839,13 +1839,17 @@ A pretty common thing to do in Javascript is when someone clicks a button or som
 
 ![](@attachment/Clipboard_2020-05-19-06-09-20.png) 00:17
 
-There is a prompt that is built into the browser, but the problem with that prompt if you can only have one input box, let's say you wanted multiple input boxes or an image upload or something like that, you couldn't do that with the built in. The built-in interface is also blocking, meaning that when it is popped up, you cannot do anything else on the page. 
+There is a prompt that is built into the browser, but the problem with that prompt if you can only have one input box. 
 
-We are going to see how we can re-implement this with promises and async/await. 
+If you wanted multiple input boxes or an image upload or something like that, you couldn't do that with the built in. 
 
-We will be working out of the `exercises/72 - Async Prompts/` directory. We are starting with some very basic HTML here. 
+The built-in interface is also blocking, meaning that when it is popped up, you cannot do anything else on the page. 
 
-```
+We are going to see how we can re-implement this with promises and async/await.
+
+We will be working out of the `/exercises/72 - Async Prompts/` directory, and are starting with some very basic HTML. 
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -1873,7 +1877,7 @@ We will be working out of the `exercises/72 - Async Prompts/` directory. We are 
 
 We also have some CSS that Wes will explain to us because we will be using CSS variables for animation, which is pretty nifty. 
 
-```
+```css
 .popup {
   background: hsla(0, 0%, 30%, 0.5);
   position: fixed;
@@ -1912,26 +1916,34 @@ We also have some CSS that Wes will explain to us because we will be using CSS v
 
 The buttons on the HTML page are there so that when you click them, they will invoke the prompt.
 
-One more thing we will look at is how to open one prompt after the other and get all three pieces of data back, which is going to be in a synchronous map. That is pretty tricking to do, so Wes will show us how to do that, how to run something in series when you have promise in async/await.
+One more thing we will look at is how to open one prompt after the other and get all three pieces of data back, which is going to be in a s**ynchronous map**. 
+
+That is pretty tricking to do, so Wes will show us how to do that, how to run something in series when you have promises in async/await.
 
 Open up `scripts.js` in your code editor and open up `index.html` in the browser.
 
 Let's get going on the javascript in our script file. 
 
-Let's start by creating a function, `ask` which will take in some options. The options will be two things: 
+Let's start by creating a function, `ask` which will take in some options. 
+
+The options will be 2 things: 
 1. What will the text for the prompt be?
 2. Are they allowed to cancel it with a cancel button?
 
-Inside of the function we want to first return a new promise. Inside of that promise we will have a function that will accept resolve as the first argument. It also accepts reject, but we won't be rejecting it in this example. When somebody hits cancel, we will just resolve it with nothing instead of reject because that is how the one built into the browser works.
+Inside of the function we want to first return a new promise. 
 
-```
+Inside of that promise we will have a function that will accept `resolve` as the first argument. (It also accepts `reject`, but we won't be rejecting it in this example.) 
+
+When somebody hits cancel, we will just resolve it with nothing instead of reject because that is how the one built into the browser works.
+
+```js
 function ask(options) {
-    // First we need to create a popup with all the fields in it
-    // check if they want a cancel button
-    // listen for the submit event on the inputs
-    // when someone does submit it, resolve the data that was in the input box!
-    // insert that popup into the DOM
-    // put a very small timeout before we add the open class
+  // First we need to create a popup with all the fields in it
+  // check if they want a cancel button
+  // listen for the submit event on the inputs
+  // when someone does submit it, resolve the data that was in the input box!
+  // insert that popup into the DOM
+  // put a very small timeout before we add the open class
 }
 ```
 
@@ -1941,25 +1953,33 @@ First, we need to create a popup with all the fields in it.
 
 Then we need to check if they want a cancel button.
 
-Next we need to lsiten for a submit event on the input, and then when someone does finally submit it, we need to resole the data that was in the input box. 
+Next we need to listen for a submit event on the input, and then when someone does finally submit it, we need to resole the data that was in the input box. 
 
-Let's start sequentially with the popup. We will use a form tag for this so we can get the submit. 
+Let's start sequentially with the popup. 
 
-We will use `document.createElement` because that will immediately return to us a DOM node, which allows us to add event listeners for things like submit on it. If we just used backticks and a form tag, we wouldn't be able to add event listeners inside of the function, we would have to wait until that thing was put into the page before we could add event listeners to it. 
+We will use a form tag for this so we can get the submit. 
 
-```
+Use `document.createElement` because that will immediately return to us a DOM node, which allows us to add event listeners for things like submit on it. 
+
+If we just used backticks and a form tag, we wouldn't be able to add event listeners inside of the function. We would have to wait until that thing was put into the page before we could add event listeners to it. 
+
+```js
 const popup = document.createELement('form');
 ```
 
-Now we can add a class of `popup` to it, which just makes sure it has position of fixed, a specific background color, that the width and height are 100 percent of the viewport width and height. We set the opacity to 0 because we want to fade it in which we will do using a class of open.
+Now we can add a class of `popup` to it, which just makes sure it has position of fixed, a specific background color, that the width and height are 100 percent of the viewport width and height. 
 
-```
+We set the opacity to 0 because we want to fade it in which we will do using a class of open.
+
+```js
 popup.classList.add('popup');
 ```
 
-Now we need to put some HTML inside of the popup. We will use backticks in this case because there is nothing inside of it that needs an event listener added to it.  
+Now we need to put some HTML inside of the popup. 
 
-```
+We will use backticks in this case because there is nothing inside of it that needs an event listener added to it.  
+
+```js
 popup.insertAdjacentHTML('afterbegin', `
   <fieldset>
     <label>${options.title}</label>
@@ -1968,9 +1988,11 @@ popup.insertAdjacentHTML('afterbegin', `
 console.log(popup);
 ```
 
-Let's refresh the page to check whether the code still works. We will call `ask` directly from the console. We need to pass in an options object as an argument with one property in the option, the title.
+Refresh the page to check whether the code still works. 
 
-```
+Call `ask` directly from the console, and pass in an options object as an argument with 1 property in the option, the title.
+
+```js
 ask({title:'does this work'});
 ```
 

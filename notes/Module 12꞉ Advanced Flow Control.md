@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
-modified: '2020-09-18T12:38:36.289Z'
+modified: '2020-09-18T12:49:24.831Z'
 ---
 
 # Module 12: Advanced Flow Control 
@@ -2698,17 +2698,21 @@ async function asyncMap(array, callback){
 
 ![](@attachment/typer.gif) 00:55
 
-In this video we will using `async/await` and **recursion** to create the effect of someone typing at different speeds/ 
+In this video we will using **async/await** and **recursion** to create the effect of someone typing at different speeds.
 
-We will do this by taking any element with a `data-type` attribute on it. We will figure out how we can make it look like it is being typed. We will also support the ability to pass in a `data-type-min` and a `data-type-max` attribute to specify the amount of time between each letter being typed to make it look a little more human (so instead of always typing a new letter every 10 miliseconds, there is a range).
+We will do this by taking any element with a `data-type` attribute on it, and figuring out how we can make it look like it is being typed. 
 
-This is a great example of asynchronous code because if it was synchronous, the could would need to wait for one element's text to finish being typed before starting the next one. Using `async`, each element can wait for a certain amount of time without interfering with each other.
+We will also support the ability to pass in a `data-type-min` and a `data-type-max` attribute to specify the amount of time between each letter being typed to make it look a little more human (so instead of always typing a new letter every 10 miliseconds, there is a range).
 
+This is a great example of asynchronous code because if it was synchronous, it would need to wait for one element's text to finish being typed before starting the next one. 
 
-We will be working out of `73 - async typer` exercise folder. Open up the `scripts.js` file and let's start by adding our `wait` function which we have used in the last few videos. 
+Using `async`, each element can wait for a certain amount of time without interfering with each other.
 
+We will be working out of `73 - async typer` exercise folder. 
 
-```
+Open up the `scripts.js` file and let's start by adding our `wait` function which we have used in the last few videos. 
+
+```js
 funciton wait(ms = 0){
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -2720,13 +2724,15 @@ We already know that you can calculate a random number using a combination of `M
 
 ![](@attachment/Clipboard_2020-05-20-06-45-58.png) 2:06 
 
-But what if you want a number between 10 and 15, how would we do that? It is basically the same thing, we just shift it up by the amount of the min.
+But what if you want a number between 10 and 15, how would we do that? 
 
-We will call `Math.random()` and multiply that by `(max - min)` and then add the min to that value. 
+It is basically the same thing, we just shift it up by the amount of the min.
 
-Let's add defaults of 20 miliseconds for the min and 150 for the max. 
+Call `Math.random()` and multiply that by `(max - min)` and then add the min to that value. 
 
-```
+Add defaults of 20 miliseconds for the min and 150 for the max. 
+
+```js
 function getRandomBetween(min = 20, max = 150){
   return Math.random() * (max - min) + min;
 
@@ -2737,13 +2743,15 @@ If you refresh the page and try running the code, you will see that it gives us 
 
 You can also wrap that in a `Math.floor()` and that will give you a whole number. 
 
-One thing that people do not like about functions that  get random numbers is that it is not a **pure function**. Pure functions are functions where every single time that you run the function with certain parameters, you will always get the same result.
+One thing that people do not like about functions that get random numbers is that it is not a **pure function**. Pure functions are functions where every single time that you run the function with certain parameters, you will always get the same result.
 
 A pure function is the idea that a function that takes in arguments will always, always return the exact same value. That makes testing your functions easy.
 
-So how do you write a pure function when the thing you are trying to do is implicitly random? You can do that by passing in a random number so you can then test it. We will replace where we use `Math.random` i nthe function to instead use the `randomNumber` parameter we pass in.
+So how do you write a pure function when the thing you are trying to do is implicitly random?
 
-```
+You can do that by passing in a random number so you can then test it. We will replace where we use `Math.random` in the function to instead use the `randomNumber` parameter we pass in.
+
+```js
 function getRandomBetween(min = 20, max = 150, randomNumber){
   return Math.floor(randomNumber * (max - min) + min);
 }
@@ -2755,33 +2763,33 @@ This way, when you pass the arguments to the function, we will always get the sa
 
 To use this in a production application, you could do `getRandomBetween(0, 100, Math.random())` and pass the random number using `Math.random()`.
 
-One cheat you can do is set the default for `randomNumber` to be `Math.random()` like so...
+One cheat you can do is set the default for `randomNumber` to be `Math.random()` as shown below.
 
-```
+```js
 function getRandomBetween(min = 20, max = 150, randomNumber = Math.random()){
   return Math.floor(randomNumber * (max - min) + min);
 }
 ```
 
-Next we want to make our function called `draw` which will take in an element. Let's just log the element within that function for now. 
+Next we want to make a function called `draw` which will take in an element. Let's just log the element within that function for now. 
 
-```
+```js
 function draw(el){
   const text = el.textContent;
 }
 ```
 
-Below that, let's grab the elements with a `data-type` attribute on it. For each one, we will all the `draw` method. 
+Below that, grab the elements with a `data-type` attribute on it. For each one, we will all the `draw` method. 
 
-```
+```js
 els.forEach(el=> draw(el));
 ```
 
-We can refactor that code to be even shorter like so: `els.forEach(draw)`.
+We can refactor that code to be even shorter like so, `els.forEach(draw)`.
 
-That works because it will call the function for us, for each one. We can take that even one step further like so:
+That works because it will call the function for us, for each one. We can take that even one step further as shown below. 
 
-```
+```js
 document.querySelectorAll('[data-type']).forEach(draw);
 ```
 
@@ -2793,18 +2801,21 @@ The way this `draw` function will work is we are going to erase all the text tha
 
 First we will write `T`, then `Th`, then `Thi`, then `This` and so on for all the text within the element.
 
-Let's make a variable called `soFar` which we will set to an empty string. Then we will loop over every letter of the text. 
+Make a variable called `soFar` which we will set to an empty string. Then we will loop over every letter of the text. 
 
-Previously for looping over letters we used a spread or we split it. But a `for of` loop has the ability to loop over text one letter at a time.  We will call the variable that represents each letter in our text variable `letter`. 
+Previously for looping over letters we used a spread or we split it. But a `for of` loop has the ability to loop over text one letter at a time.  
 
-```
+We will call the variable that represents each letter in our text variable `letter`. 
+
+```js
 for(const letter of text){
 
 }
 ```
 
 Now within the loop, we will log the letter and then on the next line we will tack the letter onto the `soFar` variable and then log that variable. 
-```
+
+```js
 function draw(el){
   const text = el.textContent;
   let soFar = '';
@@ -2816,15 +2827,15 @@ function draw(el){
 }
 ```
 
-If you take the `data-type` attribute off of the paragraph tag in our html and then open the console, it is easier to visualize this and how the text is slowly building up.
+If you take the `data-type` attribute off of the paragraph tag in the HTML and then open the console, it is easier to visualize this and how the text is slowly building up.
 
 ![](@attachments/textflow.gif) 9:15
 
 If we tried to set the text content of the element to `el.textContent = soFar`, when you refresh the page it happens so fast that you can barely see it. 
 
-To fix that, let's wait for some amount of time. Let's make the `draw` function async and then add `await wait(10);`. 
+To fix that, let's wait for some amount of time. Make the `draw` function async and then add `await wait(10);`. 
 
-```
+```js
 async function draw(el){
   const text = el.textContent;
   let soFar = '';
@@ -2841,14 +2852,14 @@ That loops pretty cool but to make it seem more human, we will wait a random amo
 
 Let's do that using our random number funciton. 
 
-```
+```js
 const amountOfTimeToWait = getRandomBetween();
 await wait(10);
 ```
 
-We can do is we can pull in the min and max values from the data attributes using `el.dataset` and destructuring. Let's pass the min and max values to our random function. 
+We can now pull in the min and max values from the data attributes using `el.dataset` and destructuring. Pass the min and max values to our `random` function. 
 
-```
+```js
 const { typeMin, typeMax } = el.dataset;
 const amountOfTimeToWait = getRandomBetween(typeMin, typeMax);
 await wait(amountOfTimeToWait);
@@ -2858,12 +2869,15 @@ We can get rid of all the console logs we have added and put the `data-type` bac
 
 That is how you do it with a `for of` loop. 
 
-Next we will look at how we can do this with **recursion**. Recursion refers to this concept of a function calling itself until there is some sort of exit condition that tells it to stop.
+Next we will look at how we can do this with **recursion**. 
+
+Recursion refers to this concept of a function calling itself until there is some sort of exit condition that tells it to stop.
 
 Let's make a function we will also call draw `draw`. 
+
 The way this function will work is we will keep an index variable inside of the function and increment it once each time.
 
-```
+```js
 function draw(el){
   const index = 1;
   const text = el.textContent;
@@ -2871,22 +2885,21 @@ function draw(el){
 }
 ```
 
-We will add another function within this `draw` function to take advantage of closures because we can run a function multiple times while still accessing the variables within the `draw` function. Let's call that other function `drawLetter` and we will make it async.
+Add another async function, `drawLetter`, within `draw()` to take advantage of closures because we can run a function multiple times while still accessing the variables within the `draw` function. 
 
+So the way this will work is we will start at the index and take 1 letter, then we will take 2 letters, and then 3 letters and so on using slice, and then we will update the element every single time. 
 
-So the way this will work is we will start at the index and take 1 letter, then we will take two letters, and then three letters and so on using slice, and then we will update the element every single time. 
-
-```
+```js
 async function drawLetter(){
   el.textContent = text.slice(0,index);
 }
 ```
 
-Here is a quick refresher of how slice works. You pass it a starting and ending index and it will return the charactres inbetween like so. 
+For a quick refresher of how slice works: you pass it a starting and ending index and it will return the charactres inbetween like so. 
 
 ![](@attachment/Clipboard_2020-05-20-18-36-53.png) 14:11
 
-```
+```js
 function draw(el){
   const index = 1;
   const text = el.textContent;
@@ -2901,7 +2914,7 @@ Now when you run this, nothing actually happens. It doesn't actually do anything
 
 Let's go ahead and do that. 
 
-```
+```js
 function draw(el){
   const index = 1;
   const text = el.textContent;
@@ -2916,9 +2929,11 @@ function draw(el){
 
 If you refresh the page you will just see the first letter which is okay because we still need to increment the index using `index = index + 1;` or `index += 1;`. And then we need to call `drawLetter()` again.
 
-How do we do that? We just call `drawLetter()` within our async function like so: 
+How do we do that? 
 
-```
+Just call `drawLetter()` within our async function as shown below. 
+
+```js
 function draw(el){
   const index = 1;
   const text = el.textContent;
@@ -2941,11 +2956,13 @@ When Wes ran the code he got the following error..
 
 ![](@attachment/Clipboard_2020-05-20-18-43-10.png) 15:43
 
-Remember when we discussed the call stack previously? What is happening is `drawLetter` is calling itself over and over again and eventually the browser complains that you have added too many things to the call stack. 
+Remember when we discussed the call stack previously? 
 
-What we need to do is add an exit condition. We need to check if the index is less than or equal to the length of our `text` variable, the run it again. 
+What is happening is `drawLetter` is calling itself over and over again and eventually the browser complains that you have added too many things to the call stack. 
 
-```
+What we need to do is add an exit condition: we need to check if the index is less than or equal to the length of our `text` variable, the run it again. 
+
+```js
   async function drawLetter(){
     el.textContent = text.slice(0,index);
     index += 1;
@@ -2958,19 +2975,17 @@ What we need to do is add an exit condition. We need to check if the index is le
   drawLetter();
 ```
 
-What that will do is if there are no more letters to draw, it will stop and the function will end.
+Now when there are no more letters to draw, it will stop and the function will end.
 
-If you refresh the page, it still works but it happens so quickly we don't see anything. 
-
-Let's wait 10 miliseconds using the wait function which we will add above the if statement. 
+If you refresh the page, it still works but it happens so quickly we don't see anything. Let's wait 10 miliseconds using the wait function which we will add above the if statement. 
 
 Now if you refresh the page you will see it's adding the text at a rate of 10 miliseconds. 
 
+We can do the same thing we did in the previous method and grab our min and max and pass it to `getRandomBetween`. 
 
-We can do the same thing we did in the previous method and grab our min and max  and pass it to `getRandomBetween`. The reason why we do thte calculation for the random amount of time inside of `drawLetter` is that we want every letter to be random. If we added that code at the top, the random value would only be calculated once. 
+The reason why we do the calculation for the random amount of time inside of `drawLetter` is that we want every letter to be random. If we added that code at the top, the random value would only be calculated once. 
 
-
-```  
+```js
 function draw(el){
   const index = 1;
   const text = el.textContent;

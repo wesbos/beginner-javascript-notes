@@ -46,7 +46,7 @@ Where did the `getFullYear()` method come from? The same thing when we create an
 
 That is because when you create a date, an object, an array, a string, a number or any of those things, we are essentially creating a new object in javascript that is extended off the constructor, or as Wes likes to refer to it as, the momma object. 
 
-If we take a look at all of the types (of objets?***) we have by entering them into the console, you will see that they are all just functions which once they are run with the new keyword infront of it, will return to you an object. 
+If we take a look at all of the types that we have by entering them into the console, such as `Array`, `Object`, `Date`, `Number`  you will see that they are all just functions which once they are run with the new keyword in front of it, will return to you an object. 
 
 ![](@attachment/Clipboard_2020-05-05-07-17-20.png) 3:22
 
@@ -1788,7 +1788,6 @@ console.log(myMeal2);
 That wraps up `call`, `bind`, and `apply`. 
 
 When should you use them? When the `this`  value is different from what you have hoped. You won't always need it but it is helpful to know.
-
 
 
 

@@ -25,7 +25,7 @@ So what is the **`new`** keyword?
 
 We have already used it a couple of times like when we throw an error, create a date or create a new array using the new keyword. 
 
-Let's talk about dates. Let's say we had a date that we assigned the value of AUgust 11 2025 to and logged it, you would see in the console a string of the date. 
+Speaking of dates, let's say you had a date that you assigned the value of August 11 2025 to and logged it to the console, it would return a string representation of the date. 
 
 ```
 const myDate = new Date('August 11, 2025');
@@ -1788,7 +1788,6 @@ console.log(myMeal2);
 That wraps up `call`, `bind`, and `apply`. 
 
 When should you use them? When the `this`  value is different from what you have hoped. You won't always need it but it is helpful to know.
-
 
 
 

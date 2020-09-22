@@ -78,7 +78,7 @@ const wes = new Object({name:'wes'});
 
 As you can see, the array and object look the same. The only difference is it is a shorter syntax. 
 
-Some other things like dates don't have a `literal syntax`, which is why we have to put the `new` keyword infront of it. 
+Some other things like dates don't have a literal syntax, which is why we have to put the `new` keyword infront of it. 
 
 It's the same thing when you create an element. 
 
@@ -1788,7 +1788,6 @@ console.log(myMeal2);
 That wraps up `call`, `bind`, and `apply`. 
 
 When should you use them? When the `this`  value is different from what you have hoped. You won't always need it but it is helpful to know.
-
 
 
 

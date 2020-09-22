@@ -2,7 +2,7 @@
 attachments: [audio.gif, Clipboard_2020-06-18-06-40-04.png, Clipboard_2020-06-18-06-49-00.png, Clipboard_2020-06-18-06-50-34.png, Clipboard_2020-06-18-06-52-14.png, Clipboard_2020-06-18-06-53-02.png, Clipboard_2020-06-18-07-03-08.png, Clipboard_2020-06-18-07-03-22.png, Clipboard_2020-06-18-07-05-02.png, Clipboard_2020-06-18-07-27-38.png, Clipboard_2020-06-18-19-19-53.png, Clipboard_2020-06-18-19-24-57.png, Clipboard_2020-06-18-19-28-57.png, Clipboard_2020-06-18-19-29-56.png, Clipboard_2020-06-18-19-31-17.png, Clipboard_2020-06-18-19-32-12.png, Clipboard_2020-06-18-19-33-33.png, Clipboard_2020-06-18-19-37-39.png, Clipboard_2020-06-18-19-38-28.png, Clipboard_2020-06-18-19-40-50.png, Clipboard_2020-06-18-19-44-55.png, Clipboard_2020-06-18-19-57-42.png, Clipboard_2020-06-18-19-58-12.png, Clipboard_2020-06-18-20-01-11.png, Clipboard_2020-06-18-20-03-05.png, Clipboard_2020-06-18-20-06-54.png, Clipboard_2020-06-18-20-08-22.png, Clipboard_2020-06-18-20-08-25.png, Clipboard_2020-06-19-08-46-17.png, Clipboard_2020-06-19-08-49-41.png, Clipboard_2020-06-19-10-06-10.png, Clipboard_2020-06-19-10-06-28.png, Clipboard_2020-06-19-10-07-52.png, Clipboard_2020-06-19-10-14-13.png, Clipboard_2020-06-19-10-21-16.png, Clipboard_2020-06-19-10-24-50.png, Clipboard_2020-06-19-10-25-21.png, Clipboard_2020-06-19-10-28-37.png, Clipboard_2020-06-19-10-37-23.png, Clipboard_2020-06-19-10-42-21.png, Clipboard_2020-06-19-10-46-19.png, Clipboard_2020-06-19-11-03-19.png, Clipboard_2020-06-19-11-15-55.png, Clipboard_2020-06-19-11-25-39.png, Clipboard_2020-06-19-11-38-41.png, Clipboard_2020-06-19-11-48-48.png, Clipboard_2020-06-19-11-49-59.png, Clipboard_2020-06-19-11-53-50.png, Clipboard_2020-06-19-12-18-16.png, Clipboard_2020-06-19-12-20-30.png, Clipboard_2020-06-19-12-31-50.png, Clipboard_2020-06-19-12-34-19.png, Clipboard_2020-06-19-12-35-04.png, Clipboard_2020-06-19-12-36-15.png, Clipboard_2020-06-19-12-41-22.png, Clipboard_2020-06-19-12-42-08.png, Clipboard_2020-06-19-13-02-06.png, Clipboard_2020-06-19-13-04-09.png, red.gif]
 title: Module 15 - Final Round of Exercises
 created: '2020-06-18T10:37:29.455Z'
-modified: '2020-07-02T20:16:00.871Z'
+modified: '2020-09-22T11:27:34.616Z'
 ---
 
 # Module 15 - Final Round of Exercises
@@ -17,7 +17,7 @@ In this exercise we will be using the Speech Recognition API that is currently o
 
 The way it will work is when you say a colour, the background colour of the website should change to reflect that.
 
-Let's start by opening chrome and navigating to `chrome://flags` in the browser. On this paeg, we need to make sure that "Experimental Web Platform features" are turned on.
+Let's start by opening chrome and navigating to `chrome://flags` in the browser. On this page, we need to make sure that "Experimental Web Platform features" are turned on.
 
 ![](@attachment/Clipboard_2020-06-09-06-50-08.png) 1:02
 

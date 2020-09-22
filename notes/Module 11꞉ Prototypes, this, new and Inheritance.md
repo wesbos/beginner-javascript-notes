@@ -17,7 +17,9 @@ Let's get started with the `new` keyword and understanding how that works.
 
 Create a new file `new-this.html` in the playground directory. 
 
-Inside of the file we want to add our HTML base, and change the title to "New, This, Prototypes and Classes". Add a script tag within the body tag with a log of "it works" and open the HTML page to ensure it is working.
+Inside of the file we want to add our HTML base, and change the title to "New, This, Prototypes and Classes". 
+
+Add a script tag within the body tag with a log of "it works" and open the HTML page to ensure it is working.
 
 So what is the **`new`** keyword? 
 
@@ -1786,7 +1788,6 @@ console.log(myMeal2);
 That wraps up `call`, `bind`, and `apply`. 
 
 When should you use them? When the `this`  value is different from what you have hoped. You won't always need it but it is helpful to know.
-
 
 
 

@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png, Clipboard_2020-05-07-18-17-28.png, Clipboard_2020-05-07-18-19-40.png, Clipboard_2020-05-07-18-24-08.png, Clipboard_2020-05-07-18-35-47.png, Clipboard_2020-05-07-18-40-24.png, Clipboard_2020-05-07-18-43-46.png, Clipboard_2020-05-07-18-44-42.png, Clipboard_2020-05-07-18-51-42.png, Clipboard_2020-05-07-18-56-58.png, Clipboard_2020-05-07-19-02-22.png, Clipboard_2020-05-07-19-07-59.png, Clipboard_2020-05-07-19-10-48.png, Clipboard_2020-05-07-19-13-28.png, Clipboard_2020-05-07-19-15-21.png]
+attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png, Clipboard_2020-05-07-18-17-28.png, Clipboard_2020-05-07-18-19-40.png, Clipboard_2020-05-07-18-24-08.png, Clipboard_2020-05-07-18-35-47.png, Clipboard_2020-05-07-18-40-24.png, Clipboard_2020-05-07-18-43-46.png, Clipboard_2020-05-07-18-44-42.png, Clipboard_2020-05-07-18-51-42.png, Clipboard_2020-05-07-18-56-58.png, Clipboard_2020-05-07-19-02-22.png, Clipboard_2020-05-07-19-07-59.png, Clipboard_2020-05-07-19-10-48.png, Clipboard_2020-05-07-19-13-28.png, Clipboard_2020-05-07-19-15-21.png, Clipboard_2020-09-22-19-28-52.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-09-16T22:00:06.800Z'
+modified: '2020-09-24T12:28:48.352Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -27,7 +27,7 @@ We have already used it a couple of times like when we throw an error, create a 
 
 Speaking of dates, let's say you had a date that you assigned the value of August 11 2025 to and logged it to the console, it would return a string representation of the date. 
 
-```
+```js
 const myDate = new Date('August 11, 2025');
 console.log(myDate);
 ```
@@ -38,11 +38,13 @@ If we did `console.dir(myDate);` instead, you will see that we have our date and
 
 ![](@attachment/Clipboard_2020-05-05-07-08-27.png) 2:03
 
-Let's say you were to log `myDate.getFullYear()` you will see we get 2025 in the console. 
+Let's say you were to log `myDate.getFullYear()`, you will see we get 2025 in the console. 
 
 ![](@attachment/Clipboard_2020-05-05-07-13-11.png) 2:21
 
-Where did the `getFullYear()` method come from? The same thing when we create an array, we automatically have all these new methods like `pop`, `push`, `slice` and `splice`. Where do those all come from?
+Where did the `getFullYear()` method come from? 
+
+The same thing when we create an array, we automatically have all these new methods like `pop`, `push`, `slice` and `splice`. Where do those all come from?
 
 That is because when you create a date, an object, an array, a string, a number or any of those things, we are essentially creating a new object in javascript that is extended off the constructor, or as Wes likes to refer to it as, the momma object. 
 
@@ -56,20 +58,27 @@ That is why we say in Javascript everything is an object. Even though a number i
 
 Let's go back to the date example.
 
-Because we are creating a new Date, we have this variable `myDate` which is an instance of `date`. If you were to type into a console `typeof myDate`, it would return an object. But if you were to type `myDate instanceof Date` it would return true. 
+Because we are creating a new `Date`, we have this variable `myDate` which is an instance of `date`. If you were to type into a console `typeof myDate`, it would return an object. But if you were to type `myDate instanceof Date` it would return true. 
 
 ![](@attachment/Clipboard_2020-05-05-07-21-30.png) 4:43
 
 `myDate` is an object, but it is an instance of our special object that we have in the browser that is called a `date`.
 
-The same thing happens with arrays. In the script tag, add `const name = ['wes','kait'];`.  If you try running `typeof` and `instanceof Array` in the console, you should see the same result -- names is an instance of an array but an object itself.
+The same thing happens with arrays. 
+
+In the script tag, add `const name = ['wes','kait'];`.  
+
+If you try running `typeof` and `instanceof Array` in the console, you should see the same result -- names is an instance of an array but an object itself.
 
 ![](@attachment/Clipboard_2020-05-05-07-22-59.png) 5:30
 
 With the array, it might be a bit confusing because you don't see the `new` keyword being used. Same thing when you create an object like `const wes = { name: 'wes'};`. 
-Why are we able to use the instance if we aren't using the `new` keyword?  Because that way of making arrays and objects is referred to as **literal syntax**. They are the same thing as doing 
 
-```
+Why are we able to use the instance if we aren't using the `new` keyword? 
+
+Because that way of making arrays and objects is referred to as **literal syntax**. They are the same thing as doing 
+
+```js
 const names = new Array('wes','kait');
 const wes = new Object({name:'wes'});
 ```
@@ -82,24 +91,30 @@ Some other things like dates don't have a literal syntax, which is why we have t
 
 It's the same thing when you create an element. 
 
-```
+```js
 const span = dcument.createElement('span');
 console.log(span);
 ```
 
-If you tried to check whether `span` was an instance of an element you could do `span instaceof Element` which should return true because `Element` was the base one and `span` is the instance that we created.
+If you tried to check whether `span` was an instance of an element you could do `span instanceof Element` which should return true because `Element` was the base one and `span` is the instance that we created.
 
 ![](@attachment/Clipboard_2020-05-05-07-28-09.png) 7:26
 
-Why didn't we use `new Element`?  We can take a look at the span constructor by doing `span.constructor` in the console. What that will do is it gives us a single `HTML` span element. 
+Why didn't we use `new Element`?  
+
+We can take a look at the span constructor by doing `span.constructor` in the console. 
+What that will do is it gives us a single `HTML` span element. 
 
 Let's check if these are true by entering the following into the console. 
-```
+
+```js
 span instanceof HTMLSpanElement;
 span instanceof Node;
 ```
 
-Both will return true. Why? Is it an element, is it a span, is it a node? We will learn more about this in later classes but essentially things can start very basic like a node with text. Then it can go a little further and become an element, and have a tag and attributes. And then it can go even further and become a special kind of element like an image or div. In all of those cases, the element inherits the Node and the `HTMLSpanElement` inherits the `Element`. 
+Both will return true. Why? Is it an element, is it a span, is it a node? 
+
+We will learn more about this in later classes but essentially things can start very basic like a node with text. Then it can go a little further and become an element, and have a tag and attributes. And then it can go even further and become a special kind of element like an image or div. In all of those cases, the element inherits the Node and the `HTMLSpanElement` inherits the `Element`. 
 
 ![](@attachment/Clipboard_2020-05-05-07-30-04.png) 8:22
 
@@ -109,26 +124,33 @@ So when using `document.createElement()` we do not need a `new` keyword because 
 
 Let's build our own to get a better grasp on this. We will make a pizza. 
 
-```
+```js
 function Pizza(){
   console.log('Making a pizza');
 }
 ```
 
-What we have done is added the ability to make a new pizza. Let's create one and try it first without the `new` keyword. 
+What we have done is added the ability to make a new pizza. 
 
-```
+Let's create one and try it first without the `new` keyword. 
+
+```js
 const pepperoniPizza = Pizza();
 console.log(pepperoniPizza); 
 ```
 
-If you refresh the page, you will see we get undefined. 
+If you refresh the page, you will see we get `undefined`. 
 
 ![](@attachment/Clipboard_2020-05-05-07-34-51.png) 10:01
 
 That makes sense because the function did not return anything. 
 
-Now let's add the new keyword like `const pepperoniPizza = new Pizza()` and when you check the logs you will see that we get a pizza object with nothing because we haven't added anything to it yet. 
+
+```js
+const pepperoniPizza = new Pizza();
+```
+
+Add the new keyword as shown above, and when you check the logs you will see that we get a pizza object with nothing because we haven't added anything to it yet. 
 
 ![](@attachment/Clipboard_2020-05-05-07-36-05.png) 10:17
 
@@ -136,9 +158,9 @@ What happens is when you use the `new` keyword on a function, it creates a new i
 
 To reiterate, by using the `new` keyword in Javascript, it creates a new object that is an instance of whatever function you have made it from. That makes a lot more sense when we get into the `this` keyword,  `constructors` and `classes`. 
 
-We could take this a bit further and look at the `constructor` like so
+We could take this a bit further and look at the `constructor` by logging it. 
 
-```
+```js
 console.log(pepperoniaPizza.constructor);
 ```
 
@@ -154,51 +176,56 @@ If you were to type `pepperoniPizza instanceof Pizza` we would see true returned
 
 ---
 
-## The `this` keyword. 
+## 61 -  The `this` keyword. 
 
-We will discuss the `this` key in this video and the next video which is about prototypes and prototypal inheritance. 
+We will discuss the `this` key in this video and the next video which is about **prototypes** and p**rototypal inheritance**. 
 
 The `this` keyword in Javascript refers to the instance of an object that a function is bound. 
 
-So what does that mean? Up to now Wes has told us that the `this` keyword is what is left of the dot when you are calling a method. 
+So what does that mean? 
 
-Let's demo with some code. In our `new-this.html` file, within the body tag let's make two buttons.  
+Up to now Wes has told us that the `this` keyword is what is left of the dot when you are calling a method. 
 
-```
+Let's demo with some code. 
+
+In the `new-this.html` file, within the body tag, make two buttons.  
+
+```js
 <button class="one">Button 1</button>
 <button class="two">Button 2</button>
 ```
 
-Now let's go to the bottom of the script tag and select both of the buttons. 
+Go to the bottom of the script tag and select both of the buttons. 
 
-Next let's make a function called `tellMeAboutTheButton` that simply logs the `this` keyword. 
+Next, make a function `tellMeAboutTheButton` that simply logs the `this` keyword. Then add an event listener to both buttons on the click event to call the function we just made. 
 
-Then we will add an event listener to both buttons on the click event to call the function we just made. 
+```js
+function tellMeAboutTheButton() {
+  console.log("outside", this);
+}
 
-```
-    function tellMeAboutTheButton() {
-      console.log("outside", this);
-    }
-
-    button1.addEventListener("click", tellMeAboutTheButton);
-    button2.addEventListener("click", tellMeAboutTheButton);
+button1.addEventListener("click", tellMeAboutTheButton);
+button2.addEventListener("click", tellMeAboutTheButton);
 ```
 
 Now when we go and click on each button, the `this` keyword will be equal to each button that was clicked. 
 
 ![](@attachment/Clipboard_2020-05-05-20-01-34.png) 1:33
 
-Now we can call that an instance. Why? because `button1` and `button2` are simply instances of the mama Button that exists in the browser. 
+Now we can call that an instance. Why? 
+Because `button1` and `button2` are simply instances of the mama Button that exists in the browser. 
 
 Whenever you make a new button, whether via HTML or it gets rendered to the DOM, or whether you use `document.createElement` it will create an new instance of the HTML button that is in the browser. 
 
 The `this` keyword in our example is equal to the thing that is left of the dot. The method that was called was `addEventListener()` and the thing to the left of it was either `button1` or `button2` in our example. 
 
-You will also hear that referred to as the `tellMeAboutTheButton` function being bound to the button. When something is "bound" to something, it means that the `this` keyword is going to be equal to whatever it was bound to. (You can change that with the `.bind()` method but we won't get into that here).
+You will also hear that referred to as the `tellMeAboutTheButton` function "being bound to the button". 
 
-An important thing to know about the `this` keyword is that it is always scoped to a function. If you use an arrow function, for example if we converted `tellMeABoutTheButton` to an arrow function like so, watch what happens to `this`. 
+When something is "bound" to something, it means that the `this` keyword is going to be equal to whatever it was bound to. (You can change that with the `.bind()` method but we won't get into that here).
 
-```
+An important thing to know about the `this` keyword is that it is always scoped to a function. If you use an arrow function, for example if we converted `tellMeABoutTheButton` to an arrow function as shown below, watch what happens to `this`. 
+
+```js
 const tellMeAboutTheButton = () => {
   console.log(this);
 }
@@ -210,11 +237,13 @@ Now when you click the buttons, you will see the `Window` logged not the button.
 
 The value of the `this` keyword does not change when you use an arrow function. The `this` keyword will be equal to whatever it was at a higher level function. (If there is no higher level function, it will be equal to the Window).
 
-One use case for this is, lets say we bring tellMeAboutTheButton back to a regular function, and let's say after one second we want to update the text of the button to say something like "Good job". We can use `setTimeout()` to do that. 
+One use case for this is, lets say we bring `tellMeAboutTheButton` back to a regular function, and let's say after one second we want to update the text of the button to say something like "Good job". We can use `setTimeout()` to do that. 
 
-The first argument of setTimeout is a callback function and the second argument is how long the timeout should be. Within the timeout we will set the textContent of the button to be equal to "You Clicked Me". 
+The first argument of `setTimeout` is a callback function and the second argument is how long the timeout should be. 
 
-```
+Within the timeout we will set the `textContent` of the button to be equal to "You Clicked Me". 
+
+```js
 const tellMeAboutTheButton = () => {
   console.log(this);
   setTimeout(function(){
@@ -230,7 +259,9 @@ Let's log the value of `this` within the timeout, refresh the page and click the
 
 ![](@attachment/Clipboard_2020-05-05-20-17-59.png) 4:33
 
-Why is that? Let's modify the logs to be a bit clearer. Replace the first log with `console.log('outside', this)` and the second one with `console.log('inside',this);`.
+Why is that? 
+
+Modify the logs to be a bit clearer. Replace the first log with `console.log('outside', this)` and the second one with `console.log('inside',this);`.
 
 ![](@attachment/Clipboard_2020-05-05-20-19-43.png) 4:53
 
@@ -240,11 +271,11 @@ If you need to be able to access the value of the `this` keyword within the `tel
 
 ![](@attachment/Clipboard_2020-05-05-20-24-17.png) 5:47
 
-```
- setTimeout(() => {
-    console.log("inside", this);
-    this.textContent = "You Clicked Me";
-  }, 1000);
+```js
+setTimeout(() => {
+  console.log("inside", this);
+  this.textContent = "You Clicked Me";
+}, 1000);
 ```
 
 If you refresh the page you will see that the value of `this` remains the same now. 
@@ -253,11 +284,9 @@ If you refresh the page you will see that the value of `this` remains the same n
 
 That is something about arrow functions that might come and bite you, so just know about that. 
 
-That is what we now about the `this` keyword so far. 
+That is what we now about the `this` keyword so far. The other thing we need to know about the `this` keyword is that it refers to the instance of the thing that was made. 
 
-The other thing we need to know about the `this` keyword is that it refers to the instance of the thing that was made. 
-
-If we go up to the `Pizza` example further up in the file that we added in the last video, if we log `this` within the `Pizza` funciton, whenever and log `this`, )***(doesn't make sense)*** whenever the pizza is made, we will have access to the pizza that was created. 
+If you go up to the `Pizza` function further up in the file, and add a log of `this`, whenever the pizza is made we get access to the pizza that was created. 
 
 ![](@attachment/Clipboard_2020-05-05-20-29-08.png) 6:48
 
@@ -265,12 +294,11 @@ We can do things like store information about the pizza that is being made insid
 
 Let's go ahead and code that. 
 
-We will modify the `Pizza()` function which is referred to as **constructor** (the function that makes an object is called a constructor). It will take in an array of toppings (default of which will be an empty array), and then it will take in a customer's name. 
+Modify the `Pizza()` function, which is referred to as **constructor** (_the function that makes an object is called a constructor)_. It will take in an array of toppings (default of which will be an empty array), and then it will take in a customer's name. 
 
-Inside of the Pizza function we will save the toppings and customer like so:
+Inside of the Pizza function we will save the toppings and customer as shown below. 
 
-
-```
+```js
 function Pizza(toppings = [], customer) {
   console.log("Making a pizza");
   // save the toppings that were passed in, to this instance of pizza
@@ -279,13 +307,15 @@ function Pizza(toppings = [], customer) {
 }
 ```
 
-You also do other things like generate an id inside of the constructor. Let's add that. 
+You also do other things like generate an id inside of the constructor. 
 
-Wes likes to use this blog post by Tom Irish that Wes uses whenever he needs a random id to be generated. It's not guaranteed to be unique, but it is good enough for most use cases. This one gives you a random hex code. We will take the `#` sign off the method because we don't need it. 
+Let's add that. 
+
+Whenever Wes needs to generate a random id, he likes to use this blog post by Tom Irish. It's not guaranteed to be unique, but it is good enough for most use cases. This one gives you a random hex code. We will take the `#` sign off the method because we don't need it. 
 
 ![](@attachment/Clipboard_2020-05-05-20-34-05.png) 8:01
 
-```
+```js
 this.id = Math.floor(Math.random() * 16777215).toString(16);
 ```
 
@@ -293,10 +323,9 @@ Now when you refresh the page, you will see that in our pizza there is a bunch o
 
 ![](@attachment/Clipboard_2020-05-05-20-35-44.png) 8:33
 
-The `toppings` and `customers` are empty and undefined because we haven't passed them in so let's update our `pepperoniPizza` to add some toppings and a customer and then add another pizza like so:
+The `toppings` and `customers` are empty and `undefined` because we haven't passed them in so let's update `pepperoniPizza` to add some toppings and a customer and then add another pizza as shown below 👇
 
-
-```
+```js
 const pepperoniPizza = new Pizza(['pepperoni'], 'Wes Bos');
 const canadianPizza = new Pizza(['pepperoni', 'mushrooms', onion'], 'Kait Bos');
 ```
@@ -305,11 +334,13 @@ If you refresh the page and open up the console, you will see our two pizzas wit
 
 ![](@attachment/Clipboard_2020-05-05-20-38-13.png) 9:40
 
-The `this` keyword, when you are creating an object, is used to store information about that instance. This is a perfect example because pepperoniPizza is an instance of pizza, and it has it's own unique data that needs to stay with that pizza, like toppings, customer and id. The same thing goes for the canadian pizza, it is another instance with it's own information that stays with that pizza.
+The `this` keyword, when you are creating an object, is used to store information about that instance. 
+
+This is a perfect example because `pepperoniPizza` is an instance of Pizza, and it has it's own unique data that needs to stay with that pizza, like toppings, customer and id. The same thing goes for the `canadianPizza`, it is another instance with it's own information that stays with that pizza.
 
 `this` is used for storing data and functionality on each of the instances. 
 
-In the next video we will go into prototypal ***spelling error?*** methods that can be shared amongst all the pizzas, because they always do the exact same thing. 
+In the next video we will go into **prototypal methods** that can be shared amongst all the pizzas, because they always do the exact same thing. 
 
 ---
 

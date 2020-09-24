@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png, Clipboard_2020-07-21-07-59-37.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
-modified: '2020-07-21T12:28:42.887Z'
+modified: '2020-09-22T11:29:42.774Z'
 ---
 
 # Module 1: The Basics
@@ -27,7 +27,7 @@ The starter files link will bring you over to github which has all of the starte
 **Please star the beginner-javascript github repo to help Wes up!
 **
 
- ##### **Slack Channel**
+ ##### Slack Channel
 
  There is also a link to the slack channel, where you can jump in and get help, maybe join up with a buddy and do a course together with someone. 
 
@@ -49,9 +49,8 @@ The starter files link will bring you over to github which has all of the starte
 __ Note: Sometimes the numbers of the exercise folders are going to be a little off from the video number is, so just make sure to line up the file with the name of the video, not necessarily the number. __
 
 #### How to Do the Course
-Another thing is how should you do this course?  
 
-Should you watch it, should you code, should you code while you watch? 
+Another thing is how should you do this course? Should you watch it, should you code, should you code while you watch? 
 
 About half the people prefer to watch it and then do it after, and the other half prefer to do it as they watch. 
 
@@ -236,7 +235,7 @@ Go into the `/playground` folder and create a new file `running-js.html`.
 
 _Wes has an Emmet extension so he is going to hit `!` and `Tab` to scaffold out some HTML for us._
 
-In the body, we can have a script tag in which we will add `console.log('hey')` . 
+In the body, we can have a script tag in which we will add `console.log('hey')`. 
 
 What that will do is when the HTML is loaded, it's going to say "OH! This is a script tag, I am changing languages from HTML over to Javascript, and it will run any code inside of the opening and closing script tag as javascript.
 

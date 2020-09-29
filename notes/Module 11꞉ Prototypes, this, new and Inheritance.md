@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png, Clipboard_2020-05-07-18-17-28.png, Clipboard_2020-05-07-18-19-40.png, Clipboard_2020-05-07-18-24-08.png, Clipboard_2020-05-07-18-35-47.png, Clipboard_2020-05-07-18-40-24.png, Clipboard_2020-05-07-18-43-46.png, Clipboard_2020-05-07-18-44-42.png, Clipboard_2020-05-07-18-51-42.png, Clipboard_2020-05-07-18-56-58.png, Clipboard_2020-05-07-19-02-22.png, Clipboard_2020-05-07-19-07-59.png, Clipboard_2020-05-07-19-10-48.png, Clipboard_2020-05-07-19-13-28.png, Clipboard_2020-05-07-19-15-21.png, Clipboard_2020-09-22-19-28-52.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-09-24T12:28:48.352Z'
+modified: '2020-09-29T00:29:28.823Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -346,14 +346,15 @@ In the next video we will go into **prototypal methods** that can be shared amon
 
 ## 62 - Prototype Refactor of Gallery Exercise
 
-In the next two videos we will refactor our gallery and slider exercises that we did earlier to take advantage of the prototype.
+In the next two videos we will refactor the gallery and slider exercises that we did earlier to take advantage of the prototype.
 
-Open up `gallery.js` and save a copy of the file under he name `gallery-prototype.js`. Then go into your `index.html` file within the gallery exercise directory and modify the script src to point to the `gallery-prototype.js` file instead.
+Open up `gallery.js` and save a copy of the file under the name `gallery-prototype.js`. 
 
-If you scroll to the bottom of the javascript page, you will see we have two variables `gallery1` and `gallery2`, and if we log them in the console, we will get undefined and undefined. 
+Then go into the `index.html` file within the gallery exercise directory and modify the script src to point to the `gallery-prototype.js` file instead.
 
-```
+If you scroll to the bottom of the javascript page, you will see we have 2 variables `gallery1` and `gallery2`, and if we log them in the console, we will get `undefined` and `undefined`. 
 
+```js
 const gallery1 =  Gallery(document.querySelector('.gallery1'));
 const gallery2 =  Gallery(document.querySelector('.gallery2'));
 
@@ -364,9 +365,9 @@ Why? because the `Gallery()` function doesn't actually return anything.
 
 ![](@attachment/Clipboard_2020-05-06-05-23-33.png) 00:56
 
-If however we change it to use the `new` keyword, it will automatically return an instance of that gallery. 
+If, however, we change it to use the `new` keyword, it will automatically return an instance of that gallery. 
 
-```
+```js
 const gallery1 = new Gallery(document.querySelector('.gallery1'));
 const gallery2 = new Gallery(document.querySelector('.gallery2'));
 ```
@@ -376,23 +377,40 @@ const gallery2 = new Gallery(document.querySelector('.gallery2'));
 Right now there is nothing in our Gallery nor in the prototype of it, but you will see as we add things to the prototype and to the instance, we will see them populate there. 
 
 Let's go to the top of the file and go line by line. 
-The way we are chekcing whether the parameter exists is fine, we can leave that alone. 
+
+```js
+function Gallery(gallery){
+  if(!gallery){
+    throw new Error('No Gallery Found!');
+  }
+}
+```
+
+The way we check whether the parameter exists is fine, we can leave that alone. 
 
 ![](@attachment/Clipboard_2020-05-06-05-28-24.png) 1:25
 
 The only thing we need to do is save the reference to the gallery div that was passed in because we will need it in our prototype method shortly. 
 
-Add this line after the condition: `this.gallery = gallery;`. 
+Add the line below after the condition 👇
 
-Now if you refresh the page, we should see both of our galleries logged, and you can see that those are instance properties because they differ in each one. 
+```js
+this.gallery = gallery;
+``` 
+
+Now if you refresh the page, you should see both of our galleries logged, and you can see that those are instance properties because they differ in each one. 
 
 ![](@attachment/Clipboard_2020-05-06-05-30-17.png)  2:06
 
-Now we need to go through all the variables we created. We just created them as variables inside of the closure, but because we are going to be moving all of the methods like `handleClickOutside` and `handleKeyUp()` will be moved to the prototype, they will no longer have access to the closure, meaning we need to surface the variables on our instance somehow. 
+Now we need to go through all the variables we created. 
 
-The way you can surface a variable on an instance is simply by saying `this.` the name of the variable. So we will change all those vairables and everywhere we have used them to `this.images` instead of `const images`. 
+We just created them as variables inside of the closure, but because we are going to be moving all of the methods like `handleClickOutside` and `handleKeyUp` to the prototype, they will no longer have access to the closure.  That means we need to surface the variables on our instance somehow. 
 
-The easiest way that Wes has found to do that is to right click on a variable name in VSCode and select "Rename symbol" and then add `this.` next to image and remove the const, because we are not declaring a new variable, we are simply setting a property on the gallery instance. 
+The way you can surface a variable on an instance is simply by saying `this.` the name of the variable. 
+
+So we will change all those variables and everywhere we have used them to `this.images` instead of `const images`. 
+
+The easiest way that Wes has found to do that is to right click on a variable name in VSCode and select "Rename symbol". Then add `this.` next to `const image` and remove the `const`, because we are not declaring a new variable, we are simply setting a property on the gallery instance. 
 
 ![](@attachment/Clipboard_2020-05-06-05-33-56.png) 2:48
 
@@ -400,7 +418,7 @@ The easiest way that Wes has found to do that is to right click on a variable na
 
 Now let's go through the rest of them.
 
-```
+```js
 this.gallery = gallery;
 // select the elements we need
 this.images = Array.from(gallery.querySelectorAll('img'));
@@ -409,7 +427,7 @@ this.prevButton = this.modal.querySelector('.prev');
 this.nextButton = this.modal.querySelector('.next');
 ```
 
-We don't need the `let currentImage` variable anymore because wherever we set the `currentImage`, we will simply say `this.currentImage = el;` where we are setting the `currentImage` instead. So delete the let declaration of that variable. 
+We don't need the `let currentImage` variable anymore because wherever we set the `currentImage`, we will simply say `this.currentImage = el;` where we are setting the `currentImage` instead. So delete the `let` declaration of that variable. 
 
 ![](@attachment/Clipboard_2020-05-06-05-37-07.png) 3:57
 
@@ -417,167 +435,173 @@ As you can see, our gallery now has all these properties inside of it.
 
 Next we will share the rest of the functions amongst all the instances by moving them to the prototype. 
 
-Select all these functions:
+Select all the functions below.
 
-```
+```js
 function openModal() {
-    console.info('Opening Modal...');
-    // First check if the modal is already open
-    if (modal.matches('.open')) {
-      console.info('Madal already open');
-      return; // stop the function from running
-    }
-    modal.classList.add('open');
+  console.info('Opening Modal...');
+  // First check if the modal is already open
+  if (modal.matches('.open')) {
+    console.info('Madal already open');
+    return; // stop the function from running
+  }
+  modal.classList.add('open');
 
-    // Event listeners to be bound when we open the modal:
-    window.addEventListener('keyup', handleKeyUp);
-    nextButton.addEventListener('click', showNextImage);
-    prevButton.addEventListener('click', showPrevImage);
-  }
+  // Event listeners to be bound when we open the modal:
+  window.addEventListener('keyup', handleKeyUp);
+  nextButton.addEventListener('click', showNextImage);
+  prevButton.addEventListener('click', showPrevImage);
+}
 
-  function closeModal() {
-    modal.classList.remove('open');
-    // TODO: add event listeners for clicks and keyboard..
-    window.removeEventListener('keyup', handleKeyUp);
-    nextButton.removeEventListener('click', showNextImage);
-    prevButton.removeEventListener('click', showPrevImage);
-  }
+function closeModal() {
+  modal.classList.remove('open');
+  // TODO: add event listeners for clicks and keyboard..
+  window.removeEventListener('keyup', handleKeyUp);
+  nextButton.removeEventListener('click', showNextImage);
+  prevButton.removeEventListener('click', showPrevImage);
+}
 
-  function handleClickOutside(e) {
-    if (e.target === e.currentTarget) {
-      closeModal();
-    }
+function handleClickOutside(e) {
+  if (e.target === e.currentTarget) {
+    closeModal();
   }
+}
 
-  function handleKeyUp(event) {
-    if (event.key === 'Escape') return closeModal();
-    if (event.key === 'ArrowRight') return showNextImage();
-    if (event.key === 'ArrowLeft') return showPrevImage();
-  }
+function handleKeyUp(event) {
+  if (event.key === 'Escape') return closeModal();
+  if (event.key === 'ArrowRight') return showNextImage();
+  if (event.key === 'ArrowLeft') return showPrevImage();
+}
 
-  function showNextImage() {
-    showImage(currentImage.nextElementSibling || gallery.firstElementChild);
-  }
-  function showPrevImage() {
-    showImage(currentImage.previousElementSibling || gallery.lastElementChild);
-  }
+function showNextImage() {
+  showImage(currentImage.nextElementSibling || gallery.firstElementChild);
+}
+function showPrevImage() {
+  showImage(currentImage.previousElementSibling || gallery.lastElementChild);
+}
 
-  function showImage(el) {
-    if (!el) {
-      console.info('no image to show');
-      return;
-    }
-    // update the modal with this info
-    console.log(el);
-    modal.querySelector('img').src = el.src;
-    modal.querySelector('h2').textContent = el.title;
-    modal.querySelector('figure p').textContent = el.dataset.description;
-    currentImage = el;
-    openModal();
+function showImage(el) {
+  if (!el) {
+    console.info('no image to show');
+    return;
   }
+  // update the modal with this info
+  console.log(el);
+  modal.querySelector('img').src = el.src;
+  modal.querySelector('h2').textContent = el.title;
+  modal.querySelector('figure p').textContent = el.dataset.description;
+  currentImage = el;
+  openModal();
+}
 ```
 
 Cut those functions out of the `Gallery()` function and add them right below the function. 
 
 Now what we need to do is we need to change each of thoes functions to be on the prototype of the gallery.
 
-We are going to remove the work `function` and we will put 
+We are going to remove the word `function` and instead will put `Gallery.prototype`, as shown below. 
 
-```
+```js
 Gallery.prototype.openModal() {
-    console.info('Opening Modal...');
-    // First check if the modal is already open
-    if (modal.matches('.open')) {
-      console.info('Madal already open');
-      return; // stop the function from running
-    }
-    modal.classList.add('open');
+  console.info('Opening Modal...');
+  // First check if the modal is already open
+  if (modal.matches('.open')) {
+    console.info('Madal already open');
+    return; // stop the function from running
+  }
+  modal.classList.add('open');
 
-    // Event listeners to be bound when we open the modal:
-    window.addEventListener('keyup', handleKeyUp);
-    nextButton.addEventListener('click', showNextImage);
-    prevButton.addEventListener('click', showPrevImage);
+  // Event listeners to be bound when we open the modal:
+  window.addEventListener('keyup', handleKeyUp);
+  nextButton.addEventListener('click', showNextImage);
+  prevButton.addEventListener('click', showPrevImage);
 }
 ```
 
-If you save an refresh, you will see that we now have access to the `openModal` function on the prototype of our galleries. Nothing will work yet but we will go through and fix them one by one. 
+If you save and refresh, you will see that we now have access to the `openModal` function on the prototype of our galleries. Nothing will work yet but we will go through and fix them one by one. 
 
 ![](@attachment/Clipboard_2020-05-06-05-41-12.png) 5:09
 
-Wes likes to use VSCode multi-cursor to refactor the methods all at once. His shortcuts are to hold down Click + Cmd and then put the cursor infront of every function name so you can edit them all at once. 
+Wes likes to use VSCode multi-cursor to refactor the methods all at once. 
+
+His shortcuts are to hold down Click + Cmd and then put the cursor infront of every function name so you can edit them all at once. 
 
 ![](@attachment/Clipboard_2020-05-06-05-42-38.png) 5:23
 
-```
+```js
 Gallery.prototype.openModal() {
-    console.info('Opening Modal...');
-    // First check if the modal is already open
-    if (modal.matches('.open')) {
-      console.info('Madal already open');
-      return; // stop the Gallery.prototype.from running
-    }
-    modal.classList.add('open');
+  console.info('Opening Modal...');
+  // First check if the modal is already open
+  if (modal.matches('.open')) {
+    console.info('Madal already open');
+    return; // stop the Gallery.prototype.from running
+  }
+  modal.classList.add('open');
 
-    // Event listeners to be bound when we open the modal:
-    window.addEventListener('keyup', handleKeyUp);
-    nextButton.addEventListener('click', showNextImage);
-    prevButton.addEventListener('click', showPrevImage);
-  }
+  // Event listeners to be bound when we open the modal:
+  window.addEventListener('keyup', handleKeyUp);
+  nextButton.addEventListener('click', showNextImage);
+  prevButton.addEventListener('click', showPrevImage);
+}
 
-  Gallery.prototype.closeModal() {
-    modal.classList.remove('open');
-    // TODO: add event listeners for clicks and keyboard..
-    window.removeEventListener('keyup', handleKeyUp);
-    nextButton.removeEventListener('click', showNextImage);
-    prevButton.removeEventListener('click', showPrevImage);
-  }
+Gallery.prototype.closeModal() {
+  modal.classList.remove('open');
+  // TODO: add event listeners for clicks and keyboard..
+  window.removeEventListener('keyup', handleKeyUp);
+  nextButton.removeEventListener('click', showNextImage);
+  prevButton.removeEventListener('click', showPrevImage);
+}
 
-  Gallery.prototype.handleClickOutside(e) {
-    if (e.target === e.currentTarget) {
-      closeModal();
-    }
+Gallery.prototype.handleClickOutside(e) {
+  if (e.target === e.currentTarget) {
+    closeModal();
   }
+}
 
-  Gallery.prototype.handleKeyUp(event) {
-    if (event.key === 'Escape') return closeModal();
-    if (event.key === 'ArrowRight') return showNextImage();
-    if (event.key === 'ArrowLeft') return showPrevImage();
-  }
+Gallery.prototype.handleKeyUp(event) {
+  if (event.key === 'Escape') return closeModal();
+  if (event.key === 'ArrowRight') return showNextImage();
+  if (event.key === 'ArrowLeft') return showPrevImage();
+}
 
-  Gallery.prototype.showNextImage() {
-    showImage(currentImage.nextElementSibling || gallery.firstElementChild);
-  }
-  Gallery.prototype.showPrevImage() {
-    showImage(currentImage.previousElementSibling || gallery.lastElementChild);
-  }
+Gallery.prototype.showNextImage() {
+  showImage(currentImage.nextElementSibling || gallery.firstElementChild);
+}
+Gallery.prototype.showPrevImage() {
+  showImage(currentImage.previousElementSibling || gallery.lastElementChild);
+}
 
-  Gallery.prototype.showImage(el) {
-    if (!el) {
-      console.info('no image to show');
-      return;
-    }
-    // update the modal with this info
-    console.log(el);
-    modal.querySelector('img').src = el.src;
-    modal.querySelector('h2').textContent = el.title;
-    modal.querySelector('figure p').textContent = el.dataset.description;
-    currentImage = el;
-    openModal();
+Gallery.prototype.showImage(el) {
+  if (!el) {
+    console.info('no image to show');
+    return;
   }
+  // update the modal with this info
+  console.log(el);
+  modal.querySelector('img').src = el.src;
+  modal.querySelector('h2').textContent = el.title;
+  modal.querySelector('figure p').textContent = el.dataset.description;
+  currentImage = el;
+  openModal();
+}
 ```
 
-It won't even load now because we get these errors like `handleClickOutside is not defined`. 
+It won't even load now because we get these errors like 
+>handleClickOutside is not defined
 
 ![](@attachment/Clipboard_2020-05-06-05-44-30.png) 6:10
 
-If we go to line 29, you will see we are calling `showImage(e.currentTarget)`. Anytime we reference one of our functions, it needs to be changed to `this.showImage`. That is where ESLint becomes very helfpul. If you click ESLint at the bottom, you can see all of the problems. 
+If you go to line 29, you will see we are calling `showImage(e.currentTarget)`. 
+
+Anytime we reference one of our functions, it needs to be changed to `this.showImage`. 
+
+That is where ESLint becomes very helfpul. If you click ESLint at the bottom, you can see all of the problems. 
 
 ![](@attachment/Clipboard_2020-05-06-05-46-09.png) 6:49
 
 Now we can go through them one by one and change them out.
 
-```
-
+```js
 Gallery.prototype.openModal = function() {
   console.info('Opening Modal...');
   // First check if the modal is already open
@@ -640,49 +664,56 @@ Gallery.prototype.showImage = function(el) {
 };
 ```
 
-Now that we have refactored everything (all our variables and methods) to be referenceable by `this.` and their name. 
+Now we have refactored everything (all our variables and methods) to be referenceable by `this.` and their name. 
 
-Let's go through the app and find any issues that might be. We will first find all the bugs, make a list and then fix them. 
+Let's go through the app and find any issues that might exist. We will first find all the bugs, make a list and then fix them. 
 
-Let's click on an image, the modal should open fine, when we click the buttons, we get an error. If you try to click outside the modal to close it, that is also broken.
+Let's click on an image, the modal should open fine, but when we click the buttons, we get an error. If you try to click outside the modal to close it, that is also broken.
 
 If you hit escape that is also broken. 
 
 Let's tackle those so far, starting with the next/prev buttons being broken.
 
-The error says `cannot read property 'nextElementSibling' of undefined. 
+The error says 
+>cannot read property 'nextElementSibling' of undefined. 
 
 ![](@attachment/Clipboard_2020-05-06-05-49-29.png) 8:16
 
 The line that is throwing the error is 
 
-```
+```js
 this.showImage(
   this.currentImage.nextElementSibling || this.gallery.firstElementChild
 );
 ```
 
-`this.currentImage` is undefined. So what is the value of the `this` we have highlighted in the image below? 
+`this.currentImage` is `undefined`. So what is the value of the `this` we have highlighted in the image below? 
 
 ![](@attachment/Clipboard_2020-05-06-05-50-45.png) 8:37
 
-Let's add a log and open it up. As far as we know, `this` should always equal the instance of the gallery. 
+Let's add a log and take a look. As far as we know, `this` should always equal the instance of the gallery. 
 
 ![](@attachment/Clipboard_2020-05-06-05-51-23.png) 8:54
 
-According to the log, `this` is equal to a button within our `showImage` method. Let's find where `showNextImage()` is called from. It is being called from within the `closeModal` function to remove the event listener. It is also being called from another method to add the event listener. 
+According to the log, `this` is equal to a button within our `showImage` method. 
+
+Let's find where `showNextImage()` is called from... it is being called from within the `closeModal` function to remove the event listener. It is also being called from another method to add the event listener. 
 
 ![](@attachment/Clipboard_2020-05-06-05-52-59.png) 9:19
 
 What is happening is we are listening for a click and when the click happens, the `showNextImage` function is running. 
 
-However, like Wes has told us about passing callbacks to `addEventListener` and the keyword `this`? Whenever you pass a callback to an event listener, the `this` keyword will be equal to whatever is to the left of the dot. 
+However, like Wes has told us about passing callbacks to `addEventListener` and the keyword `this`? 
 
-So how do we fix that? There are a few ways which we will go over now. 
+Whenever you pass a callback to an event listener, the `this` keyword will be equal to whatever is to the left of the dot. 
+
+So how do we fix that? 
+
+There are a few ways which we will go over now. 
 
 A popular way in React word would be to make it an arrow function like so 
 
-```
+```js
 this.nextButton.addEventListener('click', () => this.showNextImage);
 ```
 
@@ -690,15 +721,19 @@ Now that works, but there is a problem with that which Wes will demonstrate once
 
 Let's refactor this method as well using an arrow function to get that working 
 
-```
+```js
 window.addEventListener('keyup', e=> this.handleKeyUp(e));
 ```
 
-Now when you open the modal up, and hit the escape key, and repeat that a few times, when you click right, it will jump a few images instead of going to the next one. What is going on there? Everytime we close the modal, it is going one further down the slideshow. 
+Now when you open the modal up, and hit the escape key, and repeat that a few times, when you click right, it will jump a few images instead of going to the next one. 
 
-Everytime that we open it up, we are listening for another click on it already. The way we fixed that before is we just removed the eventlistener when we closed the modal. That way we added and removed it everytime that we opened and closed the modal. 
+What is going on there? 
 
-However what happens when you do what is highlighted in the image below is that you are creating another function, and in order to remove an event listener, you have to have reference to that function. 
+Everytime we close the modal, it is going one further down the slideshow. Everytime that we open it up, we are listening for another click on it already. 
+
+The way we fixed that before is we just removed the event listener when we closed the modal. That way we added and removed it everytime that we opened and closed the modal. 
+
+However what happens when you use `() => this.showNextImage())` what is highlighted in the image below is that you are creating an anonymous function, and in order to remove an event listener, you have to have reference to that function. 
 
 ![](@attachment/Clipboard_2020-05-06-06-02-50.png) 12:31
 
@@ -706,53 +741,67 @@ The other way we can fix that is by binding it to `this` when we have access to 
 
 It will get a bit complicated but don't sweat it if you don't get it right away. It took Wes a couple of years to get it. This will make sense eventualy (like the 7th or 8th time you build something this way). This is pretty common in React world. 
 
-So now we need to bind our methos to the instanec when we need them.  We will do that for `handleKeyUp`, `showNextImage` and `showPrevImage` because they are the ones giving us trouble. 
+So now we need to bind our methods to the instance when we need them.  
 
-```
+We will do that for `handleKeyUp`, `showNextImage` and `showPrevImage` because they are the ones giving us trouble. 
+
+```js
 this.showNextImage = this.showNextImage.bind(this);
 ```
 
 What we are doing there is we are creating an instance property of the same prototype function, but bound with `this`. 
 
+### `bind()`
+
 `bind()` allows us to explicitly supply what `this` will be equal to. Because in our constructor `this` is equal to the instance, we are creating a new function that has `this` bound to it. 
 
-That allows us to now go to our `findNextIamge` function and simply just pass `showNextImage` without using an arrow function like so: 
+That allows us to now go to our `findNextImage` function and simply just pass `showNextImage` without using an arrow function like so 👇
 
-```
+```js
 this.nextButton.addEventListener('click', this.showNextImage);
 ```
 
-Now the next button should work. The previous button won't work because we haven't fixed that yet. 
+Now the next button should work. 
 
-The benefit of doing that over doing it right in the eventlistener call directly as shown in the example below is that when we do it like below, we lose reference to the new function that was created, which stops us from being able to remove that event listener in the future. 
+The previous button won't work because we haven't fixed that yet. 
+
+The benefit of doing that over doing it right in the event listener call directly as shown in the example below is that when we do it like below, we lose reference to the new function that was created, which stops us from being able to remove that event listener in the future. 
 
 You always need to hold onto your functions when you create them so you can remove them in the future. 
 
-```
+```js
 this.nextButton.addEventListener('click', this.showNextImage.bind(this));
 ```
 
 Let's do the same for `showPrevImage`. 
 
-```
+```js
 this.showPrevImage = this.showPrevImage.bind(this);
 ```
 
-The escape key is also working, but only because we are passing the `e` like so `window.addEventListener('keyup', e=> this.handleKeyUp(e));` Modify that line of code like so: `window.addEventListener('keyup', this.handleKeyUp);`.
+The escape key is also working, but only because we are passing the `e` like so `window.addEventListener('keyup', e=> this.handleKeyUp(e));` 
 
-Now go to where we bound `this` for `showNextImage` and `showPrevImage` and we will do the same for handleKeyUp.
+Modify that line of code as shown below. 
 
+```js
+window.addEventListener('keyup', this.handleKeyUp);
 ```
+
+Now go to where you bound `this` for `showNextImage` and `showPrevImage` and do the same for `handleKeyUp`.
+
+```js
 this.handleKeyUp = this.handleKeyUp.bind(this);
 ```
 
 The last one is the click outside, which is the same problem. 
 
-```
+```js
 this.handleClickOutside = this.handleClickOutside.bind(this);
 ```
 
-A lot of people don't like this method of doing it because it is a bit of a pain to figure out how to bind `this` in each context, so a lot of people prefer to just have a bunch of functions. It is not as explicit as when you have a bunch of functions so if you feel that way, then it may mean that the prototype way of coding is not for you. There are lots of people who to think that way. 
+A lot of people don't like this method of doing it because it is a bit of a pain to figure out how to bind `this` in each context, so a lot of people prefer to just have a bunch of functions. 
+
+It is not as explicit as when you have a bunch of functions so if you feel that way, then it may mean that the prototype way of coding is not for you. There are lots of people who to think that way. 
 
 Wes is showing us all the approaches because there are some developers who think prototypes are the best way to work and it will come up on interviews. 
 

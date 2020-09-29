@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png, Clipboard_2020-05-07-18-17-28.png, Clipboard_2020-05-07-18-19-40.png, Clipboard_2020-05-07-18-24-08.png, Clipboard_2020-05-07-18-35-47.png, Clipboard_2020-05-07-18-40-24.png, Clipboard_2020-05-07-18-43-46.png, Clipboard_2020-05-07-18-44-42.png, Clipboard_2020-05-07-18-51-42.png, Clipboard_2020-05-07-18-56-58.png, Clipboard_2020-05-07-19-02-22.png, Clipboard_2020-05-07-19-07-59.png, Clipboard_2020-05-07-19-10-48.png, Clipboard_2020-05-07-19-13-28.png, Clipboard_2020-05-07-19-15-21.png, Clipboard_2020-09-22-19-28-52.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-09-29T00:29:28.823Z'
+modified: '2020-09-29T00:43:18.948Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -813,50 +813,62 @@ If you feel like a challenge, feel free to try to refactor the slider one yourse
 
 ## 63 - Prototypes and Prototypal Inheritance
 
-In the last video we learned that having a function and using the `new` keyword would return an object, that is an instance of that object. 
+In the last video we learned that having a function and using the `new` keyword would return an object that is an instance of that object. 
 
-```
+```js
 function Pizza(toppings = [], customer) {
-    console.log("Making a pizza");
-    // save the toppings that were passed in, to this instance of pizza
-    this.toppings = toppings;
-    this.customer = customer;
-    this.id = Math.floor(Math.random() * 16777215).toString(16);
-  }
-    const pepperoniPizza = new Pizza(["pepperoni"], "Wes Bos");
-    const canadianPizza = new Pizza(
-      ["pepperoni", "mushrooms", "onion"],
-      "Kait Bos"
-    );
+  console.log("Making a pizza");
+  // save the toppings that were passed in, to this instance of pizza
+  this.toppings = toppings;
+  this.customer = customer;
+  this.id = Math.floor(Math.random() * 16777215).toString(16);
+}
+
+const pepperoniPizza = new Pizza(["pepperoni"], "Wes Bos");
+
+const canadianPizza = new Pizza(
+  ["pepperoni", "mushrooms", "onion"],
+  "Kait Bos"
+);
 
 ```
 
-In the example above, both `canadianPizza` and `pepperoniPizza` are instances of the `Pizza` function. The way that we attach properties onto that instance is by saying `this.`propertyname. 
+In the example above, both `canadianPizza` and `pepperoniPizza` are instances of the `Pizza` function. 
 
-Let's say we want to add some functionality, like the abilitiy to count the number of slices left in the pizza. We can start with every pizza having 10 slices by adding this to our `Pizza` constructor function `this.slices = 10;`.
+The way that we attach properties onto that instance is by saying `this.propertyname`. 
 
-Now if you take a look at the pizza, you will see that ther are 10 slices in that pizza. 
+Let's say we want to add some functionality, like the abilitiy to count the number of slices left in the pizza. We can start with every pizza having 10 slices by adding the code below to our `Pizza` constructor function.  
+
+```js
+this.slices = 10;
+```
+
+Now if you take a look at the pizza, you will see that there are 10 slices in that pizza. 
 
 ![](@attachment/Clipboard_2020-05-06-06-26-03.png) 1:10
 
-Now if we needed to make a method of the pizza like `eat()`, which takes away slices one at a time, you might think you coudl do something like this..
+If we needed to make a method of the pizza like `eat()`, which takes away slices one at a time, you might think you could do something like below.
 
-```
+```js
 this.eat = function(){
   console.log('CHOMP');
   this.slices = this.slices - 1;
 }
 ```
 
-Now if you refresh the page and go to the console and call `eat()` on one of the pizzas, we will see "CHOMP". If you look at how many slices there are, you would get 9. 
+Now if you refresh the page and go to the console and call `eat()` on one of the pizzas, you will see "CHOMP". 
+
+If you look at how many slices there are, you would get 9. 
 
 ![](@attachment/Clipboard_2020-05-06-06-28-15.png) 1:57
 
 If you run it again, you will see we have 8. 
 
-Lets go ahead and modify it so we do not run out of slices. Add this condition
+Lets go ahead and modify it so we do not run out of slices. 
 
-```
+Add the condition below.
+
+```js
 this.eat = function(){
   if(this.slices > 0){
     this.slices = this.slices - 1;
@@ -867,7 +879,7 @@ this.eat = function(){
   }
 ```
 
-It might also be a good idea to return the new number of slices from the function (similar to how Array.prototype.push returns the number of items in an array after we add them. You would just add `return this.slices;`). 
+It might also be a good idea to return the new number of slices from the function. Similar to how `Array.prototype.push` returns the number of items in an array after we add them, you would just add `return this.slices;`. 
 
 If you call that a bunch of times in the console, you should see that it now works. 
 
@@ -879,35 +891,37 @@ If you compared whether `pepperoniPizza.eat` and `canadianPizza.eat` are the sam
 
 ![](@attachment/Clipboard_2020-05-06-06-32-31.png) 3:31
 
-What is happening there is we are duplicating the functionality of the function once from every single pizza. That functionality looks identical for every single pizza so there is no need to be generating one per instance.
+What is happening there is we are duplicating the functionality of the function once from every single pizza. 
 
-It does need to maintain it's own slice count, toppings, customer etc, but the functionality to eat a piece of pizza is the asme for every single pizza that is out there. 
+That functionality looks identical for every single pizza so there is no need to be generating one per instance.
+
+It does need to maintain it's own slice count, toppings, customer, etc, but the functionality to eat a piece of pizza is the same for every single pizza that is out there. 
 
 Instead of putting functions on every single instance, we can put them on what is referred to as the **prototype**. 
 
-You might be thinking, what is wrong wit the code we have now? It seems to be working so far. 
+You might be thinking, what is wrong with the code we have now? It seems to be working so far. 
 
 The problem comes when you have 20,000 pizzas. Then you have lots of instances of the pizza, and everytime you define a new function, that takes up memory in your computer and that is what causes websites and computers to go slow in many cases. 
 
 It would be much more efficient to have one `eat()` function that is shared amongst all our pizzas. 
 
-Let's pause on that for a second and look at some of the built in prototypes that we have. 
+Let's pause on that for a second and look at some of the built-in prototypes that we have. 
 
-We have our `names` array which we have already delcared and we will create a new array called `numbers`. 
+We have our `names` array which we have already declared and we will create a new array named `numbers`. 
 
 ![](@attachment/Clipboard_2020-05-06-06-39-58.png) 5:13
 
 Both of those arrays with have methods on them like `filter` for example. Every single time you make an array, the browser does not copy and paste the functionality inside of each one. 
 
-Instead, the method actually lives in something called a prototype, which allows each of the arrays to share that functionality. 
+Instead, the method actually lives in something called a **prototype**, which allows each of the arrays to share that functionality. 
 
-If you checked for the equal of the `filter` method of numbers and names, you would get true because they are the exact same function. They don't just have the same functionality, they are the same function. 
+If you checked for the equality of the `filter` method of `numbers` and `names`, you would get true because they are the exact same function. They don't just have the same functionality, _they are the same function._
 
 ![](@attachment/Clipboard_2020-05-06-06-44-44.png) 6:39 
 
-Take our eat function, copy it and then remove those lines of code. Go further down the file, right below our Pizza function and then modify it liek so:
+Take the `eat` function, copy it and then remove those lines of code. Go further down the file, right below the Pizza function and then modify it as shown below. 
 
-```
+```js
 Pizza.prototype.eat = function() {
   if (this.slices > 0) {
     this.slices = this.slices - 1;
@@ -920,73 +934,73 @@ Pizza.prototype.eat = function() {
 
 Now every single time we make a pizza, we won't give it that function, but it will be available on the prototype. 
 
-Let's test that it still works by calling `canadianPizza.eat()` in the console multiple times. Then try calling `pepperoniPizza.eat()` multiple times. It looks like it is working. 
+Let's test that it still works by calling `canadianPizza.eat()` in the console multiple times, then try calling `pepperoniPizza.eat()` multiple times. It looks like it is working. 
 
-However, if you log `pepperoniPizza` and look inside, you will see  customer, id, toppings (all of which are instance properties). But there is no eat functionality. However, if you open up the prototype, you will see it there. 
+However, if you log `pepperoniPizza` and look inside, you will see  `customer`, `id`, `toppings` (all of which are instance properties). But there is no `eat` functionality. However, if you open up the prototype, you will see it there. 
 
 ![](@attachment/Clipboard_2020-05-06-06-47-51.png) 7:31
 
 That is what is referred to as the **prototype lookup**. If you put something on the prototype, and it doesn't exist on the instance, it will look for it in the mamma.
 
-If we did `pepperoniPizza.toppings` that would be an instance but if we did `pepperoniPizza.eat`, what would first happen is it would look inside the Pizza constructor function for a proeprty called `eat`. 
+If we did `pepperoniPizza.toppings` that would be an instance but if we did `pepperoniPizza.eat`, what would first happen is it would look inside the `Pizza` constructor function for a property called `eat`. 
 
-What that means is that every time an instance is made, we have access to this eat function. 
+What that means is that every time an instance is made, we have access to this `eat` function. 
 
-One benefit of that is you can actually change the functions andthose changes will apply to every single pizza that is there. 
+One benefit of that is you can actually change the functions and those changes will apply to every single pizza that is there. 
 
-8:40
+Let's do one more example.
 
-Let's do one more example with just the number. 
+Add the following under the `eat` function. 
 
-Add the following under our `eat` function. 
-
-```
+```js
 Pizza.prototype.size = 'Large';
 ```
 
-Now if we go to our pepperoniPizza and look for the size, it will tell us "Large". 
+Now if you go to `pepperoniPizza` and look for the size, it will tell you "Large". 
 
 ![](@attachment/Clipboard_2020-05-06-06-52-31.png) 9:14
 
-However, if we were to go into our `Pizza` function and add `this.size = "Medium";`, we will get "Medium". 
+However, if tiy were to go into the `Pizza` function and add `this.size = "Medium";`, you will get "Medium". 
 
 ![](@attachment/Clipboard_2020-05-06-06-53-11.png) 9:15
 
 It first checks for a property on the instance and if it doesn't exist, it will go to the prototype and look that up. 
 
-(Get rid of the `this.size` because we don't actually need it). 
+Get rid of the `this.size` because we don't actually need it.
 
 Now if we look at our `name` array by typing `name.` in the console, you will see a long list of methods that are available to us.
 
-If we log `String.prototype` you will also see the methods available to us every single time that we create a new string. 
+If you log `String.prototype` you will also see the methods are available to us every single time that we create a new string. 
 
 ![](@attachment/Clipboard_2020-05-06-06-59-11.png) 10:15
 
-All of the methods that you see already there are what is referred to as **built in** functions, meaning they just come with the language. You can actually add your own, but warning -- you should never do this. Wes is just demoing it to show us how that works. 
+All of the methods that you see already there are what are referred to as **built in functions**, meaning they just come with the language. You can actually add your own, but warning -- you should never do this. Wes is just demoing it to show us how that works. 
 
-```
+```js
 String.prototype.toUpperCase = function() {
   return 'YELLING';
 }
 ```
 
-Now if we run `name.toUpperCase()` in the console, it will return to us 'YELLING'. 
+Now if you run `name.toUpperCase()` in the console, it will return to us 'YELLING'. 
 
 ![](@attachment/Clipboard_2020-05-06-07-02-46.png) 11:56
 
 That is because we overwrote the existing `toUpperCase` functionality on the prototype. 
 
-Now when any string calls `toUpperCase()` that will run instead. You can see why it would be a bad idea to modify a built in, because on person might expect the method to do something one way, and then if you have changed something, the libaries on the page that are expecting toUpperCase to work will break. You should never modify built in for this reason. 
+Now when any string calls `toUpperCase()` our function will run instead. 
+
+You can see why it would be a bad idea to modify a built in, because one person might expect the method to do something one way, and then if you have changed something, the libaries on the page that are expecting `toUpperCase` to work will break. You should never modify built-ins for this reason. 
 
 If you should never modify built-in functions, then why is that allowed? 
 
-For new functionality that is added to the browser, like `Array.includes()`, might be missing from some older browsers. For those browsers, you can use something called a **polyfill**, which recreates the missing functionality. When the browser doesn't include it natively, you can **pollyfill** it by recreating the functionality in vanilla JS. 
+Some new functionality that is added to the browser, like `Array.includes()`, might be missing from some older browsers. For those browsers, you can use something called a **polyfill**, which recreates the missing functionality. When the browser doesn't include it natively, you can **pollyfill** it by recreating the functionality in vanilla JS. 
 
 You can also add your own methods. Again don't do this, but it's possible. 
 
 Let's add this to our code right before our `Pizza` function constructor. 
 
-```
+```js
 String.prototype.sarcastic = function(){
   console.log(this);
 }
@@ -1000,7 +1014,7 @@ As you can see, it logged `this` which is a string of "wes".
 
 What we can do is build out our sarcastic method similar to how we did in a previous example. 
 
-```
+```js
 String.prototype.sarcastic = function() {
   const sarcsatic = this.split('').map((char, i) => {
     if(i%2){
@@ -1022,15 +1036,21 @@ Let's test if it works in the console. If you create a variable with a string an
 
 By adding a method to the prototype, it is then available on every instance of. Whether that is something that is built in, like a string, or something your own like pizza, you can add methods to the prototype of the pizza and every single one will get it. 
 
-Let's do one more example. Let's make a description method. When someone calls `pizza.subscribe()`, I want it to tell you that this pizza is for the customer name with the toppings and there are x slices left. 
+Let's do one more example. 
+
+Make a description method. 
+
+When someone calls `pizza.subscribe()`, Wes wants it to tell you that this pizza is for customer `x` and there are `x` slices left. 
 
 Feel free to pause the lesson here and try this exercise on your own. 
 
-Here is how we would approach that. You would create the `describe()` function on `Pizza.prototype`. 
+Here is how Wes would approach that. 
 
-Within that we will simply return a string and use interpolations like so
+Create the `describe()` function on `Pizza.prototype`. 
 
-```
+Within that, simply return a string and use interpolation as shown below. 
+
+```js
 Pizza.prototype.describe = function(){
   return `This pizza is for ${this.customer} with the toppings ${this.toppings.join(',')} and there are {this.slices} left.`;
 }
@@ -1040,7 +1060,7 @@ Refresh the page and now in the console run `canadianPizza.describe()`. You shou
 
 ![](@attachment/Clipboard_2020-05-06-19-50-26.png) 18:47
 
-Now if you run `canadianPizza.eat()` a few times in the console and then call describe, you should see that you now have less slices left. 
+Now if you run `canadianPizza.eat()` a few times in the console and then call `describe`, you should see that you now have less slices left. 
 
 ![](@attachment/Clipboard_2020-05-06-19-52-09.png) 18:58
 

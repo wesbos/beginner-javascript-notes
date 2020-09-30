@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png, Clipboard_2020-05-07-18-17-28.png, Clipboard_2020-05-07-18-19-40.png, Clipboard_2020-05-07-18-24-08.png, Clipboard_2020-05-07-18-35-47.png, Clipboard_2020-05-07-18-40-24.png, Clipboard_2020-05-07-18-43-46.png, Clipboard_2020-05-07-18-44-42.png, Clipboard_2020-05-07-18-51-42.png, Clipboard_2020-05-07-18-56-58.png, Clipboard_2020-05-07-19-02-22.png, Clipboard_2020-05-07-19-07-59.png, Clipboard_2020-05-07-19-10-48.png, Clipboard_2020-05-07-19-13-28.png, Clipboard_2020-05-07-19-15-21.png, Clipboard_2020-09-22-19-28-52.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
-modified: '2020-09-29T00:52:43.574Z'
+modified: '2020-09-30T11:38:51.857Z'
 ---
 
 # Module 11: Prototypes, `this`, `new` and Inheritance
@@ -1559,15 +1559,17 @@ That is what is great about this, you can build something like this slider and t
 ---
 ## 65 -  bind, call and apply
 
-This lesson will focus on the `bind`, `call` and `apply` functions, where are all used to change the scope of what `this` is equal to inside of a function or a method. 
+This lesson will focus on the `bind`, `call` and `apply` functions, which are all used to change the scope of what `this` is equal to inside of a function or a method. 
 
 Wes does not use these very often, but they are common interview questions so we will go over them so you have an understanding of how it works. 
 
-Go into our `playground/` directory and add a file called `bind-call-apply.html`. We will get our HTML base going and then add a script tag within the body tag. 
+Go into the `playground` directory and add a file `bind-call-apply.html`. Add our HTML base and a script tag wtihin the body tag. 
 
-We will start with a simple example of an object that has a method on it. We will create a person object on it with property of `name` and `sayHi`. The name can be your name, and `sayHi` will equal a function that logs Hey! with the person's name. 
+We will start with a simple example of an object that has a method on it. 
 
-```
+Create a person object on it with property of `name` and `sayHi`. The name can be your name, and `sayHi` will equal a function that logs "Hey!" with the person's name. 
+
+```js
 const person = {
   name: 'Wes Bos',
   sayHi: function(){
@@ -1576,9 +1578,9 @@ const person = {
 };
 ```
 
-Let's change it shorthand, which is the exact same thing as above just shorter syntax for the `sayHi` property. 
+Let's change it shorthand, which is the exact same thing as above, it's just shorter syntax for the `sayHi` property. 
 
-```
+```js
 const person = {
   name: 'Wes Bos',
   sayHi(){
@@ -1587,17 +1589,21 @@ const person = {
 };
 ``` 
 
-Let's open that in the browser and take a look at that in our console. 
+Open that in the browser and take a look at it in the console. 
 
 ![](@attachment/Clipboard_2020-05-07-07-46-18.png) 2:12
 
-As you can see, it says "hey wes bos". Why is that? That is because `sayHi` is a method, and when a method is called, the way they get the `this` value is they look to the left of the dot to see what they are bound against.
+As you can see, it says "hey wes bos".
+
+Why is that? 
+
+That is because `sayHi` is a method, and when a method is called, the way they get the `this` value is they look to the left of the dot to see what they are bound against.
 
 The `sayHi` method will give us the object it was run against. This is no different than if we were to have  class or prototype. The `this` is going to be equal to whatever was to the left of the dot. 
 
-Now if we were to take the `sayHi` method and put it in it's own variable, like so:
+Now , what if you were to take the `sayHi` method and put it in it's own variable, as shown below 👇?
 
-```
+```js
 const sayHi = person1.sayHi;
 ```
 
@@ -1605,9 +1611,11 @@ When you run that, we will just see "hey " with no name.
 
 ![](@attachment/Clipboard_2020-05-07-07-48-45.png) 3:13
 
-You can see if we call the `sayHi()` on the person object, we get the hey message returned with a name. But when we just call `sayHi()`, `this` is equal to the window because there is nothing that the method was bound to on the left hand side.
+You can see if we call the `sayHi()` on the person object, we get the hey message returned with a name. 
 
-That is important. In Javascript, the `this` keyword is always defined by where the function is being called, and not where the function is being defined. 
+But when we just call `sayHi()`, `this` is equal to the window because there is nothing that the method was bound to on the left-hand side.
+
+That is important. In Javascript, the `this` keyword is always defined by _where the function is being called, and not where the function is being defined_. 
 
 So although we defined the `sayHi` function inside of an object, it's not bound to it unless we call it as a method of an object. 
 
@@ -1615,19 +1623,21 @@ We can use the `bind` keyword to change where the `this` keyword is equal to or 
 
 Let's try that by binding the `sayHi` method back to the original person. 
 
-```
+```js
 const sayHi = person1.sayHi.bind(person);
 ```
 
-This code tells Javascript to call a function `sayHi` and when it's called, it's `this` keyword is equal to whatever we pass to the `bind()` method. 
+The code above tells Javascript to call a function `sayHi` and when it's called, it's `this` keyword is equal to whatever we pass to the `bind()` method. 
 
 Now when you refresh the page, if you were to run `sayHi()`, you will see that it now says "hey wes bos" instead of just "hey".
 
 That is because we have changed what `this` will be equal to by binding it to another object.
 
-Why would that be useful? Somtimes you want to use a method of an object with some other information. Let's say we have a Jenna object that we crete like so:
+Why would that be useful? 
 
-```
+Somtimes you want to use a method of an object with some other information. Let's say we have a Jenna object, as shown below 👇
+
+```js
 const jenna = { name: 'Jenna'};
 ```
 
@@ -1639,11 +1649,13 @@ That is the difference between object oriented programming and functional progra
 
 ![](@attachment/Clipboard_2020-05-07-07-55-59.png) 5:35
 
-Our `sayHi` method is object oriented. If it were to take an argument, that would be much more of a functional approach.
+Our `sayHi` method is object oriented. 
 
-So if we are in this use case, what we can do is we can bind it to Jenna object like so:
+If it were to take an argument, that would be much more of a functional approach.
 
-```
+What we can do is we can bind `sayHi`` to Jenna object as shown below. 
+
+```js
 const sayHi = person.sayHi.bind(jenna);
 ```
 
@@ -1651,9 +1663,9 @@ const sayHi = person.sayHi.bind(jenna);
 
 `bind` is a method that lives on all functions and it says change the `this` keyword to be equal to, in this example, a different object.
 
-You cuold also manually pass in a name like so:
+You could also manually pass in a name, as shown below. 
 
-```
+```js
 const sayHi = person.sayHi.bind({name:'Harry'});
 ```
 
@@ -1661,41 +1673,47 @@ If you refresh the page and call `sayHi()` you will see "hey Harry" returned.
 
 Let's look at another example. 
 
-stopped at 6:19
+`doccument.querySelector` and `document.querySelectorAll` are kind of hard to type. 
 
-`doccument.querySelector` and `document.querySelectorAll` are kind of hard to type. Let's do an example using that. 
+Let's do an example using that. 
 
-Let's say we wanted to make `$` a short hand for `document.querySelector` and $$ for `document.querySelectorAll`. You might think you could do something like this:
+Let's say we wanted to make `$` a short hand for `document.querySelector` and `$$` for `document.querySelectorAll`. 
 
-```
+You might think you could do something as shown below 👇
+
+```js
 //QS Example
 
 const $ = document.querySelector();
 ```
 
-Now if you refresh the page, open the dev tools console and type `$` you will see that it is the querySelector function. If you try typing in `document.querySelector` it will be the exact same thing. In fact, they are identical. 
+Now if you refresh the page, open the dev tools console and type `$` you will see that it is the `querySelector` function. 
+
+If you try typing in `document.querySelector` it will be the exact same thing. In fact, they are identical. 
 
 ![](@attachment/Clipboard_2020-05-07-18-17-28.png) 7:01
 
-Aside: sometiems you see that "[native code]" in the console. That means that is a function that has been implemented by the browser so we are not able to see how it works under the hood because it's implemented in whatever language it's written in. 
+_Aside: sometimes you see that "[native code]" in the console. That means that is a function that has been implemented by the browser so we are not able to see how it works under the hood because it's implemented in whatever language it's written in._
 
-Now if you wanted to actually select something, you might think you would be able to just do `$('p')`. However, if you try that you will see that we get an error "Illegal invocation". 
+Now if you wanted to actually select something, you might think you would be able to just do `$('p')`. However, if you try that you will see that we get an error complaining about "Illegal invocation". 
 
 ![](@attachment/Clipboard_2020-05-07-18-19-40.png) 7:41
 
-What is happening here? Somewhere under the hood in `document.querySelector` it needs to know where to look for the thing that you are selecting. 
+What is happening here? 
+
+Somewhere under the hood in `document.querySelector` it needs to know where to look for the thing that you are selecting. 
 
 Let's demonstrate the reason for that with an example. 
 
-```
+```html
 <div class="wrapper">
   <p>Hey im in a wrapper</p>
 </div>
 ```
 
-Now let's say we grabbed the wrapper and did the following:
+Now let's say we grabbed the wrapper and did the following 👇
 
-```
+```html
 const wrapper = document.querySelector('wrapper');
 const p = wrapper.querySelector('p');
 console.log(p);
@@ -1705,25 +1723,26 @@ console.log(p);
 
 As you can see, that works. We got it. 
 
-`querySelector` is a function and it needs to know what to look inside of for the selector. The reason it knows where to scope it to, either globally (the document) or in a subset of the DOM, which is the wrapper in our example, then it knows to look inside of the wrapper because it will look at what is left of the dot. 
+`querySelector` is a function and it needs to know what to look inside of for the selector. 
+
+The reason it knows where to scope it to, either globally (the document) or in a subset of the DOM, based on what is left of the dot. 
 
  So when we try to log `$('p')`, it doesn't work because there is nothing to the left of the dot. We have taken away the object that it was called against and as a result it is not bound to anything. 
 
  The way that we can fix that is we can call `bind()` on it and manually pass it reference to the thing we want it to be equal to. 
 
- ```
+ ```js
  //by calling bind against querySelector, we say that when the $ funciton is run, use `document` as the `this` value. 
  const $ = document.querySelector.bind(document);
  ```
 
  Now if you try doing `console.log($('p'))`, you will see that it works now because it has been bound to the function. 
 
+This piece of code, `document.querySelector.bind(document);` does not run the function, it return the function which you can then store in a variable, which in our example is `$`.
 
-This piece of code, `document.querySelector.bind(document);` does not run the function, it return the function which you can then store in a variable, which in our example is `$`, `
+You could also do that with `querySelectorAll`, as shown below 👇
 
-You could also do that with `querySelectorAll`, like so:
-
-```
+```js
 const lookFor = document.querySelectorAll.bind(document);
 console.log(lookFor('p'));
 ```
@@ -1732,13 +1751,13 @@ You would see that a NodeList is returned to us.
 
 ![](@attachment/Clipboard_2020-05-07-18-35-47.png) 10:28
 
-To reiterate: using `bind` will change the context of what `this` is eqaul to inside of a function or a method. 
+To reiterate: using `bind` will change the context of what `this` is equal to inside of a function or a method. 
 
 `bind` is also useful to prep a function that has arguments sort of "pre-loaded". 
 
 Let's demonstrate with an example. 
 
-```
+```js
 const bill = {
   total: 1000,
   calculate: function(taxRate){
@@ -1754,47 +1773,48 @@ Let's refresh the page to check if it works. You should see 1130 in the console.
 
 ![](@attachment/Clipboard_2020-05-07-18-40-24.png) 11:40
 
-If you wanted to take that function and store it in an external variable, you could do
+If you wanted to take that function and store it in an external variable, you could add the code below 👇
 
-```
+```js
 const calc = bill.calculate;
 ```
 
-If you tried to call `calc` and pass it 0.13, you would see NAN in the console. 
+If you tried to call `calc` and pass it 0.13, you would see `NaN` in the console. 
 
-```
+```js
 console.log(calc(0.13));
 ```
 
 ![](@attachment/Clipboard_2020-05-07-18-43-46.png) 11:53 
 
-Why? Because if we were to log `this` inside of the `calculate` method on our `bill` object, you would see that it is equal to the window.   
+Why? 
+
+Because if we were to log `this` inside of the `calculate` method on our `bill` object, you would see that it is equal to the window.   
 
 ![](@attachment/Clipboard_2020-05-07-18-44-42.png) 12:01
 
-The first time around it is equal to our bill object and the second time it was called it was equal to the window.
+The first time around it is equal to our `bill` object and the second time it was called it was equal to the window.
 
-That is because `calc` is not bound to anything. We cuold just bind it to the original `bill` and that would work: 
+That is because `calc` is not bound to anything. We could just bind it to the original `bill` and that would work.
 
-```
+```js
 const calc = bill.calculate.bind(bill);
 ```
 
-You could also pass it it's own bill like so: 
+You could also pass it it's own bill as shown below 👇
 
-
-```
+```js
 const calc = bill.calculate.bind({total:500});
 console.log(calc(0.13));
 ```
 
-In the next example we will demonstrate how `bind` can be used to "pre-load" functions with some arguments that need to be called. 
+In the next example, we will demonstrate how `bind` can be used to "pre-load" functions with some arguments that need to be called. 
 
 Wes likes to think of this as the "check-in online" of functions. What that means is when you bind something, you can pass it additional arguments that line up with the arguments of the function or method. 
 
-So if we wanted to pass the tax rate, we could do that in the arguments we pass to `bind` and not pass it when we call the `calc` function, as you see in the code below: 
+So if we wanted to pass the tax rate, we could do that in the arguments we pass to `bind` and not pass it when we call the `calc` function, as you see in the code below. 
 
-```
+```js
 const calc = bill.calculate.bind({total:500}, 0.06);
 console.log(calc());
 ```
@@ -1820,18 +1840,23 @@ They work the exact same as `bind` does with one difference: they will call the 
 ![](@attachment/Clipboard_2020-05-07-18-56-58.png) 14:37 
 
 ##### `call`
-Instead of returning, like you see happens above when we call `calc`, if we just duplicate the line of code where we are declaring `calc` and modify it like below, let's see what is returned..
 
-```
+Instead of returning, like you see happens above when we call `calc`, if we just duplicate the line of code where we are declaring `calc` and modify it like below, let's see what is returned.
+
+```js
 const total2 = bill.calculate.call({total:500}, 0.06);
 console.log(total2);
 ```
 
 You will see we have 530 returned to us. 
 
-What happened there?  `.bind` calls a function, which then needs to be called by itself. `call` does the same thing as `bind` but it will also run the function for you so you don't have to call it.
+What happened there?  
 
-If you need to bind a function and call it later, use bind. 
+`.bind` calls a function, which then needs to be called by itself. 
+
+`call` does the same thing as `bind` but it will also run the function for you so you don't have to call it.
+
+If you need to bind a function and call it later, use `bind`. 
 
 If you need to bind a function that you want to call immediately you can use `call`. 
 
@@ -1839,23 +1864,22 @@ If you need to bind a function that you want to call immediately you can use `ca
 
 ![](@attachment/Clipboard_2020-05-07-19-02-22.png) 15:38
 
->Note: While the syntax of this function is almost identical to that of call(), the fundamental difference is that call() accepts an argument list, while apply() accepts a single array of arguments.
+>Note: While the syntax of this function is almost identical to that of `call`, the fundamental difference is that `call` accepts an argument list, while `apply` accepts a single array of arguments.
 
-If you want to run one of the functions but you don't care what `this` is equal to, you can just pass null and then after you pass the additional arguments as an array. 
+If you want to run one of the functions but you don't care what `this` is equal to, you can just pass `null` and then after you pass the additional arguments as an array. 
 
-In our case, there is only one argument. 
+In our case, there is only 1 argument. 
 
-```
+```js
 const total3 = bill.calculate.apply({total:325}, [0.60]);
 console.log(total3);
 ```
 
 That is not very useful now that we have spread, because you could just spread into `call` but it's available if you need it. 
 
-Let's add one more argument to our `bill` object. 
+Let's add 1 more argument to our `bill` object. 
 
-
-```
+```js
 const bill = {
   total: 1000,
   calculate: function(taxRate){
@@ -1869,7 +1893,7 @@ const bill = {
 
 Now we can try running the function in the console. 
 
-```
+```js
 bill.describe('pizza', 'beer', 0.13);
 ```
  
@@ -1879,26 +1903,30 @@ As you can see the function works.
 
 Now if we wanted to run that with `call` and `apply` we could do the following.
 
-```
+```js
 const myMeal = bill.describe.call({total:342}, 'pizza','beer',0.13});
 console.log(myMeal);
 ```
 
 ![](@attachment/Clipboard_2020-05-07-19-10-48.png)
 
-Why do we pass an object as the first argument to `call`? Because that is what `this` will be equal to, and inside of `calculate` it looks for `this.total` so we need an object with a total property. 
+Why do we pass an object as the first argument to `call`? 
 
-The additional arguments are mealtype, drinktype and tax rate.
+Because that is what `this` will be equal to, and inside of `calculate` it looks for `this.total` so we need an object with a `total` property. 
 
-If you try running that, you will see that we get an error that "this.calculate is not a function". 
+The additional arguments are `mealType`, `drinkType` and `taxRate`.
+
+If you try running that, you will see that we get an error complaining that "this.calculate is not a function". 
 
 What is happening? 
 
 ![](@attachment/Clipboard_2020-05-07-19-13-28.png) 18:59
 
-We called `this.calculate` but we didn't pass it the `this` that we wanted. Let's go modify the `myMeal` declaration like so that it has access to the `calculate` function.
+We called `this.calculate` but we didn't pass it the `this` that we wanted. 
 
-```
+Let's go modify the `myMeal` declaration so that it has access to the `calculate` function.
+
+```js
 const myMeal = bill.describe.call(bill, 'pizza','beer',0.13});
 ```
 
@@ -1906,9 +1934,9 @@ const myMeal = bill.describe.call(bill, 'pizza','beer',0.13});
 
 Now it should be working for you.
 
-If you were to `apply` that instead, we would pass all the arguments as one argument. 
+If you were to `apply` that instead, we would pass all the arguments as 1 argument. 
 
-```
+```js
 const myMeal2 = bill.describe.apply(bill, ['pizza','beer',0.13]);
 console.log(myMeal2);
 ```
@@ -1916,28 +1944,4 @@ console.log(myMeal2);
 That wraps up `call`, `bind`, and `apply`. 
 
 When should you use them? When the `this`  value is different from what you have hoped. You won't always need it but it is helpful to know.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

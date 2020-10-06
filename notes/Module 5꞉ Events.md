@@ -104,6 +104,7 @@ butts.addEventListeners('click', handleClick);
 ``` 
 
 Rather than doing the following 👇
+
 ```js
 butts.addEventListeners('click', handleClick());
 ``` 
@@ -135,7 +136,7 @@ coolButton.addEventListener('click', handleClick);
 
 Now it doesn't matter which button you click, both of them are referring to that same function.
 
-If instead of re-using the `handleClick` function we wanted to create anonymous functions and pass it two both event listeners separately, that would still work,but if you thnk of scaling that up to a whole bunch of buttons, then you have to make sure you reference every one of the buttons which is not very **DRY** (**don't repeat yourself**). 
+If instead of re-using the `handleClick` function we wanted to create anonymous functions and pass it two both event listeners separately, that would still work,but if you think of scaling that up to a whole bunch of buttons, then you have to make sure you reference every one of the buttons which is not very **DRY** (**don't repeat yourself**). 
 
 So the first benefit is that it makes the code more **DRY**. 
 
@@ -174,7 +175,7 @@ If we had done an anonymous function, we couldn't have removed the click handler
 Even if you were to pass the exact same anonymous function to remove, like below 👇, it still would not work. 
 
 ```js
-butts.addEventLisetner('click', function(){
+butts.addEventListener('click', function(){
   console.log("I am an anon!");
 });
 butts.removeEventListener("click", function(){
@@ -229,7 +230,7 @@ Now, how can you listen for a click on all of them?
 
 It doesn't make sense to have to select all 10 of them and then have to attach an event listener 10 times. 
 
-That is actually what we are doing, but there is a much more efficent way. 
+That is actually what we are doing, but there is a much more efficient way. 
 
 First we need to select all the buttons. 
 
@@ -270,7 +271,7 @@ If you ever want to see what all of the different methods are that are available
 
 You will notice that `addEventListener` is not there. 
 
-```ja
+```js
 console.dir(butts);
 ```
 
@@ -282,7 +283,7 @@ We haven't learned about loops just yet, but we should be able to do this.
 
 ### `forEach`
 
-You may have noticed that in the `buyButtons` proptype, there was a method called `forEach`. That is going to allow us to loop over each of the items. 
+You may have noticed that in the `buyButtons` prototype, there was a method called `forEach`. That is going to allow us to loop over each of the items. 
 
 _Note: Wes often takes all the selectors are the top of the file rather than anywhere in the code. For this example, we are going to keep it within the middle of the file. Both methods work, putting it at the top is just a personal preference of Wes'._ 
 
@@ -401,7 +402,7 @@ _Refresher from earlier: parameters are placeholders._
 So we can add the following parameter, `event` to `handleBuyButtonClick()`, like so 👇
 
 ```js
-function handleBuyButtonClick(event ){
+function handleBuyButtonClick(event){
   console.log('You are buying it');
 }
 ```
@@ -456,7 +457,7 @@ That is very useful because we could do something like add a data attribute, suc
  That allows you to go into the `handleBuyButtonClick` function and add thefollowing code 👇
 
 ```js
- function handleBuyBUttonClick(event){
+ function handleBuyButtonClick(event){
   console.log('You are buying it!!');
   console.log(event.target.dataset);
 }
@@ -580,11 +581,11 @@ Meaning we clicked on the strong tag, but we also clicked on the button, and the
 
 ![](@attachment/Clipboard_2020-03-02-21-07-13.png) 11:14
 
-Athough we just clicked on the strong tag, the browser and operating system are also listening to that event. 
+Although we just clicked on the strong tag, the browser and operating system are also listening to that event. 
 
 The way you can prevent that is with a method on the event that is called `stopPropagation`.  
 
-Within `handleBuyButtonClick`m add the following `event.stopPropagation();`/ 
+Within `handleBuyButtonClick`, add the following `event.stopPropagation();`. 
 
 Now when you refresh the HTML page, if you click anywhere on the window, the window click event will fire, but if you click on the button, it will not. 
 
@@ -668,7 +669,7 @@ window.addEventListener(
 
 We will really quickly comment out the `{capture:true}` and refresh the HTML pages so we can see the order at which it happens. 
 
-Inside of `handleBuyButtonClick`, at the beginning of the function log "You clicked a button" and temporarily comment out `stopPropagtion()`. 
+Inside of `handleBuyButtonClick`, at the beginning of the function log "You clicked a button" and temporarily comment out `stopPropagation()`. 
 
 Now, if you click on the button, you will see that first it says "You clicked on a button" and then it says "YOU CLICKED THE WINDOW". 
 
@@ -694,7 +695,7 @@ Now if you click a button, you will see that the `handleBuyButtonClick()` will n
 
 ![](@attachment/Clipboard_2020-03-02-23-06-23.png) 19:10
 
-All of that is good to know, but the capture functionality does not come up very often in day to day development, but it is often an interview question about how the intracies of events work. 
+All of that is good to know, but the capture functionality does not come up very often in day to day development, but it is often an interview question about how the intricacies of events work. 
 
 Most of Wes' career has been spent listening to clicks on lower level elements and stopping the propagation from handlng when you click on the element so that things that are higher that are also listening for clicks do not also fire that specific thing. 
 
@@ -755,7 +756,7 @@ The properties we logged to the console tell us what we clicked, the type of eve
 
 That specifies whether the event handler has a `stopPropagation()` call within it. 
 
-If you modify the window event to include `event.stopPropagation()` and then console.logged `event.bubbles`, it would retun false. 
+If you modify the window event to include `event.stopPropagation()` and then console.logged `event.bubbles`, it would return false. 
 
 Let's go over one last thing. 
 
@@ -779,7 +780,7 @@ If you add the following, you will get an error in the console saying
 
 That is because we forgot to pass the event parameter. 
 
-Modify the code as shown below so we are passing the event as a paramter to the anonymous function.
+Modify the code as shown below so we are passing the event as a parameter to the anonymous function.
 
 ```js
 photoEl.addEventListener("mousemove", function(e) ...
@@ -888,7 +889,7 @@ When you click the link, you will see the event in the console for a split secon
 
 ![](@attachment/Clipboard_2020-03-03-17-13-53.png) 1:52
 
-_**Hepful Tip**: If you need to log something but you are being redirected and the console is being cleared, you can click the "cog" icon in the chrome dev tools and check on "preserve log" to not clear the console when you navigate to another page._
+_**Helpful Tip**: If you need to log something but you are being redirected and the console is being cleared, you can click the "cog" icon in the chrome dev tools and check on "preserve log" to not clear the console when you navigate to another page._
 
 So the default of a link is to change the page, however if you call `event.preventDefault()` within the event listener, it will prevent the default thing from happening. In this case, the link will not redirect us. 
 
@@ -983,7 +984,7 @@ Now if you put your name and email and click submit, you will see in the url the
 
 More often than not, you don't want to submit the form to the server but you often want to stop the form from submitting, grab those details with JS and continue.
 
-N_ote: When Wes is working with forms, he often gives the form inputs a default value so he doesn't have to keep entering the values everytime he wants to test it. You can do the same by modifying your email and name inputs to have attributes such as `<input type="text" id="name" name="name" value="Wes Bos">`._
+N_ote: When Wes is working with forms, he often gives the form inputs a default value so he doesn't have to keep entering the values every time he wants to test it. You can do the same by modifying your email and name inputs to have attributes such as `<input type="text" id="name" name="name" value="Wes Bos">`._
 
 Now when you submit the form, nothing is happening, you just see the event logged.
 
@@ -1137,7 +1138,7 @@ There are some more events on form elements that we will get into in the future 
 
 ## 32 - Events - Accessibility Gotchas and Keyboard Codes
 
-Making a website accesssible means that you are making it usable to everyone and anyone, regardless of what disability they may have, or what input device they are using, or what situation they are currently in. 
+Making a website accessible means that you are making it usable to everyone and anyone, regardless of what disability they may have, or what input device they are using, or what situation they are currently in. 
 
 If HTML is marked up correctly, it will be accessible. 
 
@@ -1145,17 +1146,17 @@ However, what often happens is Javascript developers will often add code that on
 
 In this video, we will cover the common pitfalls that happen in Javascript. 
 
-Most accesibility goof-ups happen not because someone is purposely trying to prevent a certain type of user from accessible the website. 
+Most accessibility goof-ups happen not because someone is purposely trying to prevent a certain type of user from accessible the website. 
 
 They are typically accidental and the developer just did not know what to look for or check to ensure it's still accessible. 
 
 ### Difference between Buttons and Links
 
-The difference between buttons and link is a big accessiblity issue. 
+The difference between buttons and link is a big accessibility issue. 
 
 Buttons are meant to be used for actions that happen inside of an application. 
 
-Links on the otherhand are used to change the page. 
+Links on the other hand are used to change the page. 
 
 Do not mix those up. Links are not meant to be used where buttons are. 
 
@@ -1173,7 +1174,7 @@ That is a good use case for a button (an action within your application or websi
 
 It's still fine to prevent default on a specific link. 
 
-For example, on twitter, if you try to click "tweets and replies" while not logged in, you will see a modal popup sayiing "You are not logged in". 
+For example, on twitter, if you try to click "tweets and replies" while not logged in, you will see a modal popup saying "You are not logged in". 
 
 ![](@attachment/Clipboard_2020-03-09-18-49-21.png) 2:35
 
@@ -1202,7 +1203,7 @@ photo.addEventListener("click", function() {
 
 There are plenty of valid use cases for clicking on a photo. 
 
-For examplem maybe it will open up a larger version of that photo, or you want to draw on the photo or zoom it in. 
+For example, maybe it will open up a larger version of that photo, or you want to draw on the photo or zoom it in. 
 
 If you refresh the HTML page and click on the photo, you will see "You clicked the photo" logged every time you click it. 
 
@@ -1216,7 +1217,7 @@ An easy solution is giving the element the following attribute: `role="button"`.
 
 If you mean for something to be a button that is not a button tag, such as a div, if you mean for it to be used like a button, you should add the role attribute like so 👇
 
-```js
+```html
 <div role="button" tabindex="0"> click me </div>
 ```
 
@@ -1289,9 +1290,4 @@ Now if you try tabbing and then pressing enter when on the image, you will see "
 
 Accessibility is something that people tend to forget about, but it only takes about 10 minutes of work to ensure it's accessible. 
 
-
 ---
-
-Î
-
-

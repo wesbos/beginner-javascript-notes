@@ -117,7 +117,6 @@ Let's get rid of the `<script>sayHi();</script>`  code in `scope.html`.
 Remove everything within `scope.js` and then add  
 ```js
 const age = 100;
-
 ```
 
 Create a function `go()`, and the following logs 👇
@@ -203,8 +202,6 @@ You can name variables the same thing, if they are not in the same scope.
 
 However, it's not a good idea because if you name a variable something that is the same as in another scope, you limit yourself to being able to access that. 
 
-
-
 ```js
 const age = 100;
 function go(){
@@ -271,7 +268,7 @@ It doesn't work, we get the same error.
 
 ![](@attachment/Clipboard_2020-02-03-20-22-53.png)
 
-What is hapepning there is whenever you have a set of curly brackets like in the if statement above, that is what is referred to as a **block**. _(Blocks will be showing up in most places, the most common is probably an if statement. We will have lots more examples throughout the course.)_
+What is happening there is whenever you have a set of curly brackets like in the if statement above, that is what is referred to as a **block**. _(Blocks will be showing up in most places, the most common is probably an if statement. We will have lots more examples throughout the course.)_
 
 You can think of those brackets are gates. Those gates keep variables in. 
 
@@ -414,7 +411,7 @@ When we call the `logDog()` function, is it going to log Sunny or Snickers?
 
 You may think it will log Sunny because we declare the dog in the function scope, so when the function runs, shouldn't it look in it's own scope for that? 
 
-Or you might think it may log Snickers becaue the function is declared within a `dog` variable inside of it so it will look up for that variable. 
+Or you might think it may log Snickers because the function is declared within a `dog` variable inside of it so it will look up for that variable. 
 
 What does it log? Snickers! 
 
@@ -454,7 +451,7 @@ go();
 Now that console will log "Rufus". 
 Why? 
 
-Because when a function takes in an argument, it will make local variables inside of that function named whatever you named the parameter, and then that is availble to them. 
+Because when a function takes in an argument, it will make local variables inside of that function named whatever you named the parameter, and then that is available to them. 
 
 It is the same as doing the following 👇
 
@@ -512,7 +509,7 @@ If you were to write `sayHi('wes')` in the console, it will return WES.
 
 ![](@attachment/Clipboard_2020-02-03-21-10-13.png)
 
-However if you try to call the `yell` function futside of `sayHi()`, as shown below, it will throw an error 👇
+However if you try to call the `yell` function outside of `sayHi()`, as shown below, it will throw an error 👇
 
 ```js
 function sayHi(name){
@@ -549,7 +546,7 @@ There are two things in javascript that are hoisted:
 
 ### Hoisting Function Declarations
 
-We will focus on function delcarations first. 
+We will focus on function declarations first. 
 
 Make a `hoisting.html` file in the `/playgrounds` directory and give it the base html. 
 
@@ -659,7 +656,7 @@ The value is undefined.
 
 ![](@attachment/Clipboard_2020-02-04-13-23-59.png)
 
-If you try to log another varaible that does not exist, you will get an error 👇
+If you try to log another variable that does not exist, you will get an error 👇
 
 ![](@attachment/Clipboard_2020-02-04-13-24-16.png)
 
@@ -722,7 +719,7 @@ Open up a set of script tags. Our examples will go within the script tags, like 
 
 A **closure** is the ability to access a parent level scope from a child scope, even after the parent function has been terminated. 
 
-Normallly, Wes doesn't like examples that are not real world but since this is a tough concept, we will start with a simple example. 
+Normally, Wes doesn't like examples that are not real world but since this is a tough concept, we will start with a simple example. 
 
 We are going to make a function inside of a function, called `inner` and `outer` to illustrate the concept and then we will get into more fun examples. 
 
@@ -865,17 +862,17 @@ If you try that code, you will see that they both work.
 
 ![](@attachment/Clipboard_2020-02-05-19-14-46.png)
 
-What you can do is stick a function into a variable, and then at a later point in time, you can have access to that function. A closure comes into play because you can access the function even though the outer funciton is done. 
+What you can do is stick a function into a variable, and then at a later point in time, you can have access to that function. A closure comes into play because you can access the function even though the outer function is done. 
 
 We learned in scoping that when a function is done,  anytime there are scoped variables that aren't returned from the function, they are not accessible. 
 
 Now we get this weird thing where when we run the function outside of it, it's still able to access it. That is what is referred to as a **closure**. 
 
-Javascript is able to create functions inside of functions, and it can still reach outside to the parent scope, and even though the oute`r function is done running, it will still maintain that variable in memory so that we can then access it at a later time. 
+Javascript is able to create functions inside of functions, and it can still reach outside to the parent scope, and even though the outer function is done running, it will still maintain that variable in memory so that we can then access it at a later time. 
 
 The variable is not **cleaned up** or "**garbage collected**" which is a term that is often used. 
 
-Why would that be helfpul? It looks very confusing. 
+Why would that be helpful? It looks very confusing. 
 
 ### Examples of Closures
 
@@ -962,7 +959,7 @@ function createGame(gameName){
 const hockeyGame = createGame('Hockey');
 ```
 
-_(Note: if you forget to add the `return` keyword that is infront of the `win()` function, when you try to run `hockeyGame()` in the console, it will throw an error saying `hockeyGame is not a function`.)_
+_(Note: if you forget to add the `return` keyword that is in front of the `win()` function, when you try to run `hockeyGame()` in the console, it will throw an error saying `hockeyGame is not a function`.)_
 
 Now, whenever we run the hockey game function, a message will be logged in the console showing the incrementing score. 
 
@@ -997,7 +994,7 @@ Currently there is no way for us to access `score`.
 If you try to access it in the console, you will get an error like the following
 > score is not defined
 
-There is no way for us to access that unless we were to explictly return that variable or as we did in this example, by putting it into a string. 
+There is no way for us to access that unless we were to explicitly return that variable or as we did in this example, by putting it into a string. 
 
 To recap:
 

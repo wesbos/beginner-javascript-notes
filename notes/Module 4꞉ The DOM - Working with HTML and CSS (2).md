@@ -1680,13 +1680,13 @@ If you have reference to that element in javascript, and you've created it in yo
 
 ## 28 - The DOM - CARDIO
   
-This video will all be "cardio" which is what Wes likes to call exercises that are all realted to one another. 
+This video will all be "cardio" which is what Wes likes to call exercises that are all related to one another. 
 
 The purpose of these exercises is to practice the material we have learned by putting yourself through the exercises and hopefully improving. 
 
 We want to nail down the fundamentals before we start building real stuff with interfaces etc. 
 
-What you should do now is pause the video and go through all the excercises in the `DOM-CARDIO.js` file and try to do as much as you can. 
+What you should do now is pause the video and go through all the exercises in the `DOM-CARDIO.js` file and try to do as much as you can. 
 
 There is no right answer, there is a bunch of different ways that you could solve it. 
 
@@ -1694,9 +1694,9 @@ Then come back and watch the video to see how Wes would approach it.
 
 WHEN YOU ARE READY...
 
-The `DOM-Cardio.html` file has no HTML in the body at all, and `DOM-Cardio.js` is just a blank javascript file with comments explaining the different exercises. 
+The `DOM-Cardio.html` file has no HTML in the body at all, and `DOM-Cardio.js` is just a blank JavaScript file with comments explaining the different exercises. 
 
-The first one is to create a div, then add a class of rrapper to it and then put it in the body.
+The first one is to create a div, then add a class of wrapper to it and then put it in the body.
 
 Start by creating a div 👇
 
@@ -1704,11 +1704,14 @@ Start by creating a div 👇
 const div = document.createElement('div');
 ```
 Add a class of `wrapper` to it.👇
+
 ```js
 div.classList.add('wrapper');
 ``` 
+
 Then, append it to the body 👇
-```
+
+```js
 document.body.appendChild(div);
 ```
 
@@ -1729,7 +1732,7 @@ const ul = `
 
 To add the 3 list items with the words "one","two" and "three", modify the `ul` variable declaration, as shown below 👇
 
- ```js
+```js
 const ul = `
 <ul>
   <li>one</li>
@@ -1794,11 +1797,12 @@ We do not need to call `insertAdjacent()` because it will go to the bottom of it
 ```js
 div.appendChild(img);
 ```
+
 ![](@attachment/Clipboard_2020-03-01-12-01-58.png) 3:35
 
-You may notice that everytime you refresh the image, the image is sort of jumping. 
+You may notice that every time you refresh the image, the image is sort of jumping. 
 
-If you add `img.height = 250;` to the javascript code as well and then refresh, it should not jump as much anymore. 
+If you add `img.height = 250;` to the JavaScript code as well and then refresh, it should not jump as much anymore. 
 
 That is because if you give it a width and height attribute, it will maintain it's spot while it loads the image, which is great. 
 
@@ -1813,7 +1817,7 @@ const myHTML = `
 `;
 ```
 
-Then you need to insertr the div above the unordered list that we created earlier.
+Then you need to insert the div above the unordered list that we created earlier.
 
 To do this, grab the `ul` which you may still have reference to. 
 
@@ -1955,7 +1959,7 @@ The function should return HTML that looks like the following 👇
 ```
 
 
-So first, create the function that takes in those three parameters:
+So first, create the function that takes in those 3 parameters:
 
 ```js
 function generatePlayerCard(name, age, height){
@@ -2012,7 +2016,7 @@ It works!
 
 The text doesn't make the most sense but that is okay. 
 
-_(If you want an extra challenge, you could take the height value that was passed in centimeteres and if you're from America, you could convert it to feet and inches. You could write a little function that takes in a parameter of centimeters, converts it to feet and inches and returns the value.)_
+_(If you want an extra challenge, you could take the height value that was passed in centimeters and if you're from America, you could convert it to feet and inches. You could write a little function that takes in a parameter of centimeters, converts it to feet and inches and returns the value.)_
 
 Next step in the exercise is to make a new `div` and give it a class of `cards`, like so 👇
 
@@ -2027,7 +2031,7 @@ There are a few ways you could do this.
 
 Because the function returns a string, you could loop over it 4 times and create 4 cards of HTML. 
 
-Let's demonstrate a few differnt ways to do this. 
+Let's demonstrate a few different ways to do this. 
 
 Declare a variable and have it generate the first card's HTML, like so 👇
 
@@ -2037,7 +2041,7 @@ console.log(cardsHTML);
 ```
 
 If you refresh the HTML page, you will see the following error 👇
->Uncaught TypeError: Failed to execute `createElement` on `Document`: 1 argument required, but only 0 persent.
+>Uncaught TypeError: Failed to execute `createElement` on `Document`: 1 argument required, but only 0 present.
 >  at DOM-Cardio.js:68
 
 ![](@attachment/Clipboard_2020-03-01-13-29-03.png)
@@ -2059,7 +2063,7 @@ But how do we keep tacking onto that?
 We could change `const cardsHTML` to `let cardsHTML` and then do something like the following 👇
 
 ```js
-const cardsHTML = gerneratePlayerCards('wes', 12, 150);
+const cardsHTML = generatePlayerCards('wes', 12, 150);
 cardsHTML = cardsHTML + generatePlayerCard('scott', 12, 150);
 cardsHTML = cardsHTML + generatePlayerCard('kait', 12, 150);
 cardsHTML = cardsHTML + generatePlayerCard('snickers', 12, 150);
@@ -2069,7 +2073,7 @@ console.log(cardsHTML);
 _NOTE: if you save the code above, Prettier might re-format that to use the shorthand code below which is fine because the 2 ways of typing it out are equivalent._
 
 ```js
-const cardsHTML = gerneratePlayerCards("wes", 12, 150);
+const cardsHTML = generatePlayerCards("wes", 12, 150);
 cardsHTML += generatePlayerCard("scott", 12, 150);
 cardsHTML += generatePlayerCard("kait", 12, 150);
 cardsHTML += generatePlayerCard("snickers", 12, 150);
@@ -2088,7 +2092,7 @@ Another way is you could take the `cards` div and call the following method on i
 cards.insertAdjacentHTML('afterbegin', generatePlayerCard("snickers", 12, 150));
 ```
 
-And then you could just call that multiple times, but passing different arguments to generatePlayerCard. 
+And then you could just call that multiple times, but passing different arguments to `generatePlayerCards`. 
 
 Let's stick with the method you already have. 
 

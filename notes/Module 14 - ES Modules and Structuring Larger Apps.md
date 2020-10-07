@@ -265,7 +265,7 @@ This first one is the CORS issue again. It is giving us trouble because you cann
 
 We cannot use a Parcel server because Parcel also handles modules for us and Wes is trying to show us how they work without using a bundler. We just need a very simple server up and running.
 
-If you know how to run a server to serve us these files, feel free to skip ahead. (to 10:41) [ANJA FIND WHERE THIS IS]
+If you know how to run a server to serve us these files, feel free to skip ahead.=
 
 There are a couple of different ways to do this.
 
@@ -681,7 +681,7 @@ It's important to know that you can import modules into any other modules, it's 
 
 Let's try something.
 
-Let's take the three named exports (`dog`, `food` and `eat`), and import them into `scripts.js` by commenting out our existing import of `wes.js` and replacing it with `import * as everything` and then logging the value of `everythign`.
+Let's take the three named exports (`dog`, `food` and `eat`), and import them into `scripts.js` by commenting out our existing import of `wes.js` and replacing it with `import * as everything` and then logging the value of `everything`.
 
 ```js
 import first, { returnHi as sayHi, last, middle } from "./utils.js";
@@ -870,7 +870,7 @@ export async function handleButtonClick(event) {
 }
 ```
 
-When the page refreshs, you will see that `currencies.js` is no longer loaded in the network tab until you click the button.
+When the page refreshes, you will see that `currencies.js` is no longer loaded in the network tab until you click the button.
 
 ![](@attachment/Clipboard_2020-05-28-06-33-44.png) 30:15
 
@@ -937,7 +937,7 @@ Duplicate that folder within the `/exercises` root and rename it to `79 - Curren
 
 Open `index.html` and add a `type="module"` to the script tag.
 
-`money.js` will be our javascript entry pointt.
+`money.js` will be our javascript entry point.
 
 Before we start refactoring, let's take a look at the code we are working with. 👇
 
@@ -1122,7 +1122,7 @@ export async function convert(amount, from, to) {
   // first check if we even have the rates to convert from that currency
   if (!ratesByBase[from]) {
     console.log(
-      `Oh no, we dont have ${from} to convert to ${to}. So gets go get it!`
+      `Oh no, we don't have ${from} to convert to ${to}. So gets go get it!`
     );
     const rates = await fetchRates(from);
     console.log(rates);
@@ -1226,7 +1226,7 @@ That is because it is a default export, not a named export, so it doesn't need t
 
 Modify it like so 👇
 
-```
+```js
 import currencies from './currencies.js';
 ```
 
@@ -1798,7 +1798,7 @@ The next error is complaining that loader is not defined within `handlers.js`.
 
 Earlier we modified the `fetchJoke` function to accept a reference to the loader, but now we are calling it from a separate file.
 
-How do we pass it? We can pass it as an argument to `handleclick` like so 👇
+How do we pass it? We can pass it as an argument to `handleClick` like so 👇
 
 ```js
 //jokes.js
@@ -2024,7 +2024,7 @@ If you don't have a package.json, you can get one by typing `npm init`. We have 
 
 ![](@attachment/Clipboard_2020-05-29-21-49-05.png) 4:18
 
-You will be prompted to answer a bunch of questions, starting with the name of the package, which we will call `datadjokes`, and then it asks you a bunch of other questions. You can just hit enter to select the default answer for each question.
+You will be prompted to answer a bunch of questions, starting with the name of the package, which we will call `dadjokes`, and then it asks you a bunch of other questions. You can just hit enter to select the default answer for each question.
 
 ![](@attachment/Clipboard_2020-05-29-21-50-11.png) 4:37
 
@@ -2067,7 +2067,7 @@ That will add Parcel as a **dev dependency** in our `package.json` file.
 
 Dev dependencies are things that are not needed for the application to run, but they are needed in order for someone to work on the application. For example React or Vue is a dependency, and a dev dependency would be the tooling needed in order to work on React or Vue projects.
 
-After a couple of minutes it will finish installing and it will be listed under `devDepdencies`.
+After a couple of minutes it will finish installing and it will be listed under `devDependencies`.
 
 ```json
 {
@@ -2955,7 +2955,7 @@ Let's say you have an object on your page somewhere and you need to be able to d
 
 Prices are another big one. Wes runs into this all the time with his courses. People will building a client-side Javascript checkout and they will put the price in a button, for example. If someone is able to change the price of that button or change the code, then they will be able to change the price to whatever they want.
 
-When you are working with prices, we calculate the price on the client0side so we can show the total of the person's cart. However, you should also recalculate the total on the server where it cannot be tampered with.
+When you are working with prices, we calculate the price on the client-side so we can show the total of the person's cart. However, you should also recalculate the total on the server where it cannot be tampered with.
 
 Anything that is sensitive must be recalculated or done on the server, where it is in a secure environment.
 

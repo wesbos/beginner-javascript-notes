@@ -13,7 +13,7 @@ If you know what **BEDMAS** is, skip this video.
 
 ![](@attachment/Clipboard_2020-03-10-07-05-06.png) 00:43
 
-This video will be covering BEDMAS and the order of operations in which Javascript runs. It is exactly the same as how mathimeticans use it. 
+This video will be covering BEDMAS and the order of operations in which Javascript runs. It is exactly the same as how mathematicians use it. 
 
 The order in which things run is that things is brackets go first, then we do exponents (which is sort of like the power of). 
 
@@ -86,11 +86,11 @@ if( 10 > 2){
 }
 ```
 
-The code above is sayiing if 10 is greater than 2, log "Yep" to the console. 
+The code above is saying if 10 is greater than 2, log "Yep" to the console. 
 
 The entire if statement is `if(10>2){console.log('Yep`);}`  
 
-The code within the paranthesis following the if statement, `(10 > 2)`, is what is referred to as the **condition**.
+The code within the parenthesis following the if statement, `(10 > 2)`, is what is referred to as the **condition**.
 
 The condition is going to be evaluated to true or false. By evaluated, what we mean is that if you were to run that in the console (`10 > 2`) it would evaluate to true or false. 
 
@@ -164,7 +164,7 @@ Notice that the `else` statement does not have parenthesis `()` like the if and 
 
 That is because else never has a condition. 
 
-It is a "catch-all" which runs if none of the conditions are true. It's similar to the default that we learne dabout in the switch statement. 
+It is a "catch-all" which runs if none of the conditions are true. It's similar to the default that we learned about in the switch statement. 
 
 Take the following code 👇
 
@@ -259,10 +259,9 @@ It means to return a value from a function, and stop that function from running.
 
 Whenever you return from a function, even if it's inside of an if statement, that function will stop running and the code that was is within the else will never be reached. So rather than having an if else, we can have an if and then the else is assumed by putting it after the if condition. This is just personal preference, both approaches are completely valid. 
 
-There is so many different ways we could have coded this functon. 
+There is so many different ways we could have coded this function. 
 
 This is also a valid approach 👇
-
 
 ```js
 function slugify(sentence, lowercase) {
@@ -361,10 +360,10 @@ Why?
 
 Because the greater than and less than operators only ever deal with numbers. If you accidentally use a string, it will turn the string into a number at first but you shouldn't be doing that. 
 
-Wes always tells people to think of the greater than and less than sign as a hungry aligator. That is how he remembers it. 
+Wes always tells people to think of the greater than and less than sign as a hungry alligator. That is how he remembers it. 
 
-Is the hungry aligator pointed to the largest number? Then that is true. 
-However, if the hungry aligator is pointing to the smaller number than it's false. 
+Is the hungry alligator pointed to the largest number? Then that is true. 
+However, if the hungry alligator is pointing to the smaller number than it's false. 
 
 Additionally there are "and" and "or" operators. 
 
@@ -402,7 +401,7 @@ if(name === 'scott' || (name === 'wes' && last === 'bos')){
 }
 ```
 
-What this code will do is it will check the paranthesis. Name must equal "scott" and last name must equal "bos" for the statement to return true. 
+What this code will do is it will check the parenthesis. Name must equal "scott" and last name must equal "bos" for the statement to return true. 
 
 ![](@attachment/Clipboard_2020-03-12-07-50-13.png) 15:29
 
@@ -421,7 +420,7 @@ If you had a string like `'awesome'` and you wanted to check if it contains the 
 ```js
 'awesome'.includes('scott')`
 ```
-You could also run the code above 👆which would return false. 
+You could also run the code above 👆 which would return false. 
 
 You can use that directly in an if statement like so 👇 
 
@@ -434,7 +433,7 @@ if('awesome'.includes(name)){
 
 ![](@attachment/Clipboard_2020-08-06-07-30-39.png)
 
-Pretty often you have methods that return true or false and often you can use those directly unside. 
+Pretty often you have methods that return true or false and often you can use those directly inside an if statement. 
 
 You can also put them in their own variable to make it easier to read like so 👇
 
@@ -546,7 +545,7 @@ This is because 0 is the only number that is falsy. All other numbers will be tr
 
 If you make `score` an undefined variable by modifying the code to be `let score;`, you will see that it says no score yet, meaning it's a falsy value. 
 
-_Note: We needed to modify the score varibale from a const to a let to make it undefined. Javascript does not support undefined const variables._
+_Note: We needed to modify the score variable from a const to a let to make it undefined. Javascript does not support undefined const variables._
 
 `null` is also a falsy value. 
 
@@ -607,7 +606,7 @@ If you want to check if there is anything in the object, you can use something c
 Object.keys({}).length
 ```
 
-When working with Javascript you often see if statments with things that you might not think are true or false, but that is simply because we are checking for it's existence (whether it is there or not). 
+When working with Javascript you often see if statements with things that you might not think are true or false, but that is simply because we are checking for it's existence (whether it is there or not). 
 
 MNow let's make an array with all of these different values and types and loop over them and show you with an if statement whether they are truthy or falsy.  
 
@@ -651,7 +650,7 @@ else {
 
 So far, we have learned that if you only need to use bang operator `!`, that checks for the opposite. 
 
-For exammple, if you wanted to check if someone is not cool, you might think you have to do the following 👇
+For example, if you wanted to check if someone is not cool, you might think you have to do the following 👇
 
 ```js
 const isCool = true;
@@ -679,11 +678,11 @@ So if `isCool = true`, then `!isCool` would evaluate to false.
 
 In addition to flipping the boolean to the opposite, it also does coercion. 
 
-**Coercion** is when you force something that is of a different type, such as a string or number, or an object or anything like that and force it into another type. For example when we cooerce something into a frue boolean. 
+**Coercion** is when you force something that is of a different type, such as a string or number, or an object or anything like that and force it into another type. For example when we coerce something into a true boolean. 
 
 Let's do an example. 
 
-If you type `name` into the console, it should return "wes" (we assigned that variable in earlier excercises in this javascript file).
+If you type `name` into the console, it should return "wes" (we assigned that variable in earlier exercises in this javascript file).
 
 If you type `!name` in the console, it should return false. 
 
@@ -691,7 +690,7 @@ You will notice that `!name` took the string and turned it into a boolean by put
 
 So when you use the bang, it will coerce the value into a real boolean. 
 
-That is sort of the opposite because if we want to check if there is a name, if we want to take the fact that there is a name and make it into a real boolean, we can put double bang infront of it `!!` and that will coerce it into a Boolean of it exists or not. So `!!name` would return true. 
+That is sort of the opposite because if we want to check if there is a name, if we want to take the fact that there is a name and make it into a real boolean, we can put double bang in front of it `!!` and that will coerce it into a Boolean of it exists or not. So `!!name` would return true. 
 
 Here is another example:
 
@@ -703,11 +702,11 @@ const middle ="";
 
 ![](@attachment/Clipboard_2020-03-13-09-27-49.png) 2:45
 
-When you put 1 bang infront of it, it gave us the opposite which was true. 
+When you put 1 bang inmfront of it, it gave us the opposite which was true. 
 
 If you put 2 bangs, it gives you false. 
 
-If you ever see the `!` and `!!` being used in the if statments, that is because someone is taking the fact that you have a truthy or falsy value, and are coercing it into a true boolean. 
+If you ever see the `!` and `!!` being used in the if statements, that is because someone is taking the fact that you have a truthy or falsy value, and are coercing it into a true boolean. 
 
 Wes used to use that quite a bit, but now that he has a really good understanding of truthy and falsy values, he doesn't use this coercion method much. 
 
@@ -1004,7 +1003,7 @@ Now within `handleKeyDown`, when they move right, decrease the `x` and vice vers
 
 The way a switch works is you write `switch` and then you pass it the thing you are testing, so switch on the `event.key`. 
 
-Then there is a block which will contain a whole bunch of different cases. This is a bit easier to look at than an if statment in some cases. 
+Then there is a block which will contain a whole bunch of different cases. This is a bit easier to look at than an if statement in some cases. 
 
 The only downside is that they have to be clearly defined cases. There is no case like greater than 20, that is an if statement. 
 
@@ -1021,7 +1020,7 @@ switch(event.key){
 }
 ```
 
-Note: You might notice that prettier isn't autofixing on save. That is because we are writing Javascript within an HTML file. 
+Note: You might notice that prettier isn't auto-fixing on save. That is because we are writing Javascript within an HTML file. 
 
 For each of the cases above, we need to add a `break`. 
 
@@ -1206,7 +1205,7 @@ To flip the turtle, go into the CSS transform and `rotateY` to flip the turtle.
 
 In the CSS, add another variable called `--rotate: 0`. 
 
-Modfy the transform like so 👇
+Modify the transform like so 👇
 
 ```css
 --rotate: 0;
@@ -1300,17 +1299,17 @@ Now when you want to run something, you simply type `setTimeout`, which takes a 
 
 Where did `setTimeout()` come from anyway? Is that just a function that is available to us? 
 
-The answer is yes. It is a globally scoped method. It is actually `window.setTimeout()` but as you will learn, you don't need to type window. when you are accessingly globally available APIs. 
+The answer is yes. It is a globally scoped method. It is actually `window.setTimeout()` but as you will learn, you don't need to type window. when you are accessing globally available APIs. 
 
 Wes recommends using `setTimeout()` and that is because you often want to run the same code you ran in the browser in NodeJS and NodeJS does not have a concept of a window. It does have **timeout** and **interval** however. 
 
 `setTimeout` takes 2 things: 
 - a callback
--  the number of miliseconds after which to run the callback
+-  the number of milliseconds after which to run the callback
 
-Often what you see is someone give `setTImeout` an anonymous function as the first argument, and then the number of miliseconds that it should wait before running the anonymous function. 
+Often what you see is someone give `setTimeout` an anonymous function as the first argument, and then the number of milliseconds that it should wait before running the anonymous function. 
 
-For example, if you put 500 miliseconds, the function will run half a second after the Javascript has started. 
+For example, if you put 500 milliseconds, the function will run half a second after the Javascript has started. 
 
 Just in like `addEventListener`, you can either pass in an anonymous function, or you can write a function outside of it. 
 
@@ -1327,7 +1326,7 @@ setTimeout(buzzer, 500);
 
 Now if you refresh the HTML page, you should see "ENNNNGG" in the console after half a second. 
 
-Let's try something to demonstate 1 interesting thing about timers. 
+Let's try something to demonstrate 1 interesting thing about timers. 
 
 Modify the code like so 👇
 
@@ -1349,17 +1348,17 @@ Let's refresh the HTML page and see.
 
 So what is happening there? 
 
-The Javascript will run, it will log "starting", set off the timer, queue it up which is basically saying "Ok I have this function called buzzer which I am going to run after 500 miliseconds, but I've got stuff to do so I'm going to keep going", so it moves on to the next line of code which is logging "finishing". 
+The Javascript will run, it will log "starting", set off the timer, queue it up which is basically saying "Ok I have this function called buzzer which I am going to run after 500 milliseconds, but I've got stuff to do so I'm going to keep going", so it moves on to the next line of code which is logging "finishing". 
 
 That is what is referred to as the **asynchronous** nature of JavaScript. 
 
-As soon as it queues up the buzzer to be run after 500 miliseconds, it will go off onto the next line of code, and only come back to buzzer when it's time. 
+As soon as it queues up the buzzer to be run after 500 milliseconds, it will go off onto the next line of code, and only come back to buzzer when it's time. 
 
 That is why it is called a callback. Because Javascript will come back and call it at a later point in time. 
 
-So that is good to know that even if you are trying to wait for 500 miliseconds, the rest of Javascript will keep on running. 
+So that is good to know that even if you are trying to wait for 500 milliseconds, the rest of Javascript will keep on running. 
 
-Now, when we get into promises and async await, Wes will show you us how to actually do that.  It is a pretty common thing to want to wait a couple of miliseconds before doing something. 
+Now, when we get into promises and async await, Wes will show you us how to actually do that.  It is a pretty common thing to want to wait a couple of milliseconds before doing something. 
 
 ### Intervals 
 
@@ -1369,7 +1368,7 @@ You write `setInterval()` and then it takes 2 arguments:
 - a reference to a function like buzzer
 - how often you'd like to run it
 
-To run `buzzer` every 100 miliseconds you would write the following 👇
+To run `buzzer` every 100 milliseconds you would write the following 👇
 
 ```js
 setInterval(buzzer, 100);
@@ -1377,7 +1376,7 @@ setInterval(buzzer, 100);
 
 ![](@attachment/Clipboard_2020-03-31-18-30-38.png) 4:05
 
-That will result in the interval running every 100 miliseconds.
+That will result in the interval running every 100 milliseconds.
 
 There is one gotcha with intervals. 
 
@@ -1571,7 +1570,7 @@ There is no other way to clear the timer other than having a saved reference to 
 
 The intervals work exactly the same way. 
 
-Create an interval that logs the poop emoji 💩 and hehehe every 10 miliseconds like so 👇
+Create an interval that logs the poop emoji 💩 and hehehe every 10 milliseconds like so 👇
 
 ```js
 setInterval(function() {
@@ -1595,7 +1594,7 @@ const poopInterval = setInterval(function() {
 
 If you refresh the page and open the console, you can type into the console `clearInterval(poopInterval)` and that should stop the interval from running. 
 
-One thing Wes often likes to do is run the interval every 100 miliseconds, but after 3 seconds you want to stop it entirely. 
+One thing Wes often likes to do is run the interval every 100 milliseconds, but after 3 seconds you want to stop it entirely. 
 
 If you wanted to clear that after five seconds, you could simply make a `setTimeout` that you pass an anonymous function that called `clearInterval`(`poopInterval`) after 3 seconds like so 👇
 

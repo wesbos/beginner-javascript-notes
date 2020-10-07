@@ -145,7 +145,7 @@ const canvas = document.querySelector('#etch-a-sketch');
 
 Next you need to grab the context. 
 
-The canvas is the elementm and the place where we do our drawing is called the context, where we will be drawing our cirlces and everything too. 
+The canvas is the elements and the place where we do our drawing is called the context, where we will be drawing our circles and everything too. 
 
 You get the context like so 👇
 
@@ -198,15 +198,15 @@ This is our context object.
 
 Inside are all these different properties that you can set or get from them, including what color the fill will be, the stroke will be, etc. 
 
-Next you have to put the drawer somewhere, meaning you have to put the dot somewhere becuase that will be the starting point of hte etch-a sketch.
+Next you have to put the drawer somewhere, meaning you have to put the dot somewhere because that will be the starting point of hte etch-a sketch.
 
 If you load the finished project in an HTML page and refresh the page, each time it loads, you will see that the dot is randomly places. 
 
-First let's work on placing the dot, and then we will randomie it. 
+First let's work on placing the dot, and then we will randomize it. 
 
 Take the ctx and run something called, `beginPath()` which will start the drawing. 
 
-TO describe what `beginPath` does is you can think drawing with a marker. You have to start by placing the marker somwhere on the page, which is the equivalent of `beginPath`. 
+TO describe what `beginPath` does is you can think drawing with a marker. You have to start by placing the marker somewhere on the page, which is the equivalent of `beginPath`. 
 
 Next move the context. 
 
@@ -214,7 +214,7 @@ Next move the context.
 ctx.moveTo(200,200);
 ```. 
 
-That will place the dot 200 pixesl from the left and 200 pixels from the top. 
+That will place the dot 200 pixels from the left and 200 pixels from the top. 
 
 Then run the following. 👇
 ```js
@@ -240,17 +240,17 @@ You could take the width, and the height and then generate a random number betwe
  console.log(width, height);
  ``` 
 
-If you log the width and the hieght, what will you get get? 
+If you log the width and the height, what will you get get? 
 
 You will get 600 and 1000 which are the actual height and weight of the canvas, not the display width. 
 
-You might notice that when you save the javascript file, Prettier modifiies the variable declarations for width and height like so 👇
+You might notice that when you save the javascript file, Prettier modifies the variable declarations for width and height like so 👇
 
 ![](@attachment/Clipboard_2020-03-15-16-29-54.png) 10:38
 
 Prttier is doing **destructing** for us. 
 
-If you are simply making variables from a property on an object, you can shortform this. 
+If you are simply making variables from a property on an object, you can short form this. 
 
 Instead of the following 👇
 
@@ -267,7 +267,7 @@ const { width, height } = canvas;
 
 That is called **destructuring**.
 
-Meaning that yo take the width property and put it into a variable `width`, and take the `height` property and put it ito the variable `hiehgt`. 
+Meaning that yo take the width property and put it into a variable `width`, and take the `height` property and put it ito the variable `height`. 
 
 That is a nice short way to do that. 
 
@@ -275,9 +275,9 @@ We will do a lot more destructuring in this course, this is just our first time 
 
 Why are you grabbing the width and height variables? 
 
-Wes likes to have top level variables. He finds it easier to use when doing math. It's much easier than writing` canvas.width` everytime. 
+Wes likes to have top level variables. He finds it easier to use when doing math. It's much easier than writing` canvas.width` every time. 
 
-Now we want to creta a random x and y starting points on the canvas. 
+Now we want to create a random x and y starting points on the canvas. 
 
 So how do you create random values in Javascript? 
 
@@ -396,9 +396,9 @@ We only really care about the arrow keys so what we can is check whether the key
 
 ![](@attachment/Clipboard_2020-03-15-18-32-04.png) 19:39
 
-Add an **if statement**, which we haven't learned about before, but if conditions check if something is true (whether it evalutes to boolean true or false), and then runs a block of code based on that condition. 
+Add an **if statement**, which we haven't learned about before, but if conditions check if something is true (whether it evaluates to boolean true or false), and then runs a block of code based on that condition. 
 
-Checkheck whether the key includes the word arrow, and if it does, move the logic to log to the console within the if block as well as the `preventDefault()` call, like so 👇
+Check whether the key includes the word arrow, and if it does, move the logic to log to the console within the if block as well as the `preventDefault()` call, like so 👇
 
 ```  js
 if (e.key.includes("Arrow")) {
@@ -423,6 +423,7 @@ That options object will contain everything that you wish to pass to the draw fu
 This is useful when you have a function that needs a lot of things passed to it. 
 
 It's too long to pass in that many variables such as 👇
+
 ```js
 function(one, two, three, four five)
 ``` 
@@ -452,7 +453,7 @@ functionHandleKey(e){
 
 Now, within the `draw` function, log the `options` argument.
 
-At this point you have the folowwing:
+At this point you have the following:
 - event listener, which listens for keydown and runs `handleKey`
 - `handleKey` checks if the key is an arrow if it is, passes that along to the `draw` function.
 - `draw` has an object and inside of that there is one property `key` which tell us the key is arrow up. 
@@ -492,7 +493,7 @@ Now, when someone goes ahead and uses their keys, you can start to draw directly
 
 Just like you have created `ctx.beginPath` earlier in the javascript file, call call `beginPath` on the context within the draw `function`. 
 
-```
+```js
 function draw({ key }) {
   console.log(key);
   //start the path
@@ -527,7 +528,7 @@ Previously, ESLint or Prettier noticed that our `x` and `y` values which we had 
 
 However, now that you want to change those values, you need to switch them back to lets. 
 
-You also may notice that when you save your javascript file, it reformats from `x = x - 10;` to `x -= 10;` which is a shortform way to say the same thing. 
+You also may notice that when you save your javascript file, it reformats from `x = x - 10;` to `x -= 10;` which is a short form way to say the same thing. 
 
 Now if you refresh the page and press an arrow key, you will see an error in the console that says something like this: 
 
@@ -545,7 +546,7 @@ What is happening there is anytime an arrow key is pressed we are removing 10 pi
 
 That's obviously not what we want but this is just to demonstrate that it is responding to our key pressed. 
 
-One thing Wes doesn't like doing is hardcoding the values like `x = x - 10;`.
+One thing Wes doesn't like doing is hard coding the values like `x = x - 10;`.
 
 Instead, setup a variable amount and set that at the top of the file and reference it to change the value whenever we want. 
 
@@ -590,7 +591,7 @@ Instead run a switch statement.
 
 Pass the switch statement the variable you want to run it against (the `key` in this case), and then the cases are the possible values that key might be. 
 
-Note: a switch statement could also be written as an if statment such as 👇
+Note: a switch statement could also be written as an if statement such as 👇
 
 ```js
 if(key == 'ArrowUp'){
@@ -621,8 +622,9 @@ A switch statement should always have a default case which specifies the behavio
 
 Hopefully that should never happen but it's always best practice to give your cases a default. 
 
-Make the defeault just break, like so 👇
-```
+Make the default just break, like so 👇
+
+```js
   switch (key) {
     case "ArrowUp":
       y -= MOVE_AMOUNT;
@@ -700,7 +702,7 @@ It is similar to Hex Codes and RGB, but HSL is a cool way to do it.
 
 If you just hover over the gradient, you will see the H value goes from zero to 359-360. Once you pas that, it will just go from the start and give you a rainbow. 
 
-Tou can use that value, everytime you move the cursor, increment the H value (hue) by 1. 
+Tou can use that value, every time you move the cursor, increment the H value (hue) by 1. 
 
 ![](@attachment/Clipboard_2020-03-23-19-59-27.png) 33:00
 
@@ -708,18 +710,18 @@ Above the `draw()` function, make a new variable called `hue` and set it to 0.
 
 Next update the stroke color to start at a bright green like so 👇
 
-```
+```js
 const hue = 0;
 ctx.strokeStyle = `hsl(100, 100%, 50%)`;
 ```
 
-Now instead of hardcoding the first argument to hsl, interpolate it to pass in the `hue` variable like so 👇
+Now instead of hard coding the first argument to hsl, interpolate it to pass in the `hue` variable like so 👇
 
-```hs
+```js
 ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
 ```
 
-The line will always be red, but what you will do is everytime that you use the draw function, increment hue by one and update the stroke style. 
+The line will always be red, but what you will do is every time that you use the draw function, increment hue by one and update the stroke style. 
 
 Add the following code 👇
 
@@ -731,7 +733,7 @@ function draw({ key }) {
   ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
 ```
 
-You need call `strokeStyle` again, even though you set it on pageload to be a variable. 
+You need call `strokeStyle` again, even though you set it on page load to be a variable. 
 
 That is done once the page loads, it's not like a live variable that will update itself. 
 
@@ -796,7 +798,7 @@ You might be thinking what if the solution is wait .5 seconds and then remove th
 
 However, trying to lineup timers that are set in your CSS with your Javascript, it is okay but tends to get you in a world of hurt. 
 
-What you can do is listen for the animation to finish and then programatically remove the class from it.
+What you can do is listen for the animation to finish and then programmatically remove the class from it.
 
 Just like we can listen to a click, we can listen to this event called `animationend`. 
 
@@ -825,11 +827,11 @@ This is a common problem, what you are doing is when you run `clearCanvas()`, yo
 
 But what is happening is the canvas still has the event listener of `animationend` added to it. 
 
-Everytime you clear the canvas, you are adding a new event listener to it over and over again. 
+Every time you clear the canvas, you are adding a new event listener to it over and over again. 
 
 The number of times you ran `clearCanvas()` in the console was the number of event listeners that were being added for the same thing. 
 
-If you click on the canvas element in the devtools and then select the "Event Listeners" tab 👇
+If you click on the canvas element in the dev tools and then select the "Event Listeners" tab 👇
 
 ![](@attachment/Clipboard_2020-03-23-20-29-52.png) 41:38
 
@@ -848,7 +850,7 @@ There is a third arguments object for addEventLIstener, and we have only so far 
 
 Now you are going to use the option `once`, which you will set to true. 
 
-This causes `addEventListener` to unbind itself. It will call `removeEventLIstener` for you, without having to write any code.
+This causes `addEventListener` to unbind itself. It will call `removeEventListener` for you, without having to write any code.
 
 ```js
 // clear or shake function
@@ -873,7 +875,7 @@ Thankfully you don't have to do that and can use the `options` argument to set `
 
 Now if you refresh the page and call `clearCanvas()` from the console, you will notice that you don't keep attaching event listeners. 
 
-Instead the event listner is being added and removed, added and removed as needed. 
+Instead the event listener is being added and removed, added and removed as needed. 
 
 Next you need to hook up the `clearCanvas()` function to the `shake` button click.
 
@@ -905,9 +907,9 @@ Now click the Shake! button.
 
 ![](@attachment/Clipboard_2020-03-28-15-59-32.png) 44:3`
 
-You should notice only a rectange that is 500 by 500 pixels from the top left corner is cleared. 
+You should notice only a rectangle that is 500 by 500 pixels from the top left corner is cleared. 
 
-Instead of hardcoding the 500x500 pixel value, we will replace those with the variables that we created at the very top of the file, `width` and `height`. 
+Instead of hard coding the 500x500 pixel value, we will replace those with the variables that we created at the very top of the file, `width` and `height`. 
 
 ```js
 ctx.clearRect(0, 0, width, height); 
@@ -921,11 +923,10 @@ That is our first exercise.
 
 We went a little over the stuff we have learned, and that is Wes' intention for these exercise videos. 
 
-He is going to push us in these exercises by introducing some new concepts, desctructuring, canvas, right in the exercise. 
+He is going to push us in these exercises by introducing some new concepts, destructuring, canvas, right in the exercise. 
 
 This is so you can get an idea of how it works when you are in the headspace of building real world things. 
 
-  
 ---
 
 ## 34 - Click Outside Modal
@@ -1162,7 +1163,7 @@ function handleCardButtonClick(event){
 
 Now when you click each card's button, you will see the card logged to the console.
 
-What is great abou using `closest` like we did is you can take any element, such as one of the `h2` elements on the card and search for the closest div, the closest HTML element. 
+What is great about using `closest` like we did is you can take any element, such as one of the `h2` elements on the card and search for the closest div, the closest HTML element. 
 
 If there is something that does not find (like `$0.closest('.doesnotmatch')`) it will return `null` because there is no parent of it. 
 
@@ -1220,7 +1221,6 @@ Also select the name 👇
 ```js
 const name = card.querySelector('h2').textContent;
 ```
-
 
 Within our handler, set the innerHTML of the modal using backticks. 
 
@@ -1549,7 +1549,7 @@ Open up the scroll event that you are logging in the console.
  
  The `currentTarget` is `null` at this point but if you were to log it, you would see it. 
 
-Previously, to figureo ut if an element has scrolled all the way to the bottom, we used `e.target` or `e.currentTarget`. 
+Previously, to figure out if an element has scrolled all the way to the bottom, we used `e.target` or `e.currentTarget`. 
  
 Either of them work in this case because a scroll event does not bubble like a regular click would.  So if you scroll on the terms and conditions element, you are not unintentionally scrolling anything else. 
 
@@ -1578,7 +1578,7 @@ terms.addEventListener('scroll', function(e){
 
 ![](@attachment/Clipboard_2020-06-03-07-56-53.png) 5:47
 
-Now when you log that, you will see how far from the top you are scrolled and the second number is how high the actual scrollable div is.
+Now when you log that, you will see how far from the top you are scrolled and the second number is how high the actual scroll-able div is.
 
 When you reach the very end, you should see the values are close.
 
@@ -1614,11 +1614,11 @@ Next we need to create this thing called an **Intersection Observer**. An inters
 const ob = new IntersectionObserver()
 ```
 
-Do not worry about the `new` keyword for now, we will talk about it in future leessons.  
+Do not worry about the `new` keyword for now, we will talk about it in future lessons.  
 
 The intersection observer is going to take a **callback**, which is a function that gets called at a certain point. 
 
-It is different than a click callback or a scroll callbacck because this callback will be fired every single time that it needs to check if something is running on the page. 
+It is different than a click callback or a scroll callback because this callback will be fired every single time that it needs to check if something is running on the page. 
 
  ```js
  function obCallback(payload){
@@ -1641,7 +1641,7 @@ const ob = new IntersectionObserver(obCallback);
 ob.observe(watch);
 ```
 
-Now, everytime we you ahead and scroll, you will notice that you get this IntersectionObserver entity logged. 
+Now, every time we you ahead and scroll, you will notice that you get this IntersectionObserver entity logged. 
 
 ![](@attachment/Clipboard_2020-06-03-08-11-01.png) 9:28
 
@@ -1669,7 +1669,7 @@ function obCallback(payload){
 }
 ```
 
-Now if you refresh the page and scroll the strong tag into view, you will see that an **InsersectionObserverEntry** is logged. 
+Now if you refresh the page and scroll the strong tag into view, you will see that an **IntersectionObserverEntry** is logged. 
 
 ![](@attachment/Clipboard_2020-06-03-17-53-25.png) 11:30
 
@@ -1687,7 +1687,7 @@ function obCallback(payload){
 
 As you can see it tells us when it is on or off the page. 
 
-What is cool about that is it will also tell us how much on the page it currently is by looking at the `inserSectionRatio` property.  
+What is cool about that is it will also tell us how much on the page it currently is by looking at the `intersectionRatio` property.  
 
 ```js
 function obCallback(payload){
@@ -1712,6 +1712,7 @@ That is how you will know if the user has scrolled to the bottom.
 Stop watching for the strong tag, and instead watch the last paragraph on the `terms` like so
 
 Replace 👇
+
 ```js
 ob.observe(watch); 
 ```
@@ -1724,7 +1725,7 @@ ob.observe(terms.lastElementChild);
 
 Now you are observing the last paragraph in the terms div. 
 
-If you refresh the page and scroll to the bottom of the page with the console open, you should see something like the following 🚘
+If you refresh the page and scroll to the bottom of the page with the console open, you should see something like the following 👇
 
 ![](@attachment/Clipboard_2020-06-03-18-12-38.png) 13:34
 
@@ -1746,7 +1747,7 @@ const ob = new IntersectionObserver(obCallback, {
 ob.observe(terms.lastElementChild);
 ```
 
-If you refresh and open the console, you will see 0 which tells us it is off the page and if you scroll to the bottom... uhoh, we have an issue here. 
+If you refresh and open the console, you will see 0 which tells us it is off the page and if you scroll to the bottom... uh-oh, we have an issue here. 
 
 Even when we scroll to the very bottom it's not firing. 
 
@@ -1792,7 +1793,7 @@ function obCallback(payload){
 }
 ```
 
-The CSS for the disabled attriibute on the button gives it an opacity of 0.1. 
+The CSS for the disabled attribute on the button gives it an opacity of 0.1. 
 
 You don't have to do anything with pointer events here because HTML will prevent the button from being clickable due to the disabled attribute.
  
@@ -1924,7 +1925,7 @@ When you use proper markup, it is good for both **accessibility** and **SEO**.
 
 We tell the browser that the div is a tab list using the `role="tablist"` attribute. 
 
-That div also has an `aria-label="Programming languages"` attribute. That is for screenreaders to know what the list is about.
+That div also has an `aria-label="Programming languages"` attribute. That is for screen readers to know what the list is about.
 
 Inside of the `tablist` there are 3 buttons. Each of those buttons has a role of tab and an id that contains the name of the programming language.
 
@@ -2130,7 +2131,7 @@ If you flip back to the elements tab, you will see the attribute value equals tr
 
 What happened is that with most properties in javascript, you can just access the property on the element directly. 
 
-However for some properties, including custom properties that you just made up, as well as `aria` propreties, it looks like you cannot use that method.
+However for some properties, including custom properties that you just made up, as well as `aria` properties, it looks like you cannot use that method.
 
 The only other way is to use the `.setAttribute()` method.
 
@@ -2162,7 +2163,7 @@ If you were to refresh the page and click one of the tabs, all the tabs will no 
 Now, mark the clicked tab as selected. 
 
 ```js
-event.currentTarget.setAttrbute('aria-selected', true);
+event.currentTarget.setAttribute('aria-selected', true);
 ```
 
 When you click one, you will see it will set and remove the aria selected. 
@@ -2197,7 +2198,7 @@ You might notice that when you save the code, the editor modifies that line like
 const { id } = event.currentTarget;
 ```
 
-That is because instead of saving the varaiable the same as the property on something, you can destructure it to create an `id` variable from that thing. 
+That is because instead of saving the variable the same as the property on something, you can destructure it to create an `id` variable from that thing. 
 
 That is handy if you ever want to pull other properties like an `alt` or a `src`. 
 
@@ -2294,4 +2295,3 @@ Replace the log with `tabPanel.hidden = false;` so it is no longer hidden.
 Now your tabs should be working! 
 
 Both those methods are valid, it's up to you which you prefer. 
-

@@ -265,7 +265,7 @@ _Note: you might notice in VSCode that it says "FaceDetector is not defined" if 
 
 ![](@attachment/Clipboard_2020-04-20-21-15-35.png) 14:18
 
-_That is because it is looking for a function called `FaceDetector`. The way we can solve that is to say `const faceDetector = new window.FaceDetector()`. That is fine to do (Wes told us not to do it in looping) here beause this FaceDetector API does not exist in NodeJS land._
+_That is because it is looking for a function called `FaceDetector`. The way we can solve that is to say `const faceDetector = new window.FaceDetector()`. That is fine to do (Wes told us not to do it in looping) here because this FaceDetector API does not exist in NodeJS land._
 
 The next thing we need to do is write a function that populates the user's video. 
 
@@ -354,7 +354,7 @@ We can now put the stream into our video which we have already selected.
 
 You would normally pass the video something like `video.srcObject = "dog.mp4";` but instead you will be passing the video the stream then calling `play()` on it.
 
-Put an `await` infront of where you call `video.play()` because sometimes it takes a few seconds to start playing and that will wait for it.
+Put an `await` in front of where you call `video.play()` because sometimes it takes a few seconds to start playing and that will wait for it.
 
 ```js
 video.srcObject = stream;
@@ -365,7 +365,7 @@ If you refresh the page, you should see it worked.
 
 So what did we do there? 
 
-We made a function called `popuateVideo()`, where we grabbed the feed off the user's webcam, and then we set the object to be the stream, and then played it. 
+We made a function called `populateVideo()`, where we grabbed the feed off the user's webcam, and then we set the object to be the stream, and then played it. 
 
 Another thing we need to do is size the canvases to be the same size as the video.
 
@@ -381,7 +381,7 @@ So you need to size the canvases to match the video, which you can do like so:
 canvas.width = video.videoWidth;
 canvas.height = video.videoHeight;
 
-faceCanavs.width = video.videoWidth;
+faceCanvas.width = video.videoWidth;
 faceCanvas.height = video.videoHeight;
 ```
 
@@ -431,7 +431,7 @@ You might be thinking we can use an interval for this. That is the way we used t
 
 **Request animation frame** allows the browser to tell us when we should repaint or redo something. 
 
-Instead of us trying to do something every 60 miliseconds, because computers vary in speed, request animation frame will repaint or rerun the stuff on the screen a lot less frequently on a computer that isn't as fast. 
+Instead of us trying to do something every 60 milliseconds, because computers vary in speed, request animation frame will repaint or rerun the stuff on the screen a lot less frequently on a computer that isn't as fast. 
 
 Ask the browser when the next animation frame is, and then tell it to run `detect`, like so 👇 
 
@@ -552,7 +552,7 @@ As you can see, it does work. if you move your face around, the boxes should mov
 
 We need to fix a few things though. One of those things is that our rectangles are not overlaid on top. 
 
-_Note: if the rectanges are overlaid for you, you can ignore these instructions._
+_Note: if the rectangles are overlaid for you, you can ignore these instructions._
 
 Let's take a look at `face.html`. It seems like it's ignoring the style tag. Try moving the styles to the head, as shown below.
 
@@ -609,7 +609,7 @@ The next thing to fix is that they are not clearing. Fix that by calling `ctx.cl
 ctx.clearRect(0,0, canvas.width, canvas.height)
 ```
 
-That clears the amount, the width and the height, based on starting at the top left hand corner, everytime it runs, it clears the canvas for us.
+That clears the amount, the width and the height, based on starting at the top left hand corner, every time it runs, it clears the canvas for us.
 
 It is working pretty well. It is a bit jumpy right now, it used to be a lot better, they're still working on it. The eyes, nose, and mouth values were working very well for Wes for a while, but currently they're really weird.
 
@@ -736,11 +736,11 @@ face.y,
 
 You can see in the very top corner there is a tiny little Wes. 
 
-Make a variable `size` instead of hardcoding the values 10,10, so we can quickly reference that whenever we need it.  
+Make a variable `size` instead of hard coding the values 10,10, so we can quickly reference that whenever we need it.  
 
 Add the following towards the top of the file: `const SIZE = 10;`. 
 
-Why did we do it in all caps? it's a commomn practice in the graphics canvas world, any variables that are constant throughout the application, they do them in all caps. 
+Why did we do it in all caps? it's a common practice in the graphics canvas world, any variables that are constant throughout the application, they do them in all caps. 
  
 ```js
 faceCtx.drawImage(
@@ -758,7 +758,7 @@ faceCtx.drawImage(
 );
 ```
 
-Now we need to draw the small image back on but scaled up. Remember -- the whole reason we draw it small was so we can pull it back out, strech it back up, and then paint it overtop. Saving it small lets us get that pixelated look that we are going for here. 
+Now we need to draw the small image back on but scaled up. Remember -- the whole reason we draw it small was so we can pull it back out, stretch it back up, and then paint it overtop. Saving it small lets us get that pixelated look that we are going for here. 
 
 To do that we will use `drawImage`. 
 
@@ -852,7 +852,7 @@ Now it is finally working! It is taking our faces and spreading it all over. The
 
 Go into the `censor` function.  In the first line of the function add `faceCtx.imageSmoothingEnabled = false`.  
 
-If you don't have that, the image is just kind of blury so what the browser does is it says "oh this is pixelated!, let me try to smooth it out".  But if you turn that off, you get the real pixelated values. 
+If you don't have that, the image is just kind of blurry so what the browser does is it says "oh this is pixelated!, let me try to smooth it out".  But if you turn that off, you get the real pixelated values. 
 
 ![](@attachment/Clipboard_2020-04-21-19-06-41.png) 45:04
 ![](@attachment/Clipboard_2020-04-21-19-07-31.png)
@@ -1038,7 +1038,7 @@ The sarcastic option gives us "sponge bob case" as it's often called, which is d
 
 ![](@attachment/Clipboard_2020-04-22-06-39-50.png) 00:45
 
-_Note: the funky option gives us those weird characters but you should never use these charactres in a real world situation because they are inaccessible to someone with a screen reader._
+_Note: the funky option gives us those weird characters but you should never use these characters in a real world situation because they are inaccessible to someone with a screen reader._
 
 We will be working out of the `56 - Sarcastic Text` folder. Open up `index.html`. 
 
@@ -1100,7 +1100,7 @@ Next we need a handler that will output the text.
 
 Make a new function called `transformText`. It will take in some text and then output the result.
 
-Add an event listener on the input event and call `transformText` everytime the event fires. 
+Add an event listener on the input event and call `transformText` every time the event fires. 
 
 To get the text out of the text area to pass to the function, use `e.target.value`. 
 
@@ -1156,7 +1156,7 @@ const transformText(text){
 }
 ```
 
-Now everytime you type in the textarea, you should get an array of every single letter that the person has in there. 
+Now every time you type in the textarea, you should get an array of every single letter that the person has in there. 
 
 ![](@attachment/Clipboard_2020-04-22-07-14-34.png) 5:54
 
@@ -1249,7 +1249,7 @@ const filters = {
   },
 ```
 
-If you refresh the page and start typing, you will see that every other leter is uppercased. 
+If you refresh the page and start typing, you will see that every other letter is uppercase. 
 
 ![](@attachment/Clipboard_2020-04-22-07-37-32.png) 12:02
 
@@ -1268,11 +1268,11 @@ Now if you type in the textarea and select the sarcastic filter, you should see 
 
 ![](@attachment/Clipboard_2020-04-22-07-38-43.png) 12:15
 
-So that is our first filter, and we are just hardcoding it in our `transformText` function right now. But it would be great if we can use it based on the radio selection that we have.
+So that is our first filter, and we are just hard coding it in our `transformText` function right now. But it would be great if we can use it based on the radio selection that we have.
 
 How could we do that? 
 
-We can modify the first line of `tranformText` to grab the filter by finding the input with name of filter that is also checked, and then grabbing it's value. 
+We can modify the first line of `transformText` to grab the filter by finding the input with name of filter that is also checked, and then grabbing it's value. 
 
 ```js
 const filter = document.querySelector('[name="filter"]:checked').value;
@@ -1325,7 +1325,7 @@ const filterInputs = Array.from(document.querySelectorAll('[name="filter"]'));
 
 Let's do some cleanup and get rid of the logs within the `transformText` function. 
 
-Take the `filter` variable and use it as a property lookup instead of hardcoding the value.
+Take the `filter` variable and use it as a property lookup instead of hard coding the value.
 
 ```js
 const mod = Array.from(text).map(filters.sarcastic);
@@ -1351,7 +1351,7 @@ unable() {},
 
 We need some sort of dictionary or lookup of funky letters. If you open the `text-DEMO` or `text-FINISHED` file, you will see an object of funky letters.
 
-Copy that variable along with the `/* eslint-disable */` and `/* eslint-enable */` commens into our text.js file.  
+Copy that variable along with the `/* eslint-disable */` and `/* eslint-enable */` comments into our text.js file.  
 
 Paste it towards the top of the file, after our `filterInputs` declaration. 
 
@@ -1478,7 +1478,7 @@ In this lesson we will build a shopping list, where you can add items, check the
 
 Although you may have written something like this before, Wes has baked a lot of things that we need to learn about Javascript into this simple example.  
 
-We will be learning about emitting **custom events**, such as the one hightlighted in the image below (if you don't know what a custom event is, don't worry, we will be learning about it). 
+We will be learning about emitting **custom events**, such as the one highlighted in the image below (if you don't know what a custom event is, don't worry, we will be learning about it). 
 
 ![](@attachment/Clipboard_2020-04-23-08-37-40.png) 00:40
 
@@ -1515,7 +1515,7 @@ To install Parcel globally on your machine, open the terminal and type `npm inst
 
 ![](@attachment/Clipboard_2020-04-27-11-00-37.png) 3:00
 
-If you are on a Mac and you have trouble installing global modules on your command line, type `sudo` infront of the command like so `sudo npm install -g parcel-bundler`.  That will ask you for a password first. 
+If you are on a Mac and you have trouble installing global modules on your command line, type `sudo` in front of the command like so `sudo npm install -g parcel-bundler`.  That will ask you for a password first. 
 
 To check if it worked, you can type `parcel --version` into the terminal and it will tell you what version you have.
 
@@ -1643,11 +1643,11 @@ Take the form and store it as a global variable, called `temp1`, then add `conso
 
 ![](@attachment/Clipboard_2020-04-27-11-40-58.png) 10:56
 
-Somewhere inside of all thoes properties is `item`. 
+Somewhere inside of all those properties is `item`. 
 
 Wes is having trouble finding it but we will demonstrate it with code. 
 
-Modify the log of `console.log(e.currentTarget)` to `console.log(e.currentTartget.item)`. 
+Modify the log of `console.log(e.currentTarget)` to `console.log(e.currentTarget.item)`. 
 
 ![](@attachment/Clipboard_2020-04-27-11-42-16.png) 11:04
 
@@ -1680,7 +1680,7 @@ That is what we are going to do now.
 
 The name of the item is going to be our name variable. 
 
-The id of the item just needs to be something unique. One trick that Wes likes to use is to use `Date.now()` as an ID, which works if you aren't creating more than one item per milisecond, which works for our case.  
+The id of the item just needs to be something unique. One trick that Wes likes to use is to use `Date.now()` as an ID, which works if you aren't creating more than one item per millisecond, which works for our case.  
 
 ![](@attachment/Clipboard_2020-04-27-14-09-29.png) 12:17
 
@@ -1713,7 +1713,7 @@ Next we need to push these items to our state, which we will do by adding the fo
 
 ```js
 items.push(item);
-console.log(`Tere are now ${items.length} in your state`);
+console.log(`There are now ${items.length} in your state`);
 ```
 
 If you refresh the page and try adding a few items, you should see the count in our log increasing. 
@@ -1848,11 +1848,11 @@ If you refresh the page and try entering items, you should see something like th
 
 We need to fix a few things here. 
 
-The button that we added is currently not accesible to people who are using screen readers. If the screenreader were to read to the user what is currently on the page, it would read the item's name and then the multiplication sign, which makes no sense. 
+The button that we added is currently not accessible to people who are using screen readers. If the screen reader were to read to the user what is currently on the page, it would read the item's name and then the multiplication sign, which makes no sense. 
 
 What we can do to fix that is to add an `aria-label` attribute to it. 
 
-For sighted users, nothing changes, but for people using a screenreader, when they tab over to it, it will tell them "remove bananas" instead. 
+For sighted users, nothing changes, but for people using a screen reader, when they tab over to it, it will tell them "remove bananas" instead. 
 
 ```js
 <button aria-label="Remove ${item.name}">&times;</button>
@@ -1966,7 +1966,7 @@ list.addEventListener('itemsUpdated', e=> {
 
 You can see all sorts of details such as the path, which is pretty neat because it shows you the path at which the events have bubbled through. It was first triggered on the `ul`, then bubbled up to the shopping list, then the `body`, `html`, `document` and then the `window`.  
 
-That is a **custom** event, which Wes uses often when working with vanilla javascript to keep concerns seperate, instead of tightly tying them together. 
+That is a **custom** event, which Wes uses often when working with vanilla javascript to keep concerns separate, instead of tightly tying them together. 
 
 Remove the second event listener where we are just logging the event. 
 
@@ -2012,7 +2012,7 @@ To set an item in local storage, you can use `localStorage.setItem()` where you 
 
 To get an item from local storage, you can use `localStorage.getItem()` to which you pass the key that you are looking for. 
 
-If something funky is happenning with local storage, it's best to just clear it out and start fresh which you can do by clicking this button in the Applications tab. 
+If something funky is happening with local storage, it's best to just clear it out and start fresh which you can do by clicking this button in the Applications tab. 
 
 ![](@attachment/Clipboard_2020-04-27-15-55-27.png) 31:05
 
@@ -2050,7 +2050,7 @@ If you call `JSON.stringify()`, you can pass it an object, and it will convert t
 
 At a later point in time, we can do the opposite which is `JSON.parse()`. If you pass it a string, it will convert it back to an object. 
 
-That is exacty what we will do here. Before we put the object into local storage, we will convert it to a string and when we pull it out of local storage, we can convert it back to an array of objects.
+That is exactly what we will do here. Before we put the object into local storage, we will convert it to a string and when we pull it out of local storage, we can convert it back to an array of objects.
 
 Modify the code as shown below. 
 
@@ -2090,7 +2090,7 @@ function restoreFromLocalStorage() {
 
 Next we want to check if there are any items in the `lsItems` array, because it could be that this is the first time the user is loading the application, and there isn't even an empty array yet. 
 
-If there is something in local storage, we will assign the value to the `items` variable and then dispatch thet `itemsUpdated` event. 
+If there is something in local storage, we will assign the value to the `items` variable and then dispatch the `itemsUpdated` event. 
 
 ```js
 if(lsItems.length){
@@ -2176,7 +2176,7 @@ If you have the console open while you add an item, you will notice that for a s
 
 That is because we have re-run the `displayItems` function, and it's actually creating a brand new list item each time. 
 
-When you remove an item from thte DOM, and replace it with a new item, all of those event listeners are lost. 
+When you remove an item from the DOM, and replace it with a new item, all of those event listeners are lost. 
 
 We would have to manually add them back, which is a pain.
 
@@ -2210,7 +2210,7 @@ Now if you click on the x next to an item, we listened on the list but we actual
 
 ![](@attachment/Clipboard_2020-04-27-17-54-51.png) 44:00
 
-Now we need to check if what was clicked matches the button, using `e.target.matches('button')`. Thatwill check if an element matches a CSS selector, which in this case is `button`, then we will delete the item by passing the delete method the id of that item. 
+Now we need to check if what was clicked matches the button, using `e.target.matches('button')`. That will check if an element matches a CSS selector, which in this case is `button`, then we will delete the item by passing the delete method the id of that item. 
 
 ```js
 // event delegation: We listened for the click on the list <ul> but then delegate the click over to the button if that is what was clicked.
@@ -2225,7 +2225,7 @@ Now, when you click on any X next to an item, you should see "DELETING ITEM".
 
 If we add a new item and then click on it's X button, we should still see "DELETING ITEM", because we are simply just listening on the `ul` and delegating the event to the delete button. 
 
-One more thing we should mention is that whenever we add an item to the list, we re-render the entire list. We are basically deleting the existing list and adding a brand new one. This hapen so quick you can't even see it happening but on large applications, that can slow down how your application works. 
+One more thing we should mention is that whenever we add an item to the list, we re-render the entire list. We are basically deleting the existing list and adding a brand new one. This happens so quick you can't even see it happening but on large applications, that can slow down how your application works. 
 
 That is where frameworks like Angular, React, Vue come in handy. They know how to instead of re-rendering the entire list, only update a specific piece of it. 
 
@@ -2357,7 +2357,7 @@ Why?
 
 Because your event listener is listening for the items to be updated and then will do the respective work, mirroring them to the page and updating.
 
-The last thing we need to do is handle the checking and unchecking of the data. 
+The last thing we need to do is handle the checking and un-checking of the data. 
 
 If we have 3 items and 2 were checked, that information should persist when we refresh the page.
 
@@ -2441,7 +2441,7 @@ function markAsComplete(id) {
 
 The reason we called it `itemRef` because if we change a value on the objet, it will be reflected in the array of items. So we can update the value of the item's `complete` property easily. 
 
-```
+```js
 itemRef.complete = 
 ```
 
@@ -2536,14 +2536,14 @@ const html = items
 We could have also used the `&&` operator instead like so 👇
 
 ```js
-${item.compelte && 'checked'}
+${item.complete && 'checked'}
 ```
 
-Now if you refresh, the checkmarks should stay as they were.
+Now if you refresh, the check marks should stay as they were.
 
 That was a lot, but that is how all of those frameworks work. 
 
-You basically have some state, you write a bunch of handlers to update state and to modify it, filter it, change it. When that state changes, you rerender out the HTML that is on the page. 
+You basically have some state, you write a bunch of handlers to update state and to modify it, filter it, change it. When that state changes, you re-render out the HTML that is on the page. 
 
 One last thing is that security, which we will go over in future lessons in more details.  Right now, if you wanted, you could submit an image as a list item input, which is a security issue. When you take input from a user and then display it in the HTML, we need to clean all the data the user types in. 
 
@@ -2578,7 +2578,6 @@ The first thing we need to do is create a closure.
 
 We learned a couple lessons back that a closure is the ability to create a function, and that functions have scope. 
 
-
 ```js
 function Gallery(gallery){
 
@@ -2600,7 +2599,7 @@ function Gallery(gallery){
  
 That means that the gallery function will run when we create it, and the function `showNextImage` will exist for things like click handlers. The variables (`buttons`)  that have been created in between the 2 functions (`Gallery` and `showNextImage`) will still be accessible even after the `Gallery` function has closed and stopped running.
 
-We are going to use that concept to allow us to create scope for each of the galleries, so that they don't interfer with each other but they can reuse the same code. 
+We are going to use that concept to allow us to create scope for each of the galleries, so that they don't interfere with each other but they can reuse the same code. 
 
 If you added any of the code, clear out everything within the `Gallery()` block. 
 
@@ -2711,7 +2710,7 @@ If you take a look at the HTML Wes has provided us with, he has scaffolded out t
 </div>
 ```
 
-So we have a `figure` with an `img`, a `figcaption`, an `h2`, a paragrah. 
+So we have a `figure` with an `img`, a `figcaption`, an `h2`, a paragraph. 
 
 WHen someone clicks on an image in the gallery, that will open the modal and we will swap the text content of the modal out with the content associated with that image. 
 
@@ -2743,7 +2742,7 @@ Within that function, check whether a reference to an image was passed.
 
 We are adding these checks because sometimes if for some reason something is broken when the function is run, having those safety checks will prevent the application from breaking on your page.
 
-If a refrence was not passed, log the message "no image to show" and return from the function. 
+If a reference was not passed, log the message "no image to show" and return from the function. 
 
 Otherwise, we will update the modal with that image's information but for now just log `el`. 
 
@@ -2952,7 +2951,7 @@ Next, let's wire up the escape key on our keyboard.  Make another function `hand
 
 Inside of the function, add an if statement that checks if the key that was pressed matches "Escape", and if it does, run `closeModal()`. 
 
-This if statment is a good use case for a blockless if statement because it is a clean one liner. 
+This if statement is a good use case for a blockless if statement because it is a clean one liner. 
 
 ```js
 function handleKeyUp(event){
@@ -2960,7 +2959,7 @@ function handleKeyUp(event){
 }
 ```
 
-The `keyup` event will fire for any key that is pressed, so we will add more logic to only listen for the keys we care about in the futrue. 
+The `keyup` event will fire for any key that is pressed, so we will add more logic to only listen for the keys we care about in the future. 
 
 Go down to our event listeners and add an event listener on the window. Listen for the `keyup` event and pass it the `handleKeyUp` function. 
 
@@ -3038,7 +3037,6 @@ In the `closeModal` function we now need to do the exact opposite, which is to p
 ```js
 window.removeEventListener("keyup", handleKeyUp);
 nextButton.removeEventListener("click", showNextImage);
-
 ```
 
 That makes sure that we are only ever listening for `keyup` and `click` on the things once, and then when the modal closes, we cleanup after ourselves and remove the event listeners. 
@@ -3107,7 +3105,7 @@ if(event.key === 'ArrowLeft') return showPrevImage();
 
 The last thing we need to do is the enter key. 
 
-Images by default are not keyboard focusable, and in order to make the gallery accessible to keyboard users, we need to ensure that when they tab through it, they highlight and when you hit enter, it opens it up.
+Images by default are not keyboard focus-able, and in order to make the gallery accessible to keyboard users, we need to ensure that when they tab through it, they highlight and when you hit enter, it opens it up.
 
 #### `tab-index`
 If you look at the HTML page, you will see that all the images have a `tab-index` of 0. 
@@ -3122,7 +3120,7 @@ On some elements when you tab to them and hit enter, like a button, it will fire
 
 Let's listen for a keyup  or keydown event and check if the user had hit enter when its' focused.
 
-G down to our event lisetners and take all the images, and loop over them again.
+G down to our event listeners and take all the images, and loop over them again.
 
 Note: you could do it in the same loop but for sanities sake, let's keep them separate.
 
@@ -3131,7 +3129,7 @@ Note: you could do it in the same loop but for sanities sake, let's keep them se
 images.forEach((image) => {
   //attach an event listener for each image
   image.addEventListener("keyup", (e) => {
-    //when that is keyupd check if it was enter
+    //when that is keyup check if it was enter
     if (e.key === "Enter") {
       //if it was, sho that image.
       showImage(e.currentTarget);
@@ -3150,7 +3148,7 @@ The one thing about having all these `closeModal` and `openModal` functions insi
 
 We basically have double functions that do the exact same thing. 
 
-When we learn abotu prototypes in classes, we will learn about how to share the functionality between galleries as well as open up the functionaltiy so we can call them manually ourselves. 
+When we learn about prototypes in classes, we will learn about how to share the functionality between galleries as well as open up the functionality so we can call them manually ourselves. 
 
 --- 
 
@@ -3162,7 +3160,7 @@ In this video, we will be building a slider.
 
 A slider may seem simple, but once you dive into it, it starts to get pretty complex. We will build the basics of the slider together and then you can feel free to add any functionality you want to it.
 
-Similarly to the last lesson, we will be writing everything in the same javascript file, and then later we will revisit this exercise and refactor it twice to use **prototypes** and **classes**.
+Similarly to the last lesson, we will be writing everything in the same Javascript file, and then later we will revisit this exercise and refactor it twice to use **prototypes** and **classes**.
 
 We have 2 sliders on the page, so we can be sure that our code can be used more than once on the same page. 
 
@@ -3234,7 +3232,7 @@ You will notice that we have 2 dev dependencies, one for Sass and one for Parcel
 
 ![](@attachment/Clipboard_2020-04-29-07-11-12.png) 4:35
 
-You should see the server is running on a specific port indicated in your terminal. Nothing should be happening on the page because haven't added any javascript yet. 
+You should see the server is running on a specific port indicated in your terminal. Nothing should be happening on the page because haven't added any Javascript yet. 
 
 Our javascript file lives in the `src` directory of our current exercise folder. Putting scripts in a `src` or `lib` folder is a pretty common thing to do. There is nothing special there, it's just a way to organize your files.
 
@@ -3264,7 +3262,7 @@ Now if you were to run the function and pass in anything instead of a reference 
 
 How can we check whether the function was passed in an actual HTML element? Like Wes has mentioned before, if we look at the docs for `document.querySelector()`,  you will see that it returns an element. 
 
-The element is the most general base class from which all objects in a document inherit.  That may not be very interesting to you, but wh at that means is when we create a div or a span, it inherits all of it's base attribuets from the Element in the browser. 
+The element is the most general base class from which all objects in a document inherit.  That may not be very interesting to you, but wh at that means is when we create a div or a span, it inherits all of it's base attributes from the Element in the browser. 
 
 If you open up your dev tools and type `Element`, you will see that it is a function. 
 
@@ -3473,7 +3471,7 @@ We have run into this problem where we have already updated what previous is. Ho
 
 What Wes will show us instead is how to use **destructuring** to switch variables easily.
 
-We will destructure the `[prev, current, next]` variables annd make an array of their new values and destructure them over and into the prev, current and next variables. 
+We will destructure the `[prev, current, next]` variables and make an array of their new values and destructure them over and into the prev, current and next variables. 
 
 That means the first thing we put into the array will be assigned to `prev`. Then next item will be `current` and the last will be `next`. 
 
@@ -3523,7 +3521,7 @@ Now we need to say when we have the edge case where a previous element or next s
 ```js
 if (direction === "back") {
   [prev, current, next] = [
-    // get the prev slide, if there is none, get the last slide from the entire slider for wrappign
+    // get the prev slide, if there is none, get the last slide from the entire slider for wrapping
     prev.previousElementSibling || slides.lastElementChild,
     prev,
     current,
@@ -3532,7 +3530,7 @@ if (direction === "back") {
   [prev, current, next] = [
     current,
     next,
-    //get the next slde or if its at the end, loop around and grba the first
+    //get the next slide or if its at the end, loop around and grab the first
     next.nextElementSibling || slides.firstElementChild,
   ];
 }
@@ -3551,7 +3549,7 @@ If you refresh the page you will see they now run on their own.
 
 63 lines of code for a slider! 
 
-It would be cool to get the arrow keys working but only when someone is focued in on one of the dev. That would be an interesting exercise to give a shot yourself if you're interested. 
+It would be cool to get the arrow keys working but only when someone is focused in on one of the dev. That would be an interesting exercise to give a shot yourself if you're interested. 
 
 We will be revisiting this exercise in our prototype lesson. The functions, `move`, `applyClasses` and `startSlider` are going to be moving to what are called **the prototype**.
 

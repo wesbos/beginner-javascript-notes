@@ -167,7 +167,7 @@ As you can see, the data is nowhere to be found.
 
 Before we can access the data, there is another step that needs to happen.
 
-Right now we have the data streaming into the browser and we have assigned it to the variable `response`. At this point, the data is not fully downloaded and the data type is uknown.
+Right now we have the data streaming into the browser and we have assigned it to the variable `response`. At this point, the data is not fully downloaded and the data type is unknown.
 
 The `fetch` API can be used to fetch any type of data, whether it is JSON, an image or raw text. It does not assume the response type of the data returned.
 
@@ -258,7 +258,7 @@ const wesPromise = fetch(endpoint);
 
 Now let's refactor this to use **async/await**.
 
-Create an async functioncalled `displayUser` which takes in a `username`. Take all the code we wrote after selecting the element and put it into the `displayUser` function.
+Create an async function called `displayUser` which takes in a `username`. Take all the code we wrote after selecting the element and put it into the `displayUser` function.
 
 ![](@attachment/Clipboard_2020-05-21-18-38-59.png) 13:39
 
@@ -326,7 +326,7 @@ To test this, let's try calling it from the bottom of our script tag with the us
 </script>
 ```
 
-One thing we are not doing is catching the error so if something went wrong, such as a typo in the url assiged to `baseEndpoint`.
+One thing we are not doing is catching the error so if something went wrong, such as a typo in the url assigned to `baseEndpoint`.
 
 To fix that, let's add a catch and pass it our error handler function like so 👇
 `displayUser("stolinski").catch(handleError);`
@@ -416,7 +416,7 @@ Parameters are never standard, every API implements them a little bit differentl
 
 We will be working out of the `/exercises/75 - CORS and Recipes/` directory.
 
-This example will include a form with an input where the user can type a keyword, and they should be returned a list of recipies, their ingredients and a thumbnail image.
+This example will include a form with an input where the user can type a keyword, and they should be returned a list of recipes, their ingredients and a thumbnail image.
 
 We won't worry about the UI just yet, let's just getting it working.
 
@@ -476,7 +476,7 @@ In order for the two websites to talk, the website from which the data is being 
 
 A **CORS policy** is something that happens on the server, there is nothing you can do in the browser about this.
 
-The server will have a CORS poicy that has some rules such as "wesbos.com is allowed to ask for data and we will return it".
+The server will have a CORS policy that has some rules such as "wesbos.com is allowed to ask for data and we will return it".
 
 In our example, the recipepuppy.com server must specify which domain names are allowed to transfer data from it, and that has to happen on the server of the person that has the data.
 
@@ -484,7 +484,7 @@ Before we can get use CORS, we need an origin. If you look at the error we got i
 
 > origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
 
-That error is occuring because we are accessing and running the code off of file access.
+That error is occurring because we are accessing and running the code off of file access.
 
 Whenever you see an error like the one above, the first thing you need to do is no longer run the code from the file. Instead, you need to run it on a server.
 
@@ -498,11 +498,11 @@ Let's select a server to use, which could be any server. You could use:
 - upload the code to CodePen
 - use Parcel
 
-Let's start by gettin Parcel running. In the terminal, run the `npm init` command.
+Let's start by getting Parcel running. In the terminal, run the `npm init` command.
 
 ![](@attachment/Clipboard_2020-05-23-09-09-31.png) 9:17
 
-You need to put a package name (which you can call anything, Wes chose `dogrecipes`) and then you just keep hitting enter to accept the default for the next few questions, as shown aboev.
+You need to put a package name (which you can call anything, Wes chose `dogrecipes`) and then you just keep hitting enter to accept the default for the next few questions, as shown above.
 
 Once the package is finished installing, run `npm install parcel-bundler` in the terminal to install Parcel.
 
@@ -534,7 +534,7 @@ This issue has nothing to do with CORS. \_(Note: If you do not have this issue, 
 
 Babel helps with this.
 
-It will take your modern javascript code and transpile it into Javascript that is runnable on older browseres like IE or older Safari. That will give you Javascript that works the same way. It has just been transpiled into the equivalent in older Javascript with callbacks and things like that.
+It will take your modern javascript code and transpile it into Javascript that is runnable on older browsers like IE or older Safari. That will give you Javascript that works the same way. It has just been transpiled into the equivalent in older Javascript with callbacks and things like that.
 
 The weird thing about Babel is it wants to compile async/await, even though in most cases you don't need to because it is available in almost all browsers and has been for a few years.
 
@@ -596,7 +596,7 @@ So the solution is instead of going directly from localhost to recipepuppy, we n
 
 It will work like this: localhost will send the data to the proxy. Then the proxy will do a request to recipepuppy on the server side, which recipepuppy allows so it will send data back to the proxy, and then the proxy sends it back to the localhost.
 
-To use a proxy you either have to build one yourself which requires building an entire server that handled your requests and locked it down or in some cases, where it is something silly with no usernames, passwords or nothing sensitive being sent, you can use a **CORS** proxy that people have provided and you can just stick infront of your url and it will proxy the data for you.
+To use a proxy you either have to build one yourself which requires building an entire server that handled your requests and locked it down or in some cases, where it is something silly with no usernames, passwords or nothing sensitive being sent, you can use a **CORS** proxy that people have provided and you can just stick in front of your url and it will proxy the data for you.
 
 To find one, just google CORS proxy.
 
@@ -606,7 +606,7 @@ Wes has found that the https://cors-anywhere.herokuapp.com one works the best.
 
 ![](@attachment/Clipboard_2020-05-23-18-40-20.png) 17:37
 
-If you go to the website you will just see the text above, but the way that it works if you take the url and paste it infront of your urls and that will proxy that data for you.
+If you go to the website you will just see the text above, but the way that it works if you take the url and paste it in front of your urls and that will proxy that data for you.
 
 Modify the code like so 👇
 
@@ -730,7 +730,7 @@ async function handleSubmit(event) {
 }
 ```
 
-When we submit the form now and search for something like "chicken", it will disable the button, fetch and log the recipes, and finally renable the button.
+When we submit the form now and search for something like "chicken", it will disable the button, fetch and log the recipes, and finally re-enable the button.
 
 ![](@attachment/Clipboard_2020-05-24-20-07-52.png) 24:45
 
@@ -740,7 +740,7 @@ How can we pass the recipes array from the `handleSubmit`?
 
 If you log `recipes`, you will see that it actually return an object and the recipes array lives on the `results` property of the `recipes` object. We can use that property to pass the array like so `displayRecipes(recipes.results);`.
 
-`displayRecipes` will loop through each recipe and return some generated HTML, such as the title, ingredients and a thumnail imgae if there is one (which we will check for with a conditional).
+`displayRecipes` will loop through each recipe and return some generated HTML, such as the title, ingredients and a thumbnail image if there is one (which we will check for with a conditional).
 
 This might look a little confusing because you can nest template tags within template tags as deep as you want.
 
@@ -862,7 +862,7 @@ async function fetchAndDisplay(query) {
 }
 ```
 
-Next we just need to include a call to run it on page load. Relpace the last line of code from `fetchRecipes("pizza");` to `fetchAndDisplay('pizza');`.
+Next we just need to include a call to run it on page load. Replace the last line of code from `fetchRecipes("pizza");` to `fetchAndDisplay('pizza');`.
 
 Now when you refresh the page, you will see it is running on page load with the default term "pizza". If you type in another search term and hit submit, it will work.
 
@@ -876,7 +876,7 @@ It would be an interesting to take this exercise even further and have it so peo
 
 We will be doing another AJAX example in this video, but this time using a Dad Joke API.
 
-Everytime you click the button, a new random dad joke should be fetched from the API and displayed and the button text will change occassionally.
+Every time you click the button, a new random dad joke should be fetched from the API and displayed and the button text will change occasionally.
 
 ![](@attachment/Clipboard_2020-05-25-07-08-45.png) 00:17
 
@@ -1081,7 +1081,7 @@ Next add an event listener for the click event, and pass it the `handleClick` fu
 jokeButton.addEventListener("click", handleClick);
 ```
 
-Now when you refresh the page and open the console, you will see that everytime we click the button, a new joke is logged.
+Now when you refresh the page and open the console, you will see that every time we click the button, a new joke is logged.
 
 ![](@attachment/Clipboard_2020-05-25-08-11-39.png) 9:29
 
@@ -1147,7 +1147,7 @@ However, sometimes it will randomly return the exact same thing, which makes it 
 
 That is why we have that `not` parameter that we are passing. Within the `randomItemFromArray` function, we will use that `not` parameter to ensure the same text isn't selected twice.
 
-To do that, we will add a check for wehther the randomly selected item matches the `not` argument, and if it does, we will call the function again. That is an example of **recursion** because the function is calling itself.
+To do that, we will add a check for whether the randomly selected item matches the `not` argument, and if it does, we will call the function again. That is an example of **recursion** because the function is calling itself.
 
 ```js
 if (item == not) {
@@ -1187,7 +1187,7 @@ This is working, but one thing we are going to do is add a loading state. Feel f
 
 Let's make a CSS loader.
 
-In the HTML, right before our paragrah tag that will contain our dad jokes, add the following div `<div class="loader"></div>`.
+In the HTML, right before our paragraph tag that will contain our dad jokes, add the following div `<div class="loader"></div>`.
 
 LGoogle "CSS loader" and select `loading.io`.
 
@@ -1277,7 +1277,7 @@ If you look at the styles, you will notice the loader is set to the colour white
 
 Now you can see the loader, it was always working, it was just white so we could not see it.
 
-Add a class of "loader" to the loader ontop of the existing `lds-ripple` class.
+Add a class of "loader" to the loader on top of the existing `lds-ripple` class.
 
 ```HTML
 <div class="lds-ripple loader">
@@ -1529,7 +1529,7 @@ You will notice there are no options currently for the `from` or the `to` curren
 
 We have a script source tag right before the closing body tag.
 
-If you open up `money.js`, you will see that Wes has already given us just a list of currencies, which is the currency code translated to their English verison.
+If you open up `money.js`, you will see that Wes has already given us just a list of currencies, which is the currency code translated to their English version.
 
 ![](@attachment/Clipboard_2020-05-25-18-24-52.png) 2:09
 
@@ -1725,17 +1725,17 @@ What we are going to do is we will make an object at the top of our script where
 const ratesByBase = {};
 ```
 
-We will store all of the rates within that object/ Everytime a currency is selected to be converted, we will check whether we already have the rates within our `ratesByBase` object. If we do not, we will fetch it and save it to our object.
+We will store all of the rates within that object/ Every time a currency is selected to be converted, we will check whether we already have the rates within our `ratesByBase` object. If we do not, we will fetch it and save it to our object.
 
 ![](@attachment/Clipboard_2020-05-26-07-25-05.png) 12:59
 
-If we were to cycle thorugh all the currencies, our `ratesByBase` object would be massive because it will contain all of the rates by their from value. So by default we start with nothng because we have nothing.
+If we were to cycle through all the currencies, our `ratesByBase` object would be massive because it will contain all of the rates by their from value. So by default we start with nothing because we have nothing.
 
 ## Converting 
 
 Let's go back to our `convert` function.
 
-We will use the square brackets to check if the currently select currency coded already existings within our object.
+We will use the square brackets to check if the currently select currency coded already existing within our object.
 
 ```js
 function convert(amount, from, to){
@@ -1808,7 +1808,7 @@ If we look at our `CAD` property on `ratesByBase`, that is going to be our "from
 
 Inside of that, we need to grab the rates and the find the rate that they are converting to. You could do that like so: `ratesByBase.CAD.rates.USD`. 
 
-But because those property keys are variables within our function, we need to use square brackets to accces those object properties.
+But because those property keys are variables within our function, we need to use square brackets to access those object properties.
 
 ![](@attachment/Clipboard_2020-05-26-07-36-20.png) 16:36
 
@@ -1859,7 +1859,7 @@ At the very bottom of the script tag, add an event listener which will listen fo
 form.addEventListener('input', handleInput);
 ```
 
-Let's define that handleInput function, and for now just log `e.target` and `e.currentTarget` to see what we are working with.
+Let's define that `handleInput` function, and for now just log `e.target` and `e.currentTarget` to see what we are working with.
 
 ```js
 function handleInput(e){
@@ -1870,7 +1870,7 @@ function handleInput(e){
 
 ![](@attachment/Clipboard_2020-05-26-15-20-02.png) 20:26
 
-If you refresh the page and try typing into the amount input or selecting an item from the dropdowns, you will see that `e.target` is changing every time but `e.currentTraget` which is the form stays the same.
+If you refresh the page and try typing into the amount input or selecting an item from the drop downs, you will see that `e.target` is changing every time but `e.currentTarget` which is the form stays the same.
 
 That is because we are listening to the event on the form, but the actual event happens on the input or select box. 
 
@@ -1921,7 +1921,7 @@ const fromInput = document.querySelector('[name="from_amount"]');
 const toEl = document.querySelector('.to_amount');
 ```
 
-Now within handleInput, let's update the element to show the converted amount. 👇
+Now within `handleInput`, let's update the element to show the converted amount. 👇
 
 ```js
 async function handleInput(e){

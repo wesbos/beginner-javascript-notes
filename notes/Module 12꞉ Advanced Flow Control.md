@@ -21,7 +21,7 @@ Because Javascript is single threaded, which means we can only run one thing at 
 
 Let's visualize that with some examples. 
 
-Open up the `event-loop.html` file within the `exercises/` directory. Add two logs witin the script tag and then refresh the page to check them. 
+Open up the `event-loop.html` file within the `exercises/` directory. Add two logs within the script tag and then refresh the page to check them. 
 
 ```js
 console.log('Starting');
@@ -44,7 +44,7 @@ console.log('ending');
 
 Now if you refresh the page, what will you see? 
 
-You might expet to see starting, running, ending, but instead we get Starting, ending, and then running. 
+You might expect to see starting, running, ending, but instead we get Starting, ending, and then running. 
 
 ![](@attachment/Clipboard_2020-05-07-20-30-57.png) 1:20
 
@@ -62,7 +62,7 @@ The **call stack** and **event loop** is a pretty complicated thing to understan
 
 Instead of Wes trying to explain it, he has some homework for us. 
 
-Philip Roberts has an amazing talk where he expxlains the event loop. You do not have to watch it before continuing with the course but it's probably one of the most popular Javascript talks ever given and he does an excellent job of explaining the event loop.
+Philip Roberts has an amazing talk where he explains the event loop. You do not have to watch it before continuing with the course but it's probably one of the most popular Javascript talks ever given and he does an excellent job of explaining the event loop.
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ 
 
@@ -74,7 +74,7 @@ We have already looked at the callstack in Javascript and we have seen when you 
 
 However we know that the call stack can only ever run one function at a time. 
 
-So what happens in a scenario like our example where you have two logs between a `setTImeout`? 
+So what happens in a scenario like our example where you have two logs between a `setTTimeout`? 
 
 ![](@attachment/Clipboard_2020-05-08-06-19-08.png) 3:48
 
@@ -117,7 +117,7 @@ So the callstack is what Javascript itself is doing.  The Web Apis are things th
 
 When something happens in the Web Api (like the click of a button or a timer that has finished), it will stick the callback into the callback queue which the call stack will reach into when it has nothing left to do.
 
-Let's say after the `setTimeout` we wanted to add an interval that logs BOOP every 100 miliseconds. Name the function `boop` so we can visualize it more easily. 
+Let's say after the `setTimeout` we wanted to add an interval that logs BOOP every 100 milliseconds. Name the function `boop` so we can visualize it more easily. 
 
 ![](@attachment/Clipboard_2020-05-08-06-37-41.png) 6:07
 
@@ -246,7 +246,7 @@ Next we have to make it a circle after two seconds. We can do that by adding a `
 go.addEventListener('click', function(e){
 const el = e.currentTarget;
 console.log(el);
-setTimetout(function(){
+setTimeout(function(){
   el.classList.add('circle');
 }, 2000);
 });
@@ -262,7 +262,7 @@ Now back in the style tag, let's add a border radius of 50% for the class circle
 
 ![](@attachment/Clipboard_2020-05-08-20-09-15.png)
 
-If you refresh the page you will see that the div style changes to a cirlce after 2 seconds. 
+If you refresh the page you will see that the div style changes to a circle after 2 seconds. 
 
 We forgot to change the text when clicked for step one so right before the `setTimeout` add 👇
 
@@ -287,13 +287,13 @@ We can add a transition on there too.
 }
 ```
 
-After 0.5 seconds we need to make it run. Let's add anotehr `setTimeout` to do that.
+After 0.5 seconds we need to make it run. Let's add another `setTimeout` to do that.
 
 ```js
 go.addEventListener('click', function(e){
 const el = e.currentTarget;
 console.log(el);
-  setTimetout(function(){
+  setTimeout(function(){
       el.classList.add('circle');
       setTimeout(function(){
         el.classList.add('red');
@@ -318,7 +318,6 @@ Let's add the follow css styles to the css class red and to purple.
 ![](@attachment/Clipboard_2020-05-08-20-16-18.png) 14:31
 
 Now after 0.25 seconds we need to make it a square. 
-
 
 ```js
 go.addEventListener("click", function(e) {
@@ -391,7 +390,7 @@ Add this style now 👇
 
 That was a really simple animation, but look if you look at the code the way it is now, that is what is referred to as **callback hell**.
 
-Callback hell is when you nest things inside of each other because they all depend on the previous callback to being called before it can then go ahead and run, when you need to run things in sequence, one after the other. It is also redered to as **"Christmas Tree" code** because of how indented the code is sideways. It's not all that great. 
+Callback hell is when you nest things inside of each other because they all depend on the previous callback to being called before it can then go ahead and run, when you need to run things in sequence, one after the other. It is also rendered to as **"Christmas Tree" code** because of how indented the code is sideways. It's not all that great. 
 
 The solution to call-back hell is the "promise" land. 
 
@@ -453,7 +452,7 @@ Promises are made immediately, but they do not resolve immediately (they resolve
 
 That idea of returning happening immediately and resolving happening when it's done is really important. 
 
-A promise takes a callback function, and that calback function is going to give us 2 arguments: 
+A promise takes a callback function, and that callback function is going to give us 2 arguments: 
 1. the `resolve` function 
 1.  the `reject` function 
 
@@ -478,16 +477,16 @@ Now if we refresh the page, what do you think we will get in the console? Will w
 
 If you refresh the page, you should see the promise. 
 
-What is important to note is that our `makePizza` function doesn't give us the pizza, it givs us the promise of pizza, that at some point in the future, we will either resolve a slice of pizza or reject it if something went wrong.
+What is important to note is that our `makePizza` function doesn't give us the pizza, it gives us the promise of pizza, that at some point in the future, we will either resolve a slice of pizza or reject it if something went wrong.
 
 Let's make the function a bit more robust.
 
-We will take in some toppings and will resolve using backticks. Modify the code as shown below to make a `pepperoniPomise` and a `canadianPromise`.
+We will take in some toppings and will resolve using backticks. Modify the code as shown below to make a `pepperoniPromise` and a `canadianPromise`.
 
 ```js
 function makePizza(toppings){
   const pizzaPromise = new Promise(function(resolve. reject){
-    resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+    resolve(`Here is your pizza 🍕 with the toppings ${toppings.join(' ')}`);
   });
   return pizzaPromise;
 }
@@ -501,7 +500,7 @@ console.log(pepperoniPromise, canadianPromise);
 
 As you can see, we get our 2 promises. But how do we get the actual pizza itself? 
 
-This is a bit confusing because the devtools will show you the value when it is resolved, but in Javascript if you actually want to access the value of the pizza, you cannot say `pepperoniPromise.value` or anything. 
+This is a bit confusing because the dev tools will show you the value when it is resolved, but in Javascript if you actually want to access the value of the pizza, you cannot say `pepperoniPromise.value` or anything. 
 
 ### `.then()`
 
@@ -529,7 +528,7 @@ function makePizza(toppings){
   const pizzaPromise = new Promise(function(resolve, reject){
     //wait 1 second for the pizza to cook
     setTimeout(function(){
-      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+      resolve(`Here is your pizza 🍕 with the toppings ${toppings.join(' ')}`);
     }, 1000)
     //if something went wrong, we can reject this promise
   });
@@ -556,7 +555,7 @@ function makePizza(toppings){
   return new Promise(function(resolve, reject){
     //wait 1 second for the pizza to cook
     setTimeout(function(){
-      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+      resolve(`Here is your pizza 🍕 with the toppings ${toppings.join(' ')}`);
     }, 1000)
     //if something went wrong, we can reject this promise
   });
@@ -571,7 +570,7 @@ The logic to how a Promise gets resolved is always inside of the Promise body, w
 function(resolve, reject){
     //wait 1 second for the pizza to cook
     setTimeout(function(){
-      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+      resolve(`Here is your pizza 🍕 with the toppings ${toppings.join(' ')}`);
     }, 1000)
     //if something went wrong, we can reject this promise
   }
@@ -600,7 +599,7 @@ We will look at how we can use `async/await` to actually do that sequentially if
 
 Why is that any more useful than a regular callback? 
 
-That is useful becaue let's say we wanted to make multiple pizzas one after the other, and we have an oven that can only cook one at at time. 
+That is useful because let's say we wanted to make multiple pizzas one after the other, and we have an oven that can only cook one at at time. 
 
 Delete our `canadianPizza` and `pepperoniPizza` declaration code and everything below it in the script tag and just leave the line below 
 
@@ -645,7 +644,7 @@ makePizza(['pepperoni', 'ham'])
   })
 ```
 
-Unlike what we were doing the lesson where we were adding and removing classes which were all nested in callback hell, this chaining of `then` is the promiseland and it allows us to keep all of our logic one level deep.
+Unlike what we were doing the lesson where we were adding and removing classes which were all nested in callback hell, this chaining of `then` is the promise land and it allows us to keep all of our logic one level deep.
 
 The downside to that is if you had a log of First and After all our promise chaining, both logs would execute before any of our pizzas are logged. 
 
@@ -670,7 +669,7 @@ console.log('Right after');
 
 We will look at how we can use async/await to get around that. 
 
-If you look at the call stack, what we know is that it first runs the function `makePizza(['pepperoni'])` (highlighted in the image below), which immediately returns a proimse. 
+If you look at the call stack, what we know is that it first runs the function `makePizza(['pepperoni'])` (highlighted in the image below), which immediately returns a promise. 
 
 ![](@attachment/Clipboard_2020-05-12-06-50-58.png) 12:34
 
@@ -684,7 +683,7 @@ Set an empty array as the default because sometimes people might order a pizza w
 function makePizza(toppings = [])
 ``` 
 
-For every single topping that is added to the pizza, let's add 200 miliseconds to the initial bake time which is 500. Let's calculate that and save it in a variable as shown below 👇 
+For every single topping that is added to the pizza, let's add 200 milliseconds to the initial bake time which is 500. Let's calculate that and save it in a variable as shown below 👇 
 
 ```js
 const amountOfTimeToBake = 500 + (toppings.length * 200);
@@ -698,7 +697,7 @@ function makePizza(toppings = []){
     const amountOfTimeToBake = 500 + (toppings.length * 200);
     //wait 1 second for the pizza to cook
     setTimeout(function(){
-      resolve(`Here is your pizza 🍕 with the topppings ${toppings.join(' ')`);
+      resolve(`Here is your pizza 🍕 with the toppings ${toppings.join(' ')}`);
     }, amountOfTimeToBake)
     //if something went wrong, we can reject this promise
   });
@@ -735,7 +734,7 @@ makePizza(['pepperoni', 'ham'])
       console.log('All done! here is your last pizza');
       console.log(pizza);
     })
-console.log('Right after');
+  console.log('Right after');
 ```
 
 ### `Promise.all()`
@@ -809,7 +808,7 @@ That is saying take the first argument and destructure it into a variable named 
 
 If you refresh the page you will see it still works. 
 
-To reiterate, `Promise.all()` will take all of your promises and will only resolve when all 3 of the sub-promisess have been resolved themselves.
+To reiterate, `Promise.all()` will take all of your promises and will only resolve when all 3 of the sub-promises have been resolved themselves.
 
 ### `Promise.race()`
 
@@ -860,7 +859,7 @@ if(toppings.includes('pineapple')){
 }
 ```
 
-Now let's go to the bottom of the script section and commment out the code we added in the previous lesson when we were doing an example on how to run promises concurrently. 
+Now let's go to the bottom of the script section and comment out the code we added in the previous lesson when we were doing an example on how to run promises concurrently. 
 
 Below that commented out code add the following 👇
 
@@ -1011,9 +1010,9 @@ Take out `event-loop.html` file, duplicate it and rename it as `promise-chain.ht
 
 The first thing we want to do is make a function that will simply wait for a certain amount of time. This is something Wes does in almost every single project because it is such a common thing.
 
-Make a function called `wait` which will take in the number of miliseconds we want to wait using the parametetr `ms`, which we will default to 0 seconds, and then we will return a new promise which will resolve after the number of miliseconds that got sent in.
+Make a function called `wait` which will take in the number of milliseconds we want to wait using the parametetr `ms`, which we will default to 0 seconds, and then we will return a new promise which will resolve after the number of milliseconds that got sent in.
 
-Then we will just test our new method by waiting 2 seconds (2000 miliseconds) before logging "DONE".
+Then we will just test our new method by waiting 2 seconds (2000 milliseconds) before logging "DONE".
 
 ```js
 function wait(ms = 0){
@@ -1031,7 +1030,7 @@ Now if you refresh the page, after 2 seconds you should see "done" logged to the
 
 ![](@attachment/Clipboard_2020-05-16-16-13-20.png) 2:03
 
-That is such a common thing that Wes actually has an npm package called **Waait** which gets around 75k downloads per week and all it does is return a promise that resolves after a certain number of miliseconds that have been passed in. 
+That is such a common thing that Wes actually has an npm package called **Waait** which gets around 75k downloads per week and all it does is return a promise that resolves after a certain number of milliseconds that have been passed in. 
 
 We can use the implicit return and arrow function to refactor the `wait` function as shown below to be on one liner 👇
 
@@ -1079,19 +1078,19 @@ function animate(e){
   //1. change the text to GO when clicked
   el.textContent = 'GO';
   wait(200).then(()=>{
-     el.classList.add('cirlce');
+     el.classList.add('circle');
   })
 }
 ```
 
-Now after 2 miliseconds, the GO square will turn into a circle. If you refresh the page, you will see it still works.
+Now after 2 milliseconds, the GO square will turn into a circle. If you refresh the page, you will see it still works.
 
 ![](@attachment/Clipboard_2020-05-16-16-26-37.png) 6:11
 
 Now how do we make it red after 0.5 seconds? 
 We cannot just call it after the wait function because that will cause it to go red before it goes to circle.
 
-What we can do instead is we can return another `wait()` of 500 miliseconds and then chain anonther  `.then()` onto it and put our third item in there, as shown below. 
+What we can do instead is we can return another `wait()` of 500 milliseconds and then chain another  `.then()` onto it and put our third item in there, as shown below. 
 
 ```js
 function animate(e){
@@ -1100,10 +1099,10 @@ function animate(e){
   el.textContent = 'GO';
   //2. make it a circle after 2 seconds
   wait(200).then(()=>{
-     el.classList.add('cirlce');
+     el.classList.add('circle');
      return wait(500);
   }).then(()=>{
-    //3. make it ared after 0.5 seconds
+    //3. make it red after 0.5 seconds
     el.classList.add('red');
   })
 }
@@ -1119,11 +1118,11 @@ function animate(e){
   //2. make it a circle after 2 seconds
   wait(200)
   .then(()=>{
-     el.classList.add('cirlce');
+     el.classList.add('circle');
      return wait(500);
   })
   .then(()=>{
-    //3. make it ared after 0.5 seconds
+    //3. make it red after 0.5 seconds
     el.classList.add('red');
   })
 }
@@ -1133,7 +1132,7 @@ Now we have to make it a square after 0.25 seconds by removing the class of circ
 
 ```js
 .then(()=>{
-  //3. make it ared after 0.5 seconds
+  //3. make it red after 0.5 seconds
   el.classList.add('red');
   return wait(250);
 })
@@ -1142,16 +1141,16 @@ Now we have to make it a square after 0.25 seconds by removing the class of circ
 })
 ```
 
-Now after 500 miliseconds we want to remove the red class and add the purple one like so 👇
+Now after 500 milliseconds we want to remove the red class and add the purple one like so 👇
 
 ```js
 .then(()=>{
-  //3. make it ared after 0.5 seconds
+  //3. make it red after 0.5 seconds
   el.classList.add('red');
   return wait(250);
 })
 .then(()=>{
-  el.classList.remove('cirlce');
+  el.classList.remove('circle');
   return wait (500);
 })
 .then(()=>{
@@ -1185,7 +1184,7 @@ Although in the last lesson we refactored our callback hell example to use promi
 
 `async/await` is a new syntax that will allow us to use the keyword `async` and the keyword `await` for a much nicer, easier to read looking code and we will see how that works in just a second. 
 
-Your functions that return promise still stay exactly the same way. There is nothing that needs to change about your promsie generating functions. We need to change where we actually call the code to use `async/await`. 
+Your functions that return promise still stay exactly the same way. There is nothing that needs to change about your promise generating functions. We need to change where we actually call the code to use `async/await`. 
 
 Go into the `playground` folder and make a new file called `async-await.html` and add our base HTML. 
 
@@ -1327,7 +1326,7 @@ const person = {
 }
 ```
 
-Essentially whenever you have a function, put the word `async` infront of it and that will allow you to do awaiting inside of it. 
+Essentially whenever you have a function, put the word `async` in front of it and that will allow you to do awaiting inside of it. 
 
 You cannot do what is referred to as top level await. 
 
@@ -1361,7 +1360,7 @@ Within that function we will call `makePizza` to make `pizza1` and then we will 
 
 ```js
 async function makeDinner(){
-  conost pizza1 = makePizza(['pepperoni']);
+  const pizza1 = makePizza(['pepperoni']);
   console.log(pizza1);
 }
 makeDinner();
@@ -1371,13 +1370,13 @@ If you comment out the `go` function and the code where we call `go` and instead
 
 ![](@attachment/Clipboard_2020-05-18-09-36-05.png) 8:43
 
-That is because we are running the function and storing it in a variable, which will store the promise in the variable. Note that we call it "await" instead of "wait" because it is asynchronously waiting. Meaning it won't actuallly pause all of javascript, it's not going to block the rest of the javascript from running. 
+That is because we are running the function and storing it in a variable, which will store the promise in the variable. Note that we call it "await" instead of "wait" because it is asynchronously waiting. Meaning it won't actually pause all of javascript, it's not going to block the rest of the javascript from running. 
 
-If we instead put an `await` infront of our `makePizza` function, we will asynchronously be waiting for the pizza to be done, and when it is, we will simply log it.
+If we instead put an `await` in front of our `makePizza` function, we will asynchronously be waiting for the pizza to be done, and when it is, we will simply log it.
 
 ```js
 async function makeDinner(){
-  conost pizza1 = await makePizza(['pepperoni']);
+  const pizza1 = await makePizza(['pepperoni']);
   console.log(pizza1);
 }
 makeDinner();
@@ -1389,9 +1388,9 @@ Similarly we can do that with pizza2 as well.
 
 ```js
 async function makeDinner(){
-  conost pizza1 = await makePizza(['pepperoni']);
+  const pizza1 = await makePizza(['pepperoni']);
   console.log(pizza1);
-  conost pizza2 = await makePizza(['mushroos']);
+  const pizza2 = await makePizza(['mushrooms']);
   console.log(pizza2); 
 }
 makeDinner();
@@ -1428,7 +1427,7 @@ const pizzas = await Promise.all([pizzaPromise1, pizzaPromise2]);
 
 ![](@attachment/Clipboard_2020-05-18-09-49-13.png) 11:29
 
-Now we get the actual pizzas instead of just the proimises. Go ahead and destructure the two pizzas that are returned.
+Now we get the actual pizzas instead of just the promises. Go ahead and destructure the two pizzas that are returned.
 
 ```js
 const [pep, mush] = await Promise.all([pizzaPromise1, pizzaPromise2]);
@@ -1508,7 +1507,7 @@ function animate(e) {
 }
 ```
 
-As you can see in `animate2` there are no `.then()` and no callbacks, we simply just pause the function from running with our `await` infront of a function that returns to us a promise. 
+As you can see in `animate2` there are no `.then()` and no callbacks, we simply just pause the function from running with our `await` in front of a function that returns to us a promise. 
 
 In the next video we will look at how to handle errors with `async await` and we will go over a lot of the browser APIs that come with `async await`.
 
@@ -1607,7 +1606,7 @@ One downside to this is the syntax messes up the beautiful async await syntax be
 
 The benefit to that is you can have multiple promises.
 
-For exampe, if we tried to make multiple pineapple pizzas, if either one failed, it would be caught by the same try/catch. 
+For example, if we tried to make multiple pineapple pizzas, if either one failed, it would be caught by the same try/catch. 
 
 Another way we can do that is using what Wes refers to as "mix and match", meaning that we can use async/await but use the promise syntax for error handling.  
 
@@ -1768,7 +1767,7 @@ The only difference would be calling `.catch()` inside of `go()`, like so 👇
 
 ```js
 async function go(){
-  const pizza = await makePizza(['pinapple']).catch(handleError);
+  const pizza = await makePizza(['pineapple']).catch(handleError);
 }
 ```
 
@@ -1786,7 +1785,7 @@ When it comes time to calling that function, you have two options. You can catch
 
 Create a higher order function, `makeSafe` that takes in 2 parameters:
 1. The function that we want to make safe
-2. Tthe function we want to be responsible for handling the error 
+2. The function we want to be responsible for handling the error 
 
 What this function will do is it will return another function which then calls our original function and chains the `.catch()` onto the end. 
 
@@ -1916,7 +1915,7 @@ We also have some CSS that Wes will explain to us because we will be using CSS v
 
 The buttons on the HTML page are there so that when you click them, they will invoke the prompt.
 
-One more thing we will look at is how to open one prompt after the other and get all three pieces of data back, which is going to be in a s**ynchronous map**. 
+One more thing we will look at is how to open one prompt after the other and get all three pieces of data back, which is going to be in a **synchronous map**. 
 
 That is pretty tricking to do, so Wes will show us how to do that, how to run something in series when you have promises in async/await.
 
@@ -1964,7 +1963,7 @@ Use `document.createElement` because that will immediately return to us a DOM no
 If we just used backticks and a form tag, we wouldn't be able to add event listeners inside of the function. We would have to wait until that thing was put into the page before we could add event listeners to it. 
 
 ```js
-const popup = document.createELement('form');
+const popup = document.createEElement('form');
 ```
 
 Now we can add a class of `popup` to it, which just makes sure it has position of fixed, a specific background color, that the width and height are 100 percent of the viewport width and height. 
@@ -2054,7 +2053,7 @@ The solution there is to put a very small timeout before we add the `open` class
 
 That will stick the code that is beyond it at the end of the event loop and that is enough to give A and B a little time to transition itself. 
 
-Let's add a timeout of 10 miliseconds and then add the class of `open`.
+Let's add a timeout of 10 milliseconds and then add the class of `open`.
 
 ```js
 document.body.appendChild(popup);
@@ -2072,7 +2071,7 @@ As we learned earlier how the event loop works is that when you have a timeout, 
 
 Sometimes you will see this where somebody puts something at a timeout of 0. All that is doing is it puts that at the end of the event loop so that the other code finishes running by the time we add our class list of open. 
 
-Wes has tested that in a few browsers but it doesn't work too great, so let's change it to 50 miliseconds instead of 0. 
+Wes has tested that in a few browsers but it doesn't work too great, so let's change it to 50 milliseconds instead of 0. 
 
 ```js
 setTimeout(function(){
@@ -2266,7 +2265,7 @@ If you refresh the page and try it by calling `ask({title:'does it work', cancel
 
 ![](@attachment/Clipboard_2020-05-19-19-13-05.png) 19:39
 
-If we wanted to get the actual data from the input, we could just call `ask` with `await` infront of it from the console, as shown below 👇
+If we wanted to get the actual data from the input, we could just call `ask` with `await` in front of it from the console, as shown below 👇
 
 ```js
 await ask({title:'does it work', cancel:true})
@@ -2349,7 +2348,7 @@ console.log(popup);
 
 As you can see, we still have access to the popup even though it has been removed from the DOM. 
 
-That is a potential **memory leak**, because everytime you pop something up, you add all these things to it, such as event listeners, and simply removing the element from the DOM does **not** remove it from Javascript's memory entirely (because it is possible you might want to add it back). 
+That is a potential **memory leak**, because every time you pop something up, you add all these things to it, such as event listeners, and simply removing the element from the DOM does **not** remove it from Javascript's memory entirely (because it is possible you might want to add it back). 
 
 If you do want to get rid of it entirely, just destroy any evidence of it using `popup = null;`.
 
@@ -2453,7 +2452,7 @@ In addition, trying to convert a string of "true" and "false" is a bit of a nigh
 To detect if it is there we can add the code below 👇
 
 ```js
-const shouldCanel = button.dataset.cancel;
+const shouldCancel = button.dataset.cancel;
 const answer = await  ask({title: butotn.dataset.question, cancel: shouldCancel});
 ```
 
@@ -2465,10 +2464,10 @@ Is an empty string `true` or `false`?  It is falsy!
 
 So if we are passing an empty string, it is going to be falsy. 
 
-You might think you could just put a bang infront of it as shown below 👇 but we still have the issue with an empty string being falsy.
+You might think you could just put a bang in front of it as shown below 👇 but we still have the issue with an empty string being falsy.
 
 ```js
-const shouldCancel = !!button.dagtaset.cancel;
+const shouldCancel = !!button.dataset.cancel;
 ```
 
 So how do we detect if there is a `cancel` property within the dataset? We can check using the syntax below, because if it's not true, it won't exist .
@@ -2567,7 +2566,7 @@ This is not an uncommon thing to do, waiting for few promises to resolve and the
 
 We have to use the promise syntax because we are not in an async function where we are calling `Promise.all()`. 
 
-If you refresh the page and try that, you will see that the questions are asked out of order. What s happening is there are actualy three popups on the page at the same time. 
+If you refresh the page and try that, you will see that the questions are asked out of order. What s happening is there are actually three popups on the page at the same time. 
 
 ![](@attachment/Clipboard_2020-05-19-23-51-57.png) 35:04
 
@@ -2677,7 +2676,7 @@ Now when you refresh the page and look at the results, you should see that we ge
 
 ![](@attachment/Clipboard_2020-05-20-00-04-48.png) 42:40
 
-We could take things one step furether and refactor the function slightly to push the await of the callback directly.
+We could take things one step further and refactor the function slightly to push the await of the callback directly.
 
 ```js
 async function asyncMap(array, callback){
@@ -2702,7 +2701,7 @@ In this video we will using **async/await** and **recursion** to create the effe
 
 We will do this by taking any element with a `data-type` attribute on it, and figuring out how we can make it look like it is being typed. 
 
-We will also support the ability to pass in a `data-type-min` and a `data-type-max` attribute to specify the amount of time between each letter being typed to make it look a little more human (so instead of always typing a new letter every 10 miliseconds, there is a range).
+We will also support the ability to pass in a `data-type-min` and a `data-type-max` attribute to specify the amount of time between each letter being typed to make it look a little more human (so instead of always typing a new letter every 10 milliseconds, there is a range).
 
 This is a great example of asynchronous code because if it was synchronous, it would need to wait for one element's text to finish being typed before starting the next one. 
 
@@ -2730,7 +2729,7 @@ It is basically the same thing, we just shift it up by the amount of the min.
 
 Call `Math.random()` and multiply that by `(max - min)` and then add the min to that value. 
 
-Add defaults of 20 miliseconds for the min and 150 for the max. 
+Add defaults of 20 milliseconds for the min and 150 for the max. 
 
 ```js
 function getRandomBetween(min = 20, max = 150){
@@ -2848,9 +2847,9 @@ async function draw(el){
 }
 ```
 
-That loops pretty cool but to make it seem more human, we will wait a random amount of time instead of 10 ms everytime. 
+That loops pretty cool but to make it seem more human, we will wait a random amount of time instead of 10 ms every time. 
 
-Let's do that using our random number funciton. 
+Let's do that using our random number function. 
 
 ```js
 const amountOfTimeToWait = getRandomBetween();
@@ -2977,9 +2976,9 @@ What we need to do is add an exit condition: we need to check if the index is le
 
 Now when there are no more letters to draw, it will stop and the function will end.
 
-If you refresh the page, it still works but it happens so quickly we don't see anything. Let's wait 10 miliseconds using the wait function which we will add above the if statement. 
+If you refresh the page, it still works but it happens so quickly we don't see anything. Let's wait 10 milliseconds using the wait function which we will add above the if statement. 
 
-Now if you refresh the page you will see it's adding the text at a rate of 10 miliseconds. 
+Now if you refresh the page you will see it's adding the text at a rate of 10 milliseconds. 
 
 We can do the same thing we did in the previous method and grab our min and max and pass it to `getRandomBetween`. 
 

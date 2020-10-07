@@ -88,7 +88,7 @@ The values of an object can be any type (string, function, boolean, other object
 
 So for example, let's say we have a variable, `age` which is set to 100 like so `const age = 100;`. 
 
-Now you could swap out the harcoded age from the person's object and instead assign it the variable like so 👇
+Now you could swap out the hardcoded age from the person's object and instead assign it the variable like so 👇
 
 ```js
 const age = 100;
@@ -194,7 +194,7 @@ const person = new Object({
 
 ![](@attachment/Clipboard_2020-04-03-19-28-22.png) 6:56
 
-As you can see, now the `person` object has a nested object `clothing` which has `shirt` and `pants` properrties. 
+As you can see, now the `person` object has a nested object `clothing` which has `shirt` and `pants` properties. 
 
 You can nest objects as deep as you could possibly want. 
 
@@ -269,7 +269,7 @@ If you refresh the HTML page and open the console, you will see this error 👇
 
 ![](@attachment/Clipboard_2020-04-03-19-54-54.png) 9:00
 
-Even if you put the keyword `const` infront of the second `wes` object, you will still get an error that says 
+Even if you put the keyword `const` in front of the second `wes` object, you will still get an error that says 
 >Identifier 'wes' has already been declared.
 
 It doesn't work because the binding to `wes` has already been created. 
@@ -278,7 +278,7 @@ Even though properties on the `wes` object can change, the actual object itself 
 
 If you do ever want to freeze the values in an object, what you can do is create a frozen object. 
 
-You use the captial "O" `Object` and call `.freeze()` on it and pass the object to it that you want to freeze.
+You use the capital "O" `Object` and call `.freeze()` on it and pass the object to it that you want to freeze.
 
 Add the following code at the bottom of the script tag 👇
 
@@ -554,7 +554,7 @@ As we went over earlier, the difference between a method and a function is that 
 
 That is all we have learned so far. 
 
-If you go back to the `wes` object and add a property `sayHello`, and you can set it to a function, and that function could take in a greeting if you want _(the funtion works the smae as any function that you would have)_ and from that `you` could return the greeting in a string and then the `name` like so ;po
+If you go back to the `wes` object and add a property `sayHello`, and you can set it to a function, and that function could take in a greeting if you want _(the function works the same as any function that you would have)_ and from that `you` could return the greeting in a string and then the `name` like so ;po
 
 ```js
 const wes = new Object({
@@ -673,7 +673,7 @@ let name1 = 'wes';
 let name2 = 'wes';
 ```
 
-You can check if those variables are equal by adding this line of code `conosole.log(name1 === name2);`, which should return true because both values are identical in both value and type. 
+You can check if those variables are equal by adding this line of code `console.log(name1 === name2);`, which should return true because both values are identical in both value and type. 
 
 However, what if you assign `name1` the value of "scott", and then check if they are equal like so? 👇
 
@@ -1062,10 +1062,9 @@ Bacon would be 10 because it would overwrite the value in the `meatInventory`.
 
 Wes really likes the spread operator. It can also be used for arrays which we will learn about in the array lessons. 
 
-
 The last thing we are going to hammer home is that the concept of passing in via reference vs copy also applies to functions. 
 
-Let's say you had a function `doStuff`, which took in an argument `data`, and within the function you modified the value of data to be somethign else, like so 👇
+Let's say you had a function `doStuff`, which took in an argument `data`, and within the function you modified the value of data to be something else, like so 👇
 
 ```js
 function doStuff(data){
@@ -1559,7 +1558,7 @@ If you refresh the HTML page and look at the console, you should see the followi
 
 ![](@attachment/Clipboard_2020-04-08-07-19-02.png) 5:39
 
-So if you want to acess items within the array it is zero based, however if you are using `.length` to check how many items are in the array it is not zero based.
+So if you want to access items within the array it is zero based, however if you are using `.length` to check how many items are in the array it is not zero based.
 
 If you want to get the last item in the array, you could do `console.log(names[2]);` which would give us `snickers`, but what if you don't know how long the array is?
 
@@ -1724,7 +1723,7 @@ To recap:
 
 Anytime you want to call a mutable method without mutating the original thing, you should first take a copy of it and then call the method. 
 
-Most of the methods that we will learn about in arrays are immutable, but the few that aren't can getcha. 
+Most of the methods that we will learn about in arrays are immutable, but the few that aren't can get cha. 
 
 Comment out all the numbers code we added, because we will continue with our `names` example that's towards the top of the script tag.
 
@@ -1832,7 +1831,7 @@ const newBikes = [
 console.log(newBikes);
 ```
 
-You took the first 2 andspread them into it, and then you add the new item, take everything else after that and spread it into there. 
+You took the first 2 and spread them into it, and then you add the new item, take everything else after that and spread it into there. 
 
 How do you take everything after an index using splice? You don't pass it an end, like you did here: `...bikes.slice(2);`
 
@@ -1876,7 +1875,7 @@ You may have a function called `deleteComment` which takes in an `id` and the `c
  
 Inside of the function, you first need to find the index of the item in the array, then you need to make a new array without that item in it, and then return that new array. 
 
-One thing we have not covered yet is how do you find the index of something, based on the item you are seraching for? 
+One thing we have not covered yet is how do you find the index of something, based on the item you are searching for? 
 
 You use a method called `findIndex()`.
 
@@ -1929,7 +1928,7 @@ if(name === 'kait'){
   return false;
 ```
 
-The if statement also returns true or false itself so there is no real need for an if statment. 
+The if statement also returns true or false itself so there is no real need for an if statement. 
  
 Thus, the other way you can do it is just by return the condition, which will be true of false like this 👇
 
@@ -2310,7 +2309,7 @@ If you try that, you should get an error like so 👇
 
 There is a limit to how big your arrays can be. They are very, very, very large. 
 
-There are some additional datatypes in the language for having big, big arrays, and you will most likely only run into those when you're dealing with 3D graphics and you have to work at a per pixel level.
+There are some additional data types in the language for having big, big arrays, and you will most likely only run into those when you're dealing with 3D graphics and you have to work at a per pixel level.
 
 Let's refresh the page, open the console and try with a smaller number as shown below. 
 
@@ -2336,7 +2335,7 @@ That is a pretty common thing you will need to do because if you try to use `typ
 
 The only way to check whether an array is an array is by using `Array.isArray()` 
 
-Some people sort of cheat it and instead of using `Array.isArray` they will check fo the existence of things that are array-ish such as for the existance of a length property. That isn't good because you could have an object with a length property as well and that check wouldn't work.
+Some people sort of cheat it and instead of using `Array.isArray` they will check fo the existence of things that are array-ish such as for the existence of a length property. That isn't good because you could have an object with a length property as well and that check wouldn't work.
 
 #### Object Static Methods
 
@@ -2545,7 +2544,7 @@ If you want to turn this string into an array, it's actually not an array method
 
 `split` takes in an argument, which is the character on which to split the string on. 
 
-In this example, you want to split the string on the comma.  `split(',')` will get rid of those commas for us, which is what we want. 
+In this example, you want to split the string on the comma. `split(',')` will get rid of those commas for us, which is what we want. 
 
 ```js
 console.log(foodString.split(','));  
@@ -2783,7 +2782,7 @@ Note that the object we are passing is identical to the first object in the peop
 
 However, if you try that, you will see -1 in the console. 
 
--1 is what is returned when it didn't find anything (the reason it doens't give you 0 is because 0 is the first item in the array). 
+-1 is what is returned when it didn't find anything (the reason it doesn't give you 0 is because 0 is the first item in the array). 
 
 ![](@attachment/Clipboard_2020-04-10-15-00-54.png) 11:25
 
@@ -2801,7 +2800,7 @@ Because objects don't do a deep check to see if all the properties match up, the
 
 When we called `indexOf(wes)`, it was checking whether the `people` variable contained a reference to the object `wes`, which it did. When we checked it for an object that just looks the same, it gave us false. That is the whole reference vs value thing again.
 
-If you did need to find scott in that exampe you would just use `find()` with a callback. 
+If you did need to find scott in that example you would just use `find()` with a callback. 
 
 The is also `lastIndexOf()`. 
 
@@ -2863,7 +2862,7 @@ If you want to do it **immutably** without modifying the original toppings array
 const toppingsReversed = [...toppings].reverse();
 ```
 
-Using the second approach leaves `topppings` untouched because it just reverses our new array, which is a copy of `toppings`. 
+Using the second approach leaves `toppings` untouched because it just reverses our new array, which is a copy of `toppings`. 
 
 Those are the main methods Wes thinks will be helpful. 
 
@@ -2893,7 +2892,7 @@ We will talk about callback methods in the next video.
 
 ```
 
-In this lesson we are going to corver what Wes calls **"callback" methods** methods. They aren't actually called callback methods,  Wes just made that up. 
+In this lesson we are going to cover what Wes calls **"callback" methods** methods. They aren't actually called callback methods,  Wes just made that up. 
 
 The reason he is grouping all of these methods into their own section (which he is calling "callback methods") is because before we even hit looping, a lot of these methods take a function as an argument and it's often called a callback. 
 
@@ -2914,7 +2913,6 @@ const feedback = [
 ```
 
 We want to find the first one that has either the word "burg" or "burger" in it. 
-
 
 Add the following code 👇
 
@@ -2937,7 +2935,7 @@ It means that the argument of `find()` is going to be a function that either ret
 We have been doing something like this with an arrow function. 
 
 ```js
-const burgRating = feedback.find(rating => rating.comment.incldues('burg'));
+const burgRating = feedback.find(rating => rating.comment.includes('burg'));
 console.log(burg);
 ```
 
@@ -2957,7 +2955,7 @@ Create a function called `findBurgRating` which takes in 3 arguments, and we kno
 
 First it takes `element`. The element is just a nice way of saying each individual item. So rather than calling it element, we can name it something that is meaningful to use. Wes is choosing to call it `feedback`.
 
-The next argument is going to be the index. That is often shortformed to an `i`. If you ever need to know what index something is when you are in the loop, you have access to it. 
+The next argument is going to be the index. That is often short formed to an `i`. If you ever need to know what index something is when you are in the loop, you have access to it. 
 
 The third argument is the array. If you ever need to reference the entire array while you are inside of the function, you can use that argument. 
 
@@ -2965,7 +2963,7 @@ Typically Wes doesn't need to pass both index and array but if you ever do need 
 
 You might be asking, why don't we just use reference it by the feedback array? 
 
-That is because this function could be reused on multilpe arrays, and in order to make it a function that can be reused on many arrays, we can pass in.
+That is because this function could be reused on multiple arrays, and in order to make it a function that can be reused on many arrays, we can pass in.
 
 Right now we don't need to pass index or the array, we just care about the feedback (the element argument).
 
@@ -2987,7 +2985,7 @@ console.log(burgRating);
 
 Notice that we do not put parenthesis on `findBurgRating`. We do `findBurgRating` instead of `findBurgRating()`. That is because we are not calling the function, we are simply passing it reference to the function and javascript itself is going to run that function once for each item in our feedback array. 
 
-Modify the paramter name in `findBurgRating` from `feedback` because it's not singluar. Rename it to `singleFeedback` like so 👇
+Modify the parameter name in `findBurgRating` from `feedback` because it's not singular. Rename it to `singleFeedback` like so 👇
 
 ```js
 function findBurgRating(singleFeedback) {
@@ -3155,7 +3153,7 @@ const burgRating = feedback.find(indByWord('burg'));
 const smoothieRating = feedback.find(findByWord('Smoothie'))
 ```
 
-You might be saying, "hold on Wes, I thought you werne't supposed to call a function when you pass it to find. I thought you were just supposed to pass it reference to the function". 
+You might be saying, "hold on Wes, I thought you weren't supposed to call a function when you pass it to find. I thought you were just supposed to pass it reference to the function". 
 
 The key here is that `findByWord()` function doesn't find the burger itself, instead it returns a function which then, in turn, will find the burg for you.
 
@@ -3194,7 +3192,7 @@ As you can see, this also returns an item with a rating of 2 so let's actually c
 
 How can we make this function better? We have done this a few times now so you can feel free to do it yourself. 
 
-This function contains a condition that returns true or false, so we can just simple return the condition instead, and use an implict return, like so 👇
+This function contains a condition that returns true or false, so we can just simple return the condition instead, and use an implicit return, like so 👇
 
 ```js
 const goodReviews = feedback.filter(singleFeedback => singleFeedback.rating > 2);
@@ -3240,7 +3238,7 @@ const goodReviews = feedback.filter(filterByMinRating(4));
 ![](@attachment/Clipboard_2020-04-12-16-28-20.png) 16:25
 
 
-The next exercuise asks use to find all the ratings that talk about a burger using `filter`. 
+The next exercise asks use to find all the ratings that talk about a burger using `filter`. 
 
 ```js
 const burgRatings = feedback.filter(singleFeedback => singleFeedback.comment.includes('burg'));
@@ -3392,7 +3390,7 @@ That is clearly not what we want.
 
 The way sort works is it takes a compare callback function that defines the sort order. That callback function gives you the first and the second thing. 
 
-So basically we are going to loop over the array and it will give us the first item, and the second thing, and then it's up to us to decide the sort order (if one item should go infront of the other, etc). 
+So basically we are going to loop over the array and it will give us the first item, and the second thing, and then it's up to us to decide the sort order (if one item should go in front of the other, etc). 
 
 So, what do you return? 
 

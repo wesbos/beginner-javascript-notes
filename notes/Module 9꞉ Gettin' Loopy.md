@@ -57,7 +57,7 @@ When you refresh the HTML page, the debugger should open once it hits the first 
 
 ![](@attachment/Clipboard_2020-04-13-18-42-05.png) 9:52
 
-As you can see, the debugger is in paused state. We have access to the callstack, and it tells us we are in the function `logTopping`. 
+As you can see, the debugger is in paused state. We have access to the call stack, and it tells us we are in the function `logTopping`. 
 
 Below that, the debugger tells us what the `topping` variable is equal to which is "Mushrooms", as well as the value of the `this` variable, which is equal to the Window.
 
@@ -98,7 +98,7 @@ We also have the ability to get the index and the array, so let's take a look at
 Modify the code like so 👇
 
 ```js
-function logToppping(topping, index, array){
+function logTopping(topping, index, array){
   console.log(topping,index, array);
 }
 toppings.forEach(logTopping);
@@ -271,7 +271,7 @@ We have already looked at one example of `filter` and that is `find`, where you 
 
 That is a transformation of that data and are often referred to as **pure functions**. 
 
-**Pure functions** take in data, they return data, they always work exactly the same way given the data that's inputed, it returns the exact same thing. They don't reach outside themselves to do that. 
+**Pure functions** take in data, they return data, they always work exactly the same way given the data that's inputted, it returns the exact same thing. They don't reach outside themselves to do that. 
 
 Let's talk about `map`. 
 
@@ -594,7 +594,7 @@ _HOT TIP 🔥: Use `console.dir(birthday)` to see all the methods that exist on 
 
 If the date that you pass to the `new Date()` function doesn't have a time value, it will default to midnight. 
 
-Now that we have the birthday, we want to figure out how old the person is. In order to do that, we need to know the curent date. 
+Now that we have the birthday, we want to figure out how old the person is. In order to do that, we need to know the current date. 
 
 Modify the inline function like so to capture the current date in the variable `now` 👇
 
@@ -635,7 +635,7 @@ If you ever have one of these timestamps, you can go to the website https://epoc
 
 ![](@attachment/Clipboard_2020-04-14-19-14-18.png) 16:36
 
-This website allows you to convert any date in the future or in the past to a timestamp. Javascript deals with miliseconds so you want to always work with that. 
+This website allows you to convert any date in the future or in the past to a timestamp. Javascript deals with milliseconds so you want to always work with that. 
 
 It also allows you to do the opposite. It will take in a timestamp and convert it back to a regular date for you. 
 
@@ -643,7 +643,7 @@ So back to our inline map function, we don't want to just grab the persons birth
 
 We can do that by chaining the `getTime` method onto `new Date(person.birthday).getTime();`. 
 
-For the `now` variable, wuse `Date.now()` to get the timestamp instead of `new Date()`.  
+For the `now` variable, use `Date.now()` to get the timestamp instead of `new Date()`.  
 
 `.now()` is a static method because it lives on the `Date` object.
 
@@ -664,11 +664,11 @@ console.log(age);
 
 ![](@attachment/Clipboard_2020-04-14-19-18-55.png) 18:12
 
-That is how old each person is in miliseconds. 
+That is how old each person is in milliseconds. 
 
 We need to convert it into years. We need to do some math for that. 
 
-Let's ask ourselves how many miliseconds in a year. We know there are 1000 miliseconds in a second, there is 60 seconds in a minute, there is 60 minutes in an hour, there are 24 hours in a day and 365 days in a year.
+Let's ask ourselves how many milliseconds in a year. We know there are 1000 milliseconds in a second, there is 60 seconds in a minute, there is 60 minutes in an hour, there are 24 hours in a day and 365 days in a year.
 
 `1000 x 60 x60 x 24 x 365 = 31536000000`
 
@@ -689,7 +689,7 @@ const cleanPeople = people.map(function(person){
 
 ![](@attachment/Clipboard_2020-04-14-19-23-24.png) 19:22
 
-That leaves us with some decimals which we can just take the lower boudn of their number, because if they haven't hit their next birthday yet, you would say you are 26 years old. 
+That leaves us with some decimals which we can just take the lower bound of their number, because if they haven't hit their next birthday yet, you would say you are 26 years old. 
 
 How do we take the lower bound of any number? 
 
@@ -740,7 +740,7 @@ console.table(cleanPeople);
 
 ![](@attachment/Clipboard_2020-04-14-19-29-46.png) 21:16
 
-As you can see we have everyones name and age. 
+As you can see we have everyone's name and age. 
 
 That is what `map` does. It takes in some data that doesn't look exactly how you like it. You do a bunch of data massaging and then spit it out the other end. 
 
@@ -942,7 +942,7 @@ const student = students.find(isStudent);
 console.log(student);
 ```
 
-Now that is a little bit weird. Why would we write a function that is hardccoded to a specific id? It's more likely that we will be looking for a student with their own specific id, so a hardcoded value would not work for all students. 
+Now that is a little bit weird. Why would we write a function that is hardcoded to a specific id? It's more likely that we will be looking for a student with their own specific id, so a hardcoded value would not work for all students. 
 
 What we can do is wrap that in another function called `findById`, which takes in one parameter,`id`, and which returns another function like so 👇
 
@@ -1043,7 +1043,7 @@ So what does it do?
 
 It takes in an array of data (just like `map` and `filter`) and it will return to you a result of or a single value. 
 
-Now what does that 👆exactly mean? 
+Now what does that exactly mean? 
 
 Let's do an example to demonstrate. 
 
@@ -1336,7 +1336,7 @@ totals.shirt ? totals.shirt + 1 : totals.shirt = 1;
 
 We are checking if `totals.shirt` exists, if it does, we increment it by 1, if it doesn't we create the property and set it to 1. 
 
-One thing you may have noticed is we have been hardcoding shirt, which we shouldn't be doing because there are a few differnt types. 
+One thing you may have noticed is we have been hard coding shirt, which we shouldn't be doing because there are a few different types. 
 
 We can change it to a variable lookup item using square brackets like so 👇
 
@@ -1408,7 +1408,7 @@ How can we convert all of the text into an array of every single letter?
 
 You can call `split()` or spread it into an array.
 
-For example we can call split on our `text` variable and pass it an emptry string so that we split it on nothing like so 👇
+For example we can call split on our `text` variable and pass it an empty string so that we split it on nothing like so 👇
 
 ```js
 const everything = text.split('');
@@ -1753,7 +1753,7 @@ The for loop requires three things:
 2. a condition
 3. an increment expression
 
-The plain for loop is great for runnning a block of code a certain number of times for example 5 times. 
+The plain for loop is great for running a block of code a certain number of times for example 5 times. 
 
 Let's start with an extremely basic example. 
 
@@ -1875,7 +1875,7 @@ for(let i = 0; i < numbers.length; i++){
 
 As you can see, it logged 0 to 11 because there are 12 numbers in our `numbers` array (you can check the length by typing `numbers.length` in the console).
 
-Now to access the individual number, you would have to use the index to retreive it using square brackets like so 👇
+Now to access the individual number, you would have to use the index to retrieve it using square brackets like so 👇
 
 ```js
 for(let i = 0; i < numbers.length; i++){

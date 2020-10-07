@@ -161,7 +161,7 @@ To reiterate, by using the `new` keyword in Javascript, it creates a new object 
 We could take this a bit further and look at the `constructor` by logging it. 
 
 ```js
-console.log(pepperoniaPizza.constructor);
+console.log(pepperoniPizza.constructor);
 ```
 
 The constructor will tell us what function made it. 
@@ -178,7 +178,7 @@ If you were to type `pepperoniPizza instanceof Pizza` we would see true returned
 
 ## 61 -  The `this` keyword. 
 
-We will discuss the `this` key in this video and the next video which is about **prototypes** and p**rototypal inheritance**. 
+We will discuss the `this` key in this video and the next video which is about **prototypes** and **prototypal inheritance**. 
 
 The `this` keyword in Javascript refers to the instance of an object that a function is bound. 
 
@@ -265,7 +265,7 @@ Modify the logs to be a bit clearer. Replace the first log with `console.log('ou
 
 ![](@attachment/Clipboard_2020-05-05-20-19-43.png) 4:53
 
-As you can see, outside it is equal to the button but inside the timeout it is equal to the window. That is because everytime you create a new function, it will change what the value of `this` is equal to. 
+As you can see, outside it is equal to the button but inside the timeout it is equal to the window. That is because every time you create a new function, it will change what the value of `this` is equal to. 
 
 If you need to be able to access the value of the `this` keyword within the `tellMeABoutTheButton` function, you can use an arrow function because it will know not to change. It will instead grab the value of whatever `this` is equal to within the `tellMeABoutTheButton` function. 
 
@@ -497,7 +497,7 @@ function showImage(el) {
 
 Cut those functions out of the `Gallery()` function and add them right below the function. 
 
-Now what we need to do is we need to change each of thoes functions to be on the prototype of the gallery.
+Now what we need to do is we need to change each of those functions to be on the prototype of the gallery.
 
 We are going to remove the word `function` and instead will put `Gallery.prototype`, as shown below. 
 
@@ -506,7 +506,7 @@ Gallery.prototype.openModal() {
   console.info('Opening Modal...');
   // First check if the modal is already open
   if (modal.matches('.open')) {
-    console.info('Madal already open');
+    console.info('Modal already open');
     return; // stop the function from running
   }
   modal.classList.add('open');
@@ -524,7 +524,7 @@ If you save and refresh, you will see that we now have access to the `openModal`
 
 Wes likes to use VSCode multi-cursor to refactor the methods all at once. 
 
-His shortcuts are to hold down Click + Cmd and then put the cursor infront of every function name so you can edit them all at once. 
+His shortcuts are to hold down Click + Cmd and then put the cursor in front of every function name so you can edit them all at once. 
 
 ![](@attachment/Clipboard_2020-05-06-05-42-38.png) 5:23
 
@@ -595,7 +595,7 @@ If you go to line 29, you will see we are calling `showImage(e.currentTarget)`.
 
 Anytime we reference one of our functions, it needs to be changed to `this.showImage`. 
 
-That is where ESLint becomes very helfpul. If you click ESLint at the bottom, you can see all of the problems. 
+That is where ESLint becomes very helpful. If you click ESLint at the bottom, you can see all of the problems. 
 
 ![](@attachment/Clipboard_2020-05-06-05-46-09.png) 6:49
 
@@ -664,7 +664,7 @@ Gallery.prototype.showImage = function(el) {
 };
 ```
 
-Now we have refactored everything (all our variables and methods) to be referenceable by `this.` and their name. 
+Now we have refactored everything (all our variables and methods) to be reference-able by `this.` and their name. 
 
 Let's go through the app and find any issues that might exist. We will first find all the bugs, make a list and then fix them. 
 
@@ -729,9 +729,9 @@ Now when you open the modal up, and hit the escape key, and repeat that a few ti
 
 What is going on there? 
 
-Everytime we close the modal, it is going one further down the slideshow. Everytime that we open it up, we are listening for another click on it already. 
+Every time we close the modal, it is going one further down the slideshow. Every time that we open it up, we are listening for another click on it already. 
 
-The way we fixed that before is we just removed the event listener when we closed the modal. That way we added and removed it everytime that we opened and closed the modal. 
+The way we fixed that before is we just removed the event listener when we closed the modal. That way we added and removed it every time that we opened and closed the modal. 
 
 However what happens when you use `() => this.showNextImage())` what is highlighted in the image below is that you are creating an anonymous function, and in order to remove an event listener, you have to have reference to that function. 
 
@@ -739,7 +739,7 @@ However what happens when you use `() => this.showNextImage())` what is highligh
 
 The other way we can fix that is by binding it to `this` when we have access to `this` inside of the gallery. 
 
-It will get a bit complicated but don't sweat it if you don't get it right away. It took Wes a couple of years to get it. This will make sense eventualy (like the 7th or 8th time you build something this way). This is pretty common in React world. 
+It will get a bit complicated but don't sweat it if you don't get it right away. It took Wes a couple of years to get it. This will make sense eventually (like the 7th or 8th time you build something this way). This is pretty common in React world. 
 
 So now we need to bind our methods to the instance when we need them.  
 
@@ -837,7 +837,7 @@ In the example above, both `canadianPizza` and `pepperoniPizza` are instances of
 
 The way that we attach properties onto that instance is by saying `this.propertyname`. 
 
-Let's say we want to add some functionality, like the abilitiy to count the number of slices left in the pizza. We can start with every pizza having 10 slices by adding the code below to our `Pizza` constructor function.  
+Let's say we want to add some functionality, like the ability to count the number of slices left in the pizza. We can start with every pizza having 10 slices by adding the code below to our `Pizza` constructor function.  
 
 ```js
 this.slices = 10;
@@ -901,7 +901,7 @@ Instead of putting functions on every single instance, we can put them on what i
 
 You might be thinking, what is wrong with the code we have now? It seems to be working so far. 
 
-The problem comes when you have 20,000 pizzas. Then you have lots of instances of the pizza, and everytime you define a new function, that takes up memory in your computer and that is what causes websites and computers to go slow in many cases. 
+The problem comes when you have 20,000 pizzas. Then you have lots of instances of the pizza, and every time you define a new function, that takes up memory in your computer and that is what causes websites and computers to go slow in many cases. 
 
 It would be much more efficient to have one `eat()` function that is shared amongst all our pizzas. 
 
@@ -990,11 +990,11 @@ That is because we overwrote the existing `toUpperCase` functionality on the pro
 
 Now when any string calls `toUpperCase()` our function will run instead. 
 
-You can see why it would be a bad idea to modify a built in, because one person might expect the method to do something one way, and then if you have changed something, the libaries on the page that are expecting `toUpperCase` to work will break. You should never modify built-ins for this reason. 
+You can see why it would be a bad idea to modify a built in, because one person might expect the method to do something one way, and then if you have changed something, the libraries on the page that are expecting `toUpperCase` to work will break. You should never modify built-ins for this reason. 
 
 If you should never modify built-in functions, then why is that allowed? 
 
-Some new functionality that is added to the browser, like `Array.includes()`, might be missing from some older browsers. For those browsers, you can use something called a **polyfill**, which recreates the missing functionality. When the browser doesn't include it natively, you can **pollyfill** it by recreating the functionality in vanilla JS. 
+Some new functionality that is added to the browser, like `Array.includes()`, might be missing from some older browsers. For those browsers, you can use something called a **polyfill**, which recreates the missing functionality. When the browser doesn't include it natively, you can **polyfill** it by recreating the functionality in vanilla JS. 
 
 You can also add your own methods. Again don't do this, but it's possible. 
 
@@ -1016,7 +1016,7 @@ What we can do is build out our sarcastic method similar to how we did in a prev
 
 ```js
 String.prototype.sarcastic = function() {
-  const sarcsatic = this.split('').map((char, i) => {
+  const sarcastic = this.split('').map((char, i) => {
     if(i%2){
       return char.toUpperCase();
     }
@@ -1088,7 +1088,7 @@ You should see the following in the console
 
 ![](@attachment/Clipboard_2020-05-06-19-57-19.png) 1:18
 
-Now we will do the same thing we did last time -- add a `new` keyword infront of it. That will create a new instance of the slider for each instance that we have. 
+Now we will do the same thing we did last time -- add a `new` keyword in front of it. That will create a new instance of the slider for each instance that we have. 
 
 ```js
 const mySlider = new Slider(document.querySelector(".slider"));
@@ -1110,7 +1110,7 @@ function Slider(slider) {
 if (!(slider instanceof Element)) {
   throw new Error('No slider passed in');
 }
-// create some variables for working iwth the slider
+// create some variables for working with the slider
 let prev;
 let current;
 let next;
@@ -1172,7 +1172,7 @@ const dogSlider = Slider(document.querySelector('.dog-slider'));function Slider(
 if (!(slider instanceof Element)) {
   throw new Error('No slider passed in');
 }
-// create some variables for working iwth the slider
+// create some variables for working with the slider
 let prev;
 let current;
 let next;
@@ -1264,7 +1264,7 @@ const prevButton = slider.querySelector(".goToPrev");
 const nextButton = slider.querySelector(".goToNext");
 ```
 
-The next 3 declarations you see above also need to be `this.`. Go ahead and rename those and everywhere they are being referenced. The `prevButton` however is only accessible inside of the constuctor when we add the event listener. They are not needed anywhere inside of the prototype method, so it's not necessary to put it on `this`. 
+The next 3 declarations you see above also need to be `this.`. Go ahead and rename those and everywhere they are being referenced. The `prevButton` however is only accessible inside of the constructor when we add the event listener. They are not needed anywhere inside of the prototype method, so it's not necessary to put it on `this`. 
 
 So `prevButton` and `nextButton` can stay variables but we will just rename `slides` like so 👇
 
@@ -1286,7 +1286,7 @@ function Slider(slider) {
   if (!(slider instanceof Element)) {
     throw new Error("No slider passed in");
   }
-  // create some variables for working iwth the slider
+  // create some variables for working with the slider
   let prev;
   let current;
   let next;
@@ -1355,7 +1355,7 @@ function Slider(slider) {
   if (!(slider instanceof Element)) {
     throw new Error("No slider passed in");
   }
-  // create some variables for working iwth the slider
+  // create some variables for working with the slider
   this.prev;
   this.current;
   this.next;
@@ -1420,7 +1420,7 @@ Now let's go ahead and fix the errors showing up in the text editor.
 The call to `startSlider` and `applyClasses` need to be changed to `this.startSlider()` and `this.applyClasses()`. Same thing for the calls to the `move` function, they need to be `this.move`. 
 
 
-```is
+```js
 // when this slider is created, run the start slider function
 this.startSlider();
 this.applyClasses();
@@ -1455,7 +1455,7 @@ Let's look at everywhere that we are using `querySelector`.
 
 Those first 3 should be fine since we are passing in the slider. 
 
-Where else are we using `querySelector`? Within the `startSlider` function and where we intialize the slider instances. 
+Where else are we using `querySelector`? Within the `startSlider` function and where we initialize the slider instances. 
 
 ![](@attachment/Clipboard_2020-05-07-07-06-31.png) 6:01
 
@@ -1483,7 +1483,7 @@ this.slides = slider.querySelector(".slides");
 this.slider = slider;
 ```
 
-Now if you refresh thae page you should no longer see that problem in the console. 
+Now if you refresh the page, you should no longer see that problem in the console. 
 
 We now get the following error 👇
 
@@ -1510,7 +1510,7 @@ We can bind it with `this` and that will work.
 nextButton.addEventListener('click', this.move.bind(this));
 ```
 
-The reason we are allowed to do that here is because we aren't removing the event listener so we dont need access to the new `this` that was bound. 
+The reason we are allowed to do that here is because we aren't removing the event listener so we don't need access to the new `this` that was bound. 
 
 The other thing we can do is refactor it to an arrow function as shown below.
 
@@ -1635,7 +1635,7 @@ That is because we have changed what `this` will be equal to by binding it to an
 
 Why would that be useful? 
 
-Somtimes you want to use a method of an object with some other information. Let's say we have a Jenna object, as shown below 👇
+Sometimes you want to use a method of an object with some other information. Let's say we have a Jenna object, as shown below 👇
 
 ```js
 const jenna = { name: 'Jenna'};
@@ -1673,7 +1673,7 @@ If you refresh the page and call `sayHi()` you will see "hey Harry" returned.
 
 Let's look at another example. 
 
-`doccument.querySelector` and `document.querySelectorAll` are kind of hard to type. 
+`document.querySelector` and `document.querySelectorAll` are kind of hard to type. 
 
 Let's do an example using that. 
 
@@ -1732,7 +1732,7 @@ The reason it knows where to scope it to, either globally (the document) or in a
  The way that we can fix that is we can call `bind()` on it and manually pass it reference to the thing we want it to be equal to. 
 
  ```js
- //by calling bind against querySelector, we say that when the $ funciton is run, use `document` as the `this` value. 
+ //by calling bind against querySelector, we say that when the $ function is run, use `document` as the `this` value. 
  const $ = document.querySelector.bind(document);
  ```
 

@@ -756,7 +756,7 @@ If you find that those values are causing your computer to slow down, feel free 
 
 Next we need to grab the canvas element and the context. We will use those to size up the canvas to be the width and height values that we set in the variables.
 
-```jd
+```js
 const WIDTH = 1500;
 const HEIGHT = 1500;
 const canvas = document.querySelector('canvas');
@@ -920,7 +920,7 @@ Now we see the following message in the console 👇
 
 ![](@attachment/Clipboard_2020-06-19-10-24-50.png) 16:05
 
-To allow access, you need to allow the webpage access to the mircophone within chrome, as shown in the image below.
+To allow access, you need to allow the webpage access to the microphone within chrome, as shown in the image below.
 
 ![](@attachment/Clipboard_2020-06-19-10-25-21.png) 16:07
 
@@ -1010,7 +1010,7 @@ function drawTimeData(timeData) {
   analyzer.getByteTimeDomainData(timeData);
   // now that we have the data, lets turn it into something visual
   // 1. Clear the canvas TODO
-// 2. setup some canvas drawing
+  // 2. setup some canvas drawing
   ctx.lineWidth = 10;
   ctx.strokeStyle = "#ffc600";
   ctx.beginPath();

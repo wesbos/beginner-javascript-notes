@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-01-19-17-01-59.png]
+attachments: [3.png]
 title: Links for Beginner Javascript
 created: '2020-01-19T21:36:23.286Z'
 modified: '2020-01-29T00:25:16.306Z'

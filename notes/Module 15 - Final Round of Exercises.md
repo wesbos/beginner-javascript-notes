@@ -1,5 +1,5 @@
 ---
-attachments: [audio.gif, Clipboard_2020-06-18-06-40-04.png, Clipboard_2020-06-18-06-49-00.png, Clipboard_2020-06-18-06-50-34.png, Clipboard_2020-06-18-06-52-14.png, Clipboard_2020-06-18-06-53-02.png, Clipboard_2020-06-18-07-03-08.png, Clipboard_2020-06-18-07-03-22.png, Clipboard_2020-06-18-07-05-02.png, Clipboard_2020-06-18-07-27-38.png, Clipboard_2020-06-18-19-19-53.png, Clipboard_2020-06-18-19-24-57.png, Clipboard_2020-06-18-19-28-57.png, Clipboard_2020-06-18-19-29-56.png, Clipboard_2020-06-18-19-31-17.png, Clipboard_2020-06-18-19-32-12.png, Clipboard_2020-06-18-19-33-33.png, Clipboard_2020-06-18-19-37-39.png, Clipboard_2020-06-18-19-38-28.png, Clipboard_2020-06-18-19-40-50.png, Clipboard_2020-06-18-19-44-55.png, Clipboard_2020-06-18-19-57-42.png, Clipboard_2020-06-18-19-58-12.png, Clipboard_2020-06-18-20-01-11.png, Clipboard_2020-06-18-20-03-05.png, Clipboard_2020-06-18-20-06-54.png, Clipboard_2020-06-18-20-08-22.png, Clipboard_2020-06-18-20-08-25.png, Clipboard_2020-06-19-08-46-17.png, Clipboard_2020-06-19-08-49-41.png, Clipboard_2020-06-19-10-06-10.png, Clipboard_2020-06-19-10-06-28.png, Clipboard_2020-06-19-10-07-52.png, Clipboard_2020-06-19-10-14-13.png, Clipboard_2020-06-19-10-21-16.png, Clipboard_2020-06-19-10-24-50.png, Clipboard_2020-06-19-10-25-21.png, Clipboard_2020-06-19-10-28-37.png, Clipboard_2020-06-19-10-37-23.png, Clipboard_2020-06-19-10-42-21.png, Clipboard_2020-06-19-10-46-19.png, Clipboard_2020-06-19-11-03-19.png, Clipboard_2020-06-19-11-15-55.png, Clipboard_2020-06-19-11-25-39.png, Clipboard_2020-06-19-11-38-41.png, Clipboard_2020-06-19-11-48-48.png, Clipboard_2020-06-19-11-49-59.png, Clipboard_2020-06-19-11-53-50.png, Clipboard_2020-06-19-12-18-16.png, Clipboard_2020-06-19-12-20-30.png, Clipboard_2020-06-19-12-31-50.png, Clipboard_2020-06-19-12-34-19.png, Clipboard_2020-06-19-12-35-04.png, Clipboard_2020-06-19-12-36-15.png, Clipboard_2020-06-19-12-41-22.png, Clipboard_2020-06-19-12-42-08.png, Clipboard_2020-06-19-13-02-06.png, Clipboard_2020-06-19-13-04-09.png, red.gif]
+attachments: [audio.gif, 1379.png, 1380.png, 1381.png, 1382.png, 1383.png, 1384.png, 1385.png, 1386.png, 1387.png, 1388.png, 1389.png, 1390.png, 1391.png, 1392.png, 1393.png, 1394.png, 1395.png, 1396.png, 1397.png, 1398.png, 1399.png, 1400.png, 1401.png, 1402.png, 1403.png, 1404.png, 1405.png, 1406.png, 1407.png, 1408.png, 1409.png, 1410.png, 1411.png, 1412.png, 1413.png, 1414.png, 1415.png, 1416.png, 1417.png, 1418.png, 1419.png, 1420.png, 1421.png, 1422.png, 1423.png, 1424.png, 1425.png, 1426.png, 1427.png, 1428.png, 1429.png, 1430.png, 1431.png, 1432.png, 1433.png, 1434.png, 1435.png, red.gif]
 title: Module 15 - Final Round of Exercises
 created: '2020-06-18T10:37:29.455Z'
 modified: '2020-09-22T11:27:34.616Z'
@@ -11,7 +11,7 @@ modified: '2020-09-22T11:27:34.616Z'
 
 ## 84 - Web Speech Colours Game
 
-![](@attachment/Clipboard_2020-06-09-06-45-57.png) 00:27
+![](../attachments/1372.png) 00:27
 
 In this exercise we will be using the Speech Recognition API that is currently only available in the Chrome broswer to practice our Javascript skills by building a little game.
 
@@ -19,7 +19,7 @@ The way it will work is when you say a colour, the background colour of the webs
 
 Let's start by opening chrome and navigating to `chrome://flags` in the browser. On this page, we need to make sure that "Experimental Web Platform features" are turned on.
 
-![](@attachment/Clipboard_2020-06-09-06-50-08.png) 1:02
+![](../attachments/1373.png) 1:02
 
 We also need to get a server going.
 
@@ -31,7 +31,7 @@ Within the file there is also a function called `isDark` which Wes grabbed from 
 
 Then there is `style.css` which contains a few styles and animations, like the word popping up and getting crossed off when you say it.
 
-![](@attachment/Clipboard_2020-06-09-06-55-21.png) 2:26
+![](../attachments/1374.png) 2:26
 
 If look at the `package.json`, you will see we have `parcel-bundler` and `browserslist`, both of which we have used before.
 
@@ -39,7 +39,7 @@ Open up the terminal and navigate to the exercises folder and type `npm install`
 
 After that is finished installing, simply type `npm start` and open up the server in a browser to see what we are starting with.
 
-![](@attachment/Clipboard_2020-06-09-06-58-40.png) 3:20
+![](../attachments/1375.png) 3:20
 
 Let's start by getting the web speech part working and then later we will connect the colours.
 
@@ -47,7 +47,7 @@ Let's start by getting the web speech part working and then later we will connec
 
 We need to check if there is something called `window.SpeechRecognition`. However if you try to reference that in the console, you will get undefined because it is actually `window.webkitSpeechRecognition`.
 
-![](@attachment/Clipboard_2020-06-09-07-01-04.png) 4:10
+![](../attachments/1376.png) 4:10
 
 Add the following to `speech.js`.
 
@@ -72,11 +72,11 @@ window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecogn
 
 Now in our chrome tools we can access it like so:
 
-![](@attachment/Clipboard_2020-06-09-07-07-43.png) 5:02
+![](../attachments/1377.png) 5:02
 
 Now within `start` let's check for the existance of a property called `SpeechRecognition` that is in the window.
 
-![](@attachment/Clipboard_2020-06-09-07-08-43.png) 5:29
+![](../attachments/1378.png) 5:29
 
 ```js
 //speech.js
@@ -115,7 +115,7 @@ We also need to hook up an event listener.
 
 This is a little bit different than most event listeners because normally you would add `.addEventListener`. but if you try to log the `recognition` variable and look at the prototype, you will see there is no method like `addEventListener`.
 
-![](@attachment/Clipboard_2020-06-18-06-40-04.png) 7:30
+![](../attachments/1379.png) 7:30
 
 To listen for a result, we will use `onresult` like so 👇
 
@@ -151,21 +151,21 @@ This time we do not have to include the `.js` extension when importing from `han
 
 When the page refreshes after adding the import statement, you may be prompted to accept permissions to the microphone.
 
-![](@attachment/Clipboard_2020-06-18-06-49-00.png) 8:41
+![](../attachments/1380.png) 8:41
 
 We want to allow access to the microphone so that the SpeechRecognition API picks up our voice. Go ahead and allow it.
 
 Once you do that, it should start listening to your voice and you should see events streaming in the console as you speak.
 
-![](@attachment/Clipboard_2020-06-18-06-50-34.png) 9:27
+![](../attachments/1381.png) 9:27
 
 If you open up one of the `SpeechRecognitionEvents` that have been logged in the console, you will see it is very similar to an event object.
 
-![](@attachment/Clipboard_2020-06-18-06-52-14.png) 9:38
+![](../attachments/1382.png) 9:38
 
 However there is a `results` property, which contains a few items that the speech recognition thinks you said. In our case, we will be taking both of the results.
 
-![](@attachment/Clipboard_2020-06-18-06-53-02.png) 9:55
+![](../attachments/1383.png) 9:55
 
 The speech recognizer will continue giving us words as it tries to figure out what you said. Even after you stop talking, it keeps streaming the results in until it is confident in the result.
 
@@ -186,7 +186,7 @@ export function handleResult(event) {
 
 Sometimes the SpeechRecognition event will return a list, from which we want to grab the last one.
 
-![](@attachment/Clipboard_2020-06-18-07-03-22.png) 10:53
+![](../attachments/1385.png) 10:53
 
 Within the last item there is a `SpeechRecognitionAlternative`, which we can use to grab the transcript. Wes has only ever run into there being one `SpeechRecognitionAlternative` item.
 
@@ -201,7 +201,7 @@ function logWords(results) {
 
 Now if you refresh the page and try to say something like "I love Pizza", you will see that logged in the console.
 
-![](@attachment/Clipboard_2020-06-18-07-05-02.png) 11:16
+![](../attachments/1386.png) 11:16
 
 In the code above, we are accessing the deeply nested property on the `results` object.
 
@@ -230,7 +230,7 @@ import { handleResult } from "./handlers";
 import { colorsByLength } from "./colors";
 ```
 
-![](@attachment/Clipboard_2020-06-18-07-27-38.png) 13:37
+![](../attachments/1387.png) 13:37
 
 If you look at the console when the page refreshes you will see that it gives us an array of all the colors.
 
@@ -254,7 +254,7 @@ The `sort()` method works like so:
 
 When the page refreshes, you will see that the colors are now sorted by length.
 
-![](@attachment/Clipboard_2020-06-18-19-19-53.png) 14:10
+![](../attachments/1388.png) 14:10
 
 Next, we will write a function to display the colors within `speech.js`.
 
@@ -287,7 +287,7 @@ function displayColors(colors) {
 
 Let's take a look at the HTML we are working with.
 
-![](@attachment/Clipboard_2020-06-18-19-24-57.png) 15:27
+![](../attachments/1389.png) 15:27
 
 As you can see, in our `index.html`, we have a div with the class of colors. We will select that on page load.
 
@@ -337,7 +337,7 @@ colorsEl.innerHTML = displayColors();
 
 When the page refreshes, you will notice that we get the following error:
 
-![](@attachment/Clipboard_2020-06-18-19-28-57.png) 16:06
+![](../attachments/1390.png) 16:06
 
 That issue is happening because we did not pass the list of colors as an argument. Let's fix that.
 
@@ -348,7 +348,7 @@ colorsEl.innerHTML = displayColors(colorsByLength);
 
 Now, when the page refreshes we just see undefined and there is nothing in the console. What is going on?
 
-![](@attachment/Clipboard_2020-06-18-19-29-56.png) 16:18
+![](../attachments/1391.png) 16:18
 
 If you look at our `speech.js` file, you will see that we forgot to return the colors map in our `displayColors` function. Fix that by adding the return keyword before the map.
 
@@ -359,7 +359,7 @@ function displayColors(colors) {
 }
 ```
 
-![](@attachment/Clipboard_2020-06-18-19-31-17.png) 16:26
+![](../attachments/1392.png) 16:26
 
 As you can see, now it works! That gives us a list of all the colors.
 
@@ -372,7 +372,7 @@ function displayColors(colors) {
 }
 ```
 
-![](@attachment/Clipboard_2020-06-18-19-32-12.png) 16:38
+![](../attachments/1393.png) 16:38
 
 Let's add some style properties to each of the colors. We will set the background to be the name of the colors, like so 👇
 
@@ -389,7 +389,7 @@ function displayColors(colors) {
 }
 ```
 
-![](@attachment/Clipboard_2020-06-18-19-33-33.png) 16:55
+![](../attachments/1394.png) 16:55
 
 We want to know if the color is light or dark so we can change the color of the text accordingly. Wes wrote some CSS ahead of time to handle this.
 
@@ -417,11 +417,11 @@ function displayColors(colors) {
 }
 ```
 
-![](@attachment/Clipboard_2020-06-18-19-37-39.png) 17:40
+![](../attachments/1395.png) 17:40
 
 What should happen is the dark ones have a class of "dark" and the lighter colors should have no class appended.
 
-![](@attachment/Clipboard_2020-06-18-19-38-28.png) 17:46
+![](../attachments/1396.png) 17:46
 
 However, if you inspect the element in the dev tools, you will see that the classes that are dark have the "dark" class, but the light colors have a "false" class, which is incorrect.
 
@@ -441,7 +441,7 @@ function displayColors(colors) {
 }
 ```
 
-![](@attachment/Clipboard_2020-06-18-19-40-50.png) 17:59
+![](../attachments/1397.png) 17:59
 
 As you can see, the light colors only have the "colors" class now.
 
@@ -464,7 +464,7 @@ export function handleResult(event) {
 
 If you refresh the page and try to say red, you will see an error logged complaining that `results` is not defined.
 
-![](@attachment/Clipboard_2020-06-18-19-44-55.png) 18:29
+![](../attachments/1398.png) 18:29
 
 To fix that, let's destructure the results property in the function definitions.
 
@@ -543,11 +543,11 @@ export function isValidColor(word) {
 That code above works like this:
 Calling `colors.red` will return the hex, but calling `!!colors.red` will return `true` and if the property doesn't exist, it will return `false`.
 
-![](@attachment/Clipboard_2020-06-18-19-57-42.png) 22:22
+![](../attachments/1399.png) 22:22
 
 We could also use the `in` syntax and it would give us the same results.
 
-![](@attachment/Clipboard_2020-06-18-19-58-12.png) 22:35
+![](../attachments/1400.png) 22:35
 
 Next we can import that into our `handlers.js`.
 
@@ -578,7 +578,7 @@ Let's start working on the UI to display if it is a valid color.
 
 When a color is spoken, we will first cross the word out. To do that, we need to select the span corresponding to the color.
 
-![](@attachment/Clipboard_2020-06-18-20-01-11.png) 24:34
+![](../attachments/1401.png) 24:34
 
 However, we have run into an issue. We need a way to select a specific span and as you can see above, there is no way to identify the correct span. Let's fix that to add the color's name as a class in addition to the `color` class.
 
@@ -607,7 +607,7 @@ const colorSpan = document.querySelector(`.${color}`);
 console.log(colorSpan);
 ```
 
-![](@attachment/Clipboard_2020-06-18-20-03-05.png) 25:22
+![](../attachments/1402.png) 25:22
 
 If you try speaking the color red when the page refreshes, you should see the red color span logged.
 
@@ -671,7 +671,7 @@ export function handleResult({ results }) {
 }
 ```
 
-![](@attachment/red.gif)
+![](../attachments/red.gif)
 
 As you can see, now the background color is changing when the word is spoken.
 
@@ -681,7 +681,7 @@ That's a wrap for this exercise!
 
 ## 85 - Audio Visualization
 
-![](@attachment/audio.gif) 00:16
+![](../attachments/audio.gif) 00:16
 
 There is a whole spectrum of Javascript related to working with audio. In this lesson, we will be working with the Web Audio API which is really cool.
 
@@ -846,15 +846,15 @@ Now that we have the analyzer, we need to figure out how much data we want acces
 
 Here is an example with a lot of data:
 
-![](@attachment/Clipboard_2020-06-19-10-06-10.png) 10:28
+![](../attachments/1408.png) 10:28
 
 And here is an example with just some data:
 
-![](@attachment/Clipboard_2020-06-19-10-06-28.png) 10:32
+![](../attachments/1409.png) 10:32
 
 It is up to us how much data we want to collect. To set that we use the `fftSize` property of the analyzer. If you are curious you can look up the docs for that property but essentially that is what we use to set how much data should be collected.
 
-![](@attachment/Clipboard_2020-06-19-10-07-52.png) 11:24
+![](../attachments/1410.png) 11:24
 
 We will set it to be 2 to the power of 10, which you represent using two multiplication signs like so:
 
@@ -870,7 +870,7 @@ const timeData = new Uint8Array(analyzer.frequencyBinCount);
 
 Let's break that down starting with looking up the docs for the Uint8Array.
 
-![](@attachment/Clipboard_2020-06-19-10-14-13.png) 14:22
+![](../attachments/1411.png) 14:22
 
 What does that all mean? Well the data that we are getting back from the time data is 8 bits or 1 byte. This is getting pretty nerdy but essentially if you have an array, normal arrays you can put as much data as you want in every single item. However with this special array, each item can only ever be 8 bits of 1 byte (8 bits is 1 byte).
 
@@ -897,7 +897,7 @@ getAudio();
 
 When the page refreshes, we expected to see an array of audio logged to the console. However, we are currently seeing an error "Uncaught (in promise) DOMException: Permission denied"
 
-![](@attachment/Clipboard_2020-06-19-10-21-16.png) 15:35
+![](../attachments/1412.png) 15:35
 
 What is happening there is our call to `getUserMedia` has been denied.
 
@@ -918,11 +918,11 @@ async function getAudio() {
 
 Now we see the following message in the console 👇
 
-![](@attachment/Clipboard_2020-06-19-10-24-50.png) 16:05
+![](../attachments/1413.png) 16:05
 
 To allow access, you need to allow the webpage access to the microphone within chrome, as shown in the image below.
 
-![](@attachment/Clipboard_2020-06-19-10-25-21.png) 16:07
+![](../attachments/1414.png) 16:07
 
 Now when you refresh the page, you will see we get an array.
 
@@ -935,7 +935,7 @@ const frequencyData = new Uint8Array(analyzer.frequencyBinCount);
 console.log(frequencyData);
 ```
 
-![](@attachment/Clipboard_2020-06-19-10-28-37.png) 16:49
+![](../attachments/1415.png) 16:49
 
 We now have two empty arrays with the right amount of slots that we are going to be filling up with data.
 
@@ -977,7 +977,7 @@ function drawTimeData(timeData) {
 
 Now when you refresh you will see we have this stream of data coming in.
 
-![](@attachment/Clipboard_2020-06-19-10-37-23.png) 18:03
+![](../attachments/1416.png) 18:03
 
 It is all still zeros because it was 0 initially but we have another method that will allow us to pull the data out of it: `analyzer.getByteTimeDomainData(timeData);`
 
@@ -994,7 +994,7 @@ function drawTimeData(timeData) {
 }
 ```
 
-![](@attachment/Clipboard_2020-06-19-10-42-21.png) 19:13
+![](../attachments/1417.png) 19:13
 
 That data is a visual representation of the words that Wes is speaking.
 
@@ -1018,7 +1018,7 @@ function drawTimeData(timeData) {
 
 Now we need to do is figure out how long each line will be.
 
-![](@attachment/Clipboard_2020-06-19-10-46-19.png) 21:06
+![](../attachments/1418.png) 21:06
 
 Let's use the example above and assume there are 8 pieces of data we have to represent that visual. We need to draw lines between each of those data points like a line graph. In order to that, we must figure out how wide each of those lines are going to be.
 
@@ -1051,7 +1051,7 @@ const sliceWidth = WIDTH / bufferLength;
 console.log(sliceWidth);
 ```
 
-![](@attachment/Clipboard_2020-06-19-11-03-19.png) 23:16
+![](../attachments/1419.png) 23:16
 
 That gives us 2.9296875 pixels long. If we were to modify the `WIDTH` variable to 2500, that value will go up to 4.88 pixels wide per slice. Wes is not going to round that because canvas does a good enough job of rounding those values for us.
 
@@ -1074,7 +1074,7 @@ The reason we do that is because when you are not speaking, it returns 128 and t
 
 We also want to make a `y` value.
 
-![](@attachment/Clipboard_2020-06-19-11-15-55.png) 25:09
+![](../attachments/1420.png) 25:09
 
 Take the visual above as an example.
 
@@ -1151,7 +1151,7 @@ function drawTimeData(timeData) {
 }
 ```
 
-![](@attachment/Clipboard_2020-06-19-11-25-39.png) 26:51
+![](../attachments/1421.png) 26:51
 
 What is happening there is that every single time we are drawing something, it is drawing that to the page.
 
@@ -1164,17 +1164,17 @@ Let's go back to the TODO that we left for the first step where we need to clear
 ctx.clearRect(0, 0, WIDTH, HEIGHT);
 ```
 
-![](@attachment/lines.gif)
+![](../attachments/lines.gif)
 
 Now every single time that this runs, we first clear out the canvas so it looks like it is actually animating. That is just us painting very very quickly however.
 
 Go back to the place in the code where we set the `fftSize`. Let's try modifying it to be `analyzer.fftSize = 2 ** 6;`
 
-![](@attachment/Clipboard_2020-06-19-11-48-48.png) 28:00
+![](../attachments/1423.png) 28:00
 
 The higher limit is 32768. Let's try setting it to that like so: `analyzer.fftSize = 32768;`
 
-![](@attachment/Clipboard_2020-06-19-11-49-59.png) 28:14
+![](../attachments/1424.png) 28:14
 
 As you can see above, when we set it to the upper limit, we have tons of data streaming in. Let's bring that back to be 2 to the power of 10 instead.
 
@@ -1186,7 +1186,7 @@ Now let's do it again but this time for the frequency data.
 
 Wes will demonstrate how the visualizer respond to different frequencies using a frequency app.
 
-![](@attachment/bar.gif)
+![](../attachments/bar.gif)
 
 As you can see the different frequencies in the audio will affect how high the bars in the graph go.
 
@@ -1243,7 +1243,7 @@ function drawFrequency(frequencyData) {
 
 Now you should see that when Wes talks, the high and low ends are starting to fill each other up. If you zoom out while focused in the console and start talking, you will see that the data is streaming in.
 
-![](@attachment/Clipboard_2020-06-19-12-18-16.png) 32:01
+![](../attachments/1426.png) 32:01
 
 Now we need to take that data and paint it to the canvas. It will be a similar approach to how we visualized the time data.
 
@@ -1254,7 +1254,7 @@ const barWidth = WIDTH / bufferLength;
 console.log(barWidth);
 ```
 
-![](@attachment/Clipboard_2020-06-19-12-20-30.png) 32:50
+![](../attachments/1427.png) 32:50
 
 As you can see, we get the same width as we did for the time. Let's multiply that value by 2.5 like so: `const barWidth = (WIDTH / bufferLength) * 2.5;`.
 
@@ -1320,7 +1320,7 @@ ctx.fillRect(
 );
 ```
 
-![](@attachment/Clipboard_2020-06-19-12-31-50.png) 36:31
+![](../attachments/1428.png) 36:31
 
 Now when you refresh the page, you will see the bar, and it is going all the way to the top. That is because we need to increment the `x` variable by the width of the bar, so they go all the way across.
 
@@ -1328,11 +1328,11 @@ Add the following code as the last line of the forEach: `x += barWidth`.
 
 Now you should see the data is going all the way across.
 
-![](@attachment/Clipboard_2020-06-19-12-34-19.png) 37:06
+![](../attachments/1429.png) 37:06
 
 If you wanted to space the bars out a bit more, you could do something like `x += barWidth + 1` or `x += barWidth + 10`.
 
-![](@attachment/Clipboard_2020-06-19-12-35-04.png) 37:19
+![](../attachments/1430.png) 37:19
 
 Now let's fix the issue where the bars are going too high. We can do that by taking the barHeight variable and dividing it's value by 2 like so 👇
 
@@ -1340,7 +1340,7 @@ Now let's fix the issue where the bars are going too high. We can do that by tak
 const barHeight = (HEIGHT * percent) / 2;
 ```
 
-![](@attachment/Clipboard_2020-06-19-12-36-15.png) 37:48
+![](../attachments/1431.png) 37:48
 
 Now you should notice that the bars don't go quite as high as they would.
 
@@ -1353,7 +1353,7 @@ We can also set the fillStyle to use an RGBA value like so:
   });
 ```
 
-![](@attachment/Clipboard_2020-06-19-12-41-22.png) 38:19
+![](../attachments/1432.png) 38:19
 
 That will cause the bars to be semi-transparent and allow the time data line to show through.
 
@@ -1361,7 +1361,7 @@ The cool thing we want to do is use HSL to figure out which color each of the ba
 
 If you go to the website https://mothereffinghsl.com, you will see that for HSL the hue goes from 0 to 360, and it goes through the entire rainbow.
 
-![](@attachment/Clipboard_2020-06-19-12-42-08.png) 38:37
+![](../attachments/1433.png) 38:37
 
 Now we can say something that has 0 will be 0 on the HSL and something that has a 255 frequency will be 360 on the HSL spectrum. We can use that as a base to go through the entire thing.
 
@@ -1438,7 +1438,7 @@ frequencyData.forEach((amount) => {
 });
 ```
 
-![](@attachment/Clipboard_2020-06-19-13-02-06.png) 42:07
+![](../attachments/1434.png) 42:07
 
 It is working, however the colors are a bit pastel.
 
@@ -1448,7 +1448,7 @@ Let's fix that. Wes found that to get vibrant colors, you can simply subtract 0.
 const [h, s, l] = [360 / (percent * 360) - 0.5, 0.8, 0.5];
 ```
 
-![](@attachment/Clipboard_2020-06-19-13-04-09.png) 43:04
+![](../attachments/1435.png) 43:04
 
 You can feel free to play with these hue, saturation and lightness values.
 

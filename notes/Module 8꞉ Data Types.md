@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-04-02-07-57-18.png, Clipboard_2020-04-02-08-00-37.png, Clipboard_2020-04-02-08-04-55.png, Clipboard_2020-04-02-08-13-52.png, Clipboard_2020-04-02-08-14-45.png, Clipboard_2020-04-02-08-15-45.png, Clipboard_2020-04-02-18-06-00.png, Clipboard_2020-04-02-18-27-02.png, Clipboard_2020-04-03-19-28-22.png, Clipboard_2020-04-03-19-32-22.png, Clipboard_2020-04-03-19-36-31.png, Clipboard_2020-04-03-19-54-54.png, Clipboard_2020-04-03-20-03-21.png, Clipboard_2020-04-03-20-07-10.png, Clipboard_2020-04-04-17-57-58.png, Clipboard_2020-04-04-17-59-38.png, Clipboard_2020-04-04-18-08-40.png, Clipboard_2020-04-04-18-09-10.png, Clipboard_2020-04-04-18-13-12.png, Clipboard_2020-04-04-18-13-53.png, Clipboard_2020-04-04-18-15-41.png, Clipboard_2020-04-04-18-19-58.png, Clipboard_2020-04-04-18-25-38.png, Clipboard_2020-04-04-18-39-42.png, Clipboard_2020-04-04-18-46-34.png, Clipboard_2020-04-04-18-55-17.png, Clipboard_2020-04-04-18-56-31.png, Clipboard_2020-04-06-14-43-10.png, Clipboard_2020-04-06-14-49-10.png, Clipboard_2020-04-06-17-54-59.png, Clipboard_2020-04-06-19-27-38.png, Clipboard_2020-04-06-19-29-28.png, Clipboard_2020-04-06-20-09-03.png, Clipboard_2020-04-06-20-20-27.png, Clipboard_2020-04-06-20-22-30.png, Clipboard_2020-04-06-20-29-15.png, Clipboard_2020-04-06-20-33-24.png, Clipboard_2020-04-06-20-49-16.png, Clipboard_2020-04-06-20-49-53.png, Clipboard_2020-04-06-20-57-56.png, Clipboard_2020-04-06-21-04-35.png, Clipboard_2020-04-06-21-05-47.png, Clipboard_2020-04-06-22-42-28.png, Clipboard_2020-04-06-22-49-50.png, Clipboard_2020-04-06-22-49-53.png, Clipboard_2020-04-06-22-51-03.png, Clipboard_2020-04-06-22-53-06.png, Clipboard_2020-04-06-23-01-18.png, Clipboard_2020-04-06-23-03-08.png, Clipboard_2020-04-07-08-12-05.png, Clipboard_2020-04-07-08-14-02.png, Clipboard_2020-04-07-08-14-47.png, Clipboard_2020-04-07-08-17-27.png, Clipboard_2020-04-07-19-03-17.png, Clipboard_2020-04-07-19-03-58.png, Clipboard_2020-04-07-19-07-07.png, Clipboard_2020-04-07-19-11-12.png, Clipboard_2020-04-07-19-18-01.png, Clipboard_2020-04-07-19-20-00.png, Clipboard_2020-04-07-19-21-04.png, Clipboard_2020-04-07-19-26-42.png, Clipboard_2020-04-07-19-29-00.png, Clipboard_2020-04-07-19-32-07.png, Clipboard_2020-04-07-19-37-25.png, Clipboard_2020-04-07-19-38-54.png, Clipboard_2020-04-07-19-40-51.png, Clipboard_2020-04-07-20-06-27.png, Clipboard_2020-04-07-20-08-09.png, Clipboard_2020-04-08-07-19-02.png, Clipboard_2020-04-08-07-27-37.png, Clipboard_2020-04-08-07-50-01.png, Clipboard_2020-04-08-07-51-03.png, Clipboard_2020-04-08-19-04-47.png, Clipboard_2020-04-08-19-39-29.png, Clipboard_2020-04-08-19-44-38.png, Clipboard_2020-04-08-19-47-00.png, Clipboard_2020-04-08-19-54-28.png, Clipboard_2020-04-08-19-59-52.png, Clipboard_2020-04-08-20-02-49.png, Clipboard_2020-04-08-20-05-12.png, Clipboard_2020-04-08-20-07-38.png, Clipboard_2020-04-08-20-16-34.png, Clipboard_2020-04-08-20-19-41.png, Clipboard_2020-04-08-20-27-10.png, Clipboard_2020-04-08-20-30-09.png, Clipboard_2020-04-08-20-37-10.png, Clipboard_2020-04-08-20-38-45.png, Clipboard_2020-04-08-20-40-10.png, Clipboard_2020-04-08-20-41-15.png, Clipboard_2020-04-08-20-46-47.png, Clipboard_2020-04-09-18-06-44.png, Clipboard_2020-04-09-18-18-38.png, Clipboard_2020-04-09-18-19-45.png, Clipboard_2020-04-09-18-22-45.png, Clipboard_2020-04-09-18-29-23.png, Clipboard_2020-04-09-18-31-20.png, Clipboard_2020-04-09-18-35-52.png, Clipboard_2020-04-09-18-37-33.png, Clipboard_2020-04-09-18-49-53.png, Clipboard_2020-04-09-18-51-40.png, Clipboard_2020-04-09-19-02-07.png, Clipboard_2020-04-09-19-03-25.png, Clipboard_2020-04-09-19-04-38.png, Clipboard_2020-04-10-12-31-54.png, Clipboard_2020-04-10-12-37-17.png, Clipboard_2020-04-10-12-38-47.png, Clipboard_2020-04-10-12-48-26.png, Clipboard_2020-04-10-12-50-45.png, Clipboard_2020-04-10-12-56-17.png, Clipboard_2020-04-10-12-58-33.png, Clipboard_2020-04-10-12-59-54.png, Clipboard_2020-04-10-13-01-17.png, Clipboard_2020-04-10-13-29-18.png, Clipboard_2020-04-10-13-31-43.png, Clipboard_2020-04-10-13-40-08.png, Clipboard_2020-04-10-13-41-43.png, Clipboard_2020-04-10-13-42-14.png, Clipboard_2020-04-10-13-42-49.png, Clipboard_2020-04-10-13-45-06.png, Clipboard_2020-04-10-13-45-29.png, Clipboard_2020-04-10-13-45-58.png, Clipboard_2020-04-10-13-53-39.png, Clipboard_2020-04-10-13-56-07.png, Clipboard_2020-04-10-13-59-02.png, Clipboard_2020-04-10-14-06-50.png, Clipboard_2020-04-10-14-11-16.png, Clipboard_2020-04-10-14-16-45.png, Clipboard_2020-04-10-14-17-07.png, Clipboard_2020-04-10-14-18-03.png, Clipboard_2020-04-10-14-19-46.png, Clipboard_2020-04-10-14-46-11.png, Clipboard_2020-04-10-14-50-49.png, Clipboard_2020-04-10-14-58-53.png, Clipboard_2020-04-10-15-00-54.png, Clipboard_2020-04-10-15-05-27.png, Clipboard_2020-04-10-15-09-25.png, Clipboard_2020-04-10-15-11-53.png, Clipboard_2020-04-10-15-13-19.png, Clipboard_2020-04-10-15-14-31.png, Clipboard_2020-04-10-17-17-20.png, Clipboard_2020-04-10-17-21-48.png, Clipboard_2020-04-10-17-22-23.png, Clipboard_2020-04-10-17-37-51.png, Clipboard_2020-04-10-17-39-40.png, Clipboard_2020-04-10-17-42-27.png, Clipboard_2020-04-12-16-02-45.png, Clipboard_2020-04-12-16-18-00.png, Clipboard_2020-04-12-16-19-18.png, Clipboard_2020-04-12-16-28-20.png, Clipboard_2020-04-12-16-35-42.png, Clipboard_2020-04-12-16-38-32.png, Clipboard_2020-04-12-16-42-13.png, Clipboard_2020-04-12-16-48-40.png, Clipboard_2020-04-12-16-50-16.png, Clipboard_2020-04-12-16-57-54.png, Clipboard_2020-04-12-17-02-23.png, Clipboard_2020-04-12-17-03-38.png, Clipboard_2020-04-12-17-10-08.png, Clipboard_2020-04-12-17-11-03.png, Clipboard_2020-04-12-17-11-29.png, Clipboard_2020-04-12-17-15-36.png, Clipboard_2020-04-12-17-18-34.png, Clipboard_2020-04-12-17-21-05.png, Clipboard_2020-04-12-17-25-16.png, Clipboard_2020-04-12-17-27-43.png, Clipboard_2020-04-12-17-30-09.png, Clipboard_2020-04-12-17-33-15.png, Clipboard_2020-04-12-17-34-25.png, Clipboard_2020-04-12-17-35-17.png, Clipboard_2020-04-12-17-38-14.png, Clipboard_2020-04-12-17-38-45.png, Clipboard_2020-04-12-17-40-55.png, Clipboard_2020-04-12-17-44-45.png, Clipboard_2020-04-12-17-45-26.png, Clipboard_2020-04-12-17-45-52.png, Clipboard_2020-04-12-17-51-04.png, Clipboard_2020-04-12-17-52-32.png, Clipboard_2020-04-12-17-55-36.png, Clipboard_2020-04-12-17-57-18.png, Clipboard_2020-08-17-20-55-13.png, Clipboard_2020-08-17-20-56-05.png, Clipboard_2020-08-17-20-56-18.png]
+attachments: [440.png, 441.png, 442.png, 443.png, 444.png, 445.png, 446.png, 447.png, 448.png, 449.png, 450.png, 451.png, 452.png, 453.png, 454.png, 455.png, 456.png, 457.png, 458.png, 459.png, 460.png, 461.png, 462.png, 463.png, 464.png, 465.png, 466.png, 467.png, 468.png, 469.png, 470.png, 471.png, 472.png, 473.png, 474.png, 475.png, 476.png, 477.png, 478.png, 479.png, 480.png, 481.png, 482.png, 483.png, 484.png, 485.png, 486.png, 487.png, 488.png, 489.png, 490.png, 491.png, 492.png, 493.png, 494.png, 495.png, 496.png, 497.png, 498.png, 499.png, 500.png, 501.png, 502.png, 503.png, 504.png, 505.png, 506.png, 507.png, 508.png, 509.png, 510.png, 511.png, 512.png, 513.png, 514.png, 515.png, 516.png, 517.png, 518.png, 519.png, 520.png, 521.png, 522.png, 523.png, 524.png, 525.png, 526.png, 527.png, 528.png, 529.png, 530.png, 531.png, 532.png, 533.png, 534.png, 535.png, 536.png, 537.png, 538.png, 539.png, 540.png, 541.png, 542.png, 543.png, 544.png, 545.png, 546.png, 547.png, 548.png, 549.png, 550.png, 551.png, 552.png, 553.png, 554.png, 555.png, 556.png, 557.png, 558.png, 559.png, 560.png, 561.png, 562.png, 563.png, 564.png, 565.png, 566.png, 567.png, 568.png, 569.png, 570.png, 571.png, 572.png, 573.png, 574.png, 575.png, 576.png, 577.png, 578.png, 579.png, 580.png, 581.png, 582.png, 583.png, 584.png, 585.png, 586.png, 587.png, 588.png, 589.png, 590.png, 591.png, 592.png, 593.png, 594.png, 595.png, 596.png, 597.png, 598.png, 599.png, 600.png, 601.png, 602.png, 603.png, 604.png, 605.png, 606.png, 607.png, 608.png, 609.png, 610.png, 611.png, 612.png, 613.png, 614.png, 615.png, 616.png, 617.png, 618.png, 1467.png, 1468.png, 1469.png]
 title: 'Module 8: Data Types'
 created: '2020-04-02T11:47:12.050Z'
 modified: '2020-08-18T11:37:39.324Z'
@@ -43,7 +43,7 @@ Now if you log the person object, what will you see?
 
 You will probably see the object displayed with the properties in the same order. 
 
-![](@attachment/Clipboard_2020-04-02-07-57-18.png) 1:10
+![](../attachments/440.png) 1:10
 
 If you modify the code to swap out age and name so age comes first and then log, you will see that the properties also changed order when you logged it. 
 
@@ -61,7 +61,7 @@ const person = {
 
 That is called the **object literal** syntax.
 
-![](@attachment/Clipboard_2020-04-02-08-00-37.png) 1:30
+![](../attachments/441.png) 1:30
 
 You can also create an object like this 👇
 
@@ -80,7 +80,7 @@ _Note: we will talk about the `new` keyword in coming videos._
 
 Let's talk about some of the keywords related to objects.
 
-![](@attachment/Clipboard_2020-04-02-08-04-55.png) 2:31
+![](../attachments/442.png) 2:31
 
 The **property** is on the left, and then there is a colon and then we have the **value** on the right. 
 
@@ -130,7 +130,7 @@ const person = new Object({
 });
 ```
 
-![](@attachment/Clipboard_2020-04-02-08-13-52.png) 4:07
+![](../attachments/443.png) 4:07
 
 As you can see, you can have a property with a dash in it, whereas you cannot have variables with dashes in them. 
 
@@ -146,7 +146,7 @@ const person = new Object({
 });
 ```
 
-![](@attachment/Clipboard_2020-04-02-08-15-45.png) 4:29
+![](../attachments/445.png) 4:29
 
 Also, you might notice that in the console the order of the properties look different from our code, which is expected and fine. 
 
@@ -162,7 +162,7 @@ What happens all the time is if you don't leave a trailing comma, the next time 
 
 If you forget to add a comma between properties, you will see an error similar to what is shown below. 
 
-![](@attachment/Clipboard_2020-04-02-18-06-00.png) 5:37
+![](../attachments/446.png) 5:37
 
 Another reason is version control. 
 
@@ -192,7 +192,7 @@ const person = new Object({
 });
 ```
 
-![](@attachment/Clipboard_2020-04-03-19-28-22.png) 6:56
+![](../attachments/448.png) 6:56
 
 As you can see, now the `person` object has a nested object `clothing` which has `shirt` and `pants` properties. 
 
@@ -210,13 +210,13 @@ person.job = 'Web Developer';
 
 Now if you were to take a look at it in the console, you will see the `job` property has been added and is now part of the object. 
 
-![](@attachment/Clipboard_2020-04-03-19-32-22.png) 7:35
+![](../attachments/449.png) 7:35
 
 Similarly if you were trying to overwrite a property, you could do that as well.
 
 For example, is you add this line `person.age = 50;` and then refresh the HTML page and look at the console, you will see that `age` is now set to 50 even though when creating the object, we set it to the variable `age` which was 100. 
 
-![](@attachment/Clipboard_2020-04-03-19-36-31.png) 7:52
+![](../attachments/450.png) 7:52
 
 You might have noticed that the `person` object is a `const` variable, however you just went ahead and changed part of it. 
 
@@ -267,7 +267,7 @@ You can't do that.
 
 If you refresh the HTML page and open the console, you will see this error 👇
 
-![](@attachment/Clipboard_2020-04-03-19-54-54.png) 9:00
+![](../attachments/451.png) 9:00
 
 Even if you put the keyword `const` in front of the second `wes` object, you will still get an error that says 
 >Identifier 'wes' has already been declared.
@@ -294,7 +294,7 @@ Now type in `wesFroze.age = 100` to try to overwrite the age, and hit enter (it 
 
 Now type in `wesFrozen` again and the object should be returned to you and the `age` property should still be set to 50. 
 
-![](@attachment/Clipboard_2020-04-03-20-03-21.png) 9:57 
+![](../attachments/452.png) 9:57 
 
 So if you ever want to make an object so it cannot be changed, you could do that with `Object.freeze()`. 
 
@@ -306,7 +306,7 @@ Wes has already shown us one way to access properties, which is using the dot no
 
 For example to access the job property you would write `wes.job` which would return "Web Developer".
 
-![](@attachment/Clipboard_2020-04-03-20-07-10.png) 10:35
+![](../attachments/453.png) 10:35
 
 Just like when we looked at DOM elements, we have `getters` and `setters`, `objects`. That is the exact same thing with an object. 
 
@@ -366,13 +366,13 @@ The value of `propertyToCheck` is assigned to whatever we enter into the prompt.
 
 Refresh the HTML page and you should see the following 👇
 
-![](@attachment/Clipboard_2020-04-04-17-57-58.png) 12:27
+![](../attachments/454.png) 12:27
 
 If you open the console and then enter a property into the prompt such as `age`, you will see the value is logged. 
 
 For example, if you were to type in `clothing`, it gives you the object that is the clothing. 
 
-![](@attachment/Clipboard_2020-04-04-17-59-38.png) 12:32 
+![](../attachments/455.png) 12:32 
 
 That is one reason: when the property of the object is stored in a variable, because you can't just write `wes.propertyToCheck` because the code will literally look for a property named `propertyToCheck` on the object, it will not be able to interpret that it is a variable. 
 
@@ -400,7 +400,7 @@ Comment out the following code as demonstrated below and refresh the html page.
 
 In the console, you can write `wes.age` and the age will be returned, however you cannot type `wes.cool-dude` for example because they are invalid property lookups. 
 
-![](@attachment/Clipboard_2020-04-04-18-09-10.png) 13:39
+![](../attachments/457.png) 13:39
 
 So if that is the case for all three of those properties, (`777`, `really cool`, `cool-dude`) you would have to use square bracket notation to access them. 
 
@@ -412,15 +412,15 @@ To reference multiple levels deep, it's the same.
 
 For example you would write `wes.clothing.pants` to return the value of the pants property within the children object that is nested within the wes object. 
 
-![](@attachment/Clipboard_2020-04-04-18-13-12.png) 14:26
+![](../attachments/458.png) 14:26
 
 The only gotcha there is if you try to access a property on an object that does not exist, such as `wes.jobs`, it will evaluate to `undefined`. 
 
-![](@attachment/Clipboard_2020-04-04-18-13-53.png) 14:41
+![](../attachments/459.png) 14:41
 
 However, if you try to access a nested property on a property that does not exist, it will throw an error 👇
 
-![](@attachment/Clipboard_2020-04-04-18-15-41.png) 14:50
+![](../attachments/460.png) 14:50
 
 This is a very common error 👇
 >Uncaught TypeError: Cannot read property 'main' of undefined
@@ -436,7 +436,7 @@ If that is the case, the you have to write the following to not throw an error �
 wes,jobs ? wes.jobs.side : 'Jobs doesn't exist`;
 ```
 
-![](@attachment/Clipboard_2020-04-04-18-19-58.png) 15:#0
+![](../attachments/461.png) 15:#0
 
 There is a proposal and hopefully it will be out soon, which will allow us to do a deep check. 
 
@@ -475,7 +475,7 @@ To demonstrate, add the following code right after the opening body tag 👇
 
 If you refresh the HTML page, you will see the input on the page 👇
 
-![](@attachment/Clipboard_2020-04-04-18-25-38.png) 16:58
+![](../attachments/462.png) 16:58
 
 Often what happens is we will try to select that input from the form as shown below. 
 
@@ -538,7 +538,7 @@ console.log(delete wes.job);
 
 Now if you take a look, you will see it is `undefined`.
 
-![](@attachment/Clipboard_2020-04-04-18-39-42.png) 19:19
+![](../attachments/463.png) 19:19
 
 Sometimes you will also see people setting values to be `null` or `undefined`, for example `wes.age = undefined;` or `wes.age = null;`. 
 
@@ -583,7 +583,7 @@ You can also try passing in a greeting as shown below, which would return "Hello
 wes.sayHello('Hello');
 ``` 
 
-![](@attachment/Clipboard_2020-04-04-18-46-34.png) 21:04
+![](../attachments/464.png) 21:04
 
 You may be working what is the `this` keyword that you use in the `sayHello` function when you call `${this.name}`. 
 
@@ -646,11 +646,11 @@ sneeze: () => {
 }
 ```
 
-![](@attachment/Clipboard_2020-04-04-18-55-17.png) 22:58
+![](../attachments/465.png) 22:58
 
 If you were to change that, to a regular function, `this` would be equal to wes. 
 
-![](@attachment/Clipboard_2020-04-04-18-56-31.png) 23:05
+![](../attachments/466.png) 23:05
 
 We will go into why that is later but the short answer for now is that arrow functions do not scope `this` to the thing they are called against, and the parent scope will inherit that. 
 
@@ -698,7 +698,7 @@ If you log again to check the comparison, it will return true.
 
 If you check the value of each variable, `name1` and `name2` will both return "wes". 
 
-![](@attachment/Clipboard_2020-04-06-14-43-10.png) 1:18
+![](../attachments/467.png) 1:18
 
 If you were to take `name2` and set it to `name1`, that is the same thing, both values would still equal "wes", like so:
 
@@ -710,7 +710,7 @@ Now the question is, if you change `name2`, like so `name2 = 'westopher';`, will
 
 You can check what both variables evaluate to by typing them into the console. 
 
-![](@attachment/Clipboard_2020-04-06-14-49-10.png) 1:43
+![](../attachments/468.png) 1:43
 
 You will notice that `name1` is still "wes" while `name2` is "westopher", because we have not updated `name1`. 
 
@@ -750,7 +750,7 @@ If you refresh the HTML page and open the console, if you try typing in `person1
 
 Why?
 
-![](@attachment/Clipboard_2020-04-06-17-54-59.png) 3:01
+![](../attachments/469.png) 3:01
 
 You be thinking "it's the exact same object. It's an objects with the same contents inside of it, so why are we getting false when we are checking them?". 
 
@@ -768,7 +768,7 @@ const person3 = person1;
 
 If refresh the HTML page and look at `person3` in the console, you should see the following 👇
 
-![](@attachment/Clipboard_2020-04-06-19-27-38.png) 4:17
+![](../attachments/470.png) 4:17
 
 Now if you go ahead and update `person3`'s name as demonstrated below, what will you see in the console when you log `person3.first`? 👇
 
@@ -778,7 +778,7 @@ person3.first = 'Larry';
 console.log(person3.first);
 ```
 
-![](@attachment/Clipboard_2020-04-06-19-29-28.png) 4:34
+![](../attachments/471.png) 4:34
 
 You get Larry.
 
@@ -803,11 +803,11 @@ If you look at the person1 object, we have set "wes" as first and "bos" as last.
 
 WRONG! It returns Larry. 
 
-![](@attachment/Clipboard_2020-04-06-20-09-03.png) 4:49 
+![](../attachments/472.png) 4:49 
 
 If you try typing `person1`, `person2`, and `person3` in the console, you should see the following returned 👇
 
-![](@attachment/Clipboard_2020-04-06-20-20-27.png) 5:03
+![](../attachments/473.png) 5:03
 
 What is going on there? 
 
@@ -815,7 +815,7 @@ You just updated `person3`, but for some reason, `person1` was updated as well.
 
 In the console, let's try updating `person3.last` like so: `person3.last = 'Cool'`. So `person3.last` should now return "Cool", but what about `person1`? 
 
-![](@attachment/Clipboard_2020-04-06-20-22-30.png) 5:23
+![](../attachments/474.png) 5:23
 
 So what the heck!? Why is `person1` being updated? 
 
@@ -849,7 +849,7 @@ const person3 = { ...person1 };
 
 What you are doing there is you are assigning the variable `person3` to a new object using the object literal syntax, and then using the spread operator within the object literal to copy `person1`. 
 
-![](@attachment/Clipboard_2020-04-06-20-29-15.png) 7:14
+![](../attachments/475.png) 7:14
 
 If you log `person3`, you will see that it has the same properties as `person1`.
 
@@ -874,7 +874,7 @@ person3.first = 'Larry';
 
 If you refresh the HTMl page and then log `person3.first` and `person1.first`, you will see that only the value of `person3.first` was updated. 
 
-![](@attachment/Clipboard_2020-04-06-20-33-24.png) 8:15
+![](../attachments/476.png) 8:15
 
 That is because this time you used the spread operator which gave you a copy of the person1 `object`, and not a reference. 
 
@@ -895,13 +895,13 @@ const person3 = {... person1};
 person3.first = Larry;
 ```
 
-![](@attachment/Clipboard_2020-04-06-20-49-16.png) 8:59
+![](../attachments/477.png) 8:59
 
 If you try to update  `person3.clothing.shirts = 100;` and then view the object in the console, you will notice that `person3.clothing.shirts` does equal 100. 
 
 However if you look at `person1`, you will notice that `person1.clothing.shirts` was also updated to be 100.
 
-![](@attachment/Clipboard_2020-04-06-20-49-53.png) 9:11
+![](../attachments/478.png) 9:11
 
 This is the same problem. `person1.clothing.shirts` was also updated even though Wes just told us we can take a copy of an object with a spread operator. 
 
@@ -919,7 +919,7 @@ Lodash is a library that you can include into your script.
 
 It has a lot of methods that are used when working with objects and arrays. One of those is for doing copies of objects. Let's take a look at the documentation by searching for the keyword clone on the website. 
 
-![](@attachment/Clipboard_2020-04-06-20-57-56.png) 10:28
+![](../attachments/479.png) 10:28
 
 Based on the documentation you can see that `_.clone(value)` creates a shallow clone of a value. 
 
@@ -929,7 +929,7 @@ That will just do a high level clone like we did with the spread operator earlie
 
 There is another method called `_.cloneDeep`.
 
-![](@attachment/Clipboard_2020-04-06-21-04-35.png) 11:00
+![](../attachments/480.png) 11:00
 
 Clone deep will also take a copy of any nested objects for us. 
 
@@ -961,7 +961,7 @@ person3.first = 'Larry';
 person3.clothing.shirts = 100;
 ```
 
-![](@attachment/Clipboard_2020-04-06-22-42-28.png) 12:29
+![](../attachments/482.png) 12:29
 
 As you can see, `person1.clothing.shirts` still equals 10, because you performed a deep clone using the lodash method and then modified the value only for the `person3` object because `person3` was no longer a reference to `person1`. 
 
@@ -999,7 +999,7 @@ You can spread in as many objects as you want.
 
 Now we have a new inventory property which you can see if you refresh the page, open the console and type in `inventory`. 
 
-![](@attachment/Clipboard_2020-04-06-22-49-53.png) 13:41
+![](../attachments/484.png) 13:41
 
 You can also put some objects on their own line and add your own values in. 
 
@@ -1015,7 +1015,7 @@ const inventory = {
 
 And you can see that `oysters` will be added to it.
 
-![](@attachment/Clipboard_2020-04-06-22-51-03.png) 13:58
+![](../attachments/485.png) 13:58
 
 You can mix and match the spreading. 
 
@@ -1042,7 +1042,7 @@ const inventory = {
 };
 ```
 
-![](@attachment/Clipboard_2020-04-06-22-53-06.png)  14:30
+![](../attachments/486.png)  14:30
 
 `oyster: 15` wins out. Why? 
 
@@ -1099,13 +1099,13 @@ function doStuff2(data){
 doStuff(inventory);
 ```
 
-![](@attachment/Clipboard_2020-04-06-23-01-18.png) 16:39
+![](../attachments/487.png) 16:39
 
 If you refresh the page and look in the console, you will see the value of `data` logged as shown above. 
 
 However, if you type in `inventory`, which is the object that lives outside of the `doStuff2` function, you will see that it also contains the `tomatoe` property.
 
-![](@attachment/Clipboard_2020-04-06-23-03-08.png) 16:50
+![](../attachments/488.png) 16:50
 
 That means that if you pass in an object to a function, and you modify that object, the external object will also be updated.
 
@@ -1157,13 +1157,13 @@ myMap.set('name', 'wes');
 console.log(myMap);
 ```
 
-![](@attachment/Clipboard_2020-04-07-08-12-05.png) 1:06
+![](../attachments/489.png) 1:06
 
 As you can see in the console, we have our map and it gives us our entries, entries are the actual values in the map.
 
 Now if you were to use the object notation that we are used to, something like `myMap.age = 100;`, you will notice that it's not actually added in the same spot. 
 
-![](@attachment/Clipboard_2020-04-07-08-14-47.png) 1:33 
+![](../attachments/491.png) 1:33 
 
 It is in the map, but it is a property on the map, not an actual entry in our map. 
 
@@ -1175,7 +1175,7 @@ One big benefit of a map is the keys can be any type other than just using a str
 
 So instead of passing name as the key when we called `.set()` on `myMap`, we could pass a number like `myMap.set(100, 'This is a number');`
 
-![](@attachment/Clipboard_2020-04-07-08-17-27.png) 2:09
+![](../attachments/492.png) 2:09
 
 As you can see, the entry has a key of 100. 
 
@@ -1211,7 +1211,7 @@ myMap.set(person1, 'Really cool');
 console.log(myMap);
 ```
 
-![](@attachment/Clipboard_2020-04-07-19-03-58.png) 3:53
+![](../attachments/494.png) 3:53
 
 Now if you open up our map, you will see that the key is actually an object and the value is really cool.
 
@@ -1221,7 +1221,7 @@ That is useful because let's say at a later point in time we wanted to look that
 myMap.get(person1);
 ```
 
-![](@attachment/Clipboard_2020-04-07-19-07-07.png) 4:22
+![](../attachments/495.png) 4:22
 
 What you have done there is instead of putting a unique string, or an ID or something else, you simply use the reference to the object as the key in the map to store the additional information. 
 
@@ -1255,7 +1255,7 @@ console.log('you win a ${prizes.get(score)}`);
 
 Now if you refresh the page, you will see the following in the console 👇
 
-![](@attachment/Clipboard_2020-04-07-19-11-12.png) 6:07
+![](../attachments/496.png) 6:07
 
 In a lot of the real world exercises we will build, we will pause and go over whether or not it makes sense to use an object or a map for our situation, so you can get used to when to reach for one versus the other.
 
@@ -1297,7 +1297,7 @@ prizes.forEach(entry=>{
 
 If you refresh the page and look at the console, you will see Bear, Duck and Car, in that order.
 
-![](@attachment/Clipboard_2020-04-07-19-18-01.png) 8:25
+![](../attachments/497.png) 8:25
 
 However, that only gives you the value. If you want to return the key and value, you can use the `for of` loop. 
 
@@ -1312,7 +1312,7 @@ for(const prize of prizes){
 
 This is getting a bit ahead of ourselves with the looping but just know that you are looping over all the entires in the map, one by one, and for each one you are going to create a temporary variable `prize` and then log it. 
 
-![](@attachment/Clipboard_2020-04-07-19-20-00.png) 8:57
+![](../attachments/498.png) 8:57
 
 Now as you see, you get an array and that array's first item will be the key and the second item will be the values. 
 
@@ -1322,7 +1322,7 @@ Modify the log like so 👇
 console.log(prize[0], prize[1]);
 ```
 
-![](@attachment/Clipboard_2020-04-07-19-21-04.png) 9:15
+![](../attachments/499.png) 9:15
 
 You can go further and **destructure** the array. 
 
@@ -1351,7 +1351,7 @@ for(const [points, prize] of prizes){
 
 Now when you refresh the page, you should see the following 👇
 
-![](@attachment/Clipboard_2020-04-07-19-26-42.png) 10:56
+![](../attachments/500.png) 10:56
 
 When do you use a map over an object?
 
@@ -1371,7 +1371,7 @@ new Map( [[1,2], [3,4]]);
 
 If you type that in the console you will see the following 👇
 
-![](@attachment/Clipboard_2020-04-07-19-29-00.png) 11:46
+![](../attachments/501.png) 11:46
 
 As you can see there, we have created a map. 
 
@@ -1387,7 +1387,7 @@ Wes didn't show us delete.
 
 In the console, if you still haven't refreshed from our previous example, type `myMap.delete('name')`.
 
-![](@attachment/Clipboard_2020-04-07-19-32-07.png) 12:25
+![](../attachments/502.png) 12:25
 
 If you type `myMap`, you will notice that the name `entry` is gone. 
 
@@ -1422,7 +1422,7 @@ It takes the object and converts it into a string, which you can send very easil
 JSON.parse(`{"name":"wes","age":"100"}`);
 ```
 
-![](@attachment/Clipboard_2020-04-07-19-37-25.png) 13:59
+![](../attachments/503.png) 13:59
 
 JSON stands for **Javascript Object Notation**. However it has been implemented by every single language out there. 
 
@@ -1430,7 +1430,7 @@ JSON is amazing, however, if you have a map, currently JSON does not handle maps
 
 If you try `JSON.stringify(myMap)` you will see the following error and get an empty object because it is not aware of maps yet. 
 
-![](@attachment/Clipboard_2020-04-07-19-38-54.png) 14:53
+![](../attachments/504.png) 14:53
 
 There is this thing called **JSON 5** which is trying to improve JSON but until that is ready, if you want to send your map content you have to convert it to an object currently. 
 
@@ -1440,7 +1440,7 @@ However, you will see if you use any of the benefits of a map, it falls apart wh
 
 We will try to use both of them in our examples but Wes personally uses objects much more frequently, but he thinks map will start to catch on in the next couple of years.
 
-![](@attachment/Clipboard_2020-04-07-19-40-51.png) 15:06
+![](../attachments/505.png) 15:06
 
 ---
 
@@ -1488,7 +1488,7 @@ What you have done there is created an array with 3 items, each of which are sep
 
 Go ahead and open the page up in a browser and take a look at the array in the console.
 
-![](@attachment/Clipboard_2020-04-07-20-06-27.png) 1:54
+![](../attachments/506.png) 1:54
 
 This is our array. 
 
@@ -1498,7 +1498,7 @@ An array has no keys. The keys will always be the indexes meaning 0,1,2,3,4,5..
 
 One thing to mention is that if you types into the console `typeof names`, you would get "object" returned.
 
-![](@attachment/Clipboard_2020-04-07-20-08-09.png) 2:20
+![](../attachments/507.png) 2:20
 
 You might be thinking "Whhaaattt??" `typeof names` is an object??
 
@@ -1556,7 +1556,7 @@ If you want to check how many items are in an array, you would use `.length`. Th
 
 If you refresh the HTML page and look at the console, you should see the following 👇
 
-![](@attachment/Clipboard_2020-04-08-07-19-02.png) 5:39
+![](../attachments/508.png) 5:39
 
 So if you want to access items within the array it is zero based, however if you are using `.length` to check how many items are in the array it is not zero based.
 
@@ -1594,7 +1594,7 @@ const names = ["wes", "kait", "snickers"];
 
 If you refresh the page and take a look at the `names` array in the console, you should see something like 👇
 
-![](@attachment/Clipboard_2020-04-08-07-27-37.png) 7:47
+![](../attachments/509.png) 7:47
 
 Those are all methods.. `concat`, `copyWithin`, `push`, `pop`, `findIndex`. 
 
@@ -1625,7 +1625,7 @@ const numbersBackwards = numbers.reverse();
 console.log(numbersBackwards);
 ```
 
-![](@attachment/Clipboard_2020-04-08-07-50-01.png) 9:46
+![](../attachments/510.png) 9:46
 
 This gives us the array backwards. 
 
@@ -1633,7 +1633,7 @@ What if you log `numbers`?
 
 Will the numbers in that array still be in the right order, will they be reversed or has it been deleted?
 
-![](@attachment/Clipboard_2020-04-08-07-51-03.png) 10:09
+![](../attachments/511.png) 10:09
 
 The original array has actually been reversed as well. 
 
@@ -1668,7 +1668,7 @@ const pizzaSlice = numbers.slice(2, 4);
 console.log(pizzaSlice);
 ```
 
-![](@attachment/Clipboard_2020-04-08-19-04-47.png) 11:45
+![](../attachments/512.png) 11:45
 
 What you have done is you have gone from index 2, which is the 3rd item and stopped at index 4, which is the 5th item. 
 
@@ -1680,7 +1680,7 @@ Now the question is, will the number 3 and 4 still be in the original numbers ar
 
 Below where we log `pizzaSlice`, add `console.log(numbers);` and refresh the page.
 
-![](@attachment/Clipboard_2020-04-08-19-39-29.png) 12:06
+![](../attachments/513.png) 12:06
 
 As you can see, numbers is still intact, meaning the number 3 and 4 have not been removed from it.  
 
@@ -1702,7 +1702,7 @@ console.log(numbersReversed);
 console.log(numbers);
 ```
 
-![](@attachment/Clipboard_2020-04-08-19-44-38.png) 13:49 
+![](../attachments/514.png) 13:49 
 
 Go ahead and call `reverse()` on numbers reversed as shown below.
 
@@ -1711,7 +1711,7 @@ const numbersReversed = [...numbers];
 numbersReversed.reverse();
 ```
 
-![](@attachment/Clipboard_2020-04-08-19-47-00.png) 14:01
+![](../attachments/515.png) 14:01
 
 You can also just call the method immediately on the array that was created like so 👇
 
@@ -1734,7 +1734,7 @@ names.push('lux');
 console.log(names);
 ```
 
-![](@attachment/Clipboard_2020-04-08-19-54-28.png) 15:11
+![](../attachments/516.png) 15:11
 
 This does mutate the original array. 
 
@@ -1757,7 +1757,7 @@ names.unshift('poppy');
 console.log(names);
 ```
 
-![](@attachment/Clipboard_2020-04-08-19-59-52.png) 16:27
+![](../attachments/517.png) 16:27
 
 The immutable way to do that would be 👇
 
@@ -1775,13 +1775,13 @@ Both are used for grabbing a subset of the array but `slice()` is immutable and 
 
 Let's take a look at both methods on MDN. 
 
-![](@attachment/Clipboard_2020-04-08-20-02-49.png) 17:40
+![](../attachments/518.png) 17:40
 
 >The `slice()` method returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included) where begin and end represent the index of items in that array. The original array will not be modified.
 
 What they mean by end not included means that in our examples where we did `slice(2,4)`, it took the items start at index 2, but not at index 4. The end is not inclusive. 
 
-![](@attachment/Clipboard_2020-04-08-20-05-12.png) 17:59
+![](../attachments/519.png) 17:59
 
 `Splice` on the other hand will actually take the item out of the original array. 
 
@@ -1799,7 +1799,7 @@ numbers.splice(3,2);
 console.log(numbers);
 ```
 
-![](@attachment/Clipboard_2020-04-08-20-07-38.png) 18:46
+![](../attachments/520.png) 18:46
 
 we started at index 3 which was the #4. Then we went for two items, for #4, #5 and took those out of the array. 
 
@@ -1835,7 +1835,7 @@ You took the first 2 and spread them into it, and then you add the new item, tak
 
 How do you take everything after an index using splice? You don't pass it an end, like you did here: `...bikes.slice(2);`
 
-![](@attachment/Clipboard_2020-04-08-20-16-34.png) 22:09
+![](../attachments/521.png) 22:09
 
 What if you want to remove an item, like panasonic, from the array? 
 
@@ -1851,7 +1851,7 @@ console.log(newBikes2);
 
 What the code above is doing is it is taking everything up to panasonic (index 0 - 3), and then you grab everything after panasonic using `..newBikes.slice(4);`
 
-![](@attachment/Clipboard_2020-04-08-20-19-41.png) 22:45
+![](../attachments/522.png) 22:45
 
 Panasonic is no longer in our new array.
 
@@ -1888,7 +1888,7 @@ console.log(kaitIndex);
 
 However, if you try that, you will get the following error 👇
 
-![](@attachment/Clipboard_2020-04-08-20-27-10.png) 25:13
+![](../attachments/523.png) 25:13
 
 It's not as easy as that because our structures are going to be a bit more complex than just strings.
 
@@ -1915,7 +1915,7 @@ console.log(names[kaitIndex])l
 
 You should see the index 2 and the value of Kait in the console when you refresh the page. 
 
-![](@attachment/Clipboard_2020-04-08-20-30-09.png) 26:12
+![](../attachments/524.png) 26:12
 
 That method is a bit long, so there is a few shorter way to do it.
 
@@ -1963,7 +1963,7 @@ console.log(newNamesWithOutKait);
 
 What we are doing there is you go from the start and then grab everything up to the `kaitIndex`, then you get everything after the `kaitIndex`.
 
-![](@attachment/Clipboard_2020-04-08-20-37-10.png) 28:19
+![](../attachments/525.png) 28:19
 
 Whoops! You might notice that it looks weird. We goofed up a bit here. 
 
@@ -1981,13 +1981,13 @@ const newNamesWithOutKait = [
 console.log(newNamesWithOutKait);
 ```
 
-![](@attachment/Clipboard_2020-04-08-20-38-45.png) 28:47
+![](../attachments/526.png) 28:47
 
 There is a new method in javascript called `.flat()`. 
 
 If you call it directly on `newNamesWithOutKait` it wouldn't work because it's immutable. 
 
-![](@attachment/Clipboard_2020-04-08-20-40-10.png) 29:19
+![](../attachments/527.png) 29:19
 
 We would have to return it like so 👇
 
@@ -1996,7 +1996,7 @@ const newNames999 = newNamesWithOutKait.flat();
 console.log(newNames999);
 ```
 
-![](@attachment/Clipboard_2020-04-08-20-41-15.png) 29:20
+![](../attachments/528.png) 29:20
 
 You can see it flattened the 2 arrays into one for us. 
 
@@ -2051,7 +2051,7 @@ Now if you go and refresh the page and type comments into the console, you can s
 
 In the console type in `deleteComment(233, comments)` and that will return the following 👇
 
-![](@attachment/Clipboard_2020-04-08-20-46-47.png) 31:40
+![](../attachments/529.png) 31:40
 
 The original comments are still there, we just made a new array called deleteComments with the item removed. 
 
@@ -2072,7 +2072,7 @@ Let's look up the MDN docs for arrays.
 
 When you open it, you will see all the array methods in the documentation, along the sidebar. 
 
-![](@attachment/Clipboard_2020-04-09-18-06-44.png) 00:31
+![](../attachments/530.png) 00:31
 
 Instead of Wes going through each one, we are going to work with the data Wes has provided and use the methods to add, remove and sort items. 
 
@@ -2090,7 +2090,7 @@ We are going to start off with the static methods.
 
 Open up `array-methods-START.html`, which will give you a starting version with data and commented out instructions. 
 
-![](@attachment/Clipboard_2020-04-09-18-19-45.png) 2:13
+![](../attachments/532.png) 2:13
 
 If you look at the sidebar of the array documentation, you will see there are three methods: 
 - `Array.from()`
@@ -2110,7 +2110,7 @@ const numbers = [1,2,3,4,5];
 
 Using this array, we can pop numbers out, push numbers in, etc.
 
-![](@attachment/Clipboard_2020-04-09-18-22-45.png) 2:51
+![](../attachments/533.png) 2:51
 
 Whenever you create an array, you get what is referred to as the array prototype. 
 
@@ -2136,7 +2136,7 @@ For example you could pass it the arguments of 'wes' and 'kait' and it would cre
 Array.of('wes', 'kait');
 ```
 
-![](@attachment/Clipboard_2020-04-09-18-29-23.png) 4:00
+![](../attachments/534.png) 4:00
 
 Wes has never used that in his career, ever, mainly because it's shorter and simpler to create an array using an array literal. 
 
@@ -2148,7 +2148,7 @@ We have already covered how when you have something, you can spread it into an a
 [...'wes'];
 Array.of(...'wes');
 ```
-![](@attachment/Clipboard_2020-04-09-18-31-20.png) 4:34
+![](../attachments/535.png) 4:34
 
 What the `...` does in the example above is it takes an **iterable**, meaning something that has a length, _("wes" is something that has a length because strings have a length)_, and you can sperad each of the items of that iterable into the surrounding array.
 
@@ -2168,7 +2168,7 @@ Array.from({length:10})
 
 What that will do is it returns an array from that iterable with that many empty slots.  So in the example above, you are saying you want 10 spots, and that returns to us an array with 10 empty spots. 
 
-![](@attachment/Clipboard_2020-04-09-18-37-33.png) 5:59
+![](../attachments/537.png) 5:59
 
 That is really handy because Wes often wants to make an array of numbers 1 through 10 and loop over them and display each items or something like that. 
 
@@ -2196,7 +2196,7 @@ const range = Array.from({length:10}, function(){
 
 If you refresh the page, and open the console you should see that all 10 items have a value of "wes". 
 
-![](@attachment/Clipboard_2020-04-09-18-49-53.png) 6:59
+![](../attachments/538.png) 6:59
 
 This callback function will give you the actual item that is in the slot as an argument, as well as the index. 
 
@@ -2210,7 +2210,7 @@ const range = Array.from({length:10}, function(item, index){
 
 What that code above does is it gives you an array where each number is the index that you have.  
 
-![](@attachment/Clipboard_2020-04-09-18-51-40.png) 7:42
+![](../attachments/539.png) 7:42
 
 Use this to make a little function that takes in 2 arguments, `start` and `end`, like so 👇
 
@@ -2249,7 +2249,7 @@ createRange(3,7)
 
 You should see the following 👇
 
-![](@attachment/Clipboard_2020-04-09-19-02-07.png) 8:24
+![](../attachments/540.png) 8:24
 
 Oops! You forgot to return the range. 
 
@@ -2265,7 +2265,7 @@ return range;
 }
 ```
 
-![](@attachment/Clipboard_2020-04-09-19-03-25.png) 8:34
+![](../attachments/541.png) 8:34
 
 You started at 3 and went to 7, which gave us 4 spots.
 
@@ -2281,7 +2281,7 @@ return range;
 }
 ```
 
-![](@attachment/Clipboard_2020-04-09-19-04-38.png) 8:45
+![](../attachments/542.png) 8:45
 
 If you wanted this to be inclusive of 7, you could add 1 to where you set the length of array. 
 
@@ -2305,7 +2305,7 @@ Let's try to the following `createRange(3,734223423)`.
 
 If you try that, you should get an error like so 👇
 
-![](@attachment/Clipboard_2020-04-10-12-31-54.png) 9:49
+![](../attachments/543.png) 9:49
 
 There is a limit to how big your arrays can be. They are very, very, very large. 
 
@@ -2317,7 +2317,7 @@ Let's refresh the page, open the console and try with a smaller number as shown 
 createRange(3,7342);
 ```
 
-![](@attachment/Clipboard_2020-04-10-12-37-17.png) 10:09
+![](../attachments/544.png) 10:09
 
 You can see that runs nice and quickly. 
 
@@ -2329,7 +2329,7 @@ console.log(Array.isArray(myRange));
 
 You should see "true" logged. 
 
-![](@attachment/Clipboard_2020-04-10-12-38-47.png) 10:30
+![](../attachments/545.png) 10:30
 
 That is a pretty common thing you will need to do because if you try to use `typeof` with an array, it will return "object" because an array isn't a real type. 
 
@@ -2366,7 +2366,7 @@ You use `Object.entries()` when you want to put both the keys and values into an
 console.log(Object.entries(meats));
 ```
 
-![](@attachment/Clipboard_2020-04-10-12-48-26.png) 11:48
+![](../attachments/546.png) 11:48
 
 
 Add the following code below the line where you are logging the entries array. 
@@ -2377,7 +2377,7 @@ console.log(Object.keys(meats));
 console.log(Object.values(meats));
 ```
 
-![](@attachment/Clipboard_2020-04-10-12-50-45.png) 11:58
+![](../attachments/547.png) 11:58
 
 As you can see, `keys()` is going to give us an array of all the object keys, `values()` will give us an array of all the values and `entries()` is going to give us an array where each item is then a nested second array inside of it where the first item in the nested array is the key and the second item is the value. 
 
@@ -2397,7 +2397,7 @@ Object.values(meats).forEach(qty => {
 
 If you refresh the HTML page and look at the console you should see the following 👇
 
-![](@attachment/Clipboard_2020-04-10-12-56-17.png) 12:53
+![](../attachments/548.png) 12:53
 
 That is a pretty common thing to do it you want to like loop over and add up how much inventory you have or you want to add up all the numbers, lets look at how you can use `reduce()` to do that. 
 
@@ -2409,7 +2409,7 @@ Object.keys(meats).forEach(qty => {
 });
 ```
 
-![](@attachment/Clipboard_2020-08-17-20-55-13.png)13:13
+![](../attachments/1467.png)13:13
 
 Now entries 👇
 
@@ -2419,7 +2419,7 @@ Object.entries(meats).forEach(entry => {
 });
 ```
 
-![](@attachment/Clipboard_2020-08-17-20-56-05.png) 13:24
+![](../attachments/1468.png) 13:24
 
 For each one, you get an array with 2 items. 
 
@@ -2433,7 +2433,7 @@ const value = entry[1];
 console.log(key,value);
 ```
 
-![](@attachment/Clipboard_2020-08-17-20-56-18.png) 13:51
+![](../attachments/1469.png) 13:51
 
 Something that we have talked about that is very useful in this scenario is **destructuring**. 
 
@@ -2514,7 +2514,7 @@ Open up the HTML page in a browser and open the console. Type in `buns` to see w
 
 You should see the following returned 👇
 
-![](@attachment/Clipboard_2020-04-10-13-29-18.png) 00:22
+![](../attachments/552.png) 00:22
 
 `join()` turns the array into a string, joining each item with a comma. It takes an argument, which is what you want to join it on. 
 
@@ -2526,7 +2526,7 @@ console.log(buns.join(' or '));
 
 Now instead of being joined with commas in the string, you are joining the items using the word "or". 
 
-![](@attachment/Clipboard_2020-04-10-13-31-43.png) 00:39
+![](../attachments/553.png) 00:39
 
 ### `split` 
 
@@ -2550,7 +2550,7 @@ In this example, you want to split the string on the comma. `split(',')` will ge
 console.log(foodString.split(','));  
 ```
 
-![](@attachment/Clipboard_2020-04-10-13-40-08.png) 1:36
+![](../attachments/554.png) 1:36
 
 `split` is a pretty common method that is used. 
 
@@ -2558,7 +2558,7 @@ You can call `split()` and pass it nothing. That will just take every letter in 
 
 One little "gotcha" about `split` is that you can do something like this no problem 👇
 
-![](@attachment/Clipboard_2020-04-10-13-41-43.png) 1:58
+![](../attachments/555.png) 1:58
 
 However, if you have emojis in there, like 👇
 
@@ -2570,7 +2570,7 @@ That emoji is actually made up of several different emojis and what is referred 
 
 So that will come and bite you if you ever try to split something with an emoji, just something to keep in mind. If you do run into issues doing that, there are libraries you can use to help. 
 
-![](@attachment/Clipboard_2020-04-10-13-42-49.png) 2:07
+![](../attachments/557.png) 2:07
 
 ### `pop`
 
@@ -2580,15 +2580,15 @@ We haven't learned what pop does just yet.
 
 Let's look at the `toppings` array in the console. 
 
-![](@attachment/Clipboard_2020-04-10-13-45-06.png) 2:44
+![](../attachments/558.png) 2:44
 
 If you call `toppings.pop()`, it will return to us the last item in the array, which is "Cheese". 
 
-![](@attachment/Clipboard_2020-04-10-13-45-29.png) 2:44
+![](../attachments/559.png) 2:44
 
 If you take a look at `toppings` again, you will see that "Cheese" is no longer part of the array.  
 
-![](@attachment/Clipboard_2020-04-10-13-45-58.png) 3:03
+![](../attachments/560.png) 3:03
 
 This is a handy method if you need to grab one off the end of the array and then work with it, and it will just take that item out of the array. 
 
@@ -2620,13 +2620,13 @@ console.log(t2);
 You should see 11 in the console. What does that mean? 
 Well when you push an item into an array, it will return to you the new length of the array, in case you need it. 
 
-![](@attachment/Clipboard_2020-04-10-13-53-39.png) 3:49
+![](../attachments/561.png) 3:49
 
 You don't have to put it into a variable if you don't need it, so in our case we will remove the declaration of `t2` and instead just use `toppings.push(lastItem)` and remove the `console.log(t2);`. 
 
 Instead log `toppings` to see if cheese has been added back. 
 
-![](@attachment/Clipboard_2020-04-10-13-56-07.png) 4:07
+![](../attachments/562.png) 4:07
 
 It has been added back!
 
@@ -2642,7 +2642,7 @@ console.log(firstItem);
 
 That should give us mushrooms. 
 
-![](@attachment/Clipboard_2020-04-10-13-59-02.png) 4:24
+![](../attachments/563.png) 4:24
 
 Next you need to add it back using unshift like so:
 
@@ -2669,7 +2669,7 @@ Start at 0 and go till the end except one, so `length - 1`
 const newToppings = toppings.slice(0, toppings.length - 1);
 ```
 
-![](@attachment/Clipboard_2020-04-10-14-06-50.png) 5:22
+![](../attachments/564.png) 5:22
 
 Cheese is now off, which is what we want. 
 
@@ -2687,7 +2687,7 @@ console.log(newToppings);
 
 We should see "cheese" at the end like so 👇
 
-![](@attachment/Clipboard_2020-04-10-14-11-16.png) 6:41
+![](../attachments/565.png) 6:41
 
 Next, we want to add it to the front. 
 
@@ -2708,13 +2708,13 @@ Do we need to pass a second argument to `slice()`?
 
 Let's look it up.
 
-![](@attachment/Clipboard_2020-04-10-14-17-07.png) 7:55
+![](../attachments/567.png) 7:55
 
 It says that `end` is optional. If it is ommited, slice extracts through the end of the sequence, so we don't need it!
 
 As you can see below, that worked. 
 
-![](@attachment/Clipboard_2020-04-10-14-18-03.png) 8:06
+![](../attachments/568.png) 8:06
 
 The way we can tell if that is a copy is if we change the original `toppings` and then log both, like so 👇
 
@@ -2726,7 +2726,7 @@ console.log(toppingsCopy);
 ```
 As you can see below, only `toppings` has the "mushy boi" object, which tells us that `toppingsCopy` is a true copy.  
 
-![](@attachment/Clipboard_2020-04-10-14-19-46.png) 8:31
+![](../attachments/569.png) 8:31
 
 The next exercise is to make a copy of the `toppings` array with a spread. 
 
@@ -2745,7 +2745,7 @@ console.log(toppingsCopy);
 
 As you can see, there are now only 6 items rather than 11 in the array. 
 
-![](@attachment/Clipboard_2020-04-10-14-46-11.png) 9:32
+![](../attachments/570.png) 9:32
 
 Next we need to find the index of avocado with `indexOf`. 
 
@@ -2758,7 +2758,7 @@ console.log(avoIndex);
 
 If you refresh the page you should see "5" logged in the console. That tells us that the avocado item is in the 5th index. 
 
-![](@attachment/Clipboard_2020-04-10-14-50-49.png) 10:15
+![](../attachments/571.png) 10:15
 
 One thing about `indexOf` that you should know is that it works with any type. Let's do an example to demonstrate.
 
@@ -2770,7 +2770,7 @@ console.log(people.indexOf(wes));
 
 If you refresh the page and look at the console you should see the number 1 logged, which tells us the `wes` object is at index of 1 because it is giving reference to the `wes` object. 
 
-![](@attachment/Clipboard_2020-04-10-14-58-53.png) 11:09
+![](../attachments/572.png) 11:09
 
 ```js
 people.indexOf({name:'scott'});
@@ -2784,7 +2784,7 @@ However, if you try that, you will see -1 in the console.
 
 -1 is what is returned when it didn't find anything (the reason it doesn't give you 0 is because 0 is the first item in the array). 
 
-![](@attachment/Clipboard_2020-04-10-15-00-54.png) 11:25
+![](../attachments/573.png) 11:25
 
 So why it work when we passed it `wes` but it didn't work when we passed it `{name:'scott'}`, which is an object exactly the same as the item in the first slot? 
 
@@ -2796,7 +2796,7 @@ Why?
 
 Because objects don't do a deep check to see if all the properties match up, they just check if the reference to it is actually the same object. 
 
-![](@attachment/Clipboard_2020-04-10-15-05-27.png) 12:16
+![](../attachments/574.png) 12:16
 
 When we called `indexOf(wes)`, it was checking whether the `people` variable contained a reference to the object `wes`, which it did. When we checked it for an object that just looks the same, it gave us false. That is the whole reference vs value thing again.
 
@@ -2820,14 +2820,14 @@ You can call `includes()` to check if the array contains that number, like so
 
 If you passed `includes` an object, it would check if the reference to that object exists in the array. 
 
-![](@attachment/Clipboard_2020-04-10-15-09-25.png) 13:13
+![](../attachments/575.png) 13:13
 
 ```js
 const isInToppings = toppings.includes('Hot Sauce');
 console.log(isInToppings);
 ```
 
-![](@attachment/Clipboard_2020-04-10-15-11-53.png) 13:53
+![](../attachments/576.png) 13:53
 
 Note that includes is case sensitive, so if you were checking for all different versions of the case, what you would want to do is first lowercase the entire array with `.map()` which we will look at in the next couple of videos. 
 
@@ -2841,7 +2841,7 @@ if (!isInToppings) {
 console.log(toppings);
 ```
 
-![](@attachment/Clipboard_2020-04-10-15-13-19.png) 14:16
+![](../attachments/577.png) 14:16
 
 Finally you need to fip the toppings around using `reverse()`. 
 
@@ -2854,7 +2854,7 @@ toppings.reverse();
 console.log(toppings);
 ```
 
-![](@attachment/Clipboard_2020-04-10-15-14-31.png) 14:31
+![](../attachments/578.png) 14:31
 
 If you want to do it **immutably** without modifying the original toppings array, you can create a new array, spread toppings into it, and then call `reverse()` directly on it like so 👇
 
@@ -2924,7 +2924,7 @@ Let's look up `find()` on MDN.
 
 >The find() method returns the value of the first element in the provided array that satisfies the provided testing function.
 
-![](@attachment/Clipboard_2020-04-10-17-17-20.png) 1:23
+![](../attachments/579.png) 1:23
 
 As you can see, the `find()` function takes a callback as it's argument. It takes in the nested arguments of `element`, `index` and `array`, which are optional.  
 
@@ -2941,13 +2941,13 @@ console.log(burg);
 
 Let's refresh the HTML page, open the console and see how this works. 
 
-![](@attachment/Clipboard_2020-04-10-17-21-48.png) 2:36
+![](../attachments/580.png) 2:36
 
 As you can see it returned a comment "Love the burgs".
 
 So what is this part we have highlighted in this image below?
 
-![](@attachment/Clipboard_2020-04-10-17-22-23.png) 2:39
+![](../attachments/581.png) 2:39
 
 It is a function. 
 
@@ -2993,7 +2993,7 @@ function findBurgRating(singleFeedback) {
 }
 ```
 
-![](@attachment/Clipboard_2020-04-10-17-37-51.png) 4:48
+![](../attachments/582.png) 4:48
 
 Now when we run this, you see that every comment is logged in our console.
 
@@ -3008,7 +3008,7 @@ function findBurgRating(singleFeedback) {
 
 What will happen then is it will only every log the first one, and then it will stop. 
 
-![](@attachment/Clipboard_2020-04-10-17-39-40.png) 5:01
+![](../attachments/583.png) 5:01
 
 As soon as you return true from the callback function, it thinks you have found the thing you are looking for, and it will then return the item in the array. 
 
@@ -3029,7 +3029,7 @@ function findBurgRating(singleFeedback) {
 
 Now when you refresh, you should see the following logged in the console 👇
 
-![](@attachment/Clipboard_2020-04-10-17-42-27.png) 5:38
+![](../attachments/584.png) 5:38
 
 It looped over and found the first item to contain "burg" in the `feedback` array. 
 
@@ -3161,7 +3161,7 @@ To demonstrate this, open the console and clear everything.
 
 Try running `findByWord('burg')` and see what is returned in the console. 
 
-![](@attachment/Clipboard_2020-04-12-16-02-45.png) 12:37
+![](../attachments/585.png) 12:37
 
 As you see, when you run the `findByWord` burg function, it returns to us another function that is then setup to find the word burg in it. 
 
@@ -3184,11 +3184,11 @@ const goodReviews = feedback.filter(singleFeedback => {
 console.table(goodReviews);
 ```
 
-![](@attachment/Clipboard_2020-04-12-16-18-00.png) 14:12
+![](../attachments/586.png) 14:12
 
 As you can see, this also returns an item with a rating of 2 so let's actually change our filter from greater than or equal to 2 to just greater than 2. Now we only get 3 items returned. 
 
-![](@attachment/Clipboard_2020-04-12-16-19-18.png) 14:28
+![](../attachments/587.png) 14:28
 
 How can we make this function better? We have done this a few times now so you can feel free to do it yourself. 
 
@@ -3235,7 +3235,7 @@ Now we can change our filter to take any items with a rating over 4 like so:
 const goodReviews = feedback.filter(filterByMinRating(4));
 ```
 
-![](@attachment/Clipboard_2020-04-12-16-28-20.png) 16:25
+![](../attachments/588.png) 16:25
 
 
 The next exercise asks use to find all the ratings that talk about a burger using `filter`. 
@@ -3252,7 +3252,7 @@ const burgRatings = feedback.filter(findByWord('burg'));
 console.table(burgRatings);
 ```
 
-![](@attachment/Clipboard_2020-04-12-16-35-42.png) 17:34
+![](../attachments/589.png) 17:34
 
 If you refresh the page, you will see that it still works. 
 
@@ -3264,7 +3264,7 @@ The next exercise is to remove the 1 star rating, however we like.
 
 Let's take a look at the one star rating.
 
-![](@attachment/Clipboard_2020-04-12-16-38-32.png) 18:25 
+![](../attachments/590.png) 18:25 
 
 So there is a few ways we could find the one star rating. We could filter out comments that are done in all caps, or filter ratings that are equal to 1. Let's go  with the second approach. 
 
@@ -3274,7 +3274,7 @@ console.log(legitRatings);
 ```
 Note: notice this time we didn't name the variable that represents each instance we are looping `singleFeedback`? Wes named it `single` instead just to demonstrate that this variable name could be anything you choose (as long as it's a valid variable name).
 
-![](@attachment/Clipboard_2020-04-12-16-48-40.png) 19:11
+![](../attachments/592.png) 19:11
 
 As you can see above, that gives us the 1 star rating. However we want everything but the one star rating. 
 
@@ -3287,7 +3287,7 @@ const legitRatings = feedback.filter(single => single.rating !== 1);
 console.log(legitRatings);
 ```
 
-![](@attachment/Clipboard_2020-04-12-16-50-16.png) 19:26
+![](../attachments/593.png) 19:26
 
 That has given us everything else but the 1 star rating. 
 We are not going to create a function for this one because we can do it in a simle one liner, so why not. 
@@ -3300,7 +3300,7 @@ What does `some` do? Let's take a look at MDN.
 
 Let's take a look at `meats`. 
 
-![](@attachment/Clipboard_2020-04-12-16-57-54.png) 20:18
+![](../attachments/594.png) 20:18
 
 As you can see, it's an object. All of the stuff we have been learning about is arrays. 
 
@@ -3322,13 +3322,13 @@ const isThereEnoughOfAtLeastOneMeat = Object.values(meats).some(meatValue => mea
 
 When we converted the `meats` object into an array of values, it returned the following 👇
 
-![](@attachment/Clipboard_2020-04-12-17-02-23.png) 21:06
+![](../attachments/595.png) 21:06
 
 Next, we check if at least one of the values in that array is greater than or equal to 5. 
 
 Log the value of `isThereEnoughOfAtLeastOneMeat`, which should return true. 
 
-![](@attachment/Clipboard_2020-04-12-17-03-38.png) 21:16
+![](../attachments/596.png) 21:16
 
 The next exercise is to make sure we have at least 3 of every meat with `every()`. 
 
@@ -3358,15 +3358,15 @@ So let's say we have an array of numbers and we call sort on it, like so 👇
 ```
 
 We are returning the following 👇
-![](@attachment/Clipboard_2020-04-12-17-10-08.png) 22:45
+![](../attachments/597.png) 22:45
 
-If we try adding a few more numbers to the array and then calling sort, we get the following: ![](@attachment/Clipboard_2020-04-12-17-11-03.png) 23:01
+If we try adding a few more numbers to the array and then calling sort, we get the following: ![](../attachments/598.png) 23:01
 
 What is going on there? 
 
 Let's look up the docs on MDN. 
 
-![](@attachment/Clipboard_2020-04-12-17-11-29.png) 23:14
+![](../attachments/599.png) 23:14
 
 > The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
 
@@ -3384,7 +3384,7 @@ console.log(numbersSorted);
 
 First log to see what it looks like when we call `.sort()` directly one it. 
 
-![](@attachment/Clipboard_2020-04-12-17-15-36.png) 24:13
+![](../attachments/600.png) 24:13
 
 That is clearly not what we want. 
 
@@ -3394,7 +3394,7 @@ So basically we are going to loop over the array and it will give us the first i
 
 So, what do you return? 
 
-![](@attachment/Clipboard_2020-04-12-17-18-34.png) 24:45
+![](../attachments/601.png) 24:45
 
 If you return less than 0, it will go before it. If you return 0, it will be unchanged, and if you return greater than 0 it will go ahead of it. 
 
@@ -3407,7 +3407,7 @@ const numbersSorted = numbers.sort(function(firstItem, secondItem){
 console.log(numbersSorted);
 ```
 
-![](@attachment/Clipboard_2020-04-12-17-21-05.png) 25:23
+![](../attachments/602.png) 25:23
 
 As you can see we get 2 items each time. 
 
@@ -3437,7 +3437,7 @@ console.log(numbersSorted);
 
 Let's refresh the page to see how that works. 
 
-![](@attachment/Clipboard_2020-04-12-17-25-16.png) 26:38
+![](../attachments/603.png) 26:38
 
 So that works, but it's pretty verbose and we don't have to return 1, -1 or zero. You can return any zero, negative number or positive number. 
 
@@ -3450,7 +3450,7 @@ const numbersSorted = numbers.sort(function(firstItem, secondItem){
 console.log(numbersSorted);
 ```
 
-![](@attachment/Clipboard_2020-04-12-17-27-43.png) 27:06
+![](../attachments/604.png) 27:06
 
 Oops, that returns it in the wrong order. It should be `firstItem - secondItem`.
 
@@ -3466,7 +3466,7 @@ So by default, it will sort itself on strings. So if you did have strings like �
 
 It will sort it easily, like so 👇
 
-![](@attachment/Clipboard_2020-04-12-17-30-09.png) 27:52
+![](../attachments/605.png) 27:52
 
 But if you have numbers or nested elements, then you have to use a callback like we did. 
 
@@ -3479,7 +3479,7 @@ console.log(numbersSorted);
 
 If you refresh the HTML page, you will see it still works 👇
 
-![](@attachment/Clipboard_2020-04-12-17-33-15.png) 28:26
+![](../attachments/606.png) 28:26
 
 So now back to our exercise about sorting the toppings alphabetically using `sort()`.
 
@@ -3489,11 +3489,11 @@ That is easy. We just need to do add the following code 👇
 console.log(toppings.sort());
 ```
 
-![](@attachment/Clipboard_2020-04-12-17-34-25.png) 28:42
+![](../attachments/607.png) 28:42
 
 The next exercise is sorting the order totals from most expensive to leat with `.sort()`. 
 
-![](@attachment/Clipboard_2020-04-12-17-35-17.png) 28:53
+![](../attachments/608.png) 28:53
 
 So this is just an array of numbers. 
 We can do the same thing we did before, or we can make a function called `numbersSort` like so:
@@ -3510,13 +3510,13 @@ Now we can call `sort` and just pass in that function like so 👇
 console.log(orderTotals.sort(numbersSort))
 ```
 
-![](@attachment/Clipboard_2020-04-12-17-38-14.png) 29:19
+![](../attachments/609.png) 29:19
 
 As you can see, that worked. 
 
 Next we need to sort the prices with sort. 
 
-![](@attachment/Clipboard_2020-04-12-17-38-45.png) 29:26
+![](../attachments/610.png) 29:26
 
 Since `prices` is an object, how would we sort them? 
 
@@ -3530,7 +3530,7 @@ const productsSortedByPrice = Object.entries(prices);
 
 As you can see, that gives us an array where each item is an array. 
 
-![](@attachment/Clipboard_2020-04-12-17-40-55.png) 30:12
+![](../attachments/611.png) 30:12
 
 Now, what we can do is sort over each of them. We will use a regular function for that which takes in 2 parameters, the first item and the second item which we will represent with the variables `a` and `b`. 
 
@@ -3544,15 +3544,15 @@ const productsSortedByPrice = Object.entries(prices).sort(function(a,b){
 
 If you refresh HTMl page, the debugger will popup. You should see something like the following 👇
 
-![](@attachment/Clipboard_2020-04-12-17-44-45.png) 30:58
+![](../attachments/612.png) 30:58
 
 The important part is the local scope, meaning that what are these `a` and `b` variables equal to? 
 
-![](@attachment/Clipboard_2020-04-12-17-45-26.png) 31:02
+![](../attachments/613.png) 31:02
 
 It tells us that `a` is equal to burger and `b` is equal to hotdog. 
 
-![](@attachment/Clipboard_2020-04-12-17-45-52.png) 31:08
+![](../attachments/614.png) 31:08
 
 It says they are both arrays. 
 
@@ -3562,7 +3562,7 @@ const bPrice = b[1];
 debugger;
 ```
 
-![](@attachment/Clipboard_2020-04-12-17-51-04.png) 31:51
+![](../attachments/615.png) 31:51
 
 
 ```js
@@ -3576,7 +3576,7 @@ console.table(productsSortedByPrice);
 
 As you can see, we return the most expensive to the least expensive. 
 
-![](@attachment/Clipboard_2020-04-12-17-55-36.png) 32:17
+![](../attachments/617.png) 32:17
 
 If we wanted to turn that back into an object we can simply wrap it in `Object.fromEntries()`. 
 
@@ -3584,7 +3584,7 @@ If we wanted to turn that back into an object we can simply wrap it in `Object.f
 Object.fromEntries(productsSortedByPrice);
 ```
 
-![](@attachment/Clipboard_2020-04-12-17-57-18.png) 32:44
+![](../attachments/618.png) 32:44
 
 What that does is it takes a nested array, like we have here, and turns it back into a regular objects. 
 

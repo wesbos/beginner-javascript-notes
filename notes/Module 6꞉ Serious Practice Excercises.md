@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-03-15-15-15-20.png, Clipboard_2020-03-15-15-31-07.png, Clipboard_2020-03-15-15-31-09.png, Clipboard_2020-03-15-16-06-43.png, Clipboard_2020-03-15-16-18-16.png, Clipboard_2020-03-15-16-29-54.png, Clipboard_2020-03-15-16-36-41.png, Clipboard_2020-03-15-16-38-41.png, Clipboard_2020-03-15-16-40-43.png, Clipboard_2020-03-15-16-41-17.png, Clipboard_2020-03-15-18-01-03.png, Clipboard_2020-03-15-18-32-04.png, Clipboard_2020-03-17-20-44-18.png, Clipboard_2020-03-23-19-52-26.png, Clipboard_2020-03-23-19-56-52.png, Clipboard_2020-03-23-19-57-48.png, Clipboard_2020-03-23-19-59-27.png, Clipboard_2020-03-23-20-09-14.png, Clipboard_2020-03-23-20-14-43.png, Clipboard_2020-03-23-20-25-53.png, Clipboard_2020-03-23-20-29-52.png, Clipboard_2020-03-23-20-30-24.png, Clipboard_2020-03-28-15-59-03.png, Clipboard_2020-03-28-15-59-08.png, Clipboard_2020-03-28-15-59-32.png, Clipboard_2020-06-02-07-43-39.png, Clipboard_2020-06-02-07-46-00.png, Clipboard_2020-06-02-07-50-17.png, Clipboard_2020-06-02-07-51-33.png, Clipboard_2020-06-02-07-56-33.png, Clipboard_2020-06-02-07-58-13.png, Clipboard_2020-06-02-17-32-22.png, Clipboard_2020-06-02-17-38-34.png, Clipboard_2020-06-02-17-48-28.png, Clipboard_2020-06-02-17-49-50.png, Clipboard_2020-06-02-17-51-11.png, Clipboard_2020-06-02-17-53-23.png, Clipboard_2020-06-02-17-55-12.png, Clipboard_2020-06-02-17-55-40.png, Clipboard_2020-06-02-18-13-04.png, Clipboard_2020-06-02-18-13-23.png, Clipboard_2020-06-03-07-36-01.png, Clipboard_2020-06-03-07-50-02.png, Clipboard_2020-06-03-07-54-15.png, Clipboard_2020-06-03-07-56-53.png, Clipboard_2020-06-03-07-57-51.png, Clipboard_2020-06-03-08-02-14.png, Clipboard_2020-06-03-08-11-01.png, Clipboard_2020-06-03-17-40-51.png, Clipboard_2020-06-03-17-53-25.png, Clipboard_2020-06-03-18-12-38.png, Clipboard_2020-06-03-18-20-24.png, Clipboard_2020-06-03-18-26-58.png, Clipboard_2020-06-03-18-30-21.png, Clipboard_2020-06-03-18-30-34.png, Clipboard_2020-06-04-08-02-46.png, Clipboard_2020-06-04-17-55-52.png, Clipboard_2020-06-04-18-05-50.png, Clipboard_2020-06-04-18-13-27.png, Clipboard_2020-06-04-18-15-34.png, Clipboard_2020-06-04-18-19-16.png, Clipboard_2020-06-04-18-20-48.png, Clipboard_2020-06-04-18-20-50.png, Clipboard_2020-06-04-18-22-10.png, Clipboard_2020-06-04-18-26-42.png, Clipboard_2020-06-04-18-27-27.png, Clipboard_2020-06-04-18-30-11.png, Clipboard_2020-06-04-18-33-20.png, Clipboard_2020-06-04-18-34-19.png, Clipboard_2020-06-04-18-45-43.png, Clipboard_2020-06-04-18-46-52.png, Clipboard_2020-06-04-18-53-50.png]
+attachments: [396.png, 397.png, 398.png, 399.png, 400.png, 401.png, 402.png, 403.png, 404.png, 405.png, 406.png, 407.png, 408.png, 409.png, 410.png, 411.png, 412.png, 413.png, 414.png, 415.png, 416.png, 417.png, 418.png, 419.png, 420.png, 1325.png, 1326.png, 1327.png, 1328.png, 1329.png, 1330.png, 1331.png, 1332.png, 1333.png, 1334.png, 1335.png, 1336.png, 1337.png, 1338.png, 1339.png, 1340.png, 1341.png, 1342.png, 1343.png, 1344.png, 1345.png, 1346.png, 1347.png, 1348.png, 1349.png, 1350.png, 1351.png, 1352.png, 1353.png, 1354.png, 1355.png, 1356.png, 1357.png, 1358.png, 1359.png, 1360.png, 1361.png, 1362.png, 1363.png, 1364.png, 1365.png, 1366.png, 1367.png, 1368.png, 1369.png, 1370.png, 1371.png]
 favorited: true
 title: 'Module 6: Serious Practice Excercises'
 created: '2020-03-15T19:10:20.059Z'
@@ -18,7 +18,7 @@ Wes has added some fun things to it, for example the line is a rainbow gradient 
 
 Another thing to note is whenever you reload the page, it picks a random spot to begin. 
 
-![](@attachment/Clipboard_2020-03-15-15-15-20.png) 00:39
+![](../attachments/396.png) 00:39
 
 Topics we will be covering in this video include DOM elements and keyboard events. 
 
@@ -135,7 +135,7 @@ Rectangles, circles, drawing, lines, borders, different fill colors, all of thos
 
 If you inspect the canvas element in dev tools, you will see that it's just a regular old canvas element. 👇
 
-![](@attachment/Clipboard_2020-03-15-15-31-09.png) 5:12
+![](../attachments/398.png) 5:12
 
 Grab the canvas. 
 
@@ -192,7 +192,7 @@ Type in `ctx` so you can have a look at our ctx.
 
 You will see we get this `CanvasRenderingContext2D`.
 
-![](@attachment/Clipboard_2020-03-15-16-06-43.png) 8:03
+![](../attachments/399.png) 8:03
 
 This is our context object. 
 
@@ -226,7 +226,7 @@ ctx.stoek();
 
 Now if you refresh the page, you will see a dot 200 pixels over and 200 pixels down. 
 
-![](@attachment/Clipboard_2020-03-15-16-18-16.png) 9:50
+![](../attachments/400.png) 9:50
 
 What is cool about an Etch-a-Sketch is that it can start in a random spot. 
 
@@ -246,7 +246,7 @@ You will get 600 and 1000 which are the actual height and weight of the canvas, 
 
 You might notice that when you save the javascript file, Prettier modifies the variable declarations for width and height like so 👇
 
-![](@attachment/Clipboard_2020-03-15-16-29-54.png) 10:38
+![](../attachments/401.png) 10:38
 
 Prttier is doing **destructing** for us. 
 
@@ -285,7 +285,7 @@ You may have seen that we have **Math.random()**.
 
 If you type that into the console, you will see that it gives us a random number that seems to always be underneath one. 
 
-![](@attachment/Clipboard_2020-03-15-16-36-41.png) 12:54
+![](../attachments/402.png) 12:54
 
 Can we just pass a random number? 
 
@@ -293,7 +293,7 @@ Could we do something like `Math.random(100)`? No, that doesn't do anything.
 
 Let's look at the docs!
 
-![](@attachment/Clipboard_2020-03-15-16-38-41.png) 13:19
+![](../attachments/403.png) 13:19
 
 `Math.random` returns a floating-point (that means it contains decimals), pseudo-random number in the range of 0 to 1, inclusive of 0 but not 1. 
 
@@ -303,11 +303,11 @@ It doesn't take any arguments or anything like that.
 
 What you can do is take the `Math.random` value that it gives you and multiply it by 100, you are going to get a random number between zero and 99.99999. 
 
-![](@attachment/Clipboard_2020-03-15-16-40-43.png) 14:09
+![](../attachments/404.png) 14:09
 
 Then what you can do is run `Math.floor(Math.random() * 100))`, which should give us a number between 0 and 99. 
 
-![](@attachment/Clipboard_2020-03-15-16-41-17.png) 14:24
+![](../attachments/405.png) 14:24
 
 So that is exactly what we are going to use. 
 
@@ -343,7 +343,7 @@ For now, whenever you refresh the page you get a random x and y value that moves
 
 If you change `ctx.lineCap="round";` to `ctx.lineCap = "square";` it looks like this 👇
 
-![](@attachment/Clipboard_2020-03-15-18-01-03.png) 16:23
+![](../attachments/406.png) 16:23
 
 But switch it back to round because we want to use round.
 
@@ -394,7 +394,7 @@ Now, if you were to press any key, you would see it logged in the console.
 
 We only really care about the arrow keys so what we can is check whether the key value has the word arrow in it. 
 
-![](@attachment/Clipboard_2020-03-15-18-32-04.png) 19:39
+![](../attachments/407.png) 19:39
 
 Add an **if statement**, which we haven't learned about before, but if conditions check if something is true (whether it evaluates to boolean true or false), and then runs a block of code based on that condition. 
 
@@ -479,7 +479,7 @@ function draw({key}){
 This gives us a top level variable called key that you can use directly.
 
 
-![](@attachment/Clipboard_2020-03-17-20-44-18.png) 22:57 
+![](../attachments/408.png) 22:57 
 
 So this curly bracket above 👆 is called **object destructuring**, where you can take properties and rename them into proper variables and it allows you to have shorter variable names.
 
@@ -651,7 +651,7 @@ You have only implemented the case for ArrowUp.
 
 If you refresh the page and hit the arrow up key, you should see a line being drawn! 
 
-![](@attachment/Clipboard_2020-03-23-19-52-26.png) 31:06
+![](../attachments/409.png) 31:06
 
 Now, let's add the rest. 
 
@@ -686,11 +686,11 @@ _Note: if you get an error about the x being a const, that is likely the result 
 
 Now refresh the page and let's try it!
 
-![](@attachment/Clipboard_2020-03-23-19-56-52.png) 32:02
+![](../attachments/410.png) 32:02
 
 Now what you want to do is modify the code so the colour of the line changes as you go along.
 
-![](@attachment/Clipboard_2020-03-23-19-57-48.png) 32:30
+![](../attachments/411.png) 32:30
 
 That is actually very simple to do, you just have to change the HSL values. 
 
@@ -704,7 +704,7 @@ If you just hover over the gradient, you will see the H value goes from zero to 
 
 Tou can use that value, every time you move the cursor, increment the H value (hue) by 1. 
 
-![](@attachment/Clipboard_2020-03-23-19-59-27.png) 33:00
+![](../attachments/412.png) 33:00
 
 Above the `draw()` function, make a new variable called `hue` and set it to 0. 
 
@@ -751,7 +751,7 @@ ctx.strokeStyle = `hsl(${Math.random()*360}, 100% , 50%);
 
 That will give you cool effects like these 👇
 
-![](@attachment/Clipboard_2020-03-23-20-09-14.png) 36:22
+![](../attachments/413.png) 36:22
 
 You can have a lot of fun with HSL. 
 
@@ -776,7 +776,7 @@ Now, when you refresh the HTML page and run `clearCanvas()` in the console, you 
 
 That is because the class of `shake` is applied to it.  Wes has written some CSS to create that effect in this code 👇
 
-![](@attachment/Clipboard_2020-03-23-20-14-43.png) 38:01
+![](../attachments/414.png) 38:01
 
 ```css
 canvas.shake{
@@ -819,7 +819,7 @@ Now if you refresh the page and run `clearCanvas()`, you should see the console 
 
 However if you run it again and again from the console, you will notice that "done the shake" is being called many times 👇
 
-![](@attachment/Clipboard_2020-03-23-20-25-53.png) 41:02
+![](../attachments/415.png) 41:02
 
 You may be wondering what is going on. 
 
@@ -833,10 +833,10 @@ The number of times you ran `clearCanvas()` in the console was the number of eve
 
 If you click on the canvas element in the dev tools and then select the "Event Listeners" tab 👇
 
-![](@attachment/Clipboard_2020-03-23-20-29-52.png) 41:38
+![](../attachments/416.png) 41:38
 
 You will see that you are listening for the animationend event every time we run it 👇
-![](@attachment/Clipboard_2020-03-23-20-30-24.png) 41:44
+![](../attachments/417.png) 41:44
 
 That is obviously not what you want. 
 
@@ -901,11 +901,11 @@ ctx.clearRect(0, 0, 500, 500);
 
 Now refresh the page and draw across the canvas.
 
-![](@attachment/Clipboard_2020-03-28-15-59-08.png)
+![](../attachments/419.png)
 
 Now click the Shake! button. 
 
-![](@attachment/Clipboard_2020-03-28-15-59-32.png) 44:3`
+![](../attachments/420.png) 44:3`
 
 You should notice only a rectangle that is 500 by 500 pixels from the top left corner is cleared. 
 
@@ -935,7 +935,7 @@ In this lesson we are going to learn how to check whether you clicked outside an
 
 Let's look at the HTML we will be working with.  
 
-![](@attachment/Clipboard_2020-06-02-07-43-39.png) 00:17
+![](../attachments/1325.png) 00:17
 
 ```html
 <body>
@@ -1001,7 +1001,7 @@ Let's add the following CSS 👇
 </style>
 ```
 
-![](@attachment/Clipboard_2020-06-02-07-46-00.png) 2:55
+![](../attachments/1326.png) 2:55
 
 That looks good. 
 
@@ -1042,7 +1042,7 @@ background: white;
 }
 ```
 
-![](@attachment/Clipboard_2020-06-02-07-51-33.png) 5:50
+![](../attachments/1328.png) 5:50
 
 Now you have this modal which will pop up and you want to be able to close it.
 
@@ -1081,7 +1081,7 @@ That is an example of where Javascript and CSS work together.
 
 Now if you refresh the page and give `modal-outer` an opacity of .5, in the dev tools, you will see that the modal outer is still there but you will see how the buttons underneath can still be clicked and the events aren't being captured by `modal-outer`.
 
-![](@attachment/Clipboard_2020-06-02-07-56-33.png) 7:28
+![](../attachments/1329.png) 7:28
 
 When the modal has a class of open, set the opacity to 1 and the pointer events to all. 
 
@@ -1094,7 +1094,7 @@ When the modal has a class of open, set the opacity to 1 and the pointer events 
 
 If you go into the dev tools and give `modal-outer` a class of `open`, it will show up. 
 
-![](@attachment/Clipboard_2020-06-02-07-58-13.png) 8:02
+![](../attachments/1330.png) 8:02
 
 Let's add a transition to make that look a bit smoother. 👇
 
@@ -1167,7 +1167,7 @@ What is great about using `closest` like we did is you can take any element, suc
 
 If there is something that does not find (like `$0.closest('.doesnotmatch')`) it will return `null` because there is no parent of it. 
 
-![](@attachment/Clipboard_2020-06-02-17-32-22.png) 11:13
+![](../attachments/1331.png) 11:13
 
 `.closest()` is like `querySelectorAll`, except it is the opposite where it will climb up the nested tree of DOM elements instead of look down the DOM tree.
 
@@ -1197,7 +1197,7 @@ Add a log as well to make sure it is working.
 
 Now when you refresh the page, and click the buttons, you should see the descriptions logged to the console.
 
-![](@attachment/Clipboard_2020-06-02-17-38-34.png) 12:20
+![](../attachments/1332.png) 12:20
 
 Next you can populate the modal with the card's info. 
 
@@ -1265,7 +1265,7 @@ function handleCardButtonClick(event) {
 
 If you refresh the page, you will see that it works. 
 
-![](@attachment/Clipboard_2020-06-02-17-48-28.png) 14:32 
+![](../attachments/1333.png) 14:32 
 
 The image is also there, it is just spilling out so let's fix the CSS. 
 
@@ -1277,7 +1277,7 @@ Add the following to the style tag
 }
 ```
 
-![](@attachment/Clipboard_2020-06-02-17-49-50.png) 15:54
+![](../attachments/1334.png) 15:54
 
 Good, now you have the bare bones of a modal. 
 
@@ -1293,7 +1293,7 @@ function closeModal(){
 
 But how do we code it so that the modal closes when you click outside of it, and not on the text or the image or anything like that?
 
-![](@attachment/Clipboard_2020-06-02-17-51-11.png) 16:33
+![](../attachments/1335.png) 16:33
 
 We can solve this using a technique called **click outside**. 
 
@@ -1309,7 +1309,7 @@ modalOuter.addEventListener('click', function(event){
 
 Now when you click outside the modal on `modalOuter`, you will see the click event logged. 
 
-![](@attachment/Clipboard_2020-06-02-17-53-23.png) 17:13
+![](../attachments/1336.png) 17:13
 
 Next log the `target` and `currentTarget` of the event.
 
@@ -1320,7 +1320,7 @@ modalOuter.addEventListener('click', function(event){
 })
 ```
 
-![](@attachment/Clipboard_2020-06-02-17-55-40.png) 17:23
+![](../attachments/1338.png) 17:23
 
 You might think this would be simple to solve because you can just check if the `modalOuter` and the `currentTarget` are the same thing, then tiy can go ahead and close it. 
 
@@ -1408,7 +1408,7 @@ Now if you refresh the page and try clicking on the buttons, you will see how it
 
 However, you may notice that the transition is a bit jerky and not completely smooth. 
 
-![](@attachment/bad-transition.gif) 22:17
+![](../attachments/bad-transition.gif) 22:17
 
 What is happening there is the image isn't loading immediately. 
 
@@ -1434,9 +1434,9 @@ You can test this by going into the dev tools.
 
 Go to the network tab and click the dropdown arrow next to "Online"  
 
-![](@attachment/Clipboard_2020-06-02-18-13-04.png) 22:55
+![](../attachments/1339.png) 22:55
 
-![](@attachment/Clipboard_2020-06-02-18-13-23.png) 22:56
+![](../attachments/1340.png) 22:56
 
 Select Fast 3G.
 
@@ -1462,7 +1462,7 @@ One thing you are likely to encounter in your career as a developer is building 
 
 That is where the user is forced to scroll all the way to the bottom of the text before the accept button will work.
 
-![](@attachment/scroll-terms.gif)
+![](../attachments/scroll-terms.gif)
 
 First we are just going to dive into scroll events, and then Wes will show us why a scroll event is maybe not what you want, and there is this newer thing in the browser called **intersection observer** which actually might be what we want.   
 
@@ -1512,7 +1512,7 @@ terms.addEventListener('scroll', function(e){
 });
 ```
 
-![](@attachment/Clipboard_2020-06-03-07-36-01.png) 2:19
+![](../attachments/1341.png) 2:19
 
 As you can see, it did not find anything. When that is the case, your selector is probably wrong. 
 
@@ -1545,7 +1545,7 @@ If you try screwing up your query selector now, you won't get an error because t
 
 Open up the scroll event that you are logging in the console. 
 
-![](@attachment/Clipboard_2020-06-03-07-50-02.png) 4:06
+![](../attachments/1342.png) 4:06
  
  The `currentTarget` is `null` at this point but if you were to log it, you would see it. 
 
@@ -1561,7 +1561,7 @@ terms.addEventListener('scroll', function(e){
 });
 ```
 
-![](@attachment/Clipboard_2020-06-03-07-54-15.png) 5:06
+![](../attachments/1343.png) 5:06
 
 How do you know if you are scrolled to the bottom? How would you know that 1,828  pixels is the bottom for example? 
 
@@ -1576,13 +1576,13 @@ terms.addEventListener('scroll', function(e){
  });
 ```
 
-![](@attachment/Clipboard_2020-06-03-07-56-53.png) 5:47
+![](../attachments/1344.png) 5:47
 
 Now when you log that, you will see how far from the top you are scrolled and the second number is how high the actual scroll-able div is.
 
 When you reach the very end, you should see the values are close.
 
-![](@attachment/Clipboard_2020-06-03-07-57-51.png) 6:04
+![](../attachments/1345.png) 6:04
 
 They are not perfectly close and that is because the elements have different CSS styles, one of them has margins and padding. 
 
@@ -1598,7 +1598,7 @@ You can do that with the `terms` div but first let's go over a simple example fi
 
 Inside of the `terms` HTML, between one of the paragraphs, Wes will add a strong tag with a class of `watch` 
 
-![](@attachment/Clipboard_2020-06-03-08-02-14.png) 7:04
+![](../attachments/1346.png) 7:04
 
 We want to know when that strong tag is visible on the page.  
 
@@ -1643,7 +1643,7 @@ ob.observe(watch);
 
 Now, every time we you ahead and scroll, you will notice that you get this IntersectionObserver entity logged. 
 
-![](@attachment/Clipboard_2020-06-03-08-11-01.png) 9:28
+![](../attachments/1347.png) 9:28
 
 As you can see, it is full of information about all of the items that have come our way.
 
@@ -1655,7 +1655,7 @@ If you take a look at what is in there, you will see some interesting things lik
 
 There is also the boolean `isIntersecting` which will tell you if it is on the page or off. 
 
-![](@attachment/Clipboard_2020-06-03-17-40-51.png) 11:02
+![](../attachments/1348.png) 11:02
 
 There is other information about the size of the element and what size it is on the page. 
 
@@ -1671,7 +1671,7 @@ function obCallback(payload){
 
 Now if you refresh the page and scroll the strong tag into view, you will see that an **IntersectionObserverEntry** is logged. 
 
-![](@attachment/Clipboard_2020-06-03-17-53-25.png) 11:30
+![](../attachments/1349.png) 11:30
 
 On that object there is a property `isIntersecting`, which is a boolean. 
 
@@ -1683,7 +1683,7 @@ function obCallback(payload){
 }
 ```
 
-![](@attachment/intersecting.gif) 11:43
+![](../attachments/intersecting.gif) 11:43
 
 As you can see it tells us when it is on or off the page. 
 
@@ -1695,7 +1695,7 @@ function obCallback(payload){
 }
 ```
 
-![](@attachment/ratio.gif) 12:15
+![](../attachments/ratio.gif) 12:15
 
 As you can see, the properties value changes based on what percentage of the element that is being watched is visible on the page. 
 
@@ -1727,7 +1727,7 @@ Now you are observing the last paragraph in the terms div.
 
 If you refresh the page and scroll to the bottom of the page with the console open, you should see something like the following 👇
 
-![](@attachment/Clipboard_2020-06-03-18-12-38.png) 13:34
+![](../attachments/1350.png) 13:34
 
 How do you get it to tell us when it is 100% on the page?
 
@@ -1751,7 +1751,7 @@ If you refresh and open the console, you will see 0 which tells us it is off the
 
 Even when we scroll to the very bottom it's not firing. 
 
-![](@attachment/Clipboard_2020-06-03-18-20-24.png) 14:32
+![](../attachments/1351.png) 14:32
 
 If you change the threshold to something like 0.11497, it will fire. 
 
@@ -1783,7 +1783,7 @@ const button = document.querySelector('.accept');
 
 Now within that if statement, you can remove the disabled attribute from the button. 
 
-![](@attachment/Clipboard_2020-06-03-18-26-58.png) 16:13
+![](../attachments/1352.png) 16:13
 
 ```js
 function obCallback(payload){
@@ -1797,7 +1797,7 @@ The CSS for the disabled attribute on the button gives it an opacity of 0.1.
 
 You don't have to do anything with pointer events here because HTML will prevent the button from being clickable due to the disabled attribute.
  
-![](@attachment/Clipboard_2020-06-03-18-30-34.png) 16:48
+![](../attachments/1354.png) 16:48
 
 Wes has also put a transition on the button of two seconds so it fades in once you hit it. 
 
@@ -1833,7 +1833,7 @@ button[disabled] {
 }
 ```
 
-![](@attachment/flyin.gif) 17:39
+![](../attachments/flyin.gif) 17:39
 
 Add an if statement to disable the button when it's not fully scrolled. 
 
@@ -1876,7 +1876,7 @@ That concludes this lesson!
 
 ## 36 -Tabs
 
-![](@attachment/Clipboard_2020-06-04-08-02-46.png) 00:10
+![](../attachments/1355.png) 00:10
 
 In this example we are going to build tabs. 
 
@@ -2016,7 +2016,7 @@ Now when you click on one of the tabs it gives you the event.
 
 If you logged `event.currentTarget` and then clicked different tabs, you would see each of the buttons logged.
 
-![](@attachment/Clipboard_2020-06-04-17-55-52.png) 5:40
+![](../attachments/1356.png) 5:40
 
 Now let's get into looping which you haven't learned yet but it's good to preview it before you hit the looping lesson and to see some examples of where you might use it in real life. 
 
@@ -2041,7 +2041,7 @@ We have already selected all the tab panels at the top of our file.
 
 If you were to log them within the  `handleTabClick` event, you would get a node list with the 2 divs. 
 
-![](@attachment/Clipboard_2020-06-04-18-05-50.png) 7:21
+![](../attachments/1357.png) 7:21
 
 The tab panels are getting hidden by the `hidden` attribute. 
 
@@ -2057,7 +2057,7 @@ That code will take the node list of the 3 panels, loop over each one, and for e
 
 If you click on one tab, you get 3 separate console logs of each of them. 
 
-![](@attachment/Clipboard_2020-06-04-18-13-27.png) 8:11
+![](../attachments/1358.png) 8:11
 
 Modify the code like so to set each panel to hidden. 👇
 
@@ -2069,7 +2069,7 @@ tabPanels.forEach(function(panel){
 
 As soon as you click on any tab, all the panels turn to hidden.  
 
-![](@attachment/Clipboard_2020-06-04-18-15-34.png) 9:08
+![](../attachments/1359.png) 9:08
 
 To refactor that to an arrow function, you would simply modify the code like so 👇
 
@@ -2085,7 +2085,7 @@ In a future step, you will go back and show one of those `tabPanels`.
 
 You could just filter out the selected `tabPanel` when hiding them, but in Wes' experience it is much easier to just hide them all and then show the one that we want. 
 
-![](@attachment/Clipboard_2020-06-04-18-20-50.png) 10:19
+![](../attachments/1362.png) 10:19
 
 The next step is to take the tabs and mark them all as unselected. 
 
@@ -2093,7 +2093,7 @@ As you can see, we are using the `aria-selected` attribute to set whether it is 
 
 So how do you set that? Would  `tab.aria-selected = false` work? 
 
-![](@attachment/Clipboard_2020-06-04-18-22-10.png) 10:32
+![](../attachments/1363.png) 10:32
 
 It does not, because you can't put dashes in it. 
 
@@ -2119,11 +2119,11 @@ If you refresh the page does that work?
 
 No. You will see a tab is still selected. 
 
-![](@attachment/Clipboard_2020-06-04-18-26-42.png) 11:43
+![](../attachments/1364.png) 11:43
 
 If you click on the Javascript button which still looks selected, and flip to the console and do `$0.ariaSelected`, it will return false.
 
-![](@attachment/Clipboard_2020-06-04-18-27-27.png) 11:51
+![](../attachments/1365.png) 11:51
 
 So why is it not updating? 
 
@@ -2137,7 +2137,7 @@ The only other way is to use the `.setAttribute()` method.
 
 Wes looked at some docs and for `aria` properties, you should always use the `setAttribute` and `getAttribute` method on the element instead of on the property. 
 
-![](@attachment/Clipboard_2020-06-04-18-30-11.png) 12:40
+![](../attachments/1366.png) 12:40
 
 So some properties like `.alt` or `.src` or `.title`, those things can be done via properties on the element, but not for aria attributes.
 
@@ -2158,7 +2158,7 @@ function handleTabClick(event) {
 
 If you were to refresh the page and click one of the tabs, all the tabs will no longer be selected. 
 
-![](@attachment/Clipboard_2020-06-04-18-33-20.png) 13:24
+![](../attachments/1367.png) 13:24
 
 Now, mark the clicked tab as selected. 
 
@@ -2168,7 +2168,7 @@ event.currentTarget.setAttribute('aria-selected', true);
 
 When you click one, you will see it will set and remove the aria selected. 
 
-![](@attachment/Clipboard_2020-06-04-18-34-19.png) 14:01
+![](../attachments/1368.png) 14:01
 
 You might have noticed that we are not using any classes here and the reason for that is if you can reach for an accessibility attribute over a class then do that so you can kill 2 birds with one stone. 
 
@@ -2245,7 +2245,7 @@ If you added the following code, would it work?
 tabPanels.find()
 ```
 
-![](@attachment/Clipboard_2020-06-04-18-45-43.png) 18:36
+![](../attachments/1369.png) 18:36
 
 No, it does not. 
 
@@ -2256,7 +2256,7 @@ That is because the `.find()` method is only a method on arrays.
 
 If you recall from when we logged `tabPanels`, it is not an array, it is a NodeList, and it doesn't have all of those array methods.
 
-![](@attachment/Clipboard_2020-06-04-18-46-52.png) 18:58
+![](../attachments/1370.png) 18:58
 
 You can convert the NodeList into an array by wrapping it in `Array.from()` like so 👇
 
@@ -2288,7 +2288,7 @@ So what you did is you used find to find the tabPanel that matches the id we pas
 
 Now when you click on a tab, you will see the associated panel. 
 
-![](@attachment/Clipboard_2020-06-04-18-53-50.png) 21:07
+![](../attachments/1371.png) 21:07
 
 Replace the log with `tabPanel.hidden = false;` so it is no longer hidden.
 

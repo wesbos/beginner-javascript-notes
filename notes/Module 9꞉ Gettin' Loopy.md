@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-04-13-18-40-09.png, Clipboard_2020-04-13-18-42-05.png, Clipboard_2020-04-13-18-44-15.png, Clipboard_2020-04-13-18-47-12.png, Clipboard_2020-04-13-18-51-19.png, Clipboard_2020-04-13-19-54-31.png, Clipboard_2020-04-13-20-01-24.png, Clipboard_2020-04-13-20-03-31.png, Clipboard_2020-04-13-20-04-13.png, Clipboard_2020-04-13-20-05-28.png, Clipboard_2020-04-13-20-09-22.png, Clipboard_2020-04-13-20-11-27.png, Clipboard_2020-04-13-23-22-05.png, Clipboard_2020-04-13-23-23-16.png, Clipboard_2020-04-13-23-26-57.png, Clipboard_2020-04-13-23-31-21.png, Clipboard_2020-04-13-23-32-58.png, Clipboard_2020-04-13-23-33-14.png, Clipboard_2020-04-13-23-37-28.png, Clipboard_2020-04-13-23-37-32.png, Clipboard_2020-04-13-23-38-35.png, Clipboard_2020-04-14-07-39-08.png, Clipboard_2020-04-14-07-41-24.png, Clipboard_2020-04-14-07-45-20.png, Clipboard_2020-04-14-07-46-49.png, Clipboard_2020-04-14-07-51-17.png, Clipboard_2020-04-14-08-01-39.png, Clipboard_2020-04-14-08-02-45.png, Clipboard_2020-04-14-19-02-38.png, Clipboard_2020-04-14-19-04-36.png, Clipboard_2020-04-14-19-07-49.png, Clipboard_2020-04-14-19-11-00.png, Clipboard_2020-04-14-19-12-41.png, Clipboard_2020-04-14-19-14-18.png, Clipboard_2020-04-14-19-18-55.png, Clipboard_2020-04-14-19-23-24.png, Clipboard_2020-04-14-19-25-05.png, Clipboard_2020-04-14-19-29-46.png, Clipboard_2020-04-14-20-34-12.png, Clipboard_2020-04-14-20-54-20.png, Clipboard_2020-04-14-20-54-24.png, Clipboard_2020-04-14-20-59-30.png, Clipboard_2020-04-14-21-10-56.png, Clipboard_2020-04-14-21-11-50.png, Clipboard_2020-04-14-21-13-24.png, Clipboard_2020-04-14-21-22-51.png, Clipboard_2020-04-14-21-28-18.png, Clipboard_2020-04-14-21-31-12.png, Clipboard_2020-04-14-21-32-56.png, Clipboard_2020-04-14-21-33-49.png, Clipboard_2020-04-14-21-35-10.png, Clipboard_2020-04-15-07-39-54.png, Clipboard_2020-04-15-07-40-47.png, Clipboard_2020-04-15-07-43-24.png, Clipboard_2020-04-15-07-50-19.png, Clipboard_2020-04-15-08-25-01.png, Clipboard_2020-04-15-08-29-27.png, Clipboard_2020-04-15-08-35-08.png, Clipboard_2020-04-15-17-03-17.png, Clipboard_2020-04-15-17-04-40.png, Clipboard_2020-04-15-17-10-33.png, Clipboard_2020-04-15-17-54-18.png, Clipboard_2020-04-15-17-57-15.png, Clipboard_2020-04-15-17-59-42.png, Clipboard_2020-04-15-18-07-54.png, Clipboard_2020-04-15-19-16-07.png, Clipboard_2020-04-15-19-31-55.png, Clipboard_2020-04-15-19-34-03.png, Clipboard_2020-04-16-08-47-02.png, Clipboard_2020-04-16-08-48-46.png, Clipboard_2020-04-16-08-50-24.png, Clipboard_2020-04-16-08-51-34.png, Clipboard_2020-04-16-08-53-52.png, Clipboard_2020-04-16-08-56-21.png, Clipboard_2020-04-16-18-39-05.png, Clipboard_2020-04-16-19-06-33.png, Clipboard_2020-04-16-19-07-32.png, Clipboard_2020-04-16-19-20-39.png, Clipboard_2020-04-16-19-21-36.png, Clipboard_2020-04-16-19-28-11.png, Clipboard_2020-04-16-19-32-08.png, Clipboard_2020-04-16-19-37-18.png, Clipboard_2020-04-16-19-37-20.png, Clipboard_2020-04-16-19-41-32.png, Clipboard_2020-04-16-20-23-27.png, Clipboard_2020-04-16-20-28-56.png, Clipboard_2020-04-17-08-17-37.png, Clipboard_2020-04-17-08-24-38.png, Clipboard_2020-04-17-08-31-27.png, Clipboard_2020-04-17-08-34-37.png, Clipboard_2020-04-17-08-36-11.png, Clipboard_2020-04-17-08-39-58.png, Clipboard_2020-04-17-08-40-48.png, Clipboard_2020-04-17-08-42-00.png, Clipboard_2020-04-17-08-44-32.png, Clipboard_2020-04-17-08-52-16.png, Clipboard_2020-04-17-08-54-09.png, Clipboard_2020-04-17-08-54-50.png, Clipboard_2020-04-17-08-55-45.png, Clipboard_2020-04-17-18-22-57.png, Clipboard_2020-04-17-18-28-29.png, Clipboard_2020-04-17-18-30-51.png, Clipboard_2020-04-17-18-33-41.png, Clipboard_2020-04-17-18-39-46.png, Clipboard_2020-04-17-18-40-50.png, Clipboard_2020-04-17-18-43-28.png, Clipboard_2020-04-17-18-45-20.png, Clipboard_2020-04-17-18-47-47.png, Clipboard_2020-04-17-18-48-25.png, Clipboard_2020-04-17-18-49-46.png, Clipboard_2020-04-17-18-56-14.png, Clipboard_2020-04-17-18-59-25.png, Clipboard_2020-08-18-20-22-55.png, Clipboard_2020-08-18-20-22-59.png, Clipboard_2020-08-19-07-50-40.png, Clipboard_2020-08-19-07-50-42.png]
+attachments: [619.png, 620.png, 621.png, 622.png, 623.png, 624.png, 625.png, 626.png, 627.png, 628.png, 629.png, 630.png, 631.png, 632.png, 633.png, 634.png, 635.png, 636.png, 637.png, 638.png, 639.png, 640.png, 641.png, 642.png, 643.png, 644.png, 645.png, 646.png, 647.png, 648.png, 649.png, 650.png, 651.png, 652.png, 653.png, 654.png, 655.png, 656.png, 657.png, 658.png, 659.png, 660.png, 661.png, 662.png, 663.png, 664.png, 665.png, 666.png, 667.png, 668.png, 669.png, 670.png, 671.png, 672.png, 673.png, 674.png, 675.png, 676.png, 677.png, 678.png, 679.png, 680.png, 681.png, 682.png, 683.png, 684.png, 685.png, 686.png, 687.png, 688.png, 689.png, 690.png, 691.png, 692.png, 693.png, 694.png, 695.png, 696.png, 697.png, 698.png, 699.png, 700.png, 701.png, 702.png, 703.png, 704.png, 705.png, 706.png, 707.png, 708.png, 709.png, 710.png, 711.png, 712.png, 713.png, 714.png, 715.png, 716.png, 717.png, 718.png, 719.png, 720.png, 721.png, 722.png, 723.png, 724.png, 725.png, 726.png, 727.png, 728.png, 729.png, 730.png, 1470.png, 1471.png, 1472.png, 1473.png]
 title: 'Module 9: Gettin'' Loopy'
 created: '2020-04-13T22:24:51.247Z'
 modified: '2020-08-20T11:51:56.686Z'
@@ -38,7 +38,7 @@ function logTopping(topping){
 toppings.forEach(logTopping)
 ```
 
-![](@attachment/Clipboard_2020-04-13-18-40-09.png) 10:06
+![](../attachments/619.png) 10:06
 
 If you refresh the page, you will see that we are logging every single one of the toppings as we loop over them. 
 
@@ -55,13 +55,13 @@ function logTopping(topping){
 
 When you refresh the HTML page, the debugger should open once it hits the first item in the array. 
 
-![](@attachment/Clipboard_2020-04-13-18-42-05.png) 9:52
+![](../attachments/620.png) 9:52
 
 As you can see, the debugger is in paused state. We have access to the call stack, and it tells us we are in the function `logTopping`. 
 
 Below that, the debugger tells us what the `topping` variable is equal to which is "Mushrooms", as well as the value of the `this` variable, which is equal to the Window.
 
-![](@attachment/Clipboard_2020-04-13-18-44-15.png) 9:24 
+![](../attachments/621.png) 9:24 
 
 If you click the symbol shown in the image above twice, the javascript code will continue running.  
 
@@ -77,7 +77,7 @@ toppings.forEach(topping => {
 
 One thing you might be having trouble with is where is this `topping` variable shown highlighted below is coming from. You may be wondering if it's a special keyword because it is a singular of toppings which is the name of the variable that holds the `toppings` array. 
 
-![](@attachment/Clipboard_2020-04-13-18-47-12.png) 8:25
+![](../attachments/622.png) 8:25
 
 If you remember back to when we learned about arguments and placeholders we said that arguments were the actual values and the parameters were the placeholders.
 
@@ -89,7 +89,7 @@ How do we know that?
 
 We can look at the `forEach()` docs on MDN. 
 
-![](@attachment/Clipboard_2020-04-13-18-51-19.png) 4:30 / 7:22
+![](../attachments/623.png) 4:30 / 7:22
 
 In our case, we chose to name the `currentValue` parameter `topping`. 
 
@@ -106,7 +106,7 @@ toppings.forEach(logTopping);
 
 When you refresh the HTML page and open the console, you will see that for each item in the array, the actual item was logged, the index and also the original array. 
 
-![](@attachment/Clipboard_2020-04-13-19-54-31.png) 4:52
+![](../attachments/624.png) 4:52
 
 Why would you need to pass the original array? 
 
@@ -130,7 +130,7 @@ function logTopping(topping,index,originalArray)
 
 Add a log of `originalArray[index]` and refresh the HTML page. 
 
-![](@attachment/Clipboard_2020-04-13-20-01-24.png) 6:26
+![](../attachments/625.png) 6:26
 
 ```js
 console.log(originalArray[index + 1]);
@@ -150,11 +150,11 @@ function logTopping(topping, index, originalArray){
 
 When you refresh the HTML page, you should see the following 👇
 
-![](@attachment/Clipboard_2020-04-13-20-03-31.png) 6:49
+![](../attachments/626.png) 6:49
 
 If you scroll all the way to the bottom, you will see that when we get to the last one, the next index returns `undefined`. 
 
-![](@attachment/Clipboard_2020-04-13-20-04-13.png) 6:57
+![](../attachments/627.png) 6:57
 
 We can check whether the next topping exists or not by adding the following code 👇
 
@@ -167,7 +167,7 @@ if(nextTopping){
 
 Now if you refresh the page and look at the console, you will see that for the last item, we are not logging the next one because it doesn't exist. 
 
-![](@attachment/Clipboard_2020-04-13-20-05-28.png) 7:22
+![](../attachments/628.png) 7:22
 
 We can go a bit further and make it a bit easier to understand using a ternary function.
 
@@ -191,7 +191,7 @@ nextTopping ? console.log(nextTopping) : null;
  console.log('--------🍕-----');
 ```
 
-![](@attachment/Clipboard_2020-04-13-20-09-22.png) 8:25
+![](../attachments/629.png) 8:25
 
 Now the first and last topping should only have 2 items logged while all the other items have 3 items logged.
 
@@ -203,7 +203,7 @@ Let's use `.length` on the array and a ternary statement.
 index === array.length - 1 ? console.log('Goodbye') : console.log("getting the next topping");
 ```
 
-![](@attachment/Clipboard_2020-04-13-20-11-27.png) 9:21
+![](../attachments/630.png) 9:21
 
 Let's break down what we did exactly in that last example. 
 
@@ -305,7 +305,7 @@ function addArms(face){
 
 That is just a regular function like we have written a hundred times by now. You can play with it in the console. It's silly, but it works.
 
-![](@attachment/Clipboard_2020-04-13-23-22-05.png) 3:01
+![](../attachments/631.png) 3:01
 
 Now what we can do is we can take our array of faces and add arms to all of them, and this how that works. 
 
@@ -314,7 +314,7 @@ const toys = faces.map(addArms);
 console.log(toys);
 ```
 
-![](@attachment/Clipboard_2020-04-13-23-23-16.png) 3:36
+![](../attachments/632.png) 3:36
 
 As you can see, what was returned to us is an array of exactly the same length as we put it in, so if the array had 8 things, it will have 8 things when it's returned, there is no way to return more or less items with `map`. 
 
@@ -327,7 +327,7 @@ const fullNames = ['wes','kait','poppy'].map(name => `${name} bos`);
 console.log(fullNames);
 ```
 
-![](@attachment/Clipboard_2020-04-13-23-26-57.png) 4:33
+![](../attachments/633.png) 4:33
 
 We could do multiple transforms. 
 
@@ -341,7 +341,7 @@ function bosify(name){
 const fullNames = [ 'wes', 'kait', 'poppy'].map(bosify);
 ```
 
-![](@attachment/Clipboard_2020-04-13-23-31-21.png) 5:17
+![](../attachments/634.png) 5:17
 
 The first names don't have capitals so make another function `capitalize` which takes in a word. 
 
@@ -349,7 +349,7 @@ You can access each character of a word using an index.
 
 For example `'wes'[0]`, `'wes'[1]`, `'wes'[2]` will return the following 👇
 
-![](@attachment/Clipboard_2020-04-13-23-33-14.png) 5:55
+![](../attachments/636.png) 5:55
  
 So you can capitalize the first letter of the word as shown below. 
 
@@ -378,7 +378,7 @@ const fullNames = ['wes','kait','poppy']
 console.log(fullNames);
 ```
 
-![](@attachment/Clipboard_2020-04-13-23-37-32.png) 6:56
+![](../attachments/638.png) 6:56
 
 As you can see, that does not return the whole word. 
 
@@ -392,7 +392,7 @@ function capitalize(word){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-13-23-38-35.png) 7:12
+![](../attachments/639.png) 7:12
 
 As you can see, that works. 
 
@@ -406,7 +406,7 @@ function capitalize(word){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-14-07-39-08.png) 7:%6
+![](../attachments/640.png) 7:%6
 
 Map will always take in an item, do some work with it and then return a new value. 
 
@@ -424,7 +424,7 @@ Watch what happens if for every single item in our map, we just return one.
 const orderTotalsWithTax = orderTotals.map(total => 1);
 ```
 
-![](@attachment/Clipboard_2020-04-14-07-41-24.png) 8:32
+![](../attachments/641.png) 8:32
 
 As you can see, all the items in the array have now been turned into 1. 
 
@@ -441,7 +441,7 @@ Back to our example, to add the tax to every item in `orderTotals`, add the foll
 const orderTotalsWithTax = orderTotals.map(total => total * 1.13);
 ```
 
-![](@attachment/Clipboard_2020-04-14-07-45-20.png) 9:09
+![](../attachments/642.png) 9:09
 
 As you can see, we now have our values with tax added to them. 
 
@@ -451,7 +451,7 @@ There is one really silly example that Wes wants to show us.
 
 There is this thing on twitter where you can make cowboy bodies out of emojis.
 
-![](@attachment/Clipboard_2020-04-14-07-46-49.png) 9:41
+![](../attachments/643.png) 9:41
 
 ```js
 function attachBody(face, body) {
@@ -485,19 +485,19 @@ You can take a string and call repeat on it and javascript will repeat that howe
 'x'.repeat(199);
 ```
 
-![](@attachment/Clipboard_2020-04-14-07-51-17.png) 10:46
+![](../attachments/644.png) 10:46
 
 Another thing Wes hasn't shown us yet is `Array.fill()`.  
 
 With `Array(3)`, it will create 3 empty spots in an array, much like `Array.from()`. 
 
-![](@attachment/Clipboard_2020-04-14-08-01-39.png) 10:53
+![](../attachments/645.png) 10:53
 
 However if you want to fill them with the exact same thing, you can use `Array(3).fill('x')`. 
 
 That is a bit quicker than `Array.from` and the map function that we looked at. 
 
-![](@attachment/Clipboard_2020-04-14-08-02-45.png) 11:09
+![](../attachments/646.png) 11:09
 
 In our `attachBody` function, we are just filling it with an emoji and then calling `.join(' ')` with a space separator in it. That gives us the actual body of the person.
 
@@ -572,7 +572,7 @@ If you don't pass a date when you create a date in Javascript as shown below, it
 new Date()
 ``` 
 
-![](@attachment/Clipboard_2020-04-14-19-02-38.png) 14:17
+![](../attachments/647.png) 14:17
 
 The date you see in the console in the video is the date that Wes is recording the video. 
 
@@ -586,7 +586,7 @@ const cleanPeople = people.map(function(person){
 })
 ```
 
-![](@attachment/Clipboard_2020-04-14-19-04-36.png)14:37
+![](../attachments/648.png)14:37
 
 As you can see, for each person we log the person and then it actual logs a true javascript date.
 
@@ -606,7 +606,7 @@ const cleanPeople = people.map(function(person){
 })
 ```
 
-![](@attachment/Clipboard_2020-04-14-19-07-49.png) 15:20
+![](../attachments/649.png) 15:20
 
 As you can see we have 3 different dates showing up. 
 
@@ -621,7 +621,7 @@ const now = new Date();
 now.getTime();
 ```
 
-![](@attachment/Clipboard_2020-04-14-19-11-00.png) 15:48
+![](../attachments/650.png) 15:48
 
 That number might look random but it is actually not random at all. 
 
@@ -629,11 +629,11 @@ That is the number of milliseconds since January 1, 1970. That is the time when 
 
 There is actually a shortcut to get the timestamp and that is using `Date.now()`. If you try running that a few times in the console, the number should change each time.
 
-![](@attachment/Clipboard_2020-04-14-19-12-41.png) 16:17
+![](../attachments/651.png) 16:17
 
 If you ever have one of these timestamps, you can go to the website https://epoch.now.sh. 
 
-![](@attachment/Clipboard_2020-04-14-19-14-18.png) 16:36
+![](../attachments/652.png) 16:36
 
 This website allows you to convert any date in the future or in the past to a timestamp. Javascript deals with milliseconds so you want to always work with that. 
 
@@ -662,7 +662,7 @@ const age = now - birthday;
 console.log(age);
 ```
 
-![](@attachment/Clipboard_2020-04-14-19-18-55.png) 18:12
+![](../attachments/653.png) 18:12
 
 That is how old each person is in milliseconds. 
 
@@ -687,7 +687,7 @@ const cleanPeople = people.map(function(person){
 })
 ```
 
-![](@attachment/Clipboard_2020-04-14-19-23-24.png) 19:22
+![](../attachments/654.png) 19:22
 
 That leaves us with some decimals which we can just take the lower bound of their number, because if they haven't hit their next birthday yet, you would say you are 26 years old. 
 
@@ -702,7 +702,7 @@ Modify the code like so 👇
 const age = Math.floor(now - birthday / 31536000000);
 ```
 
-![](@attachment/Clipboard_2020-04-14-19-25-05.png) 19:52
+![](../attachments/655.png) 19:52
 
 Now that we have their birthday and figured out how old they are, we want to return their full name and birthday in an object.
 
@@ -738,7 +738,7 @@ Let's log `cleanPeople` in a table.
 console.table(cleanPeople);
 ```
 
-![](@attachment/Clipboard_2020-04-14-19-29-46.png) 21:16
+![](../attachments/656.png) 21:16
 
 As you can see we have everyone's name and age. 
 
@@ -754,7 +754,7 @@ Wes just wants to have a video specifically dedicated to it so you can come back
 
 Let's continue from the example in our previous lesson, where we created a `cleanPeople` array, which we will work with in this example. 
 
-![](@attachment/Clipboard_2020-04-14-20-34-12.png) 00:25
+![](../attachments/657.png) 00:25
 
 Very often you will find yourself in a situation where you either need to find one person in an array or you want to filter the list down to be a subset of it. 
 
@@ -780,7 +780,7 @@ console.table(over40);
 
 That is the verbose way to write it, which Wes is using just to show us how it works.
 
-![](@attachment/Clipboard_2020-04-14-20-54-24.png) 1:39
+![](../attachments/659.png) 1:39
 
 As you can see, we now have only a subset of the original array. 
 
@@ -817,7 +817,7 @@ const over40 = cleanPeople.filter(person => person.age > 40);
 
 If there ever is a situation where we call this filter method on an array with no people over 40 in it, it will just return to us an empty array. 
 
-![](@attachment/Clipboard_2020-04-14-20-59-30.png) 3:29
+![](../attachments/660.png) 3:29
 
 If you wanted to check if there were any people over 40 in this case you could use the following code 👇
 
@@ -908,7 +908,7 @@ const student = students.find(stud => stud.id === '565a');
 console.log(student);
 ```
 
-![](@attachment/Clipboard_2020-04-14-21-10-56.png) 5:19 
+![](../attachments/661.png) 5:19 
 
 As you can see, the correct student record is returned. 
 
@@ -916,7 +916,7 @@ If that didn't match anything, what would we find?
 
 We would get `undefined`. You always want to check if something got found. 
 
-![](@attachment/Clipboard_2020-04-14-21-11-50.png) 5:25
+![](../attachments/662.png) 5:25
 
 As you may have noticed, the `find` method did not return an array of students to us, it returns to us an object which is the student itself. 
 
@@ -927,7 +927,7 @@ const student = students.filter(stud => stud.id === '565a');
 console.log(student);
 ```
 
-![](@attachment/Clipboard_2020-04-14-21-13-24.png) 5:41
+![](../attachments/663.png) 5:41
 
 As you can see, that returns to us an array of one item. 
 That is the different between `.filter()` and `.find()`, everything else is exactly the same.
@@ -964,7 +964,7 @@ const student = students.find(findById('56a'));
 
 `findById('56a')` will generate a new function that is coded to find the id that we are looking for (56a). 
 
-![](@attachment/Clipboard_2020-04-14-21-22-51.png) 7:22
+![](../attachments/664.png) 7:22
 
 It still finds the right person, it's just a little bit more flexible 
 
@@ -1004,24 +1004,24 @@ console.log(student);
 console.log(student2);
 ```
 
-![](@attachment/Clipboard_2020-04-14-21-31-12.png) 9:17
+![](../attachments/666.png) 9:17
 
 Let's go over the function one more time. 
 
 The `findByProp` function takes in a prop as the first parameter and `propWeAreLookingFor` as the second parameter. 
 What that means is the first parameter takes in the key, and the second parameter takes in the value we are matching the property against.
 
-![](@attachment/Clipboard_2020-04-14-21-32-56.png) 9:39
+![](../attachments/667.png) 9:39
 
 In the image above, the text that is selected is the property `last_name` . It is the property key. 
 
-![](@attachment/Clipboard_2020-04-14-21-33-49.png) 9:40
+![](../attachments/668.png) 9:40
 
 The property value for the `last_name` property for the student shown above is `Aizikowitz`. 
 
 So our function takes in a property and a value, and then it will look in each object for whatever property you specified is equal to whatever value you specified.
 
-![](@attachment/Clipboard_2020-04-14-21-35-10.png) 9:55
+![](../attachments/669.png) 9:55
 
 The reason we have to use square brackets and not the dot notation in the code highlighted in the image above is because the property that we are looking for is being passed in as an argument to the function. 
 
@@ -1063,13 +1063,13 @@ orderTotals.forEach(singleTotal => {
 console.log(total);
 ```
 
-![](@attachment/Clipboard_2020-04-15-07-39-54.png) 1:40
+![](../attachments/670.png) 1:40
 
 As you can see, that does work. However, is that the best way to add up a bunch of things? 
 
 No, it is not. 
 
-![](@attachment/Clipboard_2020-04-15-07-40-47.png) 1:52
+![](../attachments/671.png) 1:52
 
 We have the callback method within the `forEach`, which relies on an external variable being made. So we have sort of reached outside of it. That is what is referred to as a **side effect** which is where you update a variable that exists outside of the function. 
 
@@ -1077,7 +1077,7 @@ We have the callback method within the `forEach`, which relies on an external va
 
 Here are some visualizations that Wes has pulled from online by google image searching "map filter reduce".
 
-![](@attachment/Clipboard_2020-04-15-07-43-24.png) 2:36
+![](../attachments/672.png) 2:36
 
 In the image above, the language is not javascript but it doesn't matter because each language has some version of map, filter and reduce. 
 
@@ -1103,7 +1103,7 @@ It will take in 2 arguments because that is what the callback function of a redu
 
 Let's look that up in the MDN docs.
 
-![](@attachment/Clipboard_2020-04-15-07-50-19.png) 4:26
+![](../attachments/673.png) 4:26
 
 The 2 parameters it takes is the **accumulator** and the current value.
 
@@ -1123,7 +1123,7 @@ const allOrders = ordersTotal.reduce(tallyNumbers);
 console.log(allOrders);
 ```
 
-![](@attachment/Clipboard_2020-04-15-08-25-01.png) 5:31
+![](../attachments/674.png) 5:31
 
 Now there might be some stuff in the console does not make sense, so let's go through it together. 
 
@@ -1139,7 +1139,7 @@ In our case we want to start counting at 0 so we pass in 0 like so 👇
 const allOrders = orderTotals.reduce(tallyNumbers, 0);
 ```
 
-![](@attachment/Clipboard_2020-04-15-08-29-27.png) 6:39
+![](../attachments/675.png) 6:39
 
 So as you can see, in the first loop the `tally` is 0 and then in the rest it is `undefined`. 
 
@@ -1161,7 +1161,7 @@ function tallyNumbers(tally, currentTotal) {
 const allOrders = orderTotals.reduce(tallyNumbers, 0);
 ```
 
-![](@attachment/Clipboard_2020-04-15-08-35-08.png) 7:18
+![](../attachments/676.png) 7:18
 
 As you can see, the first time the loop runs, `tally` is 0 because we started with an accumulator of 0 and then for all the next instances, our accumulator `tally` is equal to "WES IS COOL" because whatever you return from this function is what the accumulator is equal to. 
 
@@ -1177,11 +1177,11 @@ function tallyNumbers(tally, currentTotal) {
 const allOrders = orderTotals.reduce(tallyNumbers, 0);
 ```
 
-![](@attachment/Clipboard_2020-04-15-17-03-17.png) 7:49
+![](../attachments/677.png) 7:49
 
 In the console above, as you can see we start with 0 because our accumulator starts at 0 as shown in the highlighted code in the image below. 
 
-![](@attachment/Clipboard_2020-04-15-17-04-40.png) 7:56
+![](../attachments/678.png) 7:56
 
 If we were to not pass an accumulator, the first loop iteration will take the first two numbers. In our case, that would still work but Wes always like to pass a default value so we know what we are starting with and so we can see what type we are starting with. 
 
@@ -1273,7 +1273,7 @@ function inventoryReducer(totals, item){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-15-17-54-18.png) 11:54
+![](../attachments/680.png) 11:54
 
 Inside of the reducer we need to increment the type by 1 and then return the accumulator or return the totals so the next loop can use it. 
 
@@ -1289,7 +1289,7 @@ const inventoryCounts = inventory.reduce(inventoryReducer, {});
 console.log(inventoryCounts);
 ```
 
-![](@attachment/Clipboard_2020-04-15-17-57-15.png) 12:42 
+![](../attachments/681.png) 12:42 
 
 Hm.. shirt is equal to `NaN`. Why would that be? 
 
@@ -1305,7 +1305,7 @@ totals.shirt = totals.shirt + 1 || 1;
 
 Lets try it. 
 
-![](@attachment/Clipboard_2020-04-15-17-59-42.png) 13:17
+![](../attachments/682.png) 13:17
 
 Why did that work? This is an example of taking **advantage of conditionals** or **abusing conditionals**. 
 
@@ -1344,7 +1344,7 @@ We can change it to a variable lookup item using square brackets like so 👇
 totals[item.type] = totals[item.type] + 1 || 1;
 ```
 
-![](@attachment/Clipboard_2020-04-15-18-07-54.png) 15:33
+![](../attachments/683.png) 15:33
 
 As you can see, now our accumulator has the 2 shirts, 2 socks and 3 pants.
 
@@ -1369,7 +1369,7 @@ This lesson is an exercise where you have to use `map`, `filter`, and `reduce` a
 
 The task is to go to any webpage, like the Mozilla Developer Docs for reduce, copy every single piece of text like Wes is doing in the screenshot below by pressing `Cmd` + `A` and `Cmd` + `C` and then counting how many times every letter and number occurs on the page.
 
-![](@attachment/Clipboard_2020-04-15-19-16-07.png) 00:27
+![](../attachments/684.png) 00:27
 
 Here are a couple of tips:
 - first grab all the text
@@ -1400,7 +1400,7 @@ Sum all the values of an array`;
 console.log(text);
 ```
 
-![](@attachment/Clipboard_2020-04-15-19-31-55.png) 1:48
+![](../attachments/685.png) 1:48
 
 As you can see, we have over 31.1 KB worth of text. 
 
@@ -1415,7 +1415,7 @@ const everything = text.split('');
 console.log(everything);
 ```
 
-![](@attachment/Clipboard_2020-04-15-19-34-03.png) 2:18
+![](../attachments/686.png) 2:18
 
 As you see, now we get an array with 15,911 letters that are in it. 
 
@@ -1445,7 +1445,7 @@ We can use a `.match()` function.
 
 Let's look at these docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
-![](@attachment/Clipboard_2020-08-19-07-50-42.png)
+![](../attachments/1473.png)
 
 A **regular expression** is a way to use what is called a **Regex pattern** to match characters within a string. 
 
@@ -1467,11 +1467,11 @@ const result = everything.filter((char) => {
 });
 ```
 
-![](@attachment/Clipboard_2020-04-16-08-47-02.png) 4:30
+![](../attachments/687.png) 4:30
 
 As you can see, when we checked if it is a match with the letter `a`, it returned the value with a bit more information like where we found the word. 
 
-![](@attachment/Clipboard_2020-04-16-08-48-46.png) 4:40
+![](../attachments/688.png) 4:40
 
 However when we check if `'a'.match(/b/)`, it returned false because 'a' clearly does not match the letter 'b'. 
 
@@ -1490,7 +1490,7 @@ const result = everything.filter((char) => {
 console.log(result);
 ```
 
-![](@attachment/Clipboard_2020-04-16-08-50-24.png) 5:06
+![](../attachments/689.png) 5:06
 
 We have over 10,000 letters in our filtered array now. 
 If you look closely, you will see they are all lowercase. 
@@ -1501,7 +1501,7 @@ Let's fix that by modifying the group in our Regex like so 👇
 char.match(/[a-zA-Z]/)
 ```
 
-![](@attachment/Clipboard_2020-04-16-08-51-34.png) 5:20
+![](../attachments/690.png) 5:20
 
 As you can see, our array now contains letters as well. 
 
@@ -1516,7 +1516,7 @@ Wes knows this off the top of his head from years of writing regex's.
 However you can use the website https://regexr.com to find lots of patterns there and cheat sheets to help you match any character except a new line.  
 
 
-![](@attachment/Clipboard_2020-04-16-08-53-52.png) 5:54
+![](../attachments/691.png) 5:54
 
 Another thing you could do is pass the case insensitive flag like so 👇
 
@@ -1534,13 +1534,13 @@ The `i` flag will make it case insensitive.
 
 Let's refresh to mak sure that still works. 
 
-![](@attachment/Clipboard_2020-04-16-08-56-21.png) 6:24
+![](../attachments/692.png) 6:24
 
 As you can see, it does work, and we also getting numbers now. 
 
 _(You might notice in the dev tools that when you expand a large array, it breaks them up into groups as displayed in the image below.)_
 
-![](@attachment/Clipboard_2020-04-16-18-39-05.png) 6:29
+![](../attachments/693.png) 6:29
 
 So that is our first filter. The next thing we want to do is to lowercase everything. 
 
@@ -1633,11 +1633,11 @@ function instanceCounter(counts, char) {
 ```
 If you refresh the page, you might see something like the following error 👇
 
-![](@attachment/Clipboard_2020-04-16-19-06-33.png) 11:02
+![](../attachments/694.png) 11:02
 
 In Wes' example, `k` is the second character. 
 
-![](@attachment/Clipboard_2020-04-16-19-07-32.png) 11:06
+![](../attachments/695.png) 11:06
 
 Why is it telling us it's `undefined`? 
 
@@ -1656,7 +1656,7 @@ If you refresh the page and open the console, you will see it is showing a count
 
 That's not right!
 
-![](@attachment/Clipboard_2020-04-16-19-20-39.png) 11:36
+![](../attachments/696.png) 11:36
 
 Let's debug this by looking at our ternary operator in `instanceCounter`. 
 
@@ -1666,7 +1666,7 @@ If it does exist, then the count of that character should be equal to the existi
 
 We forgot the equal sign!
 
-![](@attachment/Clipboard_2020-04-16-19-21-36.png) 11:56
+![](../attachments/697.png) 11:56
 
 Modify the code like so
 
@@ -1681,7 +1681,7 @@ counts[char]
   ? (counts[char] = counts[char] + 1) : (counts[char] = 1);
 ```
 
-![](@attachment/Clipboard_2020-04-16-19-28-11.png) 12:26
+![](../attachments/698.png) 12:26
 
 It looks like we are getting real values!
 
@@ -1691,7 +1691,7 @@ Let's do it together.
 
 What if we try using `Object.entries(result);`? 
 
-![](@attachment/Clipboard_2020-04-16-19-32-08.png) 13:31
+![](../attachments/699.png) 13:31
 
 It gives us an array of arrays with each arrays first item being the key and the second item being the count.
 
@@ -1721,7 +1721,7 @@ const sortedResult = Object
     .sort(sortByValue);
 ```
 
-![](@attachment/Clipboard_2020-04-16-19-37-20.png) 14:31
+![](../attachments/701.png) 14:31
 
 
 It is possible to do all of the work we just did in one single reduce function,  but it's much easier to read and better for re-usability to split it up into separate functions and chain them along. 
@@ -1746,7 +1746,7 @@ Let's start with the for loop. The way it works is you type `for` with parenthes
 
 Let's look at the for loop docs really quickly. 
 
-![](@attachment/Clipboard_2020-04-16-20-23-27.png) 00:36
+![](../attachments/703.png) 00:36
 
 The for loop requires three things:
 1. an initial expression
@@ -1773,7 +1773,7 @@ What we did above is:
 
 If you open up the page in a browser and look at the console, you should see 0 through 10 logged, just like in the image below.
 
-![](@attachment/Clipboard_2020-04-16-20-28-56.png) 20:28
+![](../attachments/704.png) 20:28
 
 What has happened in the code is we looped from 0 to 10, so we looped 11 times over, and logged what the `i` variable equals. 
 
@@ -1797,7 +1797,7 @@ In this example, we are taking `i`, which we have set to 0, and incrementing it 
 
 You might be wondering why we made the `i` variable a `let` instead of a `const`. 
 
-![](@attachment/Clipboard_2020-04-17-08-17-37.png) 2:18
+![](../attachments/705.png) 2:18
 
 As you can see, it logs 0 then returns an error. 
 
@@ -1824,7 +1824,7 @@ for(let i = 100; i < 120; i += 2){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-08-24-38.png) 3:11
+![](../attachments/706.png) 3:11
 
 As you can see, this loop is fairly flexible in incrementing the way that we want. 
 
@@ -1854,7 +1854,7 @@ for(var i = 0; i <= 120; i +=2){
 console.log(i);
 ```
 
-![](@attachment/Clipboard_2020-04-17-08-31-27.png) 4:23
+![](../attachments/707.png) 4:23
 
 Our code logged 100-120 but then suddenly we see 22. 
 Why is that? 
@@ -1871,7 +1871,7 @@ for(let i = 0; i < numbers.length; i++){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-08-34-37.png) 5:04
+![](../attachments/708.png) 5:04
 
 As you can see, it logged 0 to 11 because there are 12 numbers in our `numbers` array (you can check the length by typing `numbers.length` in the console).
 
@@ -1883,7 +1883,7 @@ for(let i = 0; i < numbers.length; i++){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-08-36-11.png) 5:29
+![](../attachments/709.png) 5:29
 
 That is the way loops used to be done. It is much easier now with a `foreach` and `map` and `reduce` methods. If you do see the old way, maybe ask yourself can I refactor that?
 
@@ -1891,7 +1891,7 @@ Another place that `for` loops are useful is when you are working with canvas.
 
 If you remember back to our Etch-a-Sketch exercise, the canvas element actually has a method on it called `getImageData` that will allow us to pull the stuff out of that canvas. 
 
-![](@attachment/Clipboard_2020-04-17-08-39-58.png) 6:40
+![](../attachments/710.png) 6:40
 
 If you open the `etch-a-sketch.html` html file, draw in the top left hand corner of the etch-a-sketch and then inspect the canvas, if you click on the canvas element in the inspector and then flip to the console and type `$0`, you should get the canvas element returned. 
 
@@ -1899,17 +1899,17 @@ You should be able to access `ctx` which is the canvas context in the console. C
 
 That returns a data array with a lot of items, 40000 in our case.
 
-![](@attachment/Clipboard_2020-04-17-08-40-48.png) 6:49
+![](../attachments/711.png) 6:49
 
 It is a special kind of array called a **ClampedArray** which is used when you have very, very, very large arrays.
 
 The contents of the array are numbers like 255, 0, 119, and they represent RGBA values. 
 
-![](@attachment/Clipboard_2020-04-17-08-42-00.png) 7:15
+![](../attachments/712.png) 7:15
 
 What that code did is it pulled the raw data from the canvas element, and for each pixel on the canvas, it is returning 4 values. 
 
-![](@attachment/Clipboard_2020-04-17-08-44-32.png) 8:09
+![](../attachments/713.png) 8:09
 
 The red is 255, the green is 0, the blue is 119, and then it returns to us an alpha channel which is if it's transparent or not. 255 would be totally not transparent and then 0 is totally transparent.
 
@@ -1937,21 +1937,21 @@ for(const letter of name){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-08-52-16.png) 9:24 
+![](../attachments/714.png) 9:24 
 
 Why would that be better than splitting the string into an array and using `forEach` like we have learned in a previous exercise? 
 
 One thing is it can handle emojis. 
 
-![](@attachment/Clipboard_2020-04-17-08-54-09.png) 9:48
+![](../attachments/715.png) 9:48
 
 For the family emoji, if you log it, you will see we get the family emoji and then the modifier, which is peach skin. 
 
-![](@attachment/Clipboard_2020-04-17-08-54-50.png)9:58
+![](../attachments/716.png)9:58
 
 If you tried that with `name.split('')`, you would see something similar to the image below. 
 
-![](@attachment/Clipboard_2020-04-17-08-55-45.png) 10:18
+![](../attachments/717.png) 10:18
 
 As you can see, it doesn't know how to handle the emojis.
 
@@ -1961,7 +1961,7 @@ Another way you could do it is using the spread operator like so:
 [...name]
 ```
 
-![](@attachment/Clipboard_2020-04-17-18-22-57.png) 10:25
+![](../attachments/718.png) 10:25
 
 That is one use case. T
 
@@ -1983,7 +1983,7 @@ for(const number of numbers){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-18-28-29.png) 12:06
+![](../attachments/719.png) 12:06
 
 The downside of the `for of` loop compared to a `forEach` loo is that it doesn't give us the index. It just gives us the raw value. It also doesn't allow us to filter or anything like that.
 
@@ -1999,7 +1999,7 @@ for(const number in numbers){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-18-30-51.png) 12:36
+![](../attachments/720.png) 12:36
 
 As you can see, we get 0 through 11. 
 
@@ -2025,7 +2025,7 @@ for(const prop in wes){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-18-33-41.png) 13:11
+![](../attachments/721.png) 13:11
 
 You might be asking, how is that better than using `Object.entries`, `Object.key` or `Object.values`? 
 
@@ -2064,7 +2064,7 @@ If you go ahead and take a look at `wes2` by refreshing the page and typing it i
 
 If you were to try typing in  `wes2.arms`, however, you would get `undefined`. 
 
-![](@attachment/Clipboard_2020-04-17-18-40-50.png) 14:46
+![](../attachments/723.png) 14:46
 
 However if we take the `Human` function and set the prototype to be the `baseHumanStats` like so 👇
 
@@ -2075,7 +2075,7 @@ const wes2 = new Human('wes');
 
 If we take a look at `wes2`, it still looks the same, but if you were to look at `wes2.feet` or `wes2.arms`, you will see that it is referencing the values from the prototype. 
 
-![](@attachment/Clipboard_2020-04-17-18-43-28.png) 15:11
+![](../attachments/724.png) 15:11
 
 What does that mean?
 
@@ -2083,7 +2083,7 @@ What happens with a prototype is that when you try to access a property, it firs
 
 It will say "okay that is not on here, but maybe the thing that created me has a prototype that has that value", and it will look it up.
 
-![](@attachment/Clipboard_2020-04-17-18-45-20.png) 15:44
+![](../attachments/725.png) 15:44
 
 In our case this prototype has some sort of base values that it will pull it from. 
 
@@ -2093,7 +2093,7 @@ What would happen if you call log `Object.keys(wes2)`?
 Will it log the `name` property only? 
 Or will it also log the properties that are on the prototype (feet, arms, eyes, head)? 
 
-![](@attachment/Clipboard_2020-04-17-18-47-47.png) 16:09
+![](../attachments/726.png) 16:09
 
 We only get `name`. 
 
@@ -2103,7 +2103,7 @@ Let's try entries.
 console.log(Object.entries(wes2));
 ```
 
-![](@attachment/Clipboard_2020-04-17-18-48-25.png) 16:15
+![](../attachments/727.png) 16:15
 
 We only get the `name` property and value returned to us as you can see above.
 
@@ -2115,7 +2115,7 @@ for(const prop in wes2){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-18-49-46.png) 16:23
+![](../attachments/728.png) 16:23
 
 As you can see, it does grab the properties from the prototype that it was made from. 
 
@@ -2152,7 +2152,7 @@ while(cool === true){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-17-18-56-14.png) 17:48
+![](../attachments/729.png) 17:48
 
 As you can see, that log is happening all the time, just constantly running in the infinite loop we created. 
 
@@ -2174,7 +2174,7 @@ while(cool === true){
 
 What should happen is after this loop has run 100 times, `cool` will be set to false, and then the condition will evaluate to false and the loop will no longer run.
 
-![](@attachment/Clipboard_2020-04-17-18-59-25.png) 18:44
+![](../attachments/730.png) 18:44
 
 As you can see, it ran 100 times before exiting.
 

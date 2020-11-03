@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-05-21-06-40-48.png, Clipboard_2020-05-21-06-50-00.png, Clipboard_2020-05-21-06-53-48.png, Clipboard_2020-05-21-07-04-16.png, Clipboard_2020-05-21-07-05-02.png, Clipboard_2020-05-21-07-05-42.png, Clipboard_2020-05-21-07-10-24.png, Clipboard_2020-05-21-07-10-55.png, Clipboard_2020-05-21-18-09-08.png, Clipboard_2020-05-21-18-22-56.png, Clipboard_2020-05-21-18-29-13.png, Clipboard_2020-05-21-18-35-48.png, Clipboard_2020-05-21-18-38-59.png, Clipboard_2020-05-21-18-47-00.png, Clipboard_2020-05-21-18-47-30.png, Clipboard_2020-05-21-18-48-38.png, Clipboard_2020-05-21-18-48-54.png, Clipboard_2020-05-21-18-50-37.png, Clipboard_2020-05-22-07-49-00.png, Clipboard_2020-05-22-07-54-59.png, Clipboard_2020-05-22-07-59-32.png, Clipboard_2020-05-22-08-10-11.png, Clipboard_2020-05-23-08-46-00.png, Clipboard_2020-05-23-08-49-00.png, Clipboard_2020-05-23-09-09-31.png, Clipboard_2020-05-23-09-14-45.png, Clipboard_2020-05-23-09-15-26.png, Clipboard_2020-05-23-09-45-11.png, Clipboard_2020-05-23-09-48-29.png, Clipboard_2020-05-23-18-06-46.png, Clipboard_2020-05-23-18-13-09.png, Clipboard_2020-05-23-18-27-35.png, Clipboard_2020-05-23-18-39-22.png, Clipboard_2020-05-23-18-40-20.png, Clipboard_2020-05-23-18-44-58.png, Clipboard_2020-05-23-18-52-39.png, Clipboard_2020-05-23-18-52-43.png, Clipboard_2020-05-23-18-55-31.png, Clipboard_2020-05-24-20-07-52.png, Clipboard_2020-05-24-20-17-04.png, Clipboard_2020-05-24-20-20-43.png, Clipboard_2020-05-24-20-21-00.png, Clipboard_2020-05-25-07-08-45.png, Clipboard_2020-05-25-07-10-09.png, Clipboard_2020-05-25-07-18-56.png, Clipboard_2020-05-25-07-26-12.png, Clipboard_2020-05-25-07-32-45.png, Clipboard_2020-05-25-07-38-47.png, Clipboard_2020-05-25-07-47-05.png, Clipboard_2020-05-25-07-51-03.png, Clipboard_2020-05-25-07-52-59.png, Clipboard_2020-05-25-07-54-38.png, Clipboard_2020-05-25-08-11-39.png, Clipboard_2020-05-25-08-14-33.png, Clipboard_2020-05-25-17-22-42.png, Clipboard_2020-05-25-17-22-55.png, Clipboard_2020-05-25-17-26-54.png, Clipboard_2020-05-25-17-27-10.png, Clipboard_2020-05-25-17-32-22.png, Clipboard_2020-05-25-17-32-40.png, Clipboard_2020-05-25-17-33-09.png, Clipboard_2020-05-25-17-41-25.png, Clipboard_2020-05-25-17-51-44.png, Clipboard_2020-05-25-17-52-49.png, Clipboard_2020-05-25-17-55-57.png, Clipboard_2020-05-25-17-56-37.png, Clipboard_2020-05-25-18-15-59.png, Clipboard_2020-05-25-18-24-52.png, Clipboard_2020-05-25-18-30-35.png, Clipboard_2020-05-25-18-38-04.png, Clipboard_2020-05-25-18-40-02.png, Clipboard_2020-05-25-18-41-40.png, Clipboard_2020-05-25-18-42-01.png, Clipboard_2020-05-25-18-45-14.png, Clipboard_2020-05-25-18-51-57.png, Clipboard_2020-05-26-06-57-38.png, Clipboard_2020-05-26-06-59-53.png, Clipboard_2020-05-26-07-00-30.png, Clipboard_2020-05-26-07-25-05.png, Clipboard_2020-05-26-07-28-44.png, Clipboard_2020-05-26-07-31-31.png, Clipboard_2020-05-26-07-32-43.png, Clipboard_2020-05-26-07-36-20.png, Clipboard_2020-05-26-07-37-08.png, Clipboard_2020-05-26-07-40-53.png, Clipboard_2020-05-26-15-20-02.png, Clipboard_2020-05-26-15-25-50.png, Clipboard_2020-05-26-15-26-59.png, Clipboard_2020-05-26-15-29-41.png, Clipboard_2020-05-26-15-35-16.png, Clipboard_2020-05-26-15-36-44.png, Clipboard_2020-05-26-15-37-49.png, Clipboard_2020-05-26-15-39-04.png, rates.gif]
+attachments: [1113.png, 1114.png, 1115.png, 1116.png, 1117.png, 1118.png, 1119.png, 1120.png, 1121.png, 1122.png, 1123.png, 1124.png, 1125.png, 1126.png, 1127.png, 1128.png, 1129.png, 1130.png, 1131.png, 1132.png, 1133.png, 1134.png, 1135.png, 1136.png, 1137.png, 1138.png, 1139.png, 1140.png, 1141.png, 1142.png, 1143.png, 1144.png, 1145.png, 1146.png, 1147.png, 1148.png, 1149.png, 1150.png, 1151.png, 1152.png, 1153.png, 1154.png, 1155.png, 1156.png, 1157.png, 1158.png, 1159.png, 1160.png, 1161.png, 1162.png, 1163.png, 1164.png, 1165.png, 1166.png, 1167.png, 1168.png, 1169.png, 1170.png, 1171.png, 1172.png, 1173.png, 1174.png, 1175.png, 1176.png, 1177.png, 1178.png, 1179.png, 1180.png, 1181.png, 1182.png, 1183.png, 1184.png, 1185.png, 1186.png, 1187.png, 1188.png, 1189.png, 1190.png, 1191.png, 1192.png, 1193.png, 1194.png, 1195.png, 1196.png, 1197.png, 1198.png, 1199.png, 1200.png, 1201.png, 1202.png, 1203.png, 1204.png, 1205.png, rates.gif]
 title: 'Module 13: Ajax and Fetching Data'
 created: '2020-05-21T10:25:44.675Z'
 modified: '2020-07-13T22:15:33.660Z'
@@ -33,7 +33,7 @@ The most popular way to pull data from an API is using a URL that you can hit wi
 
 In the example below, the API will respond with what is called **JSON**.
 
-![](@attachment/Clipboard_2020-05-21-06-40-48.png) 2:27
+![](../attachments/1113.png) 2:27
 
 We have discussed **JSON** a few times. It stands for **Javascript Object Notation**, and it is a good way to transport JavaScript objects between servers and clients.
 
@@ -47,7 +47,7 @@ Although what is returned looks like an object, it's actually just a string.
 
 If we copy that string into the console and assign it to a variable called `data`, we can log it and access it from the console like so.
 
-![](@attachment/Clipboard_2020-05-21-06-50-00.png) 3:33
+![](../attachments/1114.png) 3:33
 
 As you can see, it is just a huge string.
 
@@ -65,7 +65,7 @@ const dataObj = JSON.parse(data);
 
 Now we can access the object properties using **javascript dot notation**.
 
-![](@attachment/Clipboard_2020-05-21-06-53-48.png) 4:29
+![](../attachments/1115.png) 4:29
 
 Lots of APIs allow you to pull data from their server onto your own. There are many that do not allow it and many that require API keys (which we will go into later). For now, we will be working with wide open APIs that do not require any authentication.
 
@@ -123,11 +123,11 @@ const wesPromise = fetch(endpoint);
 console.log(wesPromise);
 ```
 
-![](@attachment/Clipboard_2020-05-21-07-04-16.png) 7:52
+![](../attachments/1116.png) 7:52
 
 To check if it worked, you can go to the network tab and refresh the page. When you do that, you will see all the requests that have happened on the page. This allows you to see when a request was sent out, and when it came back with the data.
 
-![](@attachment/Clipboard_2020-05-21-07-05-42.png) 8:13
+![](../attachments/1118.png) 8:13
 
 If we want to get that data back into JavaScript, how do we do that? We can use `.then()`.
 
@@ -153,7 +153,7 @@ wesPromise
   .catch(handleError);
 ```
 
-![](@attachment/Clipboard_2020-05-21-07-10-55.png) 9:15
+![](../attachments/1120.png) 9:15
 
 Now when you refresh the page, you will see that we no longer get a promise. Instead we get the response object you see above 👆
 
@@ -161,7 +161,7 @@ The response tells us the type is **CORS** which we will talk about in a second.
 
 If you expand the properties like `headers` and `body`, you won't find it.
 
-![](@attachment/Clipboard_2020-05-21-18-09-08.png) 9:27
+![](../attachments/1121.png) 9:27
 
 As you can see, the data is nowhere to be found.
 
@@ -173,7 +173,7 @@ The `fetch` API can be used to fetch any type of data, whether it is JSON, an im
 
 To actually get the data, you must tell the browser to convert the data from JSON to a javascript object once it is finished downloading.
 
-![](@attachment/Clipboard_2020-05-21-18-22-56.png) 10:30
+![](../attachments/1122.png) 10:30
 
 Take a look at the prototype of the response object, and you will see that there is a number of methods on the response.
 
@@ -209,7 +209,7 @@ wesPromise
   .catch(handleError);
 ```
 
-![](@attachment/Clipboard_2020-05-21-18-29-13.png) 11:40
+![](../attachments/1123.png) 11:40
 
 Let's go ahead and display some info about the user.
 
@@ -243,7 +243,7 @@ A paragraph tag to the HTML with a class of "user", and then go ahead and select
 </body>
 ```
 
-![](@attachment/Clipboard_2020-05-21-18-35-48.png) 12:40
+![](../attachments/1124.png) 12:40
 
 As you can see, it pops up.
 
@@ -260,7 +260,7 @@ Now let's refactor this to use **async/await**.
 
 Create an async function called `displayUser` which takes in a `username`. Take all the code we wrote after selecting the element and put it into the `displayUser` function.
 
-![](@attachment/Clipboard_2020-05-21-18-38-59.png) 13:39
+![](../attachments/1125.png) 13:39
 
 Now let's go line by line. Leave the first line as is.
 
@@ -331,11 +331,11 @@ One thing we are not doing is catching the error so if something went wrong, suc
 To fix that, let's add a catch and pass it our error handler function like so 👇
 `displayUser("stolinski").catch(handleError);`
 
-![](@attachment/Clipboard_2020-05-21-18-47-30.png) 16:32
+![](../attachments/1127.png) 16:32
 
 _🔥HOT TIP: You can filter out just AJAX request from the Network tab by clicking XHR. 👇_
 
-![](@attachment/Clipboard_2020-05-21-18-47-00.png) 16:11
+![](../attachments/1126.png) 16:11
 
 Next let's modify the `handleError` function to show the error by replacing the paragraph text content.
 
@@ -347,7 +347,7 @@ function handleError(err) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-21-18-48-54.png) 16:55
+![](../attachments/1129.png) 16:55
 
 We wil do one more example in the next lesson.
 
@@ -355,7 +355,7 @@ We wil do one more example in the next lesson.
 
 It is hard to find good APIs that are public and don't require API keys. There is a good list of them in the github repo https://github.com/public-apis/public-apis
 
-![](@attachment/Clipboard_2020-05-21-18-50-37.png) 17:34
+![](../attachments/1130.png) 17:34
 
 You can scroll through and find different APIs for all different things.
 
@@ -369,7 +369,7 @@ We will use a real API in this example so Wes can show us how to overcome common
 
 We will be using the API www.recipepuppy.com.
 
-![](@attachment/Clipboard_2020-05-22-07-49-00.png) 00:52
+![](../attachments/1131.png) 00:52
 
 If you look at the docs, the way this API works is you go to the url and pass `i` (which is ingredients), pass `q` ( which is your omelet) and pass `p` (which is your page). On the homepage, you can see that there are additional parameters you can pass.
 
@@ -377,7 +377,7 @@ If you look at the docs, the way this API works is you go to the url and pass `i
 
 ### Query Parameters
 
-![](@attachment/Clipboard_2020-05-22-07-54-59.png) 1:08
+![](../attachments/1132.png) 1:08
 
 `i`, `q` and `p` are all parameters. Let's talk about **parameters**.
 
@@ -385,7 +385,7 @@ Sometimes when you got to a URL, you see these question marks on the end.
 
 Even when you submit a form they are there. 👇
 
-![](@attachment/Clipboard_2020-05-22-07-59-32.png) 1:22
+![](../attachments/1133.png) 1:22
 
 Those are referred to as **query parameters** or **query params**. Let's break down the query params from the url above.
 
@@ -420,7 +420,7 @@ This example will include a form with an input where the user can type a keyword
 
 We won't worry about the UI just yet, let's just getting it working.
 
-![](@attachment/Clipboard_2020-05-22-08-10-11.png) 2:31
+![](../attachments/1134.png) 2:31
 
 In the empty `scripts.js` file, let's add the base url.
 
@@ -440,7 +440,7 @@ Let's start fetching the data.
 
 Open up the dev tools and then refresh the page. You should see the following error 👇
 
-![](@attachment/Clipboard_2020-05-23-08-46-00.png) 4:30
+![](../attachments/1135.png) 4:30
 
 > Access to fetch at 'http://www.recipepuppy.com/api?q=pizza' from origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. >If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
 > www.recipepuppy.com/api?q=pizza:1 Failed to load resource: net::ERR_FAILED
@@ -448,7 +448,7 @@ Open up the dev tools and then refresh the page. You should see the following er
 
 If you look at the network tab, and filter for XHR, you will see the request but there is no response data.
 
-![](@attachment/Clipboard_2020-05-23-08-49-00.png) 4:57
+![](../attachments/1136.png) 4:57
 
 ### CORS
 
@@ -500,7 +500,7 @@ Let's select a server to use, which could be any server. You could use:
 
 Let's start by getting Parcel running. In the terminal, run the `npm init` command.
 
-![](@attachment/Clipboard_2020-05-23-09-09-31.png) 9:17
+![](../attachments/1137.png) 9:17
 
 You need to put a package name (which you can call anything, Wes chose `dogrecipes`) and then you just keep hitting enter to accept the default for the next few questions, as shown above.
 
@@ -518,11 +518,11 @@ Open the file and modify the scripts start command like so 👇
 
 When we run `npm start`, you should see a message in the terminal that a server has been started on localhost:1234 or another port.
 
-![](@attachment/Clipboard_2020-05-23-09-14-45.png) 10:04
+![](../attachments/1138.png) 10:04
 
 Open that server in the browser and take a look at the error we are now getting in the console. 👇
 
-![](@attachment/Clipboard_2020-05-23-09-15-26.png) 10:11
+![](../attachments/1139.png) 10:11
 
 It is complaining that "regeneratorRuntime is not defined".
 
@@ -542,7 +542,7 @@ The weird thing about Babel is it wants to compile async/await, even though in m
 
 Since it's unnecessary, we need to tell Babel not to transpile async/await. The way we can get around that is to go to the `package.json` and somewhere in there we will add a `browerslist` property to the JSON file.
 
-![](@attachment/Clipboard_2020-05-23-09-45-11.png) 12:40
+![](../attachments/1140.png) 12:40
 
 `browserslist` is a package that allows you to define which browsers you are currently supporting.
 
@@ -560,11 +560,11 @@ Wes likes to use the filter above because it tricks babel into thinking you are 
 
 Now when you look at the page the error should be gone (you may see other errors which is fine).
 
-![](@attachment/Clipboard_2020-05-23-09-48-29.png) 13:24
+![](../attachments/1141.png) 13:24
 
 If you do have issues, kill the server by pressing Ctrl + C while focused in the terminal. Then open the folder up in your finder, and find the `cache/` and `dist/` folders within there and just delete those.
 
-![](@attachment/Clipboard_2020-05-23-18-06-46.png) 13:47
+![](../attachments/1142.png) 13:47
 
 Now run `npm run start`, and that will fire it up again.
 
@@ -572,7 +572,7 @@ Problem number two, we have solved by using browserslist (you might not need to 
 
 The next problem is kind of the same error we had in the first issue.
 
-![](@attachment/Clipboard_2020-05-23-18-13-09.png) 14:06
+![](../attachments/1143.png) 14:06
 
 As you can see, even though we are now running our code on a server instead of access it right from the file, we are still getting an error except this time it is complaining about localhost:1234 not origin.
 
@@ -600,11 +600,11 @@ To use a proxy you either have to build one yourself which requires building an 
 
 To find one, just google CORS proxy.
 
-![](@attachment/Clipboard_2020-05-23-18-39-22.png) 17:28
+![](../attachments/1145.png) 17:28
 
 Wes has found that the https://cors-anywhere.herokuapp.com one works the best.
 
-![](@attachment/Clipboard_2020-05-23-18-40-20.png) 17:37
+![](../attachments/1146.png) 17:37
 
 If you go to the website you will just see the text above, but the way that it works if you take the url and paste it in front of your urls and that will proxy that data for you.
 
@@ -641,7 +641,7 @@ fetchRecipes("pizza");
 
 Now when you refresh the page, the error should be gone. Let's also console log the data.
 
-![](@attachment/Clipboard_2020-05-23-18-44-58.png) 19:07
+![](../attachments/1147.png) 19:07
 
 Now that we finally have the data working, we need to loop through the data and show them based on what the user has searched for.
 
@@ -659,7 +659,7 @@ fetchRecipes("pizza");
 
 To grab the value of the query we can modify the code to use `event.currentTarget.query.value` because the input has a `name` attribute of `query`.
 
-![](@attachment/Clipboard_2020-05-23-18-52-43.png) 20:25
+![](../attachments/1149.png) 20:25
 
 If you were to refresh the page, you should see pizza logged.
 
@@ -681,7 +681,7 @@ button[disabled] {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-23-18-55-31.png) 21:40
+![](../attachments/1150.png) 21:40
 
 Now it is clear that the button is disabled.
 
@@ -732,7 +732,7 @@ async function handleSubmit(event) {
 
 When we submit the form now and search for something like "chicken", it will disable the button, fetch and log the recipes, and finally re-enable the button.
 
-![](@attachment/Clipboard_2020-05-24-20-07-52.png) 24:45
+![](../attachments/1151.png) 24:45
 
 Next, make another function called `displayRecipes` which takes in the array of recipe and returns the HTML that will be used to display those recipes.
 
@@ -763,7 +763,7 @@ function displayRecipes(recipes) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-24-20-17-04.png) 28:24
+![](../attachments/1152.png) 28:24
 
 As you can see, for each recipe we had returned we have some HTML generated for them.
 
@@ -783,9 +783,9 @@ recipesGrid.innerHTML = html.join("");
 
 When you refresh the page, the HTML should look similar to the image below 👇
 
-![](@attachment/Clipboard_2020-05-24-20-20-43.png) 29:21
+![](../attachments/1153.png) 29:21
 
-![](@attachment/Clipboard_2020-05-24-20-21-00.png)29:32
+![](../attachments/1154.png)29:32
 
 For each item, we have:
 
@@ -878,11 +878,11 @@ We will be doing another AJAX example in this video, but this time using a Dad J
 
 Every time you click the button, a new random dad joke should be fetched from the API and displayed and the button text will change occasionally.
 
-![](@attachment/Clipboard_2020-05-25-07-08-45.png) 00:17
+![](../attachments/1155.png) 00:17
 
 We will be using the endpoint "get a random dad joke" from the API https://icanhazdadjoke.com/api.
 
-![](@attachment/Clipboard_2020-05-25-07-10-09.png) 00:41
+![](../attachments/1156.png) 00:41
 
 This example will require **custom headers** which is a good thing to learn.
 
@@ -890,7 +890,7 @@ We will also be learning how to ensure that the button text never uses the same 
 
 Navigate to the `exercises/76 - Dad Jokes/` directory and open up `index.html`.
 
-![](@attachment/Clipboard_2020-05-25-07-18-56.png) 1:20
+![](../attachments/1157.png) 1:20
 
 We have some basic HTML to start. We have a div div that contains a paragraph tag in which to display the joke, a button with a class of `getJoke` and a script tag.
 
@@ -905,7 +905,7 @@ Next create a function that will be responsible for fetching the joke.
 
 Let's look at the API docs for fetching a random joke.
 
-![](@attachment/Clipboard_2020-05-25-07-26-12.png) 2:04
+![](../attachments/1158.png) 2:04
 
 No authentication is required. There is this one note however..
 
@@ -940,7 +940,7 @@ fetchJoke();
 
 If you refresh the page, you should see the response is something similar to what you see below.
 
-![](@attachment/Clipboard_2020-05-25-07-32-45.png) 3:38
+![](../attachments/1159.png) 3:38
 
 ### Headers
 
@@ -959,7 +959,7 @@ What that errors means is that you have most likely been returned some HTML (sin
 
 The way we can check for that is to go to the network tab and find the actual request and click through it, you will see that the response is just an HTML document that came back.
 
-![](@attachment/Clipboard_2020-05-25-07-38-47.png) 4:36
+![](../attachments/1160.png) 4:36
 
 Not all websites allow you to fetch HTML but since this API has a CORS policy setup, we are able to do it.
 
@@ -977,7 +977,7 @@ A header is some additional information that comes along with a request, kind of
 
 If you look at our dad joke API fetch request in the network tab and click it, you can click the headers tab and see the headers that were passed along with the request, and the ones that were passed along with the response.
 
-![](@attachment/Clipboard_2020-05-25-07-47-05.png) 5:33
+![](../attachments/1161.png) 5:33
 
 We need to pass along this additional information with `fetch`. The way you do that is you pass a second object to fetch, which can take in a whole bunch of different arguments. 👇
 
@@ -1001,7 +1001,7 @@ const response = await fetch("http://icanhazdadjoke.com", {
 
 If you refresh the page now, you will see a promise.
 
-![](@attachment/Clipboard_2020-05-25-07-51-03.png) 6:13
+![](../attachments/1162.png) 6:13
 
 That is because we forgot to await the response. Modify the code like so:
 
@@ -1012,7 +1012,7 @@ console.log(joke);
 
 Now what comes back is the actual data.
 
-![](@attachment/Clipboard_2020-05-25-07-52-59.png) 6:40
+![](../attachments/1163.png) 6:40
 
 ```js
 const response = await fetch("http://icanhazdadjoke.com", {
@@ -1023,7 +1023,7 @@ const response = await fetch("http://icanhazdadjoke.com", {
 });
 ```
 
-![](@attachment/Clipboard_2020-05-25-07-54-38.png) 6:59
+![](../attachments/1164.png) 6:59
 
 Now if we change that to text/plain (it is fine to have two, the one further down will overwrite the earlier ones, we will a similar error about unexpected token W). If you look at the response, it says "Unexpected W" because it returned to us text and our application was expecting JSON.
 
@@ -1083,7 +1083,7 @@ jokeButton.addEventListener("click", handleClick);
 
 Now when you refresh the page and open the console, you will see that every time we click the button, a new joke is logged.
 
-![](@attachment/Clipboard_2020-05-25-08-11-39.png) 9:29
+![](../attachments/1165.png) 9:29
 
 Now within`handleClick`, take the `jokeHolder` and set it's `textContent` to be the joke 👇
 
@@ -1096,7 +1096,7 @@ async function handleClick() {
 
 When the button is clicked now, the joke should populate and change within the paragraph tag.
 
-![](@attachment/Clipboard_2020-05-25-08-14-33.png) 9:48
+![](../attachments/1166.png) 9:48
 
 Next we want to take the button text and replace it with one of the strings in the `buttonText` array shown below.👇
 
@@ -1141,7 +1141,7 @@ randomItemFromArray(buttonText);
 
 Now whenever we run it, we get a random item returned.
 
-![](@attachment/Clipboard_2020-05-25-17-22-55.png) 12:10
+![](../attachments/1168.png) 12:10
 
 However, sometimes it will randomly return the exact same thing, which makes it seem like nothing happened.
 
@@ -1160,7 +1160,7 @@ It is possible that this code will run a few times and call itself before it fin
 
 Let's try running it in the console but this time passing the `not` parameter.
 
-!![](@attachment/Clipboard_2020-05-25-17-27-10.png) 13:37
+!![](../attachments/1170.png) 13:37
 
 As you can see, when we got "please stop", we logged "Ah we used that one last time look again" to the console and the method called itself again and the next time it returned different text.
 
@@ -1191,12 +1191,12 @@ In the HTML, right before our paragraph tag that will contain our dad jokes, add
 
 LGoogle "CSS loader" and select `loading.io`.
 
-![](@attachment/Clipboard_2020-05-25-17-32-22.png) 15:39
-![](@attachment/Clipboard_2020-05-25-17-32-40.png) 15:43
+![](../attachments/1171.png) 15:39
+![](../attachments/1172.png) 15:43
 
 Click on whatever loader you would like to move and it should show you the markup you need to add to the page.
 
-![](@attachment/Clipboard_2020-05-25-17-33-09.png) 15:50
+![](../attachments/1173.png) 15:50
 
 Then let's actually replace the div we just added with the HTML supplied to us for the loader.
 
@@ -1273,7 +1273,7 @@ If you look at the styles, you will notice the loader is set to the colour white
 }
 ```
 
-![](@attachment/Clipboard_2020-05-25-17-41-25.png) 17:13
+![](../attachments/1174.png) 17:13
 
 Now you can see the loader, it was always working, it was just white so we could not see it.
 
@@ -1363,7 +1363,7 @@ Let's try to put the loader inside of the button instead.
 </button>
 ```
 
-![](@attachment/Clipboard_2020-05-25-17-51-44.png) 19:54
+![](../attachments/1175.png) 19:54
 
 It is showing up because we removed the class of `hidden` from the HTML. Modify the CSS to make the loader white again.
 
@@ -1371,7 +1371,7 @@ It is showing up because we removed the class of `hidden` from the HTML. Modify 
   border: 4px solid var(--yellow);
 ```
 
-![](@attachment/Clipboard_2020-05-25-17-52-49.png) 20:00
+![](../attachments/1176.png) 20:00
 
 Let's also change the size.
 
@@ -1436,7 +1436,7 @@ We will make a size variable and set it to `20px` and then modify some of the ot
 </style>
 ```
 
-![](@attachment/Clipboard_2020-05-25-17-56-37.png) 21:36
+![](../attachments/1178.png) 21:36
 
 As you can see above, it is working although it doesn't look great. Our sizing was a bit off.
 
@@ -1491,7 +1491,7 @@ That works! Let's move onto the next lesson.
 
 In this video we will build a currency conversion app.
 
-![](@attachment/Clipboard_2020-05-25-18-15-59.png) 00:16
+![](../attachments/1179.png) 00:16
 
 The app allows you to enter an amount to convert, specify it's currency and then specify which currency to convert it to.
 
@@ -1531,7 +1531,7 @@ We have a script source tag right before the closing body tag.
 
 If you open up `money.js`, you will see that Wes has already given us just a list of currencies, which is the currency code translated to their English version.
 
-![](@attachment/Clipboard_2020-05-25-18-24-52.png) 2:09
+![](../attachments/1180.png) 2:09
 
 Let's start by converting those currencies so we can populate them.
 
@@ -1544,7 +1544,7 @@ const optionsHTML = generateOptions(currencies);
 console.log(optionsHTML);
 ```
 
-![](@attachment/currencies-3265.png) 3:26
+![](../attachments/currencies-3265.png) 3:26
 
 Let's go back to looping. How do you loop over an object?
 
@@ -1565,7 +1565,7 @@ function generateOptions(options) {
 
 If you refresh the page, you will see that gives us an array, where each item inside of the array is another array, the first time of which is the currency code and the second item being the label.
 
-![](@attachment/Clipboard_2020-05-25-18-38-04.png) 4:09
+![](../attachments/1182.png) 4:09
 
 Let's take that array and map over it so we get the nested array, and then log it. 👇
 
@@ -1577,7 +1577,7 @@ function generateOptions(options) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-25-18-40-02.png) 4:37
+![](../attachments/1183.png) 4:37
 
 We can destructure each sub-array to two variables:
 
@@ -1592,7 +1592,7 @@ function generateOptions(options) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-25-18-42-01.png) 4:58
+![](../attachments/1185.png) 4:58
 
 As you can see, it is looking good, except the array is undefined because we are not returning anything, so let's change that and return some HTML using backticks.
 
@@ -1604,7 +1604,7 @@ function generateOptions(options) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-25-18-45-14.png) 5:\$3
+![](../attachments/1186.png) 5:\$3
 
 Now the `optionsHTML` variable contains an array of HTML options.
 
@@ -1643,7 +1643,7 @@ We are populating both options with the exact same list. That is why we put `opt
 
 Now when you refresh, you will see that each option has a dropdown. 👇
 
-![](@attachment/Clipboard_2020-05-25-18-51-57.png) 7:10
+![](../attachments/1187.png) 7:10
 
 Let's switch to working on some of the functionality before we continue coding the UI any further.
 
@@ -1659,7 +1659,7 @@ const endpoint = "https://api.exchangeratesapi.io/latest";
 
 The way this endpoint works is we need to pass it a query parameter of our base currency, as shown in the image below.
 
-![](@attachment/Clipboard_2020-05-26-06-57-38.png) 8:38
+![](../attachments/1188.png) 8:38
 
 That will return the exchange rates to us as well as the base currency.
 
@@ -1673,11 +1673,11 @@ async function fetchRates(base = "USD") {
 
 If you open the browser and try to run `fetchRates()` from the console, it will return to us a promise immediately because it is an async function, and then it will resolve and log our rates.
 
-![](@attachment/Clipboard_2020-05-26-06-59-53.png) 9:53
+![](../attachments/1189.png) 9:53
 
 You can try passing the base currency as "CAD" and it should still work.
 
-![](@attachment/Clipboard_2020-05-26-07-00-30.png) 10:04
+![](../attachments/1190.png) 10:04
 
 Let's wrap that function up by returning `rates` from it.
 
@@ -1713,7 +1713,7 @@ We could fetch the rates each time, but that could be a bit slow, because every 
 
 In the demo, you can see that the conversion is happening almost instantaneously.
 
-![](@attachment/rates.gif) 11:22
+![](../attachments/rates.gif) 11:22
 
 If we had to fetch the rates every single time someone typed into the box, for the number 57887 alone, we would be fetch the rate 5 times unnecessarily, and often APIs will rate limit you.
 
@@ -1727,7 +1727,7 @@ const ratesByBase = {};
 
 We will store all of the rates within that object/ Every time a currency is selected to be converted, we will check whether we already have the rates within our `ratesByBase` object. If we do not, we will fetch it and save it to our object.
 
-![](@attachment/Clipboard_2020-05-26-07-25-05.png) 12:59
+![](../attachments/1191.png) 12:59
 
 If we were to cycle through all the currencies, our `ratesByBase` object would be massive because it will contain all of the rates by their from value. So by default we start with nothing because we have nothing.
 
@@ -1748,7 +1748,7 @@ function convert(amount, from, to){
 
 If you refresh the page, you can try running what we have so far from the console.
 
-![](@attachment/Clipboard_2020-05-26-07-28-44.png) 14:16
+![](../attachments/1192.png) 14:16
 
 Back to our `convert` function, we want to mark it as `async` because we will need to fetch the rate if it does not already exist.
 
@@ -1771,13 +1771,13 @@ Let's demo step by step how that works.
 
  Start by logging `ratesByBase` in the console, which you will see is an empty object.
 
-![](@attachment/Clipboard_2020-05-26-07-31-31.png) 15:11
+![](../attachments/1193.png) 15:11
 
 If we run `convert(100, 'CAD', 'USD")` in the console, we will see the message stating we don't have it but are fetching it.
 
 Now if we check the `ratesByBase` object, we will see those rate values within the object. If you were to run the same convert function again, you will see it does not refetch them because the values already exist within `ratesByBase`.
 
-![](@attachment/Clipboard_2020-05-26-07-32-43.png) 15:34
+![](../attachments/1194.png) 15:34
 
 As soon as you refresh the page, they will be gone. You could use local storage to save those but we will just do page load for this exercise.
 
@@ -1810,7 +1810,7 @@ Inside of that, we need to grab the rates and the find the rate that they are co
 
 But because those property keys are variables within our function, we need to use square brackets to access those object properties.
 
-![](@attachment/Clipboard_2020-05-26-07-36-20.png) 16:36
+![](../attachments/1195.png) 16:36
 
 Now we will take that `rate` and calculate the `convertedAmount` like so 👇
 
@@ -1833,7 +1833,7 @@ function convert(amount, from, to){
 
 If you refresh the page and try that, you should see something like the following..
 
-![](@attachment/Clipboard_2020-05-26-07-40-53.png) 18:01
+![](../attachments/1197.png) 18:01
 
 At this point, we have built the main functionality of the app so at this point we can start hooking it up to our UI.
 
@@ -1868,7 +1868,7 @@ function handleInput(e){
 }
 ```
 
-![](@attachment/Clipboard_2020-05-26-15-20-02.png) 20:26
+![](../attachments/1198.png) 20:26
 
 If you refresh the page and try typing into the amount input or selecting an item from the drop downs, you will see that `e.target` is changing every time but `e.currentTarget` which is the form stays the same.
 
@@ -1903,14 +1903,14 @@ async function handleInput(e){
 }
 ```
 
-![](@attachment/Clipboard_2020-05-26-15-25-50.png) 22:44
+![](../attachments/1199.png) 22:44
 
 If you refresh the page and try entering an amount into the "from_amount" input, you should see something like shown above 👆 logged in the console. 
 
 Now we need to actually show that amount in the `to_amount` paragraph tag.
 
 
-![](@attachment/Clipboard_2020-05-26-15-26-59.png) 23:00
+![](../attachments/1200.png) 23:00
 
 Let's go back to the top of our page and select that element and name it `toEl`.
 
@@ -1938,7 +1938,7 @@ If you refresh the page and test it out, you should see the `to_amount` value up
 
 Try changing the "to currency" and the "from currency" to ensure the value is still updating.
 
-![](@attachment/Clipboard_2020-05-26-15-29-41.png) 23:56
+![](../attachments/1201.png) 23:56
 
 ### Formatting Currency using Number Format API 
 
@@ -1958,7 +1958,7 @@ And as the second argument you pass it an options object.
 
 Within that object we will pass a value for the `style` property which will be `'currency'`, since we want to format the amount as a currency, and then we need to pass the currency argument which we can do using the shorthand since both the property and value have identical names.
 
-![](@attachment/Clipboard_2020-05-26-15-35-16.png) 26:08
+![](../attachments/1202.png) 26:08
 
 The code highlighted above is the "formatter", and then the method is just a `.format()` method on the formatted to which you pass your amount like so:
 
@@ -1986,7 +1986,7 @@ async function handleInput(e){
 
 Refresh the page and check whether that works.
 
-![](@attachment/Clipboard_2020-05-26-15-36-44.png) 26:44
+![](../attachments/1203.png) 26:44
 
 Unfortunately that does not seem to be working. Let's look at the console to debug.
 
@@ -1994,7 +1994,7 @@ When Wes runs into a problem like this, when there are many things calling each 
 
 Lets start by testing `formatCurrency` in the console.
 
-![](@attachment/Clipboard_2020-05-26-15-37-49.png) 27:20
+![](../attachments/1204.png) 27:20
 
 We do not get the formatted amount back. Try manually passing the locale to `Intl.NumberFormat` method.
 
@@ -2011,4 +2011,4 @@ function formatCurrency(amount, currency){
 
 Now if you refresh it, it should be working.
 
-![](@attachment/Clipboard_2020-05-26-15-39-04.png) 27:47
+![](../attachments/1205.png) 27:47

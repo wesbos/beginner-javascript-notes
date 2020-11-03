@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-03-01-14-51-59.png, Clipboard_2020-03-01-15-04-15.png, Clipboard_2020-03-01-16-07-01.png, Clipboard_2020-03-01-16-09-14.png, Clipboard_2020-03-01-16-10-58.png, Clipboard_2020-03-01-16-17-35.png, Clipboard_2020-03-01-16-17-38.png, Clipboard_2020-03-01-16-21-03.png, Clipboard_2020-03-01-18-46-10.png, Clipboard_2020-03-01-18-48-58.png, Clipboard_2020-03-01-18-56-25.png, Clipboard_2020-03-01-18-56-26.png, Clipboard_2020-03-01-18-56-28.png, Clipboard_2020-03-02-20-43-32.png, Clipboard_2020-03-02-20-44-15.png, Clipboard_2020-03-02-20-44-48.png, Clipboard_2020-03-02-20-45-51.png, Clipboard_2020-03-02-20-48-57.png, Clipboard_2020-03-02-20-54-38.png, Clipboard_2020-03-02-20-56-33.png, Clipboard_2020-03-02-20-56-48.png, Clipboard_2020-03-02-21-03-46.png, Clipboard_2020-03-02-21-07-13.png, Clipboard_2020-03-02-21-12-10.png, Clipboard_2020-03-02-22-49-48.png, Clipboard_2020-03-02-22-55-30.png, Clipboard_2020-03-02-22-56-29.png, Clipboard_2020-03-02-22-57-33.png, Clipboard_2020-03-02-23-03-01.png, Clipboard_2020-03-02-23-04-22.png, Clipboard_2020-03-02-23-06-23.png, Clipboard_2020-03-02-23-14-46.png, Clipboard_2020-03-02-23-22-00.png, Clipboard_2020-03-02-23-22-37.png, Clipboard_2020-03-02-23-25-43.png, Clipboard_2020-03-02-23-26-16.png, Clipboard_2020-03-03-16-57-11.png, Clipboard_2020-03-03-17-13-53.png, Clipboard_2020-03-03-17-21-45.png, Clipboard_2020-03-03-17-39-41.png, Clipboard_2020-03-03-17-44-28.png, Clipboard_2020-03-03-17-47-32.png, Clipboard_2020-03-03-17-48-36.png, Clipboard_2020-03-03-17-50-20.png, Clipboard_2020-03-03-17-50-22.png, Clipboard_2020-03-03-17-51-26.png, Clipboard_2020-03-03-18-05-28.png, Clipboard_2020-03-03-18-06-14.png, Clipboard_2020-03-03-18-08-39.png, Clipboard_2020-03-03-18-10-34.png, Clipboard_2020-03-03-18-11-57.png, Clipboard_2020-03-09-18-49-21.png, Clipboard_2020-03-09-19-23-39.png, Clipboard_2020-03-09-19-32-21.png, Clipboard_2020-08-04-19-59-05.png, Clipboard_2020-08-04-20-00-15.png, Clipboard_2020-08-04-20-01-12.png, Clipboard_2020-08-04-20-04-13.png, Clipboard_2020-08-04-20-04-17.png, Clipboard_2020-08-04-20-04-20.png, Clipboard_2020-08-04-20-08-14.png, Clipboard_2020-08-04-20-08-18.png, Clipboard_2020-08-04-20-08-25.png, Clipboard_2020-08-04-20-08-56.png, Clipboard_2020-08-04-20-09-16.png, Clipboard_2020-08-04-20-13-34.png, Clipboard_2020-08-04-20-24-09.png, Clipboard_2020-08-04-21-25-01.png, Clipboard_2020-08-04-21-33-47.png]
+attachments: [316.png, 317.png, 318.png, 319.png, 320.png, 321.png, 322.png, 323.png, 324.png, 325.png, 326.png, 327.png, 328.png, 329.png, 330.png, 331.png, 332.png, 333.png, 334.png, 335.png, 336.png, 337.png, 338.png, 339.png, 340.png, 341.png, 342.png, 343.png, 344.png, 345.png, 346.png, 347.png, 348.png, 349.png, 350.png, 351.png, 352.png, 353.png, 354.png, 355.png, 356.png, 357.png, 358.png, 359.png, 360.png, 361.png, 362.png, 363.png, 364.png, 365.png, 366.png, 367.png, 368.png, 369.png, 1450.png, 1451.png, 1452.png, 1453.png, 1454.png, 1455.png, 1456.png, 1457.png, 1458.png, 1459.png, 1460.png, 1461.png, 1462.png, 1463.png, 1464.png]
 title: 'Module 5: Events'
 created: '2020-03-01T19:37:44.608Z'
 modified: '2020-08-05T01:43:55.870Z'
@@ -32,7 +32,7 @@ Create a file `events.js` (if it's not already there).
 
 If you open the html file, you should see the button and when you click it, nothing should happen. 
 
-![](@attachment/Clipboard_2020-03-01-14-51-59.png) 1:32
+![](../attachments/316.png) 1:32
 
 In order to attach event listeners, you first need to select the element you want to attach it to.
 
@@ -67,7 +67,7 @@ In the example above, `function(){}` is the second argument that we have passed 
 
 Now, each time you click the button, you will see that message logged in the console. 
 
-![](@attachment/Clipboard_2020-03-01-15-04-15.png) 4:24
+![](../attachments/317.png) 4:24
 
 _NOTE: For the click event on a button, you don't have to worry about thinking about keyboard events, if the user hits enter to click the button instead of click it, because it's a standard button, the browser will still trigger the click event._
 
@@ -240,7 +240,7 @@ const buyButtons = document.querySelectorAll("button.buy");
 
 This gives us a node list of all of the buttons. 
 
-![](@attachment/Clipboard_2020-08-04-20-00-15.png)
+![](../attachments/1451.png)
 
 You might think, why can't we just go ahead and take our buy buttons and add an event listener of click like so 👇
 
@@ -255,7 +255,7 @@ So we have our elements, we listened for them, and then when that happens, we pa
 
 You should see the following error when you reload the HTML page and look at the console. 👇
 
-![](@attachment/Clipboard_2020-03-01-16-09-14.png) 15:41
+![](../attachments/319.png) 15:41
 
 The error is telling us that the buyButtons does not have the method `addEventListener`. 
 
@@ -267,7 +267,7 @@ console.log(buyButtons);
 
 If you ever want to see what all of the different methods are that are available on a variable you can look at the prototype. 
 
-![](@attachment/Clipboard_2020-08-04-20-01-12.png) 16:05
+![](../attachments/1452.png) 16:05
 
 You will notice that `addEventListener` is not there. 
 
@@ -305,7 +305,7 @@ buyButtons.forEach(function(buyButton)){
 
 If you run that, you should see all the buy buttons logged in the console. 
 
-![](@attachment/Clipboard_2020-03-01-16-17-38.png) 18:42
+![](../attachments/322.png) 18:42
 
 Anything you put in our `forEach` loop will happen 10 times, once per button. 
 
@@ -320,7 +320,7 @@ buyButtons.forEach(function(buyButton) {
 
 If you refresh the page, you will see the "Binding the buy button" text was triggered 10 times and if you click each of the buttons, you should see the text BUYING ITEM logged 10 times. 
 
-![](@attachment/Clipboard_2020-03-01-16-21-03.png) 19:46
+![](../attachments/323.png) 19:46
 
 Similarly, if you want to remove the event listener from each of those, you have to loop over each of them as well.
 
@@ -417,11 +417,11 @@ Within the `handleBuyBackButtonClick()`, log the `event` object, and refresh the
 
 Whhen you click on a button you should see the following in the console 👇
 
-![](@attachment/Clipboard_2020-03-01-18-46-10.png) 3:49
+![](../attachments/324.png) 3:49
 
 What we have there is a pointer event, which we will get into more detail about later, but essentialy we have clicks, and touches and mouse movements and they are all consolidated into one event called a pointer event.  
 
-![](@attachment/Clipboard_2020-08-04-20-04-20.png) 4:18
+![](../attachments/1455.png) 4:18
 
 If you expand the event, you will see all sorts of things. 
 
@@ -437,7 +437,7 @@ Within `handleBuyBackButtonClick`, log `event.target`.
 
 When you refresh and click on different buttons, it will show you which button the user has clicked on. 
 
-![](@attachment/Clipboard_2020-03-01-18-56-28.png) 5:43
+![](../attachments/328.png) 5:43
 
 That is very useful because we could do something like add a data attribute, such as `data-price=""`, like so 👇
 
@@ -465,11 +465,11 @@ That is very useful because we could do something like add a data attribute, suc
 
 Now when you click on a specific button, it should show you the dataset in the console.
 
-![](@attachment/Clipboard_2020-08-04-20-08-56.png) 6:23
+![](../attachments/1459.png) 6:23
 
 And if you do `dataset.price`, it will return the price.
 
-![](@attachment/Clipboard_2020-08-04-20-09-16.png) 6:27
+![](../attachments/1460.png) 6:27
 
 If you do log `typeof event.target.dataset.price)`, you will see that the price is a string, so tiy need to convert it. 
 
@@ -481,7 +481,7 @@ console.log(parseFloat(event.target.dataset.price));
 
 Now you get a true number. 
 
-![](@attachment/Clipboard_2020-03-02-20-45-51.png) 6:47
+![](../attachments/332.png) 6:47
 
 To recap: the event object contains all this information about what happened in this event, such as what type of event it was (mouseclick  etc), the target, and then once you have the target, you can access anything you want about that target.
 
@@ -505,7 +505,7 @@ There is also another property, which you should log
 event.currentTarget
 ``` 
 
-![](@attachment/Clipboard_2020-03-02-20-48-57.png) 7:57
+![](../attachments/333.png) 7:57
 
 You might notice that you get the same thing. 
 
@@ -523,7 +523,7 @@ function handleBuyButtonClick(event){
   console.log(event.target === event.currentTarget);
 }
 ```
-![](@attachment/Clipboard_2020-03-02-20-54-38.png) 8:22
+![](../attachments/334.png) 8:22
 
 It returns true. 
 
@@ -539,9 +539,9 @@ Take all the numbers in our buttons and wrap them in a strong tag like so 👇
 
 What happens if you click on the number in the button?
 
-![](@attachment/Clipboard_2020-08-04-20-13-34.png)8:58
+![](../attachments/1461.png)8:58
 
-![](@attachment/Clipboard_2020-03-02-20-56-48.png) 
+![](../attachments/336.png) 
 
 In this instance we are clicking on the button and on the strong tag. 
 
@@ -567,7 +567,7 @@ If you click on the `h2`, it will still show you clicked on the window. B
 
 ut if you click on one of the buttons, are you click on the window, or on the button? 
 
-![](@attachment/Clipboard_2020-03-02-21-03-46.png)
+![](../attachments/337.png)
 
 What happened is that both the window event listener fired, and the `handleBuyButtonClick` fired. We technically clicked on both of them. 
 
@@ -579,7 +579,7 @@ When we clicked the strong tag, what happens is the event bubbles up.
 
 Meaning we clicked on the strong tag, but we also clicked on the button, and then we also clicked on the body, and the HTML tag, and the window, and the google chrome browser etc, etc. 
 
-![](@attachment/Clipboard_2020-03-02-21-07-13.png) 11:14
+![](../attachments/338.png) 11:14
 
 Although we just clicked on the strong tag, the browser and operating system are also listening to that event. 
 
@@ -604,7 +604,7 @@ Now anytime we click on something, it will show us what we are actually clicking
 
 So even though we are listening on the window, it will show what the actual element you clicked on is, whether it's a `button` or an `h2`. 
 
-![](@attachment/Clipboard_2020-03-02-21-12-10.png) 13:28
+![](../attachments/339.png) 13:28
 
 Events bubble up, and if we want to stop them from bubbling up, we run `stopPropagation()` and there is a way to flip that: **capture**. 
 
@@ -612,7 +612,7 @@ Events bubble up, and if we want to stop them from bubbling up, we run `stopProp
 
 This is a diagram from W3 (those are the people who decide how Javascript works, how the browsers work, and how events happen) 👇
 
-![](@attachment/Clipboard_2020-03-02-22-49-48.png) 14:11
+![](../attachments/340.png) 14:11
 
 If you have an element that is very low in the DOM, like a `td` (or in our case, a button), and we are listening on the `td`, when someone makes a click, we actually are clicking on the document, then clicking on the html, then the body, the table, and then finally end up clicking the button. 
 
@@ -636,7 +636,7 @@ That means that if we want to listen for a click on the window first and then st
 
 To do that, we need to add a third argument to `addEventListener`. 
 
-![](@attachment/Clipboard_2020-03-02-22-55-30.png) 16:18
+![](../attachments/341.png) 16:18
 
 This can be confusing because `addEventListener` has 3 different ways to call it. 
 
@@ -644,11 +644,11 @@ Typically, the first one is the most modern way to call it.
 
 It used to be that `addEventListener` took a boolean as the 3rd parameter which specified whether to use capture or not.  But now, they have an `options` object that needs to be passed through.
 
-![](@attachment/Clipboard_2020-03-02-22-56-29.png) 16:34
+![](../attachments/342.png) 16:34
 
 We will be passing the `options` object which has a few options such as capture.
 
-![](@attachment/Clipboard_2020-03-02-22-57-33.png) 16:48
+![](../attachments/343.png) 16:48
 
 Go to the `window.eventListener` and pass in `options` as the 3rd parameter. 
 
@@ -673,11 +673,11 @@ Inside of `handleBuyButtonClick`, at the beginning of the function log "You clic
 
 Now, if you click on the button, you will see that first it says "You clicked on a button" and then it says "YOU CLICKED THE WINDOW". 
 
-![](@attachment/Clipboard_2020-03-02-23-03-01.png) 18:11
+![](../attachments/344.png) 18:11
 
 If you uncomment `{capture:true}` on the window eventListener, when you refresh the page and click the button, you will first get the window log and then the button. 
 
-![](@attachment/Clipboard_2020-03-02-23-04-22.png) 18:36
+![](../attachments/345.png) 18:36
 
 The order at which the events are fired goes top down, rather than bubbling up. 
 
@@ -693,7 +693,7 @@ That will allow us to stop the event from propagating down, rather than bubbling
 
 Now if you click a button, you will see that the `handleBuyButtonClick()` will never be run. 
 
-![](@attachment/Clipboard_2020-03-02-23-06-23.png) 19:10
+![](../attachments/346.png) 19:10
 
 All of that is good to know, but the capture functionality does not come up very often in day to day development, but it is often an interview question about how the intricacies of events work. 
 
@@ -750,7 +750,7 @@ window.addEventListener(
 
 If you refresh the HTML page and click somewhere you should see something like the following 👇
 
-![](@attachment/Clipboard_2020-08-04-20-24-09.png) 21:24
+![](../attachments/1462.png) 21:24
 
 The properties we logged to the console tell us what we clicked, the type of event (a click) and if the event is going to bubble or not. 
 
@@ -788,13 +788,13 @@ photoEl.addEventListener("mousemove", function(e) ...
 
 Now, whenever you move your mouse anywhere over the image, that event is fired millions of times because it is triggered on every movement of the mouse.
 
-![](@attachment/Clipboard_2020-03-02-23-22-00.png) 23:05
+![](../attachments/348.png) 23:05
 
 Add `console.count(e.currentTarget);`. 
 
 That will tell us how often something has fired on that specific thing. 
 
-![](@attachment/Clipboard_2020-03-02-23-22-37.png) 23:13
+![](../attachments/349.png) 23:13
 
 There is also `mouseenter` events which only get triggered when you leave and enter an element. 
 
@@ -820,7 +820,7 @@ photoEl.addEventListener("mousemove", function() {
 
 When you hover over the image, you should see 👇
 
-![](@attachment/Clipboard_2020-03-02-23-26-16.png) 24:02
+![](../attachments/351.png) 24:02
 
 It is exactly the same thing. 
 
@@ -859,7 +859,7 @@ In our `/29 - Events` directory, we have a `forms.js` and `forms.html` file. The
 
 Add a log of it works and refres hthe forms page. 
 
-![](@attachment/Clipboard_2020-03-03-16-57-11.png) 00:48
+![](../attachments/352.png) 00:48
 
 ### preventDefault
 
@@ -887,7 +887,7 @@ wes.addEventListener("click", function(event) {
 
 When you click the link, you will see the event in the console for a split second before you are redirected to the next page. 
 
-![](@attachment/Clipboard_2020-03-03-17-13-53.png) 1:52
+![](../attachments/353.png) 1:52
 
 _**Helpful Tip**: If you need to log something but you are being redirected and the console is being cleared, you can click the "cog" icon in the chrome dev tools and check on "preserve log" to not clear the console when you navigate to another page._
 
@@ -904,7 +904,7 @@ wes.addEventListener("click", function(event) {
 });
 ```
 
-![](@attachment/Clipboard_2020-03-03-17-21-45.png) 4:10
+![](../attachments/354.png) 4:10
 
 Now when you refresh the page and click the link, you will get an alert asking you if you wish to proceed. 
 
@@ -980,7 +980,7 @@ signupForm.addEventListener("submit", function(event) {
 
 Now if you put your name and email and click submit, you will see in the url the form values that you entered as parameters
 
-![](@attachment/Clipboard_2020-03-03-17-39-41.png) 7:03
+![](../attachments/355.png) 7:03
 
 More often than not, you don't want to submit the form to the server but you often want to stop the form from submitting, grab those details with JS and continue.
 
@@ -994,7 +994,7 @@ You could just put a required attribute on the input boxes like so `<input requi
 
 Now if you were to refresh and try to submit, you would see this little zerror. 
 
-![](@attachment/Clipboard_2020-08-04-21-25-01.png) 8:11
+![](../attachments/1463.png) 8:11
 
 In some cases however you want to do extended validation. 
 
@@ -1012,13 +1012,13 @@ console.dir(event.currentTarget);
 
 Hit submit in the form. You should see something similar to what is shown below. 
 
-![](@attachment/Clipboard_2020-03-03-17-47-32.png) 8:51
+![](../attachments/357.png) 8:51
 
 You might notice that there are properties inside of the form object with each of input names. 
 
 There is a name `property` and a 1 property. 
 
-![](@attachment/Clipboard_2020-03-03-17-48-36.png) 9:09
+![](../attachments/358.png) 9:09
 
 There are two ways you can  grab the fields from the form. 
 
@@ -1032,7 +1032,7 @@ signupForm.addEventListener("submit", function(event) {
 });
 ```
 
-![](@attachment/Clipboard_2020-03-03-17-50-22.png) 9:26
+![](../attachments/360.png) 9:26
 
 Now add `.value` to both of those inputs like so 👇
 
@@ -1041,7 +1041,7 @@ console.log(event.currentTarget.name.value);
 console.log(event.currenTarget.email.value);
 ```
 
-![](@attachment/Clipboard_2020-03-03-17-51-26.png) 9:30
+![](../attachments/361.png) 9:30
 
 That will give you the actual values that are in the input boxes. 
 
@@ -1106,7 +1106,7 @@ Now when you type anything in the name field, you will see `keyup` getting calle
 
 You can also log the `event.currentTarget.value` to get what the user has typed into the input. 
 
-![](@attachment/Clipboard_2020-03-03-18-06-14.png) 13:43
+![](../attachments/363.png) 13:43
 
 This is useful if for example you don't want to allow certain numbers or letters being used in the input, you can simply just prevent the default from happening. You would do that on the `keydown`. 
 
@@ -1116,7 +1116,7 @@ Duplicate the `keyup` event listener and paste it right below and modify the eve
 signupForm.name.addEventListener("keydown", logEvent);
 ```
 
-![](@attachment/Clipboard_2020-03-03-18-08-39.png) 14:20
+![](../attachments/364.png) 14:20
 
 This logs the keydown event and the keyup event. 
 
@@ -1130,7 +1130,7 @@ The same goes with tabbing, it will trigger a focus and blur event as you go bet
 
 That can be used for showing styling, or recording info like how long people spend on specific inputs. 
 
-![](@attachment/Clipboard_2020-03-03-18-11-57.png) 15:00
+![](../attachments/366.png) 15:00
 
 There are some more events on form elements that we will get into in the future but those are the ones that Wes finds himself using the most often. 
 
@@ -1176,7 +1176,7 @@ It's still fine to prevent default on a specific link.
 
 For example, on twitter, if you try to click "tweets and replies" while not logged in, you will see a modal popup saying "You are not logged in". 
 
-![](@attachment/Clipboard_2020-03-09-18-49-21.png) 2:35
+![](../attachments/367.png) 2:35
 
 That is an example of a valid use case for using prevent default with a link. 
 
@@ -1242,7 +1242,7 @@ If you modified the code like so instead, like so 👇
 
 Now if you tab using your keyboard, you can go back and forth between the image and the div with button role. 
 
-![](@attachment/Clipboard_2020-03-09-19-23-39.png) 6:26
+![](../attachments/368.png) 6:26
 
 If you focus on the image like shown above and hit the enter key, unlike some other buttons and elements, it will not trigger a click. 
 
@@ -1272,7 +1272,7 @@ Every single key on an event will give you a bunch of information.
 
 Wes has a website, http://keycode.info, on which you can press any key and it will give you the meta information about that key. 
 
-![](@attachment/Clipboard_2020-03-09-19-32-21.png) 8:09
+![](../attachments/369.png) 8:09
 
 There is `event.key`, `event.which`, `event.code` and `event.key`.  `event.key` is the best way to go about it.
 

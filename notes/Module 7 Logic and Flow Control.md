@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-03-10-07-05-03.png, Clipboard_2020-03-10-07-05-06.png, Clipboard_2020-03-10-07-10-48.png, Clipboard_2020-03-10-19-08-05.png, Clipboard_2020-03-11-07-21-59.png, Clipboard_2020-03-11-07-24-38.png, Clipboard_2020-03-12-07-50-13.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, Clipboard_2020-03-13-09-27-49.png, Clipboard_2020-03-13-09-34-29.png, Clipboard_2020-03-13-09-35-10.png, Clipboard_2020-03-13-15-48-52.png, Clipboard_2020-03-13-16-04-27.png, Clipboard_2020-03-13-16-06-38.png, Clipboard_2020-03-28-18-26-22.png, Clipboard_2020-03-28-18-30-16.png, Clipboard_2020-03-30-20-43-56.png, Clipboard_2020-03-30-20-48-20.png, Clipboard_2020-03-30-20-51-22.png, Clipboard_2020-03-30-20-53-01.png, Clipboard_2020-03-30-20-55-34.png, Clipboard_2020-03-30-21-27-45.png, Clipboard_2020-03-31-18-20-36.png, Clipboard_2020-03-31-18-30-38.png, Clipboard_2020-03-31-18-33-04.png, Clipboard_2020-03-31-18-33-06.png, Clipboard_2020-04-01-18-49-14.png, Clipboard_2020-04-01-18-52-02.png, Clipboard_2020-04-01-18-55-27.png, Clipboard_2020-04-01-19-08-06.png, Clipboard_2020-04-01-19-14-22.png, Clipboard_2020-04-01-19-15-41.png, Clipboard_2020-04-01-19-22-05.png, Clipboard_2020-08-06-07-30-33.png, Clipboard_2020-08-06-07-30-39.png]
+attachments: [370.png, 371.png, 372.png, 373.png, 374.png, 375.png, 376.png, Clipboard_2020-03-12-19-05-43 (2).png, Clipboard_2020-03-12-19-12-10 (2).png, Clipboard_2020-03-12-19-17-45 (2).png, Clipboard_2020-03-12-19-18-25 (2).png, Clipboard_2020-03-12-20-25-30 (2).png, Clipboard_2020-03-12-20-26-56 (2).png, 389.png, 390.png, 391.png, 392.png, 393.png, 394.png, 421.png, 422.png, 423.png, 424.png, 425.png, 426.png, 427.png, 428.png, 429.png, 430.png, 431.png, 432.png, 433.png, 434.png, 435.png, 436.png, 437.png, 438.png, 439.png, 1465.png, 1466.png]
 title: 'Module 7: Logic and Flow Control'
 created: '2020-03-10T11:02:14.437Z'
 modified: '2020-08-10T23:22:10.716Z'
@@ -11,7 +11,7 @@ modified: '2020-08-10T23:22:10.716Z'
 
 If you know what **BEDMAS** is, skip this video.
 
-![](@attachment/Clipboard_2020-03-10-07-05-06.png) 00:43
+![](../attachments/371.png) 00:43
 
 This video will be covering BEDMAS and the order of operations in which Javascript runs. It is exactly the same as how mathematicians use it. 
 
@@ -47,7 +47,7 @@ First, it would evaluatewhat is in the brackets (`5 - 2 = 3`). Then we do expone
 
 This is useful in things like the `calculateBill()` function from previous lessons. 
 
-![](@attachment/Clipboard_2020-03-10-07-10-48.png) 2:51
+![](../attachments/372.png) 2:51
 
 ```js
 const total = calculateBill(100) + (calculateBill(20) - calculateBill(15)); 
@@ -188,7 +188,7 @@ If you run that in the console, what would you see?
 
 You should see "in your seventies". 
 
-![](@attachment/Clipboard_2020-03-10-19-08-05.png) 4:39
+![](../attachments/373.png) 4:39
 
 Even though that the rest of the conditions are true, because the first condition is true, none of the other conditions are evaluated or run. 
 
@@ -295,7 +295,7 @@ We talked briefly about the different equal signs (`=`, `==`, `===`).
 
 As a refresher, if you open the html page in the browser and try to type `age = 100;` in the console, you will get an error like the following 👇
 
-![](@attachment/Clipboard_2020-03-11-07-21-59.png) 9:05
+![](../attachments/374.png) 9:05
 
 The code is erroring out because the single value will set the value of the variable, and `age` is a const variable, so you cannot do that. 
 
@@ -310,7 +310,7 @@ The gotcha with the double equal signs is that if you were comparing it against 
 
 Using `===` will check if both the type AND the value of the `age` match `100`.
 
-![](@attachment/Clipboard_2020-03-11-07-24-38.png) 10:02
+![](../attachments/375.png) 10:02
 
 Because of that, you should almost always use `===`. 
 
@@ -403,7 +403,7 @@ if(name === 'scott' || (name === 'wes' && last === 'bos')){
 
 What this code will do is it will check the parenthesis. Name must equal "scott" and last name must equal "bos" for the statement to return true. 
 
-![](@attachment/Clipboard_2020-03-12-07-50-13.png) 15:29
+![](../attachments/376.png) 15:29
 
 When you use the and operator, if any one of the conditions is false, then the entire thing will evaluate to false. 
 
@@ -431,7 +431,7 @@ if('awesome'.includes(name)){
 }
 ```
 
-![](@attachment/Clipboard_2020-08-06-07-30-39.png)
+![](../attachments/1466.png)
 
 Pretty often you have methods that return true or false and often you can use those directly inside an if statement. 
 
@@ -526,7 +526,7 @@ else {
 
 If you refresh the HTML page, you should see "no score yet" in the console. Why? Because 0 equates to false. 
 
-![](@attachment/Clipboard_2020-03-12-19-05-43.png) 21:03
+![](../attachments/378.png) 21:03
 
 1 (the number one) is a truthy value.
 
@@ -551,7 +551,7 @@ _Note: We needed to modify the score variable from a const to a let to make it u
 
 A variable set to "hello" - 10 which would evaluate to **NaN** (**not a number**).
 
-![](@attachment/Clipboard_2020-03-12-19-12-10.png) 22:38
+![](../attachments/380.png) 22:38
 
 Would it be truthy or falsy?  It will be falsy, meaning that NaN is falsy. 
 
@@ -579,7 +579,7 @@ let score = [1,3,6];
 
 Would that be truthy or falsy? 
 
-![](@attachment/Clipboard_2020-03-12-19-17-45.png) 24:21
+![](../attachments/382.png) 24:21
 
 The array with values is truthy. 
 
@@ -589,7 +589,7 @@ What about an array of nothing? Will the code below be truthy or falsy?
 let score = [];
 ```
 
-![](@attachment/Clipboard_2020-03-12-19-18-25.png) 24:26
+![](../attachments/384.png) 24:26
 
 An array with no values is truthy. 
 
@@ -626,7 +626,7 @@ values.forEach(value => {
 console.groupEnd('');
 ```
 
-![](@attachment/Clipboard_2020-03-12-20-25-30.png) 27:41
+![](../attachments/386.png) 27:41
 
 Then within the `forEach` block we will add the following 👇
 
@@ -639,7 +639,7 @@ else {
 }
 ```
 
-![](@attachment/Clipboard_2020-03-12-20-26-56.png) 28:00
+![](../attachments/388.png) 28:00
 
 
 ---
@@ -700,7 +700,7 @@ Let's say you have a middle variable that is assigned an empty string, like so �
 const middle ="";
 ```
 
-![](@attachment/Clipboard_2020-03-13-09-27-49.png) 2:45
+![](../attachments/389.png) 2:45
 
 When you put 1 bang inmfront of it, it gave us the opposite which was true. 
 
@@ -745,11 +745,11 @@ const sentence = `You have ${count} ${word} in your cart`;
 console.log(sentence);
 ```
 
-![](@attachment/Clipboard_2020-03-13-09-34-29.png) 5:25 
+![](../attachments/390.png) 5:25 
 
 If you changes `count` to be 1, it would return the following sentence 👇
 
-![](@attachment/Clipboard_2020-03-13-09-35-10.png) 5:26
+![](../attachments/391.png) 5:26
 
 The if statement that you wrote above is a bit verbose.. you first have to declare an empty variable and then update it. What we can do, if it's a simple `if` `else` like in this example, you can turn it into a shorthand if statement with **ternary**. 
 
@@ -772,7 +772,7 @@ const sentence = `You have ${count} ${word} in your cart`;
 console.log(sentence);
 ```
 
-![](@attachment/Clipboard_2020-03-13-15-48-52.png) 6:55
+![](../attachments/392.png) 6:55
 
 You should see that it works. 
 
@@ -849,7 +849,7 @@ Now inside each function, add the code above 👆 with the corresponding functio
 
 What is cool about this is if you refresh the page and look in the console, you will see each one running in order 👇
 
-![](@attachment/Clipboard_2020-03-13-16-04-27.png) 11:10
+![](../attachments/393.png) 11:10
 
 Now if we put an else like so, and make one of the checks fail (modify one to return false) like so 👇
 
@@ -867,7 +867,7 @@ else {
 
 When you run in the browser you should see the following 👇
 
-![](@attachment/Clipboard_2020-03-13-16-06-38.png) 11:35
+![](../attachments/394.png) 11:35
 
 Did the third check never run? 
 
@@ -964,7 +964,7 @@ It's a bit big so add `width="200"` to the image element.
 
 You should see the following when you load the HTML page 👇
 
-![](@attachment/Clipboard_2020-03-28-18-30-16.png) 1:11
+![](../attachments/422.png) 1:11
 
 In this exercise, we want to make this turtle walk, and also flip around when you hit the arrow keys.
 
@@ -1056,7 +1056,7 @@ After the switch, log the values of x and y and refresh the HTML page.
 
 Open the console and hit some of the arrow keys. 
 
-![](@attachment/Clipboard_2020-03-30-20-43-56.png) 5:25
+![](../attachments/423.png) 5:25
 
 Oops! We made a mistake. 
 
@@ -1075,7 +1075,7 @@ Modify the switch statements and try again.
 
 Now when you hit the up, down, left, and right keys you should see the `x` and `y` variables changing in the console. 
 
-![](@attachment/Clipboard_2020-03-30-20-48-20.png) 5:38
+![](../attachments/424.png) 5:38
 
 Now you need to convey the `x` and `y` values to the turtle somehow. 
 
@@ -1097,7 +1097,7 @@ Grab the turtle class and add the following 👇
 
 In the dev tools, if you manipulate the values of `translateX` and `translateY`, you will see that the turtle moves. 
 
-![](@attachment/Clipboard_2020-03-30-20-51-22.png) 6:46
+![](../attachments/425.png) 6:46
 
 Now take those variables and put them into their own CSS variables like so 👇
 
@@ -1114,7 +1114,7 @@ Now take those variables and put them into their own CSS variables like so 👇
 
 Now if you modify the `x` or `y` variable values in the console, you will see that the turtle moves fine. 
 
-![](@attachment/Clipboard_2020-03-30-20-53-01.png) 7:21
+![](../attachments/426.png) 7:21
 
 Next we are going to update the `x` and `y` CSS variables with javascript. 
 
@@ -1126,7 +1126,7 @@ turtle.style.background = 'red';
 
 If you refresh the page and hit an arrow, you should see the following 👇
 
-![](@attachment/Clipboard_2020-03-30-20-55-34.png) 8:03
+![](../attachments/427.png) 8:03
 
 So if you want to apply a variable, you can't just do `turtle.style--x`. 
 
@@ -1234,7 +1234,7 @@ transform:  translateX(var(--x)) translateY(var(--y)) rotateY(var(--rotate));
 
 Now when you hit the left arrow, the turtle should look left like so 👇
 
-![](@attachment/Clipboard_2020-03-30-21-27-45.png) 14:43
+![](../attachments/428.png) 14:43
 
 We could also rotate the turtle up and down. 
 
@@ -1344,7 +1344,7 @@ What is going to happen when the code above runs? 👆 Are we going to log "star
 
 Let's refresh the HTML page and see. 
 
-![](@attachment/Clipboard_2020-03-31-18-20-36.png) 2:45
+![](../attachments/429.png) 2:45
 
 So what is happening there? 
 
@@ -1374,7 +1374,7 @@ To run `buzzer` every 100 milliseconds you would write the following 👇
 setInterval(buzzer, 100);
 ```
 
-![](@attachment/Clipboard_2020-03-31-18-30-38.png) 4:05
+![](../attachments/430.png) 4:05
 
 That will result in the interval running every 100 milliseconds.
 
@@ -1451,7 +1451,7 @@ Now we mentioned earlier that you might be a bit confused about where `funcToRun
 
 We have gone over this before but it's a big tripping point for people so we will go over it again. 
 
-![](@attachment/Clipboard_2020-04-01-18-49-14.png) 6:16
+![](../attachments/433.png) 6:16
 
 In this scenario, you made a function (`setImmediateInterval()`) which takes a parameter of another function.
 
@@ -1459,7 +1459,7 @@ If you have a function and one of the arguments you pass is a function, it works
 
 So in this instance, you just take the function that was passed in as an argument and you call it. 
 
-![](@attachment/Clipboard_2020-04-01-18-52-02.png) 6:44
+![](../attachments/434.png) 6:44
 
 In the line of code above, you are passing the function buzzer as an argument to `setImmediateInterval`. 
 
@@ -1475,7 +1475,7 @@ setImmediateInterval(sayHi, 200);
 
 If you refresh the HTML page and open the console, you will see something like this 👇
 
-![](@attachment/Clipboard_2020-04-01-18-55-27.png) 7:05
+![](../attachments/435.png) 7:05
 
 So in both examples, Wes is passing a function and whenever it's called, it gets transformed into the parameter called `funcToRun`. That gives us access to either run it, or pass it even one level further down into our `setInterval()`. 
 
@@ -1505,7 +1505,7 @@ setTimeout(destroy, 2000);
 
 If you refresh the page, you will see the text "DESTROYED" displayed after 2 seconds. 
 
-![](@attachment/Clipboard_2020-04-01-19-08-06.png) 8:38
+![](../attachments/436.png) 8:38
 
 Now that is obviously not that interesting, but you can imagine some scenario where something like this might happen like you have to hit the save button within an allotted period of time. 
 
@@ -1530,7 +1530,7 @@ const bombTimer = setTimeout(destroy, 5000);
 
 If you were to log `bombTimer`, what are you going to get? 
 
-![](@attachment/Clipboard_2020-04-01-19-14-22.png) 9:49
+![](../attachments/437.png) 9:49
 
 You will see 2 in the console. 
 
@@ -1546,7 +1546,7 @@ If you were to look at the `typeof` when logging our reference to `bombTimer` as
 console.log(typeof bombTimer);
 ```
 
-![](@attachment/Clipboard_2020-04-01-19-15-41.png) 10:07
+![](../attachments/438.png) 10:07
 
 But if you save reference to that timer number in a variable, you can later call `clearTimeout()` and pass it a reference to that timer and what that will do is it will stop the timer from running. 
 
@@ -1581,7 +1581,7 @@ setInterval(function() {
 
 If you refresh the HTML page and look at the console, you will see tons of logs. 
 
-![](@attachment/Clipboard_2020-04-01-19-22-05.png) 11:33
+![](../attachments/439.png) 11:33
 
 To clear that, you could save reference to it and then call `clearInterval()` and pass it the reference, like so 👇
 

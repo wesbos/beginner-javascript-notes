@@ -1,132 +1,132 @@
 ---
 attachments:
   [
-    Clipboard_2020-05-27-06-59-50.png,
-    Clipboard_2020-05-27-07-05-17.png,
-    Clipboard_2020-05-27-07-15-19.png,
-    Clipboard_2020-05-27-07-18-36.png,
-    Clipboard_2020-05-27-07-19-13.png,
-    Clipboard_2020-05-27-07-19-33.png,
-    Clipboard_2020-05-27-07-21-39.png,
-    Clipboard_2020-05-27-07-22-53.png,
-    Clipboard_2020-05-27-07-23-08.png,
-    Clipboard_2020-05-27-15-20-43.png,
-    Clipboard_2020-05-27-16-49-29.png,
-    Clipboard_2020-05-27-17-06-30.png,
-    Clipboard_2020-05-27-17-18-32.png,
-    Clipboard_2020-05-27-17-26-13.png,
-    Clipboard_2020-05-27-19-15-20.png,
-    Clipboard_2020-05-27-19-28-13.png,
-    Clipboard_2020-05-27-19-38-57.png,
-    Clipboard_2020-05-27-19-40-30.png,
-    Clipboard_2020-05-27-19-41-43.png,
-    Clipboard_2020-05-27-19-41-58.png,
-    Clipboard_2020-05-27-20-04-41.png,
-    Clipboard_2020-05-27-20-05-09.png,
-    Clipboard_2020-05-27-20-10-27.png,
-    Clipboard_2020-05-27-20-13-19.png,
-    Clipboard_2020-05-28-06-29-55.png,
-    Clipboard_2020-05-28-06-31-53.png,
-    Clipboard_2020-05-28-06-33-44.png,
-    Clipboard_2020-05-28-06-33-59.png,
-    Clipboard_2020-05-28-06-34-39.png,
-    Clipboard_2020-05-28-06-35-54.png,
-    Clipboard_2020-05-28-06-39-12.png,
-    Clipboard_2020-05-28-06-41-47.png,
-    Clipboard_2020-05-28-08-09-54.png,
-    Clipboard_2020-05-28-08-11-02.png,
-    Clipboard_2020-05-28-08-12-26.png,
-    Clipboard_2020-05-28-08-17-12.png,
-    Clipboard_2020-05-28-08-18-27.png,
-    Clipboard_2020-05-28-08-19-38.png,
-    Clipboard_2020-05-28-08-26-55.png,
-    Clipboard_2020-05-28-08-35-21.png,
-    Clipboard_2020-05-28-14-52-06.png,
-    Clipboard_2020-05-28-14-55-41.png,
-    Clipboard_2020-05-28-17-12-41.png,
-    Clipboard_2020-05-28-17-25-25.png,
-    Clipboard_2020-05-28-17-27-17.png,
-    Clipboard_2020-05-28-17-29-33.png,
-    Clipboard_2020-05-28-17-35-43.png,
-    Clipboard_2020-05-29-07-03-18.png,
-    Clipboard_2020-05-29-07-16-29.png,
-    Clipboard_2020-05-29-08-35-09.png,
-    Clipboard_2020-05-29-08-36-19.png,
-    Clipboard_2020-05-29-08-41-20.png,
-    Clipboard_2020-05-29-08-43-35.png,
-    Clipboard_2020-05-29-08-44-39.png,
-    Clipboard_2020-05-29-19-45-28.png,
-    Clipboard_2020-05-29-19-54-53.png,
-    Clipboard_2020-05-29-19-56-56.png,
-    Clipboard_2020-05-29-21-34-31.png,
-    Clipboard_2020-05-29-21-35-14.png,
-    Clipboard_2020-05-29-21-35-36.png,
-    Clipboard_2020-05-29-21-49-05.png,
-    Clipboard_2020-05-29-21-50-11.png,
-    Clipboard_2020-05-29-21-58-02.png,
-    Clipboard_2020-05-29-22-05-40.png,
-    Clipboard_2020-05-29-22-06-31.png,
-    Clipboard_2020-05-29-22-22-10.png,
-    Clipboard_2020-05-29-22-22-45.png,
-    Clipboard_2020-05-29-22-23-25.png,
-    Clipboard_2020-05-29-22-26-20.png,
-    Clipboard_2020-05-29-22-29-57.png,
-    Clipboard_2020-05-29-22-33-52.png,
-    Clipboard_2020-05-29-22-35-22.png,
-    Clipboard_2020-05-30-17-02-22.png,
-    Clipboard_2020-05-30-17-27-09.png,
-    Clipboard_2020-05-30-17-39-38.png,
-    Clipboard_2020-05-30-17-41-23.png,
-    Clipboard_2020-05-30-17-47-44.png,
-    Clipboard_2020-05-30-18-07-16.png,
-    Clipboard_2020-05-30-18-08-45.png,
-    Clipboard_2020-05-30-18-16-50.png,
-    Clipboard_2020-05-30-18-18-17.png,
-    Clipboard_2020-05-30-18-25-09.png,
-    Clipboard_2020-05-30-18-40-17.png,
-    Clipboard_2020-05-30-19-44-49.png,
-    Clipboard_2020-05-30-19-50-18.png,
-    Clipboard_2020-05-30-20-08-40.png,
-    Clipboard_2020-05-30-20-10-10.png,
-    Clipboard_2020-05-30-20-12-57.png,
-    Clipboard_2020-05-31-15-25-05.png,
-    Clipboard_2020-05-31-15-27-44.png,
-    Clipboard_2020-05-31-15-32-10.png,
-    Clipboard_2020-05-31-15-34-46.png,
-    Clipboard_2020-05-31-15-35-13.png,
-    Clipboard_2020-05-31-15-41-35.png,
-    Clipboard_2020-05-31-15-43-20.png,
-    Clipboard_2020-05-31-15-49-09.png,
-    Clipboard_2020-05-31-15-53-01.png,
-    Clipboard_2020-05-31-15-56-55.png,
-    Clipboard_2020-05-31-15-58-57.png,
-    Clipboard_2020-05-31-16-01-37.png,
-    Clipboard_2020-05-31-16-14-11.png,
-    Clipboard_2020-05-31-16-14-47.png,
-    Clipboard_2020-05-31-16-16-54.png,
-    Clipboard_2020-05-31-16-17-54.png,
-    Clipboard_2020-05-31-16-20-20.png,
-    Clipboard_2020-06-01-19-31-46.png,
-    Clipboard_2020-06-01-19-42-23.png,
-    Clipboard_2020-06-01-19-45-23.png,
-    Clipboard_2020-06-01-19-53-24.png,
-    Clipboard_2020-06-01-19-55-38.png,
-    Clipboard_2020-06-01-19-58-27.png,
-    Clipboard_2020-06-01-20-03-08.png,
-    Clipboard_2020-06-01-20-04-45.png,
-    Clipboard_2020-06-01-20-08-21.png,
-    Clipboard_2020-06-01-20-08-50.png,
-    Clipboard_2020-06-01-20-12-56.png,
-    Clipboard_2020-06-01-20-12-58.png,
-    Clipboard_2020-06-01-20-13-00.png,
-    Clipboard_2020-06-01-20-14-11.png,
-    Clipboard_2020-06-09-06-45-57.png,
-    Clipboard_2020-06-09-06-50-08.png,
-    Clipboard_2020-06-09-06-55-21.png,
-    Clipboard_2020-06-09-06-58-40.png,
-    Clipboard_2020-06-09-07-01-04.png,
-    Clipboard_2020-06-09-07-07-43.png,
-    Clipboard_2020-06-09-07-08-43.png,
+    1206.png,
+    1207.png,
+    1208.png,
+    1209.png,
+    1210.png,
+    1211.png,
+    1212.png,
+    1213.png,
+    1214.png,
+    1215.png,
+    1216.png,
+    1217.png,
+    1218.png,
+    1219.png,
+    1220.png,
+    1221.png,
+    1222.png,
+    1223.png,
+    1224.png,
+    1225.png,
+    1226.png,
+    1227.png,
+    1228.png,
+    1229.png,
+    1230.png,
+    1231.png,
+    1232.png,
+    1233.png,
+    1234.png,
+    1235.png,
+    1236.png,
+    1237.png,
+    1238.png,
+    1239.png,
+    1240.png,
+    1241.png,
+    1242.png,
+    1243.png,
+    1244.png,
+    1245.png,
+    1246.png,
+    1247.png,
+    1248.png,
+    1249.png,
+    1250.png,
+    1251.png,
+    1252.png,
+    1253.png,
+    1254.png,
+    1255.png,
+    1256.png,
+    1257.png,
+    1258.png,
+    1259.png,
+    1260.png,
+    1261.png,
+    1262.png,
+    1263.png,
+    1264.png,
+    1265.png,
+    1266.png,
+    1267.png,
+    1268.png,
+    1269.png,
+    1270.png,
+    1271.png,
+    1272.png,
+    1273.png,
+    1274.png,
+    1275.png,
+    1276.png,
+    1277.png,
+    1278.png,
+    1279.png,
+    1280.png,
+    1281.png,
+    1282.png,
+    1283.png,
+    1284.png,
+    1285.png,
+    1286.png,
+    1287.png,
+    1288.png,
+    1289.png,
+    1290.png,
+    1291.png,
+    1292.png,
+    1293.png,
+    1294.png,
+    1295.png,
+    1296.png,
+    1297.png,
+    1298.png,
+    1299.png,
+    1300.png,
+    1301.png,
+    1302.png,
+    1303.png,
+    1304.png,
+    1305.png,
+    1306.png,
+    1307.png,
+    1308.png,
+    1309.png,
+    1310.png,
+    1311.png,
+    1312.png,
+    1313.png,
+    1314.png,
+    1315.png,
+    1316.png,
+    1317.png,
+    1318.png,
+    1319.png,
+    1320.png,
+    1321.png,
+    1322.png,
+    1323.png,
+    1324.png,
+    1372.png,
+    1373.png,
+    1374.png,
+    1375.png,
+    1376.png,
+    1377.png,
+    1378.png,
   ]
 title: Module 14 - ES Modules and Structuring Larger Apps
 created: "2020-05-27T10:45:39.129Z"
@@ -205,7 +205,7 @@ Go into `index.html` and add the base HTML if it is not already there as well as
 
 When you do that, you should see an error that `returnHi` is not defined.
 
-![](./attachments/Clipboard_2020-05-27-06-59-50.png) 3:58
+![](./attachments/1206.png) 3:58
 
 That makes sense Because we have not yet put our `utils` on the page.
 
@@ -216,7 +216,7 @@ You might think we can just add another script source tag above the one we added
 <script src="./scripts.js"></script>
 ```
 
-![](@attachment/Clipboard_2020-05-27-07-05-17.png) 4:27
+![](../attachments/1207.png) 4:27
 
 As you can see, now it works. All we had to do is put one script in front of the other one that needed it in.
 
@@ -257,7 +257,7 @@ console.log("Its working...");
 
 If you refresh the HTML page and look at the console. you will should see a bunch of errors.
 
-![](@attachment/Clipboard_2020-05-27-07-15-19.png) 7:11
+![](../attachments/1208.png) 7:11
 
 This first one is the CORS issue again. It is giving us trouble because you cannot use modules unless you are running it on a server.
 
@@ -273,13 +273,13 @@ There are a couple of different ways to do this.
 
 If you go to extensions in VS code and search for "Live Server", you should see an extension that matches it and you can click install.
 
-![](@attachment/Clipboard_2020-05-27-07-18-36.png) 8:13
+![](../attachments/1209.png) 8:13
 
 If you go back to the modules and right click on the `index.html` and click open with Live server, and that will start it up in the browser.
 
-![](@attachment/Clipboard_2020-05-27-07-19-13.png) 8:26
+![](../attachments/1210.png) 8:26
 
-![](@attachment/Clipboard_2020-05-27-07-19-33.png) 8:34
+![](../attachments/1211.png) 8:34
 
 That will start up a localhost server. The url is `127.0.0.1:5550` which is the equivalent as localhost, it is just the IP address. You can replace it with localhost and it will work just the same `localhost:5550`.
 
@@ -289,15 +289,15 @@ Now if you open up the dev tools, you will see that it is working.
 
 Another way to get a server running is to open your terminal and run `npm install -g browser-sync`.
 
-![](@attachment/Clipboard_2020-05-27-07-21-39.png) 9:16
+![](../attachments/1212.png) 9:16
 
 In the terminal, cd into the `modules/playground` folder and run the command`browser-sync`, it should start up a server.
 
-![](@attachment/Clipboard_2020-05-27-07-22-53.png) 8:43
+![](../attachments/1213.png) 8:43
 
 If you open up the dev tools, you will see it is working but we get an error regarding `base.css`.
 
-![](@attachment/Clipboard_2020-05-27-07-23-08.png) 9:47
+![](../attachments/1214.png) 9:47
 
 That is because we are running the server within our `/modules` folder but the base CSS file is actually at a higher level and it can't go up higher than the root.
 
@@ -366,7 +366,7 @@ console.log("Its working....");
 
 Now when the page refreshes, you will see that it is working.
 
-![](@attachment/Clipboard_2020-05-27-15-20-43.png) 12:30
+![](../attachments/1215.png) 12:30
 
 To recap:
 
@@ -401,7 +401,7 @@ console.log(last);
 
 When the HTML refreshes, you will see we get an error "last is not defined". That is because `last` is in a different module.
 
-![](@attachment/Clipboard_2020-05-27-16-49-29.png) 13:38
+![](../attachments/1216.png) 13:38
 
 What if within the `returnHi` function in `utils.js` we use the `last` variable like so 👇
 
@@ -417,7 +417,7 @@ Let's find out.
 
 Within our `scripts.js` remove `console.log(last)`.
 
-![](@attachment/Clipboard_2020-05-27-17-06-30.png) 13:52
+![](../attachments/1217.png) 13:52
 
 As you can see, it is working.
 
@@ -446,7 +446,7 @@ import { returnHi, last } from './utils.js';
 
 At the bottom of `scripts.js` let's log `console.log(last)`.
 
-![](@attachment/Clipboard_2020-05-27-17-18-32.png) 15:07
+![](../attachments/1218.png) 15:07
 
 As you can see, that works!
 
@@ -492,7 +492,7 @@ console.log("Its working....");
 console.log(last, middle);
 ```
 
-![](@attachment/Clipboard_2020-05-27-17-26-13.png) 16:18
+![](../attachments/1219.png) 16:18
 
 Which type of export should you use? That is a personal preference so use what you prefer. Wes often uses a combination of both.
 
@@ -534,7 +534,7 @@ import wes from "./wes.js";
 
 Now let's log it `console.log(wes)`.
 
-![](@attachment/Clipboard_2020-05-27-19-15-20.png) 17:58
+![](../attachments/1220.png) 17:58
 
 Now we could have named that import anything we wanted.
 
@@ -576,7 +576,7 @@ console.log(westerhoff);
 console.log(first);
 ```
 
-![](@attachment/Clipboard_2020-05-27-19-28-13.png) 19:58
+![](../attachments/1221.png) 19:58
 
 To reiterate:
 
@@ -614,13 +614,13 @@ console.log("Its working...");
 console.log(last, middle);
 ```
 
-![](@attachment/Clipboard_2020-05-27-19-38-57.png) 20:39
+![](../attachments/1222.png) 20:39
 
 As you can see, when we log `sayHi`, you see that we have that function there as `returnHi`.
 
 Let's take a quick look at the docs. Google "mdn import".
 
-![](@attachment/Clipboard_2020-05-27-19-40-30.png) 20:51
+![](../attachments/1223.png) 20:51
 
 As you can see those are all the different types of imports.
 
@@ -634,7 +634,7 @@ import first, { returnHi as sayHi, last, middle } from "./utils";
 
 When you refresh the page, you will see we get an error.
 
-![](@attachment/Clipboard_2020-05-27-19-41-58.png) 21:06
+![](../attachments/1225.png) 21:06
 
 In a lot of bundlers, like Parcel, you can leave the end `.js` off, but that isn't part of the specs, so if you are using pure HTML-browser based loading, like we are, you must include it.
 
@@ -702,7 +702,7 @@ console.log("Its working...");
 console.log(last, middle);
 ```
 
-![](@attachment/Clipboard_2020-05-27-20-05-09.png) 23:05
+![](../attachments/1227.png) 23:05
 
 If you look at the console you will see that we get this thing that kinda looks like an object but its called a module.
 
@@ -713,7 +713,7 @@ Inside of it we have:
 - `eat`
 - `food`.
 
-![](@attachment/Clipboard_2020-05-27-20-10-27.png) 23:25
+![](../attachments/1228.png) 23:25
 
 That is useful when you want to import absolutely everything from a module.
 
@@ -723,7 +723,7 @@ Wes will refer to these docs often but 99% of the time he will just use the `ret
 
 They also have docs for export where you can see how to export different types of expressions and objects and things like that (we will be covering some in the examples we do).
 
-![](@attachment/Clipboard_2020-05-27-20-13-19.png) 24:16
+![](../attachments/1229.png) 24:16
 
 The last thing we want to do is called an `on-demand` import.
 
@@ -847,7 +847,7 @@ Then if he wants to know how something works, he needs to dig a bit further into
 
 If you refresh the HTML page and try clicking on the button, you will see the event logged.
 
-![](@attachment/Clipboard_2020-05-28-06-29-55.png) 28:47
+![](../attachments/1230.png) 28:47
 
 Now we can go to `handlers.js` and work on that function.
 
@@ -855,7 +855,7 @@ When the button is clicked, we want to get all the currencies. We could simply i
 
 If you do that, and refresh the page while the network tab is open, you will see all of the script modules that are being loaded.
 
-![](@attachment/Clipboard_2020-05-28-06-31-53.png) 29:39
+![](../attachments/1231.png) 29:39
 
 If you comment out that import statement and refresh the HTML page, you will see currencies is no longer in the network tab.
 
@@ -872,13 +872,13 @@ export async function handleButtonClick(event) {
 
 When the page refreshes, you will see that `currencies.js` is no longer loaded in the network tab until you click the button.
 
-![](@attachment/Clipboard_2020-05-28-06-33-44.png) 30:15
+![](../attachments/1232.png) 30:15
 
-![](@attachment/Clipboard_2020-05-28-06-33-59.png) 30:17
+![](../attachments/1233.png) 30:17
 
 That request was only made after we clicked the button. Now we have the module logged in the console.
 
-![](@attachment/Clipboard_2020-05-28-06-34-39.png) 30:30
+![](../attachments/1234.png) 30:30
 
 If we want to access the currencies we need to get the default. Let's refactor the import slightly to rename the variable.
 
@@ -891,7 +891,7 @@ export async function handleButtonClick(event) {
 
 When the page refreshes, you should see and have access to the currencies in the console.
 
-![](@attachment/Clipboard_2020-05-28-06-35-54.png) 30:53
+![](../attachments/1235.png) 30:53
 
 It does cache it, so if someone were to click the button again, the currencies would be loaded instantly instead of needing to be fetched again.
 
@@ -901,7 +901,7 @@ How would we also import that on demand?
 
 If you refresh the HTML page, you will see that we do have the `localCurrency` in the `module`.
 
-![](@attachment/Clipboard_2020-05-28-06-39-12.png) 31:37
+![](../attachments/1236.png) 31:37
 
 Let's destructure them into their own variables with curly brackets like so 👇
 
@@ -919,7 +919,7 @@ const { localCurrency, default: currency } = await import("./currencies.js");
 console.log(localCurrency, currency);
 ```
 
-![](@attachment/Clipboard_2020-05-28-06-41-47.png) 32:21
+![](../attachments/1237.png) 32:21
 
 When destructuring a property like `default` that is not allowed to be named `default`, we can use destructuring renaming syntax that looks like this: `default: currency`.
 
@@ -1199,7 +1199,7 @@ Let's start by going through them one by one and deciding whether or not to move
 
 Open up `index.html` in a VSCode live server and look to see if we have any errors in the console.
 
-![](@attachment/Clipboard_2020-05-28-08-09-54.png) 4:07
+![](../attachments/1238.png) 4:07
 
 It is complaining that `generateOptions` is not defined. Let's import it.
 
@@ -1209,7 +1209,7 @@ import { generateOptions } from "./utils.js";
 
 Next we get an error saying `currencies` is not defined.
 
-![](@attachment/Clipboard_2020-05-28-08-11-02.png) 4:25
+![](../attachments/1239.png) 4:25
 
 Import `currencies` so we can pass it to `generateOptions`.
 
@@ -1220,7 +1220,7 @@ import { currencies } from "./currencies.js";
 
 WHen the page refreshes, we have yet another error. It is complaining that it cannot find an export named `currencies`.
 
-![](@attachment/Clipboard_2020-05-28-08-12-26.png) 4:43
+![](../attachments/1240.png) 4:43
 
 That is because it is a default export, not a named export, so it doesn't need the curly brackets.
 
@@ -1232,13 +1232,13 @@ import currencies from './currencies.js';
 
 Now the console is complaining that `handleInput` is not defined.
 
-![](@attachment/Clipboard_2020-05-28-08-17-12.png) 4:59
+![](../attachments/1241.png) 4:59
 
 Let's fix that by adding `import { handleInput } from './handlers';`
 
 Finally there are no more errors in the console, until you try to type an amount into the input. When you try this you will see a reference error in the console complaining that `convert` is not defined, and it is happening in `handlers.js` on line 2.
 
-![](@attachment/Clipboard_2020-05-28-08-18-27.png) 5:25
+![](../attachments/1242.png) 5:25
 
 To fix that, import the `convert` function into `handlers`.
 
@@ -1254,7 +1254,7 @@ export sync function handleInput(e) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-28-08-26-55.png) 5:55
+![](../attachments/1244.png) 5:55
 
 Now we get another error that `fromInput` is not defined. Within `handleInput` use the `fromInput`, `fromSelect`, `toSelect` and `toEl` variables.
 
@@ -1276,7 +1276,7 @@ export const toSelect = document.querySelector('[name="to_currency"]');
 export const toEl = document.querySelector(".to_amount");
 ```
 
-![](@attachment/Clipboard_2020-05-28-08-35-21.png) 6:53
+![](../attachments/1245.png) 6:53
 
 What people will often do is instead of using `document.querySelector` for all of those, they will grab a parent element like the div with a class of `app` in the example above, and then look for the selectors inside of there.
 
@@ -1286,7 +1286,7 @@ The way we are doing it is fine for now.
 
 If you refresh the page, we have an error `fromSelect` is not defined.
 
-![](@attachment/Clipboard_2020-05-28-14-52-06.png) 7:11
+![](../attachments/1246.png) 7:11
 
 Let's first go into `handlers` and import those elements.
 
@@ -1307,7 +1307,7 @@ export async function handleInput(e) {
 
 Let's tackle the `fromSelect` is not defined issue happening in `money.js` on line 11.
 
-![](@attachment/Clipboard_2020-05-28-14-55-41.png) 7:44
+![](../attachments/1247.png) 7:44
 
 As you can see, `fromSelect` and `toSelect` are also needed from `money.js` on page load. Let's go ahead and import them.
 
@@ -1332,7 +1332,7 @@ form.addEventListener("input", handleInput);
 
 When the page is now refreshed, we are getting an error that ratesByBase is not defined.
 
-![](@attachment/Clipboard_2020-05-28-17-12-41.png) 8:07
+![](../attachments/1248.png) 8:07
 
 Our `endpoint` and `ratesByBase` variables need to go in our `lib.js` file.
 
@@ -1441,7 +1441,7 @@ init();
 
 If you refresh the page now, you will see the following error complaining that `generateOptions` is not defined.
 
-![](@attachment/Clipboard_2020-05-28-17-25-25.png) 11:42
+![](../attachments/1249.png) 11:42
 
 We need to go to `lib.js` and import `generateOptions`.
 
@@ -1452,7 +1452,7 @@ import { generateOptions } from "./utils.js";
 
 Now if we refresh it is complaining about `currencies` not being defined.
 
-![](@attachment/Clipboard_2020-05-28-17-27-17.png) 12:17
+![](../attachments/1250.png) 12:17
 
 What we can do is go to `money.js` and take all our import statements except for the `init` import and move them to `lib.js`.
 
@@ -1465,7 +1465,7 @@ import { handleInput } from "./handlers.js";
 
 Wes' ESLint is complaining about the `handleInput` import. The error says "Dependency cycle detected".
 
-![](@attachment/Clipboard_2020-05-28-17-29-33.png) 12:39
+![](../attachments/1251.png) 12:39
 
 If you look at our `handlers.js`, we are importing `convert` from there from `lib`. So both files require each other. That could cause you to end up with a situation where they require each other and it gets out of control.
 
@@ -1523,7 +1523,7 @@ app.addEventListener("mouseenter", init, { once: true });
 
 When the page loads, it should just say "Select a Currency" until you hover over the form, and then the code initializes and the base currency is switched out to USD.
 
-![](@attachment/Clipboard_2020-05-28-17-35-43.png) 14:26
+![](../attachments/1252.png) 14:26
 
 Now our entry point has almost nothing in it because it is in a separate file.
 
@@ -1628,7 +1628,7 @@ Within that new folder, create a file `index.js` which will contain all of the l
 
 Copy and cut the `fetchJoke` function into the `index.js` file.
 
-![](@attachment/Clipboard_2020-05-29-07-03-18.png) 3:31
+![](../attachments/1253.png) 3:31
 
 Once you do that, you may notice that in your VSCode that the loader variable within `fetchJokes` is underlined as red. VSCode is complaining because the function requires the loader, but we have not passed it a reference to the loader in this file. Due to modules have their own scope, we are no longer able to reference the `loader` variable from the `jokes.js` module.
 
@@ -1734,7 +1734,7 @@ Wes approaches it either by going through the errors in the console, or by ESLin
 
 If you open the console, the first error you should see in the console is a reference error warning that `handleClick` is not defined.
 
-![](@attachment/Clipboard_2020-05-29-07-16-29.png)
+![](../attachments/1254.png)
 
 Earlier we moved `handleClick` into our `handlers.js` module. Now if we need to access the function in another file, we must first import it, like so 👇
 
@@ -1752,9 +1752,9 @@ jokeButton.addEventListener("click", handleClick);
 
 When the page refreshes now, the console is not showing any errors but if you click the button, you should see an error logged complaining that `fetchJoke` is not defined.
 
-![](@attachment/Clipboard_2020-05-29-08-35-09.png) 7:19
+![](../attachments/1255.png) 7:19
 
-![](@attachment/Clipboard_2020-05-29-08-36-19.png) 7:27
+![](../attachments/1256.png) 7:27
 
 As you can see above, the `fetchJoke` function is used within `handleClick`. How do we make it available within `handleClick`?
 
@@ -1792,7 +1792,7 @@ async function handleClick() {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-29-08-41-20.png) 8:54
+![](../attachments/1257.png) 8:54
 
 The next error is complaining that loader is not defined within `handlers.js`.
 
@@ -1812,7 +1812,7 @@ const loader = document.querySelector(".loader");
 jokeButton.addEventListener("click", () => handleClick(loader));
 ```
 
-![](@attachment/Clipboard_2020-05-29-08-43-35.png) 9:32
+![](../attachments/1258.png) 9:32
 
 However, the console is still complaining that it loader.
 
@@ -1832,7 +1832,7 @@ async function handleClick(loader) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-29-08-44-39.png) 9:43
+![](../attachments/1259.png) 9:43
 
 The loader is showing up now!
 
@@ -1850,7 +1850,7 @@ jokeButton.addEventListener("click", function () {
 
 Sometimes you have to pass things around like we are with the `loader`. We selected it in `jokes.js`, passed it to `handleClick`, and then from `handleClick` we passed it to `fetchJoke`. We could have also selected it right inside of `handleClick` as well, it is up to you to choose an approach.
 
-![](@attachment/Clipboard_2020-05-29-19-45-28.png) 10:46
+![](../attachments/1260.png) 10:46
 
 Now that the loader is showing up, let's move onto the next error.
 
@@ -1906,7 +1906,7 @@ export async function handleClick() {
 
 Now when you press the button, it will fetch a joke and display it but we get another error in the console.
 
-![](@attachment/Clipboard_2020-05-29-19-54-53.png) 12:31
+![](../attachments/1261.png) 12:31
 
 Now it's complaining that `randomItemFromArray` is not defined in `handlers.js`. Import it from `utils.js`. 👇
 
@@ -1928,7 +1928,7 @@ export async function handleClick() {
 
 When the page refreshes, if you try it again, you will see another error ,this time about `buttonText` not being defined. Import `buttonText` 👇
 
-![](@attachment/Clipboard_2020-05-29-19-56-56.png) 12:53
+![](../attachments/1262.png) 12:53
 
 ```js
 // handlers.js
@@ -1988,17 +1988,17 @@ We talked about **Babel** earlier, which will transpile newer javascript code an
 
 There are a bunch of different bundlers out there, and generally a bundler will include both a bundler and a dev server. In this course, whenever we used the command `parcel start`, that was to start the dev server that is part of the Parcel bundlers.
 
-![](@attachment/Clipboard_2020-05-29-21-34-31.png) 2:20
+![](../attachments/1263.png) 2:20
 
 Parcel is a popular bundler.
 
 There is a new one called Pika which is newer.
 
-![](@attachment/Clipboard_2020-05-29-21-35-14.png) 2:28
+![](../attachments/1264.png) 2:28
 
 Webpack is the most popular one at the moment, but hard to get up and running in Wes' opinion.
 
-![](@attachment/Clipboard_2020-05-29-21-35-36.png) 2:32
+![](../attachments/1265.png) 2:32
 
 Both Parcel and Webpack also do image compression which is neat.
 
@@ -2022,11 +2022,11 @@ A `package.json` is a file that contains information about your dependencies, wh
 
 If you don't have a package.json, you can get one by typing `npm init`. We have done this a few times in the course already.
 
-![](@attachment/Clipboard_2020-05-29-21-49-05.png) 4:18
+![](../attachments/1266.png) 4:18
 
 You will be prompted to answer a bunch of questions, starting with the name of the package, which we will call `dadjokes`, and then it asks you a bunch of other questions. You can just hit enter to select the default answer for each question.
 
-![](@attachment/Clipboard_2020-05-29-21-50-11.png) 4:37
+![](../attachments/1267.png) 4:37
 
 ```json
 {
@@ -2089,7 +2089,7 @@ After a couple of minutes it will finish installing and it will be listed under 
 }
 ```
 
-![](@attachment/Clipboard_2020-05-29-21-58-02.png) 5:54
+![](../attachments/1268.png) 5:54
 
 _(Note: if you see Parcel 2 as your Parcel version that is fine, it will still work!)_
 
@@ -2121,11 +2121,11 @@ To run parcel, you just call it and then pass it the entry file which is `index.
 
 Now in the terminal, you can type `npm start` and that will run `parcel index.html` for us. You should see a message in the terminal that Parcel is running on localhost:1234.
 
-![](@attachment/Clipboard_2020-05-29-22-05-40.png) 7:06
+![](../attachments/1269.png) 7:06
 
 Open up the server, and take a look at the error in the console. We have run into this issue before.
 
-![](@attachment/Clipboard_2020-05-29-22-06-31.png) 7:12
+![](../attachments/1270.png) 7:12
 
 ```js
 handlers.js:7 Uncaught ReferenceError: regeneratorRuntime is not defined
@@ -2202,19 +2202,19 @@ npm run build
 
 As Parcel is working you will see the terminal updating and then when it is finished you should see a message similar to the one below 👇
 
-![](@attachment/Clipboard_2020-05-29-22-22-10.png) 9:36
+![](../attachments/1271.png) 9:36
 
 What Parcel has does is it created a `dist` folder for us. If you look at that folder, there will be a lot of files.
 
-![](@attachment/Clipboard_2020-05-29-22-22-45.png) 9:45
+![](../attachments/1272.png) 9:45
 
 If you open up the `index.html` file, you will see that Parcel has taken the file and compressed it as much as it can.
 
-![](@attachment/Clipboard_2020-05-29-22-23-25.png) 9:50
+![](../attachments/1273.png) 9:50
 
 It also swapped out the `jokes.js` file for us.
 
-![](@attachment/Clipboard_2020-05-29-22-26-20.png) 10:31
+![](../attachments/1274.png) 10:31
 
 In the `dist` folder we also have all these different javascript files, which is our code.
 
@@ -2226,7 +2226,7 @@ For example, if there is an error that occurs in the Javascript code, the bundle
 
 Parcel will also compile all of the CSS for us.
 
-![](@attachment/Clipboard_2020-05-29-22-29-57.png) 12:09
+![](../attachments/1275.png) 12:09
 
 ```HTML
 <script src="jokes.js" type="module"></script>
@@ -2242,11 +2242,11 @@ You want to run the Parcel build every time you change your application.
 
 If you were to rerun `npm run build`, you will notice that the numbers in the files stay the same.
 
-![](@attachment/Clipboard_2020-05-29-22-33-52.png) 13:05
+![](../attachments/1276.png) 13:05
 
 If we were to change some of our files, like adding a `console.log('hey')` at the bottom of `jokes.js`, and rerun the build, you will see that the numbers in the `jokes` javascript file have changed.
 
-![](@attachment/Clipboard_2020-05-29-22-35-22.png) 13:27
+![](../attachments/1277.png) 13:27
 
 Parcel is able to detect when your files have changed and it will only rerun the build on those files. The random keys that you see in the file name is usd to bust ay caches that your users might have of previous builds.
 
@@ -2278,7 +2278,7 @@ Cd into that folder in the terminal, and then run `npm init`. Name the package `
 
 At this stage, the directory should be created and there should be a `package.json` file.
 
-![](@attachment/Clipboard_2020-05-30-17-02-22.png) 1:17
+![](../attachments/1278.png) 1:17
 
 Let's go ahead and install a couple, so we can begin working with them.
 
@@ -2294,7 +2294,7 @@ The `-D` in the command is a shortcut for `--save-dev` which will save the packa
 
 When you install node modules, you will see that a folder called `node-modules` is generated and inside of that folder there is always going to be hundreds if not hundreds of thousands of files in there. Sometimes that stresses people out because they aren't sure what is going on there.
 
-![](@attachment/node-modules.gif)
+![](../attachments/node-modules.gif)
 
 As you can see, although we only installed one module so far, 44 different files have been generated in that directory.
 
@@ -2328,7 +2328,7 @@ npm i faker date-fns await-to-js lodash axios
 
 Those are all regular dependencies so there is no need to add `--save-dev` on the end.
 
-![](@attachment/Clipboard_2020-05-30-17-27-09.png) 4:05
+![](../attachments/1279.png) 4:05
 
 If you look at the `package.json` file, you will see all our dependencies.
 
@@ -2383,7 +2383,7 @@ Modify the `packages.json` file to include a start command, and a browserslist p
 
 However if you run `npm start` and open the page, you will see this error.
 
-![](@attachment/Clipboard_2020-05-30-17-39-38.png) 5:20
+![](../attachments/1280.png) 5:20
 
 That issue is caused by the link to the CSS being incorrect. It has to go up one more level.
 
@@ -2391,7 +2391,7 @@ Modify the link on our HTML page like so: `<link rel="stylesheet" href="../../ba
 
 In the video, Wes ran into an issue when he refreshed the page at this stage.
 
-![](@attachment/Clipboard_2020-05-30-17-41-23.png) 5:38
+![](../attachments/1281.png) 5:38
 
 Sometimes Parcel will act strange or funky, in which case you just need to open up the project directory and delete the `dist` and `.cache` folders and then rerun `npm start`. A lot of the times, that will fix the issue. When Wes did that, it fixed the issue.
 
@@ -2403,7 +2403,7 @@ Next we will go through some different packages that are useful, starting within
 
 https://www.npmjs.com/package/waait
 
-![](@attachment/Clipboard_2020-05-30-17-47-44.png) 6:30
+![](../attachments/1282.png) 6:30
 
 This is the package that Wes told us about previously and we have coded ourselves a couple of times already. Now we can install it as a package!
 
@@ -2452,7 +2452,7 @@ That is why Wes made this package, because he uses it quite a bit.
 
 Next we will look at `faker`.
 
-![](@attachment/Clipboard_2020-05-30-18-07-16.png) 8:11
+![](../attachments/1283.png) 8:11
 
 Faker is a package which generates massive amounts of fake data in the browser and node.js.
 
@@ -2460,7 +2460,7 @@ It is pretty simple to use.
 
 How it works is you import `faker` and then call different methods on it to generate things like fake names and emails.
 
-![](@attachment/Clipboard_2020-05-30-18-08-45.png) 8:24
+![](../attachments/1284.png) 8:24
 
 That is useful for siutations like when you are writing tests and you want to fill those tests with a bunch of fake data.
 
@@ -2502,7 +2502,7 @@ async function go() {
 go();
 ```
 
-![](@attachment/Clipboard_2020-05-30-18-16-50.png) 9:50
+![](../attachments/1285.png) 9:50
 
 As you can see above, faker has all these methods we can use.
 
@@ -2516,7 +2516,7 @@ import faker from "faker";
 console.log(`Hello ${faker.name.firstName()}`);
 ```
 
-![](@attachment/Clipboard_2020-05-30-18-18-17.png) 10:35
+![](../attachments/1286.png) 10:35
 
 Every time you refresh the page, you should see a different first name logged in the console because the code will give you a fake name each time.
 
@@ -2555,7 +2555,7 @@ const fakeNames = Array.from(
 );
 ```
 
-![](@attachment/Clipboard_2020-05-30-18-25-09.png) 12:46
+![](../attachments/1287.png) 12:46
 
 You should see something similar to the screenshot above 👆in your console.
 
@@ -2569,13 +2569,13 @@ Some packages you have to go to npm to look at the docs, but some bigger package
 
 In the browser, go to https://date-fns.org.
 
-![](@attachment/Clipboard_2020-05-30-18-40-17.png) 13:17
+![](../attachments/1288.png) 13:17
 
 `date-fns` has all these different methods that makes working and formatting dates much nicer.
 
 Let's say we want to what the difference is between two dates. On the website, if you click through to the docs, you should be able to search for `formatDistance`, which is a method that we can use for this.
 
-![](@attachment/Clipboard_2020-05-30-19-44-49.png) 13:57
+![](../attachments/1289.png) 13:57
 
 In `index.js` let's import `formatDistance`.
 
@@ -2586,7 +2586,7 @@ import { formatDistance } from "date-fns";
 
 If you have ever heard of people using `moment.js`, this is the same thing, it is just a little more chunked up. What that means is you _do not_ have to import the entire library, instead you can just pull in a single piece if that is all you need, which is great.
 
-![](@attachment/Clipboard_2020-05-30-19-50-18.png) 14:39
+![](../attachments/1290.png) 14:39
 
 In the docs, they provide an example of how it should be used.
 
@@ -2602,7 +2602,7 @@ cost diff = formatDistance(
 console.log(diff);
 ```
 
-![](@attachment/Clipboard_2020-05-30-20-08-40.png) 15:04
+![](../attachments/1291.png) 15:04
 
 When you refresh the page, you should see "in about 1 hour" logged in the console.
 
@@ -2618,7 +2618,7 @@ console.log(diff);
 
 That returns 4 months.
 
-![](@attachment/Clipboard_2020-05-30-20-10-10.png) 15:24
+![](../attachments/1292.png) 15:24
 
 Often times when working with code, you will need to format a date in a specific way.
 
@@ -2633,7 +2633,7 @@ const date = new Date();
 
 How do we format the current date so that the month is the full spelling, then the date has "th" or "st" on it, and then the year with be the number value of the year like "2020"?
 
-![](@attachment/Clipboard_2020-05-30-20-12-57.png) 16:31
+![](../attachments/1293.png) 16:31
 
 We will use the `format` method, so go ahead and import that.
 
@@ -2644,11 +2644,11 @@ import { formatDistance, format } from "date-fns";
 
 The `format` method takes in a date, a format and some options.
 
-![](@attachment/Clipboard_2020-05-31-15-25-05.png) 16:43
+![](../attachments/1294.png) 16:43
 
 Use the format function within `index.js`. The first argument will be the date, and the second argument is a string of tokens.
 
-![](@attachment/Clipboard_2020-05-31-15-27-44.png) 17:14
+![](../attachments/1295.png) 17:14
 
 For the month we want the month name to be in full. We can use `LLLL` for that.
 
@@ -2663,7 +2663,7 @@ Next, we want the word "the". To get that, we need to put it in single quotes wi
 const formatted = format(date, `LLLL 'the'`);
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-32-10.png) 18:06
+![](../attachments/1296.png) 18:06
 
 The day of the month is next, and we want the "th" such at "12th" or "1st". We can use "day of month" for that, which gives us the option to have the day of the month with a leading 0, just the number, or with the **ordinal**. ("st" and "th" are referred to as ordinals).
 
@@ -2673,7 +2673,7 @@ We will use `do` which gives us the day of the month with the ordinal, like so �
 const formatted = format(date, `LLLL 'the' do`);
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-34-46.png) 19:02
+![](../attachments/1297.png) 19:02
 
 Finally we need the calendar year, for which we can use `y`.
 
@@ -2681,7 +2681,7 @@ Finally we need the calendar year, for which we can use `y`.
 const formatted = format(date, `LLLL 'the' do y`);
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-35-13.png) 19:06
+![](../attachments/1298.png) 19:06
 
 As you can see, we are able to format any date in this way. That is current not doable in regular javascript at the moment.
 
@@ -2707,7 +2707,7 @@ async function getJoke() {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-41-35.png) 21:37
+![](../attachments/1299.png) 21:37
 
 The second argument for axios is headers, which we can use to specify that we want to accept JSON, so go ahead and modify the coded like so to do that and also run the function on page load. 👇
 
@@ -2724,7 +2724,7 @@ async function getJoke() {
 getJoke();
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-43-20.png) 22:12
+![](../attachments/1300.png) 22:12
 
 As you can see we get the data back, as well as the headers and the entire request.
 
@@ -2763,7 +2763,7 @@ To do that we would import it.
 import { intersection } from "lodash";
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-49-09.png) 24:00
+![](../attachments/1301.png) 24:00
 
 You will notice that all the examples for lodash use `_.`
 
@@ -2784,7 +2784,7 @@ const sameValues = intersection(a, b);
 console.log(sameValues);
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-53-01.png) 25:10
+![](../attachments/1302.png) 25:10
 
 As you can see, that returns to us an array containing the values that exist in both.
 
@@ -2802,7 +2802,7 @@ const person2 = { name: "wes" };
 console.log(person1 === person2);
 ```
 
-![](@attachment/Clipboard_2020-05-31-15-56-55.png) 26:09
+![](../attachments/1303.png) 26:09
 
 It will return false. Why is that?
 
@@ -2816,7 +2816,7 @@ import { intersection, isEqual } from "lodash";
 
 Within the file, add the following code 👉 `console.log(isEqual(person1, person2))`.
 
-![](@attachment/Clipboard_2020-05-31-15-58-57.png) 27:13
+![](../attachments/1304.png) 27:13
 
 As you can see, it returns true because the `isEqual` method performs a check on all of the values.
 
@@ -2826,7 +2826,7 @@ What Wes recommends is to take an hour or two and go through and read about what
 
 The last one is await-to-js.
 
-![](@attachment/Clipboard_2020-05-31-16-01-37.png) 29:25
+![](../attachments/1305.png) 29:25
 
 This library allows you to handle errors a bit differently. Start by importing it.
 
@@ -2861,7 +2861,7 @@ async function checkName() {
 checkName();
 ```
 
-![](@attachment/Clipboard_2020-05-31-16-14-11.png) 31:46
+![](../attachments/1306.png) 31:46
 
 If you refresh the page, you will see that it says "Cool name".
 
@@ -2876,7 +2876,7 @@ async function checkName() {
 checkName();
 ```
 
-![](@attachment/Clipboard_2020-05-31-16-14-47.png) 31:58
+![](../attachments/1307.png) 31:58
 
 We get an error. How would we catch that?
 
@@ -2891,13 +2891,13 @@ async function checkName() {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-31-16-16-54.png) 32:37
+![](../attachments/1308.png) 32:37
 
 As you can see, we get 2 things back: the error and undefined.
 
 What if we switched it back to "wes" instead of snickers?
 
-![](@attachment/Clipboard_2020-05-31-16-17-54.png) 32:46
+![](../attachments/1309.png) 32:46
 
 Then the first thing is null, and the second thing is cool name.
 
@@ -2915,7 +2915,7 @@ if (err) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-31-16-20-20.png) 33:35
+![](../attachments/1310.png) 33:35
 
 This way if you want to deal with the error right up front, before you keep going in the function, all you need to do is wrap it in a `to` function and that will return an array.
 
@@ -2975,7 +2975,7 @@ Anywhere that you are using `.innerHTML` or using `insertAdjacentHTML`, or reall
 
 #### FarceBook
 
-![](@attachment/farcebook.gif)
+![](../attachments/farcebook.gif)
 
 In this really simple example Wes has made, FarceBook, there is a field where the user is allowed to type and when it's typed, we are automatically dumping that into the profile on the right hand side.
 
@@ -2985,7 +2985,7 @@ You may want to allow people to put images tags, to be able to use strong, empha
 
 We could do something like add a style tag and make the background red. Then we can tilt the entire page.
 
-![](@attachment/Clipboard_2020-06-01-19-42-23.png) 6:51
+![](../attachments/1312.png) 6:51
 
 That is not something you would want someone doing that and that is probably the least of your worries, someone goofing like that.
 
@@ -2995,7 +2995,7 @@ Anytime a user is able to run Javascript on your page, then you are in trouble.
 
 Let's try it by adding a script tag and seeing what happens.
 
-![](@attachment/Clipboard_2020-06-01-19-45-23.png) 7:43
+![](../attachments/1313.png) 7:43
 
 As you can see, even though we added a script tag with an alert, there is no alert popping up. That is because script tags will not run.
 
@@ -3003,11 +3003,11 @@ As you can see, even though we added a script tag with an alert, there is no ale
 
 But what you can do is take an image tag and hijack the onload event of the image tag and then within it we can add any javascript we want.
 
-![](@attachment/Clipboard_2020-06-01-19-53-24.png) 8:06
+![](../attachments/1314.png) 8:06
 
 If Facebook allowed that, then you would be able to run code on anyone who is viewing your Facebook profile. That is not secure.
 
-![](@attachment/Clipboard_2020-06-01-19-55-38.png) 8:27
+![](../attachments/1315.png) 8:27
 
 It is **_not good_** to have someone else run Javascript on your page because then they become a puppet of your own account and they can do things like click buttons as if they are you, or grab your messages and send fetch requests back to their own server.
 
@@ -3017,7 +3017,7 @@ Let's say you set the source of the image tag to be an image that doesn't exist.
 
 Using the onerror attribute, we can trigger an alert like so 👇
 
-![](@attachment/Clipboard_2020-06-01-19-58-27.png) 9:25
+![](../attachments/1316.png) 9:25
 
 That is how people do **cross site scripting**.
 
@@ -3031,13 +3031,13 @@ So how can you **sanitize** user data?
 
 Luckily there is a very easy library to use called **DOMPurify**.
 
-![](@attachment/Clipboard_2020-06-01-20-03-08.png) 11:11
+![](../attachments/1317.png) 11:11
 
 It works by taking in a string and scrubbing it of all the security issues for us.
 
 Wes has already npm installed DOMPurify, and at the top of the file he has imported the `sanitize` method from DOMPurify.
 
-![](@attachment/Clipboard_2020-06-01-20-04-45.png) 11:29
+![](../attachments/1318.png) 11:29
 
 All we need to do to fix the code is modify the input event listener function to use the sanitize method.
 
@@ -3052,13 +3052,13 @@ In the code above, we are simply replacing line breaks with a `<br>` tag so the 
 
 If you try adding an alert in the onload attribute of the image tag again, nothing will happen this time.
 
-![](@attachment/Clipboard_2020-06-01-20-08-50.png) 12:17
+![](../attachments/1320.png) 12:17
 
 Why is that?
 
 Open the dev tools and look at the code in the elements tab. You will see that the onload and onerror attributes have been stripped out, as well as all the other inline event handlers on image tags.
 
-![](@attachment/Clipboard_2020-06-01-20-08-21.png) 12:17
+![](../attachments/1319.png) 12:17
 
 If yu tried to add a style tag, it would still work however.
 
@@ -3066,7 +3066,7 @@ Why is that? That is because the style tag, if you look at it in the console is 
 
 To fix that, we need to pass `options` to DOMPurify. The default simply strip the nasty JavaScript stuff out of there but there are lots of options you can use.
 
-![](@attachment/Clipboard_2020-06-01-20-13-00.png) 13:10
+![](../attachments/1323.png) 13:10
 
 The options Wes usually chooses are `FORBID_TAGS` and `FORBID_ATTR`.
 
@@ -3084,7 +3084,7 @@ input.addEventListener("input", () => {
 
 Now if you try to use the style tag, you will see that it has been completely removed.
 
-![](@attachment/Clipboard_2020-06-01-20-14-11.png) 14:12
+![](../attachments/1324.png) 14:12
 
 That the basics of security.
 

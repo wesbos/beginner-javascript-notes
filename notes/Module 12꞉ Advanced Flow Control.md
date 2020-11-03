@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-05-07-19-46-46.png, Clipboard_2020-05-07-20-30-57.png, Clipboard_2020-05-08-06-15-54.png, Clipboard_2020-05-08-06-19-08.png, Clipboard_2020-05-08-06-21-56.png, Clipboard_2020-05-08-06-21-58.png, Clipboard_2020-05-08-06-25-50.png, Clipboard_2020-05-08-06-26-29.png, Clipboard_2020-05-08-06-26-44.png, Clipboard_2020-05-08-06-28-04.png, Clipboard_2020-05-08-06-29-13.png, Clipboard_2020-05-08-06-29-54.png, Clipboard_2020-05-08-06-30-45.png, Clipboard_2020-05-08-06-31-37.png, Clipboard_2020-05-08-06-37-41.png, Clipboard_2020-05-08-06-38-21.png, Clipboard_2020-05-08-06-39-09.png, Clipboard_2020-05-08-06-39-23.png, Clipboard_2020-05-08-06-40-00.png, Clipboard_2020-05-08-06-43-54.png, Clipboard_2020-05-08-06-55-27.png, Clipboard_2020-05-08-06-59-35.png, Clipboard_2020-05-08-20-01-54.png, Clipboard_2020-05-08-20-05-09.png, Clipboard_2020-05-08-20-09-15.png, Clipboard_2020-05-08-20-11-45.png, Clipboard_2020-05-08-20-16-18.png, Clipboard_2020-05-11-07-07-09.png, Clipboard_2020-05-11-07-11-39.png, Clipboard_2020-05-11-07-14-47.png, Clipboard_2020-05-11-07-19-32.png, Clipboard_2020-05-11-07-20-48.png, Clipboard_2020-05-11-07-21-16.png, Clipboard_2020-05-11-07-27-24.png, Clipboard_2020-05-12-06-45-31.png, Clipboard_2020-05-12-06-50-19.png, Clipboard_2020-05-12-06-50-58.png, Clipboard_2020-05-13-18-25-48.png, Clipboard_2020-05-13-18-36-33.png, Clipboard_2020-05-13-18-42-40.png, Clipboard_2020-05-13-18-48-06.png, Clipboard_2020-05-13-18-53-48.png, Clipboard_2020-05-13-18-53-52.png, Clipboard_2020-05-13-18-53-54.png, Clipboard_2020-05-14-07-53-01.png, Clipboard_2020-05-14-07-55-32.png, Clipboard_2020-05-14-08-05-54.png, Clipboard_2020-05-14-08-07-15.png, Clipboard_2020-05-14-08-08-07.png, Clipboard_2020-05-14-08-09-12.png, Clipboard_2020-05-14-08-13-58.png, Clipboard_2020-05-14-08-15-32.png, Clipboard_2020-05-14-08-17-26.png, Clipboard_2020-05-16-16-02-08.png, Clipboard_2020-05-16-16-12-34.png, Clipboard_2020-05-16-16-13-20.png, Clipboard_2020-05-16-16-26-37.png, Clipboard_2020-05-17-13-49-04.png, Clipboard_2020-05-18-09-04-34.png, Clipboard_2020-05-18-09-09-01.png, Clipboard_2020-05-18-09-18-33.png, Clipboard_2020-05-18-09-21-11.png, Clipboard_2020-05-18-09-36-05.png, Clipboard_2020-05-18-09-42-46.png, Clipboard_2020-05-18-09-43-37.png, Clipboard_2020-05-18-09-48-26.png, Clipboard_2020-05-18-09-49-13.png, Clipboard_2020-05-18-09-50-19.png, Clipboard_2020-05-18-09-50-59.png, Clipboard_2020-05-18-12-49-32.png, Clipboard_2020-05-18-12-55-28.png, Clipboard_2020-05-18-12-56-11.png, Clipboard_2020-05-18-12-57-59.png, Clipboard_2020-05-18-13-03-56.png, Clipboard_2020-05-18-13-06-46.png, Clipboard_2020-05-18-13-08-38.png, Clipboard_2020-05-18-13-11-09.png, Clipboard_2020-05-18-13-13-50.png, Clipboard_2020-05-18-13-14-40.png, Clipboard_2020-05-18-13-17-58.png, Clipboard_2020-05-18-13-18-31.png, Clipboard_2020-05-18-13-29-12.png, Clipboard_2020-05-18-13-29-49.png, Clipboard_2020-05-19-06-09-20.png, Clipboard_2020-05-19-06-40-35.png, Clipboard_2020-05-19-06-46-29.png, Clipboard_2020-05-19-06-51-52.png, Clipboard_2020-05-19-06-57-27.png, Clipboard_2020-05-19-18-25-20.png, Clipboard_2020-05-19-18-36-46.png, Clipboard_2020-05-19-18-45-50.png, Clipboard_2020-05-19-18-48-33.png, Clipboard_2020-05-19-18-49-38.png, Clipboard_2020-05-19-18-50-04.png, Clipboard_2020-05-19-18-50-20.png, Clipboard_2020-05-19-18-51-26.png, Clipboard_2020-05-19-18-58-55.png, Clipboard_2020-05-19-19-06-17.png, Clipboard_2020-05-19-19-07-16.png, Clipboard_2020-05-19-19-09-16.png, Clipboard_2020-05-19-19-10-05.png, Clipboard_2020-05-19-19-13-05.png, Clipboard_2020-05-19-19-14-13.png, Clipboard_2020-05-19-19-15-34.png, Clipboard_2020-05-19-20-26-06.png, Clipboard_2020-05-19-20-29-12.png, Clipboard_2020-05-19-20-38-38.png, Clipboard_2020-05-19-20-39-26.png, Clipboard_2020-05-19-20-41-28.png, Clipboard_2020-05-19-23-42-23.png, Clipboard_2020-05-19-23-48-08.png, Clipboard_2020-05-19-23-51-57.png, Clipboard_2020-05-19-23-54-00.png, Clipboard_2020-05-19-23-57-28.png, Clipboard_2020-05-20-00-00-29.png, Clipboard_2020-05-20-00-04-48.png, Clipboard_2020-05-20-06-45-58.png, Clipboard_2020-05-20-06-53-09.png, Clipboard_2020-05-20-18-36-53.png, Clipboard_2020-05-20-18-43-10.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
+attachments: [993.png, 994.png, 995.png, 996.png, 997.png, 998.png, 999.png, 1000.png, 1001.png, 1002.png, 1003.png, 1004.png, 1005.png, 1006.png, 1007.png, 1008.png, 1009.png, 1010.png, 1011.png, 1012.png, 1013.png, 1014.png, 1015.png, 1016.png, 1017.png, 1018.png, 1019.png, 1020.png, 1021.png, 1022.png, 1023.png, 1024.png, 1025.png, 1026.png, 1027.png, 1028.png, 1029.png, 1030.png, 1031.png, 1032.png, 1033.png, 1034.png, 1035.png, 1036.png, 1037.png, 1038.png, 1039.png, 1040.png, 1041.png, 1042.png, 1043.png, 1044.png, 1045.png, 1046.png, 1047.png, 1048.png, 1049.png, 1050.png, 1051.png, 1052.png, 1053.png, 1054.png, 1055.png, 1056.png, 1057.png, 1058.png, 1059.png, 1060.png, 1061.png, 1062.png, 1063.png, 1064.png, 1065.png, 1066.png, 1067.png, 1068.png, 1069.png, 1070.png, 1071.png, 1072.png, 1073.png, 1074.png, 1075.png, 1076.png, 1077.png, 1078.png, 1079.png, 1080.png, 1081.png, 1082.png, 1083.png, 1084.png, 1085.png, 1086.png, 1087.png, 1088.png, 1089.png, 1090.png, 1091.png, 1092.png, 1093.png, 1094.png, 1095.png, 1096.png, 1097.png, 1098.png, 1099.png, 1100.png, 1101.png, 1102.png, 1103.png, 1104.png, 1105.png, 1106.png, 1107.png, 1108.png, 1109.png, 1110.png, 1111.png, 1112.png, loop-animation.gif, loupe-0-timer.gif, loupe-gif.gif, loupe-interval.gif, loupe-multi.gif, submit.gif, typer.gif]
 title: 'Module 12: Advanced Flow Control'
 created: '2020-05-07T23:18:40.737Z'
 modified: '2020-09-18T12:49:24.831Z'
@@ -28,7 +28,7 @@ console.log('Starting');
 console.log('ending');
 ```
 
-![](@attachment/Clipboard_2020-05-07-19-46-46.png) 00:58
+![](../attachments/993.png) 00:58
 
 No one is surprised by that.
 
@@ -46,7 +46,7 @@ Now if you refresh the page, what will you see?
 
 You might expect to see starting, running, ending, but instead we get Starting, ending, and then running. 
 
-![](@attachment/Clipboard_2020-05-07-20-30-57.png) 1:20
+![](../attachments/994.png) 1:20
 
 Why is that not in the order that we coded it in? Shouldn't the timeout cause the code to pause for two seconds, log running and then log ending?
 
@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 Philip Roberts also built this cool little tool called _loupe_ which will help us visualize the callstack.
 
-![](@attachment/Clipboard_2020-05-08-06-15-54.png) 3:23 
+![](../attachments/995.png) 3:23 
 
 We have already looked at the callstack in Javascript and we have seen when you click something, it gives you a trail of what functions were called up to then. 
 
@@ -76,7 +76,7 @@ However we know that the call stack can only ever run one function at a time.
 
 So what happens in a scenario like our example where you have two logs between a `setTTimeout`? 
 
-![](@attachment/Clipboard_2020-05-08-06-19-08.png) 3:48
+![](../attachments/996.png) 3:48
 
 Javascript is asynchronous. 
 What that means is that Javascript won't stop running that code, instead if will put it off in what we call the web API, and when that comes back after two seconds, it is going to stick it in the **callback queue**. 
@@ -89,27 +89,27 @@ _Note: at the time Wes is recording the video, the tool is a bit outdated and do
 
 _(Wes is going to modify his timeout to 7 seconds instead of 4 so he can talk to us. Feel free to choose a shorter one for your example)_
 
-![](@attachment/Clipboard_2020-05-08-06-21-58.png) 4:34
+![](../attachments/998.png) 4:34
 
 Once you have done that click save and run. 
 
-![](@attachment/loupe-gif.gif)
+![](../attachments/loupe-gif.gif)
 
 The first thing that it runs our log. 
 
-![](@attachment/Clipboard_2020-05-08-06-29-13.png) 4:51
+![](../attachments/1003.png) 4:51
 
 Next it runs our time out function. 
 
-![](@attachment/Clipboard_2020-05-08-06-29-54.png) 4:53
+![](../attachments/1004.png) 4:53
 
 It sees that there is a callback so it puts that in our Web Apis. 
 
-![](@attachment/Clipboard_2020-05-08-06-30-45.png) 4:54
+![](../attachments/1005.png) 4:54
 
 When the callback is done waiting, it will stick it into the callback queue. 
 
-![](@attachment/Clipboard_2020-05-08-06-31-37.png) 5:00
+![](../attachments/1006.png) 5:00
 
 If the call stack has nothing else to do at the time, it will reach into the queue and grab the next thing.
 
@@ -119,26 +119,26 @@ When something happens in the Web Api (like the click of a button or a timer tha
 
 Let's say after the `setTimeout` we wanted to add an interval that logs BOOP every 100 milliseconds. Name the function `boop` so we can visualize it more easily. 
 
-![](@attachment/Clipboard_2020-05-08-06-37-41.png) 6:07
+![](../attachments/1007.png) 6:07
 
 The first log and `setTimeout` behave just like they did before. When it gets to `setInterval`, we already have a callback for `setTimeout` in the web apis.
 
-![](@attachment/Clipboard_2020-05-08-06-38-21.png) 6:12
+![](../attachments/1008.png) 6:12
 
 Then it logs "ending". 
 
-![](@attachment/Clipboard_2020-05-08-06-39-09.png) 6:12
+![](../attachments/1009.png) 6:12
 
 Next ,`setInterval` runs. 
 
-![](@attachment/Clipboard_2020-05-08-06-39-23.png) 6:13
+![](../attachments/1010.png) 6:13
 
 Now every second you can see that it keeps going back to the `boop` function. 
 
-![](@attachment/Clipboard_2020-05-08-06-40-00.png) 6:18
+![](../attachments/1011.png) 6:18
 
 
-![](@attachment/loupe-gif.gif) 6:26
+![](../attachments/loupe-gif.gif) 6:26
 
 One thing Wes wants to show us is that even if the `setTimeout` duration was set to 0, you would still get the logs returned in the order of "Starting, Ending, Running". 
 
@@ -154,13 +154,13 @@ If you refresh the page and look at the console, you will see that we still get 
 >ending
 >Running
 
-![](@attachment/Clipboard_2020-05-08-06-43-54.png) 6:40
+![](../attachments/1012.png) 6:40
 
 Even though the timeout happens after 0 seconds, what happens is Javascript runs the first line, then runs the `setTimeout` and queues up the callback to happen after 0 seconds, then it runs the next line and even though the timeout is 0 seconds, it still adds it to the web api which in turn adds it to the callback queue. Because the browser was already busy with the log, it runs the callback after. 
 
 Let's demo that in loupe. 
 
-![](@attachment/loupe-0-timer.gif) 
+![](../attachments/loupe-0-timer.gif) 
 
 It logs, runs `setTimeout`, puts running in the web api which puts it in the call back queue, and then when the "ending" log is finished executing, Javascript grabs from the callback queue and runs it. 
 
@@ -174,16 +174,16 @@ The example is in jQuery but it's the same idea.
 
 When you click a button, we set a timer for 2 seconds that says you clicked me, then it logs "hi" then another timer is set for 5 seconds, and then it logs welcome to loupe.
 
-![](@attachment/Clipboard_2020-05-08-06-55-27.png) 8:55
+![](../attachments/1013.png) 8:55
 
-![](@attachment/loupe-0-timer.gif)  
+![](../attachments/loupe-0-timer.gif)  
 
 How that works is first the click listener goes on the call stack and gets put into the web apis, then the event listener is added. The hi is run and logged, and after that the timer also gets put in the web apis, and then it logs welcome to loupe. 
 Once the timer is finished, it will get moved to the callback queue. 
 
 Now every time we click the button, it sticks an event handler in the queue and you can see the callstack is reaching in and grabbing the next callback to handle itself. 
 
-![](@attachment/Clipboard_2020-05-08-06-59-35.png) 9:10
+![](../attachments/1014.png) 9:10
 
 So how do we deal with a scenario in Javascript where we do actually want to wait for something?
 
@@ -221,7 +221,7 @@ go.addEventListener('click', function(e){
 })
 ```
 
-![](@attachment/Clipboard_2020-05-08-20-01-54.png) 12:02
+![](../attachments/1015.png) 12:02
 
 As you can see, we have the div.  
 
@@ -238,7 +238,7 @@ Let's add some default styling there. Add style tag on the page with some stylin
 
 Now when you refresh the page, your button should look like this: 
 
-![](@attachment/Clipboard_2020-05-08-20-05-09.png) 12:43
+![](../attachments/1016.png) 12:43
 
 Next we have to make it a circle after two seconds. We can do that by adding a `setTimeout`. 
 
@@ -260,7 +260,7 @@ Now back in the style tag, let's add a border radius of 50% for the class circle
 }
 ```
 
-![](@attachment/Clipboard_2020-05-08-20-09-15.png)
+![](../attachments/1017.png)
 
 If you refresh the page you will see that the div style changes to a circle after 2 seconds. 
 
@@ -272,7 +272,7 @@ el.textContent = 'GO!';
 
 Let's put a height on the go CSS style class as well so that it is square. 
 
-![](@attachment/Clipboard_2020-05-08-20-11-45.png) 13:38
+![](../attachments/1018.png) 13:38
 
 We can add a transition on there too.
 
@@ -315,7 +315,7 @@ Let's add the follow css styles to the css class red and to purple.
 }
 ```
 
-![](@attachment/Clipboard_2020-05-08-20-16-18.png) 14:31
+![](../attachments/1019.png) 14:31
 
 Now after 0.25 seconds we need to make it a square. 
 
@@ -386,7 +386,7 @@ Add this style now 👇
 }
 ```
 
-![](@attachment/loop-animation.gif) 16:44
+![](../attachments/loop-animation.gif) 16:44
 
 That was a really simple animation, but look if you look at the code the way it is now, that is what is referred to as **callback hell**.
 
@@ -473,7 +473,7 @@ console.log(pizza);
 
 Now if we refresh the page, what do you think we will get in the console? Will we get the pizza or something else, like a promise?
 
-![](@attachment/Clipboard_2020-05-11-07-07-09.png) 4:39
+![](../attachments/1020.png) 4:39
 
 If you refresh the page, you should see the promise. 
 
@@ -496,7 +496,7 @@ const canadianPromise = makePizza(['pepperoni', 'mushroom', 'onions'])
 console.log(pepperoniPromise, canadianPromise);
 ```
 
-![](@attachment/Clipboard_2020-05-11-07-11-39.png) 6:09
+![](../attachments/1021.png) 6:09
 
 As you can see, we get our 2 promises. But how do we get the actual pizza itself? 
 
@@ -515,7 +515,7 @@ pepperoniPromise.then(function(pizza){
 
 Now when you refresh the page you should see the logs below. 
 
-![](@attachment/Clipboard_2020-05-11-07-14-47.png) 7:00
+![](../attachments/1022.png) 7:00
 
 At this stage, you might be wondering "why are you doing it like this Wes? this seems like a much harder way to just return data".
 
@@ -544,7 +544,7 @@ pepperoniPromise.then(function(pizza){
 
 If you refresh the page, you will see in the console that we get our promise immediately and then a second after we actually have access to our pizza. 
 
-![](@attachment/Clipboard_2020-05-11-07-19-32.png) 7:59 
+![](../attachments/1023.png) 7:59 
 
 That is a great example of how we sometimes have to wait.
 
@@ -562,7 +562,7 @@ function makePizza(toppings){
 }
 ```
 
-![](@attachment/Clipboard_2020-05-11-07-20-48.png) 8:27
+![](../attachments/1024.png) 8:27
 
 The logic to how a Promise gets resolved is always inside of the Promise body, which in the example is the code below 
 
@@ -576,7 +576,7 @@ function(resolve, reject){
   }
 ```
 
-![](@attachment/Clipboard_2020-05-11-07-21-16.png) 8:36
+![](../attachments/1025.png) 8:36
 
 That function will resolve or reject whenever it feels ready. In our case, we feel like the pizza is ready after one second.
 
@@ -593,7 +593,7 @@ console.log('finishing');
 
 When you refresh the page you will see that we get "Starting" then "finishing" then the "I got it" message. 
 
-![](@attachment/Clipboard_2020-05-11-07-27-24.png) 9:21
+![](../attachments/1026.png) 9:21
 
 We will look at how we can use `async/await` to actually do that sequentially if we would like to, but for now we know we can chain a `.then()` onto it.
 
@@ -622,7 +622,7 @@ makePizza(['pepperoni', 'ham']).then(function(pizza){
 
 As you can see first we get one pizza and then after a second we see the other pizza logged to the console. 
 
-![](@attachment/Clipboard_2020-05-12-06-45-31.png) 11:03
+![](../attachments/1027.png) 11:03
 
 You can chain as many as you want. 
 
@@ -665,13 +665,13 @@ makePizza(['pepperoni', 'ham'])
 console.log('Right after');
 ```
 
-![](@attachment/Clipboard_2020-05-12-06-50-19.png) 12:26
+![](../attachments/1028.png) 12:26
 
 We will look at how we can use async/await to get around that. 
 
 If you look at the call stack, what we know is that it first runs the function `makePizza(['pepperoni'])` (highlighted in the image below), which immediately returns a promise. 
 
-![](@attachment/Clipboard_2020-05-12-06-50-58.png) 12:34
+![](../attachments/1029.png) 12:34
 
 Then it runs the bottom log, before jumping back up to the first `then()` we have when the promise is resolved, and then it keeps going down the promise chain. 
 
@@ -705,7 +705,7 @@ function makePizza(toppings = []){
 }
 ```
 
-![](@attachment/Clipboard_2020-05-13-18-25-48.png) 13:35
+![](../attachments/1030.png) 13:35
 
 When we refresh the page and the above code is executed, what should happen is ham and cheese should be logged to the console faster than the pizza with 3 toppings. 
 
@@ -752,7 +752,7 @@ If you have 10 employees and an oven big enough to cook them all at once, you ca
 
 So how do we know when all of those promises are done? We could do `.then()` on each of them like so 👇
 
-![](@attachment/Clipboard_2020-05-13-18-36-33.png) 16:36
+![](../attachments/1031.png) 16:36
 
 But those are going to pop into the console in whatever order they are done, which isn't what we want. We can instead make it into a "mega promise" that we then wait upon. 
 
@@ -776,7 +776,7 @@ dinnerPromise.then(pizzas => {
 
 Now we wait for all 3 to be finished, and we get an array of all 3 of them. 
 
-![](@attachment/Clipboard_2020-05-13-18-42-40.png) 17:58
+![](../attachments/1032.png) 17:58
 
 If you wanted the first pizza it would be `pizza[0]`. 
 
@@ -794,7 +794,7 @@ dinnerPromise.then(function (pizzas) {
   console.log(hottie, garbagePail, hamAndCheese);
 }); 
 ```
-![](@attachment/Clipboard_2020-05-13-18-48-06.png) 18:58
+![](../attachments/1033.png) 18:58
 
 You do not have to destructure those variables in the body of the function, you can destructure the argument directly with square brackets.
 
@@ -831,7 +831,7 @@ firstPizzaPromise.then(pizza => {
 
 TO reiterate, `Promise.race()` will wait for the first one to finish rendering. 
 
-![](@attachment/Clipboard_2020-05-13-18-53-52.png) 20:46
+![](../attachments/1035.png) 20:46
 
 There are also a couple of other ones which we will get into when we talk about error handling. 
 
@@ -869,7 +869,7 @@ makePizza(['cheese','pineapple']).then(pizza=>{
 })
 ```
 
-![](@attachment/Clipboard_2020-05-14-07-53-01.png) 1:55
+![](../attachments/1037.png) 1:55
 
 What does that log "Uncaught (in promise)" mean? 
 
@@ -890,7 +890,7 @@ makePizza(['cheese','pineapple']).then(pizza=>{
 
 As you see, we no longer get an error logged because we caught and logged the error ourselves.
 
-![](@attachment/Clipboard_2020-05-14-07-55-32.png) 2:24
+![](../attachments/1038.png) 2:24
 
 `.then()` will only run when the promise resolves successfully, and the catch will only run if the promise doesn't go successfully.
 
@@ -919,11 +919,11 @@ It's important to note that not every single promise needs a catch on the end.
 
 Go back to our pizzas where we chained a bunch of promises together and modify the pizza with no toppings to instead pass the topping of "pineapple", 
 
-![](@attachment/Clipboard_2020-05-14-08-07-15.png) 3:59
+![](../attachments/1040.png) 3:59
 
 What happens there is we go through the chain of promises and then as soon as we hit the code where we try to make a pizza with a pineapple we get the "uncaught in promise" error. 
 
-![](@attachment/Clipboard_2020-05-14-08-08-07.png) 4:06
+![](../attachments/1041.png) 4:06
 
 So how do we catch the error? 
 
@@ -932,7 +932,7 @@ Thankfully, the answer is no.
 
 You just need to put one catch at the very end that will be able to handle our error. 
 
-![](@attachment/Clipboard_2020-05-14-08-09-12.png) 4:31
+![](../attachments/1042.png) 4:31
 
 The thing about an error happening in a promise chain is that where the error happens, it will then bail out of executing the rest of the promise chain. 
 
@@ -965,7 +965,7 @@ dinnerPromise2.then(results=> {
 })
 ```
 
-![](@attachment/Clipboard_2020-05-14-08-13-58.png) 6:17
+![](../attachments/1043.png) 6:17
 
 As you can see in our results we can see that the first one was **fulfilled** and the second one was **rejected**. 
 Fulfilled is another word they use for resolved.
@@ -976,7 +976,7 @@ If we tried that example but with `Promise.all()` like so, you will see that the
 const dinnerPromise2 = Promise.all([p1, p2]);
 ```
 
-![](@attachment/Clipboard_2020-05-14-08-15-32.png) 6:39
+![](../attachments/1044.png) 6:39
 
 That is because `Promise.all` assumes that all of them will go successfully. 
 
@@ -986,7 +986,7 @@ If you want to catch any errors that happen in `Promise.all()` you would have to
 const dinnerPromise2 = Promise.all([p1, p2]).catch(handleError);
 ```
 
-![](@attachment/Clipboard_2020-05-14-08-17-26.png) 7:02
+![](../attachments/1045.png) 7:02
 
 That is probably not what you want because if one of them breaks, you might still want the other one, because those other pizzas are still good. 
 
@@ -1002,7 +1002,7 @@ Let's go back and refactor the last exercise we did to use promises instead of c
 
 In this lesson we will go back to the event loop example, where we added the classes of `circle`, `purple` and `fadeout`, and we will refactor it to use promises instead.
 
-![](@attachment/Clipboard_2020-05-16-16-02-08.png) 00:13
+![](../attachments/1046.png) 00:13
 
 We will be coming back to this example one more time and refactor it after we learn `async/await`.
 
@@ -1028,7 +1028,7 @@ wait(200).then(()=>{
 
 Now if you refresh the page, after 2 seconds you should see "done" logged to the console.
 
-![](@attachment/Clipboard_2020-05-16-16-13-20.png) 2:03
+![](../attachments/1048.png) 2:03
 
 That is such a common thing that Wes actually has an npm package called **Waait** which gets around 75k downloads per week and all it does is return a promise that resolves after a certain number of milliseconds that have been passed in. 
 
@@ -1085,7 +1085,7 @@ function animate(e){
 
 Now after 2 milliseconds, the GO square will turn into a circle. If you refresh the page, you will see it still works.
 
-![](@attachment/Clipboard_2020-05-16-16-26-37.png) 6:11
+![](../attachments/1049.png) 6:11
 
 Now how do we make it red after 0.5 seconds? 
 We cannot just call it after the wait function because that will cause it to go red before it goes to circle.
@@ -1218,7 +1218,7 @@ go();
 
 Now we know if we run `go` on page load, we will get "starting" and "ending" immediately. 
 
-![](@attachment/Clipboard_2020-05-17-13-49-04.png) 2:32
+![](../attachments/1050.png) 2:32
 
 What async await allows us to do is put the keyword `await` in front of a promise based function and it will sort of temporarily pause that function from running until that promise is resolved. 
 
@@ -1233,7 +1233,7 @@ go();
 
 If you modify the code as shown above and then refresh the page, you will see an error in the console.
 
-![](@attachment/Clipboard_2020-05-18-09-04-34.png) 2:52
+![](../attachments/1051.png) 2:52
 
 >Uncaught SyntaxError: await is only valid in async function
 
@@ -1265,7 +1265,7 @@ async function go(){
 }
 ```
 
-![](@attachment/Clipboard_2020-05-18-09-09-01.png) 3:51
+![](../attachments/1052.png) 3:51
 
 We are now able to just stick these calls to our `wait` function wherever we want within our `go` function and the execution of that function will temporarily pause until the promise has been resolved.
 
@@ -1342,7 +1342,7 @@ We get an error in the console.
 
 >Uncaught SyntaxError: await is only valid in async function
 
-![](@attachment/Clipboard_2020-05-18-09-18-33.png) 6:24
+![](../attachments/1053.png) 6:24
 
 You can however copy and paste the call to the wait function and call it directly from devtools console. 
 
@@ -1352,7 +1352,7 @@ Go to our `promises.html` file that we have and let's grab the `makePizza` funct
 
 Both of those functions return a promise.  
 
-![](@attachment/Clipboard_2020-05-18-09-21-11.png) 7:48
+![](../attachments/1054.png) 7:48
 
 Go to the bottom of the script tag and make another async function `makeDinner`. 
 
@@ -1368,7 +1368,7 @@ makeDinner();
 
 If you comment out the `go` function and the code where we call `go` and instead just run the code we added right above, you will see that we get a promise logged to the console. 
 
-![](@attachment/Clipboard_2020-05-18-09-36-05.png) 8:43
+![](../attachments/1055.png) 8:43
 
 That is because we are running the function and storing it in a variable, which will store the promise in the variable. Note that we call it "await" instead of "wait" because it is asynchronously waiting. Meaning it won't actually pause all of javascript, it's not going to block the rest of the javascript from running. 
 
@@ -1382,7 +1382,7 @@ async function makeDinner(){
 makeDinner();
 ```
 
-![](@attachment/Clipboard_2020-05-18-09-42-46.png) 9:44
+![](../attachments/1056.png) 9:44
 
 Similarly we can do that with pizza2 as well. 
 
@@ -1396,7 +1396,7 @@ async function makeDinner(){
 makeDinner();
 ```
 
-![](@attachment/Clipboard_2020-05-18-09-43-37.png) 9:58
+![](../attachments/1057.png) 9:58
 
 Now let's say we want to wait for both of those to be done because the way it is coded right now could be possibly inefficient. 
 
@@ -1417,7 +1417,7 @@ async function makeDinner(){
 
 If you do it like above, we will still only get the big promise. 
 
-![](@attachment/Clipboard_2020-05-18-09-48-26.png) 11:18
+![](../attachments/1058.png) 11:18
 
 We need to modify the code to await the mamma promise like so 👇
 
@@ -1425,7 +1425,7 @@ We need to modify the code to await the mamma promise like so 👇
 const pizzas = await Promise.all([pizzaPromise1, pizzaPromise2]);
 ```
 
-![](@attachment/Clipboard_2020-05-18-09-49-13.png) 11:29
+![](../attachments/1059.png) 11:29
 
 Now we get the actual pizzas instead of just the promises. Go ahead and destructure the two pizzas that are returned.
 
@@ -1434,11 +1434,11 @@ const [pep, mush] = await Promise.all([pizzaPromise1, pizzaPromise2]);
 console.log(pep, mush);
 ```
 
-![](@attachment/Clipboard_2020-05-18-09-50-19.png) 11:46
+![](../attachments/1060.png) 11:46
 
 What we want to do now is go back to the code that we wrote early on with our promise chain and rewrite it one more time into async await. 
 
-![](@attachment/Clipboard_2020-05-18-09-50-59.png) 12:15
+![](../attachments/1061.png) 12:15
 
 Take the entire animate function and copy it and rename it to `animate2`. 
 
@@ -1566,7 +1566,7 @@ go();
 
 If you refresh the page, you will see we get an error. 
 
-![](@attachment/Clipboard_2020-05-18-12-49-32.png) 1:32
+![](../attachments/1062.png) 1:32
 
 If you try to log `pizza` within the `go` function, we don't get anything, we do not even get the error logged. 
 
@@ -1592,7 +1592,7 @@ async function go(){
 
 Now if you refresh the page, you should see the following..
 
-![](@attachment/Clipboard_2020-05-18-12-56-11.png) 2:56
+![](../attachments/1064.png) 2:56
 
 What happened is any code inside of the try block is in the safe zone. It won't break the entire application if some of the code within the try errors out. Instead, it will just fail over to the `.catch()`. 
 
@@ -1600,7 +1600,7 @@ That works with anything, not just async await.
 
 If we tried calling a function that doesn't exist such as `window.doesNotExist()`, you will see we still get the errors for that. 
 
-![](@attachment/Clipboard_2020-05-18-12-57-59.png) 3:28
+![](../attachments/1065.png) 3:28
 
 One downside to this is the syntax messes up the beautiful async await syntax because you have to wrap everything inside of the try and catch. 
 
@@ -1636,7 +1636,7 @@ async function go(){
 
 Now when it runs, it will give us "oh nooo. Seriously? get out" and then logs undefined.
 
-![](@attachment/Clipboard_2020-05-18-13-03-56.png) 4:52
+![](../attachments/1066.png) 4:52
 
 We are sort of mix and matching to get the best of both worlds. We are using await to get the data from the promise instead of using the `.then()`. But we are still using the other syntax which is adding a `.catch()` onto the end of the function. 
 
@@ -1662,7 +1662,7 @@ async function go(){
 go.catch(handleEror);
 ```
 
-![](@attachment/Clipboard_2020-05-18-13-06-46.png) 5:45 
+![](../attachments/1067.png) 5:45 
 
 When you refresh the page you will see that the exact same thing just happened. 
 
@@ -1696,7 +1696,7 @@ console.log(result);
 
 What will the result be? Will we get the pizza? Will we get nothing? 
 
-![](@attachment/Clipboard_2020-05-18-13-11-09.png) 6:43
+![](../attachments/1069.png) 6:43
 
 We get a promise! Whaaaaat?! 
 
@@ -1713,13 +1713,13 @@ go().then(result => {
 }).catch(handleError);
 ```
 
-![](@attachment/Clipboard_2020-05-18-13-13-50.png) 7:35
+![](../attachments/1070.png) 7:35
 
 In that example it went straight to catch. 
 
 But if instead we were making a pepperoni pizza and modified the topping to be pepperoni instead of pineapple, then we would actually get access to the pepperoni pizza. 
 
-![](@attachment/Clipboard_2020-05-18-13-14-40.png) 7:42
+![](../attachments/1071.png) 7:42
 
 Asynchronous functions will always return a promise themselves, which means we can use the `.catch()` or the `.then()` syntax on the `async` functions if we want. 
 
@@ -1745,7 +1745,7 @@ goGo();
 
 If you refresh the page and run that, you will get an error. 
 
-![](@attachment/Clipboard_2020-05-18-13-17-58.png) 8:56
+![](../attachments/1072.png) 8:56
 
 How would you then handle that? 
 
@@ -1753,7 +1753,7 @@ How would you then handle that?
 goGo().catch(handleError);
 ```
 
-![](@attachment/Clipboard_2020-05-18-13-18-31.png) 9:09
+![](../attachments/1073.png) 9:09
 
 As you can seem by chaining a `.catch()` onto it, we handle the error. 
 
@@ -1810,11 +1810,11 @@ safeGo();
 ```
 
 That is because `makeSafe` takes in a function, and then returns a new function that is just your original function with a `.catch()` tacked onto the end of it.  
-![](@attachment/Clipboard_2020-05-18-13-29-12.png) 12:28
+![](../attachments/1074.png) 12:28
 
 Now we have the function `safeGo` now that we can just call it without worrying about anything.
 
-![](@attachment/Clipboard_2020-05-18-13-29-49.png) 12:41
+![](../attachments/1075.png) 12:41
 
 That works just fine.
 
@@ -1836,7 +1836,7 @@ In this lesson we will be working more with promises and async await to build a 
 
 A pretty common thing to do in Javascript is when someone clicks a button or something happens on the page, you want to pop up a little box, ask them for something, and then go ahead and get that data back and display it on the page somehow. 
 
-![](@attachment/Clipboard_2020-05-19-06-09-20.png) 00:17
+![](../attachments/1076.png) 00:17
 
 There is a prompt that is built into the browser, but the problem with that prompt if you can only have one input box. 
 
@@ -1995,7 +1995,7 @@ Call `ask` directly from the console, and pass in an options object as an argume
 ask({title:'does this work'});
 ```
 
-![](@attachment/Clipboard_2020-05-19-06-40-35.png) 7:15
+![](../attachments/1077.png) 7:15
 
 As you can see, we have the form, with a fieldset and label containing the title so we know that it works so far.
 
@@ -2022,7 +2022,7 @@ Let's do that last step first.
 document.body.appendChild(popup);
 ```
 
-![](@attachment/Clipboard_2020-05-19-06-46-29.png) 9:25
+![](../attachments/1078.png) 9:25
 
 Let's get that popup showing up so we have a visual. 
 
@@ -2030,7 +2030,7 @@ If you go to our CSS, you will see that we have opacity of 0 on the `popup` clas
 
 The reason Wes has created a **CSS custom property** (or variable as it is referred to in CSS) to store the opacity value which we can then reference using the variable. 
 
-![](@attachment/Clipboard_2020-05-19-06-51-52.png) 9:43
+![](../attachments/1079.png) 9:43
 
 Now when we go to the popup with class of `open`, it will know to update the value of the opacity variable everywhere that it is used.
 
@@ -2043,7 +2043,7 @@ popup.classList.add('open');
 
 When we click it, as you see, it is not fading itself in, which is a bit of a problem. That is back to the whole event loop that we talked about a few videos ago. 
 
-![](@attachment/Clipboard_2020-05-19-06-57-27.png) 10:20
+![](../attachments/1080.png) 10:20
 
 The reason it is not animating itself in is because it queues up the "add a class of `popup`" and "add a class of `open`" sort of at the same time. 
 
@@ -2111,7 +2111,7 @@ Now that should work exactly the same way as it did before when you call `ask({t
 
 Try opening Firefox and testing it there to see if it works. 
 
-![](@attachment/Clipboard_2020-05-19-18-25-20.png) 13:35
+![](../attachments/1081.png) 13:35
 
 GO back to our fieldset and put the rest of the inputs there. 
 
@@ -2132,11 +2132,11 @@ popup.insertAdjacentHTML(
 
 If you refresh the page, you should see an input with the button. 
 
-![](@attachment/Clipboard_2020-05-19-18-36-46.png) 14:09
+![](../attachments/1082.png) 14:09
 
 If you try to enter a value into the input and hit submit, you will see that the page refreshed and that we get the value entered in the query string of the url. 
 
-![](@attachment/submit.gif)
+![](../attachments/submit.gif)
 
 We need to use `preventDefault` to stop the form from submitting. 
 
@@ -2160,23 +2160,23 @@ Also try running `ask({title:"does it work?", cancel: true})`.
 We are getting an error.
 >Uncaught (in promise) DOMException: Failed to execute 'appendChild' on 'Node': This node type does not support this method.
 
-![](@attachment/Clipboard_2020-05-19-18-45-50.png)  15:37
+![](../attachments/1083.png)  15:37
 
 Why is that happening? 
 
 Let's debug by logging the value of `popup.firstChild` before we call `appendChild` on it. 
 
-![](@attachment/Clipboard_2020-05-19-18-48-33.png) 16:14 
+![](../attachments/1084.png) 16:14 
 
 As you can see, it is returning text node.
 
 If you scroll up to our code, you will see that where we created the fieldset using backticks, we had the fieldset start on a new line. 
 
-![](@attachment/Clipboard_2020-05-19-18-49-38.png) 15:53 
+![](../attachments/1085.png) 15:53 
 
 If you just modify the code so that the fieldset starts on the same line as the backtick, it will work. 
 
-![](@attachment/Clipboard_2020-05-19-18-50-20.png) 16:07
+![](../attachments/1087.png) 16:07
 
 What happened is when we had the fieldset start on a new line, the new line was treated as a text node. 
 
@@ -2188,7 +2188,7 @@ Leave the fieldset on the separate line and then modify the code to be `popup.fi
 
 That fixes it! 
 
-![](@attachment/Clipboard_2020-05-19-18-58-55.png) 17:09
+![](../attachments/1089.png) 17:09
 
 Let's also fix the fieldset so it's not on it's own line because that was sloppy formatting. 
 
@@ -2216,11 +2216,11 @@ popup.addEventListener("submit", function(e) {
 });
 ```
 
-![](@attachment/Clipboard_2020-05-19-19-06-17.png) 18:07
+![](../attachments/1090.png) 18:07
 
 Next we want to take the value out of the input and resolve it. We have access to the `resolve` function bcause it passed as a parameter. 
 
-![](@attachment/Clipboard_2020-05-19-19-07-16.png) 18:24
+![](../attachments/1091.png) 18:24
 
 Because of the scope of our promise callback, the `resolve` function is available to us in the higher function. 
 
@@ -2233,7 +2233,7 @@ popup.addEventListener("submit", function(e) {
 });
 ```
 
-![](@attachment/Clipboard_2020-05-19-19-09-16.png) 19:03
+![](../attachments/1092.png) 19:03
 
 As you can see, the target is the form. 
 
@@ -2248,7 +2248,7 @@ popup.addEventListener("submit", function(e) {
 
 As you can see, it returns the input with a name of input. 
 
-![](@attachment/Clipboard_2020-05-19-19-10-05.png) 19:14
+![](../attachments/1093.png) 19:14
 
 Remember, anytime an input has a name property, it will be available via the property on the form.
 
@@ -2263,7 +2263,7 @@ popup.addEventListener("submit", function(e) {
 
 If you refresh the page and try it by calling `ask({title:'does it work', cancel:true})` in the console, entering a value in the input and pressing submit, you should see the promise in the console with the resolved value. 
 
-![](@attachment/Clipboard_2020-05-19-19-13-05.png) 19:39
+![](../attachments/1094.png) 19:39
 
 If we wanted to get the actual data from the input, we could just call `ask` with `await` in front of it from the console, as shown below 👇
 
@@ -2271,11 +2271,11 @@ If we wanted to get the actual data from the input, we could just call `ask` wit
 await ask({title:'does it work', cancel:true})
 ```
 
-![](@attachment/Clipboard_2020-05-19-19-14-13.png) 19:54
+![](../attachments/1095.png) 19:54
 
 Now if you try pressing the submit button again, it doesn't really do anything, but that event listener is still there. You can tell that it is still there by adding a log of "Submitted" to the handler.  
 
-![](@attachment/Clipboard_2020-05-19-19-15-34.png) 20:21
+![](../attachments/1096.png) 20:21
 
 One neat thing about `addEventListener` is you could remove the event listener for submitted as soon as it is resolved. 
 
@@ -2384,7 +2384,7 @@ const buttons = document.querySelectorAll('[data-question]`);
 console.log(button);
 ```
 
-![](@attachment/Clipboard_2020-05-19-20-26-06.png) 26:27
+![](../attachments/1097.png) 26:27
 
 As you can see we get a node list of buttons. 
 
@@ -2402,7 +2402,7 @@ function askQuestion(e){
 }
 ```
 
-![](@attachment/Clipboard_2020-05-19-20-29-12.png) 27:22
+![](../attachments/1098.png) 27:22
 
 As you can see, when we click the button we get the event. 
 
@@ -2420,11 +2420,11 @@ async function askQuestion(e) {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-19-20-38-38.png) 27:58
+![](../attachments/1099.png) 27:58
 
 As you can see, when you click the popup for name and enter a name, we get the value back. 
 
-![](@attachment/Clipboard_2020-05-19-20-39-26.png) 28:10
+![](../attachments/1100.png) 28:10
 
 Now we need to check if someone has passed the `data-cancel` attribute.  To do this, we need to pass `cancel` to the options object we are passing to `ask`. 
 
@@ -2440,7 +2440,7 @@ console.log(button.dataset);
 
 If you refresh the page and click the age button you will see `button.dataset` logged to the console. 
 
-![](@attachment/Clipboard_2020-05-19-20-41-28.png) 28:52 
+![](../attachments/1101.png) 28:52 
 
 Why is `cancel` an empty string? 
 Because we didn't pass it as `data-cancel="true"`. 
@@ -2515,7 +2515,7 @@ const answer = await ask({
 
 _NOTE: In the video, Wes pauses it to specify that he could have used `button.hasAttribute('data-cancel');` to check for this but he decided to leave this in the video because it is a good lesson on how to check if a property on an object exists, regardless of which value it is set to._
 
-![](@attachment/Clipboard_2020-05-19-23-42-23.png) 31:33
+![](../attachments/1102.png) 31:33
 
 If you refresh the page, that should now work.
 
@@ -2544,7 +2544,7 @@ For example, let's say someone is going through a form and you want to popup som
 
 Let's say we had an array of questions like you see in the image below. 
 
-![](@attachment/Clipboard_2020-05-19-23-48-08.png) 33:22
+![](../attachments/1103.png) 33:22
 
 How would we ask them in series? 
 
@@ -2568,7 +2568,7 @@ We have to use the promise syntax because we are not in an async function where 
 
 If you refresh the page and try that, you will see that the questions are asked out of order. What s happening is there are actually three popups on the page at the same time. 
 
-![](@attachment/Clipboard_2020-05-19-23-51-57.png) 35:04
+![](../attachments/1104.png) 35:04
 
 That is not a good solution, we do not want to pop them all up at once. 
 
@@ -2583,7 +2583,7 @@ console.log(qPromises);
 
 If you refresh the page and look at that in the console, you will see we have an array of three promises which have not been answered yet. 
 
-![](@attachment/Clipboard_2020-05-19-23-54-00.png) 36:16
+![](../attachments/1105.png) 36:16
 
 What we can do is loop over the array and for each one return a promises to get an array of promises. 
 
@@ -2610,7 +2610,7 @@ questions.forEach(async function(){
 })
 ```
 
-![](@attachment/Clipboard_2020-05-19-23-57-28.png) 38:07
+![](../attachments/1106.png) 38:07
 
 That did not wait for anything right? They will resolve, but they all three ran at the same time. 
 
@@ -2639,7 +2639,7 @@ askMany();
 
 Now when you refresh the page, you will see the questions come up one after the other and are submitted sequentially as well.
 
-![](@attachment/Clipboard_2020-05-20-00-00-29.png) 39:32
+![](../attachments/1107.png) 39:32
 
 The reason for that is unlike `map` and `foreach`, `for of` allows you to pause a loop by awaiting something inside of it, which is great.
 
@@ -2674,7 +2674,7 @@ go();
 
 Now when you refresh the page and look at the results, you should see that we get our array back. 
 
-![](@attachment/Clipboard_2020-05-20-00-04-48.png) 42:40
+![](../attachments/1108.png) 42:40
 
 We could take things one step further and refactor the function slightly to push the await of the callback directly.
 
@@ -2695,7 +2695,7 @@ async function asyncMap(array, callback){
 
 ## 73 - Async Typer UI - two ways
 
-![](@attachment/typer.gif) 00:55
+![](../attachments/typer.gif) 00:55
 
 In this video we will using **async/await** and **recursion** to create the effect of someone typing at different speeds.
 
@@ -2721,7 +2721,7 @@ Next we need a function that will return us a random number between a max and mi
 
 We already know that you can calculate a random number using a combination of `Math.floor` and `Math.random` like `Math.floor(Math.random() * 3)`. 
 
-![](@attachment/Clipboard_2020-05-20-06-45-58.png) 2:06 
+![](../attachments/1109.png) 2:06 
 
 But what if you want a number between 10 and 15, how would we do that? 
 
@@ -2756,7 +2756,7 @@ function getRandomBetween(min = 20, max = 150, randomNumber){
 }
 ```
 
-![](@attachment/Clipboard_2020-05-20-06-53-09.png) 4:47
+![](../attachments/1110.png) 4:47
 
 This way, when you pass the arguments to the function, we will always get the same value returned.  
 
@@ -2896,7 +2896,7 @@ async function drawLetter(){
 
 For a quick refresher of how slice works: you pass it a starting and ending index and it will return the charactres inbetween like so. 
 
-![](@attachment/Clipboard_2020-05-20-18-36-53.png) 14:11
+![](../attachments/1111.png) 14:11
 
 ```js
 function draw(el){
@@ -2953,7 +2953,7 @@ This is the recursive part, meaning that part of the logic of `drawLetter` is to
 
 When Wes ran the code he got the following error..
 
-![](@attachment/Clipboard_2020-05-20-18-43-10.png) 15:43
+![](../attachments/1112.png) 15:43
 
 Remember when we discussed the call stack previously? 
 

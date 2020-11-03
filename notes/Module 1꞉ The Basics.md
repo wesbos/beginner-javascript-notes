@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-01-19-17-07-50.png, Clipboard_2020-01-19-17-09-59.png, Clipboard_2020-01-19-17-25-44.png, Clipboard_2020-01-19-17-52-35.png, Clipboard_2020-01-19-18-07-43.png, Clipboard_2020-01-19-18-09-31.png, Clipboard_2020-01-19-18-23-06.png, Clipboard_2020-01-19-18-25-49.png, Clipboard_2020-01-19-18-26-31.png, Clipboard_2020-01-19-19-18-45.png, Clipboard_2020-01-19-19-19-39.png, Clipboard_2020-01-19-19-19-54.png, Clipboard_2020-01-19-19-40-13.png, Clipboard_2020-01-19-19-45-07.png, Clipboard_2020-01-19-19-45-10.png, Clipboard_2020-01-19-19-45-44.png, Clipboard_2020-01-20-19-31-26.png, Clipboard_2020-01-20-19-39-40.png, Clipboard_2020-01-20-19-47-16.png, Clipboard_2020-01-20-20-17-03.png, Clipboard_2020-01-20-20-19-01.png, Clipboard_2020-01-20-20-23-21.png, Clipboard_2020-01-20-21-30-55.png, Clipboard_2020-01-20-21-36-56.png, Clipboard_2020-01-21-07-11-02.png, Clipboard_2020-01-21-07-16-44.png, Clipboard_2020-01-21-07-17-35.png, Clipboard_2020-01-21-07-30-30.png, Clipboard_2020-01-21-19-18-03.png, Clipboard_2020-01-21-19-20-45.png, Clipboard_2020-01-21-20-06-17.png, Clipboard_2020-01-21-20-15-45.png, Clipboard_2020-01-21-20-16-57.png, Clipboard_2020-01-21-20-18-42.png, Clipboard_2020-01-21-20-21-21.png, Clipboard_2020-01-21-20-22-00.png, Clipboard_2020-01-21-20-22-39.png, Clipboard_2020-01-21-20-25-11.png, Clipboard_2020-01-21-20-37-42.png, Clipboard_2020-01-21-20-39-21.png, Clipboard_2020-01-21-20-39-39.png, Clipboard_2020-01-21-20-42-53.png, Clipboard_2020-01-22-18-26-09.png, Clipboard_2020-01-22-18-37-26.png, Clipboard_2020-01-22-18-38-25.png, Clipboard_2020-01-22-18-40-20.png, Clipboard_2020-01-22-18-40-30.png, Clipboard_2020-01-22-18-41-29.png, Clipboard_2020-01-22-19-02-19.png, Clipboard_2020-01-22-19-12-50.png, Clipboard_2020-01-22-19-15-54.png, Clipboard_2020-01-24-07-43-11.png, Clipboard_2020-01-24-07-45-02.png, Clipboard_2020-01-24-07-45-10.png, Clipboard_2020-01-24-07-49-31.png, Clipboard_2020-01-24-07-51-20.png, Clipboard_2020-01-24-07-51-42.png, Clipboard_2020-01-24-07-52-22.png, Clipboard_2020-01-24-07-52-59.png, Clipboard_2020-01-24-08-45-02.png, Clipboard_2020-01-24-08-49-42.png, Clipboard_2020-01-24-08-55-07.png, Clipboard_2020-01-24-19-02-54.png, Clipboard_2020-01-24-19-05-21.png, Clipboard_2020-01-24-19-06-57.png, Clipboard_2020-01-24-19-12-35.png, Clipboard_2020-01-24-19-12-57.png, Clipboard_2020-01-24-19-13-15.png, Clipboard_2020-01-24-19-14-15.png, Clipboard_2020-01-24-19-14-45.png, Clipboard_2020-01-24-20-25-47.png, Clipboard_2020-01-24-20-27-28.png, Clipboard_2020-01-24-20-30-09.png, Clipboard_2020-01-24-20-37-52.png, Clipboard_2020-01-27-21-39-29.png, Clipboard_2020-01-27-21-56-55.png, Clipboard_2020-01-27-21-59-47.png, Clipboard_2020-01-27-22-01-10.png, Clipboard_2020-01-27-22-03-55.png, Clipboard_2020-07-14-08-18-02.png, Clipboard_2020-07-14-08-18-27.png, Clipboard_2020-07-21-07-59-37.png]
+attachments: [4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png, 25.png, 26.png, 27.png, 28.png, 29.png, 30.png, 31.png, 32.png, 33.png, 34.png, 35.png, 36.png, 37.png, 38.png, 39.png, 40.png, 41.png, 42.png, 43.png, 44.png, 45.png, 46.png, 47.png, 48.png, 49.png, 50.png, 51.png, 52.png, 53.png, 54.png, 55.png, 56.png, 57.png, 58.png, 59.png, 60.png, 61.png, 62.png, 63.png, 64.png, 65.png, 66.png, 67.png, 68.png, 69.png, 70.png, 71.png, 72.png, 73.png, 74.png, 75.png, 76.png, 77.png, 78.png, 79.png, 80.png, 81.png, 82.png, 1436.png, 1437.png, 1438.png]
 title: 'Module 1: The Basics'
 created: '2020-01-19T22:03:47.486Z'
 modified: '2020-10-06T00:11:09.630Z'
@@ -39,7 +39,7 @@ There are 3 folders in the `beginner-JavaScript` repo.
 2.  `playground`
 3.  `exercises`
 
-![](@attachment/Clipboard_2020-01-19-17-09-59.png)
+![](../attachments/5.png)
 
 The `snippets` folder that has some base HTML snippets in there with instructions on how to get them into your HTML editor (we will talk about the editor in the next video).
 
@@ -107,7 +107,7 @@ In Firefox, you click on the hamburger menu and go to _Web Developer >_ and then
 
 Next up, we need NodeJS. In order to install NodeJS, go to NodeJS.org and install the latest version.
 
-![](@attachment/Clipboard_2020-01-19-17-25-44.png)
+![](../attachments/6.png)
 
 Don't pay attention to the version numbers, those will change depending on when you take the course. _The stuff that we are covering is not dependent on what version of node you use_.
 
@@ -161,7 +161,7 @@ Cmd Line Basics
 `cd ..` - _go up a level in the current directory_
 
 (examples of the above commands visible in image below)👇
-![](@attachment/Clipboard_2020-01-19-17-52-35.png)
+![](../attachments/7.png)
 
 In this example, Wes is in the `beginner-JavaScript` directory, and he uses the command `ls -l` to see what other directories he has nested inside his current directory.
 
@@ -215,7 +215,7 @@ The simplest is to open up your dev tools and go to your console.
 
 If you want to run some JavaScript to see how it works, like here Wes has typed 1 + 1 and hit enter and the console returned 2.
 
-![](@attachment/Clipboard_2020-01-19-18-07-43.png)
+![](../attachments/8.png)
 
 This right here is a JavaScript console and it's a nice way to quickly noodle on some JavaScript
 
@@ -227,7 +227,7 @@ For example You can type the following to grab all the paragraphs from the githu
 document.querySelectorAll("p");
 ```
 
-![](@attachment/Clipboard_2020-01-19-18-09-31.png)
+![](../attachments/9.png)
 _(Don't worry about what `document.querySelectorAll()` does, we will cover that in a future video)._
 
 The code that runs in your dev tools console is running in the context of the page that is loaded in your browser tab.
@@ -244,7 +244,7 @@ What that will do is when the HTML is loaded, it's going to say "OH! This is a s
 
 If you go ahead and open the `running-js.html` file in the browser, and open the console, you will see that it says "hey".
 
-![](@attachment/Clipboard_2020-01-19-18-23-06.png)
+![](../attachments/10.png)
 
 Don't sweat this too much, we will be explaining what `console.log()` and everything does shortly.
 
@@ -264,11 +264,11 @@ So if we were to modify `running-js` to include a paragraph tag that says Hey ri
 </body>
 ```
 
-![](@attachment/Clipboard_2020-01-19-18-25-49.png)
+![](../attachments/11.png)
 
 If you were to move the script tag above the paragraph (or move the paragraph below the script tag), and refresh the page, the console will show `null` because that means it found nothing.
 
-![](@attachment/Clipboard_2020-01-19-18-26-31.png)
+![](../attachments/12.png)
 
 In order for your script tag to access the elements on the page, the elements must first be on the page before you select them. If we try to select something that doesn't yet exist (because it gets created later), we won't have access to it.
 
@@ -301,15 +301,15 @@ In our case, it's in the same folder so `./some.js` is the relative path to our 
 
 Now if you run that, it will say in the console `I'm in another file`, and it will even show you where that JavaScript had been run. 👇
 
-![](@attachment/Clipboard_2020-01-19-19-18-45.png)
+![](../attachments/13.png)
 
 Again, if you were to put the script inside the HEAD, it will still work.
 
-![](@attachment/Clipboard_2020-01-19-19-19-54.png)
+![](../attachments/15.png)
 
 However, if you were to try to select some things on the page, such as the paragraph tag, you will get null.
 
-![](@attachment/Clipboard_2020-01-19-19-19-39.png)
+![](../attachments/14.png)
 
 Why? Because of the same reason --the script will run before the actual HTML is finished building on the page. Leave the script tag right before the closing body tag for the best performance and to save yourself future debugging headaches.
 
@@ -321,7 +321,7 @@ That is a quirk with the script tag. It cannot be self closed.
 
 You also cannot add extra JavaScript between the script tag like so: 👇
 
-![](@attachment/Clipboard_2020-01-19-19-40-13.png)
+![](../attachments/16.png)
 
 That will not work.
 
@@ -349,7 +349,7 @@ You can run the script in node by entering the following in the terminal and hit
 
 That will run whatever code is in the script file, and once it's done, it will exit out of node and return you to the terminal.
 
-![](@attachment/Clipboard_2020-01-19-19-45-44.png)
+![](../attachments/19.png)
 
 That's the short of how to load JavaScript.
 
@@ -373,7 +373,7 @@ To make sure everything is working, add a `console.log('hey');` within the scrip
 
 If you open up the `variables.html` file in the browser, you should see 'hey' in the console.
 
-![](@attachment/Clipboard_2020-01-20-19-31-26.png)
+![](../attachments/20.png)
 
 There are three different ways to make a variable, which in JavaScript we refer to as _declaring a variable_. They are:
 
@@ -395,7 +395,7 @@ What we have done there is created a new variable called `first` and we set it t
 
 Now, if you refresh the `variables.html` page, and type into the console `first`, you will see that we actually get the value that is inside of that variable.
 
-![](@attachment/Clipboard_2020-01-20-19-39-40.png)
+![](../attachments/21.png)
 
 You can also do it by doing a `console.log()` like so:
 
@@ -437,7 +437,7 @@ The naming of these things aren't great. Const means constant, but it's still ca
 
 Before we do that, let's discuss the semi colon Wes is adding after each JavaScript line.
 
-![](@attachment/Clipboard_2020-01-20-19-47-16.png)
+![](../attachments/22.png)
 
 Semi-colons are used to terminate the line of JavaScript. Below is an example of what is referred to as a **statement** in JavaScript.
 
@@ -517,13 +517,13 @@ first = 'westerhoff';
 </script>
 ```
 
-![](@attachment/Clipboard_2020-01-20-20-17-03.png)
+![](../attachments/23.png)
 
 The same can be done with the age variable.
 
 For example type in the console `age = 400`. That updates the value of the `age` variable.
 
-![](@attachment/Clipboard_2020-01-20-20-19-01.png)
+![](../attachments/24.png)
 
 You can either run the JavaScript from the `variables.html` page, or you can run them from the console. Because the variables in `variables.html` are **global variables** _(which we will cover in a future video)_, we can modify the either in the script tag within `variables.html` or directly from the console.
 
@@ -543,7 +543,7 @@ You only need to declare the variable with `var`, `let`, or `const`, and then wh
 
 You **cannot** set a const variable to be something else. If you were to go `cool = false`, you will see the following error: 👇
 
-![](@attachment/Clipboard_2020-01-20-20-23-21.png)
+![](../attachments/25.png)
 
 Errors in JavaScript will tell you what went wrong and where it went wrong. Here it says 👇
 
@@ -586,7 +586,7 @@ Now if we go to the top of our opening script tag, and add `use strict;` and the
 
 > dog is not defined
 
-![](@attachment/Clipboard_2020-01-20-21-30-55.png)
+![](../attachments/26.png)
 
 In the early days of JavaScript, it was possible to create a variable without first declaring it, and the browser would just add the var on behalf of the user.
 
@@ -612,7 +612,7 @@ dog = "snickers";
 
 That will work because what happens here is if you comment out the second line so it's just `var dog;` and refresh `variables.html`, when you type dog into the console you will have the value of "undefined" returned to you.
 
-![](@attachment/Clipboard_2020-01-20-21-36-56.png)
+![](../attachments/27.png)
 
 Strict mode is useful but we won't be typing it every time in this course because we are going to be following best practices and it is enforced by default when you are using **JavaScript modules**, and modules are probably how you are going to be writing all of your modern JavaScript.
 
@@ -730,7 +730,7 @@ There are two tools that are extremely helpful in code quality and formatting of
 
 Before we jump into those, let's start by looking at some code and opinions people have about formatting in JavaScript.
 
-![](@attachment/Clipboard_2020-01-21-07-11-02.png)
+![](../attachments/28.png)
 
 In the code above 👆, we are using single quotes `''` rather than double quotes `""`, , which is an opinion that people have. Some people prefer one over the other.
 
@@ -746,9 +746,9 @@ I recommend that you go to https://eslint.org and go to the demo.
 
 For Prettier, there is a link on the homepage that says "Try it".
 
-![](@attachment/Clipboard_2020-07-14-08-18-27.png)
+![](../attachments/1437.png)
 
-![](@attachment/Clipboard_2020-07-14-08-18-02.png)
+![](../attachments/1436.png)
 
 We will cover:
 
@@ -762,13 +762,13 @@ We will cover:
 
 If you go to the ESLint demo, select the "Rules Configuration" section and choose the latest version of JavaScript.
 
-![](@attachment/Clipboard_2020-01-21-07-16-44.png)
+![](../attachments/29.png)
 
 If you type into the demo `const age = 300;`, you will see the following linting rule 👇
 
 > 'age' is assigned a value but never used.
 
-![](@attachment/Clipboard_2020-01-21-07-17-35.png)
+![](../attachments/30.png)
 
 If we go ahead and use it by adding a line below of `console.log(age);`, we will get the following errors 👇
 
@@ -837,7 +837,7 @@ const age = 100;
 alert("hey");
 ```
 
-![](@attachment/Clipboard_2020-01-21-07-30-30.png)
+![](../attachments/31.png)
 
 The input code is technically valid JavaScript, however it is messy and harder to read. Those are annoying things, things such as indentation.
 
@@ -879,7 +879,7 @@ You can install this globally or per project.
 
 What Wes does is he usually installs it globally so that all the projects he works on are covered, and then for each individual project that is more than a demo, he installs it locally.
 
-![](@attachment/Clipboard_2020-01-21-20-06-17.png)
+![](../attachments/34.png)
 
 ### Installing npm packages locally
 
@@ -897,7 +897,7 @@ To create the `package.json`, you simply just type `npm init` in the terminal an
 
 You will now be prompted to enter a package name, description, keywords etc but you can just press enter to skip setting those values for now.
 
-![](@attachment/Clipboard_2020-01-21-19-18-03.png)
+![](../attachments/32.png)
 
 Then we need to go ahead and install all of our dependencies for this thing.
 
@@ -909,7 +909,7 @@ npx install-peerdeps --dev eslint-config-wesbos
 
 After about a minute or so, it will go ahead and install all of your files.
 
-![](@attachment/Clipboard_2020-01-21-19-20-45.png)
+![](../attachments/33.png)
 
 If you take a look at your file system, you will see that there is this new folder called `node_modules/` and inside there are a whole bunch of dependencies.
 
@@ -929,7 +929,7 @@ Inside of your `.eslintrc` file, copy the following:
 }
 ```
 
-![](@attachment/Clipboard_2020-01-21-20-16-57.png)
+![](../attachments/36.png)
 
 We are going to extend "wesbos", which means we are going to extend all the settings and plugins that Wes has packed into his own config. That is really all we need right now.
 
@@ -937,7 +937,7 @@ Next, what we need is to get it running with VSCode.
 
 Scroll down in Wes' instructions to the **With VS Code** section.
 
-![](@attachment/Clipboard_2020-01-21-20-15-45.png)
+![](../attachments/35.png)
 
 First thing you need to do is install the ESLint package for VSCode.
 
@@ -951,24 +951,24 @@ Now what we need to do is setup some VSCode settings. Within VSCode, in the righ
 
 If you're on Windows, that would be _File > Preferences > Settings_ and then you should see one called Settings.
 
-![](@attachment/Clipboard_2020-01-21-20-18-42.png)
+![](../attachments/37.png)
 
 That should open up the settings section in VS Code like so 👇
 
-![](@attachment/Clipboard_2020-01-21-20-21-21.png)
+![](../attachments/38.png)
 
 What you want to do is click on the curly brackets in the top right hand corner 👇
-![](@attachment/Clipboard_2020-01-21-20-22-00.png)
+![](../attachments/39.png)
 
 That will open up the text based version of your settings.
 
-![](@attachment/Clipboard_2020-01-21-20-22-39.png)
+![](../attachments/40.png)
 
 Simply just copy all of the settings from **Step #2 of the "With VS Code"** instructions found on Wes' config file (https://github.com/wesbos/eslint-config-wesbos).
 
 Go to the very end of the `settings.json file` in VSCode, and after the last value, add a comma and then paste in the settings we just copied.
 
-![](@attachment/Clipboard_2020-01-21-20-25-11.png)
+![](../attachments/41.png)
 
 Let's go through the settings really quickly.
 
@@ -1006,11 +1006,11 @@ To check if Prettier is working, you can open a JavaScript file in VSCode, add s
 
 If it isn't working, you can click on ESLint in the bottom corner and it will often tell you what the issues are with it actually running.
 
-![](@attachment/Clipboard_2020-01-21-20-37-42.png)
+![](../attachments/42.png)
 
 Another thing you will notice with ESLint is these squiggly underlines in VSCode👇
 
-![](@attachment/Clipboard_2020-01-21-20-39-39.png)
+![](../attachments/44.png)
 
 That is actually ESLint telling giving you information about a warning or error it is throwing.
 
@@ -1022,7 +1022,7 @@ If you modify the code to be `const age = 100;`, the underline under the age var
 
 > 'age' is assigned a value but never used. eslint(no-unused-vars)
 
-![](@attachment/Clipboard_2020-01-21-20-42-53.png)
+![](../attachments/45.png)
 
 Red squiggles represent an error and yellow is just a warning is an error, and yellow is just a warning.
 
@@ -1159,7 +1159,7 @@ If you were to make that change, save the file and then refresh `type.html`, you
 
 > Unexpected identifier
 
-![](@attachment/Clipboard_2020-01-22-18-26-09.png)
+![](../attachments/46.png)
 
 In that case, there are a few things we can do.
 
@@ -1197,7 +1197,7 @@ The third option is using backticks. With backticks, you could simply do 👇
 
 The only downside to this approach is if you needed a backtick in your string, you would need to escape it like so 👇
 
-![](@attachment/Clipboard_2020-01-22-18-37-26.png)
+![](../attachments/47.png)
 
 That is one of the benefits to using backticks.
 
@@ -1207,19 +1207,19 @@ The next thing is putting strings on multiple lines.
 
 Let's say you wanted to add the following song as multiple lines of text 👇
 
-![](@attachment/Clipboard_2020-01-22-18-38-25.png)
+![](../attachments/48.png)
 
 You can see that the editor is complaining about the string not being closed properly. How do you do multi-line strings?
 
 If you want to, you have to put a forward slash at the end of every single line, and that will allow you to put a string on multiple lines.
 
-![](@attachment/Clipboard_2020-01-22-18-40-20.png)
+![](../attachments/49.png)
 
-![](@attachment/Clipboard_2020-01-22-18-40-30.png)
+![](../attachments/50.png)
 
 The benefit to using backticks is you can have multi-line strings and they maintain the line breaks inside of them.
 
-![](@attachment/Clipboard_2020-01-22-18-41-29.png)
+![](../attachments/51.png)
 
 Sometimes the console will return the value like `"Ohhh↵↵ya↵↵I like↵pizza"`. Those arrows indicate a new line.
 
@@ -1284,7 +1284,7 @@ But if you do `"1" + "1"`, it will evaluate t `"11"`.
 
 If you do `"1" + 1`, it will evaluate to `"11"`.
 
-![](@attachment/Clipboard_2020-01-22-19-02-19.png)
+![](../attachments/52.png)
 
 That is ripe for bugs, so that is where backticks come in with a much nicer solution.
 
@@ -1323,7 +1323,7 @@ const html = `
 
 Now we have all of this html that we have made, and if you add a `console.log(html);` and reload `type.html`, you will see 👇
 
-![](@attachment/Clipboard_2020-01-22-19-12-50.png)
+![](../attachments/53.png)
 
 We can actually do something like this with the html we just created (we will discuss what this means in future videos).
 
@@ -1335,7 +1335,7 @@ document.body.innerHTML = html;
 
 When you refresh `types.html` you should see something like the following 👇
 
-![](@attachment/Clipboard_2020-01-22-19-15-54.png)
+![](../attachments/54.png)
 
 We have just made some HTML! If you inspect the html, you will see it's regular html.
 
@@ -1354,7 +1354,7 @@ const name = "wes";
 
 Open `types.html` in the browser and then open the console and type `typeof age` and hit enter. The console should return to you "number".
 
-![](@attachment/Clipboard_2020-07-21-07-59-37.png)
+![](../attachments/1438.png)
 
 **typeof** is a keyword in JavaScript that allows you to check the type of a value.
 
@@ -1379,7 +1379,7 @@ const b = 10;
 
 You can perform the following calculations in the browser👇
 
-![](@attachment/Clipboard_2020-01-24-07-43-11.png)
+![](../attachments/55.png)
 
 The only thing to be aware of is when you are mixing types.
 
@@ -1391,13 +1391,13 @@ If you try to do math with strings, it will convert them for you if you are doin
 
 Whenever we are doing math, we need to make sure we are dealing with true numbers and not mixing types.
 
-![](@attachment/Clipboard_2020-01-24-07-45-10.png)
+![](../attachments/57.png)
 
 Along with numbers we also have what we call **helper methods**.
 
 If you go into the browser console and type `Math.`, you will see a lot of built in helper methods.
 
-![](@attachment/Clipboard_2020-01-24-07-49-31.png)
+![](../attachments/58.png)
 
 ### Helper Methods
 
@@ -1412,19 +1412,19 @@ Let's go through each one, starting with **`Math.round()`**.
 
 To use `Math.round()`, you pass a value in between the parenthesis `()`_(that is referred to as **passing a value**, which we will go over in a future video)_. It will return to you the number that was passed, rounded up or down depending on the number.
 
-![](@attachment/Clipboard_2020-01-24-07-51-20.png)
+![](../attachments/59.png)
 
 There is also **`Math.floor()`** which will give you the lower end of that number.
 
-![](@attachment/Clipboard_2020-01-24-07-51-42.png)
+![](../attachments/60.png)
 
 We have **`Math.ceil()`** and that will give you the upper number.
 
-![](@attachment/Clipboard_2020-01-24-07-52-22.png)
+![](../attachments/61.png)
 
 Then there is **`Math.random()`** which will give you a random number every time between 0 and 1 _(in a future video we will go over how to get a random number between 1 and 10)_.
 
-![](@attachment/Clipboard_2020-01-24-07-52-59.png)
+![](../attachments/62.png)
 
 ### Modulo and Power Operators
 
@@ -1441,7 +1441,7 @@ console.log($`Each kid gets ${eachKidGets}`);
 
 In the console, that evaluates to Each kid gets 6.66666666667 👇
 
-![](@attachment/Clipboard_2020-01-24-08-45-02.png)
+![](../attachments/63.png)
 
 That is obviously not going to work because you aren't going to split a smartie into a 0.6666.
 
@@ -1455,7 +1455,7 @@ const eachKidGets = Math.floor(smarties / kids);
 
 Now in the console you should see that each kid gets six.
 
-![](@attachment/Clipboard_2020-01-24-08-49-42.png)
+![](../attachments/64.png)
 
 Now how many smarties do we have left over?
 
@@ -1471,7 +1471,7 @@ smarties % kids;
 
 and you should see the value `2` returned. 👇
 
-![](@attachment/Clipboard_2020-01-24-08-55-07.png)
+![](../attachments/65.png)
 
 After the smarties have been evenly distributed between the kids, there are 2 smarties left over. The **modulo** operator `%` will tell you how many are left after you evenly divide them.
 
@@ -1491,7 +1491,7 @@ Another example would be there are 10 smarties and 3 kids. If you divide the sma
 
 Other things you need to know about math in JavaScript is that if you do `0.1 + 0.2` in the console, it will return 0.30000000004.
 
-![](@attachment/Clipboard_2020-01-24-19-02-54.png)
+![](../attachments/66.png)
 
 When people who are learning JavaScript encounter this, they often think that JavaScript is buggy.
 
@@ -1503,7 +1503,7 @@ window.location = `https://${0.1 + 0.2}.com`;
 
 That will take you to the following website, that will explain why this occurs in JavaScript.
 
-![](@attachment/Clipboard_2020-01-24-19-05-21.png)
+![](../attachments/67.png)
 
 This happens in almost every programming language, and that's just the reality of working with floating point numbers on computers.
 
@@ -1527,11 +1527,11 @@ We will go over an example.
 
 If you do `10 **`, the double `**` actually means _"to the power of"_. So `10 ** 2` returns 100 and `1000 ** 2` returns 1000000 .
 
-![](@attachment/Clipboard_2020-01-24-19-12-57.png)
+![](../attachments/70.png)
 
 Negative infinity is also a number. Wes has never run into this in his programming, unless you have goofed something up.
 
-![](@attachment/Clipboard_2020-01-24-19-13-15.png)
+![](../attachments/71.png)
 
 #### Not a Number
 
@@ -1543,11 +1543,11 @@ If you try to do something like below, it would return NaN 👇
 10 / "dog";
 ```
 
-![](@attachment/Clipboard_2020-01-24-19-14-15.png)
+![](../attachments/72.png)
 
 **NaN** is a type of "number", which is confusing since it means not a number.
 
-![](@attachment/Clipboard_2020-01-24-19-14-45.png)
+![](../attachments/73.png)
 
 That is something you will run into if you try to do math with something that is not a number. Instead of erroring out, it will just return NaN.
 
@@ -1587,17 +1587,17 @@ What we have done here is created an object that allows us to group together var
 
 In the console, if you type person it will return the value, which is the object. If you check the type of the person variable, it will return the object type.
 
-![](@attachment/Clipboard_2020-01-24-20-25-47.png)
+![](../attachments/74.png)
 
 You can expand the object in the console to see it like so 👇
 
-![](@attachment/Clipboard_2020-01-24-20-27-28.png)
+![](../attachments/75.png)
 
 You may notice that the object properties are in a different order then we put them in within `types.js`. We will go over that after. The short and skinny is that **order doesn't matter in an object. If you need order to matter, use an array.**
 
 To access the properties, there is a couple of different ways we can do it.
 
-![](@attachment/Clipboard_2020-01-24-20-30-09.png)
+![](../attachments/76.png)
 
 We are using the **dot notation** in the examples above.
 
@@ -1624,7 +1624,7 @@ let dog;
 console.log(dog);
 ```
 
-![](@attachment/Clipboard_2020-01-24-20-37-52.png)
+![](../attachments/77.png)
 
 **undefined** is something that has been created (a variable), but has not yet been defined.
 
@@ -1711,7 +1711,7 @@ const ofAge = age > 19;
 console.log(ofAge);
 ```
 
-![](@attachment/Clipboard_2020-01-27-21-39-29.png)
+![](../attachments/78.png)
 
 Sometimes values are calculated, like for `ofAge`.
 
@@ -1736,7 +1736,7 @@ If you take the age variable in the console and do the following
 `age === 100` will return true
 `age === 10` will return false
 
-![](@attachment/Clipboard_2020-01-27-21-56-55.png)
+![](../attachments/79.png)
 
 That is what Wes means by booleans can be calculated as well.
 
@@ -1746,13 +1746,13 @@ Add `let age2 = 100;` in `types.js`, and refresh the HTML page in the browser.
 
 Now you can do `age === age2` which will return true. 👇
 
-![](@attachment/Clipboard_2020-01-27-21-59-47.png)
+![](../attachments/80.png)
 
 What is happening there is the browser is checking the value of the first variable and then it checks the value of the second one, to make sure they are exactly the same.
 
 What would happen if instead we did `10 == 10`, with a double equals? It would return true. 👇
 
-![](@attachment/Clipboard_2020-01-27-22-01-10.png)
+![](../attachments/81.png)
 
 Why are there two different ways to check for equality?
 
@@ -1770,7 +1770,7 @@ Because the value is the same, but the types are not.
 
 If you did `"10" === 10`, it would return false. 👇
 
-![](@attachment/Clipboard_2020-01-27-22-03-55.png)
+![](../attachments/82.png)
 
 This is one of the examples where you can get into hot water by mixing strings and numbers when doing addition.
 

@@ -1,0 +1,544 @@
+**origin** - Module 10꞉ Harder Practice Exercises.md
+**domain name** - Module 10꞉ Harder Practice Exercises.md
+**bundler** - Module 10꞉ Harder Practice Exercises.md
+**Parcel** - Module 10꞉ Harder Practice Exercises.md
+**NodeJS** - Module 10꞉ Harder Practice Exercises.md
+**NPM** - Module 10꞉ Harder Practice Exercises.md
+**promise** - Module 10꞉ Harder Practice Exercises.md
+**request animation frame** - Module 10꞉ Harder Practice Exercises.md
+**Request animation frame** - Module 10꞉ Harder Practice Exercises.md
+**recursion** - Module 10꞉ Harder Practice Exercises.md
+**Recursion** - Module 10꞉ Harder Practice Exercises.md
+**modulo** - Module 10꞉ Harder Practice Exercises.md
+**custom events** - Module 10꞉ Harder Practice Exercises.md
+**event delegation** - Module 10꞉ Harder Practice Exercises.md
+**DOM events** - Module 10꞉ Harder Practice Exercises.md
+**local storage** - Module 10꞉ Harder Practice Exercises.md
+**state** - Module 10꞉ Harder Practice Exercises.md
+**state** - Module 10꞉ Harder Practice Exercises.md
+**state** - Module 10꞉ Harder Practice Exercises.md
+**client-side validation** - Module 10꞉ Harder Practice Exercises.md
+**dispatch** - Module 10꞉ Harder Practice Exercises.md
+**custom** - Module 10꞉ Harder Practice Exercises.md
+**local storage** - Module 10꞉ Harder Practice Exercises.md
+**event delegation** - Module 10꞉ Harder Practice Exercises.md
+**prototypes** - Module 10꞉ Harder Practice Exercises.md
+**prototypes** - Module 10꞉ Harder Practice Exercises.md
+**classes** - Module 10꞉ Harder Practice Exercises.md
+**SASS** - Module 10꞉ Harder Practice Exercises.md
+**closure** - Module 10꞉ Harder Practice Exercises.md
+**constructor** - Module 10꞉ Harder Practice Exercises.md
+**destructuring** - Module 10꞉ Harder Practice Exercises.md
+**call and apply** - Module 10꞉ Harder Practice Exercises.md
+**the prototype** - Module 10꞉ Harder Practice Exercises.md
+**object-oriented programming** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**functional programming** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**`new`** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**literal syntax** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**extending** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**prototypes** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**prototypal inheritance** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**constructor** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**prototypal methods** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**prototype** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**prototype** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**prototype lookup** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**built in functions** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**polyfill** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**polyfill** - Module 11꞉ Prototypes, this, new and Inheritance.md
+**promises** - Module 12꞉ Advanced Flow Control.md
+**asynchronous** - Module 12꞉ Advanced Flow Control.md
+**non-blocking** - Module 12꞉ Advanced Flow Control.md
+**single threaded language** - Module 12꞉ Advanced Flow Control.md
+**multi-threaded** - Module 12꞉ Advanced Flow Control.md
+**call stack** - Module 12꞉ Advanced Flow Control.md
+**call stack** - Module 12꞉ Advanced Flow Control.md
+**event loop** - Module 12꞉ Advanced Flow Control.md
+**callback queue** - Module 12꞉ Advanced Flow Control.md
+**callback hell** - Module 12꞉ Advanced Flow Control.md
+**"Christmas Tree" code** - Module 12꞉ Advanced Flow Control.md
+**promise** - Module 12꞉ Advanced Flow Control.md
+**concurrently** - Module 12꞉ Advanced Flow Control.md
+**sequentially** - Module 12꞉ Advanced Flow Control.md
+**array destructuring** - Module 12꞉ Advanced Flow Control.md
+**fulfilled** - Module 12꞉ Advanced Flow Control.md
+**rejected** - Module 12꞉ Advanced Flow Control.md
+**async/await** - Module 12꞉ Advanced Flow Control.md
+**Waait** - Module 12꞉ Advanced Flow Control.md
+**foot gun** - Module 12꞉ Advanced Flow Control.md
+**try and catch** - Module 12꞉ Advanced Flow Control.md
+**higher order function** - Module 12꞉ Advanced Flow Control.md
+**synchronous map** - Module 12꞉ Advanced Flow Control.md
+**CSS custom property** - Module 12꞉ Advanced Flow Control.md
+**memory leak** - Module 12꞉ Advanced Flow Control.md
+**not** - Module 12꞉ Advanced Flow Control.md
+**async/await** - Module 12꞉ Advanced Flow Control.md
+**recursion** - Module 12꞉ Advanced Flow Control.md
+**pure function** - Module 12꞉ Advanced Flow Control.md
+**recursion** - Module 12꞉ Advanced Flow Control.md
+**async/await** - Module 13꞉ Ajax and Fetching Data.md
+**promises** - Module 13꞉ Ajax and Fetching Data.md
+**API** - Module 13꞉ Ajax and Fetching Data.md
+**API** - Module 13꞉ Ajax and Fetching Data.md
+**Application Programming Interface** - Module 13꞉ Ajax and Fetching Data.md
+**JSON** - Module 13꞉ Ajax and Fetching Data.md
+**JSON** - Module 13꞉ Ajax and Fetching Data.md
+**Javascript Object Notation** - Module 13꞉ Ajax and Fetching Data.md
+**javascript dot notation** - Module 13꞉ Ajax and Fetching Data.md
+**AJAX** - Module 13꞉ Ajax and Fetching Data.md
+**Asynchronous Javascript and XML** - Module 13꞉ Ajax and Fetching Data.md
+**asynchronous** - Module 13꞉ Ajax and Fetching Data.md
+**XML** - Module 13꞉ Ajax and Fetching Data.md
+**XML** - Module 13꞉ Ajax and Fetching Data.md
+**CORS** - Module 13꞉ Ajax and Fetching Data.md
+**async/await** - Module 13꞉ Ajax and Fetching Data.md
+**parameters** - Module 13꞉ Ajax and Fetching Data.md
+**query parameters** - Module 13꞉ Ajax and Fetching Data.md
+**query params** - Module 13꞉ Ajax and Fetching Data.md
+**CORS** - Module 13꞉ Ajax and Fetching Data.md
+**Cross Origin Resource Sharing** - Module 13꞉ Ajax and Fetching Data.md
+**cross origin** - Module 13꞉ Ajax and Fetching Data.md
+**origins** - Module 13꞉ Ajax and Fetching Data.md
+**CORS policy** - Module 13꞉ Ajax and Fetching Data.md
+**CORS policy** - Module 13꞉ Ajax and Fetching Data.md
+**Babel** - Module 13꞉ Ajax and Fetching Data.md
+**proxy** - Module 13꞉ Ajax and Fetching Data.md
+**CORS** - Module 13꞉ Ajax and Fetching Data.md
+**To be absolutely clear here: you are sending you data through a random web server that is controlled by who knows who.** - Module 13꞉ Ajax and Fetching Data.md
+**custom headers** - Module 13꞉ Ajax and Fetching Data.md
+**Accept Header** - Module 13꞉ Ajax and Fetching Data.md
+**header** - Module 13꞉ Ajax and Fetching Data.md
+**Accept Header** - Module 13꞉ Ajax and Fetching Data.md
+**recursion** - Module 13꞉ Ajax and Fetching Data.md
+**Modules** - Module 14 - ES Modules and Structuring Larger Apps.md
+**ESM** - Module 14 - ES Modules and Structuring Larger Apps.md
+**EcmaScript modules** - Module 14 - ES Modules and Structuring Larger Apps.md
+**ES6 modules** - Module 14 - ES Modules and Structuring Larger Apps.md
+**hot reloading** - Module 14 - ES Modules and Structuring Larger Apps.md
+**live reloading** - Module 14 - ES Modules and Structuring Larger Apps.md
+**Named Imports** - Module 14 - ES Modules and Structuring Larger Apps.md
+**Default Imports** - Module 14 - ES Modules and Structuring Larger Apps.md
+**You always do your imports at the very top of the file that you are in, and you can have multiple imports as well. Then you simply have access to that functionality and can use it.** - Module 14 - ES Modules and Structuring Larger Apps.md
+**named exports** - Module 14 - ES Modules and Structuring Larger Apps.md
+**named imports** - Module 14 - ES Modules and Structuring Larger Apps.md
+**default export** - Module 14 - ES Modules and Structuring Larger Apps.md
+**named exports** - Module 14 - ES Modules and Structuring Larger Apps.md
+**default export** - Module 14 - ES Modules and Structuring Larger Apps.md
+**library functions** - Module 14 - ES Modules and Structuring Larger Apps.md
+**flat file structure** - Module 14 - ES Modules and Structuring Larger Apps.md
+**bundler** - Module 14 - ES Modules and Structuring Larger Apps.md
+**minification** - Module 14 - ES Modules and Structuring Larger Apps.md
+**dead-code elimination** - Module 14 - ES Modules and Structuring Larger Apps.md
+**Babel** - Module 14 - ES Modules and Structuring Larger Apps.md
+**SASS** - Module 14 - ES Modules and Structuring Larger Apps.md
+**LESS** - Module 14 - ES Modules and Structuring Larger Apps.md
+**CSS auto-prefixer** - Module 14 - ES Modules and Structuring Larger Apps.md
+**package.json** - Module 14 - ES Modules and Structuring Larger Apps.md
+**dev dependency** - Module 14 - ES Modules and Structuring Larger Apps.md
+**dev dependency** - Module 14 - ES Modules and Structuring Larger Apps.md
+**hot reloading** - Module 14 - ES Modules and Structuring Larger Apps.md
+**Map files** - Module 14 - ES Modules and Structuring Larger Apps.md
+**create-react-app** - Module 14 - ES Modules and Structuring Larger Apps.md
+**Next.js** - Module 14 - ES Modules and Structuring Larger Apps.md
+**Gatsby** - Module 14 - ES Modules and Structuring Larger Apps.md
+**CommonJSs** - Module 14 - ES Modules and Structuring Larger Apps.md
+**ECMAScript modules** - Module 14 - ES Modules and Structuring Larger Apps.md
+**ordinal** - Module 14 - ES Modules and Structuring Larger Apps.md
+**fetch** - Module 14 - ES Modules and Structuring Larger Apps.md
+**polyfill** - Module 14 - ES Modules and Structuring Larger Apps.md
+**should not** - Module 14 - ES Modules and Structuring Larger Apps.md
+**The rule is that anytime you are taking data from the user and embedding it in HTML you must first sanitize it** - Module 14 - ES Modules and Structuring Larger Apps.md
+**_anywhere that you are taking user data and generating HTML from that, you must first sanitize the data_** - Module 14 - ES Modules and Structuring Larger Apps.md
+**_not good_** - Module 14 - ES Modules and Structuring Larger Apps.md
+**cross site scripting** - Module 14 - ES Modules and Structuring Larger Apps.md
+**sanitize** - Module 14 - ES Modules and Structuring Larger Apps.md
+**DOMPurify** - Module 14 - ES Modules and Structuring Larger Apps.md
+**vendor prefix** - Module 15 - Final Round of Exercises.md
+**Regex** - Module 15 - Final Round of Exercises.md
+**coerce** - Module 15 - Final Round of Exercises.md
+**buffer** - Module 15 - Final Round of Exercises.md
+**Please star the beginner-JavaScript github repo to help Wes up!** - Module 1꞉ The Basics.md
+**REPL** - Module 1꞉ The Basics.md
+**read-eval-print loop** - Module 1꞉ The Basics.md
+**modules** - Module 1꞉ The Basics.md
+**Variables** - Module 1꞉ The Basics.md
+**statement** - Module 1꞉ The Basics.md
+**A statement** - Module 1꞉ The Basics.md
+**code block** - Module 1꞉ The Basics.md
+**code block** - Module 1꞉ The Basics.md
+**automatic semi-colon insertion** - Module 1꞉ The Basics.md
+**global variables** - Module 1꞉ The Basics.md
+**cannot** - Module 1꞉ The Basics.md
+**API key** - Module 1꞉ The Basics.md
+**Strict Mode** - Module 1꞉ The Basics.md
+**JavaScript modules** - Module 1꞉ The Basics.md
+**function scoped variables** - Module 1꞉ The Basics.md
+**block scoped variables** - Module 1꞉ The Basics.md
+**naming conventions** - Module 1꞉ The Basics.md
+**camel case** - Module 1꞉ The Basics.md
+**snake case** - Module 1꞉ The Basics.md
+** kebab case** - Module 1꞉ The Basics.md
+**not** - Module 1꞉ The Basics.md
+**ESLint** - Module 1꞉ The Basics.md
+**dependencies** - Module 1꞉ The Basics.md
+**dot file** - Module 1꞉ The Basics.md
+**With VS Code** - Module 1꞉ The Basics.md
+**Step #2 of the "With VS Code"** - Module 1꞉ The Basics.md
+**Beautifier** - Module 1꞉ The Basics.md
+**Types** - Module 1꞉ The Basics.md
+**String** - Module 1꞉ The Basics.md
+**Number** - Module 1꞉ The Basics.md
+**Object** - Module 1꞉ The Basics.md
+**Boolean** - Module 1꞉ The Basics.md
+**Null** - Module 1꞉ The Basics.md
+**Undefined** - Module 1꞉ The Basics.md
+**Symbol** - Module 1꞉ The Basics.md
+*` comment will open up what is called a ** - Module 1꞉ The Basics.md
+**escaping** - Module 1꞉ The Basics.md
+**concatenation** - Module 1꞉ The Basics.md
+**Concatenation** - Module 1꞉ The Basics.md
+**Interpolation** - Module 1꞉ The Basics.md
+**backticks** - Module 1꞉ The Basics.md
+**variable interpolation** - Module 1꞉ The Basics.md
+**tagged template literal** - Module 1꞉ The Basics.md
+**typeof** - Module 1꞉ The Basics.md
+**concatenation** - Module 1꞉ The Basics.md
+**not** - Module 1꞉ The Basics.md
+**helper methods** - Module 1꞉ The Basics.md
+**`Math.round()`** - Module 1꞉ The Basics.md
+**passing a value** - Module 1꞉ The Basics.md
+**`Math.floor()`** - Module 1꞉ The Basics.md
+**`Math.ceil()`** - Module 1꞉ The Basics.md
+**`Math.random()`** - Module 1꞉ The Basics.md
+**modulo** - Module 1꞉ The Basics.md
+**power** - Module 1꞉ The Basics.md
+**modulo** - Module 1꞉ The Basics.md
+**`, the double `** - Module 1꞉ The Basics.md
+** 2` returns 100 and `1000 ** - Module 1꞉ The Basics.md
+**NaN** - Module 1꞉ The Basics.md
+**Objects** - Module 1꞉ The Basics.md
+**order doesn't matter in an object. If you need order to matter, use an array.** - Module 1꞉ The Basics.md
+**dot notation** - Module 1꞉ The Basics.md
+**Symbols** - Module 1꞉ The Basics.md
+**undefined** - Module 1꞉ The Basics.md
+**null** - Module 1꞉ The Basics.md
+**undefined** - Module 1꞉ The Basics.md
+**null** - Module 1꞉ The Basics.md
+**boolean** - Module 1꞉ The Basics.md
+**flag variable** - Module 1꞉ The Basics.md
+**Triple equals will always check for both value and type.** - Module 1꞉ The Basics.md
+**always checks that the value and type are exactly the same.** - Module 1꞉ The Basics.md
+**flow control** - Module 1꞉ The Basics.md
+**arguments** - Module 2 Functions.md
+**arguments** - Module 2 Functions.md
+**DOM** - Module 2 Functions.md
+**selector** - Module 2 Functions.md
+**Dictionary** - Module 2 Functions.md
+**arguments** - Module 2 Functions.md
+**functions are created or defined** - Module 2 Functions.md
+**called** - Module 2 Functions.md
+**function definition** - Module 2 Functions.md
+**run** - Module 2 Functions.md
+**calling** - Module 2 Functions.md
+**running** - Module 2 Functions.md
+**function body** - Module 2 Functions.md
+**Run** - Module 2 Functions.md
+**Run** - Module 2 Functions.md
+**scope** - Module 2 Functions.md
+**Run** - Module 2 Functions.md
+**capture** - Module 2 Functions.md
+**temporary variable** - Module 2 Functions.md
+**cleaned up** - Module 2 Functions.md
+**garbage collected** - Module 2 Functions.md
+**interpolation** - Module 2 Functions.md
+**arguments** - Module 2 Functions.md
+**parameters** - Module 2 Functions.md
+**DRY** - Module 2 Functions.md
+**Don't Repeat Yourself** - Module 2 Functions.md
+**global variables** - Module 2 Functions.md
+**scope** - Module 2 Functions.md
+**parameters** - Module 2 Functions.md
+**params** - Module 2 Functions.md
+**parameters** - Module 2 Functions.md
+**default values** - Module 2 Functions.md
+**call** - Module 2 Functions.md
+**run** - Module 2 Functions.md
+**invoke** - Module 2 Functions.md
+**arguments** - Module 2 Functions.md
+**arguments** - Module 2 Functions.md
+**scoped to the function** - Module 2 Functions.md
+**You should see it works just fine!** - Module 2 Functions.md
+**Default Values** - Module 2 Functions.md
+**default values** - Module 2 Functions.md
+**defaults** - Module 2 Functions.md
+**undefined** - Module 2 Functions.md
+**truthy** - Module 2 Functions.md
+**falsy** - Module 2 Functions.md
+**value** - Module 2 Functions.md
+**anonymous function** - Module 2 Functions.md
+**callbacks** - Module 2 Functions.md
+**IIFE (immediately invoked function expression)** - Module 2 Functions.md
+**function expression** - Module 2 Functions.md
+**function expression** - Module 2 Functions.md
+**hoisting** - Module 2 Functions.md
+**function** - Module 2 Functions.md
+**hoisted** - Module 2 Functions.md
+**not** - Module 2 Functions.md
+**Hoisting** - Module 2 Functions.md
+**arrow function** - Module 2 Functions.md
+**anonymous functions** - Module 2 Functions.md
+**fat arrow** - Module 2 Functions.md
+**skinny arrow** - Module 2 Functions.md
+**fat arrow** - Module 2 Functions.md
+**implicit return** - Module 2 Functions.md
+**explicit return** - Module 2 Functions.md
+**implicit return** - Module 2 Functions.md
+**explicit** - Module 2 Functions.md
+**IIFE** - Module 2 Functions.md
+**iffy** - Module 2 Functions.md
+**immediately invoked function expression** - Module 2 Functions.md
+**immediately invoked functional expression.** - Module 2 Functions.md
+**closure** - Module 2 Functions.md
+**methods** - Module 2 Functions.md
+**methods** - Module 2 Functions.md
+**method** - Module 2 Functions.md
+**callback functions** - Module 2 Functions.md
+**event listener** - Module 2 Functions.md
+**callback function is a function that gets passed into another function and then it is called by the browser at a later point in time.** - Module 2 Functions.md
+**call stack** - Module 2 Functions.md
+**stack trace** - Module 2 Functions.md
+**breakpoint** - Module 2 Functions.md
+**subtree modifications** - Module 2 Functions.md
+**node removal** - Module 2 Functions.md
+**global variables** - Module 3꞉ The Tricky Bits.md
+**global variable** - Module 3꞉ The Tricky Bits.md
+**function scope** - Module 3꞉ The Tricky Bits.md
+**shadow variables** - Module 3꞉ The Tricky Bits.md
+**shadowed** - Module 3꞉ The Tricky Bits.md
+**block scope** - Module 3꞉ The Tricky Bits.md
+**block** - Module 3꞉ The Tricky Bits.md
+**function scope** - Module 3꞉ The Tricky Bits.md
+**blocked scope** - Module 3꞉ The Tricky Bits.md
+**lexical scoping** - Module 3꞉ The Tricky Bits.md
+**static scoping** - Module 3꞉ The Tricky Bits.md
+**Best Practices** - Module 3꞉ The Tricky Bits.md
+**closure** - Module 3꞉ The Tricky Bits.md
+**Hoisting** - Module 3꞉ The Tricky Bits.md
+**variable hoisting** - Module 3꞉ The Tricky Bits.md
+**not** - Module 3꞉ The Tricky Bits.md
+**Closures** - Module 3꞉ The Tricky Bits.md
+**closure** - Module 3꞉ The Tricky Bits.md
+**closure** - Module 3꞉ The Tricky Bits.md
+**cleaned up** - Module 3꞉ The Tricky Bits.md
+**garbage collected** - Module 3꞉ The Tricky Bits.md
+**private variables** - Module 3꞉ The Tricky Bits.md
+**closure** - Module 3꞉ The Tricky Bits.md
+**private variables** - Module 3꞉ The Tricky Bits.md
+**Document Object Model** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**the DOM** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**Document Object Model** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**NodeList** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**Nodes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**element** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**DOMTokenList** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**prototype** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**attributes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**getters** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**setters** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**dot notation** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**data attributes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**vanilla javascript** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**memory** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**not** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**appendChild** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**reflow** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**not** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**backtick** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**XSS** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**cross-site scripting** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**interpolate** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**range** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**document fragment** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**XSS** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**cross-site scripting** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**Traversing** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**square bracket notation** - Module 4꞉ The DOM - Working with HTML and CSS (2).md
+**DOM Elements** - Module 5꞉ Events.md
+**event listeners** - Module 5꞉ Events.md
+**callback function** - Module 5꞉ Events.md
+**callback function** - Module 5꞉ Events.md
+**DRY** - Module 5꞉ Events.md
+**don't repeat yourself** - Module 5꞉ Events.md
+**DRY** - Module 5꞉ Events.md
+**unbinding** - Module 5꞉ Events.md
+**binding** - Module 5꞉ Events.md
+**unbinding** - Module 5꞉ Events.md
+**remember not to use an anonymous function.** - Module 5꞉ Events.md
+**event object** - Module 5꞉ Events.md
+**isTrusted** - Module 5꞉ Events.md
+**pressure** - Module 5꞉ Events.md
+**event.target** - Module 5꞉ Events.md
+**event.currentTarget** - Module 5꞉ Events.md
+**propagation** - Module 5꞉ Events.md
+**capture** - Module 5꞉ Events.md
+**Capture** - Module 5꞉ Events.md
+**bubbling** - Module 5꞉ Events.md
+**bubbling up** - Module 5꞉ Events.md
+**this** - Module 5꞉ Events.md
+**Helpful Tip** - Module 5꞉ Events.md
+**regex** - Module 5꞉ Events.md
+**canvas** - Module 6꞉ Serious Practice Excercises.md
+**switch** - Module 6꞉ Serious Practice Excercises.md
+**canvas** - Module 6꞉ Serious Practice Excercises.md
+**context** - Module 6꞉ Serious Practice Excercises.md
+**destructing** - Module 6꞉ Serious Practice Excercises.md
+**destructuring** - Module 6꞉ Serious Practice Excercises.md
+**Math.random()** - Module 6꞉ Serious Practice Excercises.md
+**if statement** - Module 6꞉ Serious Practice Excercises.md
+**object destructuring** - Module 6꞉ Serious Practice Excercises.md
+**flow control** - Module 6꞉ Serious Practice Excercises.md
+**switch statement** - Module 6꞉ Serious Practice Excercises.md
+**HSL** - Module 6꞉ Serious Practice Excercises.md
+**click outside** - Module 6꞉ Serious Practice Excercises.md
+**scroll event** - Module 6꞉ Serious Practice Excercises.md
+**intersection observer** - Module 6꞉ Serious Practice Excercises.md
+**Intersection Observer** - Module 6꞉ Serious Practice Excercises.md
+**Intersection Observer** - Module 6꞉ Serious Practice Excercises.md
+**callback** - Module 6꞉ Serious Practice Excercises.md
+**IntersectionObserverEntry** - Module 6꞉ Serious Practice Excercises.md
+**accessibility** - Module 6꞉ Serious Practice Excercises.md
+**SEO** - Module 6꞉ Serious Practice Excercises.md
+**pseudocode** - Module 6꞉ Serious Practice Excercises.md
+**BEDMAS** - Module 7 Logic and Flow Control.md
+**exponents** - Module 7 Logic and Flow Control.md
+**If statements** - Module 7 Logic and Flow Control.md
+**booleans** - Module 7 Logic and Flow Control.md
+**true or false** - Module 7 Logic and Flow Control.md
+**truthy and falsy** - Module 7 Logic and Flow Control.md
+**condition** - Module 7 Logic and Flow Control.md
+**regex** - Module 7 Logic and Flow Control.md
+**regular expression** - Module 7 Logic and Flow Control.md
+**return** - Module 7 Logic and Flow Control.md
+**truthy** - Module 7 Logic and Flow Control.md
+**falsy** - Module 7 Logic and Flow Control.md
+**pipes** - Module 7 Logic and Flow Control.md
+**BEDMAS** - Module 7 Logic and Flow Control.md
+**truthy** - Module 7 Logic and Flow Control.md
+**falsy** - Module 7 Logic and Flow Control.md
+**coerce** - Module 7 Logic and Flow Control.md
+**NaN** - Module 7 Logic and Flow Control.md
+**not a number** - Module 7 Logic and Flow Control.md
+**array** - Module 7 Logic and Flow Control.md
+**Coercion** - Module 7 Logic and Flow Control.md
+**Coercion** - Module 7 Logic and Flow Control.md
+**ternary** - Module 7 Logic and Flow Control.md
+**ternary** - Module 7 Logic and Flow Control.md
+**&& trick** - Module 7 Logic and Flow Control.md
+**short-circuiting** - Module 7 Logic and Flow Control.md
+**not** - Module 7 Logic and Flow Control.md
+**must always break after each of your cases.** - Module 7 Logic and Flow Control.md
+**square bracket notation** - Module 7 Logic and Flow Control.md
+**timeouts** - Module 7 Logic and Flow Control.md
+**intervals** - Module 7 Logic and Flow Control.md
+**timeout** - Module 7 Logic and Flow Control.md
+**interval** - Module 7 Logic and Flow Control.md
+**asynchronous** - Module 7 Logic and Flow Control.md
+**Objects** - Module 8꞉ Data Types.md
+**properties** - Module 8꞉ Data Types.md
+**values** - Module 8꞉ Data Types.md
+**keys** - Module 8꞉ Data Types.md
+**ues is what they are often caled (throughout the course Wes will be saying ** - Module 8꞉ Data Types.md
+** and ** - Module 8꞉ Data Types.md
+**object literal** - Module 8꞉ Data Types.md
+**string literal syntax** - Module 8꞉ Data Types.md
+**property** - Module 8꞉ Data Types.md
+**value** - Module 8꞉ Data Types.md
+**trailing comma** - Module 8꞉ Data Types.md
+**comma dangle** - Module 8꞉ Data Types.md
+**trailing comma** - Module 8꞉ Data Types.md
+**nested properties** - Module 8꞉ Data Types.md
+**nested objects** - Module 8꞉ Data Types.md
+**immutable** - Module 8꞉ Data Types.md
+**Mutation** - Module 8꞉ Data Types.md
+**square brackets** - Module 8꞉ Data Types.md
+**square brackets** - Module 8꞉ Data Types.md
+**must** - Module 8꞉ Data Types.md
+**prototyping** - Module 8꞉ Data Types.md
+**not** - Module 8꞉ Data Types.md
+**reference** - Module 8꞉ Data Types.md
+**value** - Module 8꞉ Data Types.md
+**object** - Module 8꞉ Data Types.md
+**array** - Module 8꞉ Data Types.md
+**spread** - Module 8꞉ Data Types.md
+**spread** - Module 8꞉ Data Types.md
+**shallow** - Module 8꞉ Data Types.md
+**deep clone** - Module 8꞉ Data Types.md
+**deep copy** - Module 8꞉ Data Types.md
+**utility library** - Module 8꞉ Data Types.md
+**map** - Module 8꞉ Data Types.md
+**is** - Module 8꞉ Data Types.md
+**destructure** - Module 8꞉ Data Types.md
+**JSON** - Module 8꞉ Data Types.md
+**json** - Module 8꞉ Data Types.md
+**Javascript Object Notation** - Module 8꞉ Data Types.md
+**JSON 5** - Module 8꞉ Data Types.md
+**array** - Module 8꞉ Data Types.md
+**item** - Module 8꞉ Data Types.md
+**index** - Module 8꞉ Data Types.md
+**length** - Module 8꞉ Data Types.md
+*array literal** - Module 8꞉ Data Types.md
+**static method** - Module 8꞉ Data Types.md
+**zero based** - Module 8꞉ Data Types.md
+**zero based** - Module 8꞉ Data Types.md
+**immutability** - Module 8꞉ Data Types.md
+**mutable** - Module 8꞉ Data Types.md
+**immutable** - Module 8꞉ Data Types.md
+**mutable** - Module 8꞉ Data Types.md
+**immutable** - Module 8꞉ Data Types.md
+**Mutable** - Module 8꞉ Data Types.md
+**mutation** - Module 8꞉ Data Types.md
+**Immutable** - Module 8꞉ Data Types.md
+**mutation** - Module 8꞉ Data Types.md
+**immutable** - Module 8꞉ Data Types.md
+**static methods** - Module 8꞉ Data Types.md
+**instance or prototypal methods** - Module 8꞉ Data Types.md
+**static methods** - Module 8꞉ Data Types.md
+**utility methods** - Module 8꞉ Data Types.md
+**iterable** - Module 8꞉ Data Types.md
+**iterable** - Module 8꞉ Data Types.md
+**key** - Module 8꞉ Data Types.md
+**value** - Module 8꞉ Data Types.md
+**destructuring** - Module 8꞉ Data Types.md
+**delimited** - Module 8꞉ Data Types.md
+**spreading** - Module 8꞉ Data Types.md
+**zero width joiner** - Module 8꞉ Data Types.md
+**mutable** - Module 8꞉ Data Types.md
+**mutable** - Module 8꞉ Data Types.md
+**immutably** - Module 8꞉ Data Types.md
+**"callback" methods** - Module 8꞉ Data Types.md
+**high-order functions** - Module 8꞉ Data Types.md
+**parameter** - Module 9꞉ Gettin' Loopy.md
+**abusing conditionals** - Module 9꞉ Gettin' Loopy.md
+**side effects** - Module 9꞉ Gettin' Loopy.md
+**side effect** - Module 9꞉ Gettin' Loopy.md
+**pure functions** - Module 9꞉ Gettin' Loopy.md
+**Pure functions** - Module 9꞉ Gettin' Loopy.md
+**mutable** - Module 9꞉ Gettin' Loopy.md
+**Javascript Date** - Module 9꞉ Gettin' Loopy.md
+**timestamps** - Module 9꞉ Gettin' Loopy.md
+**date-fns** - Module 9꞉ Gettin' Loopy.md
+**high order function** - Module 9꞉ Gettin' Loopy.md
+**higher order function** - Module 9꞉ Gettin' Loopy.md
+**side effect** - Module 9꞉ Gettin' Loopy.md
+**accumulator** - Module 9꞉ Gettin' Loopy.md
+**accumulator** - Module 9꞉ Gettin' Loopy.md
+**advantage of conditionals** - Module 9꞉ Gettin' Loopy.md
+**abusing conditionals** - Module 9꞉ Gettin' Loopy.md
+**regular expression** - Module 9꞉ Gettin' Loopy.md
+**Regex pattern** - Module 9꞉ Gettin' Loopy.md
+**ClampedArray** - Module 9꞉ Gettin' Loopy.md
+**iterable** - Module 9꞉ Gettin' Loopy.md
+**promises** - Module 9꞉ Gettin' Loopy.md
+**await** - Module 9꞉ Gettin' Loopy.md
+**prototypes** - Module 9꞉ Gettin' Loopy.md
+**exit condition** - Module 9꞉ Gettin' Loopy.md

@@ -1,0 +1,408 @@
+**origin**
+**domain name**
+**bundler**
+**Parcel**
+**NodeJS**
+**NPM**
+**promise**
+**request animation frame**
+**Request animation frame**
+**recursion**
+**Recursion**
+**modulo**
+**custom events**
+**event delegation**
+**DOM events**
+**local storage**
+**state**
+**client-side validation**
+**dispatch**
+**custom**
+**prototypes**
+**classes**
+**SASS**
+**closure**
+**constructor**
+**destructuring**
+**call and apply**
+**the prototype**
+**object-oriented programming**
+**functional programming**
+**`new`**
+**literal syntax**
+**extending**
+**prototypal inheritance**
+**prototypal methods**
+**prototype**
+**prototype lookup**
+**built in functions**
+**polyfill**
+**promises**
+**asynchronous**
+**non-blocking**
+**single threaded language**
+**multi-threaded**
+**call stack**
+**event loop**
+**callback queue**
+**callback hell**
+**"Christmas Tree" code**
+**concurrently**
+**sequentially**
+**array destructuring**
+**fulfilled**
+**rejected**
+**async/await**
+**Waait**
+**foot gun**
+**try and catch**
+**higher order function**
+**synchronous map**
+**CSS custom property**
+**memory leak**
+**not**
+**pure function**
+**API**
+**Application Programming Interface**
+**JSON**
+**Javascript Object Notation**
+**javascript dot notation**
+**AJAX**
+**Asynchronous Javascript and XML**
+**XML**
+**CORS**
+**parameters**
+**query parameters**
+**query params**
+**Cross Origin Resource Sharing**
+**cross origin**
+**origins**
+**CORS policy**
+**Babel**
+**proxy**
+**To be absolutely clear here: you are sending you data through a random web server that is controlled by who knows who.**
+**custom headers**
+**Accept Header**
+**header**
+**Modules**
+**ESM**
+**EcmaScript modules**
+**ES6 modules**
+**hot reloading**
+**live reloading**
+**Named Imports**
+**Default Imports**
+**You always do your imports at the very top of the file that you are in, and you can have multiple imports as well. Then you simply have access to that functionality and can use it.**
+**named exports**
+**named imports**
+**default export**
+**library functions**
+**flat file structure**
+**minification**
+**dead-code elimination**
+**LESS**
+**CSS auto-prefixer**
+**package.json**
+**dev dependency**
+**Map files**
+**create-react-app**
+**Next.js**
+**Gatsby**
+**CommonJSs**
+**ECMAScript modules**
+**ordinal**
+**fetch**
+**should not**
+**The rule is that anytime you are taking data from the user and embedding it in HTML you must first sanitize it**
+**_anywhere that you are taking user data and generating HTML from that, you must first sanitize the data_**
+**_not good_**
+**cross site scripting**
+**sanitize**
+**DOMPurify**
+**vendor prefix**
+**Regex**
+**coerce**
+**buffer**
+**Please star the beginner-JavaScript github repo to help Wes up!**
+**REPL**
+**read-eval-print loop**
+**modules**
+**Variables**
+**statement**
+**A statement**
+**code block**
+**automatic semi-colon insertion**
+**global variables**
+**cannot**
+**API key**
+**Strict Mode**
+**JavaScript modules**
+**function scoped variables**
+**block scoped variables**
+**naming conventions**
+**camel case**
+**snake case**
+** kebab case**
+**ESLint**
+**dependencies**
+**dot file**
+**With VS Code**
+**Step #2 of the "With VS Code"**
+**Beautifier**
+**Types**
+**String**
+**Number**
+**Object**
+**Boolean**
+**Null**
+**Undefined**
+**Symbol**
+*` comment will open up what is called a **
+**escaping**
+**concatenation**
+**Concatenation**
+**Interpolation**
+**backticks**
+**variable interpolation**
+**tagged template literal**
+**typeof**
+**helper methods**
+**`Math.round()`**
+**passing a value**
+**`Math.floor()`**
+**`Math.ceil()`**
+**`Math.random()`**
+**power**
+**`, the double `**
+** 2` returns 100 and `1000 **
+**NaN**
+**Objects**
+**order doesn't matter in an object. If you need order to matter, use an array.**
+**dot notation**
+**Symbols**
+**undefined**
+**null**
+**boolean**
+**flag variable**
+**Triple equals will always check for both value and type.**
+**always checks that the value and type are exactly the same.**
+**flow control**
+**arguments**
+**DOM**
+**selector**
+**Dictionary**
+**functions are created or defined**
+**called**
+**function definition**
+**run**
+**calling**
+**running**
+**function body**
+**Run**
+**scope**
+**capture**
+**temporary variable**
+**cleaned up**
+**garbage collected**
+**interpolation**
+**DRY**
+**Don't Repeat Yourself**
+**params**
+**default values**
+**call**
+**invoke**
+**scoped to the function**
+**You should see it works just fine!**
+**Default Values**
+**defaults**
+**truthy**
+**falsy**
+**value**
+**anonymous function**
+**callbacks**
+**IIFE (immediately invoked function expression)**
+**function expression**
+**hoisting**
+**function**
+**hoisted**
+**Hoisting**
+**arrow function**
+**anonymous functions**
+**fat arrow**
+**skinny arrow**
+**implicit return**
+**explicit return**
+**explicit**
+**IIFE**
+**iffy**
+**immediately invoked function expression**
+**immediately invoked functional expression.**
+**methods**
+**method**
+**callback functions**
+**event listener**
+**callback function is a function that gets passed into another function and then it is called by the browser at a later point in time.**
+**stack trace**
+**breakpoint**
+**subtree modifications**
+**node removal**
+**global variable**
+**function scope**
+**shadow variables**
+**shadowed**
+**block scope**
+**block**
+**blocked scope**
+**lexical scoping**
+**static scoping**
+**Best Practices**
+**variable hoisting**
+**Closures**
+**private variables**
+**Document Object Model**
+**the DOM**
+**NodeList**
+**Nodes**
+**element**
+**DOMTokenList**
+**attributes**
+**getters**
+**setters**
+**data attributes**
+**vanilla javascript**
+**memory**
+**appendChild**
+**reflow**
+**backtick**
+**XSS**
+**cross-site scripting**
+**interpolate**
+**range**
+**document fragment**
+**Traversing**
+**square bracket notation**
+**DOM Elements**
+**event listeners**
+**callback function**
+**don't repeat yourself**
+**unbinding**
+**binding**
+**remember not to use an anonymous function.**
+**event object**
+**isTrusted**
+**pressure**
+**event.target**
+**event.currentTarget**
+**propagation**
+**Capture**
+**bubbling**
+**bubbling up**
+**this**
+**Helpful Tip**
+**regex**
+**canvas**
+**switch**
+**context**
+**destructing**
+**Math.random()**
+**if statement**
+**object destructuring**
+**switch statement**
+**HSL**
+**click outside**
+**scroll event**
+**intersection observer**
+**Intersection Observer**
+**callback**
+**IntersectionObserverEntry**
+**accessibility**
+**SEO**
+**pseudocode**
+**BEDMAS**
+**exponents**
+**If statements**
+**booleans**
+**true or false**
+**truthy and falsy**
+**condition**
+**regular expression**
+**return**
+**pipes**
+**not a number**
+**array**
+**Coercion**
+**ternary**
+**&& trick**
+**short-circuiting**
+**must always break after each of your cases.**
+**timeouts**
+**intervals**
+**timeout**
+**interval**
+**properties**
+**values**
+**keys**
+**ues is what they are often caled (throughout the course Wes will be saying **
+** and **
+**object literal**
+**string literal syntax**
+**property**
+**trailing comma**
+**comma dangle**
+**nested properties**
+**nested objects**
+**immutable**
+**Mutation**
+**square brackets**
+**must**
+**prototyping**
+**reference**
+**object**
+**spread**
+**shallow**
+**deep clone**
+**deep copy**
+**utility library**
+**map**
+**is**
+**destructure**
+**json**
+**JSON 5**
+**item**
+**index**
+**length**
+*array literal**
+**static method**
+**zero based**
+**immutability**
+**mutable**
+**Mutable**
+**mutation**
+**Immutable**
+**static methods**
+**instance or prototypal methods**
+**utility methods**
+**iterable**
+**key**
+**delimited**
+**spreading**
+**zero width joiner**
+**immutably**
+**"callback" methods**
+**high-order functions**
+**parameter**
+**abusing conditionals**
+**side effects**
+**side effect**
+**pure functions**
+**Pure functions**
+**Javascript Date**
+**timestamps**
+**date-fns**
+**high order function**
+**accumulator**
+**advantage of conditionals**
+**Regex pattern**
+**ClampedArray**
+**await**
+**exit condition**

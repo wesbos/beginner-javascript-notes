@@ -5,6 +5,44 @@ created: '2020-02-06T12:06:57.469Z'
 modified: '2020-07-31T22:30:45.256Z'
 ---
 
+- [Module 4: The DOM - Working with HTML and CSS](#module-4--the-dom---working-with-html-and-css)
+  * [20 - The DOM - Introduction to the document](#20---the-dom---introduction-to-the-document)
+    + [`window` Refresher](#-window--refresher)
+    + [`document` Introduction](#-document--introduction)
+    + [The `navigator`](#the--navigator-)
+  * [21 - The DOM - Selecting Elements](#21---the-dom---selecting-elements)
+    + [Where to Load Javascript When Selecting Elements](#where-to-load-javascript-when-selecting-elements)
+    + [Selecting DOM Elements](#selecting-dom-elements)
+      - [Searching Inside Already Selected Elements](#searching-inside-already-selected-elements)
+  * [22 - The DOM - Element Properties and Methods](#22---the-dom---element-properties-and-methods)
+    + [Getters and Setters](#getters-and-setters)
+      - [`textContent` and `innerText`](#-textcontent--and--innertext-)
+    + [Exercise](#exercise)
+    + [`insertAdjacentText` and `insertAdjacentElement`](#-insertadjacenttext--and--insertadjacentelement-)
+  * [23 - The DOM - Working with Classes](#23---the-dom---working-with-classes)
+    + [Adding a class](#adding-a-class)
+    + [Removing a class](#removing-a-class)
+    + [Toggling a class](#toggling-a-class)
+    + [The `contains` Method](#the--contains--method)
+  * [24 - The DOM - Built in and Custom Data Attributes](#24---the-dom---built-in-and-custom-data-attributes)
+    + [Data Attributes](#data-attributes)
+  * [25 - The DOM - Creating HTML](#25---the-dom---creating-html)
+    + [`append()`](#-append---)
+    + [`insertAdjacentElement()`](#-insertadjacentelement---)
+    + [Generating An Unordered List](#generating-an-unordered-list)
+  * [26 - The DOM - HTML from Strings and XSS](#26---the-dom---html-from-strings-and-xss)
+    + [`document.createRange()` and `document.createFragment()`](#-documentcreaterange----and--documentcreatefragment---)
+    + [Security and Santization](#security-and-santization)
+    + [XSS (Cross Site Scripting)](#xss--cross-site-scripting-)
+  * [27 - The DOM - Traversing and Removing Nodes](#27---the-dom---traversing-and-removing-nodes)
+    + [The difference between and node and an element](#the-difference-between-and-node-and-an-element)
+    + [Properties to work with Nodes and Elements](#properties-to-work-with-nodes-and-elements)
+    + [Removing Elements](#removing-elements)
+  * [28 - The DOM - CARDIO](#28---the-dom---cardio)
+    + [`closest()`](#-closest---)
+
+---
+
 # Module 4: The DOM - Working with HTML and CSS
 
 ## 20 - The DOM - Introduction to the document
@@ -281,7 +319,7 @@ You can get all the work done with `document.querySelector()` and `document.quer
 
 ---
 
-# 22 - The DOM - Element Properties and Methods 
+## 22 - The DOM - Element Properties and Methods 
 
 Now that we know how to select elements, let's go over what we can do with them. 
 

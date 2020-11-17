@@ -5,6 +5,21 @@ created: '2020-02-03T23:25:39.261Z'
 modified: '2020-07-29T22:11:29.164Z'
 ---
 
+- [Module 3: The Tricky Bits](#module-3--the-tricky-bits)
+  * [17 - Scope](#17---scope)
+    + [Global Variables](#global-variables)
+    + [Function Scope](#function-scope)
+    + [Block Scoping](#block-scoping)
+    + [Lexical and Static Scoping](#lexical-and-static-scoping)
+  * [18 - Hoisting](#18---hoisting)
+    + [Hoisting Function Declarations](#hoisting-function-declarations)
+    + [Variable Hoisting](#variable-hoisting)
+  * [19 - Closures](#19---closures)
+    + [Examples of Closures](#examples-of-closures)
+    + [Private Variables](#private-variables)
+
+---
+
 # Module 3: The Tricky Bits
 
 ## 17 - Scope

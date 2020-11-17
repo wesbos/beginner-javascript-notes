@@ -116,6 +116,43 @@ created: "2020-01-28T21:27:12.651Z"
 modified: "2020-07-28T12:02:49.217Z"
 ---
 
+- [Module 2: Functions](#module-2--functions)
+  * [12 - Functions - Built in](#12---functions---built-in)
+    + [Built-in Functions](#built-in-functions)
+        * [Example #1 👇](#example--1---)
+  * [13 - Functions - Custom](#13---functions---custom)
+    + [Defining a Function](#defining-a-function)
+    + [Returning Values](#returning-values)
+    + [Storing a Value Returned from A Function](#storing-a-value-returned-from-a-function)
+  * [14 - Functions - Parameters and Arguments](#14---functions---parameters-and-arguments)
+    + [Another Example](#another-example)
+    + [Even More Example](#even-more-example)
+    + [How to Fall Back on Default for Only One Parameter](#how-to-fall-back-on-default-for-only-one-parameter)
+  * [15 - Different Ways to Declare Functions](#15---different-ways-to-declare-functions)
+      - [Anonymous Functions](#anonymous-functions)
+      - [Function Expressions](#function-expressions)
+      - [What is the difference between a function declaration and a function expression?](#what-is-the-difference-between-a-function-declaration-and-a-function-expression-)
+        * [Hoisting](#hoisting)
+    + [Arrow Functions](#arrow-functions)
+    + [Different Ways to Write Arrow Functions](#different-ways-to-write-arrow-functions)
+    + [Implicit and Explicit Returns](#implicit-and-explicit-returns)
+    + [Arrow Function Gotcha's](#arrow-function-gotcha-s)
+        * [Returning an object](#returning-an-object)
+      - [IIFE](#iife)
+    + [Methods](#methods)
+    + [Preview of `this`](#preview-of--this-)
+    + [Callback Functions](#callback-functions)
+      - [Callback Example 1 - Click Callback](#callback-example-1---click-callback)
+    + [Timer Callback](#timer-callback)
+  * [16 - Debugging Tools](#16---debugging-tools)
+    + [Console Debugging](#console-debugging)
+  * [The Call Stack and Stack Trace](#the-call-stack-and-stack-trace)
+  * [Grabbing Elements](#grabbing-elements)
+  * [Breakpoints](#breakpoints)
+
+
+---
+
 # Module 2: Functions
 
 ## 12 - Functions - Built in

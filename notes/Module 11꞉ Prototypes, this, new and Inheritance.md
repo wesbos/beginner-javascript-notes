@@ -5,6 +5,20 @@ created: '2020-05-04T23:17:43.495Z'
 modified: '2020-09-30T11:38:51.857Z'
 ---
 
+- [Module 11: Prototypes, `this`, `new` and Inheritance](#module-11--prototypes---this----new--and-inheritance)
+  * [60 - The New Keyword](#60---the-new-keyword)
+  * [61 -  The `this` keyword.](#61----the--this--keyword)
+  * [62 - Prototype Refactor of Gallery Exercise](#62---prototype-refactor-of-gallery-exercise)
+    + [`bind()`](#-bind---)
+  * [63 - Prototypes and Prototypal Inheritance](#63---prototypes-and-prototypal-inheritance)
+  * [64 - Prototype Refactor of the Slider Exercise](#64---prototype-refactor-of-the-slider-exercise)
+  * [65 -  bind, call and apply](#65----bind--call-and-apply)
+      - [`call` and `apply`](#-call--and--apply-)
+        * [`call`](#-call-)
+        * [`apply`](#-apply-)
+
+---
+
 # Module 11: Prototypes, `this`, `new` and Inheritance
 
 ## 60 - The New Keyword

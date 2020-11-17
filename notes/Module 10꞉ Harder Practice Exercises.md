@@ -5,6 +5,20 @@ created: '2020-04-20T11:16:46.618Z'
 modified: '2020-09-15T22:41:20.892Z'
 ---
 
+- [Module 10: Harder Practice Exercises](#module-10--harder-practice-exercises)
+  * [55 - Face Detection and Censorship](#55---face-detection-and-censorship)
+  * [56 - Sarcastic Text Generator](#56---sarcastic-text-generator)
+    + [The modulo operator](#the-modulo-operator)
+  * [57 - Shopping Form with Custom Events, Delegation and localstorage](#57---shopping-form-with-custom-events--delegation-and-localstorage)
+    + [`localStorage`](#-localstorage-)
+    + [Event Delegation](#event-delegation)
+  * [58 - Building a Gallery Exercise](#58---building-a-gallery-exercise)
+    + [Closures](#closures)
+      - [`tab-index`](#-tab-index-)
+  * [59 - Building a Slider](#59---building-a-slider)
+
+---
+
 # Module 10: Harder Practice Exercises
 
 ## 55 - Face Detection and Censorship 

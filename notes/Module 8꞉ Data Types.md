@@ -5,9 +5,34 @@ created: '2020-04-02T11:47:12.050Z'
 modified: '2020-08-18T11:37:39.324Z'
 ---
 
+- [Module 8: Data Types](#module-8--data-types)
+  * [42 - Objects](#42---objects)
+    + [Creating an Object](#creating-an-object)
+    + [Accessing Properties](#accessing-properties)
+    + [Deleting a Property from an Object](#deleting-a-property-from-an-object)
+    + [Methods](#methods)
+  * [43 - Object Reference vs Values](#43---object-reference-vs-values)
+    + [Spread Operator](#spread-operator)
+    + [Lodash](#lodash)
+  * [44 - Maps](#44---maps)
+      - [Set](#set)
+    + [JSON](#json)
+  * [45 - Arrays](#45---arrays)
+    + [Array Methods](#array-methods)
+  * [46 - Array Cardio - Static Methods](#46---array-cardio---static-methods)
+      - [Object Static Methods](#object-static-methods)
+  * [47 - Array Cardio - Instance Methods](#47---array-cardio---instance-methods)
+    + [`join`](#-join-)
+    + [`split`](#-split-)
+    + [`pop`](#-pop-)
+    + [`shit` and `unshift`](#-shit--and--unshift-)
+  * [48 - Array Cardio - Callback Methods and Function Generation](#48---array-cardio---callback-methods-and-function-generation)
+  
+---
+
 # Module 8: Data Types
 
-## 41 - Objects
+## 42 - Objects
 
 In this section of the course we will be learning about objects and arrays. 
 

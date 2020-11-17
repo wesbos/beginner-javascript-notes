@@ -6,6 +6,19 @@ created: '2020-03-15T19:10:20.059Z'
 modified: '2020-08-06T10:42:13.105Z'
 ---
 
+- [Module 6: Serious Practice Excercises](#module-6--serious-practice-excercises)
+  * [33 - Etch-a-Sketch](#33---etch-a-sketch)
+    + [Shaking / Clearing the Canvas](#shaking---clearing-the-canvas)
+    + [`once`](#-once-)
+  * [34 - Click Outside Modal](#34---click-outside-modal)
+    + [`closest`](#-closest-)
+  * [35 - Scroll Events and Intersection Observer](#35---scroll-events-and-intersection-observer)
+    + [Intersection Observer](#intersection-observer)
+  * [36 -Tabs](#36--tabs)
+    + [Converting a NodeList to an Array](#converting-a-nodelist-to-an-array)
+
+---
+
 # Module 6: Serious Practice Excercises
 
 ## 33 - Etch-a-Sketch

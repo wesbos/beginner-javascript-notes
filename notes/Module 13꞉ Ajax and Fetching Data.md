@@ -5,6 +5,34 @@ created: '2020-05-21T10:25:44.675Z'
 modified: '2020-07-13T22:15:33.660Z'
 ---
 
+- [Module 13: Ajax and Fetching Data](#module-13--ajax-and-fetching-data)
+  * [74 - Ajax and APIs](#74---ajax-and-apis)
+    + [What is an API?](#what-is-an-api-)
+    + [JSON](#json)
+    + [AJAX](#ajax)
+      - [Public API list](#public-api-list)
+  * [75 - CORS and Recipes](#75---cors-and-recipes)
+    + [Query Parameters](#query-parameters)
+    + [CORS](#cors)
+      - [What is CORS?](#what-is-cors-)
+    + [CORS policy](#cors-policy)
+      - [Babel](#babel)
+      - [Browserlist](#browserlist)
+      - [Proxy](#proxy)
+  * [76 - Dad Jokes](#76---dad-jokes)
+    + [Headers](#headers)
+    + [Getting a Random Index](#getting-a-random-index)
+    + [Loading State & CSS Loader](#loading-state---css-loader)
+  * [77 - Currency Converter](#77---currency-converter)
+    + [Caching the Rates](#caching-the-rates)
+    + [Converting](#converting)
+    + [Hooking Up The UI](#hooking-up-the-ui)
+      - [Input Event on a Form](#input-event-on-a-form)
+      - [Wiring up Handlers](#wiring-up-handlers)
+      - [Formatting Currency using Number Format API](#formatting-currency-using-number-format-api)
+
+---
+
 # Module 13: Ajax and Fetching Data
 
 ## 74 - Ajax and APIs
@@ -1705,7 +1733,7 @@ function convert(amount, from, to) {
 }
 ```
 
-## Caching the Rates 
+### Caching the Rates 
 
 Here is where that exercise gets a little tricky. 
 
@@ -1731,7 +1759,7 @@ We will store all of the rates within that object/ Every time a currency is sele
 
 If we were to cycle through all the currencies, our `ratesByBase` object would be massive because it will contain all of the rates by their from value. So by default we start with nothing because we have nothing.
 
-## Converting 
+### Converting 
 
 Let's go back to our `convert` function.
 
@@ -1837,13 +1865,13 @@ If you refresh the page and try that, you should see something like the followin
 
 At this point, we have built the main functionality of the app so at this point we can start hooking it up to our UI.
 
-## Hooking Up The UI
+### Hooking Up The UI
 
 There are three inputs that we need to listen on: 
 - the amount,
 - 2 currency select inputs
 
-### Input Event on a Form
+#### Input Event on a Form
 
 There is a trick we can use here, which is listening for an input event on the form. That one event will cover all of them, which is pretty cool.
 
@@ -1878,7 +1906,7 @@ Those events bubble up to the form where we handle them in our `handleInputs`.
 
 So remember that trick, you can listen on the "input" event on a form and that will cover all of your inputs that are inside of that form.
 
-### Wiring up Handlers 
+#### Wiring up Handlers 
 
 Let's start wiring up the handler to call our functions.
 
@@ -1940,7 +1968,7 @@ Try changing the "to currency" and the "from currency" to ensure the value is st
 
 ![](../attachments/1201.png) 23:56
 
-### Formatting Currency using Number Format API 
+#### Formatting Currency using Number Format API 
 
 The problem we have now is that it is not formatting it accordingly to what the locale is.
 

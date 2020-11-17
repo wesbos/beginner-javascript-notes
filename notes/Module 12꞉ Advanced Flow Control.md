@@ -5,6 +5,24 @@ created: '2020-05-07T23:18:40.737Z'
 modified: '2020-09-18T12:49:24.831Z'
 ---
 
+- [Module 12: Advanced Flow Control](#module-12--advanced-flow-control)
+  * [66 - The Event Loop and Callback Hell](#66---the-event-loop-and-callback-hell)
+  * [67 - Promises](#67---promises)
+    + [`.then()`](#-then---)
+    + [`Promise.all()`](#-promiseall---)
+    + [`Promise.race()`](#-promiserace---)
+  * [68 - Promises - Error Handling](#68---promises---error-handling)
+    + [`Promise.allSettled()`](#-promiseallsettled---)
+  * [69 - Refactoring Callback Hell to Promise Land](#69---refactoring-callback-hell-to-promise-land)
+  * [70 - Async/Await](#70---async-await)
+  * [71 - Async Await Error Handling](#71---async-await-error-handling)
+      - [Handling Errors with Higher Order Functions](#handling-errors-with-higher-order-functions)
+  * [72 - Async Await Prompt UI](#72---async-await-prompt-ui)
+      - [Running an Event Listener Only Once](#running-an-event-listener-only-once)
+  * [73 - Async Typer UI - two ways](#73---async-typer-ui---two-ways)
+
+---
+
 # Module 12: Advanced Flow Control 
 
 ## 66 - The Event Loop and Callback Hell

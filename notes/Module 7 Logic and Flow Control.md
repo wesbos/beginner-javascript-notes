@@ -5,6 +5,23 @@ created: '2020-03-10T11:02:14.437Z'
 modified: '2020-08-10T23:22:10.716Z'
 ---
 
+- [Module 7: Logic and Flow Control](#module-7--logic-and-flow-control)
+  * [37 - BEDMAS](#37---bedmas)
+  * [38 - Flow Control - If Statements, Function Returns, Turthy, Falsy](#38---flow-control---if-statements--function-returns--turthy--falsy)
+    + [If Statements](#if-statements)
+    + [Operators](#operators)
+      - [Truthy or Falsy](#truthy-or-falsy)
+    + [Truthy or Falsy values](#truthy-or-falsy-values)
+  * [39 - Coercion, Ternaries and Conditional Abuse](#39---coercion--ternaries-and-conditional-abuse)
+    + [Ternary](#ternary)
+    + [Blockless If Statements](#blockless-if-statements)
+  * [40 - Case Switch and Animating a Turtle with CSS Variables](#40---case-switch-and-animating-a-turtle-with-css-variables)
+  * [41 - Intervals and Timers](#41---intervals-and-timers)
+    + [Intervals](#intervals)
+    + [Clearing Timeouts and Intervals](#clearing-timeouts-and-intervals)
+
+---
+
 # Module 7: Logic and Flow Control
 
 ## 37 - BEDMAS

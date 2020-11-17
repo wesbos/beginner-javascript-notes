@@ -5,6 +5,17 @@ created: '2020-06-18T10:37:29.455Z'
 modified: '2020-09-22T11:27:34.616Z'
 ---
 
+- [84 - Web Speech Colours Game](#84---web-speech-colours-game)
+  * [Web Speech](#web-speech)
+  * [Colour Layout](#colour-layout)
+    + [Combining Speech and Words](#combining-speech-and-words)
+- [85 - Audio Visualization](#85---audio-visualization)
+    + [Audio](#audio)
+  * [Time Data Visualization](#time-data-visualization)
+    + [Frequency Visualization](#frequency-visualization)
+
+---
+
 # Module 15 - Final Round of Exercises
 
 ---

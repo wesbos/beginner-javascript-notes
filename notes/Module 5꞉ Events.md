@@ -5,6 +5,23 @@ created: '2020-03-01T19:37:44.608Z'
 modified: '2020-08-05T01:43:55.870Z'
 ---
 
+- [Module 5: Events](#module-5--events)
+  * [29 - Events - Event Listener](#29---events---event-listener)
+    + [Removing an Event Listener](#removing-an-event-listener)
+    + [Listening to events on multiple items](#listening-to-events-on-multiple-items)
+    + [`forEach`](#-foreach-)
+  * [30 - Events - targets, bubbling, propagation and capture.](#30---events---targets--bubbling--propagation-and-capture)
+    + [Propagation](#propagation)
+    + [`this`](#-this-)
+  * [31 - Events - Prevent Default and Form Events](#31---events---prevent-default-and-form-events)
+    + [preventDefault](#preventdefault)
+    + [Other Types of Events with Form Inputs](#other-types-of-events-with-form-inputs)
+  * [32 - Events - Accessibility Gotchas and Keyboard Codes](#32---events---accessibility-gotchas-and-keyboard-codes)
+    + [Difference between Buttons and Links](#difference-between-buttons-and-links)
+    + [Keyboard Accessibility](#keyboard-accessibility)
+
+---
+
 # Module 5: Events
 
 ## 29 - Events - Event Listener

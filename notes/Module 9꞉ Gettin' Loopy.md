@@ -5,6 +5,22 @@ created: '2020-04-13T22:24:51.247Z'
 modified: '2020-08-20T11:51:56.686Z'
 ---
 
+- [Module 9: Gettin' Loopy](#module-9--gettin--loopy)
+  * [49 Looping and Iterating - Array .forEach](#49-looping-and-iterating---array-foreach)
+  * [50 - Looping and Iterating - Mapping](#50---looping-and-iterating---mapping)
+  * [51 - Looping and Iterating = Filter, Find and Higher Order Functions](#51---looping-and-iterating---filter--find-and-higher-order-functions)
+  * [52 - Looping and Iterating - Reduce](#52---looping-and-iterating---reduce)
+  * [53 - Looping and Iterating - Reduce Exercise](#53---looping-and-iterating---reduce-exercise)
+    + [Regular Expression](#regular-expression)
+  * [54 - Looping and Iterating - for, for in, for of, and while Loops](#54---looping-and-iterating---for--for-in--for-of--and-while-loops)
+    + [The for loop](#the-for-loop)
+      - [for of Loop](#for-of-loop)
+    + [`for of` loop](#-for-of--loop)
+    + [`for in` loop](#-for-in--loop)
+    + [`while` and `do while` loops](#-while--and--do-while--loops)
+
+---
+
 # Module 9: Gettin' Loopy
 
 ## 49 Looping and Iterating - Array .forEach
@@ -2193,5 +2209,3 @@ The `do` block will run first, and then it will check the condition after the fi
 With the `while` loop, the condition will always be checked before the first run. 
 
 While loops are not that popular, but good to know.
-
-

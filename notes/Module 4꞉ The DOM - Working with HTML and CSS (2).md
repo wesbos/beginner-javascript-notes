@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-02-06-07-17-14.png, Clipboard_2020-02-06-07-18-07.png, Clipboard_2020-02-06-07-20-49.png, Clipboard_2020-02-06-19-10-10.png, Clipboard_2020-02-06-19-11-24.png, Clipboard_2020-02-10-21-17-14.png, Clipboard_2020-02-10-21-20-05.png, Clipboard_2020-02-10-21-22-12.png, Clipboard_2020-02-10-21-30-10.png, Clipboard_2020-02-19-07-40-26.png, Clipboard_2020-02-19-07-42-02.png, Clipboard_2020-02-19-07-42-42.png, Clipboard_2020-02-19-15-49-31.png, Clipboard_2020-02-19-15-50-11.png, Clipboard_2020-02-19-15-51-27.png, Clipboard_2020-02-19-15-54-21.png, Clipboard_2020-02-19-16-03-58.png, Clipboard_2020-02-19-16-04-54.png, Clipboard_2020-02-19-16-05-33.png, Clipboard_2020-02-19-16-06-03.png, Clipboard_2020-02-20-08-35-45.png, Clipboard_2020-02-20-08-37-54.png, Clipboard_2020-02-20-09-01-29.png, Clipboard_2020-02-24-19-07-41.png, Clipboard_2020-02-24-19-08-05.png, Clipboard_2020-02-24-19-35-04.png, Clipboard_2020-02-24-19-40-52.png, Clipboard_2020-02-24-19-43-41.png, Clipboard_2020-02-24-19-45-17.png, Clipboard_2020-02-24-19-47-27.png, Clipboard_2020-02-24-19-54-55.png, Clipboard_2020-02-24-19-57-21.png, Clipboard_2020-02-24-20-00-35.png, Clipboard_2020-02-24-20-07-18.png, Clipboard_2020-02-24-20-08-24.png, Clipboard_2020-02-24-20-09-22.png, Clipboard_2020-02-24-20-12-08.png, Clipboard_2020-02-24-20-18-37.png, Clipboard_2020-02-24-20-21-06.png, Clipboard_2020-02-24-20-22-51.png, Clipboard_2020-02-24-20-28-04.png, Clipboard_2020-02-24-20-37-23.png, Clipboard_2020-02-26-07-08-24.png, Clipboard_2020-02-26-07-09-00.png, Clipboard_2020-02-26-07-10-08.png, Clipboard_2020-02-26-07-24-01.png, Clipboard_2020-02-26-19-06-05.png, Clipboard_2020-02-26-19-13-49.png, Clipboard_2020-02-26-19-16-40.png, Clipboard_2020-02-26-19-20-03.png, Clipboard_2020-02-26-19-22-18.png, Clipboard_2020-02-26-20-10-05.png, Clipboard_2020-02-26-20-12-07.png, Clipboard_2020-02-26-20-12-38.png, Clipboard_2020-02-26-20-23-23.png, Clipboard_2020-02-27-07-11-07.png, Clipboard_2020-02-27-07-12-08.png, Clipboard_2020-02-27-07-13-17.png, Clipboard_2020-02-27-07-14-33.png, Clipboard_2020-02-27-07-16-14.png, Clipboard_2020-02-27-07-16-38.png, Clipboard_2020-02-27-07-18-49.png, Clipboard_2020-02-27-07-23-24.png, Clipboard_2020-02-27-07-26-02.png, Clipboard_2020-02-27-07-28-43.png, Clipboard_2020-02-27-07-29-28.png, Clipboard_2020-02-27-07-29-30.png, Clipboard_2020-02-27-07-32-11.png, Clipboard_2020-02-27-08-11-29.png, Clipboard_2020-02-27-08-13-15.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, Clipboard_2020-02-27-19-40-50.png, Clipboard_2020-02-27-19-46-29.png, Clipboard_2020-03-01-11-44-41.png, Clipboard_2020-03-01-11-52-10.png, Clipboard_2020-03-01-12-01-58.png, Clipboard_2020-03-01-12-18-46.png, Clipboard_2020-03-01-12-20-19.png, Clipboard_2020-03-01-12-43-10.png, Clipboard_2020-03-01-12-50-50.png, Clipboard_2020-03-01-12-52-47.png, Clipboard_2020-03-01-12-56-16.png, Clipboard_2020-03-01-13-04-07.png, Clipboard_2020-03-01-13-12-37.png, Clipboard_2020-03-01-13-20-11.png, Clipboard_2020-03-01-13-29-03.png, Clipboard_2020-03-01-13-30-11.png, Clipboard_2020-03-01-13-46-47.png, Clipboard_2020-03-01-13-48-16.png, Clipboard_2020-03-01-13-50-20.png, Clipboard_2020-03-01-13-51-26.png, Clipboard_2020-03-01-13-54-50.png, Clipboard_2020-07-31-12-43-35.png, Clipboard_2020-07-31-12-44-32.png, Clipboard_2020-07-31-13-44-38.png, Clipboard_2020-07-31-13-45-44.png, Clipboard_2020-07-31-16-16-42.png, Clipboard_2020-07-31-17-01-39.png, Clipboard_2020-07-31-18-11-28.png]
+attachments: [220.png, 221.png, 222.png, 223.png, 224.png, 225.png, 226.png, 227.png, 228.png, 230.png, 231.png, 232.png, 233.png, 234.png, 235.png, 236.png, 237.png, 238.png, 239.png, 240.png, 241.png, 242.png, 243.png, 244.png, 245.png, 246.png, 247.png, 248.png, 249.png, 250.png, 251.png, 252.png, 253.png, 254.png, 255.png, 256.png, 257.png, 258.png, 259.png, 260.png, 261.png, 262.png, 263.png, 264.png, 265.png, 266.png, 267.png, 268.png, 269.png, 270.png, 271.png, 272.png, 273.png, 274.png, 275.png, 276.png, 277.png, 278.png, 279.png, 280.png, 281.png, 282.png, 283.png, 284.png, 285.png, 286.png, 287.png, 288.png, 289.png, 290.png, Clipboard_2020-02-27-19-03-44 (2).png, Clipboard_2020-02-27-19-03-47 (2).png, 295.png, 296.png, 297.png, 298.png, 299.png, 300.png, 301.png, 302.png, 303.png, 304.png, 305.png, 306.png, 307.png, 308.png, 309.png, 310.png, 311.png, 312.png, 313.png, 314.png, 315.png, 1443.png, 1444.png, 1445.png, 1446.png, 1447.png, 1448.png, 1449.png]
 title: 'Module 4: The DOM - Working with HTML and CSS'
 created: '2020-02-06T12:06:57.469Z'
 modified: '2020-07-31T22:30:45.256Z'
@@ -43,7 +43,7 @@ In the scope video, we learned that the global scope in the browser is called th
 
 The window is where are our global variables are stored, as well as helpful properties like `window.location`. 
 
-![](@attachment/window-location.gif)
+![](../attachments/window-location.gif)
 
 _👆 Aside: if you go to any website and in the console type in `window.location` or `location` it will return to you the websites url and a whole bunch of information, as demonstrated above._
 
@@ -51,7 +51,7 @@ It returns an object full of information like the current page you're on, the ho
 
 We can also find things like `innerWidth`, which will tell us how wide the browser is if you type it in the console. 
 
-![](@attachment/Clipboard_2020-02-06-07-18-07.png)
+![](../attachments/221.png)
 
 You can think of the `window` as everything about the currently opened window.
 
@@ -69,7 +69,7 @@ The difference is the document is not concerned with tabs, and outside, it's jus
 
 If you type `document` into the console and hover over what it returns, you will see that it highlights the entire page
 
-![](@attachment/document.gif)
+![](../attachments/document.gif)
 
 ### The `navigator` 
 
@@ -121,13 +121,13 @@ If you wanted to load this javascript into the `index.html`, you might think you
 ```
 Let's try that. Reload the page, which will cause the Javascript to run, then open up the dev tools and take a looka t what was logged in the console. It should be null. 
 
-![](@attachment/Clipboard_2020-02-06-19-10-10.png)
+![](../attachments/223.png)
 
 What we are doing in the Javascript code we just added is we are trying to select something on the page, and then log it. 
 
 If you try to run `document.querySelector('p')` in the console, it will return an element like so 👇
 
-![](@attachment/Clipboard_2020-02-06-19-11-24.png)
+![](../attachments/224.png)
 
 Why does it work in the console, but not when we loaded it via Javascript?
 
@@ -184,7 +184,7 @@ In the example above 👆 we have selected something with a `p`.
 
 Both `querySelector()` and `querySelectorAll()` take one argument, which is the CSS selector. Those are almost the exact same selectors that use in CSS. 
 
-![](@attachment/Clipboard_2020-02-10-21-17-14.png)
+![](../attachments/225.png)
 
 If you open up the `index.html` in the browser, you will see we have grabbed a paragraph tag. When we loga it, you will see we have the item there. 
 
@@ -202,7 +202,7 @@ console.log(divs);
 
 If you reload `index.html` you will see that we get something in the console called a **NodeList**. 
 
-![](@attachment/Clipboard_2020-02-10-21-20-05.png)
+![](../attachments/226.png)
 
 We will be learning about arrays in the future and NodeLists look a lot like arrays. It is a frequent interview question that you might hear, that a node list is not an array. 
 
@@ -212,7 +212,7 @@ The short and skinny is that it does not have all the methods that an array does
 
 If you hover over the NodeList in the console, you will see that it is grabbing everything that matches the selector (`div`). 
 
-![](@attachment/Clipboard_2020-02-10-21-22-12.png)
+![](../attachments/227.png)
 
 You can get more specifc than using elements as selectors. 
 
@@ -262,7 +262,7 @@ If you want to search inside of an element that you already selected, you can us
 const item2Image = item2.querySelector('img');
 ```
 
-![](@attachment/Clipboard_2020-02-10-21-30-10.png)
+![](../attachments/228.png)
 
 If you ever need to narrow down your focus as to where you are searching, you can do that in your selector, but you can also run `querySelector()` and `querySelectorAll()` on any other element and only search within it to limit the scope. 
 
@@ -288,13 +288,13 @@ Now that we know how to select elements, let's go over what we can do with them.
 
 Start by selecting an `h2` element from the page and logging it. 👇 
 
-![](@attachment/Clipboard_2020-02-13-19-04-56.png)
+![](../attachments/229.png)
 
 Although in the console it looks like the `heading` variable is the actual element, in reality it is an object that has a lot of properties and methods inside of it. 
 
 If we change the `console.log()` to a `console.dir()`, that will show us the object properties instead of the actual element itself. 
 
-![](@attachment/Clipboard_2020-02-13-19-07-45.png)
+![](../attachments/Clipboard_2020-02-13-19-07-45.png)
 
 It's still the same `h2` tag, but you can see all the properties on it. 
 
@@ -302,7 +302,7 @@ One example of that is `parentElement` which shows you what the parent element i
 
 There is `outerText` `textContent` `outerHTML`, and many other properties. 
 
-![](@attachment/Clipboard_2020-02-13-19-08-37.png)
+![](../attachments/Clipboard_2020-02-13-19-08-37.png)
 
 ### Getters and Setters
 
@@ -315,7 +315,7 @@ const heading = document.querySelector('h2');
 console.dir(heading.textContent);
 ```
 
-![](@attachment/Clipboard_2020-02-13-19-11-38.png) 
+![](../attachments/Clipboard_2020-02-13-19-11-38.png) 
 
 The code above is an example of a getter. 
 
@@ -346,7 +346,7 @@ Let's say your `h2` looked like the code above for some reason 👆
 
 If you log both the `heading.textContent` and `heading.innerText`, you will see that `textContent` includes the content within the style tag whereas `innerText` only returns the text `I am a heading`. 
 
-![](@attachment/Clipboard_2020-02-13-19-20-42.png)
+![](../attachments/Clipboard_2020-02-13-19-20-42.png)
 
 `textContent` returns every element in the node. 
 `innerText` is aware of styling and won't return text of hidden elements. 
@@ -369,15 +369,15 @@ I am a heading!
 
 `textContent` will return the "I am hidden!" text, however `innerText` will not. 
 
-![](@attachment/Clipboard_2020-02-19-07-40-26.png)
+![](../attachments/230.png)
 
 We have a set of properties when working with HTML. If we were to log the `innerHTML` of the `h2`, you would see 👇
 
-![](@attachment/Clipboard_2020-02-19-07-42-02.png)
+![](../attachments/231.png)
 
 There is also `outerHTML`, which should include the `h2` tag and whitespace that goes inside of it. 
 
-![](@attachment/Clipboard_2020-02-19-07-42-42.png)
+![](../attachments/232.png)
 
 If you ever want to add text onto something is another useful thing to learn. 
 
@@ -445,15 +445,15 @@ If you were to try  👇
 pizzaList.insertAdjacentText('beforebegin','🍕');
 ```
 
-![](@attachment/Clipboard_2020-02-19-15-49-31.png)
+![](../attachments/233.png)
 
 That will put the pizza emoji before the paragraph entirely, it's not inside of that element. We would want to use `afterbegin` to add the pizza in front of the text.
 
-![](@attachment/Clipboard_2020-02-19-15-50-11.png)
+![](../attachments/234.png)
 
 The browser actually knows that the pizza emoji was added later, because the text is split up between what we used to have and what we inserted. 
 
-![](@attachment/Clipboard_2020-02-19-15-51-27.png)
+![](../attachments/235.png)
 
 That is actually the difference between elements and nodes. 
 
@@ -465,7 +465,7 @@ If you are wondering what all the possible methods are, we will stumble upon dif
 
 You can go to the MDN docs and go to element, it will tell us what all the properties are of elements. 
 
-![](@attachment/Clipboard_2020-02-19-15-54-21.png)
+![](../attachments/236.png)
 
 That wraps up elements. We covered how to get properties from an element, how to set properties on an element and how to use more powerful methods on each of our elements or nodes. 
 
@@ -488,7 +488,7 @@ Duplicate one of the image tags and add it right after the opening body tag, and
 <img class="nice" src="https://picsum.photos/500" />
 ```
 
-![](@attachment/Clipboard_2020-07-31-12-43-35.png)
+![](../attachments/1443.png)
 
 Within `the-dom.js`, add the following code to select the element using the class of `nice`, and then we will log the `classList` attribute of the element. 
 
@@ -497,7 +497,7 @@ const pic = document.querySelector('.nice');
 console.log(pic.classList)
 ```
 
-![](@attachment/Clipboard_2020-02-19-16-03-58.png)
+![](../attachments/237.png)
 
 In the console we get a **DOMTokenList** which is kind of like an array of all the classes that are on that image. 
 
@@ -505,7 +505,7 @@ In the HTML file, add a class of `cool` to the image as well.
 
 When you refresh the page, you will see that we get both of them as well as a value of all of the classes.  👇
 
-![](@attachment/Clipboard_2020-02-19-16-04-54.png)
+![](../attachments/238.png)
 
 If you look into the **prototype** _(we haven't learned what that is yet)_, you can see which methods are available to call against the thing we have.  
 
@@ -519,12 +519,12 @@ To name a few, there is
 
 A lot of those are methods for working with classes which is exactly what we are going to do.
 
-![](@attachment/Clipboard_2020-02-19-16-05-33.png)
-![](@attachment/Clipboard_2020-02-19-16-06-03.png)
+![](../attachments/239.png)
+![](../attachments/240.png)
 
 Within VSCode, as you type, you may have noticed that you get a dropdown of methods available to you. 👇
 
-![](@attachment/Clipboard_2020-02-20-08-35-45.png)
+![](../attachments/241.png)
 
 ### Adding a class
 
@@ -548,7 +548,7 @@ You could do that with the following code 👇
 pic.classList.remove('cool');
 ```
 
-![](@attachment/Clipboard_2020-02-20-08-37-54.png)
+![](../attachments/242.png)
 
 ### Toggling a class
 
@@ -574,7 +574,7 @@ pic.classList.add('round');
 
 Now the element has the class of round and makes the image circular. 
 
-![](@attachment/Clipboard_2020-07-31-12-44-32.png)
+![](../attachments/1444.png)
 
 We can add and remove that class either by pasting it into the console or on click. 
 
@@ -590,7 +590,7 @@ pic.classList.toggle('round');
 
 If you copy and paste that line of code into the console, you will see that the class is being added and then removed. 
 
-![](@attachment/round.gif)
+![](../attachments/round.gif)
 
 If we go into our CSS and add a transition all for .2 seconds, that will give us an animation when the class is toggled. 
 
@@ -605,7 +605,7 @@ img {
 }
 ```
 
-![](@attachment/round-transition.gif)
+![](../attachments/round-transition.gif)
 
 Quick peak ahead _(we will be learning about events later)_, you can do something like the following 👇
 
@@ -631,7 +631,7 @@ You can add the following styles to the `.round` class also for a rotation trans
 
 The CSS added 👆 above will give you the transition shown below 👇
 
-![](@attachment/transition1.gif)
+![](../attachments/transition1.gif)
 
 
 ```css
@@ -643,7 +643,7 @@ The CSS added 👆 above will give you the transition shown below 👇
 
 To get the transition effect below 👇add the code shown above 👆
 
-![](@attachment/transition2.gif)
+![](../attachments/transition2.gif)
 
 
 ```css
@@ -655,7 +655,7 @@ To get the transition effect below 👇add the code shown above 👆
 
 The code above  👆gives you the effect below 👇
 
-![](@attachment/transition3.gif)
+![](../attachments/transition3.gif)
 
 A lot of javascript interaction is just adding and removing classes at different points in time. That allows javascript developers to use CSS to add and remove transitions. 
 
@@ -697,7 +697,7 @@ _TIP: When adding alt attributes to images, the value of the alt text should des
 
 Although we did not add the alt attribute when we authored the element, when we added it via javascript, you can now see it on the element. 
 
-![](@attachment/Clipboard_2020-02-20-09-01-29.png)
+![](../attachments/243.png)
 
 We can also set the width of the image this way, by adding the code below 👇
 
@@ -720,11 +720,11 @@ If you add the code below, we get zero 👇
 console.log(pic.naturalWidth);
 ```
 
-![](@attachment/Clipboard_2020-02-24-19-07-41.png)
+![](../attachments/244.png)
 
 However, if you copy and paste that in the console and run it, you get a value of 600 back. 
 
-![](@attachment/Clipboard_2020-02-24-19-08-05.png)
+![](../attachments/245.png)
 
 Why is it zero when we log it from the javascript file, but running the code in the console returns 600?
 
@@ -785,7 +785,7 @@ You can use `getAttribute` like so 👇
 console.log(pic.getAttribute('alt'));
 ```
 
-![](@attachment/Clipboard_2020-07-31-13-44-38.png)
+![](../attachments/1445.png)
 
 You can use `setAttribute` like so 👇
 
@@ -793,7 +793,7 @@ You can use `setAttribute` like so 👇
 pic.setAttribute('alt', 'REALLY CUTE PUP');
 ```
 
-![](@attachment/Clipboard_2020-07-31-13-45-44.png)
+![](../attachments/1446.png)
 
 And there is `hasAttribute` which will return true or false based on whether that attribute is set on an element or not. 
 
@@ -815,7 +815,7 @@ For example, 👇
 pic.setAttribute('wes-is-cool', 'REALLY CUTE PUP');
 ```
 
-![](@attachment/Clipboard_2020-02-24-19-35-04.png) 7:07
+![](../attachments/246.png) 7:07
 
 You should not go making your own attributes whenever you want because it is possible that in the future, an HTML standard attribute will be introduced with the same name as one of your custom attributes. 
 
@@ -843,7 +843,7 @@ For example: `data-dog`, `data-name`, `data-description` are all valid data attr
 
 That will allow you to attach metadata to an element. 
 
-![](@attachment/Clipboard_2020-02-24-19-40-52.png) 9:12
+![](../attachments/247.png) 9:12
 
 Let's say we wanted to grab the image with the class of `custom` and access the data attributes on that image. 
 
@@ -863,7 +863,7 @@ const custom = document.querySelector('.custom');
 console.log(custom.dataset);
 ```
 
-![](@attachment/Clipboard_2020-02-24-19-43-41.png)
+![](../attachments/248.png)
 
 That gives us an object that is full of all the property values that you have. 
 
@@ -873,7 +873,7 @@ That gives us an object that is full of all the property values that you have.
 <img class="custom" data-name="wes" data-last="bos" src="https://picsum.photos/200" />
 ```
 
-![](@attachment/Clipboard_2020-02-24-19-45-17.png) 10:15
+![](../attachments/249.png) 10:15
 
 Why would this be useful? 
 
@@ -889,7 +889,7 @@ custom.addEventListener('click', function(){
 
 If you add that, and then click on the image, you would get an alert, similar to the one shown below.
 
-![](@attachment/Clipboard_2020-02-24-19-47-27.png)
+![](../attachments/250.png)
 
 Wes loves using data attributes when coding **vanilla javascript**.
 
@@ -913,7 +913,7 @@ There are a few ways to create HTML in Javascript. The main way is using `docume
 
 Let's look that up in MDN. 
 
-![](@attachment/Clipboard_2020-02-24-19-54-55.png) 00:54
+![](../attachments/251.png) 00:54
 
 To use this method, you pass it a tagName and then there are optional options you can pass _(you can tell it's optional because of the square brackets)_, which we won't be using. 
 
@@ -928,7 +928,7 @@ When you open the HTML file, you will see the paragraph in the console but it is
 
 That is because we haven't actually put it on the page yet, we just created it and it's living in what is called **memory** right now. 
 
-![](@attachment/Clipboard_2020-02-24-19-57-21.png) 2:05
+![](../attachments/252.png) 2:05
 
 There is no shortcut to create an element with a class or with a set attribute, so something like the code below would **not** work 👇
 
@@ -945,7 +945,7 @@ myParagraph.classList.add('special');
 console.log(myParagraph);
 ```
 
-![](@attachment/Clipboard_2020-02-24-20-00-35.png) 2:57
+![](../attachments/253.png) 2:57
 
 We now have that paragraph with a class of `special` and the text content that we supplied it with. 
 
@@ -985,13 +985,13 @@ Let's look up `appendChild()` in MDN.
 
 It takes in one parameter, which is a child reference. 
 
-![](@attachment/Clipboard_2020-02-24-20-07-18.png) 5:54
+![](../attachments/254.png) 5:54
 
 ```js
 document.body.appendChild(myParagraph);
 ```
 
-![](@attachment/Clipboard_2020-02-24-20-08-24.png)
+![](../attachments/255.png)
 
 This gives us a `p` tag right before the closing `body` tag. 
 
@@ -1003,7 +1003,7 @@ myDiv.appendChild(myParagraph);
 myDiv.appendChild(myImage);
 ```
 
-![](@attachment/Clipboard_2020-02-24-20-12-08.png) 7:02
+![](../attachments/257.png) 7:02
 
 It is probaby better to do that in reverse order. Why? 
 
@@ -1036,7 +1036,7 @@ That is one way to go ahead and create elements, using the `createElement()` API
 
 You may come across the `.append()` methodm when searching for how to add an element to the DOM, which works very similarly to `createElement`. However, `append()` doesn't seem to be fully supported in Internet Explorer so Wes suggests holding off on using it. 
 
-![](@attachment/Clipboard_2020-02-24-20-18-37.png)
+![](../attachments/258.png)
 
 ### `insertAdjacentElement()`
 
@@ -1044,7 +1044,7 @@ There is another API, `insertAdjacentElement`, that Wes is fond of using. It wor
 
 The difference is `insertAdjacentElement` is used to insert elements before, after and inside other elements. 
 
-![](@attachment/Clipboard_2020-02-24-20-21-06.png) 10:41
+![](../attachments/259.png) 10:41
 
 This is handy when you need to do something like insert an element before a paragraph in a div. 
 
@@ -1056,7 +1056,7 @@ myDiv.appendChild(heading);
 
 If you try using `appendChild` as shown in the code above 👆, you should see that the heading is inserted after the image _(as shown below 👇)_ which is **not** what we want. 
 
-![](@attachment/Clipboard_2020-02-24-20-22-51.png)
+![](../attachments/260.png)
 
 `insertAdjacentElement()` takes two parameters:
 1. the position of where you want to insert the element
@@ -1068,7 +1068,7 @@ myDiv.insertAdjacentElement('afterbegin', heading);
 
 That will put the heading before the paragraph and image tag. 
 
-![](@attachment/Clipboard_2020-02-24-20-28-04.png)
+![](../attachments/261.png)
 
 If you were to use `beforebegin`, it would insert the `header` before the `div` tag, as a sibling to the wrapper. 
 
@@ -1130,7 +1130,7 @@ list.insertAdjacentElement('afterbegin', li1);
 
 What that code will do is it will create a clone of the `li5` Node, and then insert that clone adjacently. 
 
-![](@attachment/Clipboard_2020-07-31-16-16-42.png) 16:03
+![](../attachments/1447.png) 16:03
 
 If you reload the page, you will see that we added the element but it is empty.
 
@@ -1195,7 +1195,7 @@ const item = document.querySelector('.item');
 console.log('item.innerHTML');
 ```
 
-![](@attachment/Clipboard_2020-02-26-07-09-00.png) 2:13 
+![](../attachments/264.png) 2:13 
 
 You can see that `innerHTML` is a string of all the HTML that makes up what is inside of it. 
 
@@ -1208,7 +1208,7 @@ item.innerHTML = `<h1>Hey How are you?</h1>`;
 console.log(item.innerHTML);
 ```
 
-![](@attachment/Clipboard_2020-02-26-07-10-08.png) 2:39
+![](../attachments/265.png) 2:39
 
 The inside of the `div.item` has been updated with some HTML. 
 
@@ -1258,7 +1258,7 @@ item.innerHTML = myHTML;
 console.log(item.innerHTML);
 ```
 
-![](@attachment/Clipboard_2020-02-26-07-24-01.png) 6:45
+![](../attachments/266.png) 6:45
 
 We could go a step further with the following code.  
 
@@ -1288,7 +1288,7 @@ First, you can log the value of `myHTML` and you can also check and log it's typ
 console.log(typeof myHTML);
 ```
 
-![](@attachment/Clipboard_2020-02-26-19-06-05.png) 7:37
+![](../attachments/267.png) 7:37
 
 ```js
 myHTML.classList.add('special');
@@ -1298,7 +1298,7 @@ That means we cannot do things like add the code above  👆.
 If you try to do that, it will give you the following error 👇
 > Cannot read property 'add' of undefined 
 
-![](@attachment/Clipboard_2020-07-31-17-01-39.png)
+![](../attachments/1448.png)
 
 Similarly, if you try to do log `myHTML.classList`, you will see that it is also undefined. 
 
@@ -1323,7 +1323,7 @@ const itemImage = document.querySelector('.wrapper img');
 itemImage.classLIst.add('round');
 ```
 
-![](@attachment/Clipboard_2020-02-26-19-13-49.png) 9:59
+![](../attachments/268.png) 9:59
 
 ### `document.createRange()` and `document.createFragment()`
 
@@ -1338,7 +1338,7 @@ const myFragment = document.createRange();
 console.log(myFragment);
 ```
 
-![](@attachment/Clipboard_2020-02-26-19-16-40.png) 11:19
+![](../attachments/269.png) 11:19
 
 This code creates something called a **range**. 
 
@@ -1353,7 +1353,7 @@ console.log(myFragment);
 
 If you open the page in a browser and view the console, you will see that we have this thing called a **document fragment** (which is just a way of saying some HTML). 
 
-![](@attachment/Clipboard_2020-02-26-19-20-03.png) 11:46
+![](../attachments/270.png) 11:46
 
 Now, from within this fragment, we are able to access all of the elements that live inside of it. 
 
@@ -1362,7 +1362,7 @@ What we have done is turned our HTML into true elements, that are still not on t
 ```js
 myFragment.querySelector('img');
 ```
-![](@attachment/Clipboard_2020-02-26-19-22-18.png) 12:29
+![](../attachments/271.png) 12:29
 
 Let's now try to append the fragment to the document. 
 
@@ -1395,7 +1395,7 @@ If a user were to put HTML where the description input is, what could happen is 
 
 Let's demonstrate with an example.
 
-![](@attachment/Clipboard_2020-02-26-20-10-05.png) 15:00
+![](../attachments/272.png) 15:00
 
 Let's say we are taking this `desc` variable from somebody. 
 
@@ -1409,7 +1409,7 @@ Add the code about where it says `Cute Pup` and refresh the HTML page.
  
 You should now see that there is actually an `h1` tag that wasn't created from us.  
 
-![](@attachment/Clipboard_2020-02-26-20-12-38.png) 15:17
+![](../attachments/274.png) 15:17
 
 Remember, in this example scenario, the description value would be coming from a database, from someone's editor when they typed it in. They just started to put some HTML. 
 
@@ -1453,7 +1453,7 @@ const desc = `Cute Pup <img onload="alert('hacked');" src="https://picsum.photos
 
 If you refresh the HTML page, you will see an alert. 
 
-![](@attachment/Clipboard_2020-02-26-20-23-23.png) 17:48
+![](../attachments/275.png) 17:48
 
 What happened there is you took data from the user and allowed them to run any javascript that they want on your website, which is a potential security hole. 
 
@@ -1498,11 +1498,11 @@ const wes = document.querySelector('.wes');
 console.log(wes);
 ```
 
-![](@attachment/Clipboard_2020-02-27-07-11-07.png) 2:04
+![](../attachments/276.png) 2:04
 
 If instead you log `wes.children`, it will return a collection of one thing in the console, which is the `em` tag we just added.  
 
-![](@attachment/Clipboard_2020-02-27-07-12-08.png) 2:25
+![](../attachments/277.png) 2:25
 
 If you log `wes.childNodes` instead, you will see that it returns a NodeList of three things: 
 - text
@@ -1511,27 +1511,27 @@ If you log `wes.childNodes` instead, you will see that it returns a NodeList of 
 
 In the HTML collection, only the `em` element was returned. 
 
-![](@attachment/Clipboard_2020-02-27-07-13-17.png) 2:30ish?
+![](../attachments/278.png) 2:30ish?
 
 If you hover over the nodes in the console one at a time, you will see it highlighting the corresponding node on the HTML page. 
 
 This is the first text node. 
 
-![](@attachment/Clipboard_2020-02-27-07-14-33.png) 2:41
+![](../attachments/279.png) 2:41
 
 Then the emphasis node. 
 
-![](@attachment/Clipboard_2020-02-27-07-16-14.png)
+![](../attachments/280.png)
 
 Then the rest of the text.
 
-![](@attachment/Clipboard_2020-02-27-07-16-38.png) 2:46
+![](../attachments/281.png) 2:46
 
 Everything in our NodeList in the console is a Node, and if it is wrapped in a tag, it is also an element, but it doesn't work the other way around. 
 
 If you only select elements, you won't have nodes returned. But if you select the nodes, you get all of the three different pieces. 
 
-![](@attachment/Clipboard_2020-02-27-07-18-49.png) 3:12
+![](../attachments/282.png) 3:12
 
 _VS Code TIP: You can do multi-cursor in VS Code. The way you use that is you hold down command or control and click wherever you want the cursors to go. In this video Wes used multicursor by selecting an element and then doing command + D to grab other occurences_
 
@@ -1552,7 +1552,7 @@ console.log(wes.childNode);
 
 Here is the result when you refresh the index.html page. 
 
-![](@attachment/Clipboard_2020-02-27-07-23-24.png) 3:59
+![](../attachments/283.png) 3:59
 
 `children` gives you the children. 
 
@@ -1570,13 +1570,13 @@ If you refresh that page, you should get the following results:
 `lastChildElement` returns the strong element. 
 `previousElementSibling` is null. 
 
-![](@attachment/Clipboard_2020-02-27-07-26-02.png) 4:22
+![](../attachments/284.png) 4:22
 
 Why is `previousElementSibling` null? 
 
 If you look at the HTML page, you will see that a few elements with the class of `item` are next to each other. 
 
-![](@attachment/Clipboard_2020-02-27-07-29-30.png) 4:45
+![](../attachments/287.png) 4:45
 
 If we were to grab the second item by clicking it in our developer tools and then using `$0` to reference it in the console, we can take it and run the following code in the console:
 
@@ -1593,7 +1593,7 @@ $0.previousElementSibling
 ```
 👆 That will give you the item that is before it. 
 
-![](@attachment/Clipboard_2020-02-27-07-32-11.png) 5:30
+![](../attachments/288.png) 5:30
 
 We were on `item2`, and the previous element sibling is the first item. In the code we wrote in our javascript file, we selected the first item, which has no previous sibling, thus it returned null. 
 
@@ -1605,7 +1605,7 @@ And then there is `parentElement` which will go up and give you the parent eleme
 
 If you take an element that is really low in the document like one of our image elements, you can chain calls to `.parentElement` like so 👇  
 
-![](@attachment/Clipboard_2020-02-27-08-11-29.png) 6:19 
+![](../attachments/289.png) 6:19 
 
 How high can you chain? 
 
@@ -1618,7 +1618,7 @@ In the elments tab in the dev tools, select the span within `item2`, and in the 
 
 Now you can go down again using `.children[1]` to select the paragraph with a class of `pizza`. We will talk about the **square bracket notation**(`[]`) shortly, but essentially that is how you reference items that are indexed. 
 
-![](@attachment/Clipboard_2020-02-27-19-03-47.png) 7:20
+![](../attachments/294.png) 7:20
 
 In the code above, we strted with the `span` in `item2`, we went up, up, over down and selected the second element. 
 
@@ -1649,7 +1649,7 @@ Let's do it from the dev tools.
 
 Grab the `h2` by clicking the element in the element pane and then in the console write `$0.remove()`
  
-![](@attachment/Clipboard_2020-02-27-19-40-50.png)
+![](../attachments/295.png)
 
 That removes the element completely from the DOM. 
 
@@ -1668,7 +1668,7 @@ If you open the index file in the browser, you won't see the `p` tag because we 
 
 The question now is what if you log `p` after you call `remove()`, will it be null, `undefined`? 
 
-![](@attachment/Clipboard_2020-02-27-19-46-29.png) 10:33
+![](../attachments/296.png) 10:33
 
 It is still there! 
 
@@ -1715,7 +1715,7 @@ Then, append it to the body 👇
 document.body.appendChild(div);
 ```
 
-![](@attachment/Clipboard_2020-03-01-11-44-41.png) 1:35
+![](../attachments/297.png) 1:35
 
 As you can see, the works!
 
@@ -1754,7 +1754,7 @@ div.innerHTML = ul;
 console.log(div);
 ```
 
-![](@attachment/Clipboard_2020-03-01-11-52-10.png) 2:21
+![](../attachments/298.png) 2:21
 
 That works well. You could have add it as a fragment, but because there was nothing in the body already, it was simple to use `innerHTML`. 
 
@@ -1798,7 +1798,7 @@ We do not need to call `insertAdjacent()` because it will go to the bottom of it
 div.appendChild(img);
 ```
 
-![](@attachment/Clipboard_2020-03-01-12-01-58.png) 3:35
+![](../attachments/299.png) 3:35
 
 You may notice that every time you refresh the image, the image is sort of jumping. 
 
@@ -1823,7 +1823,7 @@ To do this, grab the `ul` which you may still have reference to.
 
 To check if you do still have reference, add `console.log(ul);` 
 
-![](@attachment/Clipboard_2020-03-01-12-18-46.png) 5:19
+![](../attachments/300.png) 5:19
 
 Wes was wrong -- it does not look like you already have access to the `ul` element because it shows up in the console as a string, rather then an element object. 
 
@@ -1836,7 +1836,7 @@ const ulElement = div.querySelector('ul');
 console.log(ulElement);
 ```
 
-![](@attachment/Clipboard_2020-03-01-12-20-19.png) 5:40
+![](../attachments/301.png) 5:40
 
 Next you need to add this div to the unordered list from above. 
 
@@ -1849,7 +1849,7 @@ ulElement.insertAdjacentElement('beforebegin', myHTML)
 If you refresh the HTML page, you will see an error that says
 >Uncaught TypeError: Failed to execute 'insertAdjacentElement' on 'Element': parameter 2 is not of type 'Element'.
 
-![](@attachment/Clipboard_2020-03-01-12-43-10.png) 6:23
+![](../attachments/302.png) 6:23
 
 So because you have created it as a string, how can you insert it adjacently? 
 
@@ -1859,7 +1859,7 @@ You could try using `insertAdjacentHTML()`.
 ulElement.insertAdjacentHTML("beforebegin", myHTML);
 ```
 
-![](@attachment/Clipboard_2020-03-01-12-50-50.png) 6:48 
+![](../attachments/303.png) 6:48 
 
 That works great! You could have also done `createRange()` and then added it as a document fragment. 
 
@@ -1876,7 +1876,7 @@ If we look at the HTML in the dev tools, you will see the following code 👇
 </div>
 ```
 
-![](@attachment/Clipboard_2020-03-01-12-52-47.png) 7:15
+![](../attachments/304.png) 7:15
 
 Select the first div within the `wrapper` using `querySelector`, like so 👇
 
@@ -1891,7 +1891,7 @@ const myDiv = div.firstElementChild;
 console.log(myDiv);
 ```
 
-![](@attachment/Clipboard_2020-03-01-12-56-16.png) 8:00
+![](../attachments/305.png) 8:00
 
 That is working, however, let's not use that because if you were to insert anything else, the div could no longer be the first element child, which makes it a pretty unstable solution. 
 
@@ -1920,7 +1920,7 @@ Let's try using `myDiv.children`. First, log it to see what you are working with
 console.log(myDiv.children);
 ```
 
-![](@attachment/Clipboard_2020-03-01-13-04-07.png) 9:09
+![](../attachments/306.png) 9:09
 
 As you can wee, that gives you both of them. To select the second paragraph, you can reference it like so 👇
 
@@ -1942,7 +1942,7 @@ Then, remove the first paragraph like so 👇
 myDiv.firstElementChild.remove();
 ```
 
-![](@attachment/Clipboard_2020-07-31-18-11-28.png)
+![](../attachments/1449.png)
 
 Next you need to create a function, `generatePlayerCard` that takes in 3 arguments: 
 - name
@@ -2010,7 +2010,7 @@ function generatePlayerCard(name, age, height) {
 
 Refresh the HTML page and try calling the function from the console. 
 
-![](@attachment/Clipboard_2020-03-01-13-20-11.png) 12:01
+![](../attachments/308.png) 12:01
 
 It works! 
 
@@ -2044,7 +2044,7 @@ If you refresh the HTML page, you will see the following error 👇
 >Uncaught TypeError: Failed to execute `createElement` on `Document`: 1 argument required, but only 0 present.
 >  at DOM-Cardio.js:68
 
-![](@attachment/Clipboard_2020-03-01-13-29-03.png)
+![](../attachments/309.png)
 
 That error is being thrown because when you called `document.createElement()` above, we forgot to specify what kind of element to create. 
 
@@ -2054,7 +2054,7 @@ Modify that code like so 👇
 document.createElement('div');
 ```
 
-![](@attachment/Clipboard_2020-03-01-13-30-11.png) 14:25
+![](../attachments/310.png) 14:25
 
 Now it works. 
 
@@ -2114,7 +2114,7 @@ div.insertAdjacentElement('beforebegin', cards);
 
 If you refresh the HTML page you should see the following 👇
 
-![](@attachment/Clipboard_2020-03-01-13-46-47.png) 16:40
+![](../attachments/311.png) 16:40
 
 Really quickly, we will add some styles in the HTML page. 
 
@@ -2144,7 +2144,7 @@ Add the following: 👇
 </body>
 ```
 
-![](@attachment/Clipboard_2020-03-01-13-48-16.png) 17:35 
+![](../attachments/312.png) 17:35 
 
 The bonus step in the exercise involves putting a delete button on each card so when you click it, it is removed. 
 
@@ -2163,7 +2163,7 @@ const html = `
 `;
 ```
 
-![](@attachment/Clipboard_2020-03-01-13-50-20.png) 18:31
+![](../attachments/313.png) 18:31
 
 When that button is clicked, we want to delete the card. 
 
@@ -2174,7 +2174,7 @@ const buttons = document.querySelectorAll('.delete');
 console.log(buttons)
 ```
 
-![](@attachment/Clipboard_2020-03-01-13-51-26.png) 19:00
+![](../attachments/314.png) 19:00
 
 Make the delete function 👇
 
@@ -2201,7 +2201,7 @@ function deleteCard(event) {
 }
 ```
 
-![](@attachment/Clipboard_2020-03-01-13-54-50.png) 20:09
+![](../attachments/315.png) 20:09
 
 Inside of `deleteCard`, you can assign the button that is the event's current target to a variable, like so 👇
 

@@ -4,112 +4,112 @@ attachments:
     Clipboard_2020-01-28-16-43-12 (2).png,
     Clipboard_2020-01-28-16-47-39 (2).png,
     Clipboard_2020-01-28-16-48-49 (2).png,
-    Clipboard_2020-01-28-17-00-34.png,
-    Clipboard_2020-01-28-17-05-22.png,
-    Clipboard_2020-01-28-17-12-10.png,
-    Clipboard_2020-01-28-17-15-30.png,
-    Clipboard_2020-01-28-17-16-18.png,
-    Clipboard_2020-01-28-17-17-04.png,
-    Clipboard_2020-01-28-17-18-49.png,
-    Clipboard_2020-01-28-17-25-44.png,
-    Clipboard_2020-01-28-17-27-44.png,
-    Clipboard_2020-01-28-17-31-06.png,
-    Clipboard_2020-01-28-17-35-06.png,
-    Clipboard_2020-01-28-17-35-44.png,
-    Clipboard_2020-01-28-17-41-21.png,
-    Clipboard_2020-01-28-19-48-01.png,
-    Clipboard_2020-01-28-19-54-21.png,
-    Clipboard_2020-01-28-19-59-14.png,
-    Clipboard_2020-01-28-20-05-33.png,
-    Clipboard_2020-01-28-22-28-03.png,
-    Clipboard_2020-01-28-22-28-19.png,
-    Clipboard_2020-01-29-15-31-21.png,
-    Clipboard_2020-01-29-15-31-32.png,
-    Clipboard_2020-01-29-15-32-16.png,
-    Clipboard_2020-01-29-15-50-59.png,
-    Clipboard_2020-01-29-15-55-38.png,
-    Clipboard_2020-01-29-15-57-14.png,
-    Clipboard_2020-01-29-16-43-59.png,
-    Clipboard_2020-01-29-16-44-48.png,
-    Clipboard_2020-01-29-16-45-24.png,
-    Clipboard_2020-01-29-16-50-48.png,
-    Clipboard_2020-01-29-16-55-56.png,
-    Clipboard_2020-01-29-16-57-30.png,
-    Clipboard_2020-01-29-17-00-53.png,
-    Clipboard_2020-01-29-17-01-04.png,
-    Clipboard_2020-01-29-18-48-01.png,
-    Clipboard_2020-01-29-18-48-13.png,
-    Clipboard_2020-01-29-18-51-05.png,
-    Clipboard_2020-01-29-18-51-45.png,
-    Clipboard_2020-01-30-17-50-07.png,
-    Clipboard_2020-01-30-17-51-04.png,
-    Clipboard_2020-01-30-17-52-26.png,
-    Clipboard_2020-01-30-19-48-27.png,
-    Clipboard_2020-01-30-19-58-43.png,
-    Clipboard_2020-01-30-20-06-08.png,
-    Clipboard_2020-01-30-20-07-35.png,
-    Clipboard_2020-01-30-20-25-18.png,
-    Clipboard_2020-01-30-20-26-46.png,
-    Clipboard_2020-01-30-20-27-19.png,
-    Clipboard_2020-01-30-20-30-25.png,
-    Clipboard_2020-01-30-20-43-26.png,
-    Clipboard_2020-01-30-20-44-42.png,
-    Clipboard_2020-01-30-20-57-19.png,
-    Clipboard_2020-01-30-20-59-21.png,
-    Clipboard_2020-01-30-21-06-26.png,
-    Clipboard_2020-01-31-17-36-06.png,
-    Clipboard_2020-01-31-17-36-25.png,
-    Clipboard_2020-01-31-17-45-50.png,
-    Clipboard_2020-01-31-17-46-02.png,
-    Clipboard_2020-01-31-17-47-21.png,
-    Clipboard_2020-01-31-17-47-38.png,
-    Clipboard_2020-01-31-17-49-45.png,
-    Clipboard_2020-01-31-17-52-29.png,
-    Clipboard_2020-01-31-17-55-36.png,
-    Clipboard_2020-01-31-17-57-25.png,
-    Clipboard_2020-01-31-17-58-57.png,
-    Clipboard_2020-01-31-18-15-45.png,
-    Clipboard_2020-01-31-18-20-52.png,
-    Clipboard_2020-01-31-18-22-08.png,
-    Clipboard_2020-02-01-14-02-53.png,
-    Clipboard_2020-02-01-14-03-17.png,
-    Clipboard_2020-02-01-14-04-35.png,
-    Clipboard_2020-02-01-14-19-44.png,
-    Clipboard_2020-02-01-14-23-12.png,
-    Clipboard_2020-02-01-14-26-11.png,
-    Clipboard_2020-02-01-14-28-02.png,
-    Clipboard_2020-02-01-14-29-12.png,
-    Clipboard_2020-02-01-14-30-30.png,
-    Clipboard_2020-02-01-14-32-34.png,
-    Clipboard_2020-02-01-14-39-56.png,
-    Clipboard_2020-02-03-17-29-52.png,
-    Clipboard_2020-02-03-17-30-52.png,
-    Clipboard_2020-02-03-17-31-47.png,
-    Clipboard_2020-02-03-17-32-49.png,
-    Clipboard_2020-02-03-17-34-11.png,
-    Clipboard_2020-02-03-17-35-42.png,
-    Clipboard_2020-02-03-17-37-13.png,
-    Clipboard_2020-02-03-17-38-09.png,
-    Clipboard_2020-02-03-17-39-21.png,
-    Clipboard_2020-02-03-17-43-28.png,
-    Clipboard_2020-02-03-17-47-27.png,
-    Clipboard_2020-02-03-17-50-42.png,
-    Clipboard_2020-02-03-17-55-27.png,
-    Clipboard_2020-02-03-18-00-04.png,
-    Clipboard_2020-02-03-18-03-09.png,
-    Clipboard_2020-02-03-18-04-02.png,
-    Clipboard_2020-02-03-18-04-09.png,
-    Clipboard_2020-02-03-18-06-25.png,
-    Clipboard_2020-02-03-18-08-26.png,
-    Clipboard_2020-02-03-18-08-59.png,
-    Clipboard_2020-02-03-18-10-14.png,
-    Clipboard_2020-02-03-18-17-49.png,
-    Clipboard_2020-02-03-18-18-28.png,
-    Clipboard_2020-02-03-18-19-34.png,
-    Clipboard_2020-07-21-17-33-20.png,
-    Clipboard_2020-07-21-17-54-27.png,
-    Clipboard_2020-07-21-19-47-57.png,
-    Clipboard_2020-07-22-08-21-45.png,
+    89.png,
+    90.png,
+    91.png,
+    92.png,
+    93.png,
+    94.png,
+    95.png,
+    96.png,
+    97.png,
+    98.png,
+    99.png,
+    100.png,
+    101.png,
+    102.png,
+    103.png,
+    104.png,
+    105.png,
+    106.png,
+    107.png,
+    108.png,
+    109.png,
+    110.png,
+    111.png,
+    112.png,
+    113.png,
+    114.png,
+    115.png,
+    116.png,
+    117.png,
+    118.png,
+    119.png,
+    120.png,
+    121.png,
+    122.png,
+    123.png,
+    124.png,
+    125.png,
+    126.png,
+    127.png,
+    128.png,
+    129.png,
+    130.png,
+    131.png,
+    132.png,
+    133.png,
+    134.png,
+    135.png,
+    136.png,
+    137.png,
+    138.png,
+    139.png,
+    140.png,
+    141.png,
+    142.png,
+    143.png,
+    144.png,
+    145.png,
+    146.png,
+    147.png,
+    148.png,
+    149.png,
+    150.png,
+    151.png,
+    152.png,
+    153.png,
+    154.png,
+    155.png,
+    156.png,
+    157.png,
+    158.png,
+    159.png,
+    160.png,
+    161.png,
+    162.png,
+    163.png,
+    164.png,
+    165.png,
+    166.png,
+    167.png,
+    168.png,
+    169.png,
+    170.png,
+    171.png,
+    172.png,
+    173.png,
+    174.png,
+    175.png,
+    176.png,
+    177.png,
+    178.png,
+    179.png,
+    180.png,
+    181.png,
+    182.png,
+    183.png,
+    184.png,
+    185.png,
+    186.png,
+    187.png,
+    188.png,
+    189.png,
+    190.png,
+    1439.png,
+    1440.png,
+    1441.png,
+    1442.png,
   ]
 title: "Module 2: Functions"
 created: "2020-01-28T21:27:12.651Z"
@@ -130,7 +130,7 @@ They allow us to group together sets of statements.
 
 As a refresher from previous videos, these are all statements 👇
 
-![](@attachment/Clipboard_2020-01-28-16-43-12.png)
+![](../attachments/84.png)
 
 If you wanted to group all those statements together _(generally they are related to each other and generally they produce some sort of output)_, you could group them together inside of a function.
 
@@ -142,13 +142,13 @@ Let's look at an example in the console using `Math.max()` _(this is actually a 
 
 If you run it in the console, it returns negative infinity.
 
-![](@attachment/Clipboard_2020-01-28-16-47-39.png)
+![](../attachments/86.png)
 
 What we want to do is pass it some data, and it should return to us the maximum value.
 
 For example, let's pass two numbers, 10 and 12. It will return to us the highest number (which is 12).
 
-![](@attachment/Clipboard_2020-01-28-16-48-49.png)
+![](../attachments/88.png)
 
 Now what is going on there?
 
@@ -164,7 +164,7 @@ For example, `Math.floor(2.4444)` will return `2`
 
 Here we are passing one argument of `2.4444` and it returns to us the floor of that value which is `2`.
 
-![](@attachment/Clipboard_2020-01-28-17-00-34.png)
+![](../attachments/89.png)
 
 ### Built-in Functions
 
@@ -176,13 +176,13 @@ For example if you `console.log('hey`)`, it will return hey.
 
 Interestingly enough, it also returns undefined.
 
-![](@attachment/Clipboard_2020-01-28-17-05-22.png)
+![](../attachments/90.png)
 
 That is because the console.log function logs to the console, it does not return a value. Not all functions are meant to return a value, sometimes they just go off and do things without returning a value.
 
 _Tip: You can tell in the console if something is a return or a statement by the `>` and `<.` arrows next to the line in the console. `>` indicates that it's a statement and `<.` indicates that it's the response to the statement._
 
-![](@attachment/Clipboard_2020-01-28-17-12-10.png)
+![](../attachments/91.png)
 
 Some other built in functions we can use are 👇
 
@@ -192,7 +192,7 @@ Some other built in functions we can use are 👇
 parseFloat("20.34543543");
 ```
 
-![](@attachment/Clipboard_2020-01-28-17-15-30.png)
+![](../attachments/92.png)
 
 `parseInt()` takes in a string and returns a number without a decimal. For example 👇
 
@@ -200,19 +200,19 @@ parseFloat("20.34543543");
 parseInt("20.3243423");
 ```
 
-![](@attachment/Clipboard_2020-01-28-17-16-18.png)
+![](../attachments/93.png)
 
 We looked at `Math.round()`, `Math.floor()`, `Math.ceil()` already in previous lesson.
 
 If you type `Date.now()` in the console it will return something like the following 👇
 
-![](@attachment/Clipboard_2020-01-28-17-17-04.png)
+![](../attachments/94.png)
 
 `Date.now()` is a function that does not take in any arguments. What it returns to us is the number of milliseconds since January 1 1970.
 
 If you go to https://epoch.now.sh, it's a tool that you can use to convert the millisecond value to a datetime. You can also do the opposite -- pick some date and time in the future and then it will return the millisecond value.
 
-![](@attachment/Clipboard_2020-01-28-17-18-49.png)
+![](../attachments/95.png)
 
 We will go deeper into dates in future videos.
 
@@ -250,11 +250,11 @@ In the script section of `functions.html`, add the following code. that will run
 </script>
 ```
 
-![](@attachment/Clipboard_2020-01-28-17-25-44.png)
+![](../attachments/96.png)
 
 There are a lot of other functions built in, some are mobile specific like `navigator.vibrate()`.
 
-![](@attachment/Clipboard_2020-01-28-17-27-44.png)
+![](../attachments/97.png)
 
 Another useful thing is if you are not sure what arguments a function should take, you can refer to the Mozilla developer docs, in order to see what is going on.
 
@@ -262,7 +262,7 @@ In google, type "Navigator.vibrate()". Usually you will need to look for the Moz
 
 The docs should explain what the method is, how it can be used, and what it returns.
 
-![](@attachment/Clipboard_2020-01-28-17-31-06.png)
+![](../attachments/98.png)
 
 Let's look at a couple of more.
 
@@ -274,7 +274,7 @@ _(Wes is using the Emmet extension for VS Code which allows him to type `lorem40
 
 Now if you refresh `functions.html` you will see a lot of text on the page.
 
-![](@attachment/Clipboard_2020-01-28-17-35-44.png)
+![](../attachments/100.png)
 
 Add enough text so you can scroll on `functions.html`.
 
@@ -288,7 +288,7 @@ The docs say that
 
 **Dictionary** is a word we use in JavaScript to represent an object, it's an object that has a number of set properties on it.
 
-![](@attachment/Clipboard_2020-01-28-17-41-21.png)
+![](../attachments/101.png)
 
 ##### Example #1 👇
 
@@ -316,7 +316,7 @@ scrollTo({top:500, left:0, behavior: 'smooth})
 
 That page should cause the page to scroll down 500 pixels.
 
-![](@attachment/scrollTo.gif)
+![](../attachments/scrollTo.gif)
 
 `scrollTo` is an example of a function that does return anything, instead it just goes off and does some work for us.
 
@@ -340,7 +340,7 @@ Right before the closing body tag, add a script source tag like so 👇 and you 
 <script src="./cf.js">
 ```
 
-![](@attachment/Clipboard_2020-07-21-17-33-20.png)
+![](../attachments/1439.png)
 
 In this lesson, we are going to create a function called "Calculate Bill".
 
@@ -379,7 +379,7 @@ console.log("Running Calculate Bill!!!");
 
 Open `index.html` and in the browser and open the console. Try typing `calculateBill` in the console and hitting enter.
 
-![](@attachment/Clipboard_2020-01-28-19-48-01.png)
+![](../attachments/102.png)
 
 A function works just like a variable in that you can call them by the name of it. However, when you put just the name of the function, you see the entire code, as shown 👆 above.
 
@@ -402,7 +402,7 @@ calculateBill();
 
 When we called `calculateBill()` in the console, it returned undefined.
 
-![](@attachment/Clipboard_2020-01-28-19-54-21.png)
+![](../attachments/103.png)
 
 It does the work we asked it to do, and then it returns undefined. Often, functions will do a bunch of work and then return to you the result.
 
@@ -429,7 +429,7 @@ function calculateBill() {
 calculateBill();
 ```
 
-![](@attachment/Clipboard_2020-01-28-19-59-14.png)
+![](../attachments/104.png)
 
 _(👆 This is a perfect example of the issue with floating point numbers mentioned in a previous video)_
 
@@ -445,7 +445,7 @@ You should see an error
 
 > total is not defined
 
-![](@attachment/Clipboard_2020-07-21-17-54-27.png)
+![](../attachments/1440.png)
 
 In VSCode, you may notice that ESLint is yelling at us as well that total is not defined.
 
@@ -471,7 +471,7 @@ calculateBill();
 
 Now when you call it in the console, you will see it returns the value.
 
-![](@attachment/Clipboard_2020-01-28-20-05-33.png)
+![](../attachments/105.png)
 
 ### Storing a Value Returned from A Function
 
@@ -636,7 +636,7 @@ When you call the function, you pass it arguments.
 
 Here is a quick cheatsheet Wes has put together that explains the parts of a function.
 
-![](@attachment/Clipboard_2020-01-28-22-28-19.png)
+![](../attachments/107.png)
 
 When we define the function name, we put what are called **parameters**. Parameters can be thought of as placeholders (we will talk about **default values** for parameters shortly).
 
@@ -664,11 +664,11 @@ function calculateBill(billAmount, taxRate) {
 const myTotal = calculateBill(100, 0.15);
 ```
 
-![](@attachment/Clipboard_2020-01-29-15-31-32.png)
+![](../attachments/109.png)
 
 We can run that function from the console but pass it different values for the arguments, it will console log the values of the arguments that we passed, like so 👇
 
-![](@attachment/Clipboard_2020-01-29-15-32-16.png)
+![](../attachments/110.png)
 
 Why?
 
@@ -724,7 +724,7 @@ console.log(greeting);
 
 Run the code as is, even though it will break, to see why. In the console you should see an reference error in the console.
 
-![](@attachment/Clipboard_2020-01-29-15-50-59.png)
+![](../attachments/111.png)
 
 What happens is this function, first it looks inside of it's own function scope, and it will look for a variable `firstName` that has been passed in. If there is not, it will start to do is go up to a high level of scope and look there.
 
@@ -753,13 +753,13 @@ console.log(greeting);
 ```
 
 This makes the function nice and reusable, and we can use it to print out any first name like so 👇
-![](@attachment/Clipboard_2020-01-29-15-55-38.png)
+![](../attachments/112.png)
 
 As long as we pass in an argument (in this case "Wes"), it is going to have a variable inside of that function that is referenced to whateer the person has passed in.
 
 If we don't run it with anything, you will see... 👇
 
-![](@attachment/Clipboard_2020-01-29-15-57-14.png)
+![](../attachments/113.png)
 
 The reason that happens is when a function runs, it will create the variable for us (`firstName`) and set it to whatever was passed in.
 
@@ -838,7 +838,7 @@ The `name` parameter that is used in the `doctorize()` method will never collide
 
 Let's go ahead and run it in the console. 👇
 
-![](@attachment/Clipboard_2020-01-29-16-43-59.png)
+![](../attachments/114.png)
 
 Let's pass the output of `doctorize()` into `yell` by typing the following into the console 👇
 
@@ -846,7 +846,7 @@ Let's pass the output of `doctorize()` into `yell` by typing the following into 
 yell(doctorize('wes))
 ```
 
-![](@attachment/Clipboard_2020-01-29-16-44-48.png)
+![](../attachments/115.png)
 
 How that works is:
 
@@ -861,7 +861,7 @@ Now, let's talk about **default values**.
 
 If we were to take our `yell` function and instead of passing it "Wes", we do not pass an argument, it will error out.
 
-![](@attachment/Clipboard_2020-01-29-16-50-48.png)
+![](../attachments/117.png)
 
 What is happening is that the `toUpperCase()` function (it's technically a method), it's trying to run it against something that didn't get passed in. This means that is someone forgets to pass a value to the `yell` function, our code will break.
 
@@ -895,7 +895,7 @@ function calculateBill(billAmount, taxRate = 0.13) {
 
 What that allows us to do is call `calculateBill(100)` and only pass the value for the `billAmount`.
 
-![](@attachment/Clipboard_2020-01-29-16-55-56.png)
+![](../attachments/118.png)
 
 Wes often likes to set default values when he is creating functions. Even just adding a default value for a string variable of an empty string.
 
@@ -907,7 +907,7 @@ function yell(name = "") {
 
 That will make sure the function doesn't error out, it just won't show a name like so 👇
 
-![](@attachment/Clipboard_2020-01-29-16-57-30.png)
+![](../attachments/119.png)
 
 That is just a safeguard.
 
@@ -933,9 +933,9 @@ const total = billAmount + billAmount * taxRate + billAmount * tipRate;
 
 You may notice that as you save the file, Prettier will remove the parenthesis if they are not needed (the BEDMAS rules are not needed here)
 
-BEFORE SAVING 👉 ![](@attachment/Clipboard_2020-01-29-17-00-53.png)
+BEFORE SAVING 👉 ![](../attachments/120.png)
 
-AFTER SAVING WITH PRETTIER 👉 ![](@attachment/Clipboard_2020-01-29-17-01-04.png)
+AFTER SAVING WITH PRETTIER 👉 ![](../attachments/121.png)
 
 If we run `calculateBill` and pass it 100 dollars, it will return 128.
 
@@ -949,7 +949,7 @@ const myBill4 = calculateBill(100, ,0.2);
 
 If you try to just leave the argument empty and use two commas like shown above 👆, it will break.
 
-![](@attachment/Clipboard_2020-07-21-19-47-57.png)
+![](../attachments/1441.png)
 
 👆 The error is complaining about an unexpected token `,`.
 
@@ -1028,7 +1028,7 @@ However, that is not valid JavaScript. If you try running it in the console you 
 
 > SyntaxError: Function statements require a function name
 
-![](@attachment/Clipboard_2020-07-22-08-21-45.png)
+![](../attachments/1442.png)
 
 Anonymous functions are only valid in some use cases, such as using them in **callbacks** (we will learn more about that later) as well as in an **IIFE (immediately invoked function expression)**. This example was not a valid use case.
 
@@ -1055,7 +1055,7 @@ In the code above 👆, we have taken the anonymous function and stuck it in a v
 
 If you refresh the page, you will see that in the console, we have `doctorize()` available to us, and we can call it like we did in previous videos.
 
-![](@attachment/Clipboard_2020-01-29-18-48-13.png)
+![](../attachments/123.png)
 
 Having the ability to create a variable and then store it in a function is what leads people to say functions are _"first class citizens"_.
 
@@ -1073,7 +1073,7 @@ const doctorize = function (firstName) {
 };
 ```
 
-![](@attachment/Clipboard_2020-01-29-18-51-45.png)
+![](../attachments/125.png)
 
 In our case, it does now tell you it happens inside of doctorize on line 12.
 
@@ -1179,7 +1179,7 @@ This function will take in inches and return centimeters.
 
 Let's try it out in the browser.
 
-![](@attachment/Clipboard_2020-01-30-17-50-07.png)
+![](../attachments/126.png)
 
 This is a pretty simple function, but it still takes up 4 lines of code.
 
@@ -1191,7 +1191,7 @@ function inchToCM(inches) {
 }
 ```
 
-![](@attachment/Clipboard_2020-01-30-17-52-26.png)
+![](../attachments/128.png)
 
 _Note: You may notice in the above 👆 screenshot that the line of code with `return cm;` is now greyed out. That is because that code will never be reached, since we are returning in the line of code above it. When you return from a function, the function stops running._
 
@@ -1309,7 +1309,7 @@ Save the code from above 👆 and refresh `index.html` in the browser.
 
 Open the console and test the function.
 
-![](@attachment/Clipboard_2020-01-30-19-48-27.png)
+![](../attachments/129.png)
 
 You might notice that dev tools is giving us an annotation `?b` in `ƒ(a,?b)` as shown above.
 
@@ -1378,7 +1378,7 @@ function makeABaby(first, last) {
 
 It works!
 
-![](@attachment/Clipboard_2020-01-30-19-58-43.png)
+![](../attachments/130.png)
 
 How could you convert this to an arrow function?
 
@@ -1433,7 +1433,7 @@ To make it an implicit return, get rid of the curly brackets and the `return` ke
 const makeABaby = (first, last) => { name: `${first} ${last}`, age: 0};
 ```
 
-![](@attachment/Clipboard_2020-01-30-20-06-08.png)
+![](../attachments/131.png)
 
 However, you will see the above 👆 error if you try to run the code like that.
 
@@ -1531,9 +1531,9 @@ If we take a look at the function `console.log` in the browser, we will see that
 
 If you type `console` into the console and expand it, you will see that there are all kinds of things within it. 👇
 
-![](@attachment/Clipboard_2020-01-30-20-26-46.png)
+![](../attachments/134.png)
 
-Scroll down to log, and the little ƒ you see means that it's actually a function 👉![](@attachment/Clipboard_2020-01-30-20-27-19.png)
+Scroll down to log, and the little ƒ you see means that it's actually a function 👉![](../attachments/135.png)
 
 So `console` is the object and `log()`, `count()` or any of the other functions listed under the console object are the functions.
 
@@ -1558,7 +1558,7 @@ Next, type `wes.sayHi()` and hit Enter.
 
 You should see the following 👇
 
-![](@attachment/Clipboard_2020-01-30-20-30-25.png)
+![](../attachments/136.png)
 
 `wes.sayHi()` is a **method**. You make it a property on your object and you set it to a function.
 
@@ -1639,7 +1639,7 @@ Modify the `sayHi()` method to add `console.log(this);` and run it in the browse
 
 You will see that on the line in our code that we logged, like `50`, the value of `this` has been returned.
 
-![](@attachment/Clipboard_2020-01-30-20-43-26.png)
+![](../attachments/137.png)
 
 ((`this`)) is equal to the object that it was called against.
 
@@ -1658,7 +1658,7 @@ const wes = {
 
 You would see it immediately fills the value of the name property. 👇
 
-![](@attachment/Clipboard_2020-01-30-20-44-42.png)
+![](../attachments/138.png)
 
 That will not work in an arrow function because they take the parent scope of `this`. We will explain that in the future.
 
@@ -1705,7 +1705,7 @@ console.log(button);
 
 Refresh the page and open the console to see that it works.
 
-![](@attachment/Clipboard_2020-01-30-20-57-19.png)
+![](../attachments/139.png)
 
 Next, listen for a click on that button as shown below
 
@@ -1718,7 +1718,7 @@ When that click happens, we can pass it to any function that we want. in this ca
 
 Now, every time you click it, it will say "HEY WESSSS" 👇
 
-![](@attachment/Clipboard_2020-01-30-20-59-21.png)
+![](../attachments/140.png)
 
 What is happening there is that `.addEventListener()` is an **event listener** that we are listening for a click on, and the callback function is `wes.sayHi()`.
 
@@ -1747,7 +1747,7 @@ button.addEventListener("click", function () {
 });
 ```
 
-![](@attachment/Clipboard_2020-01-30-21-06-26.png)
+![](../attachments/141.png)
 
 And it works just fine when you press it.
 
@@ -1845,15 +1845,15 @@ There is `console.error(person.name)`.
 
 That isn't used for throwing or handling errors (we will learn about that), this just changes what the log looks like in the console, as shown below 👇
 
-![](@attachment/Clipboard_2020-01-31-17-46-02.png)
+![](../attachments/145.png)
 
 It also gives you a stack trace 👇
 
-![](@attachment/Clipboard_2020-01-31-17-47-21.png)
+![](../attachments/146.png)
 
 There is `console.warn()` which is very similar to `console.log()` 👇
 
-![](@attachment/Clipboard_2020-01-31-17-47-38.png)
+![](../attachments/147.png)
 
 There is `console.table()`.
 
@@ -1863,7 +1863,7 @@ Anytime you have a list of objects, and the objects have the same property (mean
 console.table(people);
 ```
 
-![](@attachment/Clipboard_2020-01-31-17-49-45.png)
+![](../attachments/148.png)
 
 There is `console.count()`.
 
@@ -1871,7 +1871,7 @@ This is useful if you want to know how many times a function is being run.
 
 If we go into the `doctorize()` function in `debugging.js` and add `console.count('running doctorize');`, and then refresh the html page, every time you type `doctorize('wes');` in the console, the console will log a count.
 
-![](@attachment/Clipboard_2020-01-31-17-52-29.png)
+![](../attachments/149.png)
 
 That is useful in a scenario where you aren't sure if a function is running twice, or sometimes you are working with hover elements and it's getting triggered way too often. `console.count()` will show you how many times it's actually running.
 
@@ -1886,11 +1886,11 @@ function doctorize(name) {
 
 Now if you type in the console `doctorize('wes')`, it will show the count, but if you run `doctorize('snickers');`, it goes back to one.
 
-![](@attachment/Clipboard_2020-01-31-17-57-25.png)
+![](../attachments/151.png)
 
 But if you call `doctorize('wes');` again, it maintains that count.
 
-![](@attachment/Clipboard_2020-01-31-17-58-57.png)
+![](../attachments/152.png)
 
 `console.count()` is based on what strings you pass it.
 
@@ -1916,7 +1916,7 @@ function doALotOfStuff() {
 }
 ```
 
-![](@attachment/Clipboard_2020-01-31-18-15-45.png)
+![](../attachments/153.png)
 
 What that does is it groups together all of the logs into a group-able thing, and that can be very helpful.
 
@@ -1932,7 +1932,7 @@ people.forEach((person, index) => {
 });
 ```
 
-![](@attachment/Clipboard_2020-01-31-18-20-52.png)
+![](../attachments/154.png)
 
 As you can see, it nicely organizes the people into their separate collapsible section. 👆
 
@@ -1942,7 +1942,7 @@ console.groupCollapse();
 
 You can actually also use the `.groupCollapse()` method shown above 👆 which will by default collapse all the groups, as shown below 👇.
 
-![](@attachment/Clipboard_2020-01-31-18-22-08.png)
+![](../attachments/155.png)
 
 Those are the main console methods that Wes uses to debug something.
 
@@ -1956,7 +1956,7 @@ If you scroll down to the function `go`, you will see that it calls `doctorize`,
 
 There is a lot going on in the code.
 
-![](@attachment/Clipboard_2020-02-01-14-03-17.png)
+![](../attachments/157.png)
 
 You will notice that inside of `greet()` we have this function that doesn't exist, and that wil cause an error. If we try to run that from the console, you will see an uncaught reference error.
 
@@ -1964,7 +1964,7 @@ If you expand the error, you should see a few message below, which are often ign
 
 If you want to know what went wrong, you have to get good at reading the call stacks. It's pretty simple!
 
-![](@attachment/Clipboard_2020-02-01-14-04-35.png)
+![](../attachments/158.png)
 
 In the error log above, the console it letting us know that the error happened at the `greet()` function, which is on line 47 of `debugging.js`. This is where the actual error happened.
 
@@ -1988,11 +1988,11 @@ function bootstrap(){
 
 If you call `bootstrap()` from the console, you will see 👇
 
-![](@attachment/Clipboard_2020-02-01-14-19-44.png)
+![](../attachments/159.png)
 
 If you were to modify `debugging.js` to add a call to bootstrap on page load like so: `bootstrap();`, you won't see that anonymous function line in the call stack.
 
-![](@attachment/Clipboard_2020-02-01-14-23-12.png)
+![](../attachments/160.png)
 
 Go ahead and comment out the `bootstrap()` call now.
 
@@ -2002,13 +2002,13 @@ Next we will learn about the grabbing of elements.
 
 This is a handy tip that Wes' uses often. If you're on a website, and you're inspecting it, and focusing on an element such as this input from Mozilla's website by clicking on it in the element inspector, if you flip over to the console and type `$0`, it will return to you whatever element you had currently selected in the elements tab.
 
-![](@attachment/Clipboard_2020-02-01-14-26-11.png)
+![](../attachments/161.png)
 
-![](@attachment/Clipboard_2020-02-01-14-28-02.png)
+![](../attachments/162.png)
 
 That is very useful because now you could do something like call `$0.value()` against it, and it will tell you what you have typed inside the input.
 
-![](@attachment/Clipboard_2020-02-01-14-29-12.png)
+![](../attachments/163.png)
 
 You might be wondering, what does `0` int the `$0` mean.
 
@@ -2016,14 +2016,14 @@ It means the last element that was clicked.
 
 If you were to go back to the elements tab, select another element like a button, when you go back to the console `$0` will give you the button element and`$1` will give you the input.
 
-![](@attachment/Clipboard_2020-02-01-14-30-30.png)
+![](../attachments/164.png)
 
 You can keep going forever, if you click another element, it will remember the order in which they were clicked.
 
 Another cool thing you do is the use the `$` and `$$` symbol in the console.
 You cannot use these things in your code, it only works in the console. Also, if jQuery is loaded on the page, that won't work.
 
-![](@attachment/Clipboard_2020-02-01-14-32-34.png)
+![](../attachments/165.png)
 
 👆 Those are shorthand selectors for two things we will learn about in a future video about the DOM. Those selectors will allow us to select things based on selectors.
 
@@ -2031,7 +2031,7 @@ You cannot use these things in your code, it only works in the console. Also, if
 
 `$$('p')` will match ALL of the elements that match the selectors.
 
-![](@attachment/Clipboard_2020-02-01-14-39-56.png)
+![](../attachments/166.png)
 
 In the value returned from `$('p')` you can see it found the first paragraph, and with `$$('p')`, it found all of the `p` elements on the page.
 
@@ -2056,19 +2056,19 @@ people.forEach((person, index) => {
 });
 ```
 
-![](@attachment/Clipboard_2020-02-03-17-29-52.png)
+![](../attachments/167.png)
 
 That is a statement that only takes into effect when your dev tools are open, and it will pause JavaScript from running and allow us to peer into JavaScript at that very moment.
 
 If you refresh `debugging.html` now, what happens is that we have set what is called a **breakpoint**. When you set a breakpoint, you are telling JavaScript to break execution of code when it reaches that line.
 
-![](@attachment/Clipboard_2020-02-03-17-32-49.png)
+![](../attachments/170.png)
 
 This gives you a whole bunch of information as to what happened.
 
 If you hover over it, it will show you what the variables are equal to at this point in time.
 
-![](@attachment/Clipboard_2020-02-03-17-34-11.png)
+![](../attachments/171.png)
 
 You can see that the JavaScript has paused and if you go to the console, you will see that nothing has been logged yet.
 
@@ -2076,7 +2076,7 @@ Flip back to the sources tab.
 
 On the right hand-side of the `Sources` tab, that is where all the different tools for inspecting what is going on reside.
 
-![](@attachment/Clipboard_2020-02-03-17-35-42.png)
+![](../attachments/172.png)
 
 We get the call stack, which we learned about earlier.
 
@@ -2084,11 +2084,11 @@ It will also let us know what the local variables are.
 
 You can expand the collapsed Local section within the Scope section, or hover over a variable to see it's value.
 
-![](@attachment/Clipboard_2020-02-03-17-37-13.png)
+![](../attachments/173.png)
 
 There are other sections for breakpoints which we will get to in a second.
 
-![](@attachment/Clipboard_2020-02-03-17-38-09.png)
+![](../attachments/174.png)
 
 What is cool is you can click the play button shown above , and then if you flip back to the console, you will see that the name "Wes" has been logged.
 
@@ -2096,17 +2096,17 @@ What happened there is when the function first ran, it hit the breakpoint and th
 
 Now you can see that the second person is equal to Scott.
 
-![](@attachment/Clipboard_2020-02-03-17-39-21.png)
+![](../attachments/175.png)
 
 You can also step over into the next function call like so 👇
 
-![](@attachment/Clipboard_2020-02-03-17-43-28.png)
+![](../attachments/176.png)
 
 When you hit play, it will just continue execution of the code until it hits the next breakpoint.
 
 If you click the option beside the play button that says "Step over next function call", it allows you to run the code line by line.
 
-![](@attachment/breakpoint.gif)
+![](../attachments/breakpoint.gif)
 
 When you feel like you are logging too much data in order to see it, or you are logging something quickly so you can see what happened in the past, adding a debugger (it can go anywhere in your JavaScript code) can be very helpful.
 
@@ -2118,11 +2118,11 @@ Remove the line of code in `debugger.js` that says `debugger;` and refresh `debu
 
 Open the sources tab.
 
-![](@attachment/Clipboard_2020-02-03-17-50-42.png)
+![](../attachments/178.png)
 
 In the sidebar on the left, you can click on your actual JavaScript files that are loaded on the page, and then you can say something like "when someone runs this go() function, I want to put a breakpoint in there"
 
-![](@attachment/Clipboard_2020-02-03-17-55-27.png)
+![](../attachments/179.png)
 
 What you do is you click the line number next to the line of code that you would like to pause during.
 
@@ -2138,7 +2138,7 @@ The next one is Network Request.
 
 This is useful if you want to see what is being fired off when you load the page. If you go to your networks tab and refresh `debugging.html`, you will see all of the different files that are needed in order for the page to work.
 
-![](@attachment/Clipboard_2020-02-03-18-00-04.png)
+![](../attachments/180.png)
 
 This is helpful because you can see when the data is being sent to you.
 
@@ -2166,11 +2166,11 @@ If you were to run the `fetchDadJoke()` function in the console, it will return 
 
 If you go back to the network tab, you will see that there is a new item that has been logged.
 
-![](@attachment/Clipboard_2020-02-03-18-03-09.png)
+![](../attachments/181.png)
 
 This tells you the information about the request, what actually happened, the raw response and a preview of it. It gives you information such as how long did this request take.
 
-![](@attachment/Clipboard_2020-02-03-18-04-09.png)
+![](../attachments/183.png)
 
 For example, if youre website is slow, it will tell you how long the request took, and where the time was spent.
 
@@ -2178,13 +2178,13 @@ To demonstrate this, go to http://apple.com and inspect the network tab.
 
 You will see that there are 100s of things that are requested. You can also filter out the requests within the network tab such as XHR, which is when they're sending data out about you.
 
-![](@attachment/Clipboard_2020-02-03-18-06-25.png)
+![](../attachments/184.png)
 
 Next we will go over break on attribute. Wes doesn't use this one often, but it can be useful.
 
 On `debugging.html` there is a button that says "Make me bigger".
 
-![](@attachment/Clipboard_2020-02-03-18-08-59.png)
+![](../attachments/186.png)
 
 When you click it, it gets bigger.
 
@@ -2192,7 +2192,7 @@ If you go to your elements, you will see that the font-size is just being bumped
 
 If you don't know where the JavaScript is that is making that button bigger, you can go into you button in the elements tab of dev tools and select _Break on > Attribute Modifications_.
 
-![](@attachment/Clipboard_2020-02-03-18-10-14.png)
+![](../attachments/187.png)
 
 This is just another way of adding a breakpoint.
 
@@ -2204,23 +2204,23 @@ We will just focus on attribute modifications.
 
 Set the breakpoint on attribute modification and now when we click the button, the breakpoint should be triggered and bring us to the sources tab which will show you where that attribute is being modified from.
 
-![](@attachment/attribute-breakpoint.gif)
+![](../attachments/attribute-breakpoint.gif)
 
 That is very useful when you get thrown into a random code base where you don't really know what is going on.
 
 Finally, if you go to the sources tab again, you will see that there are other things on the right hand side.
 
-![](@attachment/Clipboard_2020-02-03-18-17-49.png)
+![](../attachments/188.png)
 
 You can throw Event Listener breakpoints, such as mouse click. 👇
 
-![](@attachment/Clipboard_2020-02-03-18-18-28.png)
+![](../attachments/189.png)
 
 If you add that breakpoint, now when you click on the button, it will throw a debugger breakpoint for you.
 
 There are also XHR breakpoints:
 
-![](@attachment/Clipboard_2020-02-03-18-19-34.png)
+![](../attachments/190.png)
 
 If you click `Any XHR or fetch`, what that will do is anytime a fetch request is made, anytime someone goes off to an external API, the code will break execution.
 

@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-04-20-17-44-07.png, Clipboard_2020-04-20-17-49-26.png, Clipboard_2020-04-20-17-51-12.png, Clipboard_2020-04-20-20-10-34.png, Clipboard_2020-04-20-20-13-04.png, Clipboard_2020-04-20-20-14-15.png, Clipboard_2020-04-20-20-27-30.png, Clipboard_2020-04-20-20-34-33.png, Clipboard_2020-04-20-20-35-34.png, Clipboard_2020-04-20-20-36-49.png, Clipboard_2020-04-20-20-37-26.png, Clipboard_2020-04-20-20-39-10.png, Clipboard_2020-04-20-20-45-59.png, Clipboard_2020-04-20-20-51-38.png, Clipboard_2020-04-20-20-54-08.png, Clipboard_2020-04-20-20-55-18.png, Clipboard_2020-04-20-21-03-53.png, Clipboard_2020-04-20-21-14-48.png, Clipboard_2020-04-20-21-15-35.png, Clipboard_2020-04-20-21-26-25.png, Clipboard_2020-04-20-21-29-44.png, Clipboard_2020-04-20-21-30-27.png, Clipboard_2020-04-20-21-31-22.png, Clipboard_2020-04-21-06-28-28.png, Clipboard_2020-04-21-06-28-56.png, Clipboard_2020-04-21-06-58-49.png, Clipboard_2020-04-21-07-19-00.png, Clipboard_2020-04-21-07-19-53.png, Clipboard_2020-04-21-07-20-57.png, Clipboard_2020-04-21-07-25-23.png, Clipboard_2020-04-21-07-28-44.png, Clipboard_2020-04-21-07-45-14.png, Clipboard_2020-04-21-07-45-43.png, Clipboard_2020-04-21-07-49-15.png, Clipboard_2020-04-21-07-52-21.png, Clipboard_2020-04-21-08-01-54.png, Clipboard_2020-04-21-18-00-57.png, Clipboard_2020-04-21-18-11-21.png, Clipboard_2020-04-21-18-44-26.png, Clipboard_2020-04-21-19-04-01.png, Clipboard_2020-04-21-19-06-41.png, Clipboard_2020-04-21-19-07-31.png, Clipboard_2020-04-21-19-10-48.png, Clipboard_2020-04-21-19-14-30.png, Clipboard_2020-04-21-19-17-06.png, Clipboard_2020-04-21-19-17-53.png, Clipboard_2020-04-21-19-18-32.png, Clipboard_2020-04-21-19-26-08.png, Clipboard_2020-04-21-19-27-29.png, Clipboard_2020-04-21-19-38-17.png, Clipboard_2020-04-21-19-46-53.png, Clipboard_2020-04-22-06-37-18.png, Clipboard_2020-04-22-06-38-44.png, Clipboard_2020-04-22-06-39-50.png, Clipboard_2020-04-22-06-55-58.png, Clipboard_2020-04-22-07-14-34.png, Clipboard_2020-04-22-07-21-16.png, Clipboard_2020-04-22-07-22-44.png, Clipboard_2020-04-22-07-24-48.png, Clipboard_2020-04-22-07-26-09.png, Clipboard_2020-04-22-07-27-16.png, Clipboard_2020-04-22-07-37-32.png, Clipboard_2020-04-22-07-38-43.png, Clipboard_2020-04-22-07-42-12.png, Clipboard_2020-04-22-07-42-55.png, Clipboard_2020-04-22-07-44-12.png, Clipboard_2020-04-22-07-45-16.png, Clipboard_2020-04-22-17-20-49.png, Clipboard_2020-04-22-17-21-57.png, Clipboard_2020-04-22-17-27-58.png, Clipboard_2020-04-22-17-32-28.png, Clipboard_2020-04-22-17-33-36.png, Clipboard_2020-04-22-17-33-53.png, Clipboard_2020-04-22-17-41-21.png, Clipboard_2020-04-22-17-45-30.png, Clipboard_2020-04-23-08-31-55.png, Clipboard_2020-04-23-08-37-40.png, Clipboard_2020-04-23-08-42-16.png, Clipboard_2020-04-23-08-42-37.png, Clipboard_2020-04-27-11-00-37.png, Clipboard_2020-04-27-11-04-47.png, Clipboard_2020-04-27-11-06-05.png, Clipboard_2020-04-27-11-16-04.png, Clipboard_2020-04-27-11-21-34.png, Clipboard_2020-04-27-11-25-30.png, Clipboard_2020-04-27-11-26-43.png, Clipboard_2020-04-27-11-35-40.png, Clipboard_2020-04-27-11-37-15.png, Clipboard_2020-04-27-11-39-20.png, Clipboard_2020-04-27-11-40-58.png, Clipboard_2020-04-27-11-42-16.png, Clipboard_2020-04-27-11-43-52.png, Clipboard_2020-04-27-14-09-29.png, Clipboard_2020-04-27-14-16-16.png, Clipboard_2020-04-27-14-25-15.png, Clipboard_2020-04-27-14-34-08.png, Clipboard_2020-04-27-14-48-08.png, Clipboard_2020-04-27-14-50-55.png, Clipboard_2020-04-27-15-00-26.png, Clipboard_2020-04-27-15-21-44.png, Clipboard_2020-04-27-15-24-34.png, Clipboard_2020-04-27-15-25-45.png, Clipboard_2020-04-27-15-26-14.png, Clipboard_2020-04-27-15-42-28.png, Clipboard_2020-04-27-15-46-13.png, Clipboard_2020-04-27-15-51-09.png, Clipboard_2020-04-27-15-55-27.png, Clipboard_2020-04-27-15-56-59.png, Clipboard_2020-04-27-15-58-55.png, Clipboard_2020-04-27-15-59-40.png, Clipboard_2020-04-27-17-19-26.png, Clipboard_2020-04-27-17-39-31.png, Clipboard_2020-04-27-17-40-10.png, Clipboard_2020-04-27-17-41-48.png, Clipboard_2020-04-27-17-53-33.png, Clipboard_2020-04-27-17-54-06.png, Clipboard_2020-04-27-17-54-51.png, Clipboard_2020-04-27-18-06-35.png, Clipboard_2020-04-27-18-08-28.png, Clipboard_2020-04-27-18-11-36.png, Clipboard_2020-04-27-18-13-56.png, Clipboard_2020-04-27-18-15-08.png, Clipboard_2020-04-27-18-27-41.png, Clipboard_2020-04-27-18-33-45.png, Clipboard_2020-04-27-18-36-57.png, Clipboard_2020-04-28-06-53-27.png, Clipboard_2020-04-28-07-01-47.png, Clipboard_2020-04-28-07-01-56.png, Clipboard_2020-04-28-07-25-18.png, Clipboard_2020-04-28-07-25-34.png, Clipboard_2020-04-28-07-32-39.png, Clipboard_2020-04-28-07-33-52.png, Clipboard_2020-04-28-18-52-19.png, Clipboard_2020-04-28-18-53-25.png, Clipboard_2020-04-28-18-54-59.png, Clipboard_2020-04-28-18-55-23.png, Clipboard_2020-04-28-18-59-07.png, Clipboard_2020-04-28-19-22-14.png, Clipboard_2020-04-28-19-28-26.png, Clipboard_2020-04-28-19-30-03.png, Clipboard_2020-04-28-19-32-08.png, Clipboard_2020-04-28-19-36-43.png, Clipboard_2020-04-28-20-23-51.png, Clipboard_2020-04-28-20-24-06.png, Clipboard_2020-04-28-20-25-38.png, Clipboard_2020-04-28-20-28-26.png, Clipboard_2020-04-28-21-02-49.png, Clipboard_2020-04-28-21-08-26.png, Clipboard_2020-04-28-22-17-07.png, Clipboard_2020-04-28-23-06-50.png, Clipboard_2020-04-29-06-47-09.png, Clipboard_2020-04-29-06-51-50.png, Clipboard_2020-04-29-06-59-39.png, Clipboard_2020-04-29-07-03-28.png, Clipboard_2020-04-29-07-10-07.png, Clipboard_2020-04-29-07-11-12.png, Clipboard_2020-04-29-07-30-31.png, Clipboard_2020-04-29-07-31-34.png, Clipboard_2020-04-29-07-32-05.png, Clipboard_2020-04-29-08-40-22.png, Clipboard_2020-04-29-08-47-15.png, Clipboard_2020-05-04-18-15-26.png, Clipboard_2020-05-04-18-16-53.png, Clipboard_2020-05-04-18-20-04.png, Clipboard_2020-05-04-18-20-42.png, Clipboard_2020-05-04-18-21-38.png, Clipboard_2020-05-04-18-26-28.png, Clipboard_2020-05-04-18-27-21.png, Clipboard_2020-05-04-18-31-15.png, Clipboard_2020-05-04-18-35-39.png, Clipboard_2020-05-04-19-08-19.png, Clipboard_2020-05-04-19-13-57.png]
+attachments: [731.png, 732.png, 733.png, 734.png, 735.png, 736.png, 737.png, 738.png, 739.png, 740.png, 741.png, 742.png, 743.png, 744.png, 745.png, 746.png, 747.png, 748.png, 749.png, 750.png, 751.png, 752.png, 753.png, 754.png, 755.png, 756.png, 757.png, 758.png, 759.png, 760.png, 761.png, 762.png, 763.png, 764.png, 765.png, 766.png, 767.png, 768.png, 769.png, 770.png, 771.png, 772.png, 773.png, 774.png, 775.png, 776.png, 777.png, 778.png, 779.png, 780.png, 781.png, 782.png, 783.png, 784.png, 785.png, 786.png, 787.png, 788.png, 789.png, 790.png, 791.png, 792.png, 793.png, 794.png, 795.png, 796.png, 797.png, 798.png, 799.png, 800.png, 801.png, 802.png, 803.png, 804.png, 805.png, 806.png, 807.png, 808.png, 809.png, 810.png, 811.png, 812.png, 813.png, 814.png, 815.png, 816.png, 817.png, 818.png, 819.png, 820.png, 821.png, 822.png, 823.png, 824.png, 825.png, 826.png, 827.png, 828.png, 829.png, 830.png, 831.png, 832.png, 833.png, 834.png, 835.png, 836.png, 837.png, 838.png, 839.png, 840.png, 841.png, 842.png, 843.png, 844.png, 845.png, 846.png, 847.png, 848.png, 849.png, 850.png, 851.png, 852.png, 853.png, 854.png, 855.png, 856.png, 857.png, 858.png, 859.png, 860.png, 861.png, 862.png, 863.png, 864.png, 865.png, 866.png, 867.png, 868.png, 869.png, 870.png, 871.png, 872.png, 873.png, 874.png, 875.png, 876.png, 877.png, 878.png, 879.png, 880.png, 881.png, 882.png, 883.png, 884.png, 885.png, 886.png, 887.png, 888.png, 889.png, 890.png, 891.png, 892.png, 893.png, 894.png, 895.png, 896.png, 897.png, 898.png, 899.png, 900.png, 901.png, 902.png]
 title: 'Module 10: Harder Practice Exercises'
 created: '2020-04-20T11:16:46.618Z'
 modified: '2020-09-15T22:41:20.892Z'
@@ -15,7 +15,7 @@ We are going to build a face detection that will detect and blur your face from 
 
 This exercise is stepping a little bit ahead because there are a couple of things we need to learn a more about like promises and async/await, and bundling tools, specifically one called Parcel. 
 
-![](@attachment/Clipboard_2020-04-20-17-44-07.png) 00:22
+![](../attachments/731.png) 00:22
 
 The first thing we need to check is that we are on a browser that supports face detection. 
 
@@ -25,7 +25,7 @@ Ideally it will get into all of the browsers but currently it is only in Chrome 
 
 The way you can tell if your browser supports it is you can go to the console on any page and type `FaceDetector`, or `typeof FaceDetector`. 
 
-![](@attachment/Clipboard_2020-04-20-17-49-26.png) 1:40
+![](../attachments/732.png) 1:40
 
 If you get `undefined` or an error returned, that means your browser does not support it. If you are on Chrome, you likely have to go to the flags page in Chrome and turn it on. 
 
@@ -33,7 +33,7 @@ Often new features in the browser are not given to the masses because they are n
 
 The way you turn flags on in Chrome is you navigate to `chrome://flags`.
 
-![](@attachment/Clipboard_2020-04-20-17-51-12.png) 3:30
+![](../attachments/733.png) 3:30
 
 This page contains all kinds of features that are still experimental in Chrome. You want to search for "Experimental Web Platform features" and enable it. 
 
@@ -53,19 +53,19 @@ An **origin** in Javascript is just a fancy way of saying a **domain name**.
 
 So in Wes' case, he is currently allowing the camera on localhost, but you might allow the camera on New York Times or Facebook or all these different websites. 
 
-![](@attachment/Clipboard_2020-04-20-20-10-34.png) 3:54
+![](../attachments/734.png) 3:54
 
 Everytime you visit a new origin, a new domain name, you're going to have to ask the user for access to their webcam and it will pop up. 
 
 So in order for us to do that, we cannot just open up `face.html` (from the  `/53 - Face Detection Censorship` folder) in the browser like we have been doing up until now.
 
-![](@attachment/Clipboard_2020-04-20-20-13-04.png) 4:27
+![](../attachments/735.png) 4:27
 
 The reason for that is the file path that you see in the url browser above is not an origin. If security stuff is tied to an origin, it won't be able to do it from a local file.
 
 You might notice the X next to the camera. If you take a look, you will see that the camera is blocked.
 
-![](@attachment/Clipboard_2020-04-20-20-14-15.png) 4:35
+![](../attachments/736.png) 4:35
 
 If you try to allow it by clicking "always allow", it still won't work. 
 
@@ -83,23 +83,23 @@ To do that, you need to use the command `cd` to go into the correct directory.
 
 If you don't know where you are starting in the terminal, you can type `pwd` and it will tell you where you are on your computer. 
 
-![](@attachment/Clipboard_2020-04-20-20-27-30.png) 6:11
+![](../attachments/737.png) 6:11
 
 What is probably easier than that is if you are using VSCode, you can just right click the folder and select "Open in Terminal". 
 
-![](@attachment/Clipboard_2020-04-20-20-34-33.png) 6:20
+![](../attachments/738.png) 6:20
 
 That opens the terminal up in the built in terminal in VSCode.
 
-![](@attachment/Clipboard_2020-04-20-20-35-34.png) 6:23
+![](../attachments/739.png) 6:23
 
 In the second video, Wes had us install **NodeJS** and **NPM**. You can check if you have both installed by typing `node -v` and `npm -v` in the terminal. That will return to you the version you have installed, as shown below 👇
 
-![](@attachment/Clipboard_2020-04-20-20-36-49.png) 7:01
+![](../attachments/740.png) 7:01
 
 If you need to check what the latest NodeJS version is, you can go to `nodejs.org` and find the LTS version which stands for long term support -- that is the most stable version. 
 
-![](@attachment/Clipboard_2020-04-20-20-37-26.png) 7:04
+![](../attachments/741.png) 7:04
 
 Once you have confirmed you have both of those and you are in the right directory, go ahead and type `npm install`.
 
@@ -107,7 +107,7 @@ Wes will cover this all more in the  future, but what that does is it will take 
 
 In our case we are installing Parcel. 
 
-![](@attachment/Clipboard_2020-04-20-20-39-10.png) 7:45
+![](../attachments/742.png) 7:45
 
 You should completely ignore the versions in this file, because that will likely change in the future and Wes will be keeping the files up to date. 
 
@@ -176,7 +176,7 @@ After that we have a few styles that just center things on the page, nothing too
 
 If you look at the terminal, the package should be done installing. 
 
-![](@attachment/Clipboard_2020-04-20-20-45-59.png) 8:56
+![](../attachments/743.png) 8:56
 
 You may notice in the terminal something like "found 39 high severity vulnerabilities". That will pop up when you `npm install` things. What happens there is that some dependencies have security vulnerabilities that need to be fixed and what happens is the people who create Parcel will fix that eventually. So if you see that, don't freak out. It's totally fine, hopefully NPM will hopefully find a better way to deal with those warnings. 
 
@@ -186,11 +186,11 @@ Go back to the terminal and in the same directory type `npm start`.
 
 That will run Parcel against the `face.html` file and it will run the server at some URL. 
 
-![](@attachment/Clipboard_2020-04-20-20-51-38.png) 10:45
+![](../attachments/744.png) 10:45
 
 If you go to that URL in the browser and open the console, you should see "it works!". 
 
-![](@attachment/Clipboard_2020-04-20-20-54-08.png) 11:03
+![](../attachments/745.png) 11:03
 
 Sometimes you will see weird warnings like the yellow one above, and that is related to a Chrome extension that you have installed, and that is annoying because it gets in the way of writing our actual code. 
 
@@ -198,7 +198,7 @@ That can be annoying because there is no way to get rid of them.
 
 One trick Wes has found it typing into the Filter `-DevTools` as shown below 👇
 
-![](@attachment/Clipboard_2020-04-20-20-55-18.png) 11:20
+![](../attachments/746.png) 11:20
 
 Now that we have everything up and running, let's dig into some code.
 
@@ -226,7 +226,7 @@ face
 
 _In VSCode, he is able to press the shortcuts `CMD + A` and then `CMD + Shift + L`, and that gives him a cursor on every single line._ 
 
-![](@attachment/Clipboard_2020-04-20-21-03-53.png) 12:35
+![](../attachments/747.png) 12:35
 
 Add the following code 👇
 
@@ -259,11 +259,11 @@ const faceDetector = new FaceDetector();
 console.log(video, canvas, faceCanvas, faceDetector);
 ```
 
-![](@attachment/Clipboard_2020-04-20-21-14-48.png) 14:12
+![](../attachments/748.png) 14:12
 
 _Note: you might notice in VSCode that it says "FaceDetector is not defined" if you hover over `new FaceDetector()`._
 
-![](@attachment/Clipboard_2020-04-20-21-15-35.png) 14:18
+![](../attachments/749.png) 14:18
 
 _That is because it is looking for a function called `FaceDetector`. The way we can solve that is to say `const faceDetector = new window.FaceDetector()`. That is fine to do (Wes told us not to do it in looping) here because this FaceDetector API does not exist in NodeJS land._
 
@@ -292,7 +292,7 @@ function populateVideo() {
 
 If you refresh the HTML page and try to run `populateVideo()`, you will see an error as shown below. 
 
-![](@attachment/Clipboard_2020-04-20-21-26-25.png) 15:50
+![](../attachments/750.png) 15:50
 
 Now that we are running things through a bundler, we no longer have the ability to access our functions globally via the console. 
 
@@ -304,17 +304,17 @@ The best way to do it would just be to add a log in your javascript file and you
 
 If you do ever need to access it from the chrome dev tools, you can right click it, and click store as global variable.
 
-![](@attachment/Clipboard_2020-04-20-21-29-44.png) 16:48
+![](../attachments/751.png) 16:48
 
 That will store it in a global variable called `temp1`. 
 
 If you try calling `temp1()`, you will see something returned to us called a **promise**.  
 
-![](@attachment/Clipboard_2020-04-20-21-30-27.png) 16:57
+![](../attachments/752.png) 16:57
 
 There are a couple things going on here. First, it might show you a little recording icon on the chrome tab (it might not, we will go over that in a sec.). 
 
-![](@attachment/Clipboard_2020-04-20-21-31-22.png) 17:03
+![](../attachments/753.png) 17:03
 
 As mentioned, we are returned a promise when we call `temp1()` in the console (which is our `populateVideo()` function stored as a global variabe). 
 
@@ -338,7 +338,7 @@ populateVideo();
 
 If you refresh the page and look at the console, you may see the following 👇
 
-![](@attachment/Clipboard_2020-04-21-06-28-28.png) 18:09
+![](../attachments/754.png) 18:09
 
 If you do not, you may see a little red X on your video camera icon in the browser tab. 
 
@@ -346,7 +346,7 @@ To fix that, you need to click on it and select "continue" or "always allow acce
 
 Click done, then reload the page, and then you should see a media stream in the console.
 
-![](@attachment/Clipboard_2020-04-21-06-28-56.png) 18:18
+![](../attachments/755.png) 18:18
 
 How is what is returned to us via the `MediaStream` useful?
 
@@ -421,7 +421,7 @@ This is promise-based, which we will cover in more detail in future videos.
 
 If you refresh the page and open the console now, you should see a face detected. It will tell you exactly where the eyes, the nose, and the mouth are. 
 
-![](@attachment/Clipboard_2020-04-21-06-58-49.png) 23:24
+![](../attachments/756.png) 23:24
 
 It also gives us the `boundingBox` which is the square around the user's head.
 
@@ -458,15 +458,15 @@ What we have just done there is a concept called **recursion**.
 
 Let's take a look at the `DetectedFace`. 
 
-![](@attachment/Clipboard_2020-04-21-07-19-00.png) 26:24
+![](../attachments/757.png) 26:24
 
 As you can see, it gives us an array with one item. Log `faces.length`. 
 
-![](@attachment/Clipboard_2020-04-21-07-19-53.png) 26:44
+![](../attachments/758.png) 26:44
 
 As you can see, it only logs one face until Wes holds up the queens face on a dollar bill to the webcam. 
 
-![](@attachment/Clipboard_2020-04-21-07-20-57.png) 27:35
+![](../attachments/759.png) 27:35
 
 When Wes holds up a picture, Face Detection detects all four faces.
 
@@ -500,7 +500,7 @@ When you refresh the page and look at the console, you should see many faces log
 
 Let's get the bounding box from one of those. We need the `top` and `left`, `width`, and the `height`. 
 
-![](@attachment/Clipboard_2020-04-21-07-25-23.png) 29:17
+![](../attachments/760.png) 29:17
 
 ```js
 function drawFace(face) {
@@ -511,7 +511,7 @@ function drawFace(face) {
 
 If you refresh the page, you should see lots of logs like the following 👇
 
-![](@attachment/Clipboard_2020-04-21-07-28-44.png)
+![](../attachments/761.png)
 
 One trick you can do is if within the log, you just wrap the items in curly brackets as shown below, it will log the property names and values.
 
@@ -521,11 +521,11 @@ console.log({width, height, top, left});
 
 The reason that works is because you are essentially making an object.
 
-![](@attachment/Clipboard_2020-04-21-07-45-14.png) 30:34
+![](../attachments/762.png) 30:34
 
 Now we want to draw a box onto our canvas element that is down in the part of the page that is highlighted in the image below.
 
-![](@attachment/Clipboard_2020-04-21-07-45-43.png) 30:47
+![](../attachments/763.png) 30:47
 
 We are going to overlay it with the video in order to do that. 
 
@@ -546,7 +546,7 @@ function drawFace(face) {
 }
 ```
 
-![](@attachment/Clipboard_2020-04-21-07-49-15.png) 31:45
+![](../attachments/764.png) 31:45
 
 As you can see, it does work. if you move your face around, the boxes should move around as well. 
 
@@ -590,7 +590,7 @@ Let's take a look at `face.html`. It seems like it's ignoring the style tag. Try
 
 If you refresh the page now, it should work. This likely happened because we are using a beta version of Parcel.
 
-![](@attachment/Clipboard_2020-04-21-07-52-21.png) 32:29 
+![](../attachments/765.png) 32:29 
 
 The next thing to fix is that the stroke that the rectangle is created in is not yellow. Try moving where you set `strokeStyle` and `lineWidth` into the function right before you draw the rectangle like so 👇
 
@@ -638,7 +638,7 @@ function censor({boundingBox: face}){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-21-08-01-54.png) 35:28
+![](../attachments/766.png) 35:28
 
 As you can see, we have bounding box. 
 
@@ -663,7 +663,7 @@ Now the way we are going to do this is we are going to take our second canvas co
 
 `drawImage` takes in a lot of arguments, let's look it up on MDN.
 
-![](@attachment/Clipboard_2020-04-21-18-00-57.png) 37:01
+![](../attachments/767.png) 37:01
 
 (t takes a few set of options. You can either pass in 3 (`image`, `dx`, `dy`), 5(`image`, `dx`, `dy`, `dWidth`, `dHeight`), or it takes 9 (`image`, `sx`, `sy`, `sWidth`, `sHeight`, `dx`, `dy`, `dWidth`, `dHeight`). 
 
@@ -679,7 +679,7 @@ If you just look at the HTML page, it might look like nothing has changed but if
 
 If we add a `display:none` CSS style to the video, you will notice that you can still see yourself. The video is being painted onto the canvas.
 
-![](@attachment/Clipboard_2020-04-21-18-11-21.png) 37:48
+![](../attachments/768.png) 37:48
 
 Now this isn't exactly what we want to do. We want to take the square that is painting on Wes' face and throw it on there.  
 
@@ -732,7 +732,7 @@ face.y,
 10 
 ```
 
-![](@attachment/Clipboard_2020-04-21-18-44-26.png) 40:29
+![](../attachments/769.png) 40:29
 
 You can see in the very top corner there is a tiny little Wes. 
 
@@ -846,7 +846,7 @@ const faceCanvas = document.querySelector(".face");
 const faceCtx = faceCanvas.getContext("2d");
 ```
 
-![](@attachment/Clipboard_2020-04-21-19-04-01.png) 44:27
+![](../attachments/770.png) 44:27
 
 Now it is finally working! It is taking our faces and spreading it all over. There are few things we can do to fix some of that stuff. 
 
@@ -854,8 +854,8 @@ Go into the `censor` function.  In the first line of the function add `faceCtx.i
 
 If you don't have that, the image is just kind of blurry so what the browser does is it says "oh this is pixelated!, let me try to smooth it out".  But if you turn that off, you get the real pixelated values. 
 
-![](@attachment/Clipboard_2020-04-21-19-06-41.png) 45:04
-![](@attachment/Clipboard_2020-04-21-19-07-31.png)
+![](../attachments/771.png) 45:04
+![](../attachments/772.png)
 
 We also want to clear the canvas before we do any of this so add `faceCtx.clearRect(0, 0, faceCanvas.width, faceCanvas.height)`.
 
@@ -863,7 +863,7 @@ Now the canvas should clear when we move.
 
 One other thing is it doesn't do a great job at getting Wes' whole face. What Wes will do is go to the top of the file and create a scale variable like so `const SCALE = 1.5;`
 
-![](@attachment/Clipboard_2020-04-21-19-10-48.png) 45:33
+![](../attachments/773.png) 45:33
 
 Go to our second draw and make a few variables that are scaled up. 
 
@@ -895,7 +895,7 @@ faceCtx.drawImage(
 );
 ```
 
-![](@attachment/Clipboard_2020-04-21-19-14-30.png) 46:18
+![](../attachments/774.png) 46:18
 
 That makes a bigger scaled up face. Now we need to move the canvas over a bit based on the scale. For that we need a bit of math. 
 
@@ -907,12 +907,12 @@ face.x - (width - face.width) / 2,
 face.y - (height - face.height) / 2,
 ```
 
-![](@attachment/Clipboard_2020-04-21-19-17-06.png) 46:51
+![](../attachments/775.png) 46:51
 
 Now you can play around with the size and scale variables. If you change the size to `const SIZE = 100;`, you will see something like 
 
-![](@attachment/Clipboard_2020-04-21-19-17-53.png) 47:11
-![](@attachment/Clipboard_2020-04-21-19-18-32.png)
+![](../attachments/776.png) 47:11
+![](../attachments/777.png)
 
 You can feel free to stop the video here, but if you want to continue, we will create some sliders that will change these `SIZE` and `SCALE`  values. 
 
@@ -946,11 +946,11 @@ Give ourselves an input of type "range", with a minimum value of 0.3 and a max o
 </div> 
 ```
 
-![](@attachment/Clipboard_2020-04-21-19-26-08.png) 50:05
+![](../attachments/778.png) 50:05
 
 Let's make the defaults line up with what we set.  Add `value="1.35"` to the input range. 
 
-![](@attachment/Clipboard_2020-04-21-19-27-29.png) 50:18
+![](../attachments/779.png) 50:18
 
 As you can see now the default value is set on the scale slider. 
 
@@ -974,7 +974,7 @@ console.log(optionsInputs);
 
 If you refresh the page and inspect the console, there is nothing! We did make a mistake, we should have used `querySelectorAll`. If you modify the code to that, you will see that it still doesn't give us anything. 
 
-![](@attachment/Clipboard_2020-04-21-19-38-17.png) 51:46
+![](../attachments/780.png) 51:46
 
 Oh we have a typo! It should be `.controls input[type="range"]` not `inputs` plural. Modify the code accordingly. 
 
@@ -996,7 +996,7 @@ Now when you move the slider, you should see the values changing in the console.
 
 Next we need to pull out the value and name of the input. Log `event.currentTarget.name` as well. 
 
-![](@attachment/Clipboard_2020-04-21-19-46-53.png) 53:07
+![](../attachments/781.png) 53:07
 
 Destructure the `value` and `name` variables. 
 
@@ -1032,11 +1032,11 @@ Based on your selection, the text you entered will be modified to match the styl
 
 The sarcastic option gives us "sponge bob case" as it's often called, which is depicted in the image below. 
 
-![](@attachment/Clipboard_2020-04-22-06-38-44.png) 00:34
+![](../attachments/783.png) 00:34
 
-![](@attachment/Clipboard_2020-04-22-06-37-18.png) 00:26
+![](../attachments/782.png) 00:26
 
-![](@attachment/Clipboard_2020-04-22-06-39-50.png) 00:45
+![](../attachments/784.png) 00:45
 
 _Note: the funky option gives us those weird characters but you should never use these characters in a real world situation because they are inaccessible to someone with a screen reader._
 
@@ -1094,7 +1094,7 @@ const filterInputs = document.querySelectorAll('[name="filter"]');
 
 Log them all the make sure they are working.
 
-![](@attachment/Clipboard_2020-04-22-06-55-58.png) 2:50
+![](../attachments/785.png) 2:50
 
 Next we need a handler that will output the text. 
 
@@ -1158,7 +1158,7 @@ const transformText(text){
 
 Now every time you type in the textarea, you should get an array of every single letter that the person has in there. 
 
-![](@attachment/Clipboard_2020-04-22-07-14-34.png) 5:54
+![](../attachments/786.png) 5:54
 
 We want to loop over that array and uppercase and lowercase every other letter. 
 
@@ -1188,7 +1188,7 @@ function transformText(text) {
 textarea.addEventListener("input", (e) => transformText(e.target.value));
 ```
 
-![](@attachment/Clipboard_2020-04-22-07-21-16.png) 6:54
+![](../attachments/787.png) 6:54
 
 Now when you type, as you can see, we are logging the letter and the index. What we can do is say if it's an even number, lowercase it, and if it's an odd number, uppercase it. 
 
@@ -1198,13 +1198,13 @@ How do you know if a number is even or odd?
 
 There is a neat way of doing that with the **modulo** operator.  Let's do a little aside to go over how the modulo operator works. 
 
-![](@attachment/Clipboard_2020-04-22-07-22-44.png) 7:41
+![](../attachments/788.png) 7:41
 
 Let's say Wes he has a pack of 10 smarties (which are a candy in Canada) and three kids. 
 
 If you try to divide 10 by 3 you get `10 / 3 = 3.33333333335`. Well you can't really split a smartie into thirds. You might think we can use `Math.floor(10/3)` which does return 3. 
 
-![](@attachment/Clipboard_2020-04-22-07-24-48.png) 8:21
+![](../attachments/789.png) 8:21
 
 So each kid gets 3 smarties. 
 
@@ -1213,7 +1213,7 @@ If we have a pack of 10, each kid gets 3, if we had a pack of 20, each kid will 
 Now the question is, how many are leftover that Wes gets? 
 
 You could try to figure it out using math but it's not the best way. 
-[](@attachment/Clipboard_2020-04-22-07-26-09.png) 8:50
+[](@attachment/790.png) 8:50
 
 What you can do is you can use the modulo operator. Let's say you have 10 smarties, and 2 kids. The modulo operator will tell us after they are evenly divided, how many are left.
 
@@ -1221,7 +1221,7 @@ What you can do is you can use the modulo operator. Let's say you have 10 smarti
 10 % 3 = 1
 ```
 
-![](@attachment/Clipboard_2020-04-22-07-27-16.png) 9:17
+![](../attachments/791.png) 9:17
 
 So if we have 10 smarties that we divide by 3, there will be `one` leftover. 
 If we have 6 smarties, there will be 0 leftover.
@@ -1251,7 +1251,7 @@ const filters = {
 
 If you refresh the page and start typing, you will see that every other letter is uppercase. 
 
-![](@attachment/Clipboard_2020-04-22-07-37-32.png) 12:02
+![](../attachments/792.png) 12:02
 
 Set the result to be `mod.join(' ')`. 
 
@@ -1266,7 +1266,7 @@ function transformText(text) {
 
 Now if you type in the textarea and select the sarcastic filter, you should see something like this 👇
 
-![](@attachment/Clipboard_2020-04-22-07-38-43.png) 12:15
+![](../attachments/793.png) 12:15
 
 So that is our first filter, and we are just hard coding it in our `transformText` function right now. But it would be great if we can use it based on the radio selection that we have.
 
@@ -1279,11 +1279,11 @@ const filter = document.querySelector('[name="filter"]:checked').value;
 console.log(filter);
 ```
 
-![](@attachment/Clipboard_2020-04-22-07-42-12.png) 13:04
+![](../attachments/794.png) 13:04
 
 Now when we type in it, we get the selected filter type logged in the console. 
 
-![](@attachment/Clipboard_2020-04-22-07-42-55.png) 13:19
+![](../attachments/795.png) 13:19
 
 Another way we could have done the filter is because we already have the inputs, we could use the find method to find the input that is checked like so 👇
 
@@ -1291,7 +1291,7 @@ Another way we could have done the filter is because we already have the inputs,
 filterInputs.find(input => input.checked);
 ```
 
-![](@attachment/Clipboard_2020-04-22-07-44-12.png) 13:49
+![](../attachments/796.png) 13:49
 
 If you try that, you should notice an error in the console that says
 >filterInputs.find is not a function. 
@@ -1302,7 +1302,7 @@ That is because `filterInputs` is a NodeList, not an array. We could wrap it in 
 Array.from(filterInputs).find(input => input.checked);
 ```
 
-![](@attachment/Clipboard_2020-04-22-07-45-16.png) 14:05
+![](../attachments/797.png) 14:05
 
 This is actually a better approach because why rerun the query selector if we have already selected all of the inputs!
 
@@ -1355,7 +1355,7 @@ Copy that variable along with the `/* eslint-disable */` and `/* eslint-enable *
 
 Paste it towards the top of the file, after our `filterInputs` declaration. 
 
-![](@attachment/Clipboard_2020-04-22-17-20-49.png) 16:15
+![](../attachments/798.png) 16:15
 
 This object is just a lookup of letters that match to funky letters. 
 
@@ -1368,7 +1368,7 @@ Back to our funky function logic, we need to do the following:
 
 You have the `letter` argument, which you can use to look up inside of `funkyLetters`. For example if someone types `T`, we know there is a t for us to use. 
 
-![](@attachment/Clipboard_2020-04-22-17-27-58.png) 17:43
+![](../attachments/800.png) 17:43
 
 Add the following code 👇
 
@@ -1394,11 +1394,11 @@ funky(letter) {
 
 If you refresh the page and try typing something while selecting the funky radio button, you should see it start working. 
 
-![](@attachment/Clipboard_2020-04-22-17-32-28.png) 18:27
+![](../attachments/801.png) 18:27
 
 If no `funkyLetter` is returned, we want to check for the lowercase version of it because some letters have a funky version for both lower and uppercase, like `f`.
 
-![](@attachment/Clipboard_2020-04-22-17-33-53.png) 18:37
+![](../attachments/803.png) 18:37
 
 To do that, we will modify `funkyLetter` to be a `let` instead of a `const`, and then after the comment where we check if there is a lowercase version, we will try to grab the lowercase version by lowercasing the letter and looking it up in the `funkyLetters` object and then assigning the value to  `funkyLetter`. 
 
@@ -1423,7 +1423,7 @@ So we need a random number between 0 and 2, such as 1, 2, or 3 or 0, 1, 2.
 
 The way that we can do that is using `Math.random() * 3`. That returns a number with decimals so we need to wrap it in a `Math.floor()`. 
 
-![](@attachment/Clipboard_2020-04-22-17-41-21.png) 20:06 
+![](../attachments/804.png) 20:06 
 
 Now we will get 0, 1, or 2 returned. Grab that random number within the `unable` function. 
 
@@ -1446,7 +1446,7 @@ unable(letter) {
 
 Now if you refresh the page, select the unable option and try typing into the textarea, there is a one in three chance that the space will be turned into a `...` 
 
-![](@attachment/Clipboard_2020-04-22-17-45-30.png) 21:13
+![](../attachments/805.png) 21:13
 
 The last thing we want to do is when you click on the radio button options, it should trigger that filter and show you the result. 
 
@@ -1474,13 +1474,13 @@ The main thing Wes wanted to get across in this lesson is that you can store met
 
 In this lesson we will build a shopping list, where you can add items, check them off, and delete them.
 
-![](@attachment/Clipboard_2020-04-23-08-31-55.png) 00:24
+![](../attachments/806.png) 00:24
 
 Although you may have written something like this before, Wes has baked a lot of things that we need to learn about Javascript into this simple example.  
 
 We will be learning about emitting **custom events**, such as the one highlighted in the image below (if you don't know what a custom event is, don't worry, we will be learning about it). 
 
-![](@attachment/Clipboard_2020-04-23-08-37-40.png) 00:40
+![](../attachments/807.png) 00:40
 
 We will also be learning about **event delegation**, how do you listen for clicks on things that happen in the future, as well as **DOM events**, and **local storage**.
 
@@ -1513,7 +1513,7 @@ There are 2 ways to install Parcel on your machine. You can:
 
 To install Parcel globally on your machine, open the terminal and type `npm install -g parcel-bundler`. That will globally install Parcel for you, so that anytime you are in a terminal, Parcel will be available to you. 
 
-![](@attachment/Clipboard_2020-04-27-11-00-37.png) 3:00
+![](../attachments/810.png) 3:00
 
 If you are on a Mac and you have trouble installing global modules on your command line, type `sudo` in front of the command like so `sudo npm install -g parcel-bundler`.  That will ask you for a password first. 
 
@@ -1523,9 +1523,9 @@ Now in the terminal, cd into the Shopping List directory and then type `parcel i
 
 There will be a message in the terminal telling on which server it is running (usually localhost:1234).
 
-![](@attachment/Clipboard_2020-04-27-11-04-47.png) 3:59
+![](../attachments/811.png) 3:59
 
- ![](@attachment/Clipboard_2020-04-27-11-06-05.png) 
+ ![](../attachments/812.png) 
 
  Let's get started. Open the `shopping.js` file, which should contain nothing. 
 
@@ -1536,7 +1536,7 @@ There will be a message in the terminal telling on which server it is running (u
 
 _Note: you may notice when you focus into the input to enter a shopping list, all these values of everything you have ever typed show up, like in the picture below. To fix that, you can go to the HTML, you can set autocomplete to false on either the input or the whole form. There is also an `autocapitialize` attribute which you can switch on or off._ 
 
-![](@attachment/Clipboard_2020-04-27-11-16-04.png) 5:17
+![](../attachments/813.png) 5:17
 
 ```html
 <form class="shopping" autocomplete="off">
@@ -1562,7 +1562,7 @@ The definition changes from framework to framework, but generally what people ar
 
 But what does that mean? Let's use this finished shopping list screenshot below as an example. 
 
-![](@attachment/Clipboard_2020-04-27-11-21-34.png) 7:09
+![](../attachments/814.png) 7:09
 
 In this example, state is going to contain a list of all of your items, a list of those item ids, and whether they have been completed. 
 
@@ -1578,9 +1578,9 @@ If you refresh the page and try to type an item in the input and hit submit, you
 
 However that is not what we want. 
 
-![](@attachment/Clipboard_2020-04-27-11-25-30.png) 8:01
+![](../attachments/815.png) 8:01
 
-![](@attachment/Clipboard_2020-04-27-11-26-43.png) 8:13
+![](../attachments/816.png) 8:13
 
 Let's make a submit handler for that. 
 
@@ -1619,7 +1619,7 @@ function handleSubmit(e) {
 
 If you refresh the page now, type in eggs and hit enter, you should get something like below in the console. 
 
-![](@attachment/Clipboard_2020-04-27-11-35-40.png) 10:00
+![](../attachments/817.png) 10:00
 
 Why are we getting `undefined`? 
 
@@ -1627,7 +1627,7 @@ Let's do a bit of debugging.
 
 Log of `e.currentTarget` in our handler, and then refresh the page. You should see the form element logged. 
 
-![](@attachment/Clipboard_2020-04-27-11-37-15.png) 10:13
+![](../attachments/818.png) 10:13
 
 The reason we are getting `undefined` is because the `currentTarget` is the form, not the input and we want to get the text out of the input.  There are a couple ways we could do this. 
 
@@ -1637,11 +1637,11 @@ We could write another query selector to grab it. However, because the input has
 <input type="text" name="item" id="item>
 ```
 
-![](@attachment/Clipboard_2020-04-27-11-39-20.png) 10:34
+![](../attachments/819.png) 10:34
 
 Take the form and store it as a global variable, called `temp1`, then add `console.dir(temp1)` to get every property inside of it.
 
-![](@attachment/Clipboard_2020-04-27-11-40-58.png) 10:56
+![](../attachments/820.png) 10:56
 
 Somewhere inside of all those properties is `item`. 
 
@@ -1649,7 +1649,7 @@ Wes is having trouble finding it but we will demonstrate it with code.
 
 Modify the log of `console.log(e.currentTarget)` to `console.log(e.currentTarget.item)`. 
 
-![](@attachment/Clipboard_2020-04-27-11-42-16.png) 11:04
+![](../attachments/821.png) 11:04
 
 As you can see, we now get the item, not the entire form itself. 
 
@@ -1666,7 +1666,7 @@ function handleSubmit(e) {
 
 As you can see, now we can capture the value of eggs. 
 
-![](@attachment/Clipboard_2020-04-27-11-43-52.png) 11:20
+![](../attachments/822.png) 11:20
 
 Next step is to store the data about the shopping item in the `items` array, but we cannot just store the straight up string, because we need to be able to store a bit more info about that item. 
 
@@ -1682,7 +1682,7 @@ The name of the item is going to be our name variable.
 
 The id of the item just needs to be something unique. One trick that Wes likes to use is to use `Date.now()` as an ID, which works if you aren't creating more than one item per millisecond, which works for our case.  
 
-![](@attachment/Clipboard_2020-04-27-14-09-29.png) 12:17
+![](../attachments/823.png) 12:17
 
 The third property will be `complete` which we will set to false when the item is added to the list.  
 
@@ -1718,7 +1718,7 @@ console.log(`There are now ${items.length} in your state`);
 
 If you refresh the page and try adding a few items, you should see the count in our log increasing. 
 
-![](@attachment/Clipboard_2020-04-27-14-16-16.png) 13:32
+![](../attachments/824.png) 13:32
 
 Next we need to clear the form. There are a few ways we can do this. 
 
@@ -1771,7 +1771,7 @@ You can call `map` on the `names` array which will go over each of them and then
 
 That is what we will be doing with the `items` array. 
 
-![](@attachment/Clipboard_2020-04-27-14-25-15.png) 16:01
+![](../attachments/825.png) 16:01
 
 ```js
 function displayItems() {
@@ -1789,7 +1789,7 @@ Refresh the page and test that out by adding a few items: egg, milk and then bee
 
 We pushed the item into state, and then once that is finished `displayItems` run and that loops over each item and returns a list item with each of them. 
 
-![](@attachment/Clipboard_2020-04-27-14-34-08.png) 17:12
+![](../attachments/826.png) 17:12
 
 A couple of problems there... 
 
@@ -1804,7 +1804,7 @@ console.log(html);
 
 Now as you can see, we are returned one string. 
 
-![](@attachment/Clipboard_2020-04-27-14-48-08.png) 17:41
+![](../attachments/827.png) 17:41
 
 Take the list and set the innerHTML of it, within the `displayItems` function. 
 
@@ -1818,7 +1818,7 @@ function displayItems() {
 
 Now when you type in an item and enter submit, you will see it displayed.
   
-![](@attachment/Clipboard_2020-04-27-14-50-55.png) 18:00  
+![](../attachments/828.png) 18:00  
 
 We need to add a bit more to our HTML like a delete button and a complete checkbox. Let's scaffold the HTML out a bit more for each item. 
 
@@ -1844,7 +1844,7 @@ function displayItems() {
 
 If you refresh the page and try entering items, you should see something like the following 👇
 
-![](@attachment/Clipboard_2020-04-27-15-00-26.png) 19:35
+![](../attachments/829.png) 19:35
 
 We need to fix a few things here. 
 
@@ -1920,13 +1920,13 @@ We need something to fire off an event about that data and we need to attach it.
 
 If we look at our HTML, we will probably fire off the event from this list. You could also fire it off from the form or the body, it doesn't matter that much. 
 
-![](@attachment/Clipboard_2020-04-27-15-21-44.png) 25:44
+![](../attachments/830.png) 25:44
 
 At the bottom of the `handleSubmit` function, run `list.dispatchEvent()`. The `dispatchEvent` method lives on all DOM elements. You provide it a `CustomEvent`, which is a constructor in the browser.
 
 As you can see, it's just a function. 
 
-![](@attachment/Clipboard_2020-04-27-15-24-34.png) 26:12
+![](../attachments/831.png) 26:12
 
 ```js
 new CustomEvent('PIZZAS HERE')
@@ -1934,7 +1934,7 @@ new CustomEvent('PIZZAS HERE')
 
 If you were to run it by passing the name of your event, as shown above, you should see something like the image below in the console. 
 
-![](@attachment/Clipboard_2020-04-27-15-26-14.png) 26:45
+![](../attachments/833.png) 26:45
 
 It gives us the type of events, as well as any details about when it is fired. 
 
@@ -1962,7 +1962,7 @@ list.addEventListener('itemsUpdated', e=> {
 });
 ```
 
-![](@attachment/Clipboard_2020-04-27-15-42-28.png) 28:17
+![](../attachments/834.png) 28:17
 
 You can see all sorts of details such as the path, which is pretty neat because it shows you the path at which the events have bubbled through. It was first triggered on the `ul`, then bubbled up to the shopping list, then the `body`, `html`, `document` and then the `window`.  
 
@@ -1978,7 +1978,7 @@ Local storage is kind of like a mini database that lives in your browser. It all
 
 If you go to the "Application" tab of the chrome developer tools and look at Local Storage, and then click on the domain name, you won't see anything. However Wes has already completed it so he has values there. There is all this information in his local storage about the items. 
 
-![](@attachment/Clipboard_2020-04-27-15-46-13.png) 29:25
+![](../attachments/835.png) 29:25
 
 So what we want to do now is create a function that will mirror our data to local storage.
 
@@ -2006,7 +2006,7 @@ The API is pretty simple.
 
 If you type in `localStorage` in the console, it will return to you everything that is in local storage.
 
-![](@attachment/Clipboard_2020-04-27-15-51-09.png) 30:34
+![](../attachments/836.png) 30:34
 
 To set an item in local storage, you can use `localStorage.setItem()` where you pass in the key and the value.
 
@@ -2014,7 +2014,7 @@ To get an item from local storage, you can use `localStorage.getItem()` to which
 
 If something funky is happening with local storage, it's best to just clear it out and start fresh which you can do by clicking this button in the Applications tab. 
 
-![](@attachment/Clipboard_2020-04-27-15-55-27.png) 31:05
+![](../attachments/837.png) 31:05
 
 So how are we going to save items to local storage? 
 
@@ -2029,17 +2029,17 @@ function mirrorToLocalStorage() {
 
 If you take a look, you will see `[object Object]`.. what is that? If you try to open it up, you can't, it's just the word object.
 
-![](@attachment/Clipboard_2020-04-27-15-56-59.png) 31:39
+![](../attachments/838.png) 31:39
 
 Why is that? That is because local storage is text only. That means if you have an object or an array or a boolean, it will try to convert that item to text first before it puts it in. 
 
 Every single type has a `.toString()` method, which will convert it to a string.
 
-![](@attachment/Clipboard_2020-04-27-15-58-55.png) 32:37
+![](../attachments/839.png) 32:37
 
 If you have an object, and you call `.toString()` on it, it just gives you `"[object Object]"`, which is not helpful at all. 
 
-![](@attachment/Clipboard_2020-04-27-15-59-40.png) 32:56
+![](../attachments/840.png) 32:56
 
 That is what is happening here, because we are passing it an object, it is trying to convert it to a string which isn't very helpful because there is no data for that.
 
@@ -2063,7 +2063,7 @@ function mirrorToLocalStorage() {
 
 If you try to add some items now, you will see those changes reflected in local storage. 
 
-![](@attachment/Clipboard_2020-04-27-17-19-26.png) 34:18
+![](../attachments/841.png) 34:18
 
 In order to mirror everything to local storage, we need another function that restores from local storage when you load the page.
 
@@ -2136,11 +2136,11 @@ console.log(buttons);
 
 You should get 5. 
 
-![](@attachment/Clipboard_2020-04-27-17-39-31.png) 39:30
+![](../attachments/842.png) 39:30
 
 However, if you move that code further up, above the event listener declarations, we get none. 
 
-![](@attachment/Clipboard_2020-04-27-17-40-10.png) 39:34
+![](../attachments/843.png) 39:34
 
 Why is that? 
 
@@ -2148,7 +2148,7 @@ Because when we run the code from a bit further up in the file, none of the rest
 
 If you throw a `debugger;` after  `console.log(buttons);` and refresh the page, you will see that when the debugger hits, there are no items yet. 
 
-![](@attachment/Clipboard_2020-04-27-17-41-48.png) 40:10
+![](../attachments/844.png) 40:10
 
 That happen a bit later. So you may think it's safe to leave that code at the very bottom of the page. Let's try that. 
 
@@ -2202,13 +2202,13 @@ list.addEventListeners('click', function(e){
 
 If you refresh the page and then click anywhere on it, you will see that it thinks we are click on the span, even though we listened on the list. 
 
-![](@attachment/Clipboard_2020-04-27-17-53-33.png) 43:55
+![](../attachments/845.png) 43:55
 
 Now if you click on the x next to an item, we listened on the list but we actually clicked on the button. 
 
 `currentTarget` is the thing that you listened on and the `target` is the thing that you actually clicked on.
 
-![](@attachment/Clipboard_2020-04-27-17-54-51.png) 44:00
+![](../attachments/847.png) 44:00
 
 Now we need to check if what was clicked matches the button, using `e.target.matches('button')`. That will check if an element matches a CSS selector, which in this case is `button`, then we will delete the item by passing the delete method the id of that item. 
 
@@ -2256,7 +2256,7 @@ Now when you look at the HTML, you should see the id is in the button.
 
 Pass that value to the `deleteItem` function. 
 
-![](@attachment/Clipboard_2020-04-27-18-06-35.png) 47:11
+![](../attachments/848.png) 47:11
 
 Modify the code like below.
 
@@ -2270,7 +2270,7 @@ list.addEventListener("click", function(e) {
 
 Add a log for the id in the `deleteItem` function.
 
-![](@attachment/Clipboard_2020-04-27-18-08-28.png) 47:35
+![](../attachments/849.png) 47:35
 
 That works now, because when you click on the button, you take the value of the button and pass it as an argument to `deleteItem`, which then logs that argument. 
 
@@ -2286,7 +2286,7 @@ That is the opposite, but we will flip it in a second.
 
 Now if you press the delete button next to an item, we get nothing. 
 
-![](@attachment/Clipboard_2020-04-27-18-11-36.png) 48:35
+![](../attachments/850.png) 48:35
 
 If we change the code from `===` to `==` will it work? 
 
@@ -2310,7 +2310,7 @@ Now you can add back the triple equals.
 
 Now when you click the button, you will get the item that needs to be removed. 
 
-![](@attachment/Clipboard_2020-04-27-18-13-56.png) 49:13
+![](../attachments/851.png) 49:13
 
 ```js
 const newItems = items.filter(item => item.id !== id);
@@ -2320,7 +2320,7 @@ We actually want the opposite so modify the line of code as shown above 👆.
 
 If you were to click the delete button for an item now, and you had 12 items, you would only get 11 returned. 
 
-![](@attachment/Clipboard_2020-04-27-18-15-08.png) 49:21 
+![](../attachments/852.png) 49:21 
 
 We need to get the new items into our items array. How can we do that?
 
@@ -2409,7 +2409,7 @@ if (e.target.matches('input[type="checkbox"]')) {
 
 Now when you check them, you should see "marking as complete" with the id logged to the console. 
 
-![](@attachment/Clipboard_2020-04-27-18-27-41.png) 53:17
+![](../attachments/853.png) 53:17
 
 We are repeating ourselves a bit in our event delegator so refactor it as shown below 👇
 
@@ -2457,7 +2457,7 @@ itemRef.complete = !itemRef.complete;
 
 That should work because the opposite of true is false and vice versa. Thus, setting it to the bang version of itself should work. 
 
-![](@attachment/Clipboard_2020-04-27-18-33-45.png) 55:00
+![](../attachments/854.png) 55:00
 
 Now all you have to do is dispatch the `itemsUpdated` event because after updating the items. 
 
@@ -2470,7 +2470,7 @@ You will notice that if you try to enter an item and the check it, it looks like
 
 However if you go to the application tab, you will see that the local storage values are updating. 
 
-![](@attachment/Clipboard_2020-04-27-18-36-57.png) 55:38
+![](../attachments/855.png) 55:38
 
 What is going on? 
 
@@ -2553,7 +2553,7 @@ One last thing is that security, which we will go over in future lessons in more
 
 In this exercise we will be building a gallery.
 
-![](@attachment/Clipboard_2020-04-28-06-53-27.png) 
+![](../attachments/856.png) 
 00:11
 
 We are going to be building it in a standard way, and then come back and refactor it for prototypes once we understand what those are. Then we are going to come back to this exercise a third time and refactor the gallery for classes.
@@ -2562,7 +2562,7 @@ Hopefully that gives you a good idea about why we need prototypes and what class
 
 This is an interesting example already because we want the ability to use this javascript many times over. A lot of the javascript we have written so far assumes that things are on the page and that there is only ever one of them.  
 
-![](@attachment/gallery.gif)
+![](../attachments/gallery.gif)
 
 This gallery allows you to tab through the images when they are tiled and select an image and have it open up larger with an overlay. The image has arrows on each side, allowing the user to navigate back and forth by clicking them or using the arrow keys, you can press the escape key to close the overlay view. It is basically a full featured gallery. 
 
@@ -2615,7 +2615,7 @@ Soon there will be a `new` keyword before we do ` = Gallery()` but for now we do
 
 If we go to the `index.html` that is on the Gallery exercises directory, you will see that we have a `div` with class of `gallery1`, and then a secondary gallery. 
 
-![](@attachment/Clipboard_2020-04-28-07-25-34.png) 4:02
+![](../attachments/860.png) 4:02
 
 Pass the gallery function reference to the gallery we want, which is the first one. 
 
@@ -2628,7 +2628,7 @@ From the beginning we will be running these examples with 2 different galleries 
 
 The first thing we want to do is log the gallery from within the `Gallery` function. When you refresh the page, you should see both `gallery1` and `gallery2` logged. 
 
-![](@attachment/Clipboard_2020-04-28-07-32-39.png) 4:35
+![](../attachments/861.png) 4:35
 
 One helpful thing we can do is if no gallery argument was provided, throw an error that says "No Gallery Found". 
 
@@ -2642,7 +2642,7 @@ function Gallery(gallery){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-28-07-33-52.png) 4:58
+![](../attachments/862.png) 4:58
 
 If instead you want the function to gracefully degrade, you can simply return without throwing anything. That will break and exit the function without throwing any errors in the console. 
 
@@ -2654,7 +2654,7 @@ Previously, Wes has been selecting everything at the top of the file, however, s
 
 The first thing you need is a list of all of the images. Instead of using `document.querySelector` however, you need to make sure it's scoped to the gallery element that was passed in to the function. 
 
-![](@attachment/Clipboard_2020-04-28-18-52-19.png) 6:25
+![](../attachments/863.png) 6:25
 
 Use the `gallery` variable as our selector. For the list, use `Array.from()` because you will need to loop over it at some point. 
 
@@ -2665,7 +2665,7 @@ const images = Array.from(gallery.querySelectorAll('img'));
 console.log(images);
 ```
 
-![](@attachment/Clipboard_2020-04-28-18-53-25.png) 6:47
+![](../attachments/864.png) 6:47
 
 If you add that code and look at the console, you will notice it is empty. 
 
@@ -2673,15 +2673,15 @@ Let's debug that.
 
 Start by logging `gallery` before we declare the `images` variable. 
 
-![](@attachment/Clipboard_2020-04-28-18-54-59.png) 6:54
+![](../attachments/865.png) 6:54
 
 As you can see, the gallery is showing up.
 
-![](@attachment/Clipboard_2020-04-28-18-55-23.png) 6:57
+![](../attachments/866.png) 6:57
 
 If we look inside of the gallery, we can see lots of image elements. 
 
-![](@attachment/Clipboard_2020-04-28-18-59-07.png) 7:06
+![](../attachments/867.png) 7:06
 
 The next thing you need is the modal, with the next and previous buttons. 
 
@@ -2786,7 +2786,7 @@ Now that you have added a bunch of different functions, let's check that it work
 
 If you refresh the page, you should see that when you click an image, that image element is logged to the console. 
 
-![](@attachment/Clipboard_2020-04-28-19-22-14.png) 11:42
+![](../attachments/868.png) 11:42
 
 Refactor the code so instead of having a separate `handleImageClick` function, you can just do the same functionality with an arrow function. 
 
@@ -2802,7 +2802,7 @@ Back to `showImage`, there are a few things that need to happen.
 
 When someone clicks the image, you need to update the source of the image element in the modal and the `h2` and `p` content.
 
-![](@attachment/Clipboard_2020-04-28-19-28-26.png) 12:37
+![](../attachments/869.png) 12:37
 
 Add the following code 👇
 
@@ -2825,7 +2825,7 @@ Why do you need to do that?
 
 If you take a look at the image elements, you will see a couple of attributes on them. 
 
-![](@attachment/Clipboard_2020-04-28-19-32-08.png) 13:37
+![](../attachments/871.png) 13:37
 
 One of those is the `title`. Take the title from the image and then duplicate it again and grab the paragraph. 
 
@@ -2845,7 +2845,7 @@ At the very bottom of the `showImage` function, add `currentImage = el;`
 
 If you refresh the page, then click on an image with the dev tools elements tab open, you should see the modal values being swapped out. 
 
-![](@attachment/Clipboard_2020-04-28-19-36-43.png) 14:55
+![](../attachments/872.png) 14:55
 
 _Note: the demo text is the same for each image, but you can tell it's being swapped because the first time you load the page, and then click, the value will be different._ 
 
@@ -2890,15 +2890,15 @@ Why does that work?
 
 If you look at the `gallery.css`, you will see that by default, the modal has an opacity of 0 and pointer-event of none. 
 
-![](@attachment/Clipboard_2020-04-28-20-23-51.png) 17:29
+![](../attachments/873.png) 17:29
 
 However the modal with the class of `open` has opacity of 1 and pointer-event of all. 
 
-![](@attachment/Clipboard_2020-04-28-20-24-06.png) 17:22
+![](../attachments/874.png) 17:22
 
 The CSS style `opacity:0` will hide the element from the user, and setting `pointer-events:none` will ignore all the clicks on the element. 
 
-![](@attachment/Clipboard_2020-04-28-20-25-38.png) 17:57
+![](../attachments/875.png) 17:57
 
 There is also the `modalInner` which is currently off the page, via the CSS style `transform: translateY(-100vh);`. 
 
@@ -2906,7 +2906,7 @@ If we comment that CSS style out and also set `opacity:1` by default on the moda
 
 When there is an open property on the parent, `.modalInner` gets a `translateY` of 0. 
 
-![](@attachment/Clipboard_2020-04-28-20-28-26.png) 18:23
+![](../attachments/876.png) 18:23
 
 Make a function `closeModal` which will remove the `open` class from the modal. Add a TODO comment to remind you to add event listeners for clicks and keyboard like the escape key later. 
 
@@ -2921,7 +2921,7 @@ If you click outside of the modal, you want to be able to run the `closeModal` f
 
 How can you do that?
 
-![](@attachment/Clipboard_2020-04-28-21-02-49.png) 15:37
+![](../attachments/877.png) 15:37
 
 We only want the modal to close when someone clicks outside of `modalInner`. If you click within the modal, it should not close. 
 
@@ -2943,7 +2943,7 @@ The code above checks whether the thing the user clicked matches the thing that 
 
 So if you clicked within the modal, that would return false but if you clicked outside of it, it would return true. 
 
-![](@attachment/Clipboard_2020-04-28-21-08-26.png) 21:01
+![](../attachments/878.png) 21:01
 
 Refresh the page and open the modal and click outside of it, to ensure it works. (It should.)
 
@@ -2997,7 +2997,7 @@ function showNextImage(){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-28-22-17-07.png) 24:36
+![](../attachments/879.png) 24:36
 
 It gives Wes the suitcase which is correct but we get an error.
 
@@ -3110,7 +3110,7 @@ Images by default are not keyboard focus-able, and in order to make the gallery 
 #### `tab-index`
 If you look at the HTML page, you will see that all the images have a `tab-index` of 0. 
 
-![](@attachment/Clipboard_2020-04-28-23-06-50.png) 31:32
+![](../attachments/880.png) 31:32
 
 By giving it a `tab-index` of 0, you are telling the browser that this is an element that you can tab through, just like an input or links. Giving them all a tab-index of 0 will allow the tab to just naturally go in the flow of the document. 
 
@@ -3156,7 +3156,7 @@ When we learn about prototypes in classes, we will learn about how to share the 
 
 In this video, we will be building a slider.
 
-![](@attachment/Clipboard_2020-04-29-06-47-09.png) 00:16 
+![](../attachments/881.png) 00:16 
 
 A slider may seem simple, but once you dive into it, it starts to get pretty complex. We will build the basics of the slider together and then you can feel free to add any functionality you want to it.
 
@@ -3166,7 +3166,7 @@ We have 2 sliders on the page, so we can be sure that our code can be used more 
 
 If we look at the HTML structure of the slider within the element tab of the dev tools, you will see that we have all 20 slides. Now as we hit the next button and previous buttons, the classes are actually changing on the sliders depending on what button you press.
 
-![](@attachment/Clipboard_2020-04-29-06-51-50.png) 1:31
+![](../attachments/882.png) 1:31
 
 In this lesson we will use **SASS**, just to demonstrate that it is possible. Wes will show us how to get that up and running. 
 
@@ -3210,7 +3210,7 @@ Then we take the slides and put them off the screen like so 👇
 
 Our current slide has `translateX(0)`, which puts it in the middle. As we modify the value that we pass to `translateX`, you will see the slide is moving.
 
-![](@attachment/Clipboard_2020-04-29-06-59-39.png) 2:41
+![](../attachments/883.png) 2:41
 
 By translating something 100%, we are essentially just putting it outside the slides `div` and we have an `overflow:hidden` on it so you cannot see what is outside of it.
 
@@ -3218,7 +3218,7 @@ Have the previous, current and next slide on translateX -100, 0 and then 100% ma
 
 Back to the SASS, in the SASS file we aren't actually using any special SASS syntax, so you could change the file extension to `.css` and it would work. However, Wes wanted to demonstrate that the Parcel bundler is able to recognize a SASS file if you add it via a stylesheet tag.
 
-![](@attachment/Clipboard_2020-04-29-07-03-28.png) 03:52
+![](../attachments/884.png) 03:52
 
 The Parcel bundler detects that the file is a `.scss` extension and it will compile it SASS for us before it puts it into the browser. 
 
@@ -3226,11 +3226,11 @@ Let's get started. Navigate in our terminal to the `exercises/59 - Slider` folde
 
 While that installs, open up the `package.json` file and take a look. 
 
-![](@attachment/Clipboard_2020-04-29-07-10-07.png) 4:40
+![](../attachments/885.png) 4:40
 
 You will notice that we have 2 dev dependencies, one for Sass and one for Parcel. When we type `npm start`, that will run the `parcel index.html` command. 
 
-![](@attachment/Clipboard_2020-04-29-07-11-12.png) 4:35
+![](../attachments/886.png) 4:35
 
 You should see the server is running on a specific port indicated in your terminal. Nothing should be happening on the page because haven't added any Javascript yet. 
 
@@ -3266,11 +3266,11 @@ The element is the most general base class from which all objects in a document 
 
 If you open up your dev tools and type `Element`, you will see that it is a function. 
 
-![](@attachment/Clipboard_2020-04-29-07-30-31.png) 8:25
+![](../attachments/887.png) 8:25
 
 This means that we can use `document instanceof Element` to check whether something is an instance of the Element base class.
 
-![](@attachment/Clipboard_2020-04-29-07-32-05.png) 9:30 
+![](../attachments/889.png) 9:30 
 
 Modify the code as shown below 👇
 
@@ -3302,7 +3302,7 @@ Just like we did in the last lesson, we will be adding a whole bunch of function
 
 Create a function called `startSlider`. Within that function we will be populating those variables. 
 
-![](@attachment/Clipboard_2020-04-29-08-40-22.png) 12:51
+![](../attachments/890.png) 12:51
 
 We want to update the `current` variable from within this function. The reason we are creating the variable outside of the function is that it needs to be accessible by other functions we will create in the future like move next functionality. 
 
@@ -3323,7 +3323,7 @@ function startSlider(){
 }
 ```
 
-![](@attachment/Clipboard_2020-04-29-08-47-15.png) 14:45
+![](../attachments/891.png) 14:45
 
 When we create the slider, we now have to run the `startSlider` function.  Add it to the bottom of the `Slider` function. 
 
@@ -3336,17 +3336,17 @@ That is often what we refer to as a **constructor**, which we will be getting in
 
 If you refresh the page you will see that we now have both of our slides logged in the console. The first slide starts at 16 because it has the class current on it and the slider had no class of current on any of the slides so it started on the first slide.
 
-![](@attachment/Clipboard_2020-05-04-18-16-53.png) 18:30
+![](../attachments/893.png) 18:30
 
 For the previous one we will grab the element that is behind the current one using `previousElementSibling`. 
 
 Let's demo how that works by going to the HTML page in the browser, selecting slide #2 in the elements tab and then going back to the console and typing `$0.previousElementSibling`. You will see that the slide that says 1 will be returned. 
 
-![](@attachment/Clipboard_2020-05-04-18-20-04.png) 18:57
+![](../attachments/894.png) 18:57
 
 If you were to do the same thing but with #1 slide, you would get `null` because because there is nothing next to one. 
 
-![](@attachment/Clipboard_2020-05-04-18-21-38.png) 19:13
+![](../attachments/896.png) 19:13
 
 So we want to set the previous slide to be the `previousElementSibling`, or if that doesn't exist, we can fall back to the last slide within our slides div.
 
@@ -3360,7 +3360,7 @@ Let's demonstrate with an example.
 
 Add a paragraph at the top of the HTML page such as `<p>I <strong>love</strong> to eat <strong>pizza</strong></p>` and inspect it.
 
-![](@attachment/Clipboard_2020-05-04-18-26-28.png) 20:07
+![](../attachments/897.png) 20:07
 
 Click on "love", and then go into the console and try the following 👇
 
@@ -3370,7 +3370,7 @@ $0.nextSibling;
 $0.nextElementSibling;
 ```
 
-![](@attachment/Clipboard_2020-05-04-18-27-21.png) 20:24
+![](../attachments/898.png) 20:24
 
 What is the difference? `nextSibling` gives us a Node, and a node can be text or an element, whereas `nextElementSibling` will only return elements. Always use `elementSibling` when you are looking for an element. 
 
@@ -3385,7 +3385,7 @@ function startSlider() {
 }
 ```
 
-![](@attachment/Clipboard_2020-05-04-18-31-15.png) 21:27
+![](../attachments/899.png) 21:27
 
 If you open the console, you will see we have `current, prev, next`. 
 
@@ -3410,7 +3410,7 @@ applyClasses();
 
 If you were to inspect the code you would see that now the appropriate slides have classes.
 
-![](@attachment/Clipboard_2020-05-04-18-35-39.png) 22:35
+![](../attachments/900.png) 22:35
 
 Next we need a method called `move` that takes in a direction like back or forwards.
 
@@ -3514,7 +3514,7 @@ Now when you click it, you will see the slider works.
 
 One error is when you get to the very end or very beginning, we will get an arrow because we lose our `next` class.
 
-![](@attachment/Clipboard_2020-05-04-19-08-19.png) 31:08
+![](../attachments/901.png) 31:08
 
 Now we need to say when we have the edge case where a previous element or next sibling doesn't exist you will add an or condition and get the `slides.lastElementChild` or `slides.firstElementChild` for the next button. 
 
@@ -3545,7 +3545,7 @@ Because if you look back at where we grab the buttons in our code, we are using 
 
 If you refresh the page you will see they now run on their own.
 
-![](@attachment/Clipboard_2020-05-04-19-13-57.png) 33:35
+![](../attachments/902.png) 33:35
 
 63 lines of code for a slider! 
 

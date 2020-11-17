@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-05-05-07-07-33.png, Clipboard_2020-05-05-07-08-27.png, Clipboard_2020-05-05-07-13-11.png, Clipboard_2020-05-05-07-17-20.png, Clipboard_2020-05-05-07-18-48.png, Clipboard_2020-05-05-07-21-30.png, Clipboard_2020-05-05-07-22-59.png, Clipboard_2020-05-05-07-26-24.png, Clipboard_2020-05-05-07-28-09.png, Clipboard_2020-05-05-07-30-04.png, Clipboard_2020-05-05-07-30-40.png, Clipboard_2020-05-05-07-34-51.png, Clipboard_2020-05-05-07-36-05.png, Clipboard_2020-05-05-07-38-40.png, Clipboard_2020-05-05-07-39-11.png, Clipboard_2020-05-05-20-01-34.png, Clipboard_2020-05-05-20-10-58.png, Clipboard_2020-05-05-20-17-59.png, Clipboard_2020-05-05-20-19-43.png, Clipboard_2020-05-05-20-24-17.png, Clipboard_2020-05-05-20-25-07.png, Clipboard_2020-05-05-20-29-08.png, Clipboard_2020-05-05-20-34-05.png, Clipboard_2020-05-05-20-35-44.png, Clipboard_2020-05-05-20-38-13.png, Clipboard_2020-05-06-05-23-33.png, Clipboard_2020-05-06-05-26-18.png, Clipboard_2020-05-06-05-28-24.png, Clipboard_2020-05-06-05-30-17.png, Clipboard_2020-05-06-05-33-56.png, Clipboard_2020-05-06-05-34-55.png, Clipboard_2020-05-06-05-37-07.png, Clipboard_2020-05-06-05-41-12.png, Clipboard_2020-05-06-05-42-38.png, Clipboard_2020-05-06-05-44-30.png, Clipboard_2020-05-06-05-46-09.png, Clipboard_2020-05-06-05-49-29.png, Clipboard_2020-05-06-05-50-45.png, Clipboard_2020-05-06-05-51-23.png, Clipboard_2020-05-06-05-52-37.png, Clipboard_2020-05-06-05-52-59.png, Clipboard_2020-05-06-06-02-50.png, Clipboard_2020-05-06-06-26-03.png, Clipboard_2020-05-06-06-28-15.png, Clipboard_2020-05-06-06-31-13.png, Clipboard_2020-05-06-06-32-31.png, Clipboard_2020-05-06-06-39-58.png, Clipboard_2020-05-06-06-44-42.png, Clipboard_2020-05-06-06-44-44.png, Clipboard_2020-05-06-06-47-51.png, Clipboard_2020-05-06-06-52-31.png, Clipboard_2020-05-06-06-53-11.png, Clipboard_2020-05-06-06-59-11.png, Clipboard_2020-05-06-07-02-46.png, Clipboard_2020-05-06-07-08-30.png, Clipboard_2020-05-06-19-44-56.png, Clipboard_2020-05-06-19-50-26.png, Clipboard_2020-05-06-19-52-09.png, Clipboard_2020-05-06-19-56-42.png, Clipboard_2020-05-06-19-57-19.png, Clipboard_2020-05-07-06-33-43.png, Clipboard_2020-05-07-07-02-13.png, Clipboard_2020-05-07-07-04-00.png, Clipboard_2020-05-07-07-05-10.png, Clipboard_2020-05-07-07-06-31.png, Clipboard_2020-05-07-07-08-00.png, Clipboard_2020-05-07-07-08-25.png, Clipboard_2020-05-07-07-18-33.png, Clipboard_2020-05-07-07-26-48.png, Clipboard_2020-05-07-07-29-04.png, Clipboard_2020-05-07-07-30-06.png, Clipboard_2020-05-07-07-46-18.png, Clipboard_2020-05-07-07-48-45.png, Clipboard_2020-05-07-07-55-14.png, Clipboard_2020-05-07-07-55-59.png, Clipboard_2020-05-07-07-57-22.png, Clipboard_2020-05-07-18-17-28.png, Clipboard_2020-05-07-18-19-40.png, Clipboard_2020-05-07-18-24-08.png, Clipboard_2020-05-07-18-35-47.png, Clipboard_2020-05-07-18-40-24.png, Clipboard_2020-05-07-18-43-46.png, Clipboard_2020-05-07-18-44-42.png, Clipboard_2020-05-07-18-51-42.png, Clipboard_2020-05-07-18-56-58.png, Clipboard_2020-05-07-19-02-22.png, Clipboard_2020-05-07-19-07-59.png, Clipboard_2020-05-07-19-10-48.png, Clipboard_2020-05-07-19-13-28.png, Clipboard_2020-05-07-19-15-21.png, Clipboard_2020-09-22-19-28-52.png]
+attachments: [903.png, 904.png, 905.png, 906.png, 907.png, 908.png, 909.png, 910.png, 911.png, 912.png, 913.png, 914.png, 915.png, 916.png, 917.png, 918.png, 919.png, 920.png, 921.png, 922.png, 923.png, 924.png, 925.png, 926.png, 927.png, 928.png, 929.png, 930.png, 931.png, 932.png, 933.png, 934.png, 935.png, 936.png, 937.png, 938.png, 939.png, 940.png, 941.png, 942.png, 943.png, 944.png, 945.png, 946.png, 947.png, 948.png, 949.png, 950.png, 951.png, 952.png, 953.png, 954.png, 955.png, 956.png, 957.png, 958.png, 959.png, 960.png, 961.png, 962.png, 963.png, 964.png, 965.png, 966.png, 967.png, 968.png, 969.png, 970.png, 971.png, 972.png, 973.png, 974.png, 975.png, 976.png, 977.png, 978.png, 979.png, 980.png, 981.png, 982.png, 983.png, 984.png, 985.png, 986.png, 987.png, 988.png, 989.png, 990.png, 991.png, 992.png, 1474.png]
 title: 'Module 11: Prototypes, this, new and Inheritance'
 created: '2020-05-04T23:17:43.495Z'
 modified: '2020-09-30T11:38:51.857Z'
@@ -32,15 +32,15 @@ const myDate = new Date('August 11, 2025');
 console.log(myDate);
 ```
 
-![](@attachment/Clipboard_2020-05-05-07-07-33.png) 1:54
+![](../attachments/903.png) 1:54
 
 If we did `console.dir(myDate);` instead, you will see that we have our date and inside of it we have a prototype of tons of different methods.
 
-![](@attachment/Clipboard_2020-05-05-07-08-27.png) 2:03
+![](../attachments/904.png) 2:03
 
 Let's say you were to log `myDate.getFullYear()`, you will see we get 2025 in the console. 
 
-![](@attachment/Clipboard_2020-05-05-07-13-11.png) 2:21
+![](../attachments/905.png) 2:21
 
 Where did the `getFullYear()` method come from? 
 
@@ -50,17 +50,17 @@ That is because when you create a date, an object, an array, a string, a number 
 
 If we take a look at all of the types that we have by entering them into the console, such as `Array`, `Object`, `Date`, `Number`  you will see that they are all just functions which once they are run with the new keyword in front of it, will return to you an object. 
 
-![](@attachment/Clipboard_2020-05-05-07-17-20.png) 3:22
+![](../attachments/906.png) 3:22
 
 That is why we say in Javascript everything is an object. Even though a number is just a number, when we create a new number, we have all these methods that exist on it. So although the number is just a number, it is packed with all these methods for working with it. 
 
-![](@attachment/Clipboard_2020-05-05-07-18-48.png) 3:52
+![](../attachments/907.png) 3:52
 
 Let's go back to the date example.
 
 Because we are creating a new `Date`, we have this variable `myDate` which is an instance of `date`. If you were to type into a console `typeof myDate`, it would return an object. But if you were to type `myDate instanceof Date` it would return true. 
 
-![](@attachment/Clipboard_2020-05-05-07-21-30.png) 4:43
+![](../attachments/908.png) 4:43
 
 `myDate` is an object, but it is an instance of our special object that we have in the browser that is called a `date`.
 
@@ -70,7 +70,7 @@ In the script tag, add `const name = ['wes','kait'];`.
 
 If you try running `typeof` and `instanceof Array` in the console, you should see the same result -- names is an instance of an array but an object itself.
 
-![](@attachment/Clipboard_2020-05-05-07-22-59.png) 5:30
+![](../attachments/909.png) 5:30
 
 With the array, it might be a bit confusing because you don't see the `new` keyword being used. Same thing when you create an object like `const wes = { name: 'wes'};`. 
 
@@ -83,7 +83,7 @@ const names = new Array('wes','kait');
 const wes = new Object({name:'wes'});
 ```
 
-![](@attachment/Clipboard_2020-05-05-07-26-24.png) 6:45
+![](../attachments/910.png) 6:45
 
 As you can see, the array and object look the same. The only difference is it is a shorter syntax. 
 
@@ -98,7 +98,7 @@ console.log(span);
 
 If you tried to check whether `span` was an instance of an element you could do `span instanceof Element` which should return true because `Element` was the base one and `span` is the instance that we created.
 
-![](@attachment/Clipboard_2020-05-05-07-28-09.png) 7:26
+![](../attachments/911.png) 7:26
 
 Why didn't we use `new Element`?  
 
@@ -116,7 +116,7 @@ Both will return true. Why? Is it an element, is it a span, is it a node?
 
 We will learn more about this in later classes but essentially things can start very basic like a node with text. Then it can go a little further and become an element, and have a tag and attributes. And then it can go even further and become a special kind of element like an image or div. In all of those cases, the element inherits the Node and the `HTMLSpanElement` inherits the `Element`. 
 
-![](@attachment/Clipboard_2020-05-05-07-30-04.png) 8:22
+![](../attachments/912.png) 8:22
 
 That is what is referred to as **extending** which we will get into when we discuss classes.
 
@@ -141,7 +141,7 @@ console.log(pepperoniPizza);
 
 If you refresh the page, you will see we get `undefined`. 
 
-![](@attachment/Clipboard_2020-05-05-07-34-51.png) 10:01
+![](../attachments/914.png) 10:01
 
 That makes sense because the function did not return anything. 
 
@@ -152,7 +152,7 @@ const pepperoniPizza = new Pizza();
 
 Add the new keyword as shown above, and when you check the logs you will see that we get a pizza object with nothing because we haven't added anything to it yet. 
 
-![](@attachment/Clipboard_2020-05-05-07-36-05.png) 10:17
+![](../attachments/915.png) 10:17
 
 What happens is when you use the `new` keyword on a function, it creates a new instance object of that function instead of whatever has been returned from that function. 
 
@@ -166,11 +166,11 @@ console.log(pepperoniPizza.constructor);
 
 The constructor will tell us what function made it. 
 
-![](@attachment/Clipboard_2020-05-05-07-38-40.png) 11:15
+![](../attachments/916.png) 11:15
 
 Same thing with our span. If we look at our constructor, we see that the thing that made the span was the `HTMLSpanElement` function. 
 
-![](@attachment/Clipboard_2020-05-05-07-39-11.png) 11:34
+![](../attachments/917.png) 11:34
 
 If you were to type `pepperoniPizza instanceof Pizza` we would see true returned in the console.
 
@@ -210,7 +210,7 @@ button2.addEventListener("click", tellMeAboutTheButton);
 
 Now when we go and click on each button, the `this` keyword will be equal to each button that was clicked. 
 
-![](@attachment/Clipboard_2020-05-05-20-01-34.png) 1:33
+![](../attachments/918.png) 1:33
 
 Now we can call that an instance. Why? 
 Because `button1` and `button2` are simply instances of the mama Button that exists in the browser. 
@@ -233,7 +233,7 @@ const tellMeAboutTheButton = () => {
 
 Now when you click the buttons, you will see the `Window` logged not the button. 
 
-![](@attachment/Clipboard_2020-05-05-20-10-58.png) 3:05
+![](../attachments/919.png) 3:05
 
 The value of the `this` keyword does not change when you use an arrow function. The `this` keyword will be equal to whatever it was at a higher level function. (If there is no higher level function, it will be equal to the Window).
 
@@ -257,19 +257,19 @@ If you refresh the HTML page and try clicking on the buttons, you will see that 
 
 Let's log the value of `this` within the timeout, refresh the page and click the second button and then look at the console. You should see the button logged and then the window. 
 
-![](@attachment/Clipboard_2020-05-05-20-17-59.png) 4:33
+![](../attachments/920.png) 4:33
 
 Why is that? 
 
 Modify the logs to be a bit clearer. Replace the first log with `console.log('outside', this)` and the second one with `console.log('inside',this);`.
 
-![](@attachment/Clipboard_2020-05-05-20-19-43.png) 4:53
+![](../attachments/921.png) 4:53
 
 As you can see, outside it is equal to the button but inside the timeout it is equal to the window. That is because every time you create a new function, it will change what the value of `this` is equal to. 
 
 If you need to be able to access the value of the `this` keyword within the `tellMeABoutTheButton` function, you can use an arrow function because it will know not to change. It will instead grab the value of whatever `this` is equal to within the `tellMeABoutTheButton` function. 
 
-![](@attachment/Clipboard_2020-05-05-20-24-17.png) 5:47
+![](../attachments/922.png) 5:47
 
 ```js
 setTimeout(() => {
@@ -280,7 +280,7 @@ setTimeout(() => {
 
 If you refresh the page you will see that the value of `this` remains the same now. 
 
-![](@attachment/Clipboard_2020-05-05-20-25-07.png) 5:59
+![](../attachments/923.png) 5:59
 
 That is something about arrow functions that might come and bite you, so just know about that. 
 
@@ -288,7 +288,7 @@ That is what we now about the `this` keyword so far. The other thing we need to 
 
 If you go up to the `Pizza` function further up in the file, and add a log of `this`, whenever the pizza is made we get access to the pizza that was created. 
 
-![](@attachment/Clipboard_2020-05-05-20-29-08.png) 6:48
+![](../attachments/924.png) 6:48
 
 We can do things like store information about the pizza that is being made inside of that pizza. When you make a pizza, you need to store information about it like what are the toppings, who is it for, and things like that. 
 
@@ -313,7 +313,7 @@ Let's add that.
 
 Whenever Wes needs to generate a random id, he likes to use this blog post by Tom Irish. It's not guaranteed to be unique, but it is good enough for most use cases. This one gives you a random hex code. We will take the `#` sign off the method because we don't need it. 
 
-![](@attachment/Clipboard_2020-05-05-20-34-05.png) 8:01
+![](../attachments/925.png) 8:01
 
 ```js
 this.id = Math.floor(Math.random() * 16777215).toString(16);
@@ -321,7 +321,7 @@ this.id = Math.floor(Math.random() * 16777215).toString(16);
 
 Now when you refresh the page, you will see that in our pizza there is a bunch of information about that pizza. 
 
-![](@attachment/Clipboard_2020-05-05-20-35-44.png) 8:33
+![](../attachments/926.png) 8:33
 
 The `toppings` and `customers` are empty and `undefined` because we haven't passed them in so let's update `pepperoniPizza` to add some toppings and a customer and then add another pizza as shown below 👇
 
@@ -332,7 +332,7 @@ const canadianPizza = new Pizza(['pepperoni', 'mushrooms', onion'], 'Kait Bos');
 
 If you refresh the page and open up the console, you will see our two pizzas with all the information we passed to the function. 
 
-![](@attachment/Clipboard_2020-05-05-20-38-13.png) 9:40
+![](../attachments/927.png) 9:40
 
 The `this` keyword, when you are creating an object, is used to store information about that instance. 
 
@@ -363,7 +363,7 @@ console.log(gallery1, gallery2);
 
 Why? because the `Gallery()` function doesn't actually return anything. 
 
-![](@attachment/Clipboard_2020-05-06-05-23-33.png) 00:56
+![](../attachments/928.png) 00:56
 
 If, however, we change it to use the `new` keyword, it will automatically return an instance of that gallery. 
 
@@ -372,7 +372,7 @@ const gallery1 = new Gallery(document.querySelector('.gallery1'));
 const gallery2 = new Gallery(document.querySelector('.gallery2'));
 ```
 
-![](@attachment/Clipboard_2020-05-06-05-26-18.png) 1:06
+![](../attachments/929.png) 1:06
 
 Right now there is nothing in our Gallery nor in the prototype of it, but you will see as we add things to the prototype and to the instance, we will see them populate there. 
 
@@ -388,7 +388,7 @@ function Gallery(gallery){
 
 The way we check whether the parameter exists is fine, we can leave that alone. 
 
-![](@attachment/Clipboard_2020-05-06-05-28-24.png) 1:25
+![](../attachments/930.png) 1:25
 
 The only thing we need to do is save the reference to the gallery div that was passed in because we will need it in our prototype method shortly. 
 
@@ -400,7 +400,7 @@ this.gallery = gallery;
 
 Now if you refresh the page, you should see both of our galleries logged, and you can see that those are instance properties because they differ in each one. 
 
-![](@attachment/Clipboard_2020-05-06-05-30-17.png)  2:06
+![](../attachments/931.png)  2:06
 
 Now we need to go through all the variables we created. 
 
@@ -412,9 +412,9 @@ So we will change all those variables and everywhere we have used them to `this.
 
 The easiest way that Wes has found to do that is to right click on a variable name in VSCode and select "Rename symbol". Then add `this.` next to `const image` and remove the `const`, because we are not declaring a new variable, we are simply setting a property on the gallery instance. 
 
-![](@attachment/Clipboard_2020-05-06-05-33-56.png) 2:48
+![](../attachments/932.png) 2:48
 
-![](@attachment/Clipboard_2020-05-06-05-34-55.png) 3:05
+![](../attachments/933.png) 3:05
 
 Now let's go through the rest of them.
 
@@ -429,7 +429,7 @@ this.nextButton = this.modal.querySelector('.next');
 
 We don't need the `let currentImage` variable anymore because wherever we set the `currentImage`, we will simply say `this.currentImage = el;` where we are setting the `currentImage` instead. So delete the `let` declaration of that variable. 
 
-![](@attachment/Clipboard_2020-05-06-05-37-07.png) 3:57
+![](../attachments/934.png) 3:57
 
 As you can see, our gallery now has all these properties inside of it. 
 
@@ -520,13 +520,13 @@ Gallery.prototype.openModal() {
 
 If you save and refresh, you will see that we now have access to the `openModal` function on the prototype of our galleries. Nothing will work yet but we will go through and fix them one by one. 
 
-![](@attachment/Clipboard_2020-05-06-05-41-12.png) 5:09
+![](../attachments/935.png) 5:09
 
 Wes likes to use VSCode multi-cursor to refactor the methods all at once. 
 
 His shortcuts are to hold down Click + Cmd and then put the cursor in front of every function name so you can edit them all at once. 
 
-![](@attachment/Clipboard_2020-05-06-05-42-38.png) 5:23
+![](../attachments/936.png) 5:23
 
 ```js
 Gallery.prototype.openModal() {
@@ -589,7 +589,7 @@ Gallery.prototype.showImage(el) {
 It won't even load now because we get these errors like 
 >handleClickOutside is not defined
 
-![](@attachment/Clipboard_2020-05-06-05-44-30.png) 6:10
+![](../attachments/937.png) 6:10
 
 If you go to line 29, you will see we are calling `showImage(e.currentTarget)`. 
 
@@ -597,7 +597,7 @@ Anytime we reference one of our functions, it needs to be changed to `this.showI
 
 That is where ESLint becomes very helpful. If you click ESLint at the bottom, you can see all of the problems. 
 
-![](@attachment/Clipboard_2020-05-06-05-46-09.png) 6:49
+![](../attachments/938.png) 6:49
 
 Now we can go through them one by one and change them out.
 
@@ -677,7 +677,7 @@ Let's tackle those so far, starting with the next/prev buttons being broken.
 The error says 
 >cannot read property 'nextElementSibling' of undefined. 
 
-![](@attachment/Clipboard_2020-05-06-05-49-29.png) 8:16
+![](../attachments/939.png) 8:16
 
 The line that is throwing the error is 
 
@@ -689,17 +689,17 @@ this.showImage(
 
 `this.currentImage` is `undefined`. So what is the value of the `this` we have highlighted in the image below? 
 
-![](@attachment/Clipboard_2020-05-06-05-50-45.png) 8:37
+![](../attachments/940.png) 8:37
 
 Let's add a log and take a look. As far as we know, `this` should always equal the instance of the gallery. 
 
-![](@attachment/Clipboard_2020-05-06-05-51-23.png) 8:54
+![](../attachments/941.png) 8:54
 
 According to the log, `this` is equal to a button within our `showImage` method. 
 
 Let's find where `showNextImage()` is called from... it is being called from within the `closeModal` function to remove the event listener. It is also being called from another method to add the event listener. 
 
-![](@attachment/Clipboard_2020-05-06-05-52-59.png) 9:19
+![](../attachments/943.png) 9:19
 
 What is happening is we are listening for a click and when the click happens, the `showNextImage` function is running. 
 
@@ -735,7 +735,7 @@ The way we fixed that before is we just removed the event listener when we close
 
 However what happens when you use `() => this.showNextImage())` what is highlighted in the image below is that you are creating an anonymous function, and in order to remove an event listener, you have to have reference to that function. 
 
-![](@attachment/Clipboard_2020-05-06-06-02-50.png) 12:31
+![](../attachments/944.png) 12:31
 
 The other way we can fix that is by binding it to `this` when we have access to `this` inside of the gallery. 
 
@@ -845,7 +845,7 @@ this.slices = 10;
 
 Now if you take a look at the pizza, you will see that there are 10 slices in that pizza. 
 
-![](@attachment/Clipboard_2020-05-06-06-26-03.png) 1:10
+![](../attachments/945.png) 1:10
 
 If we needed to make a method of the pizza like `eat()`, which takes away slices one at a time, you might think you could do something like below.
 
@@ -860,7 +860,7 @@ Now if you refresh the page and go to the console and call `eat()` on one of the
 
 If you look at how many slices there are, you would get 9. 
 
-![](@attachment/Clipboard_2020-05-06-06-28-15.png) 1:57
+![](../attachments/946.png) 1:57
 
 If you run it again, you will see we have 8. 
 
@@ -883,13 +883,13 @@ It might also be a good idea to return the new number of slices from the functio
 
 If you call that a bunch of times in the console, you should see that it now works. 
 
-![](@attachment/Clipboard_2020-05-06-06-31-13.png) 2:57
+![](../attachments/947.png) 2:57
 
 That works very well, however there is a downside to this which is that we are actually creating the `eat()` function once for every single pizza that is made. 
 
 If you compared whether `pepperoniPizza.eat` and `canadianPizza.eat` are the same function, you would get false even though they look identical. 
 
-![](@attachment/Clipboard_2020-05-06-06-32-31.png) 3:31
+![](../attachments/948.png) 3:31
 
 What is happening there is we are duplicating the functionality of the function once from every single pizza. 
 
@@ -909,7 +909,7 @@ Let's pause on that for a second and look at some of the built-in prototypes tha
 
 We have our `names` array which we have already declared and we will create a new array named `numbers`. 
 
-![](@attachment/Clipboard_2020-05-06-06-39-58.png) 5:13
+![](../attachments/949.png) 5:13
 
 Both of those arrays with have methods on them like `filter` for example. Every single time you make an array, the browser does not copy and paste the functionality inside of each one. 
 
@@ -917,7 +917,7 @@ Instead, the method actually lives in something called a **prototype**, which al
 
 If you checked for the equality of the `filter` method of `numbers` and `names`, you would get true because they are the exact same function. They don't just have the same functionality, _they are the same function._
 
-![](@attachment/Clipboard_2020-05-06-06-44-44.png) 6:39 
+![](../attachments/951.png) 6:39 
 
 Take the `eat` function, copy it and then remove those lines of code. Go further down the file, right below the Pizza function and then modify it as shown below. 
 
@@ -938,7 +938,7 @@ Let's test that it still works by calling `canadianPizza.eat()` in the console m
 
 However, if you log `pepperoniPizza` and look inside, you will see  `customer`, `id`, `toppings` (all of which are instance properties). But there is no `eat` functionality. However, if you open up the prototype, you will see it there. 
 
-![](@attachment/Clipboard_2020-05-06-06-47-51.png) 7:31
+![](../attachments/952.png) 7:31
 
 That is what is referred to as the **prototype lookup**. If you put something on the prototype, and it doesn't exist on the instance, it will look for it in the mamma.
 
@@ -958,11 +958,11 @@ Pizza.prototype.size = 'Large';
 
 Now if you go to `pepperoniPizza` and look for the size, it will tell you "Large". 
 
-![](@attachment/Clipboard_2020-05-06-06-52-31.png) 9:14
+![](../attachments/953.png) 9:14
 
 However, if tiy were to go into the `Pizza` function and add `this.size = "Medium";`, you will get "Medium". 
 
-![](@attachment/Clipboard_2020-05-06-06-53-11.png) 9:15
+![](../attachments/954.png) 9:15
 
 It first checks for a property on the instance and if it doesn't exist, it will go to the prototype and look that up. 
 
@@ -972,7 +972,7 @@ Now if we look at our `name` array by typing `name.` in the console, you will se
 
 If you log `String.prototype` you will also see the methods are available to us every single time that we create a new string. 
 
-![](@attachment/Clipboard_2020-05-06-06-59-11.png) 10:15
+![](../attachments/955.png) 10:15
 
 All of the methods that you see already there are what are referred to as **built in functions**, meaning they just come with the language. You can actually add your own, but warning -- you should never do this. Wes is just demoing it to show us how that works. 
 
@@ -984,7 +984,7 @@ String.prototype.toUpperCase = function() {
 
 Now if you run `name.toUpperCase()` in the console, it will return to us 'YELLING'. 
 
-![](@attachment/Clipboard_2020-05-06-07-02-46.png) 11:56
+![](../attachments/956.png) 11:56
 
 That is because we overwrote the existing `toUpperCase` functionality on the prototype. 
 
@@ -1008,7 +1008,7 @@ String.prototype.sarcastic = function(){
 
 Now if we refresh the page and open the console, let's try using that function. 
 
-![](@attachment/Clipboard_2020-05-06-07-08-30.png) 15:16
+![](../attachments/957.png) 15:16
 
 As you can see, it logged `this` which is a string of "wes". 
 
@@ -1032,7 +1032,7 @@ If it's an even character, we uppercase the letter, if it's an odd character, we
 
 Let's test if it works in the console. If you create a variable with a string and then call `.sarcastic()` on it, it will return the name with mixed case. 
 
-![](@attachment/Clipboard_2020-05-06-19-44-56.png) 16:29
+![](../attachments/958.png) 16:29
 
 By adding a method to the prototype, it is then available on every instance of. Whether that is something that is built in, like a string, or something your own like pizza, you can add methods to the prototype of the pizza and every single one will get it. 
 
@@ -1058,11 +1058,11 @@ Pizza.prototype.describe = function(){
 
 Refresh the page and now in the console run `canadianPizza.describe()`. You should see the following 👇
 
-![](@attachment/Clipboard_2020-05-06-19-50-26.png) 18:47
+![](../attachments/959.png) 18:47
 
 Now if you run `canadianPizza.eat()` a few times in the console and then call `describe`, you should see that you now have less slices left. 
 
-![](@attachment/Clipboard_2020-05-06-19-52-09.png) 18:58
+![](../attachments/960.png) 18:58
 
 ---
 
@@ -1082,11 +1082,11 @@ We have the sliders that we grabbed at the bottom.
 
 We will log them, like we did in the previous lesson. 
 
-![](@attachment/Clipboard_2020-05-06-19-56-42.png) 1:05
+![](../attachments/961.png) 1:05
 
 You should see the following in the console 
 
-![](@attachment/Clipboard_2020-05-06-19-57-19.png) 1:18
+![](../attachments/962.png) 1:18
 
 Now we will do the same thing we did last time -- add a `new` keyword in front of it. That will create a new instance of the slider for each instance that we have. 
 
@@ -1097,7 +1097,7 @@ const dogSlider = new Slider(document.querySelector(".dog-slider"));
 console.log(mySlider, dogSlider);
 ```
 
-![](@attachment/Clipboard_2020-05-07-06-33-43.png) 1:31
+![](../attachments/963.png) 1:31
 
 As you can see we have our sliders now, and they each have the prototypes, and there is nothing in them yet. 
 
@@ -1434,7 +1434,7 @@ Within `move` function we need to change it to call `this.applyClasses()`.
 
 Now let's go to our browser to refresh and see what errors we are getting. 
 
-![](@attachment/Clipboard_2020-05-07-07-02-13.png) 4:41
+![](../attachments/964.png) 4:41
 
 The first one we see is 
 >Cannot read property 'querySelector' of undefined`
@@ -1443,7 +1443,7 @@ The stack trace tells us it happened on line 63, however that is not helpful bec
 
 So let's click on the error to see where it takes us. 
 
-![](@attachment/Clipboard_2020-05-07-07-04-00.png) 5:14
+![](../attachments/965.png) 5:14
 
 Unfortunately that is not very helpful either. Sometimes you get these errors and it's hard to find where the error is even when the browser tries to give you a stack trace.
 
@@ -1451,13 +1451,13 @@ Let's just try to debug this ourselves.
 
 Let's look at everywhere that we are using `querySelector`.
 
-![](@attachment/Clipboard_2020-05-07-07-05-10.png) 5:40
+![](../attachments/966.png) 5:40
 
 Those first 3 should be fine since we are passing in the slider. 
 
 Where else are we using `querySelector`? Within the `startSlider` function and where we initialize the slider instances. 
 
-![](@attachment/Clipboard_2020-05-07-07-06-31.png) 6:01
+![](../attachments/967.png) 6:01
 
 Wes thinks it might be the latter, which he will test by logging the slider parameter within the `Slider()`. 
 
@@ -1465,7 +1465,7 @@ We can tell it's not an issue with that because we can see the slider being logg
 
 It seems like the issue must be in our `startSlider` function when we try to access `this.slider`. 
 
-![](@attachment/Clipboard_2020-05-07-07-08-25.png) 6:22
+![](../attachments/969.png) 6:22
 
 Let's throw a `debugger` in the first line of the `startSlider` function. 
 
@@ -1496,7 +1496,7 @@ If we log what `this` is within our `move` function, we will see that it's the n
 
 So let's go to where we have listened to our move. 
 
-![](@attachment/Clipboard_2020-05-07-07-18-33.png) 8:22
+![](../attachments/970.png) 8:22
 
 The reason next is broken but previous is not is that in next, we just pass a reference to that function, and it's being rebound. 
 
@@ -1535,7 +1535,7 @@ The slider should be working well now if you refresh the page!
 
 Now that we are done, let's just go over a few things. 
 
-![](@attachment/Clipboard_2020-05-07-07-26-48.png) 10:09
+![](../attachments/971.png) 10:09
 
 Why did we not rename the buttons to live on `this` like `this.prevButton = slider.querySelector('.goToPrev');`?
 
@@ -1546,11 +1546,11 @@ One cool thing about this is if you take `dogSlider`, you cannot access it in th
 
 The cool thing about that is now you can call the functions yourself like the move in the terminal to control the slider. 
 
-![](@attachment/Clipboard_2020-05-07-07-29-04.png) 10:55
+![](../attachments/972.png) 10:55
 
 What you could do is at the bottom of the page add an event listener on the window's keyup event like below. 
 
-![](@attachment/Clipboard_2020-05-07-07-30-06.png) 11:43
+![](../attachments/973.png) 11:43
 
 Now if you use your arrow keys you will see that it works. 
 
@@ -1591,7 +1591,7 @@ const person = {
 
 Open that in the browser and take a look at it in the console. 
 
-![](@attachment/Clipboard_2020-05-07-07-46-18.png) 2:12
+![](../attachments/974.png) 2:12
 
 As you can see, it says "hey wes bos".
 
@@ -1609,7 +1609,7 @@ const sayHi = person1.sayHi;
 
 When you run that, we will just see "hey " with no name.
 
-![](@attachment/Clipboard_2020-05-07-07-48-45.png) 3:13
+![](../attachments/975.png) 3:13
 
 You can see if we call the `sayHi()` on the person object, we get the hey message returned with a name. 
 
@@ -1643,11 +1643,11 @@ const jenna = { name: 'Jenna'};
 
 How would we use the `sayHi` method for this other object when `name` isn't being passed in as an argument?
 
-![](@attachment/Clipboard_2020-05-07-07-55-14.png) 5:25
+![](../attachments/976.png) 5:25
 
 That is the difference between object oriented programming and functional programming. 
 
-![](@attachment/Clipboard_2020-05-07-07-55-59.png) 5:35
+![](../attachments/977.png) 5:35
 
 Our `sayHi` method is object oriented. 
 
@@ -1659,7 +1659,7 @@ What we can do is we can bind `sayHi`` to Jenna object as shown below.
 const sayHi = person.sayHi.bind(jenna);
 ```
 
-![](@attachment/Clipboard_2020-05-07-07-57-22.png) 5:57
+![](../attachments/978.png) 5:57
 
 `bind` is a method that lives on all functions and it says change the `this` keyword to be equal to, in this example, a different object.
 
@@ -1691,13 +1691,13 @@ Now if you refresh the page, open the dev tools console and type `$` you will se
 
 If you try typing in `document.querySelector` it will be the exact same thing. In fact, they are identical. 
 
-![](@attachment/Clipboard_2020-05-07-18-17-28.png) 7:01
+![](../attachments/979.png) 7:01
 
 _Aside: sometimes you see that "[native code]" in the console. That means that is a function that has been implemented by the browser so we are not able to see how it works under the hood because it's implemented in whatever language it's written in._
 
 Now if you wanted to actually select something, you might think you would be able to just do `$('p')`. However, if you try that you will see that we get an error complaining about "Illegal invocation". 
 
-![](@attachment/Clipboard_2020-05-07-18-19-40.png) 7:41
+![](../attachments/980.png) 7:41
 
 What is happening here? 
 
@@ -1719,7 +1719,7 @@ const p = wrapper.querySelector('p');
 console.log(p);
 ```
 
-![](@attachment/Clipboard_2020-05-07-18-24-08.png) 8:32
+![](../attachments/981.png) 8:32
 
 As you can see, that works. We got it. 
 
@@ -1749,7 +1749,7 @@ console.log(lookFor('p'));
 
 You would see that a NodeList is returned to us. 
 
-![](@attachment/Clipboard_2020-05-07-18-35-47.png) 10:28
+![](../attachments/982.png) 10:28
 
 To reiterate: using `bind` will change the context of what `this` is equal to inside of a function or a method. 
 
@@ -1771,7 +1771,7 @@ console.log(total);
 
 Let's refresh the page to check if it works. You should see 1130 in the console. 
 
-![](@attachment/Clipboard_2020-05-07-18-40-24.png) 11:40
+![](../attachments/983.png) 11:40
 
 If you wanted to take that function and store it in an external variable, you could add the code below 👇
 
@@ -1785,13 +1785,13 @@ If you tried to call `calc` and pass it 0.13, you would see `NaN` in the console
 console.log(calc(0.13));
 ```
 
-![](@attachment/Clipboard_2020-05-07-18-43-46.png) 11:53 
+![](../attachments/984.png) 11:53 
 
 Why? 
 
 Because if we were to log `this` inside of the `calculate` method on our `bill` object, you would see that it is equal to the window.   
 
-![](@attachment/Clipboard_2020-05-07-18-44-42.png) 12:01
+![](../attachments/985.png) 12:01
 
 The first time around it is equal to our `bill` object and the second time it was called it was equal to the window.
 
@@ -1819,7 +1819,7 @@ const calc = bill.calculate.bind({total:500}, 0.06);
 console.log(calc());
 ```
 
-![](@attachment/Clipboard_2020-05-07-18-51-42.png) 13:07
+![](../attachments/986.png) 13:07
 
 As you can see, it still works! Why?
 
@@ -1837,7 +1837,7 @@ Let's move on to the two methods: `call` and `apply`.
 
 They work the exact same as `bind` does with one difference: they will call the function for you. 
 
-![](@attachment/Clipboard_2020-05-07-18-56-58.png) 14:37 
+![](../attachments/987.png) 14:37 
 
 ##### `call`
 
@@ -1862,7 +1862,7 @@ If you need to bind a function that you want to call immediately you can use `ca
 
 ##### `apply`
 
-![](@attachment/Clipboard_2020-05-07-19-02-22.png) 15:38
+![](../attachments/988.png) 15:38
 
 >Note: While the syntax of this function is almost identical to that of `call`, the fundamental difference is that `call` accepts an argument list, while `apply` accepts a single array of arguments.
 
@@ -1897,7 +1897,7 @@ Now we can try running the function in the console.
 bill.describe('pizza', 'beer', 0.13);
 ```
  
-![](@attachment/Clipboard_2020-05-07-19-07-59.png) 17:52
+![](../attachments/989.png) 17:52
  
 As you can see the function works. 
 
@@ -1908,7 +1908,7 @@ const myMeal = bill.describe.call({total:342}, 'pizza','beer',0.13});
 console.log(myMeal);
 ```
 
-![](@attachment/Clipboard_2020-05-07-19-10-48.png)
+![](../attachments/990.png)
 
 Why do we pass an object as the first argument to `call`? 
 
@@ -1920,7 +1920,7 @@ If you try running that, you will see that we get an error complaining that "thi
 
 What is happening? 
 
-![](@attachment/Clipboard_2020-05-07-19-13-28.png) 18:59
+![](../attachments/991.png) 18:59
 
 We called `this.calculate` but we didn't pass it the `this` that we wanted. 
 
@@ -1930,7 +1930,7 @@ Let's go modify the `myMeal` declaration so that it has access to the `calculate
 const myMeal = bill.describe.call(bill, 'pizza','beer',0.13});
 ```
 
-![](@attachment/Clipboard_2020-05-07-19-15-21.png) 19:08
+![](../attachments/992.png) 19:08
 
 Now it should be working for you.
 

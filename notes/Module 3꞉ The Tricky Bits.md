@@ -1,5 +1,5 @@
 ---
-attachments: [Clipboard_2020-02-03-18-47-58.png, Clipboard_2020-02-03-19-52-11.png, Clipboard_2020-02-03-19-52-56.png, Clipboard_2020-02-03-20-03-38.png, Clipboard_2020-02-03-20-14-11.png, Clipboard_2020-02-03-20-21-45.png, Clipboard_2020-02-03-20-22-13.png, Clipboard_2020-02-03-20-22-53.png, Clipboard_2020-02-03-20-43-38.png, Clipboard_2020-02-03-20-44-06.png, Clipboard_2020-02-03-20-55-28.png, Clipboard_2020-02-03-20-57-52.png, Clipboard_2020-02-03-21-10-13.png, Clipboard_2020-02-03-21-10-48.png, Clipboard_2020-02-04-13-16-53.png, Clipboard_2020-02-04-13-22-11.png, Clipboard_2020-02-04-13-23-59.png, Clipboard_2020-02-04-13-24-16.png, Clipboard_2020-02-05-07-53-19 (2).png, Clipboard_2020-02-05-19-09-28 (2).png, Clipboard_2020-02-05-19-14-46.png, Clipboard_2020-02-05-20-22-15.png, Clipboard_2020-02-05-20-23-42.png, Clipboard_2020-02-05-20-24-02.png, Clipboard_2020-02-05-20-37-58.png, Clipboard_2020-02-05-20-41-03.png, Clipboard_2020-02-05-20-41-31.png]
+attachments: [191.png, 192.png, 193.png, 194.png, 195.png, 196.png, 197.png, 198.png, 199.png, 200.png, 201.png, 202.png, 203.png, 204.png, 205.png, 206.png, 207.png, 208.png, Clipboard_2020-02-05-07-53-19 (2).png, Clipboard_2020-02-05-19-09-28 (2).png, 213.png, 214.png, 215.png, 216.png, 217.png, 218.png, 219.png]
 title: 'Module 3: The Tricky Bits'
 created: '2020-02-03T23:25:39.261Z'
 modified: '2020-07-29T22:11:29.164Z'
@@ -59,7 +59,7 @@ In the browser, the global scope is called the window.
 
 If you type `window` in the console, you will see every single thing that is attached to the global scope is inside of the window.  
 
-![](@attachment/Clipboard_2020-02-03-18-47-58.png)
+![](../attachments/191.png)
 
 That is why sometimes you will see people doing things like `window.setTimeout()`. There is also just regular, old, `setTimeout()`, both are the exact same thing.
 
@@ -78,11 +78,11 @@ var age = 100;
 
 Id you reload `scope.html` in the browser and then in the console type in `first`, `second` and `age`, you will see the following values returned because they are all global variables 👇
 
-![](@attachment/Clipboard_2020-02-03-19-52-11.png)
+![](../attachments/192.png)
 
 However, if you type in `window.first` and `window.second` you will get `undefined` but when you type in `window.age` it will return `100`. 
 
-![](@attachment/Clipboard_2020-02-03-19-52-56.png)
+![](../attachments/193.png)
 
 This is because `var` variables are attached to the `window` object and they are globally scoped, and `const` and `let` variables when declared like the example above are still globally scoped, they are just not attached to the window. 
 
@@ -134,7 +134,7 @@ console.log(hair);
 When we `console.log(age)`, is it going to be 100? 
 When we `console.log('hair')`, will it be blonde?
 
-![](@attachment/Clipboard_2020-02-03-20-03-38.png)
+![](../attachments/194.png)
 
 Age returns 100, but hair throws a reference error. 
 
@@ -194,7 +194,7 @@ However, if it is not found, it will go one level higher and look for it at that
 Why is this allowed? Why is it not breaking? If you hover over the variable in VSCode, you will see an error in ESLint that says 
 > 'age' is already declared in the upper scope.
 
-![](@attachment/Clipboard_2020-02-03-20-14-11.png)
+![](../attachments/195.png)
 
 That is what is referred to as **shadow variables**. 
 
@@ -237,7 +237,7 @@ if(1 === 1){
 console.log(cool);
 ```
 
-![](@attachment/Clipboard_2020-02-03-20-21-45.png)
+![](../attachments/196.png)
 
 No, it throws the error shown above 👆
 >Uncaught ReferenceError: cool is not defined
@@ -253,7 +253,7 @@ console.log(cool);
 
 It works! 
 
-![](@attachment/Clipboard_2020-02-03-20-22-13.png)
+![](../attachments/197.png)
 
 What if we make it a `let` variable?
 
@@ -266,7 +266,7 @@ console.log(cool);
 
 It doesn't work, we get the same error. 
 
-![](@attachment/Clipboard_2020-02-03-20-22-53.png)
+![](../attachments/198.png)
 
 What is happening there is whenever you have a set of curly brackets like in the if statement above, that is what is referred to as a **block**. _(Blocks will be showing up in most places, the most common is probably an if statement. We will have lots more examples throughout the course.)_
 
@@ -351,11 +351,11 @@ In the past, we have had for loops such as the following:
 
 That will log 0 - 9 as shown below 👇
 
-![](@attachment/Clipboard_2020-02-03-20-43-38.png)
+![](../attachments/199.png)
 
 If you type `i` in the console, it will return 10.
 
-![](@attachment/Clipboard_2020-02-03-20-44-06.png)
+![](../attachments/200.png)
 
 We have this random variable that is out floating called `i`, which should have been contained within the for loops but because it's a `var`, it has leaked outside. 
 
@@ -415,7 +415,7 @@ Or you might think it may log Snickers because the function is declared within a
 
 What does it log? Snickers! 
 
-![](@attachment/Clipboard_2020-02-03-20-55-28.png)
+![](../attachments/201.png)
 
 Even though we ran the `logDog()` function within the `go()` function and that function has a locally scoped variable set to the value of Sunny, it's still logging Snickers. 
 
@@ -429,7 +429,7 @@ So even though the `logDog()` function is run inside of another function which h
 
 Because `logDog()` is defined where it is, since it doesn't have a local variable named `dog`, it will just go up one level.
 
-![](@attachment/Clipboard_2020-02-03-20-57-52.png)
+![](../attachments/202.png)
 
 Ideally the function `logDog()` would take a parameter of `dog` and then log whatever parameter value it is passed like so 👇
 
@@ -507,7 +507,7 @@ We will go over best practices and many more examples in the course.
 
 If you were to write `sayHi('wes')` in the console, it will return WES. 
 
-![](@attachment/Clipboard_2020-02-03-21-10-13.png)
+![](../attachments/203.png)
 
 However if you try to call the `yell` function outside of `sayHi()`, as shown below, it will throw an error 👇
 
@@ -608,7 +608,7 @@ Is that going to work?
 
 It does. 
 
-![](@attachment/Clipboard_2020-02-04-13-16-53.png)
+![](../attachments/205.png)
 
 That is because hoisting moves them to the top before it will actually run anything.
 
@@ -654,11 +654,11 @@ What will happen? Is it going to error? Undefined? 10?
 
 The value is undefined. 
 
-![](@attachment/Clipboard_2020-02-04-13-23-59.png)
+![](../attachments/207.png)
 
 If you try to log another variable that does not exist, you will get an error 👇
 
-![](@attachment/Clipboard_2020-02-04-13-24-16.png)
+![](../attachments/208.png)
 
 Why is that? 
 
@@ -757,7 +757,7 @@ Now, let's try calling `inner()` from within `outer()`, and open the browser and
 
 You should see both the inner and outer variables. 
 
-![](@attachment/Clipboard_2020-02-05-07-53-19.png)
+![](../attachments/210.png)
 
 The same thing would happen if you called it from within the html script tag like so 👇
 
@@ -831,7 +831,7 @@ What we are doing there is:
 
 In the console, when you type `innerFn` it will return the `inner` function like so 👇
 
-![](@attachment/Clipboard_2020-02-05-19-09-28.png)
+![](../attachments/212.png)
 
 The question is, if you were to run `innerFn()` right below the function expression, is the `outerVar` still going to be accessible or will it be `undefined`?  
 
@@ -860,7 +860,7 @@ Is that still going to be available to us or will it be `undefined`?
 
 If you try that code, you will see that they both work. 
 
-![](@attachment/Clipboard_2020-02-05-19-14-46.png)
+![](../attachments/213.png)
 
 What you can do is stick a function into a variable, and then at a later point in time, you can have access to that function. A closure comes into play because you can access the function even though the outer function is done. 
 
@@ -916,17 +916,17 @@ console.log(sayHey('kait'));
 
 If you refresh you will see the following in the console 👇
 
-![](@attachment/Clipboard_2020-02-05-20-22-15.png)
+![](../attachments/214.png)
 
 What is happening here is that when we create the outer function `createGreeting(){...}`, we had created a variable inside of that function, which is then accessed at a lower scope. 
 
 We've got inner scope here 👇
 
-![](@attachment/Clipboard_2020-02-05-20-23-42.png)
+![](../attachments/215.png)
 
 And we have outer scope here 👇
 
-![](@attachment/Clipboard_2020-02-05-20-24-02.png)
+![](../attachments/216.png)
 
 Since our inner scope references a variable that was created in our outer scope, that is what is referred to as **closure**. 
 
@@ -963,7 +963,7 @@ _(Note: if you forget to add the `return` keyword that is in front of the `win()
 
 Now, whenever we run the hockey game function, a message will be logged in the console showing the incrementing score. 
 
-![](@attachment/Clipboard_2020-02-05-20-37-58.png)
+![](../attachments/217.png)
 
 What is happening there is the function that we create is called `win()`, and we are using a `score` variable. 
 
@@ -983,9 +983,9 @@ const soccerGame = createGame('Soccer');
 
 Now we can do this in the console 👇
 
-![](@attachment/Clipboard_2020-02-05-20-41-03.png)
+![](../attachments/218.png)
 
-![](@attachment/Clipboard_2020-02-05-20-41-31.png)
+![](../attachments/219.png)
 
 Even though the `score` variable 👆 is the same variable name, because we have created two separate `win()` functions by using the `createGame()` function, they each have their own private variable score. 
 

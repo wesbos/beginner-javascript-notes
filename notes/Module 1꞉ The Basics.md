@@ -5,6 +5,70 @@ created: '2020-01-19T22:03:47.486Z'
 modified: '2020-10-06T00:11:09.630Z'
 ---
 
+- [Module 1: The Basics](#module-1--the-basics)
+  * [01 - Welcome](#01---welcome)
+    + [House Keeping](#house-keeping)
+      - [Starter Files](#starter-files)
+        * [Slack Channel](#slack-channel)
+        * [Structure of Starter files](#structure-of-starter-files)
+      - [How to Do the Course](#how-to-do-the-course)
+  * [02 - Browser, Editor and Terminal Setup](#02---browser--editor-and-terminal-setup)
+    + [The browser](#the-browser)
+      - [Shortcuts](#shortcuts)
+    + [NodeJS](#nodejs)
+      - [Checking if it's installed](#checking-if-it-s-installed)
+      - [Which Terminal to Use](#which-terminal-to-use)
+      - [Checking if you have npm installed](#checking-if-you-have-npm-installed)
+    + [Command Line Basics](#command-line-basics)
+    + [Check that Node is working](#check-that-node-is-working)
+    + [Code Editor](#code-editor)
+  * [03 - Running and Loading JS](#03---running-and-loading-js)
+    + [Run scripts before closing body tag](#run-scripts-before-closing-body-tag)
+    + [External JavaScript Files](#external-javascript-files)
+    + [Running it in NodeJS](#running-it-in-nodejs)
+  * [04 - Variables and Statements](#04---variables-and-statements)
+    + [var](#var)
+    + [let](#let)
+    + [const](#const)
+    + [Statements and Semi Colons Semi-Colons in JavaScript](#statements-and-semi-colons-semi-colons-in-javascript)
+    + [Code Blocks](#code-blocks)
+    + [Differences between var, let & const](#differences-between-var--let---const)
+      - [Strict Mode](#strict-mode)
+      - [Scoping](#scoping)
+      - [Naming Conventions](#naming-conventions)
+      - [Camel Casing](#camel-casing)
+    + [Snake Case](#snake-case)
+    + [Kebab Case - Not Allowed](#kebab-case---not-allowed)
+  * [05 - Code Quality Tooling with Prettier and ESLint](#05---code-quality-tooling-with-prettier-and-eslint)
+    + [ESLint & Prettier](#eslint---prettier)
+      - [ESLint](#eslint)
+      - [Prettier](#prettier)
+    + [Installing ESLint & Prettier](#installing-eslint---prettier)
+    + [Installing npm packages locally](#installing-npm-packages-locally)
+    + [Creating the Package.json](#creating-the-packagejson)
+  * [06 - Types - Introduction](#06---types---introduction)
+  * [07 - Types - Strings](#07---types---strings)
+    + [JavaScript Comments](#javascript-comments)
+    + [Difference between Single Quotes, Double Quotes and Backticks](#difference-between-single-quotes--double-quotes-and-backticks)
+      - [Putting String on Multiple Lines](#putting-string-on-multiple-lines)
+    + [Concatenation and Interpolation](#concatenation-and-interpolation)
+    + [Backticks](#backticks)
+  * [08 - Types - Numbers](#08---types---numbers)
+    + [Numbers in JavaScript](#numbers-in-javascript)
+    + [Helper Methods](#helper-methods)
+    + [Modulo and Power Operators](#modulo-and-power-operators)
+    + [Things to know about Math in JavaScript](#things-to-know-about-math-in-javascript)
+      - [Infinity and Negative Infinity](#infinity-and-negative-infinity)
+      - [Not a Number](#not-a-number)
+  * [09 - Types - Objects](#09---types---objects)
+  * [10 - Types - Null and Undefined](#10---types---null-and-undefined)
+    + [undefined](#undefined)
+    + [null](#null)
+  * [11 - Types - Booleans and Equality](#11---types---booleans-and-equality)
+    + [Equality (equal sign, double equal sign, triple equal sign)](#equality--equal-sign--double-equal-sign--triple-equal-sign-)
+
+---
+
 # Module 1: The Basics
 
 ---
@@ -1638,7 +1702,7 @@ If you typed in the console `wes`, you would see an error message returned that 
 
 With the dog example we used above, we have created the variable but we have not set a value. That is the difference.
 
-### ull
+### null
 
 Now we will discuss the **null** type.
 

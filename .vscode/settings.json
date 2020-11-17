@@ -1,0 +1,36 @@
+{
+  "cSpell.words": [
+    "Doctorize",
+    "backticks",
+    "callstack",
+    "cmder",
+    "divs",
+    "instanceof",
+    "keydown",
+    "minification",
+    "npm",
+    "performant",
+    "pixelated",
+    "topher",
+    "typeof"
+  ],
+  "spellchecker.ignoreWordsList": [
+    "truthy",
+    "falsy",
+    "backticks",
+    "destructuring",
+    "programmatically"
+  ],
+  "cSpell.ignoreWords": [
+    "beginnerjavascript",
+    "bowser",
+    "cmder",
+    "eval",
+    "falsy",
+    "npm",
+    "snob",
+    "wesbos",
+    "westerhoff",
+    "westernhoff"
+  ]
+}

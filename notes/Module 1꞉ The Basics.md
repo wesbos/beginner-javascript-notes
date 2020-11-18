@@ -103,7 +103,7 @@ There are 3 folders in the `beginner-JavaScript` repo.
 2.  `playground`
 3.  `exercises`
 
-![](../attachments/5.png)
+![](../attachments/5.png) 1:02
 
 The `snippets` folder that has some base HTML snippets in there with instructions on how to get them into your HTML editor (we will talk about the editor in the next video).
 
@@ -171,7 +171,7 @@ In Firefox, you click on the hamburger menu and go to _Web Developer >_ and then
 
 Next up, we need NodeJS. In order to install NodeJS, go to NodeJS.org and install the latest version.
 
-![](../attachments/6.png)
+![](../attachments/6.png) 2:24
 
 Don't pay attention to the version numbers, those will change depending on when you take the course. _The stuff that we are covering is not dependent on what version of node you use_.
 
@@ -225,7 +225,7 @@ Cmd Line Basics
 `cd ..` - _go up a level in the current directory_
 
 (examples of the above commands visible in image below)👇
-![](../attachments/7.png)
+![](../attachments/7.png) 6:03
 
 In this example, Wes is in the `beginner-JavaScript` directory, and he uses the command `ls -l` to see what other directories he has nested inside his current directory.
 
@@ -279,7 +279,7 @@ The simplest is to open up your dev tools and go to your console.
 
 If you want to run some JavaScript to see how it works, like here Wes has typed 1 + 1 and hit enter and the console returned 2.
 
-![](../attachments/8.png)
+![](../attachments/8.png) 00:27
 
 This right here is a JavaScript console and it's a nice way to quickly noodle on some JavaScript
 
@@ -291,7 +291,7 @@ For example You can type the following to grab all the paragraphs from the githu
 document.querySelectorAll("p");
 ```
 
-![](../attachments/9.png)
+![](../attachments/9.png) 1:08
 _(Don't worry about what `document.querySelectorAll()` does, we will cover that in a future video)._
 
 The code that runs in your dev tools console is running in the context of the page that is loaded in your browser tab.
@@ -308,7 +308,7 @@ What that will do is when the HTML is loaded, it's going to say "OH! This is a s
 
 If you go ahead and open the `running-js.html` file in the browser, and open the console, you will see that it says "hey".
 
-![](../attachments/10.png)
+![](../attachments/10.png) 1:53
 
 Don't sweat this too much, we will be explaining what `console.log()` and everything does shortly.
 

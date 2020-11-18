@@ -943,7 +943,7 @@ You can install this globally or per project.
 
 What Wes does is he usually installs it globally so that all the projects he works on are covered, and then for each individual project that is more than a demo, he installs it locally.
 
-![](../attachments/34.png)
+![](../attachments/34.png) 10:10
 
 ### Installing npm packages locally
 
@@ -961,7 +961,7 @@ To create the `package.json`, you simply just type `npm init` in the terminal an
 
 You will now be prompted to enter a package name, description, keywords etc but you can just press enter to skip setting those values for now.
 
-![](../attachments/32.png)
+![](../attachments/32.png) 9:04
 
 Then we need to go ahead and install all of our dependencies for this thing.
 

@@ -1,455 +1,453 @@
-1. .** 2` returns 100 and `1000 ** - Module 1꞉ The Basics.md // Count: 1
-0. .** and ** - Module 8꞉ Data Types.md // Count: 1
-1. .** kebab case** - Module 1꞉ The Basics.md // Count: 1
-2. .**"callback" methods** - Module 8꞉ Data Types.md // Count: 1
-3. .**"Christmas Tree" code** - Module 12꞉ Advanced Flow Control.md // Count: 1
-4. .**&& trick** - Module 7 Logic and Flow Control.md // Count: 1
-5. .**_not good_** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-6. .**`, the double `** - Module 1꞉ The Basics.md // Count: 1
-7. .**`Math.ceil()`** - Module 1꞉ The Basics.md // Count: 1
-8. .**`Math.floor()`** - Module 1꞉ The Basics.md // Count: 1
-9. .**`Math.random()`** - Module 1꞉ The Basics.md // Count: 1
-10. .**`Math.round()`** - Module 1꞉ The Basics.md // Count: 1
-11. .**`new`** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-12. .**A statement** - Module 1꞉ The Basics.md // Count: 1
-13. .**abusing conditionals** - Module 9꞉ Gettin' Loopy.md // Count: 2
-14. .**Accept Header** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
-15. .**accessibility** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-16. .**accumulator** - Module 9꞉ Gettin' Loopy.md // Count: 2
-17. .**advantage of conditionals** - Module 9꞉ Gettin' Loopy.md // Count: 1
-18. .**AJAX** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-19. .**anonymous function** - Module 2 Functions.md // Count: 1
-20. .**anonymous functions** - Module 2 Functions.md // Count: 1
-21. .**API key** - Module 1꞉ The Basics.md // Count: 1
-22. .**API** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
-23. .**appendChild** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-24. .**Application Programming Interface** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-25. .**arguments** - Module 2 Functions.md // Count: 6
-26. .**array destructuring** - Module 12꞉ Advanced Flow Control.md // Count: 1
-27. .**array** - Module 7 Logic and Flow Control.md // Count: 1
-28. .**array** - Module 8꞉ Data Types.md // Count: 2
-29. .**arrow function** - Module 2 Functions.md // Count: 1
-30. .**async/await** - Module 12꞉ Advanced Flow Control.md // Count: 2
-31. .**async/await** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
-32. .**Asynchronous Javascript and XML** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-33. .**asynchronous** - Module 12꞉ Advanced Flow Control.md // Count: 1
-34. .**asynchronous** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-35. .**asynchronous** - Module 7 Logic and Flow Control.md // Count: 1
-36. .**attributes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-37. .**automatic semi-colon insertion** - Module 1꞉ The Basics.md // Count: 1
-38. .**await** - Module 9꞉ Gettin' Loopy.md // Count: 1
-39. .**Babel** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-40. .**Babel** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-41. .**backtick** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-42. .**backticks** - Module 1꞉ The Basics.md // Count: 1
-43. .**Beautifier** - Module 1꞉ The Basics.md // Count: 1
-44. .**BEDMAS** - Module 7 Logic and Flow Control.md // Count: 2
-45. .**Best Practices** - Module 3꞉ The Tricky Bits.md // Count: 1
-46. .**binding** - Module 5꞉ Events.md // Count: 1
-47. .**block scope** - Module 3꞉ The Tricky Bits.md // Count: 1
-48. .**block scoped variables** - Module 1꞉ The Basics.md // Count: 1
-49. .**block** - Module 3꞉ The Tricky Bits.md // Count: 1
-50. .**blocked scope** - Module 3꞉ The Tricky Bits.md // Count: 1
-51. .**boolean** - Module 1꞉ The Basics.md // Count: 1
-52. .**Boolean** - Module 1꞉ The Basics.md // Count: 1
-53. .**booleans** - Module 7 Logic and Flow Control.md // Count: 1
-54. .**breakpoint** - Module 2 Functions.md // Count: 1
-55. .**bubbling up** - Module 5꞉ Events.md // Count: 1
-56. .**bubbling** - Module 5꞉ Events.md // Count: 1
-57. .**buffer** - Module 15 - Final Round of Exercises.md // Count: 1
-58. .**built in functions** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-59. .**bundler** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-60. .**bundler** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-61. .**call and apply** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-62. .**call stack** - Module 12꞉ Advanced Flow Control.md // Count: 2
-63. .**call stack** - Module 2 Functions.md // Count: 1
-64. .**call** - Module 2 Functions.md // Count: 1
-65. .**callback function** - Module 5꞉ Events.md // Count: 2
-66. .**callback functions** - Module 2 Functions.md // Count: 1
-67. .**callback hell** - Module 12꞉ Advanced Flow Control.md // Count: 1
-68. .**callback queue** - Module 12꞉ Advanced Flow Control.md // Count: 1
-69. .**callback** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-70. .**callbacks** - Module 2 Functions.md // Count: 1
-71. .**called** - Module 2 Functions.md // Count: 1
-72. .**calling** - Module 2 Functions.md // Count: 1
-73. .**camel case** - Module 1꞉ The Basics.md // Count: 1
-74. .**cannot** - Module 1꞉ The Basics.md // Count: 1
-75. .**canvas** - Module 6꞉ Serious Practice Excercises.md // Count: 2
-76. .**capture** - Module 2 Functions.md // Count: 1
-77. .**capture** - Module 5꞉ Events.md // Count: 1
-78. .**Capture** - Module 5꞉ Events.md // Count: 1
-79. .**ClampedArray** - Module 9꞉ Gettin' Loopy.md // Count: 1
-80. .**classes** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-81. .**cleaned up** - Module 2 Functions.md // Count: 1
-82. .**cleaned up** - Module 3꞉ The Tricky Bits.md // Count: 1
-83. .**click outside** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-84. .**client-side validation** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-85. .**closure** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-86. .**closure** - Module 2 Functions.md // Count: 1
-87. .**closure** - Module 3꞉ The Tricky Bits.md // Count: 4
-88. .**Closures** - Module 3꞉ The Tricky Bits.md // Count: 1
-89. .**code block** - Module 1꞉ The Basics.md // Count: 2
-90. .**coerce** - Module 15 - Final Round of Exercises.md // Count: 1
-91. .**coerce** - Module 7 Logic and Flow Control.md // Count: 1
-92. .**Coercion** - Module 7 Logic and Flow Control.md // Count: 2
-93. .**comma dangle** - Module 8꞉ Data Types.md // Count: 1
-94. .**CommonJSs** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-95. .**concatenation** - Module 1꞉ The Basics.md // Count: 2
-96. .**Concatenation** - Module 1꞉ The Basics.md // Count: 1
-97. .**concurrently** - Module 12꞉ Advanced Flow Control.md // Count: 1
-98. .**condition** - Module 7 Logic and Flow Control.md // Count: 1
-99. .**constructor** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-100. .**constructor** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-101. .**context** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-102. .**CORS policy** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
-103. .**CORS** - Module 13꞉ Ajax and Fetching Data.md // Count: 3
-104. .**create-react-app** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-105. .**Cross Origin Resource Sharing** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-106. .**cross origin** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-107. .**cross site scripting** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-108. .**cross-site scripting** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
-109. .**CSS auto-prefixer** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-110. .**CSS custom property** - Module 12꞉ Advanced Flow Control.md // Count: 1
-111. .**custom events** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-112. .**custom headers** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-113. .**custom** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-114. .**data attributes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-115. .**date-fns** - Module 9꞉ Gettin' Loopy.md // Count: 1
-116. .**dead-code elimination** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-117. .**deep clone** - Module 8꞉ Data Types.md // Count: 1
-118. .**deep copy** - Module 8꞉ Data Types.md // Count: 1
-119. .**default export** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
-120. .**Default Imports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-121. .**default values** - Module 2 Functions.md // Count: 2
-122. .**Default Values** - Module 2 Functions.md // Count: 1
-123. .**defaults** - Module 2 Functions.md // Count: 1
-124. .**delimited** - Module 8꞉ Data Types.md // Count: 1
-125. .**dependencies** - Module 1꞉ The Basics.md // Count: 1
-126. .**destructing** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-127. .**destructure** - Module 8꞉ Data Types.md // Count: 1
-128. .**destructuring** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-129. .**destructuring** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-130. .**destructuring** - Module 8꞉ Data Types.md // Count: 1
-131. .**dev dependency** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
-132. .**Dictionary** - Module 2 Functions.md // Count: 1
-133. .**dispatch** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-134. .**document fragment** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-135. .**Document Object Model** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
-136. .**DOM Elements** - Module 5꞉ Events.md // Count: 1
-137. .**DOM events** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-138. .**DOM** - Module 2 Functions.md // Count: 1
-139. .**domain name** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-140. .**DOMPurify** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-141. .**DOMTokenList** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-142. .**Don't Repeat Yourself** - Module 2 Functions.md // Count: 1
-143. .**don't repeat yourself** - Module 5꞉ Events.md // Count: 1
-144. .**dot file** - Module 1꞉ The Basics.md // Count: 1
-145. .**dot notation** - Module 1꞉ The Basics.md // Count: 1
-146. .**dot notation** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-147. .**DRY** - Module 2 Functions.md // Count: 1
-148. .**DRY** - Module 5꞉ Events.md // Count: 2
-149. .**EcmaScript modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-150. .**ECMAScript modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-151. .**element** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-152. .**ES6 modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-153. .**escaping** - Module 1꞉ The Basics.md // Count: 1
-154. .**ESLint** - Module 1꞉ The Basics.md // Count: 1
-155. .**ESM** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-156. .**event delegation** - Module 10꞉ Harder Practice Exercises.md // Count: 2
-157. .**event listener** - Module 2 Functions.md // Count: 1
-158. .**event listeners** - Module 5꞉ Events.md // Count: 1
-159. .**event loop** - Module 12꞉ Advanced Flow Control.md // Count: 1
-160. .**event object** - Module 5꞉ Events.md // Count: 1
-161. .**event.currentTarget** - Module 5꞉ Events.md // Count: 1
-162. .**event.target** - Module 5꞉ Events.md // Count: 1
-163. .**exit condition** - Module 9꞉ Gettin' Loopy.md // Count: 1
-164. .**explicit return** - Module 2 Functions.md // Count: 1
-165. .**explicit** - Module 2 Functions.md // Count: 1
-166. .**exponents** - Module 7 Logic and Flow Control.md // Count: 1
-167. .**extending** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-168. .**falsy** - Module 2 Functions.md // Count: 1
-169. .**falsy** - Module 7 Logic and Flow Control.md // Count: 2
-170. .**fat arrow** - Module 2 Functions.md // Count: 2
-171. .**fetch** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-172. .**flag variable** - Module 1꞉ The Basics.md // Count: 1
-173. .**flat file structure** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-174. .**flow control** - Module 1꞉ The Basics.md // Count: 1
-175. .**flow control** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-176. .**foot gun** - Module 12꞉ Advanced Flow Control.md // Count: 1
-177. .**fulfilled** - Module 12꞉ Advanced Flow Control.md // Count: 1
-178. .**function body** - Module 2 Functions.md // Count: 1
-179. .**function definition** - Module 2 Functions.md // Count: 1
-180. .**function expression** - Module 2 Functions.md // Count: 2
-181. .**function scope** - Module 3꞉ The Tricky Bits.md // Count: 2
-182. .**function scoped variables** - Module 1꞉ The Basics.md // Count: 1
-183. .**function** - Module 2 Functions.md // Count: 1
-184. .**functional programming** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-185. .**functions are created or defined** - Module 2 Functions.md // Count: 1
-186. .**garbage collected** - Module 2 Functions.md // Count: 1
-187. .**garbage collected** - Module 3꞉ The Tricky Bits.md // Count: 1
-188. .**Gatsby** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-189. .**getters** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-190. .**global variable** - Module 3꞉ The Tricky Bits.md // Count: 1
-191. .**global variables** - Module 1꞉ The Basics.md // Count: 1
-192. .**global variables** - Module 2 Functions.md // Count: 1
-193. .**global variables** - Module 3꞉ The Tricky Bits.md // Count: 1
-194. .**header** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-195. .**helper methods** - Module 1꞉ The Basics.md // Count: 1
-196. .**Helpful Tip** - Module 5꞉ Events.md // Count: 1
-197. .**high order function** - Module 9꞉ Gettin' Loopy.md // Count: 1
-198. .**higher order function** - Module 12꞉ Advanced Flow Control.md // Count: 1
-199. .**higher order function** - Module 9꞉ Gettin' Loopy.md // Count: 1
-200. .**high-order functions** - Module 8꞉ Data Types.md // Count: 1
-201. .**hoisted** - Module 2 Functions.md // Count: 1
-202. .**hoisting** - Module 2 Functions.md // Count: 1
-203. .**Hoisting** - Module 2 Functions.md // Count: 1
-204. .**Hoisting** - Module 3꞉ The Tricky Bits.md // Count: 1
-205. .**hot reloading** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
-206. .**HSL** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-207. .**if statement** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-208. .**If statements** - Module 7 Logic and Flow Control.md // Count: 1
-209. .**iffy** - Module 2 Functions.md // Count: 1
-210. .**IIFE (immediately invoked function expression)** - Module 2 Functions.md // Count: 1
-211. .**IIFE** - Module 2 Functions.md // Count: 1
-212. .**immediately invoked function expression** - Module 2 Functions.md // Count: 1
-213. .**immediately invoked functional expression.** - Module 2 Functions.md // Count: 1
-214. .**immutability** - Module 8꞉ Data Types.md // Count: 1
-215. .**immutable** - Module 8꞉ Data Types.md // Count: 4
-216. .**Immutable** - Module 8꞉ Data Types.md // Count: 1
-217. .**immutably** - Module 8꞉ Data Types.md // Count: 1
-218. .**implicit return** - Module 2 Functions.md // Count: 2
-219. .**index** - Module 8꞉ Data Types.md // Count: 1
-220. .**instance or prototypal methods** - Module 8꞉ Data Types.md // Count: 1
-221. .**interpolate** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-222. .**Interpolation** - Module 1꞉ The Basics.md // Count: 1
-223. .**interpolation** - Module 2 Functions.md // Count: 1
-224. .**intersection observer** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-225. .**Intersection Observer** - Module 6꞉ Serious Practice Excercises.md // Count: 2
-226. .**IntersectionObserverEntry** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-227. .**interval** - Module 7 Logic and Flow Control.md // Count: 1
-228. .**intervals** - Module 7 Logic and Flow Control.md // Count: 1
-229. .**invoke** - Module 2 Functions.md // Count: 1
-230. .**is** - Module 8꞉ Data Types.md // Count: 1
-231. .**isTrusted** - Module 5꞉ Events.md // Count: 1
-232. .**item** - Module 8꞉ Data Types.md // Count: 1
-233. .**iterable** - Module 8꞉ Data Types.md // Count: 2
-234. .**iterable** - Module 9꞉ Gettin' Loopy.md // Count: 1
-235. .**Javascript Date** - Module 9꞉ Gettin' Loopy.md // Count: 1
-236. .**javascript dot notation** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-237. .**JavaScript modules** - Module 1꞉ The Basics.md // Count: 1
-238. .**Javascript Object Notation** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-239. .**Javascript Object Notation** - Module 8꞉ Data Types.md // Count: 1
-240. .**JSON 5** - Module 8꞉ Data Types.md // Count: 1
-241. .**JSON** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
-242. .**json** - Module 8꞉ Data Types.md // Count: 1
-243. .**JSON** - Module 8꞉ Data Types.md // Count: 1
-244. .**key** - Module 8꞉ Data Types.md // Count: 1
-245. .**keys** - Module 8꞉ Data Types.md // Count: 1
-246. .**length** - Module 8꞉ Data Types.md // Count: 1
-247. .**LESS** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-248. .**lexical scoping** - Module 3꞉ The Tricky Bits.md // Count: 1
-249. .**library functions** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-250. .**literal syntax** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-251. .**live reloading** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-252. .**local storage** - Module 10꞉ Harder Practice Exercises.md // Count: 2
-253. .**Map files** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-254. .**map** - Module 8꞉ Data Types.md // Count: 1
-255. .**Math.random()** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-256. .**memory leak** - Module 12꞉ Advanced Flow Control.md // Count: 1
-257. .**memory** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-258. .**method** - Module 2 Functions.md // Count: 1
-259. .**methods** - Module 2 Functions.md // Count: 2
-260. .**minification** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-261. .**Modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-262. .**modules** - Module 1꞉ The Basics.md // Count: 1
-263. .**modulo** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-264. .**modulo** - Module 1꞉ The Basics.md // Count: 2
-265. .**multi-threaded** - Module 12꞉ Advanced Flow Control.md // Count: 1
-266. .**must always break after each of your cases.** - Module 7 Logic and Flow Control.md // Count: 1
-267. .**must** - Module 8꞉ Data Types.md // Count: 1
-268. .**mutable** - Module 8꞉ Data Types.md // Count: 4
-269. .**Mutable** - Module 8꞉ Data Types.md // Count: 1
-270. .**mutable** - Module 9꞉ Gettin' Loopy.md // Count: 1
-271. .**mutation** - Module 8꞉ Data Types.md // Count: 2
-272. .**Mutation** - Module 8꞉ Data Types.md // Count: 1
-273. .**named exports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
-274. .**named imports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-275. .**Named Imports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-276. .**naming conventions** - Module 1꞉ The Basics.md // Count: 1
-277. .**NaN** - Module 1꞉ The Basics.md // Count: 1
-278. .**NaN** - Module 7 Logic and Flow Control.md // Count: 1
-279. .**nested objects** - Module 8꞉ Data Types.md // Count: 1
-280. .**nested properties** - Module 8꞉ Data Types.md // Count: 1
-281. .**Next.js** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-282. .**node removal** - Module 2 Functions.md // Count: 1
-283. .**NodeJS** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-284. .**NodeList** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-285. .**Nodes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-286. .**non-blocking** - Module 12꞉ Advanced Flow Control.md // Count: 1
-287. .**not a number** - Module 7 Logic and Flow Control.md // Count: 1
-288. .**not** - Module 12꞉ Advanced Flow Control.md // Count: 1
-289. .**not** - Module 1꞉ The Basics.md // Count: 2
-290. .**not** - Module 2 Functions.md // Count: 1
-291. .**not** - Module 3꞉ The Tricky Bits.md // Count: 1
-292. .**not** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
-293. .**not** - Module 7 Logic and Flow Control.md // Count: 1
-294. .**not** - Module 8꞉ Data Types.md // Count: 1
-295. .**NPM** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-296. .**null** - Module 1꞉ The Basics.md // Count: 2
-297. .**Null** - Module 1꞉ The Basics.md // Count: 1
-298. .**Number** - Module 1꞉ The Basics.md // Count: 1
-299. .**object destructuring** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-300. .**object literal** - Module 8꞉ Data Types.md // Count: 1
-301. .**Object** - Module 1꞉ The Basics.md // Count: 1
-302. .**object** - Module 8꞉ Data Types.md // Count: 1
-303. .**object-oriented programming** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-304. .**Objects** - Module 1꞉ The Basics.md // Count: 1
-305. .**Objects** - Module 8꞉ Data Types.md // Count: 1
-306. .**ordinal** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-307. .**origin** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-308. .**origins** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-309. .**package.json** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-310. .**parameter** - Module 9꞉ Gettin' Loopy.md // Count: 1
-311. .**parameters** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-312. .**parameters** - Module 2 Functions.md // Count: 3
-313. .**params** - Module 2 Functions.md // Count: 1
-314. .**Parcel** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-315. .**passing a value** - Module 1꞉ The Basics.md // Count: 1
-316. .**pipes** - Module 7 Logic and Flow Control.md // Count: 1
-317. .**Please star the beginner-JavaScript github repo to help Wes up!** - Module 1꞉ The Basics.md // Count: 1
-318. .**polyfill** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 2
-319. .**polyfill** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-320. .**power** - Module 1꞉ The Basics.md // Count: 1
-321. .**pressure** - Module 5꞉ Events.md // Count: 1
-322. .**private variables** - Module 3꞉ The Tricky Bits.md // Count: 2
-323. .**promise** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-324. .**promise** - Module 12꞉ Advanced Flow Control.md // Count: 1
-325. .**promises** - Module 12꞉ Advanced Flow Control.md // Count: 1
-326. .**promises** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-327. .**promises** - Module 9꞉ Gettin' Loopy.md // Count: 1
-328. .**propagation** - Module 5꞉ Events.md // Count: 1
-329. .**properties** - Module 8꞉ Data Types.md // Count: 1
-330. .**property** - Module 8꞉ Data Types.md // Count: 1
-331. .**prototypal inheritance** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-332. .**prototypal methods** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-333. .**prototype lookup** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-334. .**prototype** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 2
-335. .**prototype** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-336. .**prototypes** - Module 10꞉ Harder Practice Exercises.md // Count: 2
-337. .**prototypes** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
-338. .**prototypes** - Module 9꞉ Gettin' Loopy.md // Count: 1
-339. .**prototyping** - Module 8꞉ Data Types.md // Count: 1
-340. .**proxy** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-341. .**pseudocode** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-342. .**pure function** - Module 12꞉ Advanced Flow Control.md // Count: 1
-343. .**pure functions** - Module 9꞉ Gettin' Loopy.md // Count: 1
-344. .**Pure functions** - Module 9꞉ Gettin' Loopy.md // Count: 1
-345. .**query parameters** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-346. .**query params** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-347. .**range** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-348. .**read-eval-print loop** - Module 1꞉ The Basics.md // Count: 1
-349. .**recursion** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-350. .**Recursion** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-351. .**recursion** - Module 12꞉ Advanced Flow Control.md // Count: 2
-352. .**recursion** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
-353. .**reference** - Module 8꞉ Data Types.md // Count: 1
-354. .**reflow** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-355. .**Regex pattern** - Module 9꞉ Gettin' Loopy.md // Count: 1
-356. .**Regex** - Module 15 - Final Round of Exercises.md // Count: 1
-357. .**regex** - Module 5꞉ Events.md // Count: 1
-358. .**regex** - Module 7 Logic and Flow Control.md // Count: 1
-359. .**regular expression** - Module 7 Logic and Flow Control.md // Count: 1
-360. .**regular expression** - Module 9꞉ Gettin' Loopy.md // Count: 1
-361. .**rejected** - Module 12꞉ Advanced Flow Control.md // Count: 1
-362. .**remember not to use an anonymous function.** - Module 5꞉ Events.md // Count: 1
-363. .**REPL** - Module 1꞉ The Basics.md // Count: 1
-364. .**request animation frame** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-365. .**Request animation frame** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-366. .**return** - Module 7 Logic and Flow Control.md // Count: 1
-367. .**run** - Module 2 Functions.md // Count: 2
-368. .**Run** - Module 2 Functions.md // Count: 3
-369. .**running** - Module 2 Functions.md // Count: 1
-370. .**sanitize** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-371. .**SASS** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-372. .**SASS** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-373. .**scope** - Module 2 Functions.md // Count: 2
-374. .**scoped to the function** - Module 2 Functions.md // Count: 1
-375. .**scroll event** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-376. .**selector** - Module 2 Functions.md // Count: 1
-377. .**SEO** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-378. .**sequentially** - Module 12꞉ Advanced Flow Control.md // Count: 1
-379. .**setters** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-380. .**shadow variables** - Module 3꞉ The Tricky Bits.md // Count: 1
-381. .**shadowed** - Module 3꞉ The Tricky Bits.md // Count: 1
-382. .**shallow** - Module 8꞉ Data Types.md // Count: 1
-383. .**short-circuiting** - Module 7 Logic and Flow Control.md // Count: 1
-384. .**should not** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
-385. .**side effect** - Module 9꞉ Gettin' Loopy.md // Count: 2
-386. .**side effects** - Module 9꞉ Gettin' Loopy.md // Count: 1
-387. .**single threaded language** - Module 12꞉ Advanced Flow Control.md // Count: 1
-388. .**skinny arrow** - Module 2 Functions.md // Count: 1
-389. .**snake case** - Module 1꞉ The Basics.md // Count: 1
-390. .**spread** - Module 8꞉ Data Types.md // Count: 2
-391. .**spreading** - Module 8꞉ Data Types.md // Count: 1
-392. .**square bracket notation** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-393. .**square bracket notation** - Module 7 Logic and Flow Control.md // Count: 1
-394. .**square brackets** - Module 8꞉ Data Types.md // Count: 2
-395. .**stack trace** - Module 2 Functions.md // Count: 1
-396. .**state** - Module 10꞉ Harder Practice Exercises.md // Count: 3
-397. .**statement** - Module 1꞉ The Basics.md // Count: 1
-398. .**static method** - Module 8꞉ Data Types.md // Count: 1
-399. .**static methods** - Module 8꞉ Data Types.md // Count: 2
-400. .**static scoping** - Module 3꞉ The Tricky Bits.md // Count: 1
-401. .**Step #2 of the "With VS Code"** - Module 1꞉ The Basics.md // Count: 1
-402. .**Strict Mode** - Module 1꞉ The Basics.md // Count: 1
-403. .**string literal syntax** - Module 8꞉ Data Types.md // Count: 1
-404. .**String** - Module 1꞉ The Basics.md // Count: 1
-405. .**subtree modifications** - Module 2 Functions.md // Count: 1
-406. .**switch statement** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-407. .**switch** - Module 6꞉ Serious Practice Excercises.md // Count: 1
-408. .**Symbol** - Module 1꞉ The Basics.md // Count: 1
-409. .**Symbols** - Module 1꞉ The Basics.md // Count: 1
-410. .**synchronous map** - Module 12꞉ Advanced Flow Control.md // Count: 1
-411. .**tagged template literal** - Module 1꞉ The Basics.md // Count: 1
-412. .**temporary variable** - Module 2 Functions.md // Count: 1
-413. .**ternary** - Module 7 Logic and Flow Control.md // Count: 2
-414. .**the DOM** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-415. .**the prototype** - Module 10꞉ Harder Practice Exercises.md // Count: 1
-416. .**this** - Module 5꞉ Events.md // Count: 1
-417. .**timeout** - Module 7 Logic and Flow Control.md // Count: 1
-418. .**timeouts** - Module 7 Logic and Flow Control.md // Count: 1
-419. .**timestamps** - Module 9꞉ Gettin' Loopy.md // Count: 1
-
-420. .**trailing comma** - Module 8꞉ Data Types.md // Count: 2
-421. .**Traversing** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-422. .**Triple equals will always check for both value and type.** - Module 1꞉ The Basics.md // Count: 1
-423. .**true or false** - Module 7 Logic and Flow Control.md // Count: 1
-424. .**truthy and falsy** - Module 7 Logic and Flow Control.md // Count: 1
-425. .**truthy** - Module 2 Functions.md // Count: 1
-426. .**truthy** - Module 7 Logic and Flow Control.md // Count: 2
-427. .**try and catch** - Module 12꞉ Advanced Flow Control.md // Count: 1
-428. .**typeof** - Module 1꞉ The Basics.md // Count: 1
-429. .**Types** - Module 1꞉ The Basics.md // Count: 1
-430. .**unbinding** - Module 5꞉ Events.md // Count: 2
-431. .**undefined** - Module 1꞉ The Basics.md // Count: 2
-432. .**Undefined** - Module 1꞉ The Basics.md // Count: 1
-433. .**undefined** - Module 2 Functions.md // Count: 1
-434. .**utility library** - Module 8꞉ Data Types.md // Count: 1
-435. .**utility methods** - Module 8꞉ Data Types.md // Count: 1
-436. .**value** - Module 2 Functions.md // Count: 1
-437. .**value** - Module 8꞉ Data Types.md // Count: 3
-438. .**values** - Module 8꞉ Data Types.md // Count: 1
-439. .**vanilla javascript** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
-440. .**variable hoisting** - Module 3꞉ The Tricky Bits.md // Count: 1
-441. .**variable interpolation** - Module 1꞉ The Basics.md // Count: 1
-442. .**Variables** - Module 1꞉ The Basics.md // Count: 1
-443. .**vendor prefix** - Module 15 - Final Round of Exercises.md // Count: 1
-444. .**Waait** - Module 12꞉ Advanced Flow Control.md // Count: 1
-445. .**With VS Code** - Module 1꞉ The Basics.md // Count: 1
-446. .**XML** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
-447. .**XSS** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
-448. .**You should see it works just fine!** - Module 2 Functions.md // Count: 1
-449. .**zero based** - Module 8꞉ Data Types.md // Count: 2
-450. .**zero width joiner** - Module 8꞉ Data Types.md // Count: 1
-451. .*` comment will open up what is called a ** - Module 1꞉ The Basics.md // Count: 1
-452. .*array literal** - Module 8꞉ Data Types.md // Count: 1
+1. ** 2` returns 100 and `1000 ** - Module 1꞉ The Basics.md // Count: 1
+2. ** and ** - Module 8꞉ Data Types.md // Count: 1
+3. ** kebab case** - Module 1꞉ The Basics.md // Count: 1
+4. **"callback" methods** - Module 8꞉ Data Types.md // Count: 1
+5. **"Christmas Tree" code** - Module 12꞉ Advanced Flow Control.md // Count: 1
+6. **&& trick** - Module 7 Logic and Flow Control.md // Count: 1
+7. **_not good_** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+8. **`, the double `** - Module 1꞉ The Basics.md // Count: 1
+9. **`Math.ceil()`** - Module 1꞉ The Basics.md // Count: 1
+10. **`Math.floor()`** - Module 1꞉ The Basics.md // Count: 1
+11. **`Math.random()`** - Module 1꞉ The Basics.md // Count: 1
+12. **`Math.round()`** - Module 1꞉ The Basics.md // Count: 1
+13. **`new`** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+14. **A statement** - Module 1꞉ The Basics.md // Count: 1
+15. **abusing conditionals** - Module 9꞉ Gettin' Loopy.md // Count: 2
+16. **Accept Header** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
+17. **accessibility** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+18. **accumulator** - Module 9꞉ Gettin' Loopy.md // Count: 2
+19. **advantage of conditionals** - Module 9꞉ Gettin' Loopy.md // Count: 1
+20. **AJAX** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+21. **anonymous function** - Module 2 Functions.md // Count: 1
+22. **anonymous functions** - Module 2 Functions.md // Count: 1
+23. **API key** - Module 1꞉ The Basics.md // Count: 1
+24. **API** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
+25. **appendChild** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+26. **Application Programming Interface** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+27. **arguments** - Module 2 Functions.md // Count: 6
+28. **array destructuring** - Module 12꞉ Advanced Flow Control.md // Count: 1
+29. **array** - Module 7 Logic and Flow Control.md // Count: 1
+30. **array** - Module 8꞉ Data Types.md // Count: 2
+31. **arrow function** - Module 2 Functions.md // Count: 1
+32. **async/await** - Module 12꞉ Advanced Flow Control.md // Count: 2
+33. **async/await** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
+34. **Asynchronous Javascript and XML** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+35. **asynchronous** - Module 12꞉ Advanced Flow Control.md // Count: 1
+36. **asynchronous** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+37. **asynchronous** - Module 7 Logic and Flow Control.md // Count: 1
+38. **attributes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+39. **automatic semi-colon insertion** - Module 1꞉ The Basics.md // Count: 1
+40. **await** - Module 9꞉ Gettin' Loopy.md // Count: 1
+41. **Babel** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+42. **Babel** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+43. **backtick** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+44. **backticks** - Module 1꞉ The Basics.md // Count: 1
+45. **Beautifier** - Module 1꞉ The Basics.md // Count: 1
+46. **BEDMAS** - Module 7 Logic and Flow Control.md // Count: 2
+47. **Best Practices** - Module 3꞉ The Tricky Bits.md // Count: 1
+48. **binding** - Module 5꞉ Events.md // Count: 1
+49. **block scope** - Module 3꞉ The Tricky Bits.md // Count: 1
+50. **block scoped variables** - Module 1꞉ The Basics.md // Count: 1
+51. **block** - Module 3꞉ The Tricky Bits.md // Count: 1
+52. **blocked scope** - Module 3꞉ The Tricky Bits.md // Count: 1
+53. **boolean** - Module 1꞉ The Basics.md // Count: 1
+54. **Boolean** - Module 1꞉ The Basics.md // Count: 1
+55. **booleans** - Module 7 Logic and Flow Control.md // Count: 1
+56. **breakpoint** - Module 2 Functions.md // Count: 1
+57. **bubbling up** - Module 5꞉ Events.md // Count: 1
+58. **bubbling** - Module 5꞉ Events.md // Count: 1
+59. **buffer** - Module 15 - Final Round of Exercises.md // Count: 1
+60. **built in functions** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+61. **bundler** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+62. **bundler** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+63. **call and apply** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+64. **call stack** - Module 12꞉ Advanced Flow Control.md // Count: 2
+65. **call stack** - Module 2 Functions.md // Count: 1
+66. **call** - Module 2 Functions.md // Count: 1
+67. **callback function** - Module 5꞉ Events.md // Count: 2
+68. **callback functions** - Module 2 Functions.md // Count: 1
+69. **callback hell** - Module 12꞉ Advanced Flow Control.md // Count: 1
+70. **callback queue** - Module 12꞉ Advanced Flow Control.md // Count: 1
+71. **callback** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+72. **callbacks** - Module 2 Functions.md // Count: 1
+73. **called** - Module 2 Functions.md // Count: 1
+74. **calling** - Module 2 Functions.md // Count: 1
+75. **camel case** - Module 1꞉ The Basics.md // Count: 1
+76. **cannot** - Module 1꞉ The Basics.md // Count: 1
+77. **canvas** - Module 6꞉ Serious Practice Excercises.md // Count: 2
+78. **capture** - Module 2 Functions.md // Count: 1
+79. **capture** - Module 5꞉ Events.md // Count: 1
+80. **Capture** - Module 5꞉ Events.md // Count: 1
+81. **ClampedArray** - Module 9꞉ Gettin' Loopy.md // Count: 1
+82. **classes** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+83. **cleaned up** - Module 2 Functions.md // Count: 1
+84. **cleaned up** - Module 3꞉ The Tricky Bits.md // Count: 1
+85. **click outside** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+86. **client-side validation** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+87. **closure** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+88. **closure** - Module 2 Functions.md // Count: 1
+89. **closure** - Module 3꞉ The Tricky Bits.md // Count: 4
+90. **Closures** - Module 3꞉ The Tricky Bits.md // Count: 1
+91. **code block** - Module 1꞉ The Basics.md // Count: 2
+92. **coerce** - Module 15 - Final Round of Exercises.md // Count: 1
+93. **coerce** - Module 7 Logic and Flow Control.md // Count: 1
+94. **Coercion** - Module 7 Logic and Flow Control.md // Count: 2
+95. **comma dangle** - Module 8꞉ Data Types.md // Count: 1
+96. **CommonJSs** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+97. **concatenation** - Module 1꞉ The Basics.md // Count: 2
+98. **Concatenation** - Module 1꞉ The Basics.md // Count: 1
+99. **concurrently** - Module 12꞉ Advanced Flow Control.md // Count: 1
+100. **condition** - Module 7 Logic and Flow Control.md // Count: 1
+101. **constructor** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+102. **constructor** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+103. **context** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+104. **CORS policy** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
+105. **CORS** - Module 13꞉ Ajax and Fetching Data.md // Count: 3
+106. **create-react-app** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+107. **Cross Origin Resource Sharing** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+108. **cross origin** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+109. **cross site scripting** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+110. **cross-site scripting** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
+111. **CSS auto-prefixer** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+112. **CSS custom property** - Module 12꞉ Advanced Flow Control.md // Count: 1
+113. **custom events** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+114. **custom headers** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+115. **custom** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+116. **data attributes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+117. **date-fns** - Module 9꞉ Gettin' Loopy.md // Count: 1
+118. **dead-code elimination** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+119. **deep clone** - Module 8꞉ Data Types.md // Count: 1
+120. **deep copy** - Module 8꞉ Data Types.md // Count: 1
+121. **default export** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
+122. **Default Imports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+123. **default values** - Module 2 Functions.md // Count: 2
+124. **Default Values** - Module 2 Functions.md // Count: 1
+125. **defaults** - Module 2 Functions.md // Count: 1
+126. **delimited** - Module 8꞉ Data Types.md // Count: 1
+127. **dependencies** - Module 1꞉ The Basics.md // Count: 1
+128. **destructing** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+129. **destructure** - Module 8꞉ Data Types.md // Count: 1
+130. **destructuring** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+131. **destructuring** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+132. **destructuring** - Module 8꞉ Data Types.md // Count: 1
+133. **dev dependency** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
+134. **Dictionary** - Module 2 Functions.md // Count: 1
+135. **dispatch** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+136. **document fragment** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+137. **Document Object Model** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
+138. **DOM Elements** - Module 5꞉ Events.md // Count: 1
+139. **DOM events** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+140. **DOM** - Module 2 Functions.md // Count: 1
+141. **domain name** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+142. **DOMPurify** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+143. **DOMTokenList** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+144. **Don't Repeat Yourself** - Module 2 Functions.md // Count: 1
+145. **don't repeat yourself** - Module 5꞉ Events.md // Count: 1
+146. **dot file** - Module 1꞉ The Basics.md // Count: 1
+147. **dot notation** - Module 1꞉ The Basics.md // Count: 1
+148. **dot notation** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+149. **DRY** - Module 2 Functions.md // Count: 1
+150. **DRY** - Module 5꞉ Events.md // Count: 2
+151. **EcmaScript modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+152. **ECMAScript modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+153. **element** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+154. **ES6 modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+155. **escaping** - Module 1꞉ The Basics.md // Count: 1
+156. **ESLint** - Module 1꞉ The Basics.md // Count: 1
+157. **ESM** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+158. **event delegation** - Module 10꞉ Harder Practice Exercises.md // Count: 2
+159. **event listener** - Module 2 Functions.md // Count: 1
+160. **event listeners** - Module 5꞉ Events.md // Count: 1
+161. **event loop** - Module 12꞉ Advanced Flow Control.md // Count: 1
+162. **event object** - Module 5꞉ Events.md // Count: 1
+163. **event.currentTarget** - Module 5꞉ Events.md // Count: 1
+164. **event.target** - Module 5꞉ Events.md // Count: 1
+165. **exit condition** - Module 9꞉ Gettin' Loopy.md // Count: 1
+166. **explicit return** - Module 2 Functions.md // Count: 1
+167. **explicit** - Module 2 Functions.md // Count: 1
+168. **exponents** - Module 7 Logic and Flow Control.md // Count: 1
+169. **extending** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+170. **falsy** - Module 2 Functions.md // Count: 1
+171. **falsy** - Module 7 Logic and Flow Control.md // Count: 2
+172. **fat arrow** - Module 2 Functions.md // Count: 2
+173. **fetch** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+174. **flag variable** - Module 1꞉ The Basics.md // Count: 1
+175. **flat file structure** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+176. **flow control** - Module 1꞉ The Basics.md // Count: 1
+177. **flow control** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+178. **foot gun** - Module 12꞉ Advanced Flow Control.md // Count: 1
+179. **fulfilled** - Module 12꞉ Advanced Flow Control.md // Count: 1
+180. **function body** - Module 2 Functions.md // Count: 1
+181. **function definition** - Module 2 Functions.md // Count: 1
+182. **function expression** - Module 2 Functions.md // Count: 2
+183. **function scope** - Module 3꞉ The Tricky Bits.md // Count: 2
+184. **function scoped variables** - Module 1꞉ The Basics.md // Count: 1
+185. **function** - Module 2 Functions.md // Count: 1
+186. **functional programming** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+187. **functions are created or defined** - Module 2 Functions.md // Count: 1
+188. **garbage collected** - Module 2 Functions.md // Count: 1
+189. **garbage collected** - Module 3꞉ The Tricky Bits.md // Count: 1
+190. **Gatsby** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+191. **getters** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+192. **global variable** - Module 3꞉ The Tricky Bits.md // Count: 1
+193. **global variables** - Module 1꞉ The Basics.md // Count: 1
+194. **global variables** - Module 2 Functions.md // Count: 1
+195. **global variables** - Module 3꞉ The Tricky Bits.md // Count: 1
+196. **header** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+197. **helper methods** - Module 1꞉ The Basics.md // Count: 1
+198. **Helpful Tip** - Module 5꞉ Events.md // Count: 1
+199. **high order function** - Module 9꞉ Gettin' Loopy.md // Count: 1
+200. **higher order function** - Module 12꞉ Advanced Flow Control.md // Count: 1
+201. **higher order function** - Module 9꞉ Gettin' Loopy.md // Count: 1
+202. **high-order functions** - Module 8꞉ Data Types.md // Count: 1
+203. **hoisted** - Module 2 Functions.md // Count: 1
+204. **hoisting** - Module 2 Functions.md // Count: 1
+205. **Hoisting** - Module 2 Functions.md // Count: 1
+206. **Hoisting** - Module 3꞉ The Tricky Bits.md // Count: 1
+207. **hot reloading** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
+208. **HSL** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+209. **if statement** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+210. **If statements** - Module 7 Logic and Flow Control.md // Count: 1
+211. **iffy** - Module 2 Functions.md // Count: 1
+212. **IIFE (immediately invoked function expression)** - Module 2 Functions.md // Count: 1
+213. **IIFE** - Module 2 Functions.md // Count: 1
+214. **immediately invoked function expression** - Module 2 Functions.md // Count: 1
+215. **immediately invoked functional expression.** - Module 2 Functions.md // Count: 1
+216. **immutability** - Module 8꞉ Data Types.md // Count: 1
+217. **immutable** - Module 8꞉ Data Types.md // Count: 4
+218. **Immutable** - Module 8꞉ Data Types.md // Count: 1
+219. **immutably** - Module 8꞉ Data Types.md // Count: 1
+220. **implicit return** - Module 2 Functions.md // Count: 2
+221. **index** - Module 8꞉ Data Types.md // Count: 1
+222. **instance or prototypal methods** - Module 8꞉ Data Types.md // Count: 1
+223. **interpolate** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+224. **Interpolation** - Module 1꞉ The Basics.md // Count: 1
+225. **interpolation** - Module 2 Functions.md // Count: 1
+226. **intersection observer** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+227. **Intersection Observer** - Module 6꞉ Serious Practice Excercises.md // Count: 2
+228. **IntersectionObserverEntry** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+229. **interval** - Module 7 Logic and Flow Control.md // Count: 1
+230. **intervals** - Module 7 Logic and Flow Control.md // Count: 1
+231. **invoke** - Module 2 Functions.md // Count: 1
+232. **is** - Module 8꞉ Data Types.md // Count: 1
+233. **isTrusted** - Module 5꞉ Events.md // Count: 1
+234. **item** - Module 8꞉ Data Types.md // Count: 1
+235. **iterable** - Module 8꞉ Data Types.md // Count: 2
+236. **iterable** - Module 9꞉ Gettin' Loopy.md // Count: 1
+237. **Javascript Date** - Module 9꞉ Gettin' Loopy.md // Count: 1
+238. **javascript dot notation** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+239. **JavaScript modules** - Module 1꞉ The Basics.md // Count: 1
+240. **Javascript Object Notation** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+241. **Javascript Object Notation** - Module 8꞉ Data Types.md // Count: 1
+242. **JSON 5** - Module 8꞉ Data Types.md // Count: 1
+243. **JSON** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
+244. **json** - Module 8꞉ Data Types.md // Count: 1
+245. **JSON** - Module 8꞉ Data Types.md // Count: 1
+246. **key** - Module 8꞉ Data Types.md // Count: 1
+247. **keys** - Module 8꞉ Data Types.md // Count: 1
+248. **length** - Module 8꞉ Data Types.md // Count: 1
+249. **LESS** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+250. **lexical scoping** - Module 3꞉ The Tricky Bits.md // Count: 1
+251. **library functions** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+252. **literal syntax** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+253. **live reloading** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+254. **local storage** - Module 10꞉ Harder Practice Exercises.md // Count: 2
+255. **Map files** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+256. **map** - Module 8꞉ Data Types.md // Count: 1
+257. **Math.random()** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+258. **memory leak** - Module 12꞉ Advanced Flow Control.md // Count: 1
+259. **memory** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+260. **method** - Module 2 Functions.md // Count: 1
+261. **methods** - Module 2 Functions.md // Count: 2
+262. **minification** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+263. **Modules** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+264. **modules** - Module 1꞉ The Basics.md // Count: 1
+265. **modulo** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+266. **modulo** - Module 1꞉ The Basics.md // Count: 2
+267. **multi-threaded** - Module 12꞉ Advanced Flow Control.md // Count: 1
+268. **must always break after each of your cases.** - Module 7 Logic and Flow Control.md // Count: 1
+269. **must** - Module 8꞉ Data Types.md // Count: 1
+270. **mutable** - Module 8꞉ Data Types.md // Count: 4
+271. **Mutable** - Module 8꞉ Data Types.md // Count: 1
+272. **mutable** - Module 9꞉ Gettin' Loopy.md // Count: 1
+273. **mutation** - Module 8꞉ Data Types.md // Count: 2
+274. **Mutation** - Module 8꞉ Data Types.md // Count: 1
+275. **named exports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 2
+276. **named imports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+277. **Named Imports** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+278. **naming conventions** - Module 1꞉ The Basics.md // Count: 1
+279. **NaN** - Module 1꞉ The Basics.md // Count: 1
+280. **NaN** - Module 7 Logic and Flow Control.md // Count: 1
+281. **nested objects** - Module 8꞉ Data Types.md // Count: 1
+282. **nested properties** - Module 8꞉ Data Types.md // Count: 1
+283. **Next.js** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+284. **node removal** - Module 2 Functions.md // Count: 1
+285. **NodeJS** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+286. **NodeList** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+287. **Nodes** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+288. **non-blocking** - Module 12꞉ Advanced Flow Control.md // Count: 1
+289. **not a number** - Module 7 Logic and Flow Control.md // Count: 1
+290. **not** - Module 12꞉ Advanced Flow Control.md // Count: 1
+291. **not** - Module 1꞉ The Basics.md // Count: 2
+292. **not** - Module 2 Functions.md // Count: 1
+293. **not** - Module 3꞉ The Tricky Bits.md // Count: 1
+294. **not** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
+295. **not** - Module 7 Logic and Flow Control.md // Count: 1
+296. **not** - Module 8꞉ Data Types.md // Count: 1
+297. **NPM** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+298. **null** - Module 1꞉ The Basics.md // Count: 2
+299. **Null** - Module 1꞉ The Basics.md // Count: 1
+300. **Number** - Module 1꞉ The Basics.md // Count: 1
+301. **object destructuring** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+302. **object literal** - Module 8꞉ Data Types.md // Count: 1
+303. **Object** - Module 1꞉ The Basics.md // Count: 1
+304. **object** - Module 8꞉ Data Types.md // Count: 1
+305. **object-oriented programming** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+306. **Objects** - Module 1꞉ The Basics.md // Count: 1
+307. **Objects** - Module 8꞉ Data Types.md // Count: 1
+308. **ordinal** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+309. **origin** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+310. **origins** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+311. **package.json** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+312. **parameter** - Module 9꞉ Gettin' Loopy.md // Count: 1
+313. **parameters** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+314. **parameters** - Module 2 Functions.md // Count: 3
+315. **params** - Module 2 Functions.md // Count: 1
+316. **Parcel** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+317. **passing a value** - Module 1꞉ The Basics.md // Count: 1
+318. **pipes** - Module 7 Logic and Flow Control.md // Count: 1
+319. **Please star the beginner-JavaScript github repo to help Wes up!** - Module 1꞉ The Basics.md // Count: 1
+320. **polyfill** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 2
+321. **polyfill** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+322. **power** - Module 1꞉ The Basics.md // Count: 1
+323. **pressure** - Module 5꞉ Events.md // Count: 1
+324. **private variables** - Module 3꞉ The Tricky Bits.md // Count: 2
+325. **promise** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+326. **promise** - Module 12꞉ Advanced Flow Control.md // Count: 1
+327. **promises** - Module 12꞉ Advanced Flow Control.md // Count: 1
+328. **promises** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+329. **promises** - Module 9꞉ Gettin' Loopy.md // Count: 1
+330. **propagation** - Module 5꞉ Events.md // Count: 1
+331. **properties** - Module 8꞉ Data Types.md // Count: 1
+332. **property** - Module 8꞉ Data Types.md // Count: 1
+333. **prototypal inheritance** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+334. **prototypal methods** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+335. **prototype lookup** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+336. **prototype** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 2
+337. **prototype** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+338. **prototypes** - Module 10꞉ Harder Practice Exercises.md // Count: 2
+339. **prototypes** - Module 11꞉ Prototypes, this, new and Inheritance.md // Count: 1
+340. **prototypes** - Module 9꞉ Gettin' Loopy.md // Count: 1
+341. **prototyping** - Module 8꞉ Data Types.md // Count: 1
+342. **proxy** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+343. **pseudocode** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+344. **pure function** - Module 12꞉ Advanced Flow Control.md // Count: 1
+345. **pure functions** - Module 9꞉ Gettin' Loopy.md // Count: 1
+346. **Pure functions** - Module 9꞉ Gettin' Loopy.md // Count: 1
+347. **query parameters** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+348. **query params** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+349. **range** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+350. **read-eval-print loop** - Module 1꞉ The Basics.md // Count: 1
+351. **recursion** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+352. **Recursion** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+353. **recursion** - Module 12꞉ Advanced Flow Control.md // Count: 2
+354. **recursion** - Module 13꞉ Ajax and Fetching Data.md // Count: 1
+355. **reference** - Module 8꞉ Data Types.md // Count: 1
+356. **reflow** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+357. **Regex pattern** - Module 9꞉ Gettin' Loopy.md // Count: 1
+358. **Regex** - Module 15 - Final Round of Exercises.md // Count: 1
+359. **regex** - Module 5꞉ Events.md // Count: 1
+360. **regex** - Module 7 Logic and Flow Control.md // Count: 1
+361. **regular expression** - Module 7 Logic and Flow Control.md // Count: 1
+362. **regular expression** - Module 9꞉ Gettin' Loopy.md // Count: 1
+363. **rejected** - Module 12꞉ Advanced Flow Control.md // Count: 1
+364. **remember not to use an anonymous function.** - Module 5꞉ Events.md // Count: 1
+365. **REPL** - Module 1꞉ The Basics.md // Count: 1
+366. **request animation frame** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+367. **Request animation frame** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+368. **return** - Module 7 Logic and Flow Control.md // Count: 1
+369. **run** - Module 2 Functions.md // Count: 2
+370. **Run** - Module 2 Functions.md // Count: 3
+371. **running** - Module 2 Functions.md // Count: 1
+372. **sanitize** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+373. **SASS** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+374. **SASS** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+375. **scope** - Module 2 Functions.md // Count: 2
+376. **scoped to the function** - Module 2 Functions.md // Count: 1
+377. **scroll event** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+378. **selector** - Module 2 Functions.md // Count: 1
+379. **SEO** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+380. **sequentially** - Module 12꞉ Advanced Flow Control.md // Count: 1
+381. **setters** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+382. **shadow variables** - Module 3꞉ The Tricky Bits.md // Count: 1
+383. **shadowed** - Module 3꞉ The Tricky Bits.md // Count: 1
+384. **shallow** - Module 8꞉ Data Types.md // Count: 1
+385. **short-circuiting** - Module 7 Logic and Flow Control.md // Count: 1
+386. **should not** - Module 14 - ES Modules and Structuring Larger Apps.md // Count: 1
+387. **side effect** - Module 9꞉ Gettin' Loopy.md // Count: 2
+388. **side effects** - Module 9꞉ Gettin' Loopy.md // Count: 1
+389. **single threaded language** - Module 12꞉ Advanced Flow Control.md // Count: 1
+390. **skinny arrow** - Module 2 Functions.md // Count: 1
+391. **snake case** - Module 1꞉ The Basics.md // Count: 1
+392. **spread** - Module 8꞉ Data Types.md // Count: 2
+393. **spreading** - Module 8꞉ Data Types.md // Count: 1
+394. **square bracket notation** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+395. **square bracket notation** - Module 7 Logic and Flow Control.md // Count: 1
+396. **square brackets** - Module 8꞉ Data Types.md // Count: 2
+397. **stack trace** - Module 2 Functions.md // Count: 1
+398. **state** - Module 10꞉ Harder Practice Exercises.md // Count: 3
+399. **statement** - Module 1꞉ The Basics.md // Count: 1
+400. **static method** - Module 8꞉ Data Types.md // Count: 1
+401. **static methods** - Module 8꞉ Data Types.md // Count: 2
+402. **static scoping** - Module 3꞉ The Tricky Bits.md // Count: 1
+403. **Step #2 of the "With VS Code"** - Module 1꞉ The Basics.md // Count: 1
+404. **Strict Mode** - Module 1꞉ The Basics.md // Count: 1
+405. **string literal syntax** - Module 8꞉ Data Types.md // Count: 1
+406. **String** - Module 1꞉ The Basics.md // Count: 1
+407. **subtree modifications** - Module 2 Functions.md // Count: 1
+408. **switch statement** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+409. **switch** - Module 6꞉ Serious Practice Excercises.md // Count: 1
+410. **Symbol** - Module 1꞉ The Basics.md // Count: 1
+411. **Symbols** - Module 1꞉ The Basics.md // Count: 1
+412. **synchronous map** - Module 12꞉ Advanced Flow Control.md // Count: 1
+413. **tagged template literal** - Module 1꞉ The Basics.md // Count: 1
+414. **temporary variable** - Module 2 Functions.md // Count: 1
+415. **ternary** - Module 7 Logic and Flow Control.md // Count: 2
+416. **the DOM** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+417. **the prototype** - Module 10꞉ Harder Practice Exercises.md // Count: 1
+418. **this** - Module 5꞉ Events.md // Count: 1
+419. **timeout** - Module 7 Logic and Flow Control.md // Count: 1
+420. **timeouts** - Module 7 Logic and Flow Control.md // Count: 1
+421. **timestamps** - Module 9꞉ Gettin' Loopy.md // Count: 1
+422. **trailing comma** - Module 8꞉ Data Types.md // Count: 2
+423. **Traversing** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+424. **Triple equals will always check for both value and type.** - Module 1꞉ The Basics.md // Count: 1
+425. **true or false** - Module 7 Logic and Flow Control.md // Count: 1
+426. **truthy and falsy** - Module 7 Logic and Flow Control.md // Count: 1
+427. **truthy** - Module 2 Functions.md // Count: 1
+428. **truthy** - Module 7 Logic and Flow Control.md // Count: 2
+429. **try and catch** - Module 12꞉ Advanced Flow Control.md // Count: 1
+430. **typeof** - Module 1꞉ The Basics.md // Count: 1
+431. **Types** - Module 1꞉ The Basics.md // Count: 1
+432. **unbinding** - Module 5꞉ Events.md // Count: 2
+433. **undefined** - Module 1꞉ The Basics.md // Count: 2
+434. **Undefined** - Module 1꞉ The Basics.md // Count: 1
+435. **undefined** - Module 2 Functions.md // Count: 1
+436. **utility library** - Module 8꞉ Data Types.md // Count: 1
+437. **utility methods** - Module 8꞉ Data Types.md // Count: 1
+438. **value** - Module 2 Functions.md // Count: 1
+439. **value** - Module 8꞉ Data Types.md // Count: 3
+440. **values** - Module 8꞉ Data Types.md // Count: 1
+441. **vanilla javascript** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 1
+442. **variable hoisting** - Module 3꞉ The Tricky Bits.md // Count: 1
+443. **variable interpolation** - Module 1꞉ The Basics.md // Count: 1
+444. **Variables** - Module 1꞉ The Basics.md // Count: 1
+445. **vendor prefix** - Module 15 - Final Round of Exercises.md // Count: 1
+446. **Waait** - Module 12꞉ Advanced Flow Control.md // Count: 1
+447. **With VS Code** - Module 1꞉ The Basics.md // Count: 1
+448. **XML** - Module 13꞉ Ajax and Fetching Data.md // Count: 2
+449. **XSS** - Module 4꞉ The DOM - Working with HTML and CSS (2).md // Count: 2
+450. **You should see it works just fine!** - Module 2 Functions.md // Count: 1
+451. **zero based** - Module 8꞉ Data Types.md // Count: 2
+452. **zero width joiner** - Module 8꞉ Data Types.md // Count: 1
+453. **array literal** - Module 8꞉ Data Types.md // Count: 1

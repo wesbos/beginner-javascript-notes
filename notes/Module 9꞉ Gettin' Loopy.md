@@ -1323,7 +1323,7 @@ Lets try it.
 
 ![](../attachments/682.png) 13:17
 
-Why did that work? This is an example of taking **advantage of conditionals** or **abusing conditionals**. 
+Why did that work? This is an example of **taking advantage of conditionals** or **abusing conditionals**. 
 
 If we were to write that as an if statement, it would look like this 👇
 

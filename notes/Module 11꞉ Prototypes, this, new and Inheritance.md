@@ -974,7 +974,7 @@ Now if you go to `pepperoniPizza` and look for the size, it will tell you "Large
 
 ![](../attachments/953.png) 9:14
 
-However, if tiy were to go into the `Pizza` function and add `this.size = "Medium";`, you will get "Medium". 
+However, if you were to go into the `Pizza` function and add `this.size = "Medium";`, you will get "Medium". 
 
 ![](../attachments/954.png) 9:15
 

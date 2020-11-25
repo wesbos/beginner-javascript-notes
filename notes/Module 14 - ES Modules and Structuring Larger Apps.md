@@ -2279,13 +2279,13 @@ Parcel will also compile all of the CSS for us.
 
 ![](../attachments/1275.png) 12:09
 
-```HTML
+```html
 <script src="jokes.js" type="module"></script>
 ```
 
 Wes has had issues with Parcel in the past where he has had to remove the type of module from his script source tag on the HTML page, even though they are the same thing. So if you run into those problems, delete the `type="module"` from the script and rerun the `build` command.
 
-```HTML
+```html
 <script src="jokes.js"></script>
 ```
 
@@ -2385,7 +2385,7 @@ If you look at the `package.json` file, you will see all our dependencies.
 
 Next make an `index.html` file and add our HTML base.
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 

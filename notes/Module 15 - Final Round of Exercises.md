@@ -709,7 +709,7 @@ If you take a look at our `package.json` file, you will see we have one dev depe
 
 We will be starting with the following HTML.
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 

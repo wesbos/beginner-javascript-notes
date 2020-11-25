@@ -3004,7 +3004,7 @@ Let's start by looking at how you can put a function into a variable, and then l
 
 Create a new file `ways-to-make-a-function.js` in the `/custom-functions` directory.
 
-```HTML
+```html
 <script src="./ways-to-make-a-function.js"></script>
 ```
 
@@ -5790,7 +5790,7 @@ Let's write a bit of CSS so we can visually see what is going on.
 
 In our `index.html` add a style tag somewhere on the page with the following styles 👇
 
-```HTML
+```html
 <style>
 .round {
     border-radius: 50%;
@@ -6790,7 +6790,7 @@ Here is the result when you refresh the index.html page.
 
 Let's add a few more elements inside of the p tag.
 
-```HTML
+```html
 <p class="wes">
   I am Wes, I <em>love</em> to bbq and <strong>Make websites!</strong>
 </p>
@@ -13931,7 +13931,7 @@ Let's do an example to demonstrate displaying the prizes using objects vs maps.
 
 Within the body tag, but before the script tag, add the following code 👇
 
-```HTML
+```html
 <ul class="prizes"></ul>
 ```
 
@@ -27020,7 +27020,7 @@ When people say "AJAX", they mean fetching data from an API and displaying it on
 
 Open up the HTML page we created and give add the base HTML and a script tag within the body tag.
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27150,7 +27150,7 @@ Let's go ahead and display some info about the user.
 
 A paragraph tag to the HTML with a class of "user", and then go ahead and select it in the script tag.
 
-```HTML
+```html
 <body>
   <p class="user"></p>
   <script>
@@ -28214,7 +28214,7 @@ Now you can see the loader, it was always working, it was just white so we could
 
 Add a class of "loader" to the loader on top of the existing `lds-ripple` class.
 
-```HTML
+```html
 <div class="lds-ripple loader">
 ```
 
@@ -28228,7 +28228,7 @@ When we fetch within the `fetchJoke` function, let's turn the loader on. By defa
 
 To do that, create a class of `hidden` and set it to `display:none;` and then add that class to our loader like so: 👇
 
-```HTML
+```html
 <div class="lds-ripple loader hidden">
 ```
 
@@ -31045,13 +31045,13 @@ Parcel will also compile all of the CSS for us.
 
 ![](../attachments/1275.png) 12:09
 
-```HTML
+```html
 <script src="jokes.js" type="module"></script>
 ```
 
 Wes has had issues with Parcel in the past where he has had to remove the type of module from his script source tag on the HTML page, even though they are the same thing. So if you run into those problems, delete the `type="module"` from the script and rerun the `build` command.
 
-```HTML
+```html
 <script src="jokes.js"></script>
 ```
 
@@ -31151,7 +31151,7 @@ If you look at the `package.json` file, you will see all our dependencies.
 
 Next make an `index.html` file and add our HTML base.
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32615,7 +32615,7 @@ If you take a look at our `package.json` file, you will see we have one dev depe
 
 We will be starting with the following HTML.
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 

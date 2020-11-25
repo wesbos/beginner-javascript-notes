@@ -113,7 +113,7 @@ When people say "AJAX", they mean fetching data from an API and displaying it on
 
 Open up the HTML page we created and give add the base HTML and a script tag within the body tag.
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -243,7 +243,7 @@ Let's go ahead and display some info about the user.
 
 A paragraph tag to the HTML with a class of "user", and then go ahead and select it in the script tag.
 
-```HTML
+```html
 <body>
   <p class="user"></p>
   <script>
@@ -1307,7 +1307,7 @@ Now you can see the loader, it was always working, it was just white so we could
 
 Add a class of "loader" to the loader on top of the existing `lds-ripple` class.
 
-```HTML
+```html
 <div class="lds-ripple loader">
 ```
 
@@ -1321,7 +1321,7 @@ When we fetch within the `fetchJoke` function, let's turn the loader on. By defa
 
 To do that, create a class of `hidden` and set it to `display:none;` and then add that class to our loader like so: 👇
 
-```HTML
+```html
 <div class="lds-ripple loader hidden">
 ```
 

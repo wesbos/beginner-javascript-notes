@@ -405,7 +405,7 @@ function calculateBill() {
 }
 ```
 
-What we have done is defined it, given it parenthesis and then you open and close a function block.  
+What we have done is defined it, given it parenthesis and then you open and close a function block.
 Anything that goes inside the function block is called the **function body**, and is part of the function.
 
 In the function body, add 👇
@@ -1035,7 +1035,7 @@ Let's start by looking at how you can put a function into a variable, and then l
 
 Create a new file `ways-to-make-a-function.js` in the `/custom-functions` directory.
 
-```HTML
+```html
 <script src="./ways-to-make-a-function.js"></script>
 ```
 

@@ -313,7 +313,7 @@ Let's go ahead and do that to display the user.
 
 Replace the `endpoint` variable with `baseEndpoint` and make another variable for the `usersEndpoint` like so 👇
 
-```javascript
+```js
 const baseEndpoint = "https://api.github.com";
 const usersEndpoint = `${baseEndpoint}/users`;
 ```
@@ -1733,9 +1733,9 @@ function convert(amount, from, to) {
 }
 ```
 
-### Caching the Rates 
+### Caching the Rates
 
-Here is where that exercise gets a little tricky. 
+Here is where that exercise gets a little tricky.
 
 We could fetch the rates each time, but that could be a bit slow, because every time we type into the `amount` input box, we will call `convert` function.
 
@@ -1759,7 +1759,7 @@ We will store all of the rates within that object/ Every time a currency is sele
 
 If we were to cycle through all the currencies, our `ratesByBase` object would be massive because it will contain all of the rates by their from value. So by default we start with nothing because we have nothing.
 
-### Converting 
+### Converting
 
 Let's go back to our `convert` function.
 
@@ -1834,7 +1834,7 @@ const rate = ratesByBase[from].rates[to];
 
 If we look at our `CAD` property on `ratesByBase`, that is going to be our "from" .
 
-Inside of that, we need to grab the rates and the find the rate that they are converting to. You could do that like so: `ratesByBase.CAD.rates.USD`. 
+Inside of that, we need to grab the rates and the find the rate that they are converting to. You could do that like so: `ratesByBase.CAD.rates.USD`.
 
 But because those property keys are variables within our function, we need to use square brackets to access those object properties.
 
@@ -1867,7 +1867,7 @@ At this point, we have built the main functionality of the app so at this point 
 
 ### Hooking Up The UI
 
-There are three inputs that we need to listen on: 
+There are three inputs that we need to listen on:
 - the amount,
 - 2 currency select inputs
 
@@ -1900,13 +1900,13 @@ function handleInput(e){
 
 If you refresh the page and try typing into the amount input or selecting an item from the drop downs, you will see that `e.target` is changing every time but `e.currentTarget` which is the form stays the same.
 
-That is because we are listening to the event on the form, but the actual event happens on the input or select box. 
+That is because we are listening to the event on the form, but the actual event happens on the input or select box.
 
 Those events bubble up to the form where we handle them in our `handleInputs`.
 
 So remember that trick, you can listen on the "input" event on a form and that will cover all of your inputs that are inside of that form.
 
-#### Wiring up Handlers 
+#### Wiring up Handlers
 
 Let's start wiring up the handler to call our functions.
 
@@ -1933,7 +1933,7 @@ async function handleInput(e){
 
 ![](../attachments/1199.png) 22:44
 
-If you refresh the page and try entering an amount into the "from_amount" input, you should see something like shown above 👆 logged in the console. 
+If you refresh the page and try entering an amount into the "from_amount" input, you should see something like shown above 👆 logged in the console.
 
 Now we need to actually show that amount in the `to_amount` paragraph tag.
 
@@ -1962,13 +1962,13 @@ async function handleInput(e){
 }
 ```
 
-If you refresh the page and test it out, you should see the `to_amount` value updating. 
+If you refresh the page and test it out, you should see the `to_amount` value updating.
 
 Try changing the "to currency" and the "from currency" to ensure the value is still updating.
 
 ![](../attachments/1201.png) 23:56
 
-#### Formatting Currency using Number Format API 
+#### Formatting Currency using Number Format API
 
 The problem we have now is that it is not formatting it accordingly to what the locale is.
 
@@ -1978,11 +1978,11 @@ We will use this really cool API called Number Format, and it knows how to handl
 
 Make a function `formatCurrency` which will take in the amount and the currency and return a formatted number.
 
-We will be using the `Intl.NumberFormat()` method which takes in an argument of the language of the reader `Intl.NumberFormat("en-us")`, or if you leave it blank it will detect the language based no the browser, which is almost always what you want. 
+We will be using the `Intl.NumberFormat()` method which takes in an argument of the language of the reader `Intl.NumberFormat("en-us")`, or if you leave it blank it will detect the language based no the browser, which is almost always what you want.
 
 We will leave it blank.
 
-And as the second argument you pass it an options object. 
+And as the second argument you pass it an options object.
 
 Within that object we will pass a value for the `style` property which will be `'currency'`, since we want to format the amount as a currency, and then we need to pass the currency argument which we can do using the shorthand since both the property and value have identical names.
 

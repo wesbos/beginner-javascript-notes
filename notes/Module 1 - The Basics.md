@@ -451,7 +451,7 @@ Let's start with `var`.
 
 To make a variable you say `var` and then you make a name of the variable. You can use almost anything for a variable name _(we will discuss restrictions shortly)_
 
-```JavaScript
+```js
 var first = "wes";
 ```
 

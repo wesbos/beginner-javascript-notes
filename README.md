@@ -30,6 +30,7 @@ id: 3847
 
 * I'd imagine a folder called `javascript` to hold all these files. Maybe Folders for each module and then multiple files inside it?  Or maybe a folder for each file since there are images? I'm not sure about this, I'd love to hear your thoughts.
 * The images are currently named 122.png etc. They might need to be moved into respective folders. I think it's fine that they are named this for now, but we should maybe think about how to rename them to something meaningful, and add alt tags in the future
+* Slugs for the pages should follow how i have it right now. I can manually set one via the metadata, otherwise generate one based on the title.
 
 One this is all done, I'd like to pull it into my own course platform to help learners.  And of course use this to promote my courses to anyone reading. 
 

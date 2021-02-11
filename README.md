@@ -32,3 +32,8 @@ id: 3847
 * The images are currently named 122.png etc. They might need to be moved into respective folders. I think it's fine that they are named this for now, but we should maybe think about how to rename them to something meaningful, and add alt tags in the future
 
 One this is all done, I'd like to pull it into my own course platform to help learners.  And of course use this to promote my courses to anyone reading. 
+
+## Future Ideas
+Not for now, but maybe one day?
+
+* Make a buzz word page (https://github.com/wesbos/beginner-javascript-notes/blob/master/notes/buzz_words.txt) that shows tooltips on these words?

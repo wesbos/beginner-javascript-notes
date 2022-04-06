@@ -3111,7 +3111,7 @@ Open the dev tools and look at the code in the elements tab. You will see that t
 
 ![](../attachments/1319.png) 12:17
 
-If yu tried to add a style tag, it would still work however.
+If you tried to add a style tag, it would still work however.
 
 Why is that? That is because the style tag, if you look at it in the console is still being embedded.
 
